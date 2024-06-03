@@ -6,9 +6,6 @@ theme: 'hugo-theme-stack'
 
 menus:
   main:
-    - name: "Home"
-      pageRef: "/"
-      weight: 0
     - name: AI 合集
       url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3280266823330201601#wechat_redirect
       weight: 1
