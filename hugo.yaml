@@ -1,7 +1,8 @@
 baseURL: "https://example.org/"
 languageCode: "en-us"
 title: "Dictionary | Learn AI from scratch"
-theme: "dictionary"
+# theme: "dictionary"
+theme: 'hugo-theme-stack'
 
 menus:
   main:
