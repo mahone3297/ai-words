@@ -1,10 +1,35 @@
-baseURL: "https://example.org/"
-languageCode: "en-us"
-title: "Dictionary | Learn AI from scratch"
+baseURL: "https://dict.aihub2022.top"
+# languageCode: 'en-us'
+title: '从零开始学AI | Learn AI from scratch'
+defaultContentLanguage: 'en'
+languages:
+  zh:
+    disabled: false
+    # languageCode: ""
+    # languageDirection: ""
+    languageName: "中文"
+    title: "词典 | 从零开始学AI"
+    weight: 1
+  en:
+    disabled: false
+    # languageCode: ""
+    # languageDirection: ""
+    languageName: "English"
+    title: "Dict | Learn AI from scratch"
+    weight: 2
 # theme: "dictionary"
 theme: 'hugo-theme-stack'
 
 menus:
+  social:
+    # - name: twitter
+    #   url: https://twitter.com/mahone3297/
+    #   params:
+    #       icon: brand-twitter
+    - name: github
+      url: https://github.com/mahone3297/
+      params:
+          icon: brand-github
   main:
     - name: AI 合集
       url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3280266823330201601#wechat_redirect
@@ -21,3 +46,50 @@ menus:
     - name: OpenAI 中文文档
       url: https://openai-doc.aihub2022.top/
       weight: 5
+
+params:
+  newTab: true
+  sidebar:
+      compact: true
+      # emoji: 🍥
+      subtitle: 关注我，和你一起AI
+      avatar:
+          enabled: true
+          local: true
+          src: img/ai.png
+  article:
+    math: false
+    toc: true
+    readingTime: true
+  widgets:
+    homepage:
+      # - type: search
+      # - type: archives
+      #   params:
+      #     limit: 5
+      - type: categories
+        params:
+          limit: 20
+      - type: tag-cloud
+        params:
+          limit: 20
+    page:
+      - type: toc
+
+markup:
+    goldmark:
+        renderer:
+            ## Set to true if you have HTML content inside Markdown
+            unsafe: false
+    tableOfContents:
+        endLevel: 4
+        ordered: true
+        startLevel: 1
+    highlight:
+        noClasses: false
+        codeFences: true
+        guessSyntax: true
+        lineNoStart: 1
+        lineNos: true
+        lineNumbersInTable: true
+        tabWidth: 4
