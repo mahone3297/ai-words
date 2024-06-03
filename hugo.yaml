@@ -1,3 +1,22 @@
 baseURL: "https://example.org/"
 languageCode: "en-us"
-title: "My New Hugo Site"
+title: "Dictionary | Learn AI from scratch"
+theme: "dictionary"
+
+menus:
+  main:
+    - name: "Home"
+      pageRef: "/"
+      weight: 1
+    # - name: "Posts"
+    #   pageRef: "/posts"
+    #   weight: 2
+    # - name: "Categories"
+    #   pageRef: "/categories"
+    #   weight: 3
+    - name: "博客"
+      url: "https://blog.aihub2022.top/"
+      weight: 4
+    - name: "OpenAI 中文文档"
+      url: "https://openai-doc.aihub2022.top/"
+      weight: 5
