@@ -11,9 +11,6 @@ keywords = []
 ## 读音
 /həˈloʊ/
 
-## 词性
-名词，动词，感叹词
-
 ## 释义
 - **名词**: 表示问候或打招呼的用语。例如: "He gave me a cheerful hello."
 - **动词**: 说“你好”或问候。例如: "She helloed everyone she met at the party."
@@ -35,5 +32,3 @@ keywords = []
 - Greetings
 - Howdy
 - Salutations
-
-这些同义词虽然意思相近，但在使用场合和语气上可能有所不同。例如，“hi”更随意，“greetings”更正式。
