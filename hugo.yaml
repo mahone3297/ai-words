@@ -15,7 +15,7 @@ languages:
     # languageCode: ""
     # languageDirection: ""
     languageName: "English"
-    title: "AI Words | Learn AI from scratch"
+    title: "AI words | Learn AI from scratch"
     weight: 2
 # theme: "dictionary"
 theme: 'hugo-theme-stack'
