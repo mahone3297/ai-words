@@ -1,0 +1,31 @@
++++
+title = 'radish'
+draft = false
+categories = ['CET4']
+tags = ['CET4']
+description = '[ˈrædi∫] n.小萝卜'
+keywords = ['ai words', 'radish']
++++
+
+## 读音
+/ræˈdɪʃ/
+
+## 释义
+- **名词**: 一种根茎蔬菜，通常为红色或白色，有辛辣味。例如: "I love adding radishes to my salads for a crunchy texture."
+- **形容词**: 与萝卜相关的或具有萝卜特性的。例如: "The radish soup had a refreshing, peppery taste."
+
+## 短语
+- "Red radish" 指的是红色的萝卜。
+- "Radish greens" 指的是萝卜的叶子，可食用且营养丰富。
+- "Pickled radish" 是腌制过的萝卜，常作为亚洲菜肴的配菜。
+
+## 例句
+- 名词: "We grew a variety of radishes in our garden this year."
+- 形容词: "The radish salad had a nice spicy kick."
+
+## 同义词
+- Turnip
+- Daikon
+- Horseradish
+- Beetroot
+- Carrot (在某些语境下，尤其是指根茎蔬菜时)
