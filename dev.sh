@@ -1,1 +1,1 @@
-hugo server --buildDrafts
+hugo server -c content-dev/
