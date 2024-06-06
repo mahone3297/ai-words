@@ -1,10 +1,10 @@
 +++
-title = 'Hello'
-draft = false
+title = 'hello'
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '/həˈloʊ/ 名词，动词，感叹词。问候语，打招呼用语'
-keywords = []
+description = '[ˈheləu] int.喂'
+keywords = ['ai words', 'hello']
 +++
 
 ## 读音
