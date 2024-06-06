@@ -1,6 +1,6 @@
 +++
 title = 'hello'
-draft = true
+draft = false
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈheləu] int.喂'
