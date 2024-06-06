@@ -27,7 +27,7 @@ menus:
     #   params:
     #       icon: brand-twitter
     - name: github
-      url: https://github.com/mahone3297/
+      url: https://github.com/mahone3297/ai-words/
       params:
           icon: brand-github
   main:
@@ -37,7 +37,7 @@ menus:
     - name: AI coze 合集
       url: https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA3MDIyNTgzNA==&action=getalbum&album_id=3296371887652241411#wechat_redirect
       weight: 2
-    - name: AI 博客
+    - name: AI blog
       url: https://blog.aihub2022.top/
       weight: 3
     - name: AI words
@@ -52,7 +52,7 @@ params:
   sidebar:
       compact: true
       # emoji: 🍥
-      subtitle: 关注我，和你一起AI
+      # subtitle: Learn AI from scratch
       avatar:
           enabled: true
           local: true
@@ -60,7 +60,7 @@ params:
   article:
     math: false
     toc: true
-    readingTime: true
+    readingTime: false
   widgets:
     homepage:
       # - type: search
@@ -84,7 +84,7 @@ markup:
     tableOfContents:
         endLevel: 4
         ordered: true
-        startLevel: 1
+        startLevel: 2
     highlight:
         noClasses: false
         codeFences: true
