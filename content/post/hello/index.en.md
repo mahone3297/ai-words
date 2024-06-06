@@ -1,6 +1,5 @@
 +++
 title = 'Hello'
-date = 2024-06-04T00:01:32+08:00
 draft = false
 categories = ['CET4']
 tags = ['CET4']
