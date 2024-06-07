@@ -8,6 +8,12 @@ description = 'ai words 站旨在用ai技术帮助人们学习单词。'
 keywords = ['AI', 'ai words', 'ai dictionary']
 +++
 
+## 待办
+
+- [ ] 内页链接
+- [ ] 搜索框
+- [ ] 单词发音
+
 ## 历程
 
 - 2024-06-07 单词丰富 CET4，英文版，1k+ words

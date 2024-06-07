@@ -8,6 +8,12 @@ description = 'The aim of AI Words is to help people learn words using AI techno
 keywords = ['AI', 'AI Words', 'AI Dictionary']
 +++
 
+## To-Do
+
+- [ ] Internal page links
+- [ ] Search box
+- [ ] Word pronunciation
+
 ## History
 
 - 2024-06-07 Enriched words for CET4, English version, 1k+ words
