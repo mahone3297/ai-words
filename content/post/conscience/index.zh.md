@@ -1,6 +1,6 @@
 +++
 title = 'conscience'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔn∫əns] n.良心，道德心'

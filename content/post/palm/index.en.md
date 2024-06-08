@@ -1,6 +1,6 @@
 +++
 title = 'palm'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pɑːm] n.手掌，手心；掌状物'

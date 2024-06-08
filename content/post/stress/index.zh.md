@@ -1,6 +1,6 @@
 +++
 title = 'stress'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stres] n.压力；重音 vt.着重'

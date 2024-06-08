@@ -1,6 +1,6 @@
 +++
 title = 'tuck'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tʌk] vt.折短，卷起；塞'

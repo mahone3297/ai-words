@@ -1,6 +1,6 @@
 +++
 title = 'exert'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[igˈzəːt] vt.尽(力)，运用'

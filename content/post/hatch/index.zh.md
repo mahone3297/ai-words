@@ -1,6 +1,6 @@
 +++
 title = 'hatch'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hæt∫] vt.孵出 vi.(蛋)孵化'

@@ -1,6 +1,6 @@
 +++
 title = 'plentiful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈplentiful] a.丰富的，富裕的'

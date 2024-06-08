@@ -1,6 +1,6 @@
 +++
 title = 'interrupt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌintəˈrʌpt] vt.打断，打扰；中止'

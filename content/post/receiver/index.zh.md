@@ -1,6 +1,6 @@
 +++
 title = 'receiver'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈsiːvə] n.收受者，收件人'

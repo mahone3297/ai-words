@@ -1,6 +1,6 @@
 +++
 title = 'radio'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈreidiəu] n.无线电；收音机'

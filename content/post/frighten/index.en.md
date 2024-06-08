@@ -1,6 +1,6 @@
 +++
 title = 'frighten'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfraitn] vt.使惊恐，吓唬'

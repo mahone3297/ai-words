@@ -1,6 +1,6 @@
 +++
 title = 'certain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsəːtən] a.确实的；肯定的'

@@ -1,6 +1,6 @@
 +++
 title = 'emphasis'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈemfəsis] n.强调，重点，重要性'

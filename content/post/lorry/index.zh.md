@@ -1,6 +1,6 @@
 +++
 title = 'lorry'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlɔri] n.运货汽车，卡车'

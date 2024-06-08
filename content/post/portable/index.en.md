@@ -1,6 +1,6 @@
 +++
 title = 'portable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpɔːtəbl] a.轻便的；手提的'

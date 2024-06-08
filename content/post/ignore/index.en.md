@@ -1,6 +1,6 @@
 +++
 title = 'ignore'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[igˈnɔː] vt.不顾，不理，忽视'

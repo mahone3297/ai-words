@@ -1,6 +1,6 @@
 +++
 title = 'previous'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpriːviəs] a.先的；前的 ad.在前'

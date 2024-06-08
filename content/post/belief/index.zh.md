@@ -1,6 +1,6 @@
 +++
 title = 'belief'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biˈliːf] n.信任，相信；信念'

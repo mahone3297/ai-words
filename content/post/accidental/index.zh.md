@@ -1,6 +1,6 @@
 +++
 title = 'accidental'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌæksiˈdentl] a.偶然的；非本质的'

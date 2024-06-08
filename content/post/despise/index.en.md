@@ -1,6 +1,6 @@
 +++
 title = 'despise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈpaiz] vt.鄙视，蔑视'

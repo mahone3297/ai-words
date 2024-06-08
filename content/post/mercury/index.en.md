@@ -1,10 +1,10 @@
 +++
-title = 'mercury'
-draft = false
+title = 'Mercury'
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[ˈməːkjuri] n.水银，汞'
-keywords = ['ai words', 'mercury']
+description = 'n.水星'
+keywords = ['ai words', 'Mercury']
 +++
 
 ## Pronunciation

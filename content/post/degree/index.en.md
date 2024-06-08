@@ -1,6 +1,6 @@
 +++
 title = 'degree'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈgriː] n.程度；度；学位'

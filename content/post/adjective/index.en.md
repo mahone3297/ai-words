@@ -1,6 +1,6 @@
 +++
 title = 'adjective'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈædʒiktiv] n.形容词 a.形容词的'

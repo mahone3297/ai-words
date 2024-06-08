@@ -1,6 +1,6 @@
 +++
 title = 'upright'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈʌpˈrait] a.垂直的；正直的'

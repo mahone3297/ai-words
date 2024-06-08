@@ -1,6 +1,6 @@
 +++
 title = 'trip'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trip] vi.绊；失足 vt .绊倒'

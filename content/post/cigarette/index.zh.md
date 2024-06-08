@@ -1,6 +1,6 @@
 +++
 title = 'cigarette'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sigəˈret] n.香烟，纸烟，卷烟'

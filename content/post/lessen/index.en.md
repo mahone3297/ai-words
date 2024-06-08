@@ -1,6 +1,6 @@
 +++
 title = 'lessen'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlesn] vt.减少，减轻；缩小'

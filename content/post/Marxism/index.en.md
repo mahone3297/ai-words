@@ -1,6 +1,6 @@
 +++
 title = 'Marxism'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmɑːksiz(ə)m] n.马克思主义'

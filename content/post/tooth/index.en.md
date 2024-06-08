@@ -1,6 +1,6 @@
 +++
 title = 'tooth'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tuːθ] n.牙齿'

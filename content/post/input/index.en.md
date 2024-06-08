@@ -1,6 +1,6 @@
 +++
 title = 'input'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinput] n.输入；投入的资金'

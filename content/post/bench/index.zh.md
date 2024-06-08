@@ -1,6 +1,6 @@
 +++
 title = 'bench'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bent∫] n.长凳，条凳；工作台'

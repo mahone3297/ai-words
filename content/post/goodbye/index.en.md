@@ -1,6 +1,6 @@
 +++
 title = 'goodbye'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌgudˈbai] int.再见，再会'

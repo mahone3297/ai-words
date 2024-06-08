@@ -1,9 +1,9 @@
 +++
 title = 'post'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[pəust] n.柱，桩，杆 vt.贴出'
+description = 'n.岗位，哨所；职位'
 keywords = ['ai words', 'post']
 +++
 

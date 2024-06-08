@@ -1,6 +1,6 @@
 +++
 title = 'adequate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈædikwit] a.足够的；可以胜任的'

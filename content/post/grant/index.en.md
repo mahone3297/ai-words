@@ -1,6 +1,6 @@
 +++
 title = 'grant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[grɑːnt] n.授给物 vt.授予'

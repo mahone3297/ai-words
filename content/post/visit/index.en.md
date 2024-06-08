@@ -1,6 +1,6 @@
 +++
 title = 'visit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvizit] vt.&n.访问，参观'

@@ -1,6 +1,6 @@
 +++
 title = 'belong'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biˈlɔŋ] vi.属于，附属'

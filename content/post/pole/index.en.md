@@ -1,9 +1,9 @@
 +++
 title = 'pole'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[pəul] n.杆，柱'
+description = 'n.极(点)，磁极，电极'
 keywords = ['ai words', 'pole']
 +++
 

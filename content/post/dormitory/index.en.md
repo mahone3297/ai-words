@@ -1,6 +1,6 @@
 +++
 title = 'dormitory'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdɔːmitri] n.集体寝室；宿舍'

@@ -1,6 +1,6 @@
 +++
 title = 'whisper'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈ(h)wispə] vt.低声地讲 vi.低语'

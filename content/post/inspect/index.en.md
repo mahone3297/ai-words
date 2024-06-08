@@ -1,6 +1,6 @@
 +++
 title = 'inspect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈspekt] vt.检查，审查；检阅'

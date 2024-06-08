@@ -1,6 +1,6 @@
 +++
 title = 'head'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hed] n.头；上端 vt.率领'

@@ -1,9 +1,9 @@
 +++
 title = 'miss'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[mis] n.小姐'
+description = 'vt.未看到；惦念'
 keywords = ['ai words', 'miss']
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'habit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhæbit] n.习惯；习性'

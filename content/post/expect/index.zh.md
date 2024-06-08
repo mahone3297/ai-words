@@ -1,6 +1,6 @@
 +++
 title = 'expect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈpekt] vt.预料，预期；等待'

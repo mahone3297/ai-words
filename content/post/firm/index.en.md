@@ -1,6 +1,6 @@
 +++
 title = 'firm'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fəːm] n.商行，商号，公司'

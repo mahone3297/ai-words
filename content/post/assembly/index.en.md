@@ -1,6 +1,6 @@
 +++
 title = 'assembly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈsembli] n.集合；集会；装配'

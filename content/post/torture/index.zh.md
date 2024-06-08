@@ -1,6 +1,6 @@
 +++
 title = 'torture'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtɔːt∫ə] n.拷问；折磨 vt.拷打'

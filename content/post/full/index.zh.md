@@ -1,6 +1,6 @@
 +++
 title = 'full'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ful] a.满的；完全的'

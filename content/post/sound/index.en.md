@@ -1,9 +1,9 @@
 +++
 title = 'sound'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[saund] a.健康的；完好的'
+description = 'n.声音 vi.响，发声'
 keywords = ['ai words', 'sound']
 +++
 

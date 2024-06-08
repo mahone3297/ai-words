@@ -1,6 +1,6 @@
 +++
 title = 'classmate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈklɑːsmeit] n.同班同学'

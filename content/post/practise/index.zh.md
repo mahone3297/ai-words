@@ -1,6 +1,6 @@
 +++
 title = 'practise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpræktis] vt.练习，实习，训练'

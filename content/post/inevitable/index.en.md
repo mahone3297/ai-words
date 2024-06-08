@@ -1,6 +1,6 @@
 +++
 title = 'inevitable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈevitəbl] a.不可避免的，必然的'

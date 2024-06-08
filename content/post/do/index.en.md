@@ -1,6 +1,6 @@
 +++
 title = 'do'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[duː] aux.v. vt.做，干，办'

@@ -1,6 +1,6 @@
 +++
 title = 'instruct['
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = 'inˈstrʌkt] vt.教；指示；通知'

@@ -1,6 +1,6 @@
 +++
 title = 'escape'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[isˈkeip] vi.逃跑；逸出 n.逃跑'

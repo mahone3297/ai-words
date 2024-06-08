@@ -1,6 +1,6 @@
 +++
 title = 'actor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæktə] n.男演员；演剧的人'

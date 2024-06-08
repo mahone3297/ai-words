@@ -1,6 +1,6 @@
 +++
 title = 'thief'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θiːf] n.窃贼，偷窃犯'

@@ -1,6 +1,6 @@
 +++
 title = 'live'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[liv] vi.居住；活 a.活的'

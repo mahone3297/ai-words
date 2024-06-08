@@ -1,6 +1,6 @@
 +++
 title = 'telephone'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtelifəun] n.电话 vi.打电话'

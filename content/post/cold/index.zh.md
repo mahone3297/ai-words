@@ -1,6 +1,6 @@
 +++
 title = 'cold'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəuld] a.冷的；冷淡的 n.冷'

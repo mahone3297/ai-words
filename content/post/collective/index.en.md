@@ -1,6 +1,6 @@
 +++
 title = 'collective'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈlektiv] a.集体的；集合性的'

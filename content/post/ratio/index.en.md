@@ -1,6 +1,6 @@
 +++
 title = 'ratio'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrei∫iəu] n.比，比率'

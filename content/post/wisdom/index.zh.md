@@ -1,6 +1,6 @@
 +++
 title = 'wisdom'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwizdəm] n.智慧，才智；名言'

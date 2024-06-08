@@ -1,6 +1,6 @@
 +++
 title = 'device'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈvais] n.器械，装置；设计'

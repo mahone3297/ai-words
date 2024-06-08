@@ -1,6 +1,6 @@
 +++
 title = 'exclusively'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ikˈskluːsivli] ad.专门地'

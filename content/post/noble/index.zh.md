@@ -1,6 +1,6 @@
 +++
 title = 'noble'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnəub(ə)l] a.贵族的；高尚的'

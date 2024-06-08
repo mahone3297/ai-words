@@ -1,6 +1,6 @@
 +++
 title = 'emergency'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈməːdʒnsi] n.紧急情况，突然事件'

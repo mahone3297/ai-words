@@ -1,6 +1,6 @@
 +++
 title = 'powder'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpaudə] n.粉末；药粉；火药'

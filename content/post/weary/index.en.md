@@ -1,6 +1,6 @@
 +++
 title = 'weary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwiəri] a.疲倦的 vt.使疲乏'

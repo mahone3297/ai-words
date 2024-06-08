@@ -1,6 +1,6 @@
 +++
 title = 'rather'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrɑːðə] ad.宁可，宁愿；相当'

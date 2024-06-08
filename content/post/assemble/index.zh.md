@@ -1,6 +1,6 @@
 +++
 title = 'assemble'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈsembl] vt.集合，召集；装配'

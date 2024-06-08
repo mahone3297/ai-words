@@ -1,6 +1,6 @@
 +++
 title = 'scar'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skɑː] n.伤疤，伤痕；创伤'

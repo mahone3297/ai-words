@@ -1,6 +1,6 @@
 +++
 title = 'entire'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈtaiə] a.全部的，整个的'

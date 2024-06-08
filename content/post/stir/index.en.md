@@ -1,6 +1,6 @@
 +++
 title = 'stir'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stəː] vt.动；拨动；激动'

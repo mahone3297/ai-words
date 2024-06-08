@@ -1,6 +1,6 @@
 +++
 title = 'joint'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʒɔint] n.接头，接缝；关节'

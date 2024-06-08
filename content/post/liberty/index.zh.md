@@ -1,6 +1,6 @@
 +++
 title = 'liberty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlibəti] n.自由；释放；许可'

@@ -1,6 +1,6 @@
 +++
 title = 'human'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhjuːmən] a.人的，人类的 n.人'

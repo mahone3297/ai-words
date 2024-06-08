@@ -1,6 +1,6 @@
 +++
 title = 'right'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rait] a.正确的 ad.对，正好'

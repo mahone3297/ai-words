@@ -1,6 +1,6 @@
 +++
 title = 'colonel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkəːnl] n.陆军上校；中校'

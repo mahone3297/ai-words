@@ -1,6 +1,6 @@
 +++
 title = 'confidence'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔnfidəns] n.信任；信赖；信心'

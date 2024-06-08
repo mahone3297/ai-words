@@ -1,6 +1,6 @@
 +++
 title = 'ruin'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈruːin] n.毁灭；废墟 vt.毁坏'

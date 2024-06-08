@@ -1,6 +1,6 @@
 +++
 title = 'elevator'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈeliveitə] n.电梯；升降机'

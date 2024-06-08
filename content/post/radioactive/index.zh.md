@@ -1,6 +1,6 @@
 +++
 title = 'radioactive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈreidiəuˈæktiv] a.放射性的'

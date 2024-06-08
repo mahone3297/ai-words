@@ -1,6 +1,6 @@
 +++
 title = 'keyboard'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkiːbɔːd] n.键盘'

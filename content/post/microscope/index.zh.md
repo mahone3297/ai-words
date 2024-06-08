@@ -1,6 +1,6 @@
 +++
 title = 'microscope'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmaikrəskəup] n.显微镜'

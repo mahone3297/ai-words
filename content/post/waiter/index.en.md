@@ -1,6 +1,6 @@
 +++
 title = 'waiter'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈweitə] n.侍者，服务员'

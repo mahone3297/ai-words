@@ -1,6 +1,6 @@
 +++
 title = 'sly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[slai] a.狡猾的；躲躲闪闪的'

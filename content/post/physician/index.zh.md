@@ -1,6 +1,6 @@
 +++
 title = 'physician'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fiˈzi∫ən] n.医生，内科医生'

@@ -1,6 +1,6 @@
 +++
 title = 'overseas'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈəuvəˈsiːz] ad.海外 a.在海外的'

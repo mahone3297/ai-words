@@ -1,6 +1,6 @@
 +++
 title = 'materialism'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[məˈtiəriəlizəm] n.唯物主义'

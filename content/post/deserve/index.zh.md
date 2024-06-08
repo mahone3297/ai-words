@@ -1,6 +1,6 @@
 +++
 title = 'deserve'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈzəːv] vt.应受，值得'

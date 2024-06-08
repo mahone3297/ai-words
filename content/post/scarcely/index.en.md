@@ -1,6 +1,6 @@
 +++
 title = 'scarcely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈskeəsli] ad.仅仅；几乎不'

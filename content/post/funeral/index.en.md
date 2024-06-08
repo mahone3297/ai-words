@@ -1,6 +1,6 @@
 +++
 title = 'funeral'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfjuːnərəl] n.葬礼，丧礼，丧葬'

@@ -1,6 +1,6 @@
 +++
 title = 'slipper'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈslipə] n.拖鞋，便鞋'

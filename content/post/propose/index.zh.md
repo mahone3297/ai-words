@@ -1,6 +1,6 @@
 +++
 title = 'propose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈpəuz] vt.提议 vi.求婚'

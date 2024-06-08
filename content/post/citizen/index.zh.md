@@ -1,6 +1,6 @@
 +++
 title = 'citizen'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsitizn] n.公民；市民，居民'

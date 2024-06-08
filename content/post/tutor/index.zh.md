@@ -1,6 +1,6 @@
 +++
 title = 'tutor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtjuːtə] n.家庭教师；导师'

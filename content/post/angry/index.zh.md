@@ -1,6 +1,6 @@
 +++
 title = 'angry'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæŋgri] a.愤怒的，生气的'

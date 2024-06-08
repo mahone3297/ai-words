@@ -1,6 +1,6 @@
 +++
 title = 'oak'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əuk] n.栎属植物；栎木'

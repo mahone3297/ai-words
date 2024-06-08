@@ -1,6 +1,6 @@
 +++
 title = 'pay'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pei] vt.支付；付给；给予'

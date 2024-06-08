@@ -1,6 +1,6 @@
 +++
 title = 'soak'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səuk] vt.浸，泡 vi.浸泡'

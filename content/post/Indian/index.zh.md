@@ -1,6 +1,6 @@
 +++
 title = 'Indian'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈindjən] a.印度的 n.印度人'

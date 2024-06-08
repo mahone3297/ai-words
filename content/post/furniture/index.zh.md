@@ -1,6 +1,6 @@
 +++
 title = 'furniture'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfəːnit∫ə] n.家具；装置，设备'

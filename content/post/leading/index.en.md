@@ -1,6 +1,6 @@
 +++
 title = 'leading'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈliːdiŋ] a.指导的；最主要的'

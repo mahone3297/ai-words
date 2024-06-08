@@ -1,6 +1,6 @@
 +++
 title = 'fare'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[feə] n.车费，船费，票价'

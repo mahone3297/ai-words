@@ -1,6 +1,6 @@
 +++
 title = 'analysis'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈnælisis] n.分析，分解，解析'

@@ -1,6 +1,6 @@
 +++
 title = 'draw'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[drɔː] vt.画，划；拖；拨出'

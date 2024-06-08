@@ -1,6 +1,6 @@
 +++
 title = 'gallery'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgæləri] n.长廊，游廊；画廊'

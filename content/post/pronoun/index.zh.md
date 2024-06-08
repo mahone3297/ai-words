@@ -1,6 +1,6 @@
 +++
 title = 'pronoun'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprəunaun] n.代名词'

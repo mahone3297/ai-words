@@ -1,6 +1,6 @@
 +++
 title = 'friendly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfrendli] a.友好的，友谊的'

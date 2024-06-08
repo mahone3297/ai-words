@@ -1,6 +1,6 @@
 +++
 title = 'gain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gein] vt.获得；增加 n.增进'

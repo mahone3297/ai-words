@@ -1,6 +1,6 @@
 +++
 title = 'black'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[blæk] a.黑色的；黑暗的'

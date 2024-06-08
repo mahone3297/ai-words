@@ -1,6 +1,6 @@
 +++
 title = 'one'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wʌn] num.一 pron.一个人'

@@ -1,6 +1,6 @@
 +++
 title = 'survey'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səːˈvei] vt.俯瞰；检查；测量'

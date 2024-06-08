@@ -1,6 +1,6 @@
 +++
 title = 'turkey'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtəːki] n.火鸡；火鸡肉'

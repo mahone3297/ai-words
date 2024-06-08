@@ -1,6 +1,6 @@
 +++
 title = 'reflect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈflekt] vt.反射；反映；思考'

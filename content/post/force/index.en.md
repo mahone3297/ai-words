@@ -1,6 +1,6 @@
 +++
 title = 'force'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fɔːs] vt.强迫 n.力，力量'

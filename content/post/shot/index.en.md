@@ -1,6 +1,6 @@
 +++
 title = 'shot'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫ɔt] n.发射；弹丸；射门'

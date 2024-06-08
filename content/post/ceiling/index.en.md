@@ -1,6 +1,6 @@
 +++
 title = 'ceiling'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsiːliŋ] n.天花板，顶蓬'

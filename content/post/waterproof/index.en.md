@@ -1,6 +1,6 @@
 +++
 title = 'waterproof'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwɔːtəpruːf] a.不透水/防水的'

@@ -1,6 +1,6 @@
 +++
 title = 'kick'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kik] vi.&vt.&n.踢'

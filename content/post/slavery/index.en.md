@@ -1,6 +1,6 @@
 +++
 title = 'slavery'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsleivəri] n.奴隶制度；苦役'

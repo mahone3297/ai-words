@@ -1,6 +1,6 @@
 +++
 title = 'repeat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈpiːt] vt.重说，重做 n.重复'

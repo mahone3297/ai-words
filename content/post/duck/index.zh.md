@@ -1,6 +1,6 @@
 +++
 title = 'duck'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʌk] n.鸭，雌鸭；鸭肉'

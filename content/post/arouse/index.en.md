@@ -1,6 +1,6 @@
 +++
 title = 'arouse'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈrauz] vt.引起，唤起；唤醒'

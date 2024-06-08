@@ -1,6 +1,6 @@
 +++
 title = 'humorous'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhjuːmərəs] a.富于幽默的，诙谐的'

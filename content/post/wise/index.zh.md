@@ -1,6 +1,6 @@
 +++
 title = 'wise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[waiz] a.有智慧的，聪明的'

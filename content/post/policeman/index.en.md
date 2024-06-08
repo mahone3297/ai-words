@@ -1,6 +1,6 @@
 +++
 title = 'policeman'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈliːsmən] n.警察'

@@ -1,6 +1,6 @@
 +++
 title = 'mind'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[maind] n.头脑；理智；记忆'

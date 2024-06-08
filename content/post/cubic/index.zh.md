@@ -1,6 +1,6 @@
 +++
 title = 'cubic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkjuːbik] a.立方形的；立方的'

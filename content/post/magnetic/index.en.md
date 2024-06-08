@@ -1,6 +1,6 @@
 +++
 title = 'magnetic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mægˈnetik] a.磁的，有吸引力的'

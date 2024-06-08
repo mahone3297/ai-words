@@ -1,6 +1,6 @@
 +++
 title = 'invent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈvent] vt.发明，创造；捏造'

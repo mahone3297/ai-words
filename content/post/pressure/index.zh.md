@@ -1,6 +1,6 @@
 +++
 title = 'pressure'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpre∫ə(r)] n.压力；压力；压，按'

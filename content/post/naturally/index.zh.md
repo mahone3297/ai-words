@@ -1,6 +1,6 @@
 +++
 title = 'naturally'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnæt∫ərəli] ad.自然地；天然地'

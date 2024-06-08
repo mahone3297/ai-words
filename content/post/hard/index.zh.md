@@ -1,6 +1,6 @@
 +++
 title = 'hard'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hɑːd] a.硬的；困难的'

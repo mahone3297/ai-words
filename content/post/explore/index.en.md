@@ -1,6 +1,6 @@
 +++
 title = 'explore'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈplɔː] vt.&vi.探险，探索'

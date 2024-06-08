@@ -1,6 +1,6 @@
 +++
 title = 'variety'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[vəˈraiəti] n.多样化；种类；变种'

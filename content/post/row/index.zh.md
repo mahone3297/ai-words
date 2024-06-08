@@ -1,9 +1,9 @@
 +++
 title = 'row'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[rau] n.(一)排，(一)行'
+description = 'vt.划(船等) vi.划船'
 keywords = ['ai words', 'row']
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'rude'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ruːd] a.加工粗糙的；粗野的'

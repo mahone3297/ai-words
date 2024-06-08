@@ -1,6 +1,6 @@
 +++
 title = 'they'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ðei] pron.(主格)他(她)们'

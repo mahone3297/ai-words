@@ -1,6 +1,6 @@
 +++
 title = 'tie'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tai] n.领带；联系 vt.系'

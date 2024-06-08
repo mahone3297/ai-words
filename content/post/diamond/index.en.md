@@ -1,6 +1,6 @@
 +++
 title = 'diamond'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdaiəmənd] n.金钢石，钻石；菱形'

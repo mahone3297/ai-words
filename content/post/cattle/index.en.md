@@ -1,6 +1,6 @@
 +++
 title = 'cattle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkætl] n.牛；牲口，家畜'

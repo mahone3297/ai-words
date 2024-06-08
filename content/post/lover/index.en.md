@@ -1,6 +1,6 @@
 +++
 title = 'lover'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlʌvə] n.爱好者；情人；情侣'

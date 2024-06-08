@@ -1,6 +1,6 @@
 +++
 title = 'tour'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tuə] n.&vi.旅行，游历'

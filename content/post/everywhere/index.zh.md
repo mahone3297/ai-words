@@ -1,6 +1,6 @@
 +++
 title = 'everywhere'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈevriweə(r)] ad.到处，处处'

@@ -1,6 +1,6 @@
 +++
 title = 'motive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈməutiv] n.动机，目的'

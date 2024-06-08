@@ -1,6 +1,6 @@
 +++
 title = 'mess'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mes] n.混乱，混杂，肮脏'

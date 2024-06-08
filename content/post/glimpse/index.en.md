@@ -1,6 +1,6 @@
 +++
 title = 'glimpse'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[glimps] vt.瞥见 n.一瞥，一看'

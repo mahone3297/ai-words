@@ -1,6 +1,6 @@
 +++
 title = 'open'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈəupən] a.开的；开放的 vt.开'

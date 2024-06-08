@@ -1,6 +1,6 @@
 +++
 title = 'ship'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫ip] n.(大)船，海船，舰'

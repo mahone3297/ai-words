@@ -1,6 +1,6 @@
 +++
 title = 'outward'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈautwəd] a.外面的；向外的'

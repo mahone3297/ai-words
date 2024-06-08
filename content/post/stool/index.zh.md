@@ -1,6 +1,6 @@
 +++
 title = 'stool'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stuːl] n.凳子'

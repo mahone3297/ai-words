@@ -1,6 +1,6 @@
 +++
 title = 'clever'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈklevə] a.聪明的；机敏的'

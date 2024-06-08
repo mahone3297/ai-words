@@ -1,6 +1,6 @@
 +++
 title = 'sympathy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsimpəθi] n.同情；一致，同感'

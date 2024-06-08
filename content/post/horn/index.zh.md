@@ -1,6 +1,6 @@
 +++
 title = 'horn'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hɔːn] n.号角；警报器；角'

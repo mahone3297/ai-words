@@ -1,6 +1,6 @@
 +++
 title = 'ready'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈredi] a.准备好的；愿意的'

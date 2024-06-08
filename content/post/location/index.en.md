@@ -1,6 +1,6 @@
 +++
 title = 'location'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ləuˈkei∫ən] n.位置，场所'

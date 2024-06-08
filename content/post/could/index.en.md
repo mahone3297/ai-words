@@ -1,6 +1,6 @@
 +++
 title = 'could'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kud] aux.v.(can 的过去式)'

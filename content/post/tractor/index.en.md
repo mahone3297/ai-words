@@ -1,6 +1,6 @@
 +++
 title = 'tractor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtræktə] n.拖拉机；牵引车'

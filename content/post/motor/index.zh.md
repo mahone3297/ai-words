@@ -1,6 +1,6 @@
 +++
 title = 'motor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈməutə] n.发动机；机动车'

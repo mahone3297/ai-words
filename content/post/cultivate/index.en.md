@@ -1,6 +1,6 @@
 +++
 title = 'cultivate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkʌltiveit] vt.耕；种植；培养'

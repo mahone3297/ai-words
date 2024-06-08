@@ -1,6 +1,6 @@
 +++
 title = 'avoid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈvɔid] vt.避免，躲开；撤消'

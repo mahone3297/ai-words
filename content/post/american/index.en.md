@@ -1,6 +1,6 @@
 +++
 title = 'american'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈmerikən] a.美洲的 n.美国人'

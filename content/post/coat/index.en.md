@@ -1,6 +1,6 @@
 +++
 title = 'coat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəut] n.外套，上衣；表皮'

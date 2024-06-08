@@ -1,6 +1,6 @@
 +++
 title = 'magnet'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmægnit] n.磁铁，磁石，磁体'

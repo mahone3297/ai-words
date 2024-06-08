@@ -1,6 +1,6 @@
 +++
 title = 'nut'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nʌt] n.坚果，干果；螺母'

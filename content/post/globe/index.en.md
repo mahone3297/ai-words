@@ -1,6 +1,6 @@
 +++
 title = 'globe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gləub] n.地球，世界；地界仪'

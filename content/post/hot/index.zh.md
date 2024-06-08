@@ -1,6 +1,6 @@
 +++
 title = 'hot'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hɔt] a.热的；刺激的；辣的'

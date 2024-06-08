@@ -1,6 +1,6 @@
 +++
 title = 'apparatus'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌæpəˈreitəs] n.器械，仪器；器官'

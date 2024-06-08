@@ -1,6 +1,6 @@
 +++
 title = 'drive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[draiv] vt.驾驶；打入；驱'

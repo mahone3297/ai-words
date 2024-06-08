@@ -1,6 +1,6 @@
 +++
 title = 'substantial'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səbˈstæn∫əl] a.物质的；坚固的'

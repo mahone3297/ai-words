@@ -1,6 +1,6 @@
 +++
 title = 'accustomed'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈkʌstəmd] a.惯常的；习惯的'

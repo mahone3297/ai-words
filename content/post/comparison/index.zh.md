@@ -1,6 +1,6 @@
 +++
 title = 'comparison'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəmˈpærisn] n.比较，对照；比似'

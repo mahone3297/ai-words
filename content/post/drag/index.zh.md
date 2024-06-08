@@ -1,6 +1,6 @@
 +++
 title = 'drag'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dræg] vt.拖，拉；拖曳'

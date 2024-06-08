@@ -1,6 +1,6 @@
 +++
 title = 'rare'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[reə] a.稀薄的；稀有的'

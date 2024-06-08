@@ -1,6 +1,6 @@
 +++
 title = 'curious'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkjuəriəs] a.好奇的；稀奇古怪的'

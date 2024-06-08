@@ -1,6 +1,6 @@
 +++
 title = 'bring'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[briŋ] vt.带来；引出；促使'

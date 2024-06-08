@@ -1,6 +1,6 @@
 +++
 title = 'tribe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[traib] n.部落，宗族'

@@ -1,6 +1,6 @@
 +++
 title = 'recognize'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrekəgnaiz] vt.认识，认出；承认'

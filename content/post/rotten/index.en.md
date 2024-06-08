@@ -1,6 +1,6 @@
 +++
 title = 'rotten'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrɔtn] a.腐烂的，发臭的'

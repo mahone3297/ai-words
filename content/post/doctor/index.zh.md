@@ -1,6 +1,6 @@
 +++
 title = 'doctor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdɔktə] n.医生，医师；博士'

@@ -1,6 +1,6 @@
 +++
 title = 'scholar'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈskɔlə] n.学者(尤指文学方面)'

@@ -1,6 +1,6 @@
 +++
 title = 'vacation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[veiˈkei∫ən] n.假期，休假'

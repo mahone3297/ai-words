@@ -1,6 +1,6 @@
 +++
 title = 'next'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nekst] a.紧接的；贴近的'

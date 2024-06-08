@@ -1,6 +1,6 @@
 +++
 title = 'sensible'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsensəbl] a.感觉得到的；明智的'

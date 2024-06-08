@@ -1,6 +1,6 @@
 +++
 title = 'indicate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈindikeit] vt.标示，表示；表明'

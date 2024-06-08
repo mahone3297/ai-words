@@ -1,6 +1,6 @@
 +++
 title = 'standard'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstændəd] n.标准 a.标准的'

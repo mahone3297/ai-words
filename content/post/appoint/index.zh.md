@@ -1,6 +1,6 @@
 +++
 title = 'appoint'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈpɔint] vt.任命，委任；约定'

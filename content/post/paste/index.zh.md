@@ -1,6 +1,6 @@
 +++
 title = 'paste'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[peist] n.糊，酱；浆湖'

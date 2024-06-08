@@ -1,6 +1,6 @@
 +++
 title = 'aid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[eid] n.帮助，救护；助手'

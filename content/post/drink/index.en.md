@@ -1,6 +1,6 @@
 +++
 title = 'drink'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[driŋk] vt.饮 vi.喝 n.饮料'

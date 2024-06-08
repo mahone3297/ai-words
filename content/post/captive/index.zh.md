@@ -1,6 +1,6 @@
 +++
 title = 'captive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkæptiv] n.俘虏，被监禁的人'

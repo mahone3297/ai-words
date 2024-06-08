@@ -1,6 +1,6 @@
 +++
 title = 'artistic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɑːˈtistik] a.艺术的；艺术家的'

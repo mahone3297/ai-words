@@ -1,6 +1,6 @@
 +++
 title = 'promising'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprɔmisiŋ] a.有希望的；有前途的'

@@ -1,6 +1,6 @@
 +++
 title = 'guest'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gest] n.客人，宾客；旅客'

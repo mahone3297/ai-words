@@ -1,6 +1,6 @@
 +++
 title = 'weaken'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwiːkən] vt.削弱 vi.变弱'

@@ -1,6 +1,6 @@
 +++
 title = 'worker'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwəːkə] n.工人；工作者，人员'

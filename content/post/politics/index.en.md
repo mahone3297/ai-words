@@ -1,6 +1,6 @@
 +++
 title = 'politics'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpɔlitiks] n.政治，政治学；政纲'

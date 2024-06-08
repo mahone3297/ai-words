@@ -1,6 +1,6 @@
 +++
 title = 'mad'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mæd] a.发疯的；恼火的'

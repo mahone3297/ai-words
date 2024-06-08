@@ -1,6 +1,6 @@
 +++
 title = 'serious'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsiəriəs] a.严肃的；认真的'

@@ -1,6 +1,6 @@
 +++
 title = 'superior'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sjuːˈpiəriə] a.较高的；优越的'

@@ -1,6 +1,6 @@
 +++
 title = 'equation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈkwei∫ən] n.方程(式)；等式'

@@ -1,6 +1,6 @@
 +++
 title = 'appointment'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈpɔintmənt] n.任命;约定,约会'

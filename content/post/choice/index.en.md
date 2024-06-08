@@ -1,6 +1,6 @@
 +++
 title = 'choice'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫ɔis] n.选择，抉择'

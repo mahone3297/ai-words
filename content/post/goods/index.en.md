@@ -1,6 +1,6 @@
 +++
 title = 'goods'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gudz] n.货物，商品'

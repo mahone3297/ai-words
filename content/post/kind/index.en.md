@@ -1,9 +1,9 @@
 +++
 title = 'kind'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[kaind] n.种类'
+description = '[kaind] a.友好的；和蔼的'
 keywords = ['ai words', 'kind']
 +++
 

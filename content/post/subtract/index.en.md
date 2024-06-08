@@ -1,6 +1,6 @@
 +++
 title = 'subtract'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səbˈtrækt] vt.减，减去，去掉'

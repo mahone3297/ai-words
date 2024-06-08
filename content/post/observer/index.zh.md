@@ -1,6 +1,6 @@
 +++
 title = 'observer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əbˈzəːvə] n.观察员，观测者'

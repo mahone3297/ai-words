@@ -1,6 +1,6 @@
 +++
 title = 'record'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrekərd] n.记录；履历 vt.记录'

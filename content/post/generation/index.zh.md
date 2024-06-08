@@ -1,6 +1,6 @@
 +++
 title = 'generation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌdʒenəˈrei∫ən] n.一代(人)；产生'

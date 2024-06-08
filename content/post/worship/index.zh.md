@@ -1,6 +1,6 @@
 +++
 title = 'worship'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwəː∫ip] n.礼拜；崇拜 vt.崇拜'

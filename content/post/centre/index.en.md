@@ -1,6 +1,6 @@
 +++
 title = 'centre'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsentə] n.中心；中枢 vt.集中'

@@ -1,6 +1,6 @@
 +++
 title = 'occurrence'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈkʌrəns] n.发生，出现；事件'

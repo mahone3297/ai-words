@@ -1,6 +1,6 @@
 +++
 title = 'group'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gruːp] n.小组，群 vi.聚集'

@@ -1,6 +1,6 @@
 +++
 title = 'hour'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈauə] n.小时；时间，时刻'

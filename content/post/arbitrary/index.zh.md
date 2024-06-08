@@ -1,6 +1,6 @@
 +++
 title = 'arbitrary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɑːbitrəri] a.随心所欲的；专断的'

@@ -1,6 +1,6 @@
 +++
 title = 'receive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈsiːv] vt.收到；得到；接待'

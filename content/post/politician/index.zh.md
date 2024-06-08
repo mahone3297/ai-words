@@ -1,6 +1,6 @@
 +++
 title = 'politician'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pɔliˈti∫ən] n.政治家；政客'

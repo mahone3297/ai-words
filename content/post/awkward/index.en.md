@@ -1,6 +1,6 @@
 +++
 title = 'awkward'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔːkwəd] a.笨拙的；尴尬的'

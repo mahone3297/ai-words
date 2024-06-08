@@ -1,6 +1,6 @@
 +++
 title = 'take'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[teik] vt.拿；抓；拿走；吃'

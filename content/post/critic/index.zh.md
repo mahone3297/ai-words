@@ -1,6 +1,6 @@
 +++
 title = 'critic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkritik] n.批评家，爱挑剔的人'

@@ -1,6 +1,6 @@
 +++
 title = 'air'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[eə] n.空气；空中；外观'

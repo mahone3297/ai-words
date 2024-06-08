@@ -1,6 +1,6 @@
 +++
 title = 'cause'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɔːz] n.原因，理由；事业'

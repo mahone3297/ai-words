@@ -1,6 +1,6 @@
 +++
 title = 'screen'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skriːn] n.屏；屏幕 vt.掩蔽'

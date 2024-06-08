@@ -1,6 +1,6 @@
 +++
 title = 'electrical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈlektrik(ə)l] a.电的，电气科学的'

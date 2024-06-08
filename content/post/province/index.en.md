@@ -1,6 +1,6 @@
 +++
 title = 'province'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprɔvins] n.省；领域，部门'

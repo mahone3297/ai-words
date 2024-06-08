@@ -1,6 +1,6 @@
 +++
 title = 'university'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌjuːniˈvəːsiti] n.大学，综合性大学'

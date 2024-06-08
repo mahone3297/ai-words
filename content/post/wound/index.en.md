@@ -1,6 +1,6 @@
 +++
 title = 'wound'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wuːnd] n.创伤，伤 vt.使受伤'

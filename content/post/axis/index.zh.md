@@ -1,6 +1,6 @@
 +++
 title = 'axis'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæksis] n.轴，轴线；中心线'

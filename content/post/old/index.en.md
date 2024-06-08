@@ -1,6 +1,6 @@
 +++
 title = 'old'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əuld] a.老的；…岁的'

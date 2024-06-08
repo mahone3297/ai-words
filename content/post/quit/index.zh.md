@@ -1,6 +1,6 @@
 +++
 title = 'quit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kwit] vt.离开，退出；停止'

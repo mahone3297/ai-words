@@ -1,6 +1,6 @@
 +++
 title = 'ninth'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nainθ] num.第九；九分之一'

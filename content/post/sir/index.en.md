@@ -1,6 +1,6 @@
 +++
 title = 'sir'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səː(r)] n.先生，阁下；…爵士'

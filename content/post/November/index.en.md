@@ -1,6 +1,6 @@
 +++
 title = 'November'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nəuˈvembə] n.十一月'

@@ -1,6 +1,6 @@
 +++
 title = 'drought'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[draut] n.旱灾，干旱'

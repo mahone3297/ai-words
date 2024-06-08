@@ -1,6 +1,6 @@
 +++
 title = 'power'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpauə] n.能力；力；权；幂'

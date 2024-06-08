@@ -1,6 +1,6 @@
 +++
 title = 'small'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[smɔːl] a.小的，少的；小型的'

@@ -1,6 +1,6 @@
 +++
 title = 'approximately'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əprɔksiˈmətli] ad.近似地，大约'

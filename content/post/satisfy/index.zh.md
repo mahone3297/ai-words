@@ -1,6 +1,6 @@
 +++
 title = 'satisfy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsætisfai] vt.满足；使满意'

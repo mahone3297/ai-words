@@ -1,6 +1,6 @@
 +++
 title = 'struggle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstrʌgl] n.&vi.斗争，奋斗'

@@ -1,6 +1,6 @@
 +++
 title = 'clothes'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kləuðz] n.衣服，服装；被褥'

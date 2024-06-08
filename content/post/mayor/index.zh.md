@@ -1,6 +1,6 @@
 +++
 title = 'mayor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[meə] n.市长'

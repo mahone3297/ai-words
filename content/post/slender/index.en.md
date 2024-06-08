@@ -1,6 +1,6 @@
 +++
 title = 'slender'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈslendə] a.细长的；微薄的'

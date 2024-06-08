@@ -1,6 +1,6 @@
 +++
 title = 'dictate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dikˈteit] vt.&vi.口授；命令'

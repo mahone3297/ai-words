@@ -1,6 +1,6 @@
 +++
 title = 'tyre'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtaiə] n.轮胎，车胎'

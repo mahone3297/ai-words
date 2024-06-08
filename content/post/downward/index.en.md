@@ -1,6 +1,6 @@
 +++
 title = 'downward'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdaunwəd] a.向下的 ad.向下地'

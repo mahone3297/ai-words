@@ -1,6 +1,6 @@
 +++
 title = 'base'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[beis] n.基础，底层；基地'

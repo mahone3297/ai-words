@@ -1,6 +1,6 @@
 +++
 title = 'available'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈveiləbl] a.可利用的；通用的'

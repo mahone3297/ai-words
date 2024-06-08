@@ -1,6 +1,6 @@
 +++
 title = 'refusal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈfjuːzəl] n.拒绝'

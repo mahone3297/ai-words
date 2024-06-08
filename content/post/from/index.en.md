@@ -1,6 +1,6 @@
 +++
 title = 'from'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[frɔm] prep.从…来；离开'

@@ -1,6 +1,6 @@
 +++
 title = 'cruel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkruəl] a.残忍的，残酷的'

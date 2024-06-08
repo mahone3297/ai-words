@@ -1,6 +1,6 @@
 +++
 title = 'evident'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈevidənt] a.明显的，明白的'

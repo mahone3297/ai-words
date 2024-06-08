@@ -1,6 +1,6 @@
 +++
 title = 'stocking'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstɔkiŋ] n.长(统)袜'

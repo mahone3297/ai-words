@@ -1,6 +1,6 @@
 +++
 title = 'crude'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kruːd] a.简陋的；天然的'

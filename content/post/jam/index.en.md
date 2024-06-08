@@ -1,9 +1,9 @@
 +++
 title = 'jam'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[dʒæm] n.果酱'
+description = 'vt.使塞满；使堵塞'
 keywords = ['ai words', 'jam']
 +++
 

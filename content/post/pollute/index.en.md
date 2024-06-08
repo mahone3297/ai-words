@@ -1,6 +1,6 @@
 +++
 title = 'pollute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈluːt] vt.弄脏，污染，沾污'

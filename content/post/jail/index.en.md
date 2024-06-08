@@ -1,6 +1,6 @@
 +++
 title = 'jail'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʒeil] n.监狱 vi.监禁'

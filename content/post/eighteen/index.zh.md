@@ -1,6 +1,6 @@
 +++
 title = 'eighteen'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈeiˈtiːn] num.十八，十八个'

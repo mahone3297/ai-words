@@ -1,6 +1,6 @@
 +++
 title = 'vain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[vein] a.徒劳的；自负的'

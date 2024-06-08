@@ -1,6 +1,6 @@
 +++
 title = 'play'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[plei] vi.玩，游戏；演奏'

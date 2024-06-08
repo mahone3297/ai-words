@@ -1,6 +1,6 @@
 +++
 title = 'eliminate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈlimineit] vt.消灭，消除，排除'

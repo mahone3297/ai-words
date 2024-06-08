@@ -1,6 +1,6 @@
 +++
 title = 'salt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sɔːlt] n.盐；盐类 vt.加盐于'

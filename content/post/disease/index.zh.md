@@ -1,6 +1,6 @@
 +++
 title = 'disease'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈziːz] n.病，疾病；病害'

@@ -1,6 +1,6 @@
 +++
 title = 'ignorant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈignərənt] a.不知道的；无知的'

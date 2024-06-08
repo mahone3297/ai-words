@@ -1,9 +1,9 @@
 +++
 title = 'tap'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[tæp] vt.&vi.&n.轻叩'
+description = 'n.塞子；龙头 vt.开发'
 keywords = ['ai words', 'tap']
 +++
 

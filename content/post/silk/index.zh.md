@@ -1,6 +1,6 @@
 +++
 title = 'silk'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[silk] n.蚕丝，丝，丝织品'

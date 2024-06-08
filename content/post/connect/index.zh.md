@@ -1,6 +1,6 @@
 +++
 title = 'connect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈnekt] vt.连接，连结；联系'

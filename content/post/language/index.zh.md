@@ -1,6 +1,6 @@
 +++
 title = 'language'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlæŋgwidʒ] n.语言，语言课程'

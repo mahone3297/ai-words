@@ -1,6 +1,6 @@
 +++
 title = 'yearly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈjəːli] a.每年的 ad.一年一度'

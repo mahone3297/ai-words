@@ -1,6 +1,6 @@
 +++
 title = 'rotation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rəuˈtei∫ən] n.旋转，转动；循环'

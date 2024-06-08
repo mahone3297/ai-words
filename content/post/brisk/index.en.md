@@ -1,6 +1,6 @@
 +++
 title = 'brisk'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[brisk] a.活泼的；清新的'

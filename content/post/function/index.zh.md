@@ -1,6 +1,6 @@
 +++
 title = 'function'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfʌŋk∫ən] n.功能；职务；函数'

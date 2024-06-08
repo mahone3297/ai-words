@@ -1,6 +1,6 @@
 +++
 title = 'brute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bruːt] n.禽兽，畜生'

@@ -1,6 +1,6 @@
 +++
 title = 'agriculture'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈægrikʌlt∫ə] n.农业，农艺；农学'

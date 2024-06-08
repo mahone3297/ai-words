@@ -1,6 +1,6 @@
 +++
 title = 'lot'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lɔt] n.许多，大量；签，阄'

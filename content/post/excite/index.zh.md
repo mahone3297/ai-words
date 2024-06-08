@@ -1,6 +1,6 @@
 +++
 title = 'excite'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ikˈsait] vt.使激动；引起'

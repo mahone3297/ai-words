@@ -1,6 +1,6 @@
 +++
 title = 'definite'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdefinit] a.明确的；肯定的'

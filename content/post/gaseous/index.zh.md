@@ -1,6 +1,6 @@
 +++
 title = 'gaseous'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgæsiəs] a.气体的，气态的'

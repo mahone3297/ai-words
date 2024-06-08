@@ -1,6 +1,6 @@
 +++
 title = 'nevertheless'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌnevəðəˈles] conj.然而 ad.仍然'

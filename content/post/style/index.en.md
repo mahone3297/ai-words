@@ -1,6 +1,6 @@
 +++
 title = 'style'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stail] n.风格；文体；式样'

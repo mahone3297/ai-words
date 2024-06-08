@@ -1,6 +1,6 @@
 +++
 title = 'contest'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔntest] vt.争夺，争取；辩驳'

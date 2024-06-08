@@ -1,6 +1,6 @@
 +++
 title = 'concentration'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌkɔnsenˈtrei∫ən] n.集中;专注;浓缩'

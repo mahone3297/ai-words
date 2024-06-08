@@ -1,6 +1,6 @@
 +++
 title = 'scent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sent] n.气味，香味；香水'

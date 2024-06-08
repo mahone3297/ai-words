@@ -1,6 +1,6 @@
 +++
 title = 'wing'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wiŋ] n.翼，翅膀，翅'

@@ -1,6 +1,6 @@
 +++
 title = 'rid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rid] vt.使摆脱，使去掉'

@@ -1,6 +1,6 @@
 +++
 title = 'gracious'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgrei∫əs] a.有礼貌的；仁慈的'

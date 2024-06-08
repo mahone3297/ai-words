@@ -1,6 +1,6 @@
 +++
 title = 'stand'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stænd] vi.站；坐落 n.架，台'

@@ -1,6 +1,6 @@
 +++
 title = 'clearly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkliəli] ad.明白地，清晰地'

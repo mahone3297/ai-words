@@ -1,6 +1,6 @@
 +++
 title = 'capture'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkæpt∫ə] vt.捕获，俘获；夺得'

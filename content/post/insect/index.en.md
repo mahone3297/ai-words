@@ -1,6 +1,6 @@
 +++
 title = 'insect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinsekt] n.昆虫，虫'

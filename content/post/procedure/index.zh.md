@@ -1,6 +1,6 @@
 +++
 title = 'procedure'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈsiːdʒə] n.程序；手续；过程'

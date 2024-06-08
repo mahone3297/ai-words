@@ -1,6 +1,6 @@
 +++
 title = 'bank'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bæŋk] n.银行；库；岩，堤'

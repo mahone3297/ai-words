@@ -1,6 +1,6 @@
 +++
 title = 'painting'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpeintiŋ] n.油画；绘画；着色'

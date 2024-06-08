@@ -1,6 +1,6 @@
 +++
 title = 'skate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skeit] n.冰鞋；滑冰 vi.滑冰'

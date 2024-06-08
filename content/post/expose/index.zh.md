@@ -1,6 +1,6 @@
 +++
 title = 'expose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈpəuz] vt.使暴露；揭露'

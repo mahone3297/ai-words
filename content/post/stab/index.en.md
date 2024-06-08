@@ -1,6 +1,6 @@
 +++
 title = 'stab'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stæb] vt.&vi.&n.刺，戳'

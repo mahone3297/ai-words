@@ -1,6 +1,6 @@
 +++
 title = 'ankle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæŋkl] n.踝，踝节部'

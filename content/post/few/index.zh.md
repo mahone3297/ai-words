@@ -1,6 +1,6 @@
 +++
 title = 'few'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fjuː] a.很少的；少数的'

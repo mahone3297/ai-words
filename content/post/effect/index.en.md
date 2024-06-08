@@ -1,6 +1,6 @@
 +++
 title = 'effect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈfekt] n.结果；效果，效力'

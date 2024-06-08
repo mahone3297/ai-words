@@ -1,6 +1,6 @@
 +++
 title = 'dare'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[deə] vt.&aux.v.敢；竟敢'

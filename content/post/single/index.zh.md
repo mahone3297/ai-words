@@ -1,6 +1,6 @@
 +++
 title = 'single'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsiŋgl] a.单一的；独身的'

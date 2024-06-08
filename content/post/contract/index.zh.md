@@ -1,6 +1,6 @@
 +++
 title = 'contract'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔntrækt] n.契约，合同；婚约'

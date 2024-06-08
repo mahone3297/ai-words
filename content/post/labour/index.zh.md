@@ -1,6 +1,6 @@
 +++
 title = 'labour'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈleibə(r)] n.劳动；工作；劳工'

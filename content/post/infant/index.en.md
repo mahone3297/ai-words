@@ -1,6 +1,6 @@
 +++
 title = 'infant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinfənt] n.婴儿 a.婴儿的'

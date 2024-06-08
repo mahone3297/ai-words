@@ -1,6 +1,6 @@
 +++
 title = 'mask'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mɑːsk] n.面具；伪装 vt.掩饰'

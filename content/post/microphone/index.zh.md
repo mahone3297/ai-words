@@ -1,6 +1,6 @@
 +++
 title = 'microphone'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmaikrəfəun] n.话筒，麦克风'

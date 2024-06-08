@@ -1,6 +1,6 @@
 +++
 title = 'adverb'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈædvəːb] n.副词'

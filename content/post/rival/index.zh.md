@@ -1,6 +1,6 @@
 +++
 title = 'rival'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈraivəl] n.竞争者 a.竞争的'

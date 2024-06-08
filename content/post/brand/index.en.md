@@ -1,6 +1,6 @@
 +++
 title = 'brand'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[brænd] n.商品；烙印 vt.铭刻'

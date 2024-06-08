@@ -1,6 +1,6 @@
 +++
 title = 'shortly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈ∫ɔːtli] ad.立刻；简短地'

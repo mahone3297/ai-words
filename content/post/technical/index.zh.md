@@ -1,6 +1,6 @@
 +++
 title = 'technical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈteknikəl] a.技术的，工艺的'

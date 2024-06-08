@@ -1,6 +1,6 @@
 +++
 title = 'minister'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈministə] n.部长，大臣；公使'

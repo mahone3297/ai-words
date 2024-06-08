@@ -1,6 +1,6 @@
 +++
 title = 'comfortable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkʌmfətəbl] a.舒适的，安慰的'

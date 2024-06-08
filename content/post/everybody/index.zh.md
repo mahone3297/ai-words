@@ -1,6 +1,6 @@
 +++
 title = 'everybody'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈevribɔdi] pron.每人，人人'

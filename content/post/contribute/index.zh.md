@@ -1,6 +1,6 @@
 +++
 title = 'contribute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈtribjuːt] vt.捐献，捐助；投稿'

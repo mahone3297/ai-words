@@ -1,6 +1,6 @@
 +++
 title = 'shake'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫eik] vt.摇，使震动 n.摇动'

@@ -1,6 +1,6 @@
 +++
 title = 'drip'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[drip] vi.滴下；漏水 n.水滴'

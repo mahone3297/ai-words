@@ -1,6 +1,6 @@
 +++
 title = 'centimetre'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsentiˌmiːtə] n.公分，厘米'

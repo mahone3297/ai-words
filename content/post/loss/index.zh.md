@@ -1,6 +1,6 @@
 +++
 title = 'loss'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lɔs] n.遗失；损失；失败'

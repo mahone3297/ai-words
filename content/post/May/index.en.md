@@ -1,10 +1,10 @@
 +++
-title = 'May'
-draft = false
+title = 'may'
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[mei] n.五月'
-keywords = ['ai words', 'May']
+description = 'v.aux.可能；可以，祝'
+keywords = ['ai words', 'may']
 +++
 
 ## Word: May

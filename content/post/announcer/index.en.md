@@ -1,6 +1,6 @@
 +++
 title = 'announcer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈnaunsə] n.宣告者；播音员'

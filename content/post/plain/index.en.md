@@ -1,6 +1,6 @@
 +++
 title = 'plain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[plein] n.平原 a.清楚的'

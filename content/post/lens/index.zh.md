@@ -1,6 +1,6 @@
 +++
 title = 'lens'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lenz] n.透镜，镜片；镜头'

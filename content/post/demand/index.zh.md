@@ -1,6 +1,6 @@
 +++
 title = 'demand'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈmɑːnd] vt.要求；需要；询问'

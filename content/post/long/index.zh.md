@@ -1,9 +1,9 @@
 +++
 title = 'long'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[lɔŋ] a.长的；远的 ad.长久'
+description = 'vi.渴望，极想念'
 keywords = ['ai words', 'long']
 +++
 

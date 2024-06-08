@@ -1,6 +1,6 @@
 +++
 title = 'injure'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈindʒə] vt.伤害，损害，损伤'

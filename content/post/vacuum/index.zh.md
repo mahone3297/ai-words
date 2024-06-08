@@ -1,6 +1,6 @@
 +++
 title = 'vacuum'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvækjuəm] n.真空；真空吸尘器'

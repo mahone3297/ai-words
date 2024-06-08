@@ -1,6 +1,6 @@
 +++
 title = 'cock'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɔk] n.公鸡；雄禽；旋塞'

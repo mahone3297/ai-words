@@ -1,6 +1,6 @@
 +++
 title = 'funny'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfʌni] a.古怪的；滑稽的'

@@ -1,6 +1,6 @@
 +++
 title = 'installation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌinstəˈlei∫ən] n.安装；装置；设施'

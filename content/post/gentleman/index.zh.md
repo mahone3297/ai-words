@@ -1,6 +1,6 @@
 +++
 title = 'gentleman'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒentlmən] n.绅士；有教养的人'

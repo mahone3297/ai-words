@@ -1,6 +1,6 @@
 +++
 title = 'regularly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈregjuləli] ad.有规律地'

@@ -1,6 +1,6 @@
 +++
 title = 'bleed'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bliːd] vi.出血，流血；泌脂'

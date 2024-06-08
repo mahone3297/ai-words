@@ -1,6 +1,6 @@
 +++
 title = 'scientific'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[saiənˈtifik] a.科学(上)的'

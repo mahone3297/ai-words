@@ -1,6 +1,6 @@
 +++
 title = 'astronaut'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæstrənɔːt] n.宇宙航行员，宇航员'

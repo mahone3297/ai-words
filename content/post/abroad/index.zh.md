@@ -1,6 +1,6 @@
 +++
 title = 'abroad'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈbrɔːd] ad.(在)国外；到处'

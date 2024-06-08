@@ -1,6 +1,6 @@
 +++
 title = 'recognition'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌrekəgˈni∫ən] n.认出，识别；承认'

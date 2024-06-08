@@ -1,6 +1,6 @@
 +++
 title = 'primary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpraiməri] a.最初的；基本的'

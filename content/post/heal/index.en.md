@@ -1,6 +1,6 @@
 +++
 title = 'heal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hiːl] vt.治愈；使和解'

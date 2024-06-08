@@ -1,6 +1,6 @@
 +++
 title = 'dislike'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈlaik] vt.&n.不喜爱，厌恶'

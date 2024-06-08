@@ -1,6 +1,6 @@
 +++
 title = 'structure'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstrʌkt∫ə] n.结构；构造 vt.建造'

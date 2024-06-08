@@ -1,6 +1,6 @@
 +++
 title = 'interview'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈintəvjuː] n.接见；会见；面谈'

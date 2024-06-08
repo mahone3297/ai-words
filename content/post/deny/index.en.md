@@ -1,6 +1,6 @@
 +++
 title = 'deny'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈnai] vt.否定；拒绝相信'

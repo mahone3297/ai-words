@@ -1,6 +1,6 @@
 +++
 title = 'choke'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫əuk] vt.使窒息；塞满'

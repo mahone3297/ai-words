@@ -1,6 +1,6 @@
 +++
 title = 'furnace'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfəːnis] n.炉子，熔炉；鼓风炉'

@@ -1,6 +1,6 @@
 +++
 title = 'ink'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iŋk] n.墨水，油墨'

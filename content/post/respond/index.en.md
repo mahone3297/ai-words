@@ -1,6 +1,6 @@
 +++
 title = 'respond'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[risˈpɔnd] vi.作答；响应'

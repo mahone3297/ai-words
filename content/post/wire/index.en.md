@@ -1,6 +1,6 @@
 +++
 title = 'wire'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwaiə] n.金属线；电缆；电信'

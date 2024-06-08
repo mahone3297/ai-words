@@ -1,6 +1,6 @@
 +++
 title = 'television'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈteliviʒən] n.电视；电视机'

@@ -1,6 +1,6 @@
 +++
 title = 'pardon'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpɑːdn] n.原谅；赦免 vt.原谅'

@@ -1,6 +1,6 @@
 +++
 title = 'lip'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lip] n.嘴唇'

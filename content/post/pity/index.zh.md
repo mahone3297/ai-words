@@ -1,6 +1,6 @@
 +++
 title = 'pity'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpiti] n.怜悯；遗憾 vt.同情'

@@ -1,6 +1,6 @@
 +++
 title = 'bridge'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bridʒ] n.桥，桥梁；桥牌'

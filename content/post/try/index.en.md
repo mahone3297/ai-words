@@ -1,6 +1,6 @@
 +++
 title = 'try'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trai] vt.试；审问 vi.尝试'

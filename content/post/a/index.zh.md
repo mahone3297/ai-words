@@ -1,6 +1,6 @@
 +++
 title = 'a'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = 'art.一(个)；每一(个)'

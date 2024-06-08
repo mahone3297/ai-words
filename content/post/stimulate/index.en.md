@@ -1,6 +1,6 @@
 +++
 title = 'stimulate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstimjuleit] vt.刺激，激励，激发'

@@ -1,6 +1,6 @@
 +++
 title = 'respectful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[risˈpektful] a.恭敬的，尊重的'

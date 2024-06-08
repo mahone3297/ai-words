@@ -1,6 +1,6 @@
 +++
 title = 'liberation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌlibəˈrei∫ən] n.解放'

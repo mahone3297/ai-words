@@ -1,6 +1,6 @@
 +++
 title = 'depth'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[depθ] n.深度；深厚；深处'

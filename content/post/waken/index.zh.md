@@ -1,6 +1,6 @@
 +++
 title = 'waken'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈweikən] vi.醒来 vt.弄醒'

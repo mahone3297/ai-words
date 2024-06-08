@@ -1,9 +1,9 @@
 +++
 title = 'vice'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[vais] n.罪恶；恶习；缺点'
+description = 'n.(老)虎钳'
 keywords = ['ai words', 'vice']
 +++
 

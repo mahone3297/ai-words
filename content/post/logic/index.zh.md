@@ -1,6 +1,6 @@
 +++
 title = 'logic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlɔdʒik] n.逻辑，推理；逻辑性'

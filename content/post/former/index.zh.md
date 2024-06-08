@@ -1,6 +1,6 @@
 +++
 title = 'former'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfɔːmə] a.在前的 n.前者'

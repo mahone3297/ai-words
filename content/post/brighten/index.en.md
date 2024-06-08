@@ -1,6 +1,6 @@
 +++
 title = 'brighten'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbraitn] vt.使发光；使快活'

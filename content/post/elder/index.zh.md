@@ -1,6 +1,6 @@
 +++
 title = 'elder'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈeldə(r)] a.年龄较大的 n.长者'

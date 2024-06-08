@@ -1,6 +1,6 @@
 +++
 title = 'animal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæniməl] n.动物，兽 a.动物的'

@@ -1,6 +1,6 @@
 +++
 title = 'color'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkʌlə] n.颜色，彩色；颜料'

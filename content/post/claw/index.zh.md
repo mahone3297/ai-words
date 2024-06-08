@@ -1,6 +1,6 @@
 +++
 title = 'claw'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[klɔː] n.爪，脚爪，螯'

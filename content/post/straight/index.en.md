@@ -1,6 +1,6 @@
 +++
 title = 'straight'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[streit] a.直的；正直的 ad.直'

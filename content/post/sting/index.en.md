@@ -1,6 +1,6 @@
 +++
 title = 'sting'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stiŋ] vt.刺；刺痛 vi.&n.刺'

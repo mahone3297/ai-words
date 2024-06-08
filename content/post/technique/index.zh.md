@@ -1,6 +1,6 @@
 +++
 title = 'technique'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tekˈniːk] n.技术，技巧；技能'

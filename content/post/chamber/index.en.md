@@ -1,6 +1,6 @@
 +++
 title = 'chamber'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈt∫eimbə] n.会议室；房间；腔'

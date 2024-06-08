@@ -1,6 +1,6 @@
 +++
 title = 'voluntary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvɔləntəri; (US) -teri] a.自/志愿的'

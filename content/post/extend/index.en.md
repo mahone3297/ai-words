@@ -1,6 +1,6 @@
 +++
 title = 'extend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈtend] vt.延长；扩大；致'

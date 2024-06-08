@@ -1,6 +1,6 @@
 +++
 title = 'dial'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdaiəl] n.钟面；拨号盘 vt.拨'

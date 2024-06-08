@@ -1,6 +1,6 @@
 +++
 title = 'although'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔːlˈðəu] conj.尽管，虽然'

@@ -1,6 +1,6 @@
 +++
 title = 'intelligent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈtelidʒənt] a.聪明的；理智的'

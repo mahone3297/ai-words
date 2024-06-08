@@ -1,6 +1,6 @@
 +++
 title = 'habitual'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[həˈbitjuəl] a.习惯性的，惯常的'

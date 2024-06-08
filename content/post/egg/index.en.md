@@ -1,6 +1,6 @@
 +++
 title = 'egg'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[eg] n.蛋，鸡蛋，卵'

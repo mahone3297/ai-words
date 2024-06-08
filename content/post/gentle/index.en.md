@@ -1,6 +1,6 @@
 +++
 title = 'gentle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒentl] a.和蔼的；轻柔的'

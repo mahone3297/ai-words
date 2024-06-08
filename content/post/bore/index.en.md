@@ -1,6 +1,6 @@
 +++
 title = 'bore'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bɔː] vt.使厌烦；钻，挖'

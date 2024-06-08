@@ -1,6 +1,6 @@
 +++
 title = 'crowd'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kraud] n.群；大众；一伙人'

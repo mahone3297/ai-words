@@ -1,6 +1,6 @@
 +++
 title = 'seventy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsevənti] num.七十，七十个'

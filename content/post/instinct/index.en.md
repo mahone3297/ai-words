@@ -1,6 +1,6 @@
 +++
 title = 'instinct'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinstiŋkt] n.本能；直觉；生性'

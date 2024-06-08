@@ -1,6 +1,6 @@
 +++
 title = 'consequence'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔnsikwəns] n.结果，后果'

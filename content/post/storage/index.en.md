@@ -1,6 +1,6 @@
 +++
 title = 'storage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstɔridʒ] n.贮藏；贮藏量'

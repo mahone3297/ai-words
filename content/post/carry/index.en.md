@@ -1,6 +1,6 @@
 +++
 title = 'carry'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkæri] vt.携带；运载；传送'

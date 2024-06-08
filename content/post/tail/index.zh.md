@@ -1,6 +1,6 @@
 +++
 title = 'tail'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[teil] n.尾巴；末尾部分'

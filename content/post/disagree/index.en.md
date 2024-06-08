@@ -1,6 +1,6 @@
 +++
 title = 'disagree'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌdisəˈgriː] vi.有分歧；不一致'

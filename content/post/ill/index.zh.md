@@ -1,6 +1,6 @@
 +++
 title = 'ill'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[il] a.有病的；坏的 ad.坏'

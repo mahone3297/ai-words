@@ -1,6 +1,6 @@
 +++
 title = 'feasible'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfiːzəbl] a.可行的；可能的'

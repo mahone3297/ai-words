@@ -1,6 +1,6 @@
 +++
 title = 'department'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈpɑːtmənt] n.部,司,局,处,系'

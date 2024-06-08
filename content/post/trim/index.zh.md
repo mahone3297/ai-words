@@ -1,6 +1,6 @@
 +++
 title = 'trim'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trim] a.整齐的 vt.使整齐'

@@ -1,6 +1,6 @@
 +++
 title = 'safety'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈseifti] n.安全，保险'

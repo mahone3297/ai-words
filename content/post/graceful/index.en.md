@@ -1,6 +1,6 @@
 +++
 title = 'graceful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgreisful] a.优美的，优雅的'

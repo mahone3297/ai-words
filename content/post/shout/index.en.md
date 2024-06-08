@@ -1,6 +1,6 @@
 +++
 title = 'shout'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫aut] n.&vi.呼喊，喊叫'

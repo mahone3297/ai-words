@@ -1,6 +1,6 @@
 +++
 title = 'satellite'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsætəlait] n.卫星；人造卫星'

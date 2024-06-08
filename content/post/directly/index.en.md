@@ -1,6 +1,6 @@
 +++
 title = 'directly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈrektli] ad.直接地；立即'

@@ -1,6 +1,6 @@
 +++
 title = 'proportional'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈpɔː∫ənl] a.比例/相称的'

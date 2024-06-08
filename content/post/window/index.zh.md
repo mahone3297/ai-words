@@ -1,6 +1,6 @@
 +++
 title = 'window'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwindəu] n.窗子，窗户，窗口'

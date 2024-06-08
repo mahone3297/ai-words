@@ -1,6 +1,6 @@
 +++
 title = 'vase'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[veis] n.瓶，花瓶'

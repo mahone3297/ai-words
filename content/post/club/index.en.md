@@ -1,6 +1,6 @@
 +++
 title = 'club'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[klʌb] n.俱乐部，夜总会'

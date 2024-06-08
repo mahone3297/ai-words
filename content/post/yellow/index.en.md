@@ -1,6 +1,6 @@
 +++
 title = 'yellow'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈjeləu] a.黄(色)的 n.黄(色)'

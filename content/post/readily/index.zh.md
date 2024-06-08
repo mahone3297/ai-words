@@ -1,6 +1,6 @@
 +++
 title = 'readily'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈredili] ad.乐意地；无困难地'

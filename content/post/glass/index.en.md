@@ -1,6 +1,6 @@
 +++
 title = 'glass'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[glɑːs] n.玻璃；玻璃杯'

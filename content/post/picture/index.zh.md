@@ -1,6 +1,6 @@
 +++
 title = 'picture'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpikt∫ə] n.画，图片 vt.画'

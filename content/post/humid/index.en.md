@@ -1,6 +1,6 @@
 +++
 title = 'humid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhjuːmid] a.湿的，湿气重的'

@@ -1,6 +1,6 @@
 +++
 title = 'tray'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trei] n.(浅)盘，托盘，碟'

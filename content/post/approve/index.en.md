@@ -1,6 +1,6 @@
 +++
 title = 'approve'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈpruːv] vt.赞成，称许；批准'

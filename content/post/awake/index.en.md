@@ -1,6 +1,6 @@
 +++
 title = 'awake'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈweik] a.醒着的 vt.唤醒'

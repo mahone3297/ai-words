@@ -1,6 +1,6 @@
 +++
 title = 'administration'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ədminisˈtrei∫ən] n.管理；管理部门'

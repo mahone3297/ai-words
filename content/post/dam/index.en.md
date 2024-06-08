@@ -1,6 +1,6 @@
 +++
 title = 'dam'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dæm] n.水坝，水堤；障碍物'

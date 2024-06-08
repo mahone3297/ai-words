@@ -1,6 +1,6 @@
 +++
 title = 'eighth'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[eitθ] num.第八 n.八分之一'

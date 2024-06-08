@@ -1,6 +1,6 @@
 +++
 title = 'boat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bəut] n.小船，艇；渔船'

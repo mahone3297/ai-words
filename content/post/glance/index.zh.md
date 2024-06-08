@@ -1,6 +1,6 @@
 +++
 title = 'glance'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[glɑːns] vi.看一下 n.一瞥'

@@ -1,6 +1,6 @@
 +++
 title = 'worry'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwʌri] vt.使烦恼 vi.发愁'

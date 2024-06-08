@@ -1,6 +1,6 @@
 +++
 title = 'clap'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[klæp] vi.拍手 vt.拍，轻拍'

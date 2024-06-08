@@ -1,6 +1,6 @@
 +++
 title = 'stove'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stəuv] n.炉，火炉，电炉'

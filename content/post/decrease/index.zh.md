@@ -1,6 +1,6 @@
 +++
 title = 'decrease'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diːˈkriːs] vi.&n.减少，减少'

@@ -1,6 +1,6 @@
 +++
 title = 'intimate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈintimit] a.亲密的；个人的'

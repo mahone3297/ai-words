@@ -1,6 +1,6 @@
 +++
 title = 'traditional'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trəˈdi∫ən(ə)l] a.传统的，惯例的'

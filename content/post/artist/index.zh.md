@@ -1,6 +1,6 @@
 +++
 title = 'artist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɑːtist] n.艺术家，美术家'

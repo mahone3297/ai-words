@@ -1,6 +1,6 @@
 +++
 title = 'straw'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[strɔː] n.稻草，麦杆吸管'

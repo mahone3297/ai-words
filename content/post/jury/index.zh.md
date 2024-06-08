@@ -1,6 +1,6 @@
 +++
 title = 'jury'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒuəri] n.陪审团；评奖团'

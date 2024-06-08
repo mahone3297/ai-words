@@ -1,6 +1,6 @@
 +++
 title = 'alive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈlaiv] a.活着的；活跃的'

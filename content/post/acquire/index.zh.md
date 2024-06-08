@@ -1,6 +1,6 @@
 +++
 title = 'acquire'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈkwaiə] vt.取得；获得；学到'

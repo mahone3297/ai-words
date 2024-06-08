@@ -1,6 +1,6 @@
 +++
 title = 'cure'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kjuə] vt.医治；消除 n.治愈'

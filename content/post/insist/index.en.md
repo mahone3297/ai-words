@@ -1,6 +1,6 @@
 +++
 title = 'insist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈsist] vi.坚持；坚持要求'

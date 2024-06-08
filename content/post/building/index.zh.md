@@ -1,6 +1,6 @@
 +++
 title = 'building'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbildiŋ] n.建筑物，大楼；建筑'

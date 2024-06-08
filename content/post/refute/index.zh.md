@@ -1,6 +1,6 @@
 +++
 title = 'refute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈfjuːt] vt.驳斥，反驳，驳倒'

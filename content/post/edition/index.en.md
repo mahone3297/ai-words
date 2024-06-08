@@ -1,6 +1,6 @@
 +++
 title = 'edition'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈdi∫ən] n.版，版本，版次'

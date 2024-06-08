@@ -1,6 +1,6 @@
 +++
 title = 'science'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsaiəns] n.科学，科学研究'

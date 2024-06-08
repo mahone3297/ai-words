@@ -1,6 +1,6 @@
 +++
 title = 'pipeline'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpaipˌlain] n.管道，管线'

@@ -1,6 +1,6 @@
 +++
 title = 'rarely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈreəli] ad.很少，难得'

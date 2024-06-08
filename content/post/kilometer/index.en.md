@@ -1,6 +1,6 @@
 +++
 title = 'kilometer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkiləmiːtə] n.千米，公里'

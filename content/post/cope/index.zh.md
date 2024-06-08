@@ -1,6 +1,6 @@
 +++
 title = 'cope'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəup] vi.对付，应付'

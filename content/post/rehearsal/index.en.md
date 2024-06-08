@@ -1,6 +1,6 @@
 +++
 title = 'rehearsal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈhəːsəl] n.排练，排演；练习'

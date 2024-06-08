@@ -1,6 +1,6 @@
 +++
 title = 'excellent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈeksələnt] a.优秀的，杰出的'

@@ -1,6 +1,6 @@
 +++
 title = 'jewish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒu(ː)i∫] a.犹太人的'

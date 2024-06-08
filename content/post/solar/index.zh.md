@@ -1,6 +1,6 @@
 +++
 title = 'solar'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsəulə] a.太阳的，日光的'

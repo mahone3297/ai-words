@@ -1,6 +1,6 @@
 +++
 title = 'background'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbækgraund] n.背景，后景，经历'

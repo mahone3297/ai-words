@@ -1,6 +1,6 @@
 +++
 title = 'fail'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[feil] vi.失败；失灵；不能'

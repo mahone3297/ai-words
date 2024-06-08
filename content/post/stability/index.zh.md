@@ -1,6 +1,6 @@
 +++
 title = 'stability'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stəˈbiliti] n.稳定，稳定性，巩固'

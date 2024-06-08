@@ -1,6 +1,6 @@
 +++
 title = 'satisfactory'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌsætisˈfæktəri] a.令人满意的,良好的'

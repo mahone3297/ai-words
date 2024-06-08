@@ -1,6 +1,6 @@
 +++
 title = 'loose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[luːs] a.松的；宽松的'

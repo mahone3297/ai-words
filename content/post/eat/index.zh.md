@@ -1,6 +1,6 @@
 +++
 title = 'eat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iːt] vt.吃，喝 vi.吃饭'

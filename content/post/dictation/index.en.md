@@ -1,6 +1,6 @@
 +++
 title = 'dictation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dikˈtei∫ən] n.口授笔录，听写'

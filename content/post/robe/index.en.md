@@ -1,6 +1,6 @@
 +++
 title = 'robe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rəub] n.长袍，长衣，浴衣'

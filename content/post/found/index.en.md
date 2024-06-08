@@ -1,6 +1,6 @@
 +++
 title = 'found'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[faund] vt.创立，创办；建立'

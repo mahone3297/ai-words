@@ -1,6 +1,6 @@
 +++
 title = 'experience'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈpiəriəns] n.经验，感受；经历'

@@ -1,6 +1,6 @@
 +++
 title = 'prime'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[praim] a.首要的 n.春，青春'

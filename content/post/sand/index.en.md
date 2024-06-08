@@ -1,6 +1,6 @@
 +++
 title = 'sand'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sænd] n.沙，沙子；沙滩'

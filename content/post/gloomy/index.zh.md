@@ -1,6 +1,6 @@
 +++
 title = 'gloomy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgluːmi] a.黑暗的；令人沮丧的'

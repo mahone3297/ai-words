@@ -1,6 +1,6 @@
 +++
 title = 'mourn'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mɔːn] vi.哀痛，哀悼'

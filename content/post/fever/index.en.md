@@ -1,6 +1,6 @@
 +++
 title = 'fever'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfiːvə] n.发热，发烧；狂热'

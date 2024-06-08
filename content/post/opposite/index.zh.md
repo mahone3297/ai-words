@@ -1,6 +1,6 @@
 +++
 title = 'opposite'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔpəzit] a.对面的 n.对立物'

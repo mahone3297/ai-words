@@ -1,6 +1,6 @@
 +++
 title = 'kilogram'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkiləgræm] n.千克，公斤'

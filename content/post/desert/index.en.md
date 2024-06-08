@@ -1,6 +1,6 @@
 +++
 title = 'desert'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈzəːt] n.沙漠 vt.离弃；擅离'

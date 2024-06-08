@@ -1,6 +1,6 @@
 +++
 title = 'superficial'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sjuːpəˈfi∫əl] a.表面的；肤浅的'

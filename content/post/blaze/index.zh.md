@@ -1,6 +1,6 @@
 +++
 title = 'blaze'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bleiz] n.火；闪光 vi.燃烧'

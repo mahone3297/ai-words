@@ -1,6 +1,6 @@
 +++
 title = 'statesman'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsteitsmən] n.政治家，国务活动家'

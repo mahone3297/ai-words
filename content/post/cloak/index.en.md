@@ -1,6 +1,6 @@
 +++
 title = 'cloak'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kləuk] n.斗篷；覆盖(物)'

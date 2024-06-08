@@ -1,6 +1,6 @@
 +++
 title = 'gunpowder'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgʌnpaudə(r)] n.黑色火药；有烟火药'

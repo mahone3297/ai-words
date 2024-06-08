@@ -1,6 +1,6 @@
 +++
 title = 'data'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdeitə] n.数据; 资料'

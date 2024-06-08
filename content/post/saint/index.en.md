@@ -1,6 +1,6 @@
 +++
 title = 'saint'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[seint] n.圣徒；基督教徒'

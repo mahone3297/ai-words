@@ -1,6 +1,6 @@
 +++
 title = 'freedom'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfriːdəm] n.自由；自主'

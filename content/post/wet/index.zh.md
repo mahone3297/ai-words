@@ -1,6 +1,6 @@
 +++
 title = 'wet'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wet] a.湿的；下雨的'

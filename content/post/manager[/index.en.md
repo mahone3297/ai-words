@@ -1,6 +1,6 @@
 +++
 title = 'manager['
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = 'ˈmænidʒə] n.经理，管理人'

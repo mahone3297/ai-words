@@ -1,6 +1,6 @@
 +++
 title = 'organ'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔːgən] n.器官；机构；管风琴'

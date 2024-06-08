@@ -1,6 +1,6 @@
 +++
 title = 'ambulance'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæmbjuləns] n.救护车；野战医院'

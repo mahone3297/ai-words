@@ -1,6 +1,6 @@
 +++
 title = 'cross'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[krɔs] vt.穿过；使交叉'

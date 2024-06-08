@@ -1,6 +1,6 @@
 +++
 title = 'partner'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpɑːtnə] n.伙伴；搭挡；配偶'

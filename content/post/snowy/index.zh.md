@@ -1,6 +1,6 @@
 +++
 title = 'snowy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsnəui] a.雪的，下雪的'

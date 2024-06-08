@@ -1,6 +1,6 @@
 +++
 title = 'condemn'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈdem] vt.谴责，指责；判刑'

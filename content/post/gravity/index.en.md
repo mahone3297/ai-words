@@ -1,6 +1,6 @@
 +++
 title = 'gravity'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgræviti] n.重力，引力；严重性'

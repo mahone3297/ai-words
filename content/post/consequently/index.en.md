@@ -1,6 +1,6 @@
 +++
 title = 'consequently'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔnsikwəntli] ad.因此/而,所以'

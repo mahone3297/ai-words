@@ -1,6 +1,6 @@
 +++
 title = 'detection'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈtek∫ən] n.察觉，发觉；侦察'

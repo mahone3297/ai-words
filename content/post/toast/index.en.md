@@ -1,9 +1,9 @@
 +++
 title = 'toast'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[təust] n.烤面包 vt.烘，烤'
+description = 'n.祝酒；祝酒词'
 keywords = ['ai words', 'toast']
 +++
 

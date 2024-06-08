@@ -1,6 +1,6 @@
 +++
 title = 'formation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fɔːˈmei∫ən] n.形成；构成；形成物'

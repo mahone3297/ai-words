@@ -1,6 +1,6 @@
 +++
 title = 'reverse'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈvəːs] vt.颠倒，翻转 n.背面'

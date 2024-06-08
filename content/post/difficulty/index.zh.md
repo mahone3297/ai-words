@@ -1,6 +1,6 @@
 +++
 title = 'difficulty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdifikəlti] a.困难；难事；困境'

@@ -1,6 +1,6 @@
 +++
 title = 'westward'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwestwəd] a.向西的 ad.向西'

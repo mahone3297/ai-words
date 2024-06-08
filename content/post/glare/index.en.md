@@ -1,6 +1,6 @@
 +++
 title = 'glare'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gleə] vi.瞪眼 n.瞪眼'

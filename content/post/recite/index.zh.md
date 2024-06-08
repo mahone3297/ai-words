@@ -1,6 +1,6 @@
 +++
 title = 'recite'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈsait] vt.&vi.背诵，朗诵'

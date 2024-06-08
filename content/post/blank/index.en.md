@@ -1,6 +1,6 @@
 +++
 title = 'blank'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[blæŋk] a.空白的 n.空白'

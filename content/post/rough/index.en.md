@@ -1,6 +1,6 @@
 +++
 title = 'rough'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rʌf] a.表面不平的；粗略的'

@@ -1,6 +1,6 @@
 +++
 title = 'gymnasium'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʒimˈneiziəm] n.体育馆，健身房'

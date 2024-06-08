@@ -1,6 +1,6 @@
 +++
 title = 'mate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[meit] n.伙伴，同事；配偶'

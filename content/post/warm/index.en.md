@@ -1,6 +1,6 @@
 +++
 title = 'warm'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wɔːm] a.温暖的；热烈的'

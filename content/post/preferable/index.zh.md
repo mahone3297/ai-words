@@ -1,6 +1,6 @@
 +++
 title = 'preferable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprefərəbl] a.更可取的，更好的'

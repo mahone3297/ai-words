@@ -1,9 +1,9 @@
 +++
 title = 'pop'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[pɔp] n.流行音乐，流行歌曲'
+description = 'n.砰的一声，爆破声'
 keywords = ['ai words', 'pop']
 +++
 

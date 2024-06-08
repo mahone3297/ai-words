@@ -1,6 +1,6 @@
 +++
 title = 'convention'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈven∫ən] n.习俗，惯例；公约'

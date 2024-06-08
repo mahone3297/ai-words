@@ -1,6 +1,6 @@
 +++
 title = 'generous'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒenərəs] a.慷慨的；宽厚的'

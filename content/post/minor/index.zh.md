@@ -1,6 +1,6 @@
 +++
 title = 'minor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmainə] a.较小的；较次要的'

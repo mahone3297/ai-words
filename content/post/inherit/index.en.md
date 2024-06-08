@@ -1,6 +1,6 @@
 +++
 title = 'inherit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈherit] vt.继承(传统等)'

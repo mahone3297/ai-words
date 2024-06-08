@@ -1,6 +1,6 @@
 +++
 title = 'label'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈleibl] n.标签；标记，符号'

@@ -1,6 +1,6 @@
 +++
 title = 'ashamed'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈ∫eimd] a.惭愧(的)；羞耻(的)'

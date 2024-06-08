@@ -1,6 +1,6 @@
 +++
 title = 'scatter'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈskætə] vt.使消散；撒；散播'

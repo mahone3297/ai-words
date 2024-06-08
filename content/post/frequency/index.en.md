@@ -1,6 +1,6 @@
 +++
 title = 'frequency'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfriːkwənsi] n.屡次；次数；频率'

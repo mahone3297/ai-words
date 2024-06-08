@@ -1,6 +1,6 @@
 +++
 title = 'especially'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[isˈpe∫əli] ad.特别，尤其，格外'

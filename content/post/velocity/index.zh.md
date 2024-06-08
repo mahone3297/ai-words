@@ -1,6 +1,6 @@
 +++
 title = 'velocity'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[viˈlɔsiti] n.速度，速率'

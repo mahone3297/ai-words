@@ -1,6 +1,6 @@
 +++
 title = 'okay'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əuˈkei] (缩作 OK)a.&ad.对，好'

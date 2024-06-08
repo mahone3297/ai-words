@@ -1,6 +1,6 @@
 +++
 title = 'dimension'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈmen∫ən] n.尺寸，尺度；面积'

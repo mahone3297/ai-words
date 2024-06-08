@@ -1,6 +1,6 @@
 +++
 title = 'conversation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌkɔnvəˈsei∫ən] n.会话,非正式会谈'

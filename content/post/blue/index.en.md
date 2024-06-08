@@ -1,6 +1,6 @@
 +++
 title = 'blue'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bluː] a.蓝色的 n.蓝色'

@@ -1,6 +1,6 @@
 +++
 title = 'stop'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stɔp] vt.塞住；阻止；停止'

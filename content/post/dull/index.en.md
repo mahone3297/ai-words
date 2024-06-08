@@ -1,6 +1,6 @@
 +++
 title = 'dull'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʌl] a.枯燥的；不鲜明的'

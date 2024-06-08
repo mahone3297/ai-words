@@ -1,6 +1,6 @@
 +++
 title = 'promote'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈməut] vt.促进，发扬；提升'

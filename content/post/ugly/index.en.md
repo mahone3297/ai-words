@@ -1,6 +1,6 @@
 +++
 title = 'ugly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈʌgli] a.丑陋的；可怕的'

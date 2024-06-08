@@ -1,6 +1,6 @@
 +++
 title = 'because'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biˈkɔz] conj.由于，因为'

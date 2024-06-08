@@ -1,6 +1,6 @@
 +++
 title = 'mobile'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈməubail] a.运动的；流动的'

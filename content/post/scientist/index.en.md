@@ -1,6 +1,6 @@
 +++
 title = 'scientist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsaiəntist] n.(自然)科学家'

@@ -1,6 +1,6 @@
 +++
 title = 'phone'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fəun] n.电话，电话机；耳机'

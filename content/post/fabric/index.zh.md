@@ -1,6 +1,6 @@
 +++
 title = 'fabric'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfæbrik] n.织物，纺织品；结构'

@@ -1,6 +1,6 @@
 +++
 title = 'clear'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kliə] a.清晰的 vt.清除'

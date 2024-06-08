@@ -1,6 +1,6 @@
 +++
 title = 'truly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[truːli] ad.真正地；忠实地'

@@ -1,6 +1,6 @@
 +++
 title = 'harm'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hɑːm] n.伤害，损害 vt.损害'

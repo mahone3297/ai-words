@@ -1,6 +1,6 @@
 +++
 title = 'curse'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəːs] n.诅咒，咒骂；天谴'

@@ -1,6 +1,6 @@
 +++
 title = 'stock'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stɔk] n.原料；库存品；股本'

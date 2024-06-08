@@ -1,6 +1,6 @@
 +++
 title = 'telescope'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈteliskəup] n.望远镜'

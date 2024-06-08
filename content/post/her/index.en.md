@@ -1,6 +1,6 @@
 +++
 title = 'her'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[həː] pron.(宾格)她；她的'

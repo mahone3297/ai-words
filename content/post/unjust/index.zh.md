@@ -1,6 +1,6 @@
 +++
 title = 'unjust'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈʌnˈdʒʌst] a.非正义的；不公平的'

@@ -1,6 +1,6 @@
 +++
 title = 'assistant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈsistənt] n.助手，助理；助教'

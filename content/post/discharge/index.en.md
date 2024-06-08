@@ -1,6 +1,6 @@
 +++
 title = 'discharge'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈt∫ɑːdʒ] vt.释放；排出 n.释放'

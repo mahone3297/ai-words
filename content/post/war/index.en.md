@@ -1,6 +1,6 @@
 +++
 title = 'war'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wɔː] n.战争；冲突，斗争'

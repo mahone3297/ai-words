@@ -1,6 +1,6 @@
 +++
 title = 'chess'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫es] n.棋；国际象棋'

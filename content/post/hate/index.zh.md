@@ -1,6 +1,6 @@
 +++
 title = 'hate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[heit] vt.恨，憎恨；不喜欢'

@@ -1,6 +1,6 @@
 +++
 title = 'motivate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈməutiveit] vt.促动；激励，激发'

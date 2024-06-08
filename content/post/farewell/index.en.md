@@ -1,6 +1,6 @@
 +++
 title = 'farewell'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfeəˈwel] int.再会 n.告别'

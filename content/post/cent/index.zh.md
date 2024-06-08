@@ -1,6 +1,6 @@
 +++
 title = 'cent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sent] n.分；分币；百'

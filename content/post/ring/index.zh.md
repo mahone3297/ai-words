@@ -1,9 +1,9 @@
 +++
 title = 'ring'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[riŋ] n.环形物(如圈、环等)'
+description = 'vi.鸣；按铃 n.铃声'
 keywords = ['ai words', 'ring']
 +++
 

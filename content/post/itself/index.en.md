@@ -1,6 +1,6 @@
 +++
 title = 'itself'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[itˈself] pron.它自己；自身'

@@ -1,6 +1,6 @@
 +++
 title = 'various'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈveəriəs] a.各种各样的，不同的'

@@ -1,6 +1,6 @@
 +++
 title = 'remember'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈmembə] vt.记得，想起；记住'

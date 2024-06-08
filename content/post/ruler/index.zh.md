@@ -1,6 +1,6 @@
 +++
 title = 'ruler'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈruːlə] n.统治者；尺，直尺'

@@ -1,6 +1,6 @@
 +++
 title = 'discourage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈkʌridʒ] vt.使泄气，使灰心'

@@ -1,6 +1,6 @@
 +++
 title = 'rely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈlai] vi.依赖，依靠；信赖'

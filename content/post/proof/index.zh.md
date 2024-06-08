@@ -1,6 +1,6 @@
 +++
 title = 'proof'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pruːf] n.证据；证明；校样'

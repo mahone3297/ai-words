@@ -1,6 +1,6 @@
 +++
 title = 'climb'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[klaim] vi.攀登，爬 vt.爬'

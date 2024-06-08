@@ -1,6 +1,6 @@
 +++
 title = 'lieutenant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ljuːˈtenənt] n.陆军中尉；副职官员'

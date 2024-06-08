@@ -1,6 +1,6 @@
 +++
 title = 'bureau'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bjuəˈrəu] n.局，司，处；社，所'

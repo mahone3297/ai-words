@@ -1,6 +1,6 @@
 +++
 title = 'lift'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lift] vt.提起，提高 n.电梯'

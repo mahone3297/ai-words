@@ -1,9 +1,9 @@
 +++
 title = 'light'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[lait] n.光，光线；灯，光源'
+description = '[lait] a.轻的，少量的'
 keywords = ['ai words', 'light']
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'telegram'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈteligræm] n.电报'

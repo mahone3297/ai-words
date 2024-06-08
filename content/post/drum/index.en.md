@@ -1,6 +1,6 @@
 +++
 title = 'drum'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[drʌm] n.鼓；鼓状物，圆桶'

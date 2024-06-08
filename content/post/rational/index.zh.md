@@ -1,6 +1,6 @@
 +++
 title = 'rational'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈræ∫ənl] a.理性的；出于理性的'

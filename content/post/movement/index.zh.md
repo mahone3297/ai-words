@@ -1,6 +1,6 @@
 +++
 title = 'movement'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmuːvmənt] n.动作,活动;移动'

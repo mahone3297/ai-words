@@ -1,6 +1,6 @@
 +++
 title = 'salute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səˈluːt] n.招呼，行礼 vi.行礼'

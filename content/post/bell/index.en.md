@@ -1,6 +1,6 @@
 +++
 title = 'bell'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bel] n.钟，铃，门铃；钟声'

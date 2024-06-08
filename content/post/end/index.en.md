@@ -1,6 +1,6 @@
 +++
 title = 'end'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[end] n.末端；目标 vt.结束'

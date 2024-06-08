@@ -1,6 +1,6 @@
 +++
 title = 'promise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprɔmis] n.诺言；指望 vt.允诺'

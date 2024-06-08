@@ -1,6 +1,6 @@
 +++
 title = 'tell'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tel] vt.讲述；吩咐；辨别'

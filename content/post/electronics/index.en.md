@@ -1,6 +1,6 @@
 +++
 title = 'electronics'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ilekˈtrɔniks] n.电子学'

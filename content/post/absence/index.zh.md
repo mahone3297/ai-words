@@ -1,6 +1,6 @@
 +++
 title = 'absence'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæbsəns] n.缺席，不在场；缺乏'

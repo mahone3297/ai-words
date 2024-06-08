@@ -1,6 +1,6 @@
 +++
 title = 'Marxist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmɑːksist] a.马克思主义的'

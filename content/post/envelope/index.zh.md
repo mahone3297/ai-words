@@ -1,6 +1,6 @@
 +++
 title = 'envelope'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈenviləup] n.信封；封套；封皮'

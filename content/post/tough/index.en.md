@@ -1,6 +1,6 @@
 +++
 title = 'tough'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tʌf] a.坚韧的；健壮的'

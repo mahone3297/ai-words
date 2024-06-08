@@ -1,6 +1,6 @@
 +++
 title = 'relative'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrelətiv] a.有关系的；相对的'

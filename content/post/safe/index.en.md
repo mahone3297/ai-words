@@ -1,9 +1,9 @@
 +++
 title = 'safe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[seif] a.安全的；谨慎的'
+description = '[seif] n.保险箱'
 keywords = ['ai words', 'safe']
 +++
 

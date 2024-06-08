@@ -1,6 +1,6 @@
 +++
 title = 'practical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpræktikəl] a.实践的；实用的'

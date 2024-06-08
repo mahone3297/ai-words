@@ -1,6 +1,6 @@
 +++
 title = 'cable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkeibl] n.缆，索；电缆；电报'

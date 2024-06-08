@@ -1,6 +1,6 @@
 +++
 title = 'industrialize'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈdʌstriəlaiz] vt.使工业化'

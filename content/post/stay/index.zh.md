@@ -1,6 +1,6 @@
 +++
 title = 'stay'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stei] vi.停留；住 n.逗留'

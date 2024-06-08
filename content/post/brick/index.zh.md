@@ -1,6 +1,6 @@
 +++
 title = 'brick'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[brik] n.砖，砖块；砖状物'

@@ -1,6 +1,6 @@
 +++
 title = 'immediately'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈmiːdjətli] ad.立即；直接地'

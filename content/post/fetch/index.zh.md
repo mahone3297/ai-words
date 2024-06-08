@@ -1,6 +1,6 @@
 +++
 title = 'fetch'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fet∫] vt.拿来；请来，接去'

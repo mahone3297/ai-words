@@ -1,6 +1,6 @@
 +++
 title = 'desire'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈzaiə] vt.相望；要求 n.愿望'

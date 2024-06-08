@@ -1,6 +1,6 @@
 +++
 title = 'dishonor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈɔnə] n.不光彩；丢脸的人'

@@ -1,6 +1,6 @@
 +++
 title = 'humble'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhʌmbl] a.谦逊的；地位低下的'

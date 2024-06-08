@@ -1,6 +1,6 @@
 +++
 title = 'occupy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔkjupai] vt.占领；占，占有'

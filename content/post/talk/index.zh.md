@@ -1,6 +1,6 @@
 +++
 title = 'talk'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tɔːk] vi.讲话 vt.谈论'

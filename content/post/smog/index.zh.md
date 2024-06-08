@@ -1,6 +1,6 @@
 +++
 title = 'smog'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[smɔg] n.烟雾'

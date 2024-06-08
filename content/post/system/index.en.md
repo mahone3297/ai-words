@@ -1,6 +1,6 @@
 +++
 title = 'system'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsistəm] n.系统，体系；制度'

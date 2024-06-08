@@ -1,6 +1,6 @@
 +++
 title = 'idle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈaidl] a.空闲的；懒散的'

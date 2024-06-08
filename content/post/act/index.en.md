@@ -1,6 +1,6 @@
 +++
 title = 'act'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ækt] vi.行动；见效 n.行为'

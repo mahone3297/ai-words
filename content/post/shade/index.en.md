@@ -1,6 +1,6 @@
 +++
 title = 'shade'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫eid] n.荫；遮光物 vi.荫蔽'

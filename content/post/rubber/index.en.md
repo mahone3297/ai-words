@@ -1,6 +1,6 @@
 +++
 title = 'rubber'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrʌbə] n.橡皮(擦子)；橡胶'

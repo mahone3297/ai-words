@@ -1,6 +1,6 @@
 +++
 title = 'responsible'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[risˈpɔnsəbl] a.有责任的；尽责的'

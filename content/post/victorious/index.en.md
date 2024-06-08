@@ -1,6 +1,6 @@
 +++
 title = 'victorious'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[vikˈtɔːriəs] a.胜利的，得胜的'

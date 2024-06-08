@@ -1,6 +1,6 @@
 +++
 title = 'equipment'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈkwipmənt] n.装备，设备，配备'

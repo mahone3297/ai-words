@@ -1,6 +1,6 @@
 +++
 title = 'double'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʌbl] a.两倍的；双的'

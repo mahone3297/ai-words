@@ -1,6 +1,6 @@
 +++
 title = 'authority'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔːˈθɔriti] n.当局，官方；权力'

@@ -1,6 +1,6 @@
 +++
 title = 'mathematical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌmæθiˈmætikəl] a.数学(上)的'

@@ -1,6 +1,6 @@
 +++
 title = 'week'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wiːk] n.星期，周'

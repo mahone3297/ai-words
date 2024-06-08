@@ -1,6 +1,6 @@
 +++
 title = 'freeze'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[friːz] vi.冻；结冻 vt.使结冰'

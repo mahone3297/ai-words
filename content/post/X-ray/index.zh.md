@@ -1,6 +1,6 @@
 +++
 title = 'X-ray'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈeksˈrei] n.X 射线，X 光'

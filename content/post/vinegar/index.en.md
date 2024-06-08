@@ -1,6 +1,6 @@
 +++
 title = 'vinegar'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvinigə] n.醋'

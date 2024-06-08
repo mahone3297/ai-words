@@ -1,6 +1,6 @@
 +++
 title = 'careful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkeəful] a.仔细的；细致的'

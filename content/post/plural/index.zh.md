@@ -1,6 +1,6 @@
 +++
 title = 'plural'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpluərəl] a.复数的 n.复数'

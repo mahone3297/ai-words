@@ -1,6 +1,6 @@
 +++
 title = 'fridge'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fridʒ] n.电冰箱'

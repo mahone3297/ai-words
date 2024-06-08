@@ -1,6 +1,6 @@
 +++
 title = 'waist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[weist] n.腰，腰部'

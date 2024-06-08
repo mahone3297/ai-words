@@ -1,6 +1,6 @@
 +++
 title = 'catch'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kæt∫] vt.捉住；赶上；领会'

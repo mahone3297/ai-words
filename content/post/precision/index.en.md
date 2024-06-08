@@ -1,6 +1,6 @@
 +++
 title = 'precision'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[priˈsiʒən] n.精确，精密，精密度'

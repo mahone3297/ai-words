@@ -1,6 +1,6 @@
 +++
 title = 'solely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsəu(l)li] ad.单独地，唯一地'

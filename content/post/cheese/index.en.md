@@ -1,6 +1,6 @@
 +++
 title = 'cheese'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫iːz] n.乳酪，干酪'

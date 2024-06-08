@@ -1,6 +1,6 @@
 +++
 title = 'turbine'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtəːbain] n.叶轮机，汽轮机'

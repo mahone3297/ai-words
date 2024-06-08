@@ -1,6 +1,6 @@
 +++
 title = 'insult'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinsʌlt] vt.&n.侮辱，凌辱'

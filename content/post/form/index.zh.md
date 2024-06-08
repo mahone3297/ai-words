@@ -1,6 +1,6 @@
 +++
 title = 'form'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fɔːm] n.形式；形状 vt.形成'

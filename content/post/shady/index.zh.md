@@ -1,6 +1,6 @@
 +++
 title = 'shady'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈ∫eidi] a.成荫的，阴凉的'

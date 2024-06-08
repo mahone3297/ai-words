@@ -1,6 +1,6 @@
 +++
 title = 'scan'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skæn] vt.细看；浏览；扫描'

@@ -1,6 +1,6 @@
 +++
 title = 'require'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈkwaiə] vt.需要；要求，命令'

@@ -1,6 +1,6 @@
 +++
 title = 'pipe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[paip] n.管子，导管；烟斗'

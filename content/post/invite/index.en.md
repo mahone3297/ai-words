@@ -1,6 +1,6 @@
 +++
 title = 'invite'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈvait] vt.邀请，聘请；招待'

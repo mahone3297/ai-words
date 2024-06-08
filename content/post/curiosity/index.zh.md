@@ -1,6 +1,6 @@
 +++
 title = 'curiosity'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌkjuəriˈɔsiti] n.好奇，好奇心；珍品'

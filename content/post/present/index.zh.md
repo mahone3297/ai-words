@@ -1,9 +1,9 @@
 +++
 title = 'present'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[priˈzent] a.现在的 n.目前'
+description = 'n.礼物，赠送物'
 keywords = ['ai words', 'present']
 +++
 

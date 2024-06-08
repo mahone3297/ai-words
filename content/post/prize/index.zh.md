@@ -1,6 +1,6 @@
 +++
 title = 'prize'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[praiz] n.奖赏，奖金 vt.珍视'

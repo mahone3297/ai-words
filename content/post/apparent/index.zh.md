@@ -1,6 +1,6 @@
 +++
 title = 'apparent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈpærənt] a.表面上的；明显的'

@@ -1,6 +1,6 @@
 +++
 title = 'yell'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[jel] vi.叫喊'

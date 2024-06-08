@@ -1,6 +1,6 @@
 +++
 title = 'horror'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhɔrə] n.恐怖；战栗；憎恶'

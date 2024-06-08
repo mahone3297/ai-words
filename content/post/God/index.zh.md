@@ -1,6 +1,6 @@
 +++
 title = 'God'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gɔd] n.神，神像；上帝'

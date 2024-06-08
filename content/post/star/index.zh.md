@@ -1,6 +1,6 @@
 +++
 title = 'star'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stɑː] n.星；恒星；明星'

@@ -1,6 +1,6 @@
 +++
 title = 'practically'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpræktikəli] ad.实际上；几乎'

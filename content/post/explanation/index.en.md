@@ -1,6 +1,6 @@
 +++
 title = 'explanation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌekspləˈnei∫ən] n.解释,说明;辩解'

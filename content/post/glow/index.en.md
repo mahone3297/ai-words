@@ -1,6 +1,6 @@
 +++
 title = 'glow'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gləu] n.白热光 vi.发白热光'

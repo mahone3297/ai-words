@@ -1,6 +1,6 @@
 +++
 title = 'neglect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[niˈglekt] vt.忽视，忽略；疏忽'

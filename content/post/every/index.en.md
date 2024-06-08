@@ -1,6 +1,6 @@
 +++
 title = 'every'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈevri] a.每一的；每隔…的'

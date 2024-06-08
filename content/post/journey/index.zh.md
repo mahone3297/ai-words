@@ -1,6 +1,6 @@
 +++
 title = 'journey'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒəːni] n.旅行，旅程 n.旅行'

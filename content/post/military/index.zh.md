@@ -1,6 +1,6 @@
 +++
 title = 'military'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmilitəri] a.军事的；军人的'

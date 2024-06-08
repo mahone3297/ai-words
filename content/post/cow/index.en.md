@@ -1,6 +1,6 @@
 +++
 title = 'cow'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kau] n.母牛，奶牛；母兽'

@@ -1,6 +1,6 @@
 +++
 title = 'joyful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒɔiful] a.十分喜悦的，快乐的'

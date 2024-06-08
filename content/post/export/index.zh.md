@@ -1,6 +1,6 @@
 +++
 title = 'export'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈekspɔːt] vt.输出，出口；运走'

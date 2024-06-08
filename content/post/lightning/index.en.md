@@ -1,6 +1,6 @@
 +++
 title = 'lightning'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlaitniŋ]n.闪电，闪电放电'

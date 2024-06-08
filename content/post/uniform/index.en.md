@@ -1,6 +1,6 @@
 +++
 title = 'uniform'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈjuːnifɔːm] a.一样的 n.制服'

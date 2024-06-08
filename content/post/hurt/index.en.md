@@ -1,6 +1,6 @@
 +++
 title = 'hurt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[həːt] vt.使受伤；使痛心'

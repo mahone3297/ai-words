@@ -1,6 +1,6 @@
 +++
 title = 'predict'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[priˈdikt] v.预言，预告，预测'

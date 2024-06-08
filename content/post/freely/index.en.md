@@ -1,6 +1,6 @@
 +++
 title = 'freely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfriːli] ad.自由地；直率地'

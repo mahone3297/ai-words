@@ -1,6 +1,6 @@
 +++
 title = 'cooperate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəuˈɔpəreit] vi.合作，协作；配合'

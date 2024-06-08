@@ -1,6 +1,6 @@
 +++
 title = 'civil'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsivl] a.公民的；文职的'

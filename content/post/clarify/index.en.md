@@ -1,6 +1,6 @@
 +++
 title = 'clarify'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈklærifai] vt.澄清，阐明'

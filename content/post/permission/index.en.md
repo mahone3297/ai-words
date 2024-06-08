@@ -1,6 +1,6 @@
 +++
 title = 'permission'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pə(ː)ˈmi∫ən] n.允许，许可，同意'

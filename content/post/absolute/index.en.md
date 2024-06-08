@@ -1,6 +1,6 @@
 +++
 title = 'absolute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæbsəluːt] a.绝对的；纯粹的'

@@ -1,6 +1,6 @@
 +++
 title = 'privilege'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprivilidʒ] n.特权，优惠'

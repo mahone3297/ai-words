@@ -1,6 +1,6 @@
 +++
 title = 'curl'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəːl] n.卷毛；螺旋 vi.卷曲'

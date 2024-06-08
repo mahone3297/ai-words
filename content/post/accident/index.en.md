@@ -1,6 +1,6 @@
 +++
 title = 'accident'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæksidənt] n.意外的；事故'

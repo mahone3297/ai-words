@@ -1,6 +1,6 @@
 +++
 title = 'notice'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnəutis] vt.注意 n.通知；注意'

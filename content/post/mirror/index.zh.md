@@ -1,6 +1,6 @@
 +++
 title = 'mirror'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmirə] n.镜子 vt.反映，反射'

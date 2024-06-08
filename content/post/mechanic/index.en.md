@@ -1,6 +1,6 @@
 +++
 title = 'mechanic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[miˈkænik] n.技工，机械，机修工'

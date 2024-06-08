@@ -1,6 +1,6 @@
 +++
 title = 'worst'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wəːst] a.最坏的 ad.最坏地'

@@ -1,6 +1,6 @@
 +++
 title = 'natural'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnæt∫ərəl] a.自然界的；天然的'

@@ -1,6 +1,6 @@
 +++
 title = 'dictionary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdik∫ənəri] n.词典，字典'

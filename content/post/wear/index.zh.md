@@ -1,6 +1,6 @@
 +++
 title = 'wear'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wiə] vt.穿着，戴；磨损'

@@ -1,6 +1,6 @@
 +++
 title = 'gather'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgæðə] vi.聚集；集合 vt.收集'

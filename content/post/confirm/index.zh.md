@@ -1,6 +1,6 @@
 +++
 title = 'confirm'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈfəːm] vt.证实，肯定；批准'

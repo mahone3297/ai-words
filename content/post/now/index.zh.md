@@ -1,6 +1,6 @@
 +++
 title = 'now'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nau] ad.现在；立刻；于是'

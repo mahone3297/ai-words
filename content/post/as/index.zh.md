@@ -1,6 +1,6 @@
 +++
 title = 'as'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[æz] conj.当…的时候'

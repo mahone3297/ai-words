@@ -1,6 +1,6 @@
 +++
 title = 'peasant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpezənt] n.农民'

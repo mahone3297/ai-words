@@ -1,6 +1,6 @@
 +++
 title = 'elimination'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˌlimiˈnei∫ən] n.消灭，排除，消除'

@@ -1,6 +1,6 @@
 +++
 title = 'guess'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ges] vt.&vi.&n.猜测，推测'

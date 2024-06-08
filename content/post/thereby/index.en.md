@@ -1,6 +1,6 @@
 +++
 title = 'thereby'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈðeəˈbai] ad.因此，从而，由此'

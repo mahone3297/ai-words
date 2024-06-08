@@ -1,6 +1,6 @@
 +++
 title = 'precise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[priˈsais] a.精确的，准确的'

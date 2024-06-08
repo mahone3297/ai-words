@@ -1,6 +1,6 @@
 +++
 title = 'philosophy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fiˈlɔsəfi] n.哲学；哲理；人生观'

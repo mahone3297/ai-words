@@ -1,6 +1,6 @@
 +++
 title = 'treat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[triːt] vt.对待；处理 n.款待'

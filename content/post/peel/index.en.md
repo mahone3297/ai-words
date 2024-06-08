@@ -1,6 +1,6 @@
 +++
 title = 'peel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[piːl] vt.剥(皮)，削(皮)'

@@ -1,6 +1,6 @@
 +++
 title = 'outcome'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈautkʌm] n.结果，后果，成果'

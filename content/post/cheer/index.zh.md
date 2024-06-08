@@ -1,6 +1,6 @@
 +++
 title = 'cheer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫iə] vt.使振作；欢呼'

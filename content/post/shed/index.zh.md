@@ -1,9 +1,9 @@
 +++
 title = 'shed'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[∫ed] vt.流出；散发；脱落'
+description = 'n.棚，小屋；贷棚'
 keywords = ['ai words', 'shed']
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'disable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈeibl] vt.使无能，使伤残'

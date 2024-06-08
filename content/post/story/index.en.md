@@ -1,6 +1,6 @@
 +++
 title = 'story'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstɔːri] n.故事，小说，传说'

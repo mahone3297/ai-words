@@ -1,6 +1,6 @@
 +++
 title = 'correspond'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɔːrəˈspɔnd] vi.相符合；相当'

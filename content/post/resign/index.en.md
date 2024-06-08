@@ -1,6 +1,6 @@
 +++
 title = 'resign'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈzain] vt.放弃 vi.辞职'

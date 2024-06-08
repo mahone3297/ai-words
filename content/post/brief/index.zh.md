@@ -1,6 +1,6 @@
 +++
 title = 'brief'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[briːf] a.简短的；短暂的'

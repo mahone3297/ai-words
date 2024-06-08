@@ -1,6 +1,6 @@
 +++
 title = 'elaborate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈlæbərət] a.复杂的；精心制作的'

@@ -1,6 +1,6 @@
 +++
 title = 'quiet'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkwaiət] a.寂静的；安静的'

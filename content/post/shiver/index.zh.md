@@ -1,6 +1,6 @@
 +++
 title = 'shiver'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈ∫ivə] vi.颤抖，哆嗦 n.冷颤'

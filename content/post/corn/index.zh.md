@@ -1,6 +1,6 @@
 +++
 title = 'corn'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɔːn] n.谷物；(英)小麦'

@@ -1,6 +1,6 @@
 +++
 title = 'during'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdjuəriŋ] prep.在…期间'

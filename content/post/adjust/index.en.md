@@ -1,6 +1,6 @@
 +++
 title = 'adjust'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈdʒʌst] vt.调整，调节；校正'

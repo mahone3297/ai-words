@@ -1,6 +1,6 @@
 +++
 title = 'talent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtælənt] n.天才；才能；人才'

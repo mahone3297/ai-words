@@ -1,6 +1,6 @@
 +++
 title = 'broad'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[brɔːd] a.宽的，阔的；广泛的'

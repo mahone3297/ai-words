@@ -1,6 +1,6 @@
 +++
 title = 'aloud'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈlaud] ad.出声地，大声地'

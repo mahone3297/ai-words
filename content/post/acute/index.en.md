@@ -1,6 +1,6 @@
 +++
 title = 'acute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈkjuːt] a.尖的，锐的；敏锐的'

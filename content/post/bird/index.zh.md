@@ -1,6 +1,6 @@
 +++
 title = 'bird'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bəːd] n.鸟，禽'

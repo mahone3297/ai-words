@@ -1,6 +1,6 @@
 +++
 title = 'rub'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rʌb] vt.摩擦，擦 vi.摩擦'

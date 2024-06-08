@@ -1,6 +1,6 @@
 +++
 title = 'passage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpæsidʒ] n.通过；通路，通道'

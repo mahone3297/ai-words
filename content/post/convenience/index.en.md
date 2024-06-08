@@ -1,6 +1,6 @@
 +++
 title = 'convenience'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈviːnjəns] n.便利,方便；厕所'

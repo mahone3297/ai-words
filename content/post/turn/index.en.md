@@ -1,6 +1,6 @@
 +++
 title = 'turn'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[təːn] vt.转；翻 vi.转动'

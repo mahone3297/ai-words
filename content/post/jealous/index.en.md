@@ -1,6 +1,6 @@
 +++
 title = 'jealous'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒeləs] a.妒忌的；猜疑的'

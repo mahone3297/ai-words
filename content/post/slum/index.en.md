@@ -1,6 +1,6 @@
 +++
 title = 'slum'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[slʌm] n.贫民窟，贫民区'

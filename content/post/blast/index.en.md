@@ -1,6 +1,6 @@
 +++
 title = 'blast'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[blɑːst] n.爆炸，冲击波 vt.炸'

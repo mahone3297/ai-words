@@ -1,6 +1,6 @@
 +++
 title = 'fast'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fɑːst] a.快的；偏快的 ad.快'

@@ -1,6 +1,6 @@
 +++
 title = 'share'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫eə] n.份；份额；股份'

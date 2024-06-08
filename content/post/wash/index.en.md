@@ -1,6 +1,6 @@
 +++
 title = 'wash'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wɔ∫] vt.洗；冲出 vi.洗涤'

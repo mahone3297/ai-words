@@ -1,6 +1,6 @@
 +++
 title = 'violent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvaiələnt] a.猛烈的；狂暴的'

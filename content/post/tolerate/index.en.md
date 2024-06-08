@@ -1,6 +1,6 @@
 +++
 title = 'tolerate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtɔləreit] vt.忍受，容忍，宽恕'

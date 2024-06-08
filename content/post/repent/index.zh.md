@@ -1,6 +1,6 @@
 +++
 title = 'repent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈpent] vi.悔悟，悔改 vt.后悔'

@@ -1,6 +1,6 @@
 +++
 title = 'damage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdæmidʒ] vt.损害，毁坏 n.损害'

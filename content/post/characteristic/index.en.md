@@ -1,6 +1,6 @@
 +++
 title = 'characteristic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌkæriktəˈristik] a.特有的 n.特性'

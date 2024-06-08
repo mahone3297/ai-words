@@ -1,6 +1,6 @@
 +++
 title = 'understanding'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌʌndəˈstændiŋ] n.理解；理解力；协定'

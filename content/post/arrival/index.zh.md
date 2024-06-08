@@ -1,6 +1,6 @@
 +++
 title = 'arrival'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈraivəl] n.到达；到来；到达者'

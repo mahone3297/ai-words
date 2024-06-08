@@ -1,6 +1,6 @@
 +++
 title = 'listener'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlisnə] n.听者，听众之一'

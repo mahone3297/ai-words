@@ -1,6 +1,6 @@
 +++
 title = 'static'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstætik] a.静的；静态的'

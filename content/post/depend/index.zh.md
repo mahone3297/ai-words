@@ -1,6 +1,6 @@
 +++
 title = 'depend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈpend] vi.依靠，依赖；相信'

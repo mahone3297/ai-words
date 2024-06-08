@@ -1,6 +1,6 @@
 +++
 title = 'basis'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbeisis] n.基础，根据'

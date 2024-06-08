@@ -1,6 +1,6 @@
 +++
 title = 'list'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[list] n.表，目录 n.列举'

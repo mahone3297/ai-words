@@ -1,6 +1,6 @@
 +++
 title = 'borrow'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbɔrəu] vt.借，借用，借人'

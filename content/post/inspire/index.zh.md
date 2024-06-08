@@ -1,6 +1,6 @@
 +++
 title = 'inspire'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈspaiə] vt.鼓舞；给…以灵感'

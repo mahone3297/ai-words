@@ -1,6 +1,6 @@
 +++
 title = 'deliver'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈlivə] vt.投递，送交；发表'

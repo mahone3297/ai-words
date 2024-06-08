@@ -1,6 +1,6 @@
 +++
 title = 'absorb'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əbˈsɔːb] vt.吸收；使专心'

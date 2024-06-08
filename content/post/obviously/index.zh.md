@@ -1,6 +1,6 @@
 +++
 title = 'obviously'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔbviəsli] ad.明显地，显然地'

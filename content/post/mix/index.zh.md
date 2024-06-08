@@ -1,6 +1,6 @@
 +++
 title = 'mix'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[miks] vt.使混合，混淆'

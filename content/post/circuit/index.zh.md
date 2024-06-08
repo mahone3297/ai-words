@@ -1,6 +1,6 @@
 +++
 title = 'circuit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsəːkit] n.电路；环行；巡行'

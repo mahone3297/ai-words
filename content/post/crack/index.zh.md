@@ -1,6 +1,6 @@
 +++
 title = 'crack'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kræk] n.裂缝，裂纹 vi.爆裂'

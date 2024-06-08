@@ -1,6 +1,6 @@
 +++
 title = 'cheat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫iːt] vt.骗取；哄 vi.行骗'

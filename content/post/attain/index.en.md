@@ -1,6 +1,6 @@
 +++
 title = 'attain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈtein] vt.达到，获得，完成'

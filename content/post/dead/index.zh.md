@@ -1,6 +1,6 @@
 +++
 title = 'dead'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ded] a.死的，无生命的'

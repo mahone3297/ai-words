@@ -1,6 +1,6 @@
 +++
 title = 'chair'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫eə] n.椅子；主席'

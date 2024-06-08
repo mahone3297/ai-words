@@ -1,6 +1,6 @@
 +++
 title = 'umbrella'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ʌmˈbrelə] n.伞，雨伞'

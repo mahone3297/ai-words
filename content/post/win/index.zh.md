@@ -1,6 +1,6 @@
 +++
 title = 'win'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[win] vi.获胜，赢 vt.赢得'

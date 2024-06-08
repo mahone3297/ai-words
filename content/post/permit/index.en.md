@@ -1,6 +1,6 @@
 +++
 title = 'permit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pə(ː)ˈmit] vt.允许 n.执照'

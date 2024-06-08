@@ -1,6 +1,6 @@
 +++
 title = 'renew'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈnjuː] vt.使更新 vi.更新'

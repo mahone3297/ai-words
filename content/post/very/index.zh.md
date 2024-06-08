@@ -1,6 +1,6 @@
 +++
 title = 'very'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈveri] ad.很；完全 a.真的'

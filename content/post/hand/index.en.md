@@ -1,6 +1,6 @@
 +++
 title = 'hand'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hænd] n.手；人手；指针'

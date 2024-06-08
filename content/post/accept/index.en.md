@@ -1,6 +1,6 @@
 +++
 title = 'accept'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əkˈsept] vt.vi.接受；同意'

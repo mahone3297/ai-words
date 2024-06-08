@@ -1,6 +1,6 @@
 +++
 title = 'manly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmænli] a.男子气概的，果断的'

@@ -1,6 +1,6 @@
 +++
 title = 'favourable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfeiərəbl] a.有利的；赞成的'

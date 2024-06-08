@@ -1,6 +1,6 @@
 +++
 title = 'picnic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpiknik] n.郊游，野餐 vi.野餐'

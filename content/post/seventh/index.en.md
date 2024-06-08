@@ -1,6 +1,6 @@
 +++
 title = 'seventh'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsevənθ] num.第七；七分之一'

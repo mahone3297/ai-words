@@ -1,6 +1,6 @@
 +++
 title = 'slogan'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsləugən] n.标语，口号'

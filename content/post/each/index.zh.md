@@ -1,6 +1,6 @@
 +++
 title = 'each'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iːt∫] pron.各，各自 a.各'

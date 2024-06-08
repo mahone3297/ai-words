@@ -1,6 +1,6 @@
 +++
 title = 'tale'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[teil] n.故事，传说'

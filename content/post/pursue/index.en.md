@@ -1,6 +1,6 @@
 +++
 title = 'pursue'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈsjuː] vt.追赶，追踪；进行'

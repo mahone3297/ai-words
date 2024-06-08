@@ -1,6 +1,6 @@
 +++
 title = 'cut'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kʌt] vt.切，割，剪；减少'

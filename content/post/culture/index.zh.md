@@ -1,6 +1,6 @@
 +++
 title = 'culture'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkʌlt∫ə] n.文化，文明；教养'

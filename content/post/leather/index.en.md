@@ -1,6 +1,6 @@
 +++
 title = 'leather'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈleðə] n.皮革；皮革制品'

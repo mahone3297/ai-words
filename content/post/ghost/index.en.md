@@ -1,6 +1,6 @@
 +++
 title = 'ghost'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gəust] n.鬼，灵魂；鬼魂'

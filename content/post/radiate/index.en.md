@@ -1,6 +1,6 @@
 +++
 title = 'radiate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈreidieit] vi.发射光线；辐射'

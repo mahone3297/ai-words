@@ -1,6 +1,6 @@
 +++
 title = 'way'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wei] n.路；路线；方向'

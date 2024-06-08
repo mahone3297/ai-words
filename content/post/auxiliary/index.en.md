@@ -1,6 +1,6 @@
 +++
 title = 'auxiliary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔːgˈziljəri] a.辅助的；附属的'

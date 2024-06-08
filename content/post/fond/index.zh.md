@@ -1,6 +1,6 @@
 +++
 title = 'fond'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fɔnd] a.喜爱的；溺爱的'

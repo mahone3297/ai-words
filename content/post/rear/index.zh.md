@@ -1,9 +1,9 @@
 +++
 title = 'rear'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[riə] n.后部，后面；背面'
+description = 'vt.抚养，培养；栽种'
 keywords = ['ai words', 'rear']
 +++
 

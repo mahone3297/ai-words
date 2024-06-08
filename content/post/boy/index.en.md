@@ -1,6 +1,6 @@
 +++
 title = 'boy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bɔi] n.男孩，少年；家伙'

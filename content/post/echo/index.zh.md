@@ -1,6 +1,6 @@
 +++
 title = 'echo'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈekəu] n.回声，反响 vi.重复'

@@ -1,9 +1,9 @@
 +++
 title = 'used'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[juːst] vi.过去常常'
+description = 'a.旧的；习惯于…的'
 keywords = ['ai words', 'used']
 +++
 

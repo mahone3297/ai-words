@@ -1,6 +1,6 @@
 +++
 title = 'genius'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒiːnjəs] n.天才，天赋，天资'

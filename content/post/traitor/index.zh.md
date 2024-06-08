@@ -1,6 +1,6 @@
 +++
 title = 'traitor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtreitə] n.叛徒，卖国贼'

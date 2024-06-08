@@ -1,6 +1,6 @@
 +++
 title = 'bruise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bruːz] n.青肿，伤痕；擦伤'

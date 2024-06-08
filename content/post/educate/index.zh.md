@@ -1,6 +1,6 @@
 +++
 title = 'educate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈedju(ː)keit] vt.教育；培养；训练'

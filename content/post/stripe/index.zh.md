@@ -1,6 +1,6 @@
 +++
 title = 'stripe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[straip] n.条纹，条子'

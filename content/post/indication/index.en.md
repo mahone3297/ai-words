@@ -1,6 +1,6 @@
 +++
 title = 'indication'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌindiˈkei∫ən] n.指示;表示；表明'

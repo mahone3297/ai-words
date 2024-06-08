@@ -1,6 +1,6 @@
 +++
 title = 'tan'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tæn] n.棕褐色 a.棕黄色的'

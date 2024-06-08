@@ -1,6 +1,6 @@
 +++
 title = 'sharply'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈ∫ɑːpli] ad.锐利地，敏锐地'

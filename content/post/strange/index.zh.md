@@ -1,6 +1,6 @@
 +++
 title = 'strange'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[streindʒ] a.陌生的；奇怪的'

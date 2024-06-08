@@ -1,6 +1,6 @@
 +++
 title = 'sick'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sik] a.有病的；恶心的'

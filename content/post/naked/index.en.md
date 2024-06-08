@@ -1,6 +1,6 @@
 +++
 title = 'naked'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈneikid] a.裸体的；无遮敝的'

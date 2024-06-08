@@ -1,6 +1,6 @@
 +++
 title = 'oven'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈʌvən] n.炉，灶；烘箱'

@@ -1,6 +1,6 @@
 +++
 title = 'herself'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[həːˈself] pron.她自己；她亲自'

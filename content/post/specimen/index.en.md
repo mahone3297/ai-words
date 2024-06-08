@@ -1,6 +1,6 @@
 +++
 title = 'specimen'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈspesimin] n.样本，标本，样品'

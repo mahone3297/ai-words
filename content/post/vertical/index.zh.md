@@ -1,6 +1,6 @@
 +++
 title = 'vertical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvəːtik(ə)l] a.垂直的，竖式的'

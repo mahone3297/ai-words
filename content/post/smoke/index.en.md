@@ -1,6 +1,6 @@
 +++
 title = 'smoke'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sməuk] n.烟；抽烟 vi.冒烟'

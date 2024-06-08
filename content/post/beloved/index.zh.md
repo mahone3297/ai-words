@@ -1,6 +1,6 @@
 +++
 title = 'beloved'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biˈlʌvid] a.为…的爱的 n.爱人'

@@ -1,6 +1,6 @@
 +++
 title = 'income'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinkəm] n.收入；收益；进款'

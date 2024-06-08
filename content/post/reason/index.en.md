@@ -1,6 +1,6 @@
 +++
 title = 'reason'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈriːzn] n.理由；理性 vi.推理'

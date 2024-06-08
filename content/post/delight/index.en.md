@@ -1,6 +1,6 @@
 +++
 title = 'delight'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈlait] n.快乐 vt.使高兴'

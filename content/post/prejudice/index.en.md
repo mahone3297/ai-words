@@ -1,6 +1,6 @@
 +++
 title = 'prejudice'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpredʒudis] n.偏见，成见'

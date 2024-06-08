@@ -1,6 +1,6 @@
 +++
 title = 'certificate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səˈtifikit] n.证书，证件，执照'

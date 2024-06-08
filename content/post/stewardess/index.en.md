@@ -1,6 +1,6 @@
 +++
 title = 'stewardess'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstjuːədis] n.空中小姐，女乘务员'

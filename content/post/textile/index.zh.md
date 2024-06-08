@@ -1,6 +1,6 @@
 +++
 title = 'textile'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtekstail] n.纺织品 a.纺织的'

@@ -1,6 +1,6 @@
 +++
 title = 'blow'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bləu] vi.吹，吹动；吹响'

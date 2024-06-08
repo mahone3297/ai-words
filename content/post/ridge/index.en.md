@@ -1,6 +1,6 @@
 +++
 title = 'ridge'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ridʒ] n.脊；岭，山脉；垄'

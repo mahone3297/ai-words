@@ -1,6 +1,6 @@
 +++
 title = 'simple'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsimpl] a.简单的；朴素的'

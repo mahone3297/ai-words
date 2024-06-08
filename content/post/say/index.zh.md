@@ -1,6 +1,6 @@
 +++
 title = 'say'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sei] vt.说；说明；比如说'

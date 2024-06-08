@@ -1,6 +1,6 @@
 +++
 title = 'regret'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈgret] vt.懊悔；抱歉 n.懊悔'

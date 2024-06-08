@@ -1,6 +1,6 @@
 +++
 title = 'alternative'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔːlˈtəːnətiv] n.替换物；取舍，抉择'

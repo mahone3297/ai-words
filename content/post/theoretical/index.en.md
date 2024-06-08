@@ -1,6 +1,6 @@
 +++
 title = 'theoretical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θiəˈretikəl] a.理论(上)的'

@@ -1,6 +1,6 @@
 +++
 title = 'fool'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fuːl] n.蠢人，傻子 vt.欺骗'

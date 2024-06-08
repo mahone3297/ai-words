@@ -1,6 +1,6 @@
 +++
 title = 'spare'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[speə] vt.节约 a.多余的'

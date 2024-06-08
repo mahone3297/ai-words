@@ -1,6 +1,6 @@
 +++
 title = 'European'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌjuərəˈpi(ː)ən] a.欧洲的 n.欧洲人'

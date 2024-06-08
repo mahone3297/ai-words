@@ -1,6 +1,6 @@
 +++
 title = 'badminton'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbædmintən] n.羽毛球'

@@ -1,6 +1,6 @@
 +++
 title = 'defend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈfend] vt.保卫，防守'

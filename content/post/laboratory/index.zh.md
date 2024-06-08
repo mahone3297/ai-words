@@ -1,6 +1,6 @@
 +++
 title = 'laboratory'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlæbərətəri] n.实验室，研究室'

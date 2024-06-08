@@ -1,6 +1,6 @@
 +++
 title = 'vitamin'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvaitəmin] n.维生素，维他命'

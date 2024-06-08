@@ -1,6 +1,6 @@
 +++
 title = 'thus'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ðʌs] ad.如此，这样；因而'

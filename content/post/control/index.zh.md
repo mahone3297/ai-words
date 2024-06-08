@@ -1,6 +1,6 @@
 +++
 title = 'control'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈtrəul] vt.控制，克制 n.控制'

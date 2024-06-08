@@ -1,6 +1,6 @@
 +++
 title = 'forget'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fəˈget] vt.忘记，遗忘'

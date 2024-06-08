@@ -1,6 +1,6 @@
 +++
 title = 'royal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrɔiəl] a.王的；皇家的'

@@ -1,6 +1,6 @@
 +++
 title = 'spread'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[spred] vt.伸开；传播 n.传播'

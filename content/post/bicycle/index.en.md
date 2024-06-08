@@ -1,6 +1,6 @@
 +++
 title = 'bicycle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbaisikl] n.自行车，脚踏车'

@@ -1,6 +1,6 @@
 +++
 title = 'resolve'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈzɔlv] vt.解决；决心 n.决心'

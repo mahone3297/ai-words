@@ -1,6 +1,6 @@
 +++
 title = 'cheque'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫ek] n.支票'

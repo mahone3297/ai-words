@@ -1,6 +1,6 @@
 +++
 title = 'myself'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[maiˈself] pron.我自己；我亲自'

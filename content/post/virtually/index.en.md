@@ -1,6 +1,6 @@
 +++
 title = 'virtually'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvəːtjuəli] ad.实际上，事实上'

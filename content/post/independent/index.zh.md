@@ -1,6 +1,6 @@
 +++
 title = 'independent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[indiˈpendənt] a.独立的;自主的'

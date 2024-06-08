@@ -1,6 +1,6 @@
 +++
 title = 'disgust'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈgʌst] n.厌恶，憎恶'

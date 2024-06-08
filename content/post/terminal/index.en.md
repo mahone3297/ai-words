@@ -1,6 +1,6 @@
 +++
 title = 'terminal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtəːminl] a.末端的 n.末端'

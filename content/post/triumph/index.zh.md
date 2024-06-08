@@ -1,6 +1,6 @@
 +++
 title = 'triumph'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtraiəmf] n.凯旋；胜利 vi.成功'

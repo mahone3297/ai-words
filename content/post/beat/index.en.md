@@ -1,6 +1,6 @@
 +++
 title = 'beat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biːt] vt.&vi.打，敲；打败'

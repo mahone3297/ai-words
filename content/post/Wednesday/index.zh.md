@@ -1,6 +1,6 @@
 +++
 title = 'Wednesday'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwenzdei] n.星期三'

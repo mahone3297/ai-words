@@ -1,6 +1,6 @@
 +++
 title = 'glitter'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈglitə] vi.闪闪发光 n.闪光'

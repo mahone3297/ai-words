@@ -1,6 +1,6 @@
 +++
 title = 'collar'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔlə] n.衣领，项圈'

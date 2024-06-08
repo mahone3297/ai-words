@@ -1,6 +1,6 @@
 +++
 title = 'slippery'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈslipəri] a.滑的，使人滑跤的'

@@ -1,6 +1,6 @@
 +++
 title = 'drill'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dril] n.钻头；操练 vi.钻孔'

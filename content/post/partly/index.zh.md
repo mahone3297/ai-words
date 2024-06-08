@@ -1,6 +1,6 @@
 +++
 title = 'partly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpɑːtli] ad.部分地，不完全地'

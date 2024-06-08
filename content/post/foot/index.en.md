@@ -1,6 +1,6 @@
 +++
 title = 'foot'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fut] n.脚；最下部；英尺'

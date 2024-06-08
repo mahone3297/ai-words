@@ -1,6 +1,6 @@
 +++
 title = 'consistent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈsistənt] a.坚持的，一贯的'

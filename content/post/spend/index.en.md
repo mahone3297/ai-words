@@ -1,6 +1,6 @@
 +++
 title = 'spend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[spend] vt.用钱，花费；度过'

@@ -1,6 +1,6 @@
 +++
 title = 'damp'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dæmp] a.潮湿的，有湿气的'

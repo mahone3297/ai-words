@@ -1,6 +1,6 @@
 +++
 title = 'admission'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ədˈmi∫ən] n.允许进入；承认'

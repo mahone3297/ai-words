@@ -1,6 +1,6 @@
 +++
 title = 'vacant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈveikənt] a.空的；未被占用的'

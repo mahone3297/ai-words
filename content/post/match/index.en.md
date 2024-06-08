@@ -1,9 +1,9 @@
 +++
 title = 'match'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[mæt∫] n.比赛，竞赛；对手'
+description = 'n.(一根)火柴'
 keywords = ['ai words', 'match']
 +++
 

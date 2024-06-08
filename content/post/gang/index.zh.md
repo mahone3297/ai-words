@@ -1,6 +1,6 @@
 +++
 title = 'gang'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gæŋ] n.一帮，一伙'

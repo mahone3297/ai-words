@@ -1,6 +1,6 @@
 +++
 title = 'version'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvəː∫(ə)n; (US) ˈvərʒn] n.译文；说法；改写本'

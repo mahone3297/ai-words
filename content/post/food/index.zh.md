@@ -1,6 +1,6 @@
 +++
 title = 'food'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fuːd] n.食物，食品，养料'

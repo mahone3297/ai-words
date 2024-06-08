@@ -1,6 +1,6 @@
 +++
 title = 'preposition'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌprepəˈzi∫ən] n.前置词，介词'

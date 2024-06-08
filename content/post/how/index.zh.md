@@ -1,6 +1,6 @@
 +++
 title = 'how'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hau] ad.怎么；怎样；多少'

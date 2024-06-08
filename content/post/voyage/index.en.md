@@ -1,6 +1,6 @@
 +++
 title = 'voyage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvɔiidʒ] n.&vi.航海，航空'

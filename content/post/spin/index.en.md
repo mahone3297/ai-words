@@ -1,6 +1,6 @@
 +++
 title = 'spin'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[spin] vt.纺；使旋转 n.旋转'

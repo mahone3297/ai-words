@@ -1,6 +1,6 @@
 +++
 title = 'guarantee'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌgærənˈtiː] n.保证；担保物'

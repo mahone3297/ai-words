@@ -1,6 +1,6 @@
 +++
 title = 'deal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diːl] n.买卖；待遇 vt.给予'

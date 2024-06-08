@@ -1,6 +1,6 @@
 +++
 title = 'automobile'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌɔːtəˈməubil] n.汽车，机动车'

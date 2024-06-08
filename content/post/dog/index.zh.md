@@ -1,6 +1,6 @@
 +++
 title = 'dog'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dɔg] n.狗，犬，犬科动物'

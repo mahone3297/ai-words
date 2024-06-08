@@ -1,6 +1,6 @@
 +++
 title = 'occasionally'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈkeiʒənəli] ad.偶然;非经常地'

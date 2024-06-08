@@ -1,6 +1,6 @@
 +++
 title = 'photograph'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfəutəgrɑːf;(US)-græf] n.照/相片'

@@ -1,6 +1,6 @@
 +++
 title = 'beard'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biəd] n.胡须，络腮胡子'

@@ -1,6 +1,6 @@
 +++
 title = 'magazine'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌmægəˈziːn] n.杂志，期刊'

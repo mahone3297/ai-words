@@ -1,9 +1,9 @@
 +++
 title = 'stroke'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[strəuk] n.打，击；鸣声；中风'
+description = 'vt.&n.抚，摩，捋'
 keywords = ['ai words', 'stroke']
 +++
 

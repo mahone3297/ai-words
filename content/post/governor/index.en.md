@@ -1,6 +1,6 @@
 +++
 title = 'governor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgʌvənə] n.州长；主管人员'

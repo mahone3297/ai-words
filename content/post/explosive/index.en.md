@@ -1,6 +1,6 @@
 +++
 title = 'explosive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈpləusiv] n.炸药 a.爆炸的'

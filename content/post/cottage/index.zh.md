@@ -1,6 +1,6 @@
 +++
 title = 'cottage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔtidʒ] n.村舍，小屋'

@@ -1,6 +1,6 @@
 +++
 title = 'punctual'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpʌŋktjuəl] a.严守时刻的；准时的'

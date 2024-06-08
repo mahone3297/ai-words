@@ -1,6 +1,6 @@
 +++
 title = 'measure'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmeʒə] vt.量，测量 n.分量'

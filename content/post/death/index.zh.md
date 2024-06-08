@@ -1,6 +1,6 @@
 +++
 title = 'death'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[deθ] n.死，死亡；灭亡'

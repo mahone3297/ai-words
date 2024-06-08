@@ -1,6 +1,6 @@
 +++
 title = 'campus'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkæmpəs] n.校园，学校场地'

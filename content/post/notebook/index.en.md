@@ -1,6 +1,6 @@
 +++
 title = 'notebook'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnəutbuk] n.笔记本，期票簿'

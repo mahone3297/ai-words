@@ -1,6 +1,6 @@
 +++
 title = 'car'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɑː] n.汽车，小汽车，轿车'

@@ -1,6 +1,6 @@
 +++
 title = 'log'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lɔg] n.原木，木料'

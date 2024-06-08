@@ -1,6 +1,6 @@
 +++
 title = 'look'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[luk] vi.看，显得 n.看'

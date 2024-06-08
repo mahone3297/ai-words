@@ -1,6 +1,6 @@
 +++
 title = 'meaning'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmiːniŋ] n.意义，意思；意图'

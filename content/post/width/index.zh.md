@@ -1,6 +1,6 @@
 +++
 title = 'width'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[widθ] n.宽阔，广阔；宽度'

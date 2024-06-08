@@ -1,6 +1,6 @@
 +++
 title = 'classical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈklæsikəl] a.古典的；经典的'

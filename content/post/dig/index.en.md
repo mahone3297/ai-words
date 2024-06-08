@@ -1,6 +1,6 @@
 +++
 title = 'dig'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dig] vt.掘，挖；采掘'

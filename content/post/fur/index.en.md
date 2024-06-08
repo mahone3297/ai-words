@@ -1,6 +1,6 @@
 +++
 title = 'fur'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fəː] n.软毛；毛皮，裘皮'

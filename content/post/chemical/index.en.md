@@ -1,6 +1,6 @@
 +++
 title = 'chemical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkemikəl] a.化学的 n.化学制品'

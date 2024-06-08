@@ -1,6 +1,6 @@
 +++
 title = 'ax'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[æks] n.斧子'

@@ -1,6 +1,6 @@
 +++
 title = 'objective'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əbˈdʒektiv] a.客观的；无偏见的'

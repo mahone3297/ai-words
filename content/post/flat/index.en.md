@@ -1,9 +1,9 @@
 +++
 title = 'flat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[flæt] a.平的，扁平的'
+description = 'n.一套房间；单元住宅'
 keywords = ['ai words', 'flat']
 +++
 

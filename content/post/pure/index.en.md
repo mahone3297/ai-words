@@ -1,6 +1,6 @@
 +++
 title = 'pure'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pjuə] a.纯粹的；纯洁的'

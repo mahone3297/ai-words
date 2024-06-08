@@ -1,6 +1,6 @@
 +++
 title = 'semiconductor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsemikənˈdʌktə] n.半导体'

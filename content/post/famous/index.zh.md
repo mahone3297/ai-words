@@ -1,6 +1,6 @@
 +++
 title = 'famous'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfeiməs] a.著名的，出名的'

@@ -1,6 +1,6 @@
 +++
 title = 'overtake'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈəuvəˈteik] vt.追上，赶上；压倒'

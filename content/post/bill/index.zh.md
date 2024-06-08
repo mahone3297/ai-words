@@ -1,6 +1,6 @@
 +++
 title = 'bill'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bil] n.账单；招贴；票据'

@@ -1,6 +1,6 @@
 +++
 title = 'soldier'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsəuldʒə] n.(陆军)士兵，军人'

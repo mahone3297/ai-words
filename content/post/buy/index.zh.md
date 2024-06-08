@@ -1,6 +1,6 @@
 +++
 title = 'buy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bai] vt.买，购买 vi.买'

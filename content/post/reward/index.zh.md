@@ -1,6 +1,6 @@
 +++
 title = 'reward'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈwɔːd] n.报答；报酬 vt.报答'

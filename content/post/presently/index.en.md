@@ -1,6 +1,6 @@
 +++
 title = 'presently'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprezəntli] ad.一会儿；目前'

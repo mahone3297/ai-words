@@ -1,6 +1,6 @@
 +++
 title = 'comprise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəmˈpraiz] vt.包含，包括；构成'

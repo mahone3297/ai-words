@@ -1,6 +1,6 @@
 +++
 title = 'musician'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mjuːˈzi∫ən] n.音乐家；作曲家'

@@ -1,6 +1,6 @@
 +++
 title = 'walk'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wɔːk] vi.&n.走，步行'

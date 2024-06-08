@@ -1,6 +1,6 @@
 +++
 title = 'constitution'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌkɔnstiˈtjuː∫ən] n.章程;体质;构造'

@@ -1,6 +1,6 @@
 +++
 title = 'wealth'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[welθ] n.财富，财产；丰富'

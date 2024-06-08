@@ -1,6 +1,6 @@
 +++
 title = 'cycle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsaikl] n 自行车，循环'

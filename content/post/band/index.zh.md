@@ -1,6 +1,6 @@
 +++
 title = 'band'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bænd] n.乐队；带；波段'

@@ -1,6 +1,6 @@
 +++
 title = 'friend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[frend] n.朋友，友人'

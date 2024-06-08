@@ -1,6 +1,6 @@
 +++
 title = 'clothe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kləuð] vt.给…穿衣服'

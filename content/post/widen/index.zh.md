@@ -1,6 +1,6 @@
 +++
 title = 'widen'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwaidn] vt.加宽 vi.变宽'

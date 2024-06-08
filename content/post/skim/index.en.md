@@ -1,6 +1,6 @@
 +++
 title = 'skim'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skim] vt.掠过，擦过；略读'

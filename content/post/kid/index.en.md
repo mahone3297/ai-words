@@ -1,6 +1,6 @@
 +++
 title = 'kid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kid] n.小孩，儿童，少年'

@@ -1,6 +1,6 @@
 +++
 title = 'candidate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkændidit] n.候选人；投考者'

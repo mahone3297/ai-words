@@ -1,6 +1,6 @@
 +++
 title = 'intermediate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌintəˈmiːdjət] a.中间/级的'

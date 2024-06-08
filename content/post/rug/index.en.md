@@ -1,6 +1,6 @@
 +++
 title = 'rug'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rʌg] n.小地毯；毛毯'

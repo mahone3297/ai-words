@@ -1,6 +1,6 @@
 +++
 title = 'tremendous'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[triˈmendəs] a.极大的，非常的'

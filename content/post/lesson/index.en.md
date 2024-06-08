@@ -1,6 +1,6 @@
 +++
 title = 'lesson'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlesn] n.功课，课；课程'

@@ -1,6 +1,6 @@
 +++
 title = 'somewhat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsʌm(h)wɔt] pron.一点儿 ad.有点'

@@ -1,6 +1,6 @@
 +++
 title = 'racial'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrei∫əl] a.种族的，人种的'

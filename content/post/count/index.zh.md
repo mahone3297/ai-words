@@ -1,6 +1,6 @@
 +++
 title = 'count'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kaunt] vt.计算 vi.数，计数'

@@ -1,6 +1,6 @@
 +++
 title = 'management'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmænidʒmənt] n.管理；经营，处理'

@@ -1,6 +1,6 @@
 +++
 title = 'visible'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvizəbl] a.可见的，看得见的'

@@ -1,6 +1,6 @@
 +++
 title = 'canal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈnæl] n.运河；沟渠；管'

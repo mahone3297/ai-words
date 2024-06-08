@@ -1,6 +1,6 @@
 +++
 title = 'moan'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[məun] n.呻吟声 vi.呻吟'

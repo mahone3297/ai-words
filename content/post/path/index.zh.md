@@ -1,6 +1,6 @@
 +++
 title = 'path'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pɑːθ] n.路，小道；道路'

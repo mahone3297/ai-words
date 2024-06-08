@@ -1,6 +1,6 @@
 +++
 title = 'pet'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pet] n.爱畜；宠儿 a.宠爱的'

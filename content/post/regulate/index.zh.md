@@ -1,6 +1,6 @@
 +++
 title = 'regulate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈregjuleit] vt.管理，控制；调整'

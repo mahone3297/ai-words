@@ -1,6 +1,6 @@
 +++
 title = 'stretch'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stret∫] vt.伸展 vi.伸 n.伸展'

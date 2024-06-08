@@ -1,6 +1,6 @@
 +++
 title = 'cathedral'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈθiːdrəl] n.总教堂；大教堂'

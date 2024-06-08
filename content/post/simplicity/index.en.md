@@ -1,6 +1,6 @@
 +++
 title = 'simplicity'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[simˈplisiti] n.简单，简易；朴素'

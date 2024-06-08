@@ -1,6 +1,6 @@
 +++
 title = 'class'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[klɑːs] n.班，班级；阶级'

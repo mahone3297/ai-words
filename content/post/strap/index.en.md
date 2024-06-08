@@ -1,6 +1,6 @@
 +++
 title = 'strap'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stræp] n.带子 vt.捆扎'

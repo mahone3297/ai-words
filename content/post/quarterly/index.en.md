@@ -1,6 +1,6 @@
 +++
 title = 'quarterly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkwɔːtəli] a.季度的 ad.季度地'

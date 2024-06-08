@@ -1,6 +1,6 @@
 +++
 title = 'stake'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[steik] n.桩；赌金；奖品'

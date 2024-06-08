@@ -1,6 +1,6 @@
 +++
 title = 'initial'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈni∫əl] a.最初的；词首的'

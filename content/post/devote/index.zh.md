@@ -1,6 +1,6 @@
 +++
 title = 'devote'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈvəut] vt.将…奉献，致力于'

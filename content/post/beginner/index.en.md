@@ -1,6 +1,6 @@
 +++
 title = 'beginner'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biˈginə] n.初学者，生手'

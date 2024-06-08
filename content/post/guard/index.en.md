@@ -1,6 +1,6 @@
 +++
 title = 'guard'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gɑːd] vt.守卫；看守 n.卫兵'

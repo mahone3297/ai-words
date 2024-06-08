@@ -1,6 +1,6 @@
 +++
 title = 'interfere'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌintəˈfiə] vi.干涉，干预；妨碍'

@@ -1,6 +1,6 @@
 +++
 title = 'applicable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæplikəbl] a.能应用的；适当的'

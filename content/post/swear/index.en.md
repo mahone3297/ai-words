@@ -1,6 +1,6 @@
 +++
 title = 'swear'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sweə] vt.宣(誓) vi.诅咒'

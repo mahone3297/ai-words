@@ -1,9 +1,9 @@
 +++
 title = 'fair'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[feə] a.公平的；相当的'
+description = '[ˈfeə] n.定期集市；博览会'
 keywords = ['ai words', 'fair']
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'uncover'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ʌnˈkʌvə] vt.揭开…的盖子'

@@ -1,6 +1,6 @@
 +++
 title = 'discovery'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈkʌvəri] n.发现；被发现的事物'

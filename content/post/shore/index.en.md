@@ -1,6 +1,6 @@
 +++
 title = 'shore'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫ɔː] n.滨，岸'

@@ -1,6 +1,6 @@
 +++
 title = 'joke'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʒəuk] n.笑话 vi.说笑话'

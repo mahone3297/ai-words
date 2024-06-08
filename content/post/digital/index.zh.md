@@ -1,6 +1,6 @@
 +++
 title = 'digital'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdidʒitl] a.数字的，计数的'

@@ -1,6 +1,6 @@
 +++
 title = 'new'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[njuː] a.新的；新近出现的'

@@ -1,6 +1,6 @@
 +++
 title = 'resident'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrezidənt] a.居住的 n.居民'

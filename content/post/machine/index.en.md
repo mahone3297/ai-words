@@ -1,6 +1,6 @@
 +++
 title = 'machine'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[məˈ∫iːn] n.机器；机械'

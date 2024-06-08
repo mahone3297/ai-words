@@ -1,6 +1,6 @@
 +++
 title = 'dependent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈpendənt] a.依靠的，依赖的'

@@ -1,6 +1,6 @@
 +++
 title = 'note'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nəut] n.笔记；便条；注释'

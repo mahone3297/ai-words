@@ -1,6 +1,6 @@
 +++
 title = 'incorrect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌinkəˈrekt] a.不正确的，错误的'

@@ -1,6 +1,6 @@
 +++
 title = 'revise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈvaiz] vt.修订，校订；修改'

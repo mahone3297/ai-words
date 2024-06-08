@@ -1,6 +1,6 @@
 +++
 title = 'mechanical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[miˈkænikl] a.机械的；力学的'

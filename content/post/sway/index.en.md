@@ -1,6 +1,6 @@
 +++
 title = 'sway'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[swei] vi.摇动 vt.摇；摇动'

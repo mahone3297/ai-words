@@ -1,6 +1,6 @@
 +++
 title = 'reputation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌrepju(ː)ˈtei∫ən] n.名誉/声；好名声'

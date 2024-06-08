@@ -1,6 +1,6 @@
 +++
 title = 'organization'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌɔːgənaiˈzei∫ən] n.组织;团体,机构'

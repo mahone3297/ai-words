@@ -1,9 +1,9 @@
 +++
 title = 'wind'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[waind] n.风；气息，呼吸'
+description = 'vt.绕，缠绕 vi.卷曲'
 keywords = ['ai words', 'wind']
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'limitation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌlimiˈtei∫ən] n.限制；限度，局限'

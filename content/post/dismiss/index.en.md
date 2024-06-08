@@ -1,6 +1,6 @@
 +++
 title = 'dismiss'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈmis] vt.不再考虑；解雇'

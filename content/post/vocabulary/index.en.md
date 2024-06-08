@@ -1,6 +1,6 @@
 +++
 title = 'vocabulary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[vəˈkæbjuləri] n.词汇表;词汇，语汇'

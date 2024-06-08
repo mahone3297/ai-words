@@ -1,6 +1,6 @@
 +++
 title = 'off'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔːf] ad.(离)开；(停)止'

@@ -1,6 +1,6 @@
 +++
 title = 'wool'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wul] n.羊毛；毛线，绒线'

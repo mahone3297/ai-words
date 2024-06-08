@@ -1,6 +1,6 @@
 +++
 title = 'preference'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprefərəns] n.偏爱，优先(权)'

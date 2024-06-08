@@ -1,6 +1,6 @@
 +++
 title = 'sum'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sʌm] n.总数；金额 vi.共计'

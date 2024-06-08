@@ -1,6 +1,6 @@
 +++
 title = 'gum'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gʌm] n.口香糖；树胶'

@@ -1,6 +1,6 @@
 +++
 title = 'gas'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gæs] n.煤气；气体；汽油'

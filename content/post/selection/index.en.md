@@ -1,6 +1,6 @@
 +++
 title = 'selection'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[siˈlek∫ən] n.选择，挑选；精选物'

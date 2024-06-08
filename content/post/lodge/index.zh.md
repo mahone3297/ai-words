@@ -1,6 +1,6 @@
 +++
 title = 'lodge'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lɔdʒ] vi.暂住，借宿，投宿'

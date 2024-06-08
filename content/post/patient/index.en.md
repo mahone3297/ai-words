@@ -1,6 +1,6 @@
 +++
 title = 'patient'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpei∫ənt] a.忍耐的 n.病人'

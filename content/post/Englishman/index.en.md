@@ -1,6 +1,6 @@
 +++
 title = 'Englishman'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈiŋgli∫mən] n.英国男子'

@@ -1,6 +1,6 @@
 +++
 title = 'rotate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rəuˈteit] vi.旋转 vt.使旋转'

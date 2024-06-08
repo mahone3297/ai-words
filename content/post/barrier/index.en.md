@@ -1,6 +1,6 @@
 +++
 title = 'barrier'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbæriə] n.栅栏，屏障；障碍'

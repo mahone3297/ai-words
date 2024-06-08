@@ -1,6 +1,6 @@
 +++
 title = 'provided'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəːˈvaidid] conj.以…为条件'

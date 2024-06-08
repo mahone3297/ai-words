@@ -1,6 +1,6 @@
 +++
 title = 'diverse'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[daiˈvəːs] a.不一样的，相异的'

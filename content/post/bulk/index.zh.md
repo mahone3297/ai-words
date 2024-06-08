@@ -1,6 +1,6 @@
 +++
 title = 'bulk'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bʌlk] n.物体，容积，大批'

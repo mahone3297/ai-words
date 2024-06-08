@@ -1,6 +1,6 @@
 +++
 title = 'chief'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫iːf] a.主要的；首席的'

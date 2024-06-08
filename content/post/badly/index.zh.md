@@ -1,6 +1,6 @@
 +++
 title = 'badly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbædli] ad.坏，差；严重地'

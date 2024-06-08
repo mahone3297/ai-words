@@ -1,6 +1,6 @@
 +++
 title = 'solve'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sɔlv] vt.解答，解释，解决'

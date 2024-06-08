@@ -1,6 +1,6 @@
 +++
 title = 'tall'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tɔːl] n.高的，身材高的'

@@ -1,6 +1,6 @@
 +++
 title = 'parent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpeərənt] n.父亲，母亲，双亲'

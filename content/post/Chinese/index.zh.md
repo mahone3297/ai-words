@@ -1,6 +1,6 @@
 +++
 title = 'Chinese'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈt∫aiˈniːz] a.中国的 n.中国人'

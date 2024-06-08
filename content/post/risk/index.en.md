@@ -1,6 +1,6 @@
 +++
 title = 'risk'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[risk] n.风险，危险，冒险'

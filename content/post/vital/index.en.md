@@ -1,6 +1,6 @@
 +++
 title = 'vital'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvaitl] a.生命的；有生命力的'

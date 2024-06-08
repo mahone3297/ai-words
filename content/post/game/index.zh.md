@@ -1,6 +1,6 @@
 +++
 title = 'game'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[geim] n.游戏；比赛；猎物'

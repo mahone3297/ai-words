@@ -1,6 +1,6 @@
 +++
 title = 'garbage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgɑːbidʒ] n.垃圾，污物，废料'

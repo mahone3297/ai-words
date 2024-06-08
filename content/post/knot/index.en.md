@@ -1,6 +1,6 @@
 +++
 title = 'knot'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nɔt] n.(绳的)结，(树的)节'

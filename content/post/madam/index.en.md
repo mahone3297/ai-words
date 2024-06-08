@@ -1,6 +1,6 @@
 +++
 title = 'madam'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmædəm] n.夫人，女士，太太'

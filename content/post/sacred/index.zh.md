@@ -1,6 +1,6 @@
 +++
 title = 'sacred'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈseikrid] a.上帝的；神圣的'

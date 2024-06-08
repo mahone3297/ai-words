@@ -1,6 +1,6 @@
 +++
 title = 'purpose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpəːpəs] n.目的；意图；效果'

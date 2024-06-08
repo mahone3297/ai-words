@@ -1,6 +1,6 @@
 +++
 title = 'follow'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfɔləu] vt.跟随；结果是'

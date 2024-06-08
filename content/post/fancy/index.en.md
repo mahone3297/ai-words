@@ -1,6 +1,6 @@
 +++
 title = 'fancy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfænsi] n.想象力；设想；爱好'

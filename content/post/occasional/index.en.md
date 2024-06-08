@@ -1,6 +1,6 @@
 +++
 title = 'occasional'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈkeiʒənəl] a.偶然的；临时的'

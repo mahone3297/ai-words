@@ -1,6 +1,6 @@
 +++
 title = 'dock'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dɔk] n.船坞；码头；船厂'

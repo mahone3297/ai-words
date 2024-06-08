@@ -1,6 +1,6 @@
 +++
 title = 'cup'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kʌp] n.杯子；(一)杯；奖杯'

@@ -1,6 +1,6 @@
 +++
 title = 'terrific'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[təˈrifik] a.可怕的；极大的'

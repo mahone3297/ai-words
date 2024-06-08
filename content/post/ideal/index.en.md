@@ -1,6 +1,6 @@
 +++
 title = 'ideal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[aiˈdiəl] a.理想的；观念的'

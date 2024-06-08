@@ -1,6 +1,6 @@
 +++
 title = 'republican'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈpʌblikən] a.共和国的'

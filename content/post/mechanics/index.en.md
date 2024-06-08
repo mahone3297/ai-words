@@ -1,6 +1,6 @@
 +++
 title = 'mechanics'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[miˈkæniks] n.力学；技术性细节'

@@ -1,6 +1,6 @@
 +++
 title = 'court'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɔːt] n.法院，法庭；庭院'

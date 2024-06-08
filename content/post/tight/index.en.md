@@ -1,6 +1,6 @@
 +++
 title = 'tight'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tait] a.紧的；紧身的'

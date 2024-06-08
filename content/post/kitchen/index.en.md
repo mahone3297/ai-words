@@ -1,6 +1,6 @@
 +++
 title = 'kitchen'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkit∫in] n.厨房，灶间'

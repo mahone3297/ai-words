@@ -1,6 +1,6 @@
 +++
 title = 'indirect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌindiˈrekt] a.间接的；不坦率的'

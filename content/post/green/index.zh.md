@@ -1,6 +1,6 @@
 +++
 title = 'green'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[griːn] a.绿色的 n.绿色'

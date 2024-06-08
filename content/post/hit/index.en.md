@@ -1,6 +1,6 @@
 +++
 title = 'hit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hit] vt.打；碰撞 n.击'

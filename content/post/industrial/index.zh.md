@@ -1,6 +1,6 @@
 +++
 title = 'industrial'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈdʌstriəl] a.工业的；产业的'

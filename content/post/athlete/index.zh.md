@@ -1,6 +1,6 @@
 +++
 title = 'athlete'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæθliːt] n.运动员；田径运动员'

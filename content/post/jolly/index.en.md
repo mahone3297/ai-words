@@ -1,6 +1,6 @@
 +++
 title = 'jolly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒɔli] a.快活的；令人高兴的'

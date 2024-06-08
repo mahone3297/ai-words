@@ -1,6 +1,6 @@
 +++
 title = 'half'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hɑːf] n.半，一半 a.一半的'

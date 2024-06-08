@@ -1,6 +1,6 @@
 +++
 title = 'solid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsɔlid] a.固体的 n.固体'

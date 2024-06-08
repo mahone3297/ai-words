@@ -1,6 +1,6 @@
 +++
 title = 'theory'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈθiəri] n.理论；学说；意见'

@@ -1,6 +1,6 @@
 +++
 title = 'fairly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfeəli] ad.相当；公平地'

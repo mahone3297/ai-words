@@ -1,6 +1,6 @@
 +++
 title = 'hasten'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈheisn] vt.催促 vi.赶紧'

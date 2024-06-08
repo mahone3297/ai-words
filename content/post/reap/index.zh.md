@@ -1,6 +1,6 @@
 +++
 title = 'reap'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riːp] vt.&vi.收割，收获'

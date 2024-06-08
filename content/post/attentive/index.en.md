@@ -1,6 +1,6 @@
 +++
 title = 'attentive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈtentiv] a.注意的；有礼貌的'

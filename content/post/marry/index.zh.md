@@ -1,6 +1,6 @@
 +++
 title = 'marry'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmæri] vt.娶，嫁 vi.结婚'

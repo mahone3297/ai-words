@@ -1,6 +1,6 @@
 +++
 title = 'judgement'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒʌdʒmənt] n.意见；审判；判断'

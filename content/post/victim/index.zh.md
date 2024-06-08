@@ -1,6 +1,6 @@
 +++
 title = 'victim'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈviktim] n.牺牲者，受害者'

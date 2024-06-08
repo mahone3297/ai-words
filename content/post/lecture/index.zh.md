@@ -1,6 +1,6 @@
 +++
 title = 'lecture'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlekt∫ə] n.&vi.演讲，讲课'

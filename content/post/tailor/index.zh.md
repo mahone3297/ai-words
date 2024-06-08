@@ -1,6 +1,6 @@
 +++
 title = 'tailor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈteilə] n.裁缝 vt.裁制衣服'

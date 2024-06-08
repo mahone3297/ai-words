@@ -1,6 +1,6 @@
 +++
 title = 'fourteen'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfɔːˈtiːn] num.十四，第十四'

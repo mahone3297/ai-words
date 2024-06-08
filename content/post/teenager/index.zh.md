@@ -1,6 +1,6 @@
 +++
 title = 'teenager'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtiːnˌeidʒə] n.青少年'

@@ -1,6 +1,6 @@
 +++
 title = 'pot'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pɔt] n.锅，壶，罐，盆'

@@ -1,6 +1,6 @@
 +++
 title = 'spell'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[spel] vt.拼写 vi.拼字'

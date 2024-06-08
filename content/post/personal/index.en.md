@@ -1,6 +1,6 @@
 +++
 title = 'personal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpəːsənl] a.个人的；本人的'

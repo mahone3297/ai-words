@@ -1,6 +1,6 @@
 +++
 title = 'durable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdjuərəbl] a.耐久的，耐用的'

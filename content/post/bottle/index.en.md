@@ -1,6 +1,6 @@
 +++
 title = 'bottle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbɔtl] n.瓶，酒瓶；一瓶'

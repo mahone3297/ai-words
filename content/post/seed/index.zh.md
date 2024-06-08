@@ -1,6 +1,6 @@
 +++
 title = 'seed'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[siːd] n.种(子)，籽，萌芽'

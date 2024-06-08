@@ -1,6 +1,6 @@
 +++
 title = 'symbol'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsimbəl] n.象征；符号，记号'

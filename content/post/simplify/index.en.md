@@ -1,6 +1,6 @@
 +++
 title = 'simplify'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsimplifai] vt.简化，使单纯'

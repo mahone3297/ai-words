@@ -1,9 +1,9 @@
 +++
 title = 'can'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[kæn] aux.v.能，会，可能'
+description = '[kæn] n.罐头，听头；容器'
 keywords = ['ai words', 'can']
 +++
 

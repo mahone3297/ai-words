@@ -1,6 +1,6 @@
 +++
 title = 'commander'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈmɑːndə] n.司令官，指挥员'

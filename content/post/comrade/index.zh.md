@@ -1,6 +1,6 @@
 +++
 title = 'comrade'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔmrid] n.同志，亲密的同伴'

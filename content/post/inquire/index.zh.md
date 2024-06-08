@@ -1,6 +1,6 @@
 +++
 title = 'inquire'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈkwaiə] vt.打听，询问；调查'

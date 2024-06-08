@@ -1,9 +1,9 @@
 +++
 title = 'wage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[weidʒ] n.工资，报酬'
+description = 'vt.开展(运动)'
 keywords = ['ai words', 'wage']
 +++
 

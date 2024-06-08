@@ -1,6 +1,6 @@
 +++
 title = 'vague'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[veig] a.模糊的，含糊的'

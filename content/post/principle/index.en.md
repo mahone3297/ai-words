@@ -1,6 +1,6 @@
 +++
 title = 'principle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprinsəpl] n.原则，原理；主义'

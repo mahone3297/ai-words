@@ -1,6 +1,6 @@
 +++
 title = 'companion'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəmˈpænjən] n.同伴;共事者;伴侣'

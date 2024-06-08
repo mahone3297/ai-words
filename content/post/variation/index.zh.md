@@ -1,6 +1,6 @@
 +++
 title = 'variation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌveəriˈei∫ən] n.变化，变动；变异'

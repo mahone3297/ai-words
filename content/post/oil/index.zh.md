@@ -1,6 +1,6 @@
 +++
 title = 'oil'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔil] n.油；石油 vt.加油于'

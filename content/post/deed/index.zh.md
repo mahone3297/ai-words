@@ -1,6 +1,6 @@
 +++
 title = 'deed'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diːd] n.行为；功绩；契约'

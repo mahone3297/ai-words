@@ -1,6 +1,6 @@
 +++
 title = 'skirt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skəːt] n.女裙；边缘；郊区'

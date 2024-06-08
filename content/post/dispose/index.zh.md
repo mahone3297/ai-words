@@ -1,6 +1,6 @@
 +++
 title = 'dispose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈpəuz] vi.去掉，丢掉；销毁'

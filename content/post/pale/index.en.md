@@ -1,6 +1,6 @@
 +++
 title = 'pale'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[peil] a.苍白的；浅的'

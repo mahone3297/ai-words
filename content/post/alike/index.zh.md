@@ -1,6 +1,6 @@
 +++
 title = 'alike'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈlaik] a.同样的，相同的'

@@ -1,6 +1,6 @@
 +++
 title = 'domestic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dəˈmestik] a.本国的；家庭的'

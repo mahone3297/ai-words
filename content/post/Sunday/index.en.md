@@ -1,6 +1,6 @@
 +++
 title = 'Sunday'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsʌndi] n.星期日，礼拜日'

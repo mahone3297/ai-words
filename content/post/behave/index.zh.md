@@ -1,6 +1,6 @@
 +++
 title = 'behave'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biˈheiv] vi.表现，举止；运转'

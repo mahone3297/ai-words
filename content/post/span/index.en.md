@@ -1,6 +1,6 @@
 +++
 title = 'span'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[spæn] n.跨距；一段时间'

@@ -1,6 +1,6 @@
 +++
 title = 'safely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈseifli] ad.安全地；可靠地'

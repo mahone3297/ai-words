@@ -1,9 +1,9 @@
 +++
 title = 'tip'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[tip] n.梢，末端，尖，尖端'
+description = 'vt.轻击 vi.给小费'
 keywords = ['ai words', 'tip']
 +++
 

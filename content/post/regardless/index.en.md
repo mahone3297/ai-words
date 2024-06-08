@@ -1,6 +1,6 @@
 +++
 title = 'regardless'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈgɑːdlis] ad.不顾一切地'

@@ -1,6 +1,6 @@
 +++
 title = 'tape'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[teip] n.线带；磁带，录音带'

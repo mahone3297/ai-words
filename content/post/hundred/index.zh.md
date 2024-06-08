@@ -1,6 +1,6 @@
 +++
 title = 'hundred'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhʌndrid], num.百，百个 n.许多'

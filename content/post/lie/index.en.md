@@ -1,9 +1,9 @@
 +++
 title = 'lie'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[lai] vi.躺，平放；位于'
+description = 'vi.说谎，欺骗 n.谎话'
 keywords = ['ai words', 'lie']
 +++
 

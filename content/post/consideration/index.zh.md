@@ -1,6 +1,6 @@
 +++
 title = 'consideration'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənsidəˈrei∫ən] n.考虑，思考；体贴'

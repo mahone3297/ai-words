@@ -1,6 +1,6 @@
 +++
 title = 'usual'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈjuːʒuəl] a.通常的；平常的'

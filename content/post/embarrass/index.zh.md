@@ -1,6 +1,6 @@
 +++
 title = 'embarrass'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[imˈbærəs] vt.使窘迫，使为难'

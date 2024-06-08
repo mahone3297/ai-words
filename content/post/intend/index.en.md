@@ -1,6 +1,6 @@
 +++
 title = 'intend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈtend] vt.想要，打算；意指'

@@ -1,6 +1,6 @@
 +++
 title = 'pit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pit] n.坑，地坑；煤矿'

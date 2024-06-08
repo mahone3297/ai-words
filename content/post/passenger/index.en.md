@@ -1,6 +1,6 @@
 +++
 title = 'passenger'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpæsindʒə] n.乘客,旅客,过路人'

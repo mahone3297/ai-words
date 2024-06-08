@@ -1,6 +1,6 @@
 +++
 title = 'federal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfedərəl] a.联邦的；联盟的'

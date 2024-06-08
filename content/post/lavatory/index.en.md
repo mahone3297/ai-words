@@ -1,6 +1,6 @@
 +++
 title = 'lavatory'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlævəˌtəri] n.盥洗室，厕所'

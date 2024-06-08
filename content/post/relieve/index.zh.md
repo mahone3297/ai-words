@@ -1,6 +1,6 @@
 +++
 title = 'relieve'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈliːv] vt.减轻，解除；救济'

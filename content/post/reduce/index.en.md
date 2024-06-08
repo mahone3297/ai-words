@@ -1,6 +1,6 @@
 +++
 title = 'reduce'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈdjuːs] vt.减少，减小；简化'

@@ -1,6 +1,6 @@
 +++
 title = 'probability'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌprɔbəˈbiliti] n.可能性；概率'

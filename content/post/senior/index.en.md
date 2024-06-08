@@ -1,6 +1,6 @@
 +++
 title = 'senior'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsiːnjə] a.年少的；地位较高的'

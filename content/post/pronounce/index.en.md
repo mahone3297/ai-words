@@ -1,6 +1,6 @@
 +++
 title = 'pronounce'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈnauns] vt.发…的音；宣布'

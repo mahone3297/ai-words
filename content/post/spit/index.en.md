@@ -1,6 +1,6 @@
 +++
 title = 'spit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[spit] vi.吐 vi.吐唾沫'

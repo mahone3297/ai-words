@@ -1,6 +1,6 @@
 +++
 title = 'pine'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pain] n.松树，松木'

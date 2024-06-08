@@ -1,6 +1,6 @@
 +++
 title = 'junior'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒuːnjə] a.年少的 n.晚辈'

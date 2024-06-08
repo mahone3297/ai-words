@@ -1,6 +1,6 @@
 +++
 title = 'asian'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈei∫ən] a.亚洲的 n.亚洲人'

@@ -1,6 +1,6 @@
 +++
 title = 'nylon'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnailən] n.尼龙，耐纶'

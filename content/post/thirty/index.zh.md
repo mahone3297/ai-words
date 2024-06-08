@@ -1,6 +1,6 @@
 +++
 title = 'thirty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈθəːti] num.三十，三十个'

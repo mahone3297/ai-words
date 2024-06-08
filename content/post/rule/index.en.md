@@ -1,6 +1,6 @@
 +++
 title = 'rule'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ruːl] n.统治；规定；习惯'

@@ -1,6 +1,6 @@
 +++
 title = 'foolish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfuːli∫] a.愚蠢的；鲁莽的'

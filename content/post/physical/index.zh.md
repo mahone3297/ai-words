@@ -1,6 +1,6 @@
 +++
 title = 'physical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfizikəl] a.物质的；物理的'

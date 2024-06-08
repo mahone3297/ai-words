@@ -1,6 +1,6 @@
 +++
 title = 'electric'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈlektrik] a.电的，电动的'

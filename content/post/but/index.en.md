@@ -1,6 +1,6 @@
 +++
 title = 'but'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bʌt] conj.但是，可是'

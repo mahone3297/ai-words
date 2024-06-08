@@ -1,6 +1,6 @@
 +++
 title = 'pull'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pul] vt.拉，拖；拉，拉力'

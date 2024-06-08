@@ -1,6 +1,6 @@
 +++
 title = 'customer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkʌstəmə] n.顾客，主顾'

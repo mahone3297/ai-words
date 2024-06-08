@@ -1,6 +1,6 @@
 +++
 title = 'squeeze'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skwiːz] vt.&vi.榨，挤；压榨'

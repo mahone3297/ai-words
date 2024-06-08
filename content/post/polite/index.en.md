@@ -1,6 +1,6 @@
 +++
 title = 'polite'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈlait] a.有礼貌的；有教养的'

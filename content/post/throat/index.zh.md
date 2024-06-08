@@ -1,6 +1,6 @@
 +++
 title = 'throat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θrəut] n.咽喉，喉咙；嗓音'

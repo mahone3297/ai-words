@@ -1,6 +1,6 @@
 +++
 title = 'knowledge'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnɔlidʒ] n.知识，学识；知道'

@@ -1,6 +1,6 @@
 +++
 title = 'staircase'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsteəkeis] n.楼梯，楼梯间'

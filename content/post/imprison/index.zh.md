@@ -1,6 +1,6 @@
 +++
 title = 'imprison'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[imˈprizn] vt.关押，监禁；限制'

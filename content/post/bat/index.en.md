@@ -1,6 +1,6 @@
 +++
 title = 'bat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bæt] n.球拍；短棍；蝙蝠'

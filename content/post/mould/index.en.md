@@ -1,6 +1,6 @@
 +++
 title = 'mould'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[məuld] n.模子，模型 vt.浇铸'

@@ -1,6 +1,6 @@
 +++
 title = 'all'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔːl] a.全部的 prep.全部'

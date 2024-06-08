@@ -1,6 +1,6 @@
 +++
 title = 'factor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfæktə] n.因素；因子，系数'

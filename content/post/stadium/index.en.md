@@ -1,6 +1,6 @@
 +++
 title = 'stadium'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsteidiəm] n.露天大型运动场'

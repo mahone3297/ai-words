@@ -1,6 +1,6 @@
 +++
 title = 'have'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hæv] v.aux.已经 vt.有；吃'

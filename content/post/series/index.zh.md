@@ -1,6 +1,6 @@
 +++
 title = 'series'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsiəriːz] n.连续，系列；丛书'

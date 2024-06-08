@@ -1,6 +1,6 @@
 +++
 title = 'separate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsepəreit] a.分离的；个别的'

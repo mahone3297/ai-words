@@ -1,6 +1,6 @@
 +++
 title = 'sharp'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫ɑːp] a.锋利的；敏锐的'

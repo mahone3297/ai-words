@@ -1,6 +1,6 @@
 +++
 title = 'access'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈækses] n.接近；通道，入口'

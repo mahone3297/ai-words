@@ -1,6 +1,6 @@
 +++
 title = 'cook'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kuk] vt.烹调，煮 vt.烧菜'

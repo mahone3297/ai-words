@@ -1,6 +1,6 @@
 +++
 title = 'burden'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbəːdn] n.担子，重担；装载量'

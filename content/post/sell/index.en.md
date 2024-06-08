@@ -1,6 +1,6 @@
 +++
 title = 'sell'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sel] vt.&vi.卖，销售'

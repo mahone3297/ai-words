@@ -1,6 +1,6 @@
 +++
 title = 'deposit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈpɔzit] vt.使沉淀；存放'

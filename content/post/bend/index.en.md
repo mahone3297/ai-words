@@ -1,6 +1,6 @@
 +++
 title = 'bend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bend] vt.使弯曲 vi.弯曲'

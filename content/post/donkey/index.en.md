@@ -1,6 +1,6 @@
 +++
 title = 'donkey'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdɔŋki] n.驴；笨蛋'

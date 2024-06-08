@@ -1,6 +1,6 @@
 +++
 title = 'withstand'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wiðˈstænd] vt.抵挡，反抗'

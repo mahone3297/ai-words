@@ -1,6 +1,6 @@
 +++
 title = 'faulty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfɔːlti] a.有错误的，有缺点的'

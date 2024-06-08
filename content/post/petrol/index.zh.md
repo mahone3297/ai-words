@@ -1,6 +1,6 @@
 +++
 title = 'petrol'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpetrəl] n.(英)汽油'

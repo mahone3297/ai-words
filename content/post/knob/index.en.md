@@ -1,6 +1,6 @@
 +++
 title = 'knob'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nɔb] n.门把，拉手；旋纽'

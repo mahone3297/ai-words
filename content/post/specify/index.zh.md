@@ -1,6 +1,6 @@
 +++
 title = 'specify'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈspesifai] vi.指定，详细说明'

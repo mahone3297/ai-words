@@ -1,6 +1,6 @@
 +++
 title = 'potential'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈten∫(ə)l] a.潜在的 n.潜力'

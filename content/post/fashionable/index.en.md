@@ -1,6 +1,6 @@
 +++
 title = 'fashionable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfæ∫ənəbl] a.流行的，时髦的'

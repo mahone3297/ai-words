@@ -1,6 +1,6 @@
 +++
 title = 'inform'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈfɔːm] vt.通知，向…报告'

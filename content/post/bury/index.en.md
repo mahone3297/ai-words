@@ -1,6 +1,6 @@
 +++
 title = 'bury'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈberi] vt.埋葬，葬；埋藏'

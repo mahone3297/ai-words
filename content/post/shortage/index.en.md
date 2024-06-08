@@ -1,6 +1,6 @@
 +++
 title = 'shortage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈ∫ɔːtidʒ] n.不足，缺少，不足额'

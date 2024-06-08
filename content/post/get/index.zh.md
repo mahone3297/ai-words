@@ -1,6 +1,6 @@
 +++
 title = 'get'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[get] vi.变得，成为；到达'

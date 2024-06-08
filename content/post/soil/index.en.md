@@ -1,9 +1,9 @@
 +++
 title = 'soil'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[sɔil] n.泥土，土壤，土地'
+description = '[sɔil] vt.弄脏 vi.变脏'
 keywords = ['ai words', 'soil']
 +++
 

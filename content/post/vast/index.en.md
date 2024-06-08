@@ -1,6 +1,6 @@
 +++
 title = 'vast'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[vɑːst] a.巨大的；大量的'

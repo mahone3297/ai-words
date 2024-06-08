@@ -1,6 +1,6 @@
 +++
 title = 'tune'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tjuːn] n.调子；和谐 vt.调谐'

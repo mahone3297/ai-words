@@ -1,6 +1,6 @@
 +++
 title = 'demonstrate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdemənstreit] vt.说明;论证;表露'

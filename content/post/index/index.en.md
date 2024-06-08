@@ -1,6 +1,6 @@
 +++
 title = 'index'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈindeks] n.索引；指数；指标'

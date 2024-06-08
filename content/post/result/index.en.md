@@ -1,6 +1,6 @@
 +++
 title = 'result'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈzʌlt] n.成果 vi.发生，结果'

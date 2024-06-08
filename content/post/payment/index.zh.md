@@ -1,6 +1,6 @@
 +++
 title = 'payment'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpeimənt] n.支付，支付的款项'

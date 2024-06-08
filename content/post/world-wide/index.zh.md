@@ -1,6 +1,6 @@
 +++
 title = 'world-wide'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwəːldwaid] a.遍及全球的'

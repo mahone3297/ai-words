@@ -1,6 +1,6 @@
 +++
 title = 'know'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nəu] vt.知道；认识；通晓'

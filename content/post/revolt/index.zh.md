@@ -1,6 +1,6 @@
 +++
 title = 'revolt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈvəult] vi.&n.反抗，造反'

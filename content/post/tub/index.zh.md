@@ -1,6 +1,6 @@
 +++
 title = 'tub'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tʌb] n.桶，盆，浴缸，浴盆'

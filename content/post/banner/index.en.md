@@ -1,6 +1,6 @@
 +++
 title = 'banner'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbænə] n.旗，旗帜，横幅'

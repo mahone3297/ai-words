@@ -1,6 +1,6 @@
 +++
 title = 'secondary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsekəndəri] a.第二的；次要的'

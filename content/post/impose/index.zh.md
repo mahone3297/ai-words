@@ -1,6 +1,6 @@
 +++
 title = 'impose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[imˈpəuz] vt.把…强加；征(税)'

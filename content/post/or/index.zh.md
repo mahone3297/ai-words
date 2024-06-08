@@ -1,6 +1,6 @@
 +++
 title = 'or'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔː(r)] conj.或，或者；即'

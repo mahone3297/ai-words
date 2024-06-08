@@ -1,6 +1,6 @@
 +++
 title = 'expectation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌekspekˈtei∫ən] n.期待/望，预期'

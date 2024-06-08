@@ -1,6 +1,6 @@
 +++
 title = 'average'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈævəridʒ] n.平均数 a.平均的'

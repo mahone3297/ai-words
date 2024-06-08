@@ -1,6 +1,6 @@
 +++
 title = 'vigorous'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvigərəs] a.朝气蓬勃的'

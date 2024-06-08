@@ -1,6 +1,6 @@
 +++
 title = 'plate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pleit] n.板，片，盘 vt.电镀'

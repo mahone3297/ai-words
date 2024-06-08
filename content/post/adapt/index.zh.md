@@ -1,6 +1,6 @@
 +++
 title = 'adapt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈdæpt] vt.使适应；改编'

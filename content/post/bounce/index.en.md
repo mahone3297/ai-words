@@ -1,6 +1,6 @@
 +++
 title = 'bounce'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bauns] vi.反跳，弹起；跳起'

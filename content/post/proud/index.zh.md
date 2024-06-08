@@ -1,6 +1,6 @@
 +++
 title = 'proud'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[praud] a.骄傲的；自豪的'

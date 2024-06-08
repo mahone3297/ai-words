@@ -1,9 +1,9 @@
 +++
 title = 'scale'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[skeil] n.天平，磅秤，秤'
+description = 'n.标度；比例；大小'
 keywords = ['ai words', 'scale']
 +++
 

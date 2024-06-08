@@ -1,6 +1,6 @@
 +++
 title = 'tidy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtaidi] a.整洁的；整齐的'

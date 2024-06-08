@@ -1,6 +1,6 @@
 +++
 title = 'cloth'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[klɔ(ː)θ] n.布；衣料；桌布'

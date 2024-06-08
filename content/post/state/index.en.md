@@ -1,9 +1,9 @@
 +++
 title = 'state'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[steit] n.状态；国家；州'
+description = 'vt.陈述，说明，阐明'
 keywords = ['ai words', 'state']
 +++
 

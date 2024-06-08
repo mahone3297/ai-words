@@ -1,9 +1,9 @@
 +++
 title = 'pupil'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[ˈpjuːpil] n.学生，小学生'
+description = 'n.瞳孔'
 keywords = ['ai words', 'pupil']
 +++
 

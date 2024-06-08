@@ -1,6 +1,6 @@
 +++
 title = 'examine'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[igˈzæmin] vt.检查，仔细观察'

@@ -1,6 +1,6 @@
 +++
 title = 'farmer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfɑːmə] n.农民，农夫；农场主'

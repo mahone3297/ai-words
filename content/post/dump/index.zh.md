@@ -1,6 +1,6 @@
 +++
 title = 'dump'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʌmp] vt.倾卸，倾倒；倾销'

@@ -1,6 +1,6 @@
 +++
 title = 'equal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈiːkwəl] a.相等的；平等的'

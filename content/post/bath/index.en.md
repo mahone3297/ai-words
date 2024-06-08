@@ -1,6 +1,6 @@
 +++
 title = 'bath'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bɑːθ] n.浴，洗澡；浴缸'

@@ -1,6 +1,6 @@
 +++
 title = 'confine'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔnfain] vt.限制；禁闭'

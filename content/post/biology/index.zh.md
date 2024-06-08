@@ -1,6 +1,6 @@
 +++
 title = 'biology'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[baiˈɔlədʒi] n.生物学；生态学'

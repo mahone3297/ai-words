@@ -1,6 +1,6 @@
 +++
 title = 'clock'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[klɔk] n.钟，仪表'

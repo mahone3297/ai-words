@@ -1,6 +1,6 @@
 +++
 title = 'first'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fəːst] num.第一 ad.最初'

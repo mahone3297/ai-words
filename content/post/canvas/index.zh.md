@@ -1,6 +1,6 @@
 +++
 title = 'canvas'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkænvəs] n.粗帆布；一块油画布'

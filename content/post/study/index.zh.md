@@ -1,6 +1,6 @@
 +++
 title = 'study'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstʌdi] n.学习，研究 vt.学'

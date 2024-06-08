@@ -1,6 +1,6 @@
 +++
 title = 'contempt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈtempt] n.轻蔑；藐视；受辱'

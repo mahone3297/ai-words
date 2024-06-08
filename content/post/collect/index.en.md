@@ -1,6 +1,6 @@
 +++
 title = 'collect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈlekt] vt.收集 vi.收款'

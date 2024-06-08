@@ -1,6 +1,6 @@
 +++
 title = 'tenant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtenənt] n.承担人，房客，佃户'

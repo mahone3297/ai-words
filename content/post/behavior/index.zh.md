@@ -1,6 +1,6 @@
 +++
 title = 'behavior'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biˈheivjə] n.行为，举止，态度'

@@ -1,6 +1,6 @@
 +++
 title = 'inn'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[in] n.小旅店；小酒店'

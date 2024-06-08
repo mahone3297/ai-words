@@ -1,6 +1,6 @@
 +++
 title = 'interior'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈtiəriə] a.内的；内地的 n.内部'

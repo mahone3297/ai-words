@@ -1,6 +1,6 @@
 +++
 title = 'cease'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[siːs] vi.&vi.&n.停止，停息'

@@ -1,6 +1,6 @@
 +++
 title = 'claim'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kleim] vt.声称，主张；索取'

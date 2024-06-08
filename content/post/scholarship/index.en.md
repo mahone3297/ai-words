@@ -1,6 +1,6 @@
 +++
 title = 'scholarship'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈskɔlə∫ip] n.学业成绩；奖学金'

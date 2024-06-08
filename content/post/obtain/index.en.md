@@ -1,6 +1,6 @@
 +++
 title = 'obtain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əbˈtein] vt.获得，得到，买到'

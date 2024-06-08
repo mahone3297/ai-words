@@ -1,6 +1,6 @@
 +++
 title = 'irregular'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈregjulə] a.不规则的；不整齐的'

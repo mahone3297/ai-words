@@ -1,6 +1,6 @@
 +++
 title = 'than'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ðæn] conj.(比较级)比'

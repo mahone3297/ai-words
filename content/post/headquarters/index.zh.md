@@ -1,6 +1,6 @@
 +++
 title = 'headquarters'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhedˌkwɔːtəz] n.司令部；总部'

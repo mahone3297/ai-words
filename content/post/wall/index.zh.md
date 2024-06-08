@@ -1,6 +1,6 @@
 +++
 title = 'wall'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wɔːl] n.墙，壁，围墙，城墙'

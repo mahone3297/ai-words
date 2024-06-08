@@ -1,6 +1,6 @@
 +++
 title = 'stem'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stem] n.茎，(树)干 vi.起源'

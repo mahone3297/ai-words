@@ -1,6 +1,6 @@
 +++
 title = 'sin'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sin] n.罪，罪孽 vi.犯罪'

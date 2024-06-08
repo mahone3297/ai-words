@@ -1,6 +1,6 @@
 +++
 title = 'thorough'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈθʌrə] a.彻底的；详尽的'

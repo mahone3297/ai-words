@@ -1,6 +1,6 @@
 +++
 title = 'outdoors'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[autˈdɔːz] ad.在户外，在野外'

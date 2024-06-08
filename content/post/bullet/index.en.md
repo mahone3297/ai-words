@@ -1,6 +1,6 @@
 +++
 title = 'bullet'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbulit] n.枪弹，子弹，弹丸'

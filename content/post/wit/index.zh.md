@@ -1,6 +1,6 @@
 +++
 title = 'wit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wit] n.智力，才智，智能'

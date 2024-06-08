@@ -1,6 +1,6 @@
 +++
 title = 'reinforce'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌriːinˈfɔːs] vt.增援，支援；加强'

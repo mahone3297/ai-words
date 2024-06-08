@@ -1,6 +1,6 @@
 +++
 title = 'cabbage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkæbidʒ] n.洋白菜，卷心菜'

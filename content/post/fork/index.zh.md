@@ -1,6 +1,6 @@
 +++
 title = 'fork'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fɔːk] n.餐叉；叉；分叉'

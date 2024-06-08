@@ -1,6 +1,6 @@
 +++
 title = 'imitate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈimiteit] vt.模仿，仿效；仿制'

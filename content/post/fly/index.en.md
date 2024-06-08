@@ -1,6 +1,6 @@
 +++
 title = 'fly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[flai] n.蝇，苍蝇 vi.飞行'

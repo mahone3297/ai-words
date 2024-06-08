@@ -1,6 +1,6 @@
 +++
 title = 'purity'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpjuəriti] n.纯净；纯洁；纯度'

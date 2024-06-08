@@ -1,6 +1,6 @@
 +++
 title = 'elementary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌeliˈmentəri] a.基本的；初级的'

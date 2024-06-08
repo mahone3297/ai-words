@@ -1,6 +1,6 @@
 +++
 title = 'spur'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[spəː] n.刺激物 vt.刺激'

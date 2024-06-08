@@ -1,6 +1,6 @@
 +++
 title = 'exclaim'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈkleim] vi.呼喊；惊叫'

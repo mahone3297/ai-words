@@ -1,6 +1,6 @@
 +++
 title = 'president'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprezidənt] n.总统；校长；会长'

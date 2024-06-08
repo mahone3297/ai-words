@@ -1,6 +1,6 @@
 +++
 title = 'distant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdistənt] a.在远处的，疏远的'

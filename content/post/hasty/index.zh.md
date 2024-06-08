@@ -1,6 +1,6 @@
 +++
 title = 'hasty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈheisti] a.急速的；仓促的'

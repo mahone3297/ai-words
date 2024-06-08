@@ -1,6 +1,6 @@
 +++
 title = 'care'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[keə] vi.关心，介意 n.小心'

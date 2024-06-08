@@ -1,6 +1,6 @@
 +++
 title = 'ditch'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dit∫] n.沟，沟渠，渠道'

@@ -1,6 +1,6 @@
 +++
 title = 'perceive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈsiːv] vt.察觉，发觉；理解'

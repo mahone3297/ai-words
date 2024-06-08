@@ -1,6 +1,6 @@
 +++
 title = 'roar'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rɔː] vi.吼叫；呼喊 n.吼'

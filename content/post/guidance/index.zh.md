@@ -1,6 +1,6 @@
 +++
 title = 'guidance'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgaidəns] n.引导，指导，领导'

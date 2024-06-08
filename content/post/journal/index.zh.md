@@ -1,6 +1,6 @@
 +++
 title = 'journal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒəːnl] n.日报，杂志；日志'

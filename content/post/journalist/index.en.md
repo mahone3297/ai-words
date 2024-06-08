@@ -1,6 +1,6 @@
 +++
 title = 'journalist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒəːnəlist] n.记者，新闻工作者'

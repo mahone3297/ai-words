@@ -1,6 +1,6 @@
 +++
 title = 'hospital'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhɔspitl] n.医院'

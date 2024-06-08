@@ -1,6 +1,6 @@
 +++
 title = 'though'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ðəu] conj.虽然 ad.可是'

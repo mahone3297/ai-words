@@ -1,6 +1,6 @@
 +++
 title = 'navigation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌnæviˈgei∫ən] n.航行;航海术;导航'

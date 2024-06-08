@@ -1,6 +1,6 @@
 +++
 title = 'diligent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdilidʒənt] a.勤勉的，勤奋的'

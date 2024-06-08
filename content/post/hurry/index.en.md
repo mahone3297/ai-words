@@ -1,6 +1,6 @@
 +++
 title = 'hurry'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhʌri] vi.赶紧 vt.催促'

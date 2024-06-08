@@ -1,6 +1,6 @@
 +++
 title = 'constant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔnstənt] a.经常的；永恒的'

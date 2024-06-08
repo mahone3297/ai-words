@@ -1,6 +1,6 @@
 +++
 title = 'minority'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[maiˈnɔriti] n.少数；少数民族'

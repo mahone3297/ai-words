@@ -1,6 +1,6 @@
 +++
 title = 'investigation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˌvestiˈgei∫ən] n.调查，调查研究'

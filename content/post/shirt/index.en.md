@@ -1,6 +1,6 @@
 +++
 title = 'shirt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫əːt] n.(男式)衬衫'

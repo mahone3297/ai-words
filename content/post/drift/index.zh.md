@@ -1,6 +1,6 @@
 +++
 title = 'drift'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[drift] vi.漂流，漂泊 n.漂流'

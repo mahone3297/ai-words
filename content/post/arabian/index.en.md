@@ -1,6 +1,6 @@
 +++
 title = 'arabian'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈreibjən] a.阿拉伯的'

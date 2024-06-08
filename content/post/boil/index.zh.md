@@ -1,6 +1,6 @@
 +++
 title = 'boil'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bɔil] vi.沸腾；汽化 vt.煮沸'

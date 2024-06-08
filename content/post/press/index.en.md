@@ -1,6 +1,6 @@
 +++
 title = 'press'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pres] vt.压，按，揿；催促'

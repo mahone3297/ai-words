@@ -1,6 +1,6 @@
 +++
 title = 'decent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdiːsnt] a.正派的；体面的'

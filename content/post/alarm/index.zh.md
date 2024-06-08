@@ -1,6 +1,6 @@
 +++
 title = 'alarm'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈlɑːm] n.惊恐，忧虑；警报'

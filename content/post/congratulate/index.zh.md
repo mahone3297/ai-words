@@ -1,6 +1,6 @@
 +++
 title = 'congratulate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈgrætjuleit] vt.祝贺,向…道喜'

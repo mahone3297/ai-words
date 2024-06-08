@@ -1,6 +1,6 @@
 +++
 title = 'organism'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔːgənizəm] n.生物体；有机体'

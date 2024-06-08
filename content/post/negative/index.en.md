@@ -1,6 +1,6 @@
 +++
 title = 'negative'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnegətiv] a.否定的；消极的'

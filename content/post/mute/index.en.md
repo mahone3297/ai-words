@@ -1,6 +1,6 @@
 +++
 title = 'mute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mjuːt] a.缄默的 n.哑巴'

@@ -1,6 +1,6 @@
 +++
 title = 'eastern'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈiːstən] a.东方的；朝东的'

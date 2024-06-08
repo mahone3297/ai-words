@@ -1,6 +1,6 @@
 +++
 title = 'intention'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈten∫ən] n.意图，意向，目的'

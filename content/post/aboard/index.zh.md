@@ -1,6 +1,6 @@
 +++
 title = 'aboard'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈbɔːd] ad.在船(车)上；上船'

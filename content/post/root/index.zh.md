@@ -1,6 +1,6 @@
 +++
 title = 'root'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ruːt] n.根，根子 vi.生根'

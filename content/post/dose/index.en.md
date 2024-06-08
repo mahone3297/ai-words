@@ -1,6 +1,6 @@
 +++
 title = 'dose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dəus] n.剂量，用量；一剂'

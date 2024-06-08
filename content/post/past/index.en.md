@@ -1,6 +1,6 @@
 +++
 title = 'past'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pɑːst] a.过去的 n.过去'

@@ -1,6 +1,6 @@
 +++
 title = 'swing'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[swiŋ] vi.摇摆；回转 n.摇摆'

@@ -1,6 +1,6 @@
 +++
 title = 'surrender'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səˈrendə] vt.交出 vi.投降'

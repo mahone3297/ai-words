@@ -1,6 +1,6 @@
 +++
 title = 'sequence'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsiːkwəns] n.连续，继续；次序'

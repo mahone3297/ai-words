@@ -1,6 +1,6 @@
 +++
 title = 'sentence'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsentəns] n.判决；句子 vt.宣判'

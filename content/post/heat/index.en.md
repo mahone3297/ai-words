@@ -1,6 +1,6 @@
 +++
 title = 'heat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hiːt] n.热，炎热 vi.变热'

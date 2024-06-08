@@ -1,6 +1,6 @@
 +++
 title = 'jump'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʒʌmp] vi.跳；暴涨 vt.跳过'

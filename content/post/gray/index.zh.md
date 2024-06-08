@@ -1,6 +1,6 @@
 +++
 title = 'gray'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[grei] a.灰色的 n.灰色'

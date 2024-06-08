@@ -1,6 +1,6 @@
 +++
 title = 'afraid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈfreid] a.害怕的；担心的'

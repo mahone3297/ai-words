@@ -1,6 +1,6 @@
 +++
 title = 'stage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[steidʒ] n.舞台；戏剧；阶段'

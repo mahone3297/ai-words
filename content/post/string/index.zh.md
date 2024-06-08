@@ -1,6 +1,6 @@
 +++
 title = 'string'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[striŋ] n.线，细绳；一串'

@@ -1,6 +1,6 @@
 +++
 title = 'born'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bɔːn] a.天生的；出生的'

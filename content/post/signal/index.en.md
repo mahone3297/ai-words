@@ -1,6 +1,6 @@
 +++
 title = 'signal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsignl] n.信号 vi.发信号'

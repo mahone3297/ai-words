@@ -1,6 +1,6 @@
 +++
 title = 'ask'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɑːsk] vt.问；要求；邀请'

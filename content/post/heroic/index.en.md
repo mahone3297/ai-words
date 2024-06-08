@@ -1,6 +1,6 @@
 +++
 title = 'heroic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hiˈrəuik] a.英雄的；英勇的'

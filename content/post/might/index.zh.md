@@ -1,9 +1,9 @@
 +++
 title = 'might'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[mait] v.aux.可能，会，也许'
+description = '[mait] n.力量，威力，能力'
 keywords = ['ai words', 'might']
 +++
 

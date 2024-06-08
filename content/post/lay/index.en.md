@@ -1,6 +1,6 @@
 +++
 title = 'lay'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lei] vt.置放；铺设；设置'

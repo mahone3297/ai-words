@@ -1,6 +1,6 @@
 +++
 title = 'certainly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsəːtənli] ad.一定，必定；当然'

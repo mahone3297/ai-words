@@ -1,6 +1,6 @@
 +++
 title = 'regular'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈregjulə] a.规则的；整齐的'

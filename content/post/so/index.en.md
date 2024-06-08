@@ -1,6 +1,6 @@
 +++
 title = 'so'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səu] ad.这样；这么；非常'

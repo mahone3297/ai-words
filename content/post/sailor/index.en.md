@@ -1,6 +1,6 @@
 +++
 title = 'sailor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈseilə] n.水手，海员，水兵'

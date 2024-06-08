@@ -1,6 +1,6 @@
 +++
 title = 'kill'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kil] vi.杀死；扼杀；消磨'

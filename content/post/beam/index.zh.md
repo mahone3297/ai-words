@@ -1,6 +1,6 @@
 +++
 title = 'beam'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biːm] n.梁；横梁；束，柱'

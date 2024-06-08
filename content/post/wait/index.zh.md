@@ -1,6 +1,6 @@
 +++
 title = 'wait'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[weit] vi.等，等候 n.等待'

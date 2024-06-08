@@ -1,6 +1,6 @@
 +++
 title = 'resolution'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌrezəˈljuː∫ən] n.坚决/定；决定'

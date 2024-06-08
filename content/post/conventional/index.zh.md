@@ -1,6 +1,6 @@
 +++
 title = 'conventional'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈven∫ənl] a.普通的；习惯的'

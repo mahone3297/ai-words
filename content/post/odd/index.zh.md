@@ -1,6 +1,6 @@
 +++
 title = 'odd'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔd] a.奇数的；单只的'

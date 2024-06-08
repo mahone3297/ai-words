@@ -1,6 +1,6 @@
 +++
 title = 'consciousness'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔn∫əsnis] n.意识,觉悟;知觉'

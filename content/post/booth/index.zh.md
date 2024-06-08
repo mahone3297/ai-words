@@ -1,6 +1,6 @@
 +++
 title = 'booth'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[buːθ] n.货摊；公用电话亭'

@@ -1,6 +1,6 @@
 +++
 title = 'accommodate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈkɔmədeit] vt.容纳;供应,供给'

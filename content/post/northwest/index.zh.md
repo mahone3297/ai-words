@@ -1,6 +1,6 @@
 +++
 title = 'northwest'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnɔːθˈwest] n.西北 a.位于西北的'

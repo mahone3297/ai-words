@@ -1,6 +1,6 @@
 +++
 title = 'correction'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈrek∫ən] n.改正，纠正，修改'

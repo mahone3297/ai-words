@@ -1,6 +1,6 @@
 +++
 title = 'instrument'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinstrumənt] n.仪器;工具；乐器'

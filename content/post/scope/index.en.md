@@ -1,6 +1,6 @@
 +++
 title = 'scope'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skəup] n.范围；余地，机会'

@@ -1,6 +1,6 @@
 +++
 title = 'shut'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫ʌt] vt.关上，闭上，关闭'

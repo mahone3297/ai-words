@@ -1,6 +1,6 @@
 +++
 title = 'mass'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mæs] n.众多；团；群众'

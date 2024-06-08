@@ -1,6 +1,6 @@
 +++
 title = 'west'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[west] n.西；西洋 a.西方的'

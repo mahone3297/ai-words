@@ -1,6 +1,6 @@
 +++
 title = 'magic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmædʒik] n.魔法，巫术；戏法'

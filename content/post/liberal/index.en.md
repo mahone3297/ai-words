@@ -1,6 +1,6 @@
 +++
 title = 'liberal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlibərəl] a.心胸宽大的；慷慨的'

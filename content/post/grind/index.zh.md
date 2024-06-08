@@ -1,6 +1,6 @@
 +++
 title = 'grind'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[graind] vt.磨(碎)；磨快'

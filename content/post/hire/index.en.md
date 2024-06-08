@@ -1,6 +1,6 @@
 +++
 title = 'hire'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhaiə] vt.租借 n.租用，雇用'

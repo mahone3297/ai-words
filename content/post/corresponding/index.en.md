@@ -1,6 +1,6 @@
 +++
 title = 'corresponding'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌkɔrisˈpɔndiŋ] a.相应的;符合的'

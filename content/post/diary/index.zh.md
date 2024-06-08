@@ -1,6 +1,6 @@
 +++
 title = 'diary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdaiəri] n.日记，日记簿'

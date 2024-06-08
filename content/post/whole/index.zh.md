@@ -1,6 +1,6 @@
 +++
 title = 'whole'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[həul] a.完整的 n.全部'

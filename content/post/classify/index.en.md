@@ -1,6 +1,6 @@
 +++
 title = 'classify'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈklæsifai] vt.把…分类'

@@ -1,6 +1,6 @@
 +++
 title = 'outstanding'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[autˈstændiŋ] a.突出的，杰出的'

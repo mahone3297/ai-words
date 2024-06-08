@@ -1,6 +1,6 @@
 +++
 title = 'shower'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈ∫auə] n.阵雨；(一)阵；淋浴'

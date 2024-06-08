@@ -1,6 +1,6 @@
 +++
 title = 'convenient'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈviːnjənt] a.便利的；近便的'

@@ -1,6 +1,6 @@
 +++
 title = 'fry'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[frai] vt.油煎，油炸，油炒'

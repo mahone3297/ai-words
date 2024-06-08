@@ -1,6 +1,6 @@
 +++
 title = 'French'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[frent∫] a.法国的 n.法国人'

@@ -1,6 +1,6 @@
 +++
 title = 'canoe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈnuː] n.独木舟，皮艇，划子'

@@ -1,6 +1,6 @@
 +++
 title = 'barn'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bɑːn] n.谷仓；牲口棚'

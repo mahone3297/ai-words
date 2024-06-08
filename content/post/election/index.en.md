@@ -1,6 +1,6 @@
 +++
 title = 'election'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈlek∫(ə)n] n.选举，选择权；当选'

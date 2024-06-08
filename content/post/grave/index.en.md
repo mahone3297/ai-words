@@ -1,6 +1,6 @@
 +++
 title = 'grave'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[greiv] n.坟墓 a.严重的'

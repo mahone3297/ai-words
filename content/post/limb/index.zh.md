@@ -1,6 +1,6 @@
 +++
 title = 'limb'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lim] n.肢，臂，翼；树枝'

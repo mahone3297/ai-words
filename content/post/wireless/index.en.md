@@ -1,6 +1,6 @@
 +++
 title = 'wireless'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwaiəlis] a.不用电线的，无线的'

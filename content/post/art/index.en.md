@@ -1,6 +1,6 @@
 +++
 title = 'art'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɑːt] n.艺术，美术；技术'

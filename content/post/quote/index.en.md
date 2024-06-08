@@ -1,6 +1,6 @@
 +++
 title = 'quote'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kwəut] vt.引用，引证；报价'

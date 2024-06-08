@@ -1,6 +1,6 @@
 +++
 title = 'stale'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[steil] n.陈腐的；走了气的'

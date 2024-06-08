@@ -1,6 +1,6 @@
 +++
 title = 'fear'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fiə] n.害怕；担心 vt.害怕'

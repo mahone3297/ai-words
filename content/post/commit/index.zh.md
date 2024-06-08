@@ -1,6 +1,6 @@
 +++
 title = 'commit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈmit] vt.犯(错误);干(坏事)'

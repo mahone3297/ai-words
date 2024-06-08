@@ -1,6 +1,6 @@
 +++
 title = 'thickness'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈθiknis] n.厚(度)；密(度)'

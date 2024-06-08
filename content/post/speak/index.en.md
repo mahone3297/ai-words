@@ -1,6 +1,6 @@
 +++
 title = 'speak'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[spiːk] vi.说话；发言 vt.说'

@@ -1,6 +1,6 @@
 +++
 title = 'presence'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprezns] n.出席，到场；在'

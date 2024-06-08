@@ -1,6 +1,6 @@
 +++
 title = 'reject'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈdʒekt] vt.拒绝；丢掉；驳回'

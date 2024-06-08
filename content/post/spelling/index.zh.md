@@ -1,6 +1,6 @@
 +++
 title = 'spelling'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈspeliŋ] n.拼字，拼法，拼写法'

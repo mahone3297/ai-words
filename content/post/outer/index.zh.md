@@ -1,6 +1,6 @@
 +++
 title = 'outer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈautə] a.外部的，外面的'

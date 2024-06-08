@@ -1,6 +1,6 @@
 +++
 title = 'smart'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[smɑːt] a.巧妙的；洒脱的'

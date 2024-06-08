@@ -1,6 +1,6 @@
 +++
 title = 'slight'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[slait] a.细长的；轻微的'

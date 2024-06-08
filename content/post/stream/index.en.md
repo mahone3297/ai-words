@@ -1,6 +1,6 @@
 +++
 title = 'stream'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[striːm] n.河；流 vi.&vt.流'

@@ -1,6 +1,6 @@
 +++
 title = 'consist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈsist] vi.由…组成；在于'

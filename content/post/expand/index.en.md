@@ -1,6 +1,6 @@
 +++
 title = 'expand'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈpænd] vt.扩大；使膨胀'

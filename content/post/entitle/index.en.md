@@ -1,6 +1,6 @@
 +++
 title = 'entitle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈtaitl] vt.给…权利(或资格)'

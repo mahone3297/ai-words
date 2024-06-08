@@ -1,6 +1,6 @@
 +++
 title = 'resource'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈsɔːs] n.资源，物力；办法'

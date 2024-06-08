@@ -1,6 +1,6 @@
 +++
 title = 'perfectly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpəːfiktli] ad.很，完全'

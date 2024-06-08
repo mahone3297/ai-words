@@ -1,9 +1,9 @@
 +++
 title = 'second'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[ˈsekənd] num.第二 a.二等的'
+description = 'n.秒'
 keywords = ['ai words', 'second']
 +++
 

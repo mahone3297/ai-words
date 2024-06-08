@@ -1,6 +1,6 @@
 +++
 title = 'socialist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsəu∫əlist] a.社会主义的'

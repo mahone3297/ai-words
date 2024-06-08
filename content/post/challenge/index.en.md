@@ -1,6 +1,6 @@
 +++
 title = 'challenge'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈt∫ælindʒ] n.挑战；要求，需要'

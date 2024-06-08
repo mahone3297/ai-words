@@ -1,6 +1,6 @@
 +++
 title = 'several'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsevərəl] a.几个，数个'

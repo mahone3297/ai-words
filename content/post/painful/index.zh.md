@@ -1,6 +1,6 @@
 +++
 title = 'painful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpeinful] a.使痛的；费力的'

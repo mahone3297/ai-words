@@ -1,6 +1,6 @@
 +++
 title = 'fate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[feit] n.命运，天数'

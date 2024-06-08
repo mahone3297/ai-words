@@ -1,6 +1,6 @@
 +++
 title = 'extension'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈten∫ən] n.延长部分；伸展'

@@ -1,6 +1,6 @@
 +++
 title = 'pair'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[peə] n.一对 vi.成对，配对'

@@ -1,6 +1,6 @@
 +++
 title = 'revolutionary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrevəˈluː∫ənəri] a.革命的 n.革命者'

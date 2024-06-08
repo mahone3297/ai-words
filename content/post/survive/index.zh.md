@@ -1,6 +1,6 @@
 +++
 title = 'survive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səˈvaiv] vt.幸免于 vi.活下来'

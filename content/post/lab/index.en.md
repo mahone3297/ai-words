@@ -1,6 +1,6 @@
 +++
 title = 'lab'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[læb] n.实验室，研究室'

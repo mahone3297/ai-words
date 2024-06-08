@@ -1,6 +1,6 @@
 +++
 title = 'failure'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfeiljə] n.失败；失败的人'

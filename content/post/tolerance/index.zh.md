@@ -1,6 +1,6 @@
 +++
 title = 'tolerance'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtɔlərəns] n.忍受，容忍；公差'

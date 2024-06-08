@@ -1,6 +1,6 @@
 +++
 title = 'lower'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈləuə] a.较低的 vt.放下'

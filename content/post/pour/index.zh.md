@@ -1,6 +1,6 @@
 +++
 title = 'pour'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pɔː(r)] vt.灌，倒 vi.倾泻'

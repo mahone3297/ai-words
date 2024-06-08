@@ -1,6 +1,6 @@
 +++
 title = 'native'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈneitiv] a.本土的 n.本地人'

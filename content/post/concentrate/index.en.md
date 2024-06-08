@@ -1,6 +1,6 @@
 +++
 title = 'concentrate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔnsentreit] vt.集中；聚集；浓缩'

@@ -1,6 +1,6 @@
 +++
 title = 'ribbon'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈribən] n.缎带，丝带；带'

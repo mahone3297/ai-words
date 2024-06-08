@@ -1,6 +1,6 @@
 +++
 title = 'precious'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpre∫əs] a.珍贵的，宝贵的'

@@ -1,6 +1,6 @@
 +++
 title = 'hole'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[həul] n.洞；孔眼，裂开处'

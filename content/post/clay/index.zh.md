@@ -1,6 +1,6 @@
 +++
 title = 'clay'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[klei] n.粘土，泥土；肉体'

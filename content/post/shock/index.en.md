@@ -1,6 +1,6 @@
 +++
 title = 'shock'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫ɔk] n.冲击；震惊 vi.震动'

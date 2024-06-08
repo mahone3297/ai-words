@@ -1,6 +1,6 @@
 +++
 title = 'relatively'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrelətivli] ad.相对地，比较地'

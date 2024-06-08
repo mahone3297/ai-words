@@ -1,6 +1,6 @@
 +++
 title = 'soft'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sɔft] a.软的；柔和的'

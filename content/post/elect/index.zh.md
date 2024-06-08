@@ -1,6 +1,6 @@
 +++
 title = 'elect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈlekt] vt.选举，推选；选择'

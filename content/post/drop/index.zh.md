@@ -1,6 +1,6 @@
 +++
 title = 'drop'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[drɔp] vt.使落下；降低'

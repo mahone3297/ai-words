@@ -1,6 +1,6 @@
 +++
 title = 'hint'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hint] n.暗示，示意；建议'

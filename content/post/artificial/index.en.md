@@ -1,6 +1,6 @@
 +++
 title = 'artificial'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌɑːtiˈfi∫əl] a.人工的；娇揉造作的'

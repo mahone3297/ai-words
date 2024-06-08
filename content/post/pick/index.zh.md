@@ -1,9 +1,9 @@
 +++
 title = 'pick'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[pik] n.镐，鹤嘴锄'
+description = 'vt.拾，摘 vi.采摘'
 keywords = ['ai words', 'pick']
 +++
 

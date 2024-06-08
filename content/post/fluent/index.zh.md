@@ -1,6 +1,6 @@
 +++
 title = 'fluent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈflu(ː)ənt] a.流利的，流畅的'

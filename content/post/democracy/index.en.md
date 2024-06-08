@@ -1,6 +1,6 @@
 +++
 title = 'democracy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈmɔkrəsi] n.民主，民主制'

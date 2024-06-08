@@ -1,6 +1,6 @@
 +++
 title = 'shame'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫eim] n.羞耻，羞愧；羞辱'

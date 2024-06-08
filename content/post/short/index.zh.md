@@ -1,6 +1,6 @@
 +++
 title = 'short'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫ɔːt] a.短的；短期的'

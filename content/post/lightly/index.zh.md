@@ -1,6 +1,6 @@
 +++
 title = 'lightly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlaitli] ad.轻轻地，轻松地'

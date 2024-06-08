@@ -1,6 +1,6 @@
 +++
 title = 'train'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trein] vt.培养 n.列车；队列'

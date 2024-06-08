@@ -1,6 +1,6 @@
 +++
 title = 'nationality'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌnæ∫əˈnæliti] n.国籍；民族，族'

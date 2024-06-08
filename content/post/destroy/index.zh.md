@@ -1,6 +1,6 @@
 +++
 title = 'destroy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈtrɔi] vt.破坏；消灭；打破'

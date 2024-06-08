@@ -1,9 +1,9 @@
 +++
 title = 'spring'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[spriŋ] vi.跳，跃 n.跳跃；泉'
+description = 'n.春天，春季'
 keywords = ['ai words', 'spring']
 +++
 

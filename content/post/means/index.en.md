@@ -1,6 +1,6 @@
 +++
 title = 'means'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[miːnz] n.方法，手段，工具'

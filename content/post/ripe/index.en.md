@@ -1,6 +1,6 @@
 +++
 title = 'ripe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[raip] a.熟的；时机成熟的'

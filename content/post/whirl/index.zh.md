@@ -1,6 +1,6 @@
 +++
 title = 'whirl'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[(h)wəːl] vt.使回旋 vi.&n.回旋'

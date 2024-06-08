@@ -1,6 +1,6 @@
 +++
 title = 'incline'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈklain] n.斜坡 vt.使倾斜'

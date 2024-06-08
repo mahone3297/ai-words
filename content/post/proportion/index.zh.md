@@ -1,6 +1,6 @@
 +++
 title = 'proportion'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈpɔː∫ən] n.比，比率，部分'

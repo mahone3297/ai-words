@@ -1,6 +1,6 @@
 +++
 title = 'reserve'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈzəːv] vt.储备，保留；预定'

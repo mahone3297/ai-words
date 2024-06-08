@@ -1,6 +1,6 @@
 +++
 title = 'weakness'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwiːknis] n.虚弱，软弱；弱点'

@@ -1,6 +1,6 @@
 +++
 title = 'exceed'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ikˈsiːd] vt.超过，胜过；超出'

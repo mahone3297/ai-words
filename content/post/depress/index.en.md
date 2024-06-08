@@ -1,6 +1,6 @@
 +++
 title = 'depress'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈpres] vt.使沮丧；按下'

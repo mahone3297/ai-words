@@ -1,6 +1,6 @@
 +++
 title = 'forehead'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfɔːhed] n.额头，前部'

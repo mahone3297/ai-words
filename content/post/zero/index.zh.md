@@ -1,6 +1,6 @@
 +++
 title = 'zero'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈziərəu] n.零；零点，零度'

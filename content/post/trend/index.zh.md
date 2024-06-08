@@ -1,6 +1,6 @@
 +++
 title = 'trend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trend] vi.伸向；倾向 n.倾向'

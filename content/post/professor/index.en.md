@@ -1,6 +1,6 @@
 +++
 title = 'professor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈfesə] n.教授'

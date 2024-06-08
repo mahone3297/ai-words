@@ -1,6 +1,6 @@
 +++
 title = 'beauty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbjuːti] n.美，美丽；美人'

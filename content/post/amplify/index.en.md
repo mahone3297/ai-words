@@ -1,6 +1,6 @@
 +++
 title = 'amplify'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæmplifai] vt.放大，增强；扩大'

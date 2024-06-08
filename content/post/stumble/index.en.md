@@ -1,6 +1,6 @@
 +++
 title = 'stumble'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstʌmbl] vi.绊倒；犯错误'

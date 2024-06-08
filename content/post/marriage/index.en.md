@@ -1,6 +1,6 @@
 +++
 title = 'marriage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmæridʒ] n.结婚，婚姻；婚礼'

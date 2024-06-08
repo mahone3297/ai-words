@@ -1,6 +1,6 @@
 +++
 title = 'liquor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlikə] n.酒；溶液，液剂'

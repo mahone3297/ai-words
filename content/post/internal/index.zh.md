@@ -1,6 +1,6 @@
 +++
 title = 'internal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈtəːnl] a.内的；国内的'

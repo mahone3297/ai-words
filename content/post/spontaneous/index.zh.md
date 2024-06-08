@@ -1,6 +1,6 @@
 +++
 title = 'spontaneous'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[spɔnˈteiniəs] a.自发/本能的'

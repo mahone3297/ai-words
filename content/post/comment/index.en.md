@@ -1,6 +1,6 @@
 +++
 title = 'comment'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔment] n.评论，意见；注释'

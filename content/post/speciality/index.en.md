@@ -1,6 +1,6 @@
 +++
 title = 'speciality'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌspe∫iˈæliti] n.专业，特长；特产'

@@ -1,6 +1,6 @@
 +++
 title = 'ice'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ais] n.冰，冰块 vt.冰镇'

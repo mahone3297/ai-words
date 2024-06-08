@@ -1,6 +1,6 @@
 +++
 title = 'lovely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlʌvli] a.可爱的；令人愉快的'

@@ -1,6 +1,6 @@
 +++
 title = 'narrow'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnærəu] a.狭的，狭窄的'

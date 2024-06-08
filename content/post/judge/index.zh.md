@@ -1,6 +1,6 @@
 +++
 title = 'judge'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʒʌdʒ] n.法官；裁判员'

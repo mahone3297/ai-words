@@ -1,6 +1,6 @@
 +++
 title = 'disclose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈkləuz] vt.揭开，揭发；透露'

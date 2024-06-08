@@ -1,6 +1,6 @@
 +++
 title = 'likewise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlaikˌwaiz] ad.同样地；也，又'

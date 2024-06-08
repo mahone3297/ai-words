@@ -1,6 +1,6 @@
 +++
 title = 'write'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rait] vt.书写；写 vi.写'

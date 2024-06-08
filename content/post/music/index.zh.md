@@ -1,6 +1,6 @@
 +++
 title = 'music'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmjuːzik] n.音乐，乐曲，乐谱'

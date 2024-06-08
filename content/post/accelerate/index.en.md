@@ -1,6 +1,6 @@
 +++
 title = 'accelerate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ækˈseləreit] vt.(使)加快；促进'

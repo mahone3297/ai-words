@@ -1,6 +1,6 @@
 +++
 title = 'bang'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bæŋ] n.巨响，枪声；猛击'

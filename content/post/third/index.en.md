@@ -1,6 +1,6 @@
 +++
 title = 'third'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θəːd] num.第三；三分之一'

@@ -1,6 +1,6 @@
 +++
 title = 'contradiction'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌkɔntrəˈdik∫ən] n.矛盾，不一致；否认'

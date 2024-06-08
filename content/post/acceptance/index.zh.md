@@ -1,6 +1,6 @@
 +++
 title = 'acceptance'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əkˈseptəns] n.接受，验收；承认'

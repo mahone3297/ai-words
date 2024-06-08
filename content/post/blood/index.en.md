@@ -1,6 +1,6 @@
 +++
 title = 'blood'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[blʌd] n.血，血液；血统'

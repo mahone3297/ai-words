@@ -1,6 +1,6 @@
 +++
 title = 'bathe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[beið] vt.给…洗澡；弄湿'

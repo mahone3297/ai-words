@@ -1,6 +1,6 @@
 +++
 title = 'variable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈveəriəbl] a.易变的 n.变量'

@@ -1,6 +1,6 @@
 +++
 title = 'harsh'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hɑː∫] a.严厉的；刺耳的'

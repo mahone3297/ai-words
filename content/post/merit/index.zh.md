@@ -1,6 +1,6 @@
 +++
 title = 'merit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmerit] n.长处，优点；功过'

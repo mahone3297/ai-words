@@ -1,6 +1,6 @@
 +++
 title = 'taste'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[teist] vt.尝；尝到 n.味觉'

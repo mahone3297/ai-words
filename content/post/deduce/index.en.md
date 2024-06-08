@@ -1,6 +1,6 @@
 +++
 title = 'deduce'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈdjuːs] vt.演绎，推论，推断'

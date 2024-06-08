@@ -1,6 +1,6 @@
 +++
 title = 'leader'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈliːdə] n.领袖，领导人；首领'

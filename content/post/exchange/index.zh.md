@@ -1,6 +1,6 @@
 +++
 title = 'exchange'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈt∫eindʒ] vt.交换；交流 n.交换'

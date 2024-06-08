@@ -1,6 +1,6 @@
 +++
 title = 'explain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈplein] vt.解释；为…辩解'

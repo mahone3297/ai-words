@@ -1,6 +1,6 @@
 +++
 title = 'thin'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θin] a.薄的；淡的 vi.变薄'

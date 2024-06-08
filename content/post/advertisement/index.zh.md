@@ -1,6 +1,6 @@
 +++
 title = 'advertisement'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ədˈvəːtismənt] n.广告；公告；登广告'

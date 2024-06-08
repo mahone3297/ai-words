@@ -1,6 +1,6 @@
 +++
 title = 'aware'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈweə] a.知道的，意识到的'

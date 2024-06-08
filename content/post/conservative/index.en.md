@@ -1,6 +1,6 @@
 +++
 title = 'conservative'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈsəːvətiv] a.保守的 n.保守的人'

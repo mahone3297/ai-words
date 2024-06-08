@@ -1,6 +1,6 @@
 +++
 title = 'video'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvidiəu] a.电视的 n.电视'

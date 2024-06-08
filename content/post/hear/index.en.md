@@ -1,6 +1,6 @@
 +++
 title = 'hear'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hiə] vt.听见；审讯；听说'

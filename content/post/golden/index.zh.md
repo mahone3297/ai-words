@@ -1,6 +1,6 @@
 +++
 title = 'golden'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgəuldən] a.金色的；极好的'

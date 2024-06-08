@@ -1,6 +1,6 @@
 +++
 title = 'too'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tuː] ad.也，还；太，过分'

@@ -1,6 +1,6 @@
 +++
 title = 'properly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprɔpəli] ad.适当地；彻底地'

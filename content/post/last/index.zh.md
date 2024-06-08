@@ -1,9 +1,9 @@
 +++
 title = 'last'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[lɑːst] a.最后的 ad.最后'
+description = '[lɑːst] vi.持续，持久；耐久'
 keywords = ['ai words', 'last']
 +++
 

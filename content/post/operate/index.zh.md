@@ -1,6 +1,6 @@
 +++
 title = 'operate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔpəreit] vi.操作；施行手术'

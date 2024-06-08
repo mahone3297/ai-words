@@ -1,6 +1,6 @@
 +++
 title = 'Spanish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈspæni∫] a.西班牙的 n.西班牙人'

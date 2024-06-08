@@ -1,6 +1,6 @@
 +++
 title = 'restaurant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrestərənt] n.餐馆，饭店，菜馆'

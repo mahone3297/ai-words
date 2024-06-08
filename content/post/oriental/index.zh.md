@@ -1,6 +1,6 @@
 +++
 title = 'oriental'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌɔ(ː)riˈentl] a.东方的；东方国家的'

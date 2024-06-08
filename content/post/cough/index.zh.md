@@ -1,6 +1,6 @@
 +++
 title = 'cough'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɔːf] vi.咳，咳嗽 n.咳嗽'

@@ -1,6 +1,6 @@
 +++
 title = 'dye'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dai] vt.染 n.染料；染色'

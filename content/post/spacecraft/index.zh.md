@@ -1,6 +1,6 @@
 +++
 title = 'spacecraft'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈspeiskrɑːft] n.航天器，宇宙飞船'

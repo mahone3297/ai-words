@@ -1,6 +1,6 @@
 +++
 title = 'weekday'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwiːkdei] n.周日，工作日'

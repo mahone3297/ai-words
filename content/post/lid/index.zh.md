@@ -1,6 +1,6 @@
 +++
 title = 'lid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lid] n.盖子，盖，囊盖'

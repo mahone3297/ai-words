@@ -1,6 +1,6 @@
 +++
 title = 'execute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈeksikjuːt] vt.将…处死；实施'

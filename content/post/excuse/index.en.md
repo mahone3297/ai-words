@@ -1,6 +1,6 @@
 +++
 title = 'excuse'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈkjuːz] vt.原谅；免除 n.借口'

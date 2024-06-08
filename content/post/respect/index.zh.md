@@ -1,6 +1,6 @@
 +++
 title = 'respect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[risˈpekt] n.&vt.尊敬，尊重'

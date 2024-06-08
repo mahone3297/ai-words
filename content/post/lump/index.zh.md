@@ -1,6 +1,6 @@
 +++
 title = 'lump'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lʌmp] n.团，块；肿块'

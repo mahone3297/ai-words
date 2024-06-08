@@ -1,6 +1,6 @@
 +++
 title = 'disposal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈpəuzəl] n.丢掉，处理，销毁'

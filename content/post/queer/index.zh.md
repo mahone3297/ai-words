@@ -1,6 +1,6 @@
 +++
 title = 'queer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kwiə] a.奇怪的，古怪的'

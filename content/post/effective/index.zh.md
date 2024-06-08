@@ -1,6 +1,6 @@
 +++
 title = 'effective'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈfektiv] a.有效的；有影响的'

@@ -1,6 +1,6 @@
 +++
 title = 'quite'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kwait] ad.完全；相当；的确'

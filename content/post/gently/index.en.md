@@ -1,6 +1,6 @@
 +++
 title = 'gently'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒentli] ad.有礼貌地；柔和地'

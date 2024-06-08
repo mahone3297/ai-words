@@ -1,6 +1,6 @@
 +++
 title = 'infer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈfəː] vt.推论，推断；猜想'

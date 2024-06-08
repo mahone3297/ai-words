@@ -1,6 +1,6 @@
 +++
 title = 'democratic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌdeməˈkrætik] a.民主的，民主政体的'

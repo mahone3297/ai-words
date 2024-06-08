@@ -1,6 +1,6 @@
 +++
 title = 'boss'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bɔs] n.老板，上司 vt.指挥'

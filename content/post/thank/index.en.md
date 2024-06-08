@@ -1,6 +1,6 @@
 +++
 title = 'thank'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θæŋk] vt.谢谢，感谢 n.感谢'

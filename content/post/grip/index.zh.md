@@ -1,6 +1,6 @@
 +++
 title = 'grip'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[grip] vt.握紧，抓牢 n.紧握'

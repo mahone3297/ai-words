@@ -1,6 +1,6 @@
 +++
 title = 'elbow'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈelbəu] n.肘，肘部；弯管'

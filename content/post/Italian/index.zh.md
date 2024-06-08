@@ -1,6 +1,6 @@
 +++
 title = 'Italian'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈtæljən] a.意大利的 n.意大利人'

@@ -1,6 +1,6 @@
 +++
 title = 'tragedy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtrædʒidi] n.悲剧；惨事，惨案'

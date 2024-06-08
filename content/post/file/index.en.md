@@ -1,6 +1,6 @@
 +++
 title = 'file'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fail] n.档案 vt.把…归档'

@@ -1,6 +1,6 @@
 +++
 title = 'direct'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈrekt] a.直接的；直率的'

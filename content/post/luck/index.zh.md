@@ -1,6 +1,6 @@
 +++
 title = 'luck'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lʌk] n.运气；好运，幸运'

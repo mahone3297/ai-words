@@ -1,6 +1,6 @@
 +++
 title = 'greeting'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgriːtiŋ] n.问候，招呼，致敬'

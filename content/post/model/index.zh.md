@@ -1,6 +1,6 @@
 +++
 title = 'model'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmɔdl] n.模型；模式；模特儿'

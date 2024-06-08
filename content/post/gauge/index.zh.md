@@ -1,6 +1,6 @@
 +++
 title = 'gauge'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gedʒ] vt.量，测量 n.量器'

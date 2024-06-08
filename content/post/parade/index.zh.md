@@ -1,6 +1,6 @@
 +++
 title = 'parade'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈreid] n.游行；检阅 vi.游行'

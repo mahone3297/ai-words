@@ -1,6 +1,6 @@
 +++
 title = 'novel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnɔvəl] n.小说 a.新的'

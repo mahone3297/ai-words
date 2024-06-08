@@ -1,6 +1,6 @@
 +++
 title = 'liable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlaiəbl] a.易于…的；可能的'

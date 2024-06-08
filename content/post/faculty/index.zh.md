@@ -1,6 +1,6 @@
 +++
 title = 'faculty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfækəlti] n.才能，能力；系，科'

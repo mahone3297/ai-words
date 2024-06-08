@@ -1,9 +1,9 @@
 +++
 title = 'pool'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[puːl] n.水塘，游泳池，水池'
+description = 'n.共用物 vt.共有'
 keywords = ['ai words', 'pool']
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'soluble'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsɔljubl]a.可溶的；可以解决的'

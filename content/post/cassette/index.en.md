@@ -1,6 +1,6 @@
 +++
 title = 'cassette'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɑːˈset] n.盒式录音带；盒子'

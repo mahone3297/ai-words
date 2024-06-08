@@ -1,6 +1,6 @@
 +++
 title = 'slice'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[slais] n.薄片，切片；部分'

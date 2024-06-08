@@ -1,6 +1,6 @@
 +++
 title = 'sickness'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsiknis] n.疾病'

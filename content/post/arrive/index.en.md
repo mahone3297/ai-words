@@ -1,6 +1,6 @@
 +++
 title = 'arrive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈraiv] vi.到达；来临；达到'

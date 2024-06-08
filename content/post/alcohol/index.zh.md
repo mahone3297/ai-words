@@ -1,6 +1,6 @@
 +++
 title = 'alcohol'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈælkəhɔl] n.酒精，乙醇'

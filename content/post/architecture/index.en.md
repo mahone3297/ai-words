@@ -1,6 +1,6 @@
 +++
 title = 'architecture'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɑːkitekt∫ə] n.建筑学；建筑式样'

@@ -1,6 +1,6 @@
 +++
 title = 'transmission'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trænzˈmi∫ən] n.传送;传动;发射'

@@ -1,6 +1,6 @@
 +++
 title = 'rural'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈruər(ə)l] a.农村的，田园的'

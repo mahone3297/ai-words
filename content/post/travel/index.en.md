@@ -1,6 +1,6 @@
 +++
 title = 'travel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtrævl] vi.&vi.&n.旅行'

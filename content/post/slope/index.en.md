@@ -1,6 +1,6 @@
 +++
 title = 'slope'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sləup] n.倾斜；斜面 vi.倾斜'

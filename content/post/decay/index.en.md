@@ -1,6 +1,6 @@
 +++
 title = 'decay'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈkei] vi.腐烂；衰败 n.腐烂'

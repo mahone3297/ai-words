@@ -1,6 +1,6 @@
 +++
 title = 'abandon'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈbændən] vt.丢弃；放弃，抛弃'

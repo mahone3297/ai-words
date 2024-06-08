@@ -1,6 +1,6 @@
 +++
 title = 'far'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fɑː] a.远的 ad.远，遥远'

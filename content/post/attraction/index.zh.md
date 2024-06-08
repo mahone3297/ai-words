@@ -1,6 +1,6 @@
 +++
 title = 'attraction'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈtræk∫ən] n.吸引；吸引力；引力'

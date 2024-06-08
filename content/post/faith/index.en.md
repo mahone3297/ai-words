@@ -1,6 +1,6 @@
 +++
 title = 'faith'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[feiθ] n.信任，信心；信仰'

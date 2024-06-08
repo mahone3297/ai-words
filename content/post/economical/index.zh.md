@@ -1,6 +1,6 @@
 +++
 title = 'economical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌiːkəˈnɔmikəl] a.节约的;经济学的'

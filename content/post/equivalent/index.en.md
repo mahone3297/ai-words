@@ -1,6 +1,6 @@
 +++
 title = 'equivalent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈkwivələnt] a.相等的；等量的'

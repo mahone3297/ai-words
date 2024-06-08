@@ -1,6 +1,6 @@
 +++
 title = 'discover'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈkʌvə] vt.发现；暴露，显示'

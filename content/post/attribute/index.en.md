@@ -1,6 +1,6 @@
 +++
 title = 'attribute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈtribju(ː)t] vt.把…归因于 n.属性'

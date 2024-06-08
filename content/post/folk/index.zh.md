@@ -1,6 +1,6 @@
 +++
 title = 'folk'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fəuk] n.人们，家属，亲属'

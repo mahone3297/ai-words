@@ -1,6 +1,6 @@
 +++
 title = 'timid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtimid] a.胆怯的；羞怯的'

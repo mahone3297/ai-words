@@ -1,6 +1,6 @@
 +++
 title = 'ampere'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæmpiər] n.安培'

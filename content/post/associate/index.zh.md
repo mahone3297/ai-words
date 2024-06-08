@@ -1,6 +1,6 @@
 +++
 title = 'associate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈsəu∫ieit] vi.交往 n.伙伴，同事'

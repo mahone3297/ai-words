@@ -1,6 +1,6 @@
 +++
 title = 'sail'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[seil] n.帆；船 vi.航行'

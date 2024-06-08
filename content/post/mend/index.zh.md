@@ -1,6 +1,6 @@
 +++
 title = 'mend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mend] vt.修理，修补，缝补'

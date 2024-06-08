@@ -1,6 +1,6 @@
 +++
 title = 'already'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔːlˈredi] ad.早已，已经'

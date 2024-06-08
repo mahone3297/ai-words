@@ -1,6 +1,6 @@
 +++
 title = 'realize'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈriəlaiz] vt.实现；认识到'

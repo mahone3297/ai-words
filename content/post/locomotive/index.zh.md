@@ -1,6 +1,6 @@
 +++
 title = 'locomotive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌləukəˈməutiv] n.火车头，机车'

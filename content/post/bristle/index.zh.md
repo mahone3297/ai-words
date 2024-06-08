@@ -1,6 +1,6 @@
 +++
 title = 'bristle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbrisl] n.短而硬的毛；鬃毛'

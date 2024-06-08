@@ -1,6 +1,6 @@
 +++
 title = 'thorn'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θɔːn] n.刺，棘；荆棘；蒺藜'

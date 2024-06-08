@@ -1,6 +1,6 @@
 +++
 title = 'infinite'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinfinit] a.无限的；无数的'

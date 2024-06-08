@@ -1,6 +1,6 @@
 +++
 title = 'discipline'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdisiplin] n.纪律；训练 vt.训练'

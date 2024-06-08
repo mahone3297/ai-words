@@ -1,6 +1,6 @@
 +++
 title = 'assign'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈsain] vt.指派；分配；指定'

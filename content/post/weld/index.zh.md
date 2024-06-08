@@ -1,6 +1,6 @@
 +++
 title = 'weld'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[weld] vt.&n.焊接，熔接'

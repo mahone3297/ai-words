@@ -1,6 +1,6 @@
 +++
 title = 'to'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tuː] prep.到，向，达到'

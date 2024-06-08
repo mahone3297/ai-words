@@ -1,6 +1,6 @@
 +++
 title = 'historical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hisˈtɔrikəl] a.历史的，有关历史的'

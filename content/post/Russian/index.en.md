@@ -1,6 +1,6 @@
 +++
 title = 'Russian'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrʌ∫ən] a.俄罗斯的 n.俄国人'

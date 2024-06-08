@@ -1,6 +1,6 @@
 +++
 title = 'interference'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌintəˈfiərəns] n.干涉,干预;阻碍'

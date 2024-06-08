@@ -1,6 +1,6 @@
 +++
 title = 'abstract'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæbstrækt] a.抽象的 n.摘要'

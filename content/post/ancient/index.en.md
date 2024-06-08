@@ -1,6 +1,6 @@
 +++
 title = 'ancient'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈein∫ənt] a.古代的，古老的'

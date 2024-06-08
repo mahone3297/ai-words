@@ -1,6 +1,6 @@
 +++
 title = 'pierce'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[piəs] vt.剌穿 vi.穿入'

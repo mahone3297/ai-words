@@ -1,6 +1,6 @@
 +++
 title = 'newly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnjuːli] ad.新近，最近'

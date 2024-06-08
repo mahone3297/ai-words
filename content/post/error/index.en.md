@@ -1,6 +1,6 @@
 +++
 title = 'error'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈerə] n.错误，谬误；差错'

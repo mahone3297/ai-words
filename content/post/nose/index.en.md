@@ -1,6 +1,6 @@
 +++
 title = 'nose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nəuz] n.鼻子；突出部分'

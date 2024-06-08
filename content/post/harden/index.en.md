@@ -1,6 +1,6 @@
 +++
 title = 'harden'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhɑːdn] vt.使变硬 vi.变硬'

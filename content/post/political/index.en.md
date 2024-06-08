@@ -1,6 +1,6 @@
 +++
 title = 'political'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈlitikəl] a.政治的，政治上的'

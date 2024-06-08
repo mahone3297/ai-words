@@ -1,6 +1,6 @@
 +++
 title = 'display'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈsplei] vt.陈列，展览；显示'

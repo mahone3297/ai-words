@@ -1,6 +1,6 @@
 +++
 title = 'element'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈelimənt] n.成分；要素；元素'

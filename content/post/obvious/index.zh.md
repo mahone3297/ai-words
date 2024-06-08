@@ -1,6 +1,6 @@
 +++
 title = 'obvious'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔbviəs] a.明显的，显而易见的'

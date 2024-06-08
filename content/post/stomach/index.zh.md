@@ -1,6 +1,6 @@
 +++
 title = 'stomach'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstʌmək] n.胃；肚子；食欲'

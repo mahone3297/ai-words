@@ -1,6 +1,6 @@
 +++
 title = 'bow'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bau] n.弓；蝴蝶结；鞠躬'

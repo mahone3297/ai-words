@@ -1,6 +1,6 @@
 +++
 title = 'previously'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpriːvjuːsli] ad.先前，预先'

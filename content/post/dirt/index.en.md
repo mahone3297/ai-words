@@ -1,6 +1,6 @@
 +++
 title = 'dirt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dəːt] n.尘，土；污物，污垢'

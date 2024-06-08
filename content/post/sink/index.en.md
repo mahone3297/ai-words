@@ -1,6 +1,6 @@
 +++
 title = 'sink'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[siŋk] vi.下沉；下垂；降低'

@@ -1,6 +1,6 @@
 +++
 title = 'ownership'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈəunə∫ip] n.所有(权)，所有制'

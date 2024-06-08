@@ -1,6 +1,6 @@
 +++
 title = 'factory'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfæktəri] n.工厂，制造厂'

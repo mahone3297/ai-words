@@ -1,6 +1,6 @@
 +++
 title = 'synthetic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sinˈθeti] a.综合的；合成的'

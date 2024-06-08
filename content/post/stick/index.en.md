@@ -1,6 +1,6 @@
 +++
 title = 'stick'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stik] n.棍，棒 vt.刺；粘贴'

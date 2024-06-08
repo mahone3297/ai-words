@@ -1,6 +1,6 @@
 +++
 title = 'routine'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ruːˈtiːn] n.例行公事 a.日常的'

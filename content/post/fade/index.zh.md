@@ -1,6 +1,6 @@
 +++
 title = 'fade'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[feid] vi.褪色；逐渐消失'

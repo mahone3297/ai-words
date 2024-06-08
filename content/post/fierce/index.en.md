@@ -1,6 +1,6 @@
 +++
 title = 'fierce'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fiəs] a.凶猛的，狂热的'

@@ -1,6 +1,6 @@
 +++
 title = 'cupboard'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkʌbəd] n.碗柜，碗碟橱；食橱'

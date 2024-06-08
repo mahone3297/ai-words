@@ -1,6 +1,6 @@
 +++
 title = 'comb'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəum] n.梳子 vt.梳理'

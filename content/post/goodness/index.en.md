@@ -1,6 +1,6 @@
 +++
 title = 'goodness'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgudnis] n.优良，德性，仁慈'

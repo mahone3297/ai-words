@@ -1,6 +1,6 @@
 +++
 title = 'bull'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bul] n.公牛；雄的象'

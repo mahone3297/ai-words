@@ -1,6 +1,6 @@
 +++
 title = 'cafeteria'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkæfiˈtiəriə] n.自助食堂'

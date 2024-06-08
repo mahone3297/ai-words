@@ -1,6 +1,6 @@
 +++
 title = 'zealous'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈzeləs] a.热心的，热情的'

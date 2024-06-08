@@ -1,6 +1,6 @@
 +++
 title = 'type'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[taip] n.型，类型 vi.打字'

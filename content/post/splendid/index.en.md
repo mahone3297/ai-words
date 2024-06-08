@@ -1,6 +1,6 @@
 +++
 title = 'splendid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsplendid] a.壮丽的；显著的'

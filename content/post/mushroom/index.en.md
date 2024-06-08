@@ -1,6 +1,6 @@
 +++
 title = 'mushroom'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmʌ∫rum] n.蘑菇，菌类植物'

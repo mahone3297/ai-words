@@ -1,6 +1,6 @@
 +++
 title = 'remedy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈremidi] n.&vt.治疗；补救'

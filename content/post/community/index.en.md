@@ -1,6 +1,6 @@
 +++
 title = 'community'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈmjuːniti] n.社区；社会；公社'

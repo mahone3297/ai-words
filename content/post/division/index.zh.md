@@ -1,6 +1,6 @@
 +++
 title = 'division'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈviʒən] n.分，分配；除法'

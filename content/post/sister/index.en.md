@@ -1,6 +1,6 @@
 +++
 title = 'sister'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsistə] n.姐妹，姐，妹'

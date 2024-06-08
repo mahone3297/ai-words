@@ -1,6 +1,6 @@
 +++
 title = 'patch'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pæt∫] n.补钉；碎片 vt.补缀'

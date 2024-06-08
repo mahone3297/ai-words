@@ -1,6 +1,6 @@
 +++
 title = 'sketch'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sket∫] n.略图；速写；概略'

@@ -1,6 +1,6 @@
 +++
 title = 'automatic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌɔːtəˈmætik] a.自动的；机械的'

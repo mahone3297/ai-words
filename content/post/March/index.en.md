@@ -1,10 +1,10 @@
 +++
-title = 'March'
-draft = false
+title = 'march'
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[mɑːt∫] n.三月'
-keywords = ['ai words', 'March']
+description = 'vi.行军；游行示威'
+keywords = ['ai words', 'march']
 +++
 
 ## Word: March

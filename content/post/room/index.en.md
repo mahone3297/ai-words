@@ -1,6 +1,6 @@
 +++
 title = 'room'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rum] n.房间；地位；余地'

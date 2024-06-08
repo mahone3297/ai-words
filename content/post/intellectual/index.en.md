@@ -1,6 +1,6 @@
 +++
 title = 'intellectual'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌintiˈlektjuəl] n.知识分子 a.智力的'

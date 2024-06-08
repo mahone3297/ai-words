@@ -1,6 +1,6 @@
 +++
 title = 'town'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[taun] n.镇，市镇，城镇'

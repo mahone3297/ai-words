@@ -1,6 +1,6 @@
 +++
 title = 'enclose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈkləuz] vt.围住，圈起；附上'

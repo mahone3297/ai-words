@@ -1,9 +1,9 @@
 +++
 title = 'sole'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[səul] n.脚底，鞋底，袜底'
+description = '[səul] a.单独的，唯一的'
 keywords = ['ai words', 'sole']
 +++
 

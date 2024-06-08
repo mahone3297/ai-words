@@ -1,6 +1,6 @@
 +++
 title = 'point'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pɔint] n.点；要点；细目；分'

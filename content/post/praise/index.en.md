@@ -1,6 +1,6 @@
 +++
 title = 'praise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[preiz] n.赞扬，赞美 vi.赞扬'

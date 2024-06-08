@@ -1,6 +1,6 @@
 +++
 title = 'ability'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈbiliti] n.能力；能耐，本领'

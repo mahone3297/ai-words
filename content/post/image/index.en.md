@@ -1,6 +1,6 @@
 +++
 title = 'image'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈimidʒ] n.像；形象；映象'

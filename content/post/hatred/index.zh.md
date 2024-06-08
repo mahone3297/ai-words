@@ -1,6 +1,6 @@
 +++
 title = 'hatred'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈheitrid] n.憎恶，憎恨，仇恨'

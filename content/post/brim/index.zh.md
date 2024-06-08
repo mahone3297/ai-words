@@ -1,6 +1,6 @@
 +++
 title = 'brim'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[brim] n.边，边缘；帽沿'

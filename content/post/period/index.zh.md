@@ -1,6 +1,6 @@
 +++
 title = 'period'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpiəriəd] n.时期；学时；句号'

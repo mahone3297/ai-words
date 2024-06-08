@@ -1,6 +1,6 @@
 +++
 title = 'deepen'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdiːpən] vt.加深 vi.深化'

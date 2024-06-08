@@ -1,6 +1,6 @@
 +++
 title = 'three'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θriː] num.三，三个'

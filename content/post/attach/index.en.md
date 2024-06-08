@@ -1,6 +1,6 @@
 +++
 title = 'attach'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈtæt∫] vt.缚，系，贴；附加'

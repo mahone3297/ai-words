@@ -1,6 +1,6 @@
 +++
 title = 'affect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈfekt] vt.影响；感动'

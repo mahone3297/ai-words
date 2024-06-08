@@ -1,6 +1,6 @@
 +++
 title = 'sport'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[spɔːt] n.运动；运动会'

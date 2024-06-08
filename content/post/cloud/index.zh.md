@@ -1,6 +1,6 @@
 +++
 title = 'cloud'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[klaud] n.云；云状物；阴影'

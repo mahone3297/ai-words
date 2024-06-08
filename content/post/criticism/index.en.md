@@ -1,6 +1,6 @@
 +++
 title = 'criticism'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkritisiz(ə)m] n.批评；批判；评论'

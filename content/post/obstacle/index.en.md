@@ -1,6 +1,6 @@
 +++
 title = 'obstacle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔbstəkl] n.障碍，障碍物，妨害'

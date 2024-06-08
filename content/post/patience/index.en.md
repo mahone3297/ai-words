@@ -1,6 +1,6 @@
 +++
 title = 'patience'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpei∫əns] n.忍耐，容忍，耐心'

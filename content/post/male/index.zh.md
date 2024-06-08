@@ -1,6 +1,6 @@
 +++
 title = 'male'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[meil] a.男的，雄的 n.男子'

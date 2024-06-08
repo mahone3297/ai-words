@@ -1,6 +1,6 @@
 +++
 title = 'once'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wʌns] ad.一次；曾经 n.一次'

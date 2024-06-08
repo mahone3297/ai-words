@@ -1,6 +1,6 @@
 +++
 title = 'desirable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈzaiərəbl] a.值得相望的；可取的'

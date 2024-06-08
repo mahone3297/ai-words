@@ -1,6 +1,6 @@
 +++
 title = 'viewpoint'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvjuːˌpɔint] n.观点，看法，见解'

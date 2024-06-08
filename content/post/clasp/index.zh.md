@@ -1,6 +1,6 @@
 +++
 title = 'clasp'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[klɑːsp] n.扣子，钩子；别针'

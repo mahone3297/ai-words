@@ -1,6 +1,6 @@
 +++
 title = 'mount'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[maunt] vt.登上，爬上 n.…山'

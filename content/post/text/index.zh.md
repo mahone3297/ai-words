@@ -1,6 +1,6 @@
 +++
 title = 'text'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tekst] n.原文，本文；课文'

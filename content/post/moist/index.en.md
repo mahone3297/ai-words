@@ -1,6 +1,6 @@
 +++
 title = 'moist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mɔist] a.湿润的；多雨的'

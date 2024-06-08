@@ -1,6 +1,6 @@
 +++
 title = 'arrange'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈreindʒ] vt.筹备；整理；调解'

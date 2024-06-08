@@ -1,6 +1,6 @@
 +++
 title = 'platform'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈplætfɔːm] n.平台；站台；讲台'

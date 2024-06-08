@@ -1,6 +1,6 @@
 +++
 title = 'wrist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rist] n.腕，腕关节'

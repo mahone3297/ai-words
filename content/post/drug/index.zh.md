@@ -1,6 +1,6 @@
 +++
 title = 'drug'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[drʌg] n.药，药物，药材'

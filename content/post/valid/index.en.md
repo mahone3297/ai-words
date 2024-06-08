@@ -1,6 +1,6 @@
 +++
 title = 'valid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvælid] a.有效的；正当的'

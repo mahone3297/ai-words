@@ -1,6 +1,6 @@
 +++
 title = 'scorn'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skɔːn] n.轻蔑；嘲笑 vt.轻蔑'

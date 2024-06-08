@@ -1,6 +1,6 @@
 +++
 title = 'repeatedly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈpiːtidli] ad.重复地；一再'

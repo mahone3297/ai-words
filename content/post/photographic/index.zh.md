@@ -1,6 +1,6 @@
 +++
 title = 'photographic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fəutəˈgræfik] a.摄影的，摄影用的'

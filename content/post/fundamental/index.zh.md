@@ -1,6 +1,6 @@
 +++
 title = 'fundamental'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌfʌndəˈmentl] a.基础的，基本的'

@@ -1,6 +1,6 @@
 +++
 title = 'researcher'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈsəːt∫ə(r)] n.调查者；探究者'

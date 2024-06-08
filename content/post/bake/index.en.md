@@ -1,6 +1,6 @@
 +++
 title = 'bake'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[beik] vt.烤，烘，焙；烧硬'

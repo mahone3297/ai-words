@@ -1,6 +1,6 @@
 +++
 title = 'excursion'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈkəː∫ən] n.远足；短途旅行'

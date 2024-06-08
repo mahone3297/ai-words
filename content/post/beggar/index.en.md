@@ -1,6 +1,6 @@
 +++
 title = 'beggar'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbegə] n.乞丐，穷人'

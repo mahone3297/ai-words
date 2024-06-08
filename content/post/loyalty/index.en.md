@@ -1,6 +1,6 @@
 +++
 title = 'loyalty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlɔiəlti] n.忠诚，忠心'

@@ -1,6 +1,6 @@
 +++
 title = 'close'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kləuz] vt.关，闭；结束'

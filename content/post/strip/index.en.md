@@ -1,6 +1,6 @@
 +++
 title = 'strip'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[strip] vt.剥；夺去 n.条带'

@@ -1,6 +1,6 @@
 +++
 title = 'direction'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈrek∫ən] n.方向，方位；指导'

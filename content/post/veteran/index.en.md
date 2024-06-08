@@ -1,6 +1,6 @@
 +++
 title = 'veteran'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvetərən] n.老兵，老手'

@@ -1,6 +1,6 @@
 +++
 title = 'wicked'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwikid] a.坏的；令人厌恶的'

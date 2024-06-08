@@ -1,6 +1,6 @@
 +++
 title = 'partial'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpɑː∫əl] a.部分的；不公平的'

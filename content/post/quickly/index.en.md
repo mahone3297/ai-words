@@ -1,6 +1,6 @@
 +++
 title = 'quickly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkwikli] ad.快，迅速'

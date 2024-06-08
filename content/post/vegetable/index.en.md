@@ -1,6 +1,6 @@
 +++
 title = 'vegetable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvedʒitəbl] n.植物；蔬菜'

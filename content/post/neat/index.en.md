@@ -1,6 +1,6 @@
 +++
 title = 'neat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[niːt] a.整洁的；熟练的'

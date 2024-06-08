@@ -1,6 +1,6 @@
 +++
 title = 'conquer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔŋkə] vt.征服，战胜；破除'

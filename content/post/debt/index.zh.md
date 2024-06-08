@@ -1,6 +1,6 @@
 +++
 title = 'debt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[det] n.债，债务，欠债'

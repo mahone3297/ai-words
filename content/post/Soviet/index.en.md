@@ -1,6 +1,6 @@
 +++
 title = 'Soviet'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsəuviet] n.苏维埃 a.苏维埃的'

@@ -1,6 +1,6 @@
 +++
 title = 'attempt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈtempt] vt.尝试，试图 n.企图'

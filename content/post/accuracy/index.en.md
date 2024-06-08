@@ -1,6 +1,6 @@
 +++
 title = 'accuracy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈækjurəsi] n.准确(性)；准确度'

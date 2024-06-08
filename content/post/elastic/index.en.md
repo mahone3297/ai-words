@@ -1,6 +1,6 @@
 +++
 title = 'elastic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈlæstik] n.松紧带 a.有弹性的'

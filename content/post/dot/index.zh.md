@@ -1,6 +1,6 @@
 +++
 title = 'dot'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dɔt] n.点，圆点 vt.打点于'

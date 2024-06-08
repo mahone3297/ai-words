@@ -1,6 +1,6 @@
 +++
 title = 'lever'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈliːvə] n.杆，杠杆；控制杆'

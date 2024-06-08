@@ -1,6 +1,6 @@
 +++
 title = 'adult'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈædʌlt] n.成年人 a.成年的'

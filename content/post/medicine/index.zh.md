@@ -1,6 +1,6 @@
 +++
 title = 'medicine'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmedisn] n.内服药；医学'

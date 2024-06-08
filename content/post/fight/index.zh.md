@@ -1,6 +1,6 @@
 +++
 title = 'fight'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fait] vi.打(仗)；斗争'

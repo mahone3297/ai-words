@@ -1,6 +1,6 @@
 +++
 title = 'curtain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkəːtən] n.帘，窗帘；幕(布)'

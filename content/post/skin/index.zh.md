@@ -1,6 +1,6 @@
 +++
 title = 'skin'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skin] n.皮；兽皮；外皮'

@@ -1,6 +1,6 @@
 +++
 title = 'delicate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdelikit] a.纤细的；易碎的'

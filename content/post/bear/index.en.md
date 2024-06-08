@@ -1,9 +1,9 @@
 +++
 title = 'bear'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[beə] n.熊；粗鲁的人'
+description = '[beə] vt.容忍；负担；生育'
 keywords = ['ai words', 'bear']
 +++
 

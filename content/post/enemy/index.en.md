@@ -1,6 +1,6 @@
 +++
 title = 'enemy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈenimi] n.敌人；仇敌；敌兵'

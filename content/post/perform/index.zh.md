@@ -1,6 +1,6 @@
 +++
 title = 'perform'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈfɔːm] vt.履行，执行；演出'

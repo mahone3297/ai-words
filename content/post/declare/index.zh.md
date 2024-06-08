@@ -1,6 +1,6 @@
 +++
 title = 'declare'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈkleə] vt.断言；声明；表明'

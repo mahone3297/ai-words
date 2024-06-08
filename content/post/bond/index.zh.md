@@ -1,6 +1,6 @@
 +++
 title = 'bond'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bɔnd] n.联结，联系；公债'

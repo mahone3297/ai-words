@@ -1,6 +1,6 @@
 +++
 title = 'protective'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈtektiv] a.保护的，防护的'

@@ -1,6 +1,6 @@
 +++
 title = 'inner'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinə] a.内部的；内心的'

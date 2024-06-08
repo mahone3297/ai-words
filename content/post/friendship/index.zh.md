@@ -1,6 +1,6 @@
 +++
 title = 'friendship'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfrend∫ip] n.友谊，友好'

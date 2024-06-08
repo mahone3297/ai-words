@@ -1,6 +1,6 @@
 +++
 title = 'scarf'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skɑːf] n.围巾，头巾；领带'

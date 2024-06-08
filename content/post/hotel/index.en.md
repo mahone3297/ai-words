@@ -1,6 +1,6 @@
 +++
 title = 'hotel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[həuˈtel] n.旅馆'

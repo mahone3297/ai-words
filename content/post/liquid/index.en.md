@@ -1,6 +1,6 @@
 +++
 title = 'liquid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlikwid] n.液体 a.液体的'

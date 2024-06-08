@@ -1,6 +1,6 @@
 +++
 title = 'indispensable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌindisˈpensəbl] a.必不可少的，必需的'

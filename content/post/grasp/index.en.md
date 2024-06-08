@@ -1,6 +1,6 @@
 +++
 title = 'grasp'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[grɑːsp] vt.抓紧；掌握 n.抓'

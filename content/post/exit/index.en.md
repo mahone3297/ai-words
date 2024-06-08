@@ -1,6 +1,6 @@
 +++
 title = 'exit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈeksit] n.出口；退场 vi.退出'

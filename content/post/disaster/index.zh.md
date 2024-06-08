@@ -1,6 +1,6 @@
 +++
 title = 'disaster'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈzɑːstə] n.灾难，灾祸；天灾'

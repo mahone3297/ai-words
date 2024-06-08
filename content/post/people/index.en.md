@@ -1,6 +1,6 @@
 +++
 title = 'people'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpiːpl] n.人民，民族；人'

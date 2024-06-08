@@ -1,6 +1,6 @@
 +++
 title = 'grow'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[grəu] vi.生长；变得；增长'

@@ -1,6 +1,6 @@
 +++
 title = 'wipe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[waip] vt.&n.揩，擦'

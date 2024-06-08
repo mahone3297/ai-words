@@ -1,6 +1,6 @@
 +++
 title = 'main'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mein] a.主要的，最重要的'

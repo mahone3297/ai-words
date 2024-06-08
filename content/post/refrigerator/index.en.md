@@ -1,6 +1,6 @@
 +++
 title = 'refrigerator'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈfridʒəreitə] n.冰箱，冷藏库'

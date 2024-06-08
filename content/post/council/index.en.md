@@ -1,6 +1,6 @@
 +++
 title = 'council'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkaunsil] n.理事会，委员会'

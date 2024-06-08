@@ -1,6 +1,6 @@
 +++
 title = 'brave'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[breiv] a.勇敢的，华丽的'

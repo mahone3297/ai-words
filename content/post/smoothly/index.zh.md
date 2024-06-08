@@ -1,6 +1,6 @@
 +++
 title = 'smoothly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsmuːðli] ad.光滑地；平稳地'

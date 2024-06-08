@@ -1,6 +1,6 @@
 +++
 title = 'commonly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔmənli] ad.普通地，一般地'

@@ -1,6 +1,6 @@
 +++
 title = 'man'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mæn] n.男人；人；人类'

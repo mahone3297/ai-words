@@ -1,6 +1,6 @@
 +++
 title = 'genuine'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒenjuin] a.真的；真正的'

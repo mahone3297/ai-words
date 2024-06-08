@@ -1,6 +1,6 @@
 +++
 title = 'absolutely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæbsəluːtli] ad.完全地；绝对地'

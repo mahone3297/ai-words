@@ -1,6 +1,6 @@
 +++
 title = 'instead'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈsted] ad.代替，顶替；反而'

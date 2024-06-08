@@ -1,9 +1,9 @@
 +++
 title = 'utter'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[ˈʌtə] a.完全的，彻底的'
+description = 'vt.发出，说，讲'
 keywords = ['ai words', 'utter']
 +++
 

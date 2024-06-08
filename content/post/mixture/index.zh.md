@@ -1,6 +1,6 @@
 +++
 title = 'mixture'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmikst∫ə] n.混合；混合物'

@@ -1,6 +1,6 @@
 +++
 title = 'dread'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dred] n.畏惧；恐怖 vt.惧怕'

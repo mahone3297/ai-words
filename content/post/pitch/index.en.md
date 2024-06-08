@@ -1,9 +1,9 @@
 +++
 title = 'pitch'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[pit∫] n.沥青'
+description = '[pit∫] vt.投，掷 vi.投掷'
 keywords = ['ai words', 'pitch']
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'toilet'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtɔilit] n.厕所，盥洗室，浴室'

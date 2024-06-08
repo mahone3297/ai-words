@@ -1,6 +1,6 @@
 +++
 title = 'origin'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔridʒin] n.起源，由来；出身'

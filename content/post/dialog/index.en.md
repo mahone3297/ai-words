@@ -1,6 +1,6 @@
 +++
 title = 'dialog'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdaiəlɔg] n.对话，对白'

@@ -1,6 +1,6 @@
 +++
 title = 'vote'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[vəut] n.选举，投票，表决'

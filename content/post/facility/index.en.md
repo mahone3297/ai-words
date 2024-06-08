@@ -1,6 +1,6 @@
 +++
 title = 'facility'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fəˈsiliti] n.设备；容易；便利'

@@ -1,6 +1,6 @@
 +++
 title = 'fraction'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfræk∫ən] n.小部分；片断；分数'

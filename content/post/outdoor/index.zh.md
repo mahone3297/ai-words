@@ -1,6 +1,6 @@
 +++
 title = 'outdoor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈautdɔː] a.户外的，室外的'

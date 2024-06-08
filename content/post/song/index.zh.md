@@ -1,6 +1,6 @@
 +++
 title = 'song'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sɔŋ] n.歌唱；歌曲，歌词'

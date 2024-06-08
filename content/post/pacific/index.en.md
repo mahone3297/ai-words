@@ -1,6 +1,6 @@
 +++
 title = 'pacific'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈsifik] a.和平的 n.太平洋'

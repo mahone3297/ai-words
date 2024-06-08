@@ -1,6 +1,6 @@
 +++
 title = 'feeble'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfiːbl] a.虚弱的；微弱的'

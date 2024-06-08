@@ -1,6 +1,6 @@
 +++
 title = 'slam'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[slæm] vt.使劲关，砰地放下'

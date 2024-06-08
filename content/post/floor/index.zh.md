@@ -1,6 +1,6 @@
 +++
 title = 'floor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[flɔə] n.地板；楼层'

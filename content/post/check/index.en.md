@@ -1,6 +1,6 @@
 +++
 title = 'check'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫ek] vt.检查；制止 n.检查'

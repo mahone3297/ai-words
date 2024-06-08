@@ -1,6 +1,6 @@
 +++
 title = 'pavement'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpeivmənt] n.(英)人行道'

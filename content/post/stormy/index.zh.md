@@ -1,6 +1,6 @@
 +++
 title = 'stormy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstɔːmi] a.有暴风雨的；激烈的'

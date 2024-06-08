@@ -1,6 +1,6 @@
 +++
 title = 'stoop'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stuːp] vi.俯身；弯身 n.弯腰'

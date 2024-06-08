@@ -1,6 +1,6 @@
 +++
 title = 'derive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈraiv] vt.取得 vi.起源'

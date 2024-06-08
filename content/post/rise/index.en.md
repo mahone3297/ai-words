@@ -1,6 +1,6 @@
 +++
 title = 'rise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[raiz] vi.起立；升起；上涨'

@@ -1,6 +1,6 @@
 +++
 title = 'hardly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhɑːdli] ad.几乎不，简直不'

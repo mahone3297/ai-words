@@ -1,6 +1,6 @@
 +++
 title = 'vex'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[veks] vt.使烦恼，使恼火'

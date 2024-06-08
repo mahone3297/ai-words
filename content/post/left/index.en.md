@@ -1,6 +1,6 @@
 +++
 title = 'left'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[left] a.左边的 ad.在左边'

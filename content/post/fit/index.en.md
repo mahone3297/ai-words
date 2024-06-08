@@ -1,6 +1,6 @@
 +++
 title = 'fit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fit] vt.适合；安装 vi.适合'

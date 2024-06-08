@@ -1,6 +1,6 @@
 +++
 title = 'sit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sit] vi.坐，就坐 vt.使坐'

@@ -1,6 +1,6 @@
 +++
 title = 'communicate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈmjuːnikeit] vi.通讯;传达;传播'

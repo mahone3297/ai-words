@@ -1,6 +1,6 @@
 +++
 title = 'chicken'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈt∫ikin] n.小鸡，小鸟；鸡肉'

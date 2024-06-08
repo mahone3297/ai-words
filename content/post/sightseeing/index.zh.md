@@ -1,6 +1,6 @@
 +++
 title = 'sightseeing'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsaitsiːiŋ] n.观光，游览'

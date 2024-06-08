@@ -1,6 +1,6 @@
 +++
 title = 'proposal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈpəuzəl] n.提议，建议；求婚'

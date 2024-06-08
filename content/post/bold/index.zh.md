@@ -1,6 +1,6 @@
 +++
 title = 'bold'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bəuld] a.大胆的；冒失的'

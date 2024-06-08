@@ -1,6 +1,6 @@
 +++
 title = 'toward(s)'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[təˈwɔːd] prep.向；对于；接近'

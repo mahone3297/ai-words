@@ -1,6 +1,6 @@
 +++
 title = 'emit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈmit] vt.散发；发射；发表'

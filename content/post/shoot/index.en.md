@@ -1,6 +1,6 @@
 +++
 title = 'shoot'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫uːt] vt.发射；射中 n.发芽'

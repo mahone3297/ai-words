@@ -1,6 +1,6 @@
 +++
 title = 'common'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔmən] a.普通的；共同的'

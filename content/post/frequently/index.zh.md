@@ -1,6 +1,6 @@
 +++
 title = 'frequently'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfriːkwənt] ad.时常，常常'

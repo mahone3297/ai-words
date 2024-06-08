@@ -1,6 +1,6 @@
 +++
 title = 'him'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[him] pron.(宾格)他'

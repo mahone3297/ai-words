@@ -1,6 +1,6 @@
 +++
 title = 'quick'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kwik] a.快的；敏捷的'

@@ -1,9 +1,9 @@
 +++
 title = 'well'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[wel] n.井'
+description = 'ad.好；完全地 int.嘿'
 keywords = ['ai words', 'well']
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'procession'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈse∫(ə)n] n.队伍，行列'

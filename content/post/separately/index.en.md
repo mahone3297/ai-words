@@ -1,6 +1,6 @@
 +++
 title = 'separately'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsepərətli] ad.分离地'

@@ -1,6 +1,6 @@
 +++
 title = 'prior'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpraiə] a.在先的；优先的'

@@ -1,6 +1,6 @@
 +++
 title = 'anger'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæŋgə] n.怒，愤怒 vt.使发怒'

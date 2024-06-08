@@ -1,6 +1,6 @@
 +++
 title = 'flare'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fleə] vi.闪耀 vt.使闪亮'

@@ -1,6 +1,6 @@
 +++
 title = 'intensive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈtensiv] a.加强的；精耕细作的'

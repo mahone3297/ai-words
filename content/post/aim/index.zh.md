@@ -1,6 +1,6 @@
 +++
 title = 'aim'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[eim] vi.瞄准，针对；致力'

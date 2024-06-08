@@ -1,6 +1,6 @@
 +++
 title = 'scarce'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skeəs] a.缺乏的；希有的'

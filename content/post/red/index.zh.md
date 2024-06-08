@@ -1,6 +1,6 @@
 +++
 title = 'red'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[red] a.红色的 n.红色'

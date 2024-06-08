@@ -1,6 +1,6 @@
 +++
 title = 'knee'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[niː] n.膝，膝盖，膝关节'

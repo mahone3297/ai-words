@@ -1,6 +1,6 @@
 +++
 title = 'pretty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpriti] a.漂亮的，标致的'

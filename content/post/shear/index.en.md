@@ -1,6 +1,6 @@
 +++
 title = 'shear'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫iə] vt.剪；剥夺 vi.剪'

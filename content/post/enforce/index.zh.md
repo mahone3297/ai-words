@@ -1,6 +1,6 @@
 +++
 title = 'enforce'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈfɔːs] vt.实施，执行；强制'

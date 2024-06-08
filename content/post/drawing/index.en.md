@@ -1,6 +1,6 @@
 +++
 title = 'drawing'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdrɔːiŋ] n.图画，素描；绘图'

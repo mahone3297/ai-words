@@ -1,6 +1,6 @@
 +++
 title = 'team'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tiːm] n.队，组'

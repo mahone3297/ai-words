@@ -1,6 +1,6 @@
 +++
 title = 'and'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ænd] conj.和，又，并，则'

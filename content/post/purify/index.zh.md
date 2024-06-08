@@ -1,6 +1,6 @@
 +++
 title = 'purify'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpjuərifai] vt.使纯净，使洁净'

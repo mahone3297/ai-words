@@ -1,6 +1,6 @@
 +++
 title = 'thousand'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈθauzənd] num.千，千个 n.无数'

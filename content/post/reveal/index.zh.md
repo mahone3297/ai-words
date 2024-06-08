@@ -1,6 +1,6 @@
 +++
 title = 'reveal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈviːl] vt.展现；揭示，揭露'

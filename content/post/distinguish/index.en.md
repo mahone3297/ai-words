@@ -1,6 +1,6 @@
 +++
 title = 'distinguish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈtiŋgwi∫] vt.区别，辨别，认别'

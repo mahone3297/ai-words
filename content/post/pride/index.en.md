@@ -1,6 +1,6 @@
 +++
 title = 'pride'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[praid] n.骄傲；自豪 vt.自夸'

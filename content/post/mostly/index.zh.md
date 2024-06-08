@@ -1,6 +1,6 @@
 +++
 title = 'mostly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈməustli] ad.主要的，大部分'

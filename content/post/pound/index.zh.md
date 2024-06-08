@@ -1,9 +1,9 @@
 +++
 title = 'pound'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[paund] n.磅；英磅'
+description = 'vt.捣碎；舂烂；猛击'
 keywords = ['ai words', 'pound']
 +++
 

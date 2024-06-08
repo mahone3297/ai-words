@@ -1,6 +1,6 @@
 +++
 title = 'germ'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʒəːm] n.微生物，细菌，幼芽'

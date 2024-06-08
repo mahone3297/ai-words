@@ -1,6 +1,6 @@
 +++
 title = 'limited'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlimitid] a.有限的'

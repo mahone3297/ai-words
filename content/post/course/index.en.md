@@ -1,6 +1,6 @@
 +++
 title = 'course'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɔːs] n.课程；过程；一道菜'

@@ -1,6 +1,6 @@
 +++
 title = 'hang'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hæŋ] vt.挂，悬；吊死'

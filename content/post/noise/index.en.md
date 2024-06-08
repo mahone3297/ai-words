@@ -1,6 +1,6 @@
 +++
 title = 'noise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nɔiz] n.喧闹声；响声；噪声'

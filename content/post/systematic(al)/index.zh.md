@@ -1,6 +1,6 @@
 +++
 title = 'systematic(al)'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌsistiˈmætik] a.有系统/计划的'

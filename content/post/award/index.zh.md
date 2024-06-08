@@ -1,6 +1,6 @@
 +++
 title = 'award'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈwɔːd] n.奖，奖品；判定'

@@ -1,6 +1,6 @@
 +++
 title = 'gesture'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒest∫ə] n.姿势，手势；姿态'

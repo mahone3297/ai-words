@@ -1,6 +1,6 @@
 +++
 title = 'nurse'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nəːs] n.保姆；护士 vt.看护'

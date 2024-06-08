@@ -1,6 +1,6 @@
 +++
 title = 'numerous'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnjuːmərəs] a.为数众多的；许多'

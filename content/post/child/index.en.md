@@ -1,6 +1,6 @@
 +++
 title = 'child'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫aild] n.小孩，儿童；儿子'

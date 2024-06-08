@@ -1,9 +1,9 @@
 +++
 title = 'yard'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = 'n.院子，庭院；场地'
+description = '[jɑːd] n.码'
 keywords = ['ai words', 'yard']
 +++
 

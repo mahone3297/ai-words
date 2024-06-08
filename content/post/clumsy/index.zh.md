@@ -1,6 +1,6 @@
 +++
 title = 'clumsy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈklʌmzi] a.笨拙的；愚笨的'

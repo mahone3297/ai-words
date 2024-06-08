@@ -1,6 +1,6 @@
 +++
 title = 'cord'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɔːd] n.细绳，粗线，索'

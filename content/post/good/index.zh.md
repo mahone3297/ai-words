@@ -1,6 +1,6 @@
 +++
 title = 'good'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gud] a.好的；有本事的'

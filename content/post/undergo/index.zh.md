@@ -1,6 +1,6 @@
 +++
 title = 'undergo'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌʌndəˈgəu] vt.经历，经受，忍受'

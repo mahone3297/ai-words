@@ -1,6 +1,6 @@
 +++
 title = 'queue'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kjuː] n.行列 vi.排队等候'

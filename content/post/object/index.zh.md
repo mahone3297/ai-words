@@ -1,9 +1,9 @@
 +++
 title = 'object'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[ˈɔbdʒikt] n.物，物体；目的'
+description = '[ˈɔbdʒikt] vi.反对；抱反感'
 keywords = ['ai words', 'object']
 +++
 

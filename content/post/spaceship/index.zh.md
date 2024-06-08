@@ -1,6 +1,6 @@
 +++
 title = 'spaceship'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈspeis∫ip] n.航天飞船'

@@ -1,6 +1,6 @@
 +++
 title = 'chill'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫il] vt.使变冷 n.寒冷'

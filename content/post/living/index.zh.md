@@ -1,6 +1,6 @@
 +++
 title = 'living'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈliviŋ] a.活的 n.生活，生计'

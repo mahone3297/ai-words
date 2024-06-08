@@ -1,6 +1,6 @@
 +++
 title = 'process'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈses] n.过程；工序 vt.加工'

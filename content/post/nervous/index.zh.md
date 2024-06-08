@@ -1,6 +1,6 @@
 +++
 title = 'nervous'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnəːvəs] a.神经的；易激动的'

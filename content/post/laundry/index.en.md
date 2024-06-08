@@ -1,6 +1,6 @@
 +++
 title = 'laundry'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlɔːndri] n.洗衣房，洗衣店'

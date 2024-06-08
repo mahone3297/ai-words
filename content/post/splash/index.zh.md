@@ -1,6 +1,6 @@
 +++
 title = 'splash'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[splæ∫] vt.&n.溅，泼，飞溅'

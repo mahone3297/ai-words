@@ -1,6 +1,6 @@
 +++
 title = 'render'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrendə] vt.表示，给予；使得'

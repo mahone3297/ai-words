@@ -1,6 +1,6 @@
 +++
 title = 'leadership'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈliːdə∫ip] n.领导'

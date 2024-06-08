@@ -1,6 +1,6 @@
 +++
 title = 'thing'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θiŋ] n.物；用品；事；情况'

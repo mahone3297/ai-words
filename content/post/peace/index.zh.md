@@ -1,6 +1,6 @@
 +++
 title = 'peace'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[piːs] n.和平；和睦；平静'

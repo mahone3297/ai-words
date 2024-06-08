@@ -1,6 +1,6 @@
 +++
 title = 'delegation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌdeliˈgei∫ən] n.代表团'

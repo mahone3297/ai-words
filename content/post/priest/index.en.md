@@ -1,6 +1,6 @@
 +++
 title = 'priest'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[priːst] n.教士，牧师，神父'

@@ -1,6 +1,6 @@
 +++
 title = 'inhabit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈhæbit] vt.居住于，栖息于'

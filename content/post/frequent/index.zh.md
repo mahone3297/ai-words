@@ -1,6 +1,6 @@
 +++
 title = 'frequent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfriːkwənt] a.时常发生的；经常的'

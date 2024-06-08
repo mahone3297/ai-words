@@ -1,6 +1,6 @@
 +++
 title = 'gift'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gift] n.礼物，赠品；天赋'

@@ -1,6 +1,6 @@
 +++
 title = 'weapon'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwepən] n.武器，兵器'

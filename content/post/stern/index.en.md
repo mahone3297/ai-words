@@ -1,6 +1,6 @@
 +++
 title = 'stern'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stəːn] a.严厉的；坚定的'

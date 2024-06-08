@@ -1,6 +1,6 @@
 +++
 title = 'normal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnɔːməl] a.正常的，普通的'

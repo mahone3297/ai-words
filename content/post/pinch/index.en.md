@@ -1,6 +1,6 @@
 +++
 title = 'pinch'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pint∫] vt.捏，拧，掐掉'

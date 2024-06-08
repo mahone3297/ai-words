@@ -1,6 +1,6 @@
 +++
 title = 'bubble'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbʌbl] n.泡 vi.冒泡，沸腾'

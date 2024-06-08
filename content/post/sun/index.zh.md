@@ -1,6 +1,6 @@
 +++
 title = 'sun'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sʌn] n.太阳，日'

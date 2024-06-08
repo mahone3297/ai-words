@@ -1,6 +1,6 @@
 +++
 title = 'compose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəmˈpəuz] vt.组成，构成；创作'

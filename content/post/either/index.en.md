@@ -1,6 +1,6 @@
 +++
 title = 'either'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈaiðə(r)] pron.(两者)任何一个'

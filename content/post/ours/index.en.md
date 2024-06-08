@@ -1,6 +1,6 @@
 +++
 title = 'ours'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈauəz] pron.我们的'

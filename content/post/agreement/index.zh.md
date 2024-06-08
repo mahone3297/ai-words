@@ -1,6 +1,6 @@
 +++
 title = 'agreement'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈgriːmənt] n.协定，协议；同意'

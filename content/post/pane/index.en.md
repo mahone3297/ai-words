@@ -1,6 +1,6 @@
 +++
 title = 'pane'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pein] n.窗格玻璃'

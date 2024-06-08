@@ -1,6 +1,6 @@
 +++
 title = 'rage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[reidʒ] n.(一阵)狂怒，盛怒'

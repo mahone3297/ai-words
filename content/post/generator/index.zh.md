@@ -1,6 +1,6 @@
 +++
 title = 'generator'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒenəreitə] n.发电机；发生者'

@@ -1,6 +1,6 @@
 +++
 title = 'ash'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[æ∫] n.灰，灰末；骨灰'

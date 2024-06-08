@@ -1,6 +1,6 @@
 +++
 title = 'exercise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈeksəsaiz] n.锻炼，训练 vi.练习'

@@ -1,6 +1,6 @@
 +++
 title = 'plan'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[plæn] n.&vt.计划，打算'

@@ -1,6 +1,6 @@
 +++
 title = 'major'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmeidʒə] a.较大的 n.专业'

@@ -1,6 +1,6 @@
 +++
 title = 'nerve'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nəːv] n.神经；勇敢，胆量'

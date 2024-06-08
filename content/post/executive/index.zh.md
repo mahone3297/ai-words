@@ -1,6 +1,6 @@
 +++
 title = 'executive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[igˈzekjutiv] a.执行的 n.执行者'

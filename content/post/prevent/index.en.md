@@ -1,6 +1,6 @@
 +++
 title = 'prevent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[priˈvent] vt.预防，防止；阻止'

@@ -1,6 +1,6 @@
 +++
 title = 'succeed'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səkˈsiːd] vt.继…之后 vi.成功'

@@ -1,6 +1,6 @@
 +++
 title = 'rubbish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrʌbi∫] n.垃圾，废物；废话'

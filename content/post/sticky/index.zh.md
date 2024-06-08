@@ -1,6 +1,6 @@
 +++
 title = 'sticky'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstiki] a.粘性的；胶粘的'

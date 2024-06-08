@@ -1,6 +1,6 @@
 +++
 title = 'finding'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfaindiŋ] n.发现；调查的结果'

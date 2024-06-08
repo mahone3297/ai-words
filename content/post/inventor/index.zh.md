@@ -1,6 +1,6 @@
 +++
 title = 'inventor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈventə(r)] n.发明者；发明家'

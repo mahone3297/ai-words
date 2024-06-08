@@ -1,6 +1,6 @@
 +++
 title = 'read'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riːd] vt.读，看懂 vi.读'

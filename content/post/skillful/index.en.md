@@ -1,6 +1,6 @@
 +++
 title = 'skillful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈskilful] a.灵巧的，娴熟的'

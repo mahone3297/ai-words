@@ -1,6 +1,6 @@
 +++
 title = 'encourage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈkʌridʒ] vt.鼓励，支持，助长'

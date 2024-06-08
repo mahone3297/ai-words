@@ -1,6 +1,6 @@
 +++
 title = 'brilliant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbriljənt] a.光辉的；卓越的'

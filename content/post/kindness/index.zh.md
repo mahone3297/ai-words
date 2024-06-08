@@ -1,6 +1,6 @@
 +++
 title = 'kindness'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkaindnis] n.仁慈，好意'

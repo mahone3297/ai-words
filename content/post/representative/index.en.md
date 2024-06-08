@@ -1,6 +1,6 @@
 +++
 title = 'representative'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌrepriˈzentətiv] a.代表性的 n.代表'

@@ -1,6 +1,6 @@
 +++
 title = 'delay'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈlei] vt.推迟；耽搁；延误'

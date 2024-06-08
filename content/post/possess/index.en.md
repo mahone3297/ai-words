@@ -1,6 +1,6 @@
 +++
 title = 'possess'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈzes] vt.占用，拥有(财产)'

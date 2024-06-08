@@ -1,6 +1,6 @@
 +++
 title = 'efficient'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈfi∫ənt] a.效率高的，有能力的'

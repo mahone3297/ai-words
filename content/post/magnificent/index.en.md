@@ -1,6 +1,6 @@
 +++
 title = 'magnificent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mægˈnifisnt] n.壮丽的；华丽的'

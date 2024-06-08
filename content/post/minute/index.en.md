@@ -1,9 +1,9 @@
 +++
 title = 'minute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[ˈminit] n.分，分钟；一会儿'
+description = 'a.微细的；详细的'
 keywords = ['ai words', 'minute']
 +++
 

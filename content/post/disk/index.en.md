@@ -1,6 +1,6 @@
 +++
 title = 'disk'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disk] n.圆盘，唱片；磁盘'

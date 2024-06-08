@@ -1,6 +1,6 @@
 +++
 title = 'wax'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wæks] n.蜡，蜂蜡'

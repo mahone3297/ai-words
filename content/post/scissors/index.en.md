@@ -1,6 +1,6 @@
 +++
 title = 'scissors'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsizəz] n.剪刀，剪子'

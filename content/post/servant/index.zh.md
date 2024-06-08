@@ -1,6 +1,6 @@
 +++
 title = 'servant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsəːvənt] n.仆人，佣人，雇工'

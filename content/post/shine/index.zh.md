@@ -1,6 +1,6 @@
 +++
 title = 'shine'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫ain] vi.照耀，发光 n.光'

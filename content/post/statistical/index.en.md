@@ -1,6 +1,6 @@
 +++
 title = 'statistical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stəˈtistikəl] a.统计的，统计学的'

@@ -1,6 +1,6 @@
 +++
 title = 'awful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔːful] a.令人不愉快的'

@@ -1,6 +1,6 @@
 +++
 title = 'respectively'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈspektivli] ad.各自/分别地'

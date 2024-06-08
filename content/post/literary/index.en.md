@@ -1,6 +1,6 @@
 +++
 title = 'literary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlitərəri] a.文学(上)的'

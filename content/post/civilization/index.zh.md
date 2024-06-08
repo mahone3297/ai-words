@@ -1,6 +1,6 @@
 +++
 title = 'civilization'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sivəliˈzei∫ən] n.文明，文化；开化'

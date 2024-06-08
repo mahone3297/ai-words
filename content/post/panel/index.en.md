@@ -1,6 +1,6 @@
 +++
 title = 'panel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpænl] n.专门小组；面，板'

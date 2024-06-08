@@ -1,6 +1,6 @@
 +++
 title = 'particular'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈtikjulə] a.特殊的；特定的'

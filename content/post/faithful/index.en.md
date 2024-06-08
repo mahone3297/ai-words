@@ -1,6 +1,6 @@
 +++
 title = 'faithful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfeiθful] a.忠诚的；如实的'

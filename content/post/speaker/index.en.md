@@ -1,6 +1,6 @@
 +++
 title = 'speaker'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈspiːkə] n.说话者；扬声器'

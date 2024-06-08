@@ -1,6 +1,6 @@
 +++
 title = 'nod'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nɔd] vt.点(头)；点头表示'

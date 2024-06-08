@@ -1,6 +1,6 @@
 +++
 title = 'museum'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mju(ː)ˈziəm] n.博物馆；展览馆'

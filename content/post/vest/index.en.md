@@ -1,6 +1,6 @@
 +++
 title = 'vest'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[vest] n.汗衫；背心；内衣'

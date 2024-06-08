@@ -1,6 +1,6 @@
 +++
 title = 'exhibit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[igˈzibit] vt.显示；陈列，展览'

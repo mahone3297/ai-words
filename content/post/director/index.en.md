@@ -1,6 +1,6 @@
 +++
 title = 'director'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈrektə] n.指导者；理事；导演'

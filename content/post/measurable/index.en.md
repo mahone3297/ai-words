@@ -1,6 +1,6 @@
 +++
 title = 'measurable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmeʒərəbl] a.可测量的'

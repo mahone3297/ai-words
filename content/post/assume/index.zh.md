@@ -1,6 +1,6 @@
 +++
 title = 'assume'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈsjuːm] vt.假定；承担；呈现'

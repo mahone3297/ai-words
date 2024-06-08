@@ -1,6 +1,6 @@
 +++
 title = 'dying'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdaiiŋ] a.垂死的；临终的'

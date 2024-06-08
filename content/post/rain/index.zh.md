@@ -1,6 +1,6 @@
 +++
 title = 'rain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rein] n.雨，雨水 vi.下雨'

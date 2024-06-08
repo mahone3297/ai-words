@@ -1,6 +1,6 @@
 +++
 title = 'lag'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[læg] vi.走得慢 n.落后'

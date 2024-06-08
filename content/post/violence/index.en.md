@@ -1,6 +1,6 @@
 +++
 title = 'violence'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvaiələns] n.猛烈，激烈；暴力'

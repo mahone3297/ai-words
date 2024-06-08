@@ -1,6 +1,6 @@
 +++
 title = 'discard'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈkɑːd] vt.丢弃，抛弃，遗弃'

@@ -1,6 +1,6 @@
 +++
 title = 'basic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbeisik] a.基本的，基础的'

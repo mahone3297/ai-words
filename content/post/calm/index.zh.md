@@ -1,6 +1,6 @@
 +++
 title = 'calm'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɑːm] a.静的，平静的'

@@ -1,6 +1,6 @@
 +++
 title = 'twist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[twist] vt.捻；拧 vi.&n.扭弯'

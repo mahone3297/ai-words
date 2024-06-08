@@ -1,6 +1,6 @@
 +++
 title = 'conscious'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔn∫əs] a.意识到的；有意的'

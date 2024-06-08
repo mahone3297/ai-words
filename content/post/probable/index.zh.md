@@ -1,6 +1,6 @@
 +++
 title = 'probable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprɔbəbl] a.或有的；大概的'

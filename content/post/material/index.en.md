@@ -1,6 +1,6 @@
 +++
 title = 'material'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[məˈtiəriəl] n.材料；素材 a.物质的'

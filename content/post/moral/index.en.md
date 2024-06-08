@@ -1,6 +1,6 @@
 +++
 title = 'moral'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmɔrəl] a.道德的；合乎道德的'

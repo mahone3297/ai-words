@@ -1,6 +1,6 @@
 +++
 title = 'rose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rəuz] n.蔷薇花，蔷薇科植物'

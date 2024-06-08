@@ -1,6 +1,6 @@
 +++
 title = 'jazz'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʒæz] n.爵士音乐，爵士舞曲'

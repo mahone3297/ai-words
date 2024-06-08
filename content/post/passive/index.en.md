@@ -1,6 +1,6 @@
 +++
 title = 'passive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpæsiv] a.被动的；消极的'

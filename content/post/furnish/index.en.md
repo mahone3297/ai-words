@@ -1,6 +1,6 @@
 +++
 title = 'furnish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfəːni∫] vt.供应，提供；装备'

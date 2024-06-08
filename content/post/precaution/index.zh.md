@@ -1,6 +1,6 @@
 +++
 title = 'precaution'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[priˈkɔː∫ən] n.预防；警惕'

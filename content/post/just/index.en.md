@@ -1,6 +1,6 @@
 +++
 title = 'just'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʒʌst] ad.刚才；只是；正好'

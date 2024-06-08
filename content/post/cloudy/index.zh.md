@@ -1,6 +1,6 @@
 +++
 title = 'cloudy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈklaudi] a.多云的；云一般的'

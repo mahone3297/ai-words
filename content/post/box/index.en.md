@@ -1,9 +1,9 @@
 +++
 title = 'box'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[bɔks] n.箱，盒；包箱'
+description = '[bɔks] vi.拳击，打拳'
 keywords = ['ai words', 'box']
 +++
 

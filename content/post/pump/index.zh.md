@@ -1,6 +1,6 @@
 +++
 title = 'pump'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pʌmp] n.泵 vt.用抽机抽'

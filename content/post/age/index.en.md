@@ -1,6 +1,6 @@
 +++
 title = 'age'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[eidʒ] n.年龄；时代 vt.变老'

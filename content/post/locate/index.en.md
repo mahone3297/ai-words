@@ -1,6 +1,6 @@
 +++
 title = 'locate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ləuˈkeit] vt.探明，找出，查出'

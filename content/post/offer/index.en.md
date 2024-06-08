@@ -1,6 +1,6 @@
 +++
 title = 'offer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔfə] vt.提供；提出 n.提供'

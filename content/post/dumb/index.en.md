@@ -1,6 +1,6 @@
 +++
 title = 'dumb'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʌm] a.哑的；无言的'

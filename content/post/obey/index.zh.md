@@ -1,6 +1,6 @@
 +++
 title = 'obey'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əuˈbei] vt.顺从 vi.服从'

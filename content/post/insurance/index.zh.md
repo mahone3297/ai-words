@@ -1,6 +1,6 @@
 +++
 title = 'insurance'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈ∫uərəns] n.保险；保险费'

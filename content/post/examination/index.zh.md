@@ -1,6 +1,6 @@
 +++
 title = 'examination'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[igˌzæmiˈnei∫ən] n.考试；检/细查'

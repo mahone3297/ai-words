@@ -1,6 +1,6 @@
 +++
 title = 'competition'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɔmpiˈti∫ən] n.竞争，比赛'

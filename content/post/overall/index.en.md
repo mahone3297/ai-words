@@ -1,6 +1,6 @@
 +++
 title = 'overall'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈəuvərɔːl] n.工装裤 a.全面的'

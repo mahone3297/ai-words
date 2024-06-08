@@ -1,6 +1,6 @@
 +++
 title = 'spray'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sprei] n.浪花；喷雾 vt.喷'

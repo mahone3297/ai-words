@@ -1,6 +1,6 @@
 +++
 title = 'ride'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[raid] vi.&n.骑马，乘车'

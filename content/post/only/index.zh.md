@@ -1,6 +1,6 @@
 +++
 title = 'only'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈəunli] ad.只，仅仅 a.唯一的'

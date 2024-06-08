@@ -1,6 +1,6 @@
 +++
 title = 'assure'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈ∫uə] vt.使确信；向…保证'

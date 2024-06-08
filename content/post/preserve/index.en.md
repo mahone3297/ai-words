@@ -1,6 +1,6 @@
 +++
 title = 'preserve'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[priˈzəːv] vt.保护；保存；腌渍'

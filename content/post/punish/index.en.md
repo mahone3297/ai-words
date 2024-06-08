@@ -1,6 +1,6 @@
 +++
 title = 'punish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpʌni∫] vt.罚，惩罚，处罚'

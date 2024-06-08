@@ -1,6 +1,6 @@
 +++
 title = 'puppet'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpʌpit] n.木偶，玩偶；傀儡'

@@ -1,6 +1,6 @@
 +++
 title = 'strike'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[straik] vt.&vi.打，击 n.罢工'

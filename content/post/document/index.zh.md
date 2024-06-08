@@ -1,6 +1,6 @@
 +++
 title = 'document'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdɔkjumənt] n.公文，文件；证件'

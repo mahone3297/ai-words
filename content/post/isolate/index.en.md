@@ -1,6 +1,6 @@
 +++
 title = 'isolate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈaisəleit] vt.使隔离，使孤立'

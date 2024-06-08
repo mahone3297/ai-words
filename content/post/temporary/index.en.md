@@ -1,6 +1,6 @@
 +++
 title = 'temporary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtempərəri] a.暂时的，临时的'

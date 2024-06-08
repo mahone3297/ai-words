@@ -1,6 +1,6 @@
 +++
 title = 'soap'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səup] n.肥皂'

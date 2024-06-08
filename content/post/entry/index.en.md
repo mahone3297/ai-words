@@ -1,6 +1,6 @@
 +++
 title = 'entry'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈentri] n.入口处；登记；进入'

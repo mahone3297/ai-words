@@ -1,6 +1,6 @@
 +++
 title = 'Portuguese'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌpɔːtjuˈgiːz] n.葡萄牙人/语'

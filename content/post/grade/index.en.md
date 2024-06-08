@@ -1,6 +1,6 @@
 +++
 title = 'grade'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[greid] vt.给…分等级 n.等级'

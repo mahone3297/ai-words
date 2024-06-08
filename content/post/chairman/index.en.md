@@ -1,6 +1,6 @@
 +++
 title = 'chairman'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈt∫eəmən] n.主席；议长，会长'

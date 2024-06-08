@@ -1,6 +1,6 @@
 +++
 title = 'describe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈkraib] vt.形容；描写，描绘'

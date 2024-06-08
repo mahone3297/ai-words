@@ -1,9 +1,9 @@
 +++
 title = 'content'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[kənˈtent] n.内容，目录；容量'
+description = '[kənˈtent] a.满意的，满足的'
 keywords = ['ai words', 'content']
 +++
 

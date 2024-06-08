@@ -1,6 +1,6 @@
 +++
 title = 'rope'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rəup] n.绳，索'

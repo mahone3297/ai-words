@@ -1,6 +1,6 @@
 +++
 title = 'nor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nɔː] conj.也不；不'

@@ -1,6 +1,6 @@
 +++
 title = 'cousin'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkʌzn] n.堂(或表)兄弟(姐妹)'

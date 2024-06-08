@@ -1,6 +1,6 @@
 +++
 title = 'stiffen'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstifn] vt.使硬；使僵硬'

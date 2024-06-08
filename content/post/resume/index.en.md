@@ -1,6 +1,6 @@
 +++
 title = 'resume'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈzjuːm] vt.恢复；重新开始'

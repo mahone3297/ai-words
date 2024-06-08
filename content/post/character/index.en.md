@@ -1,6 +1,6 @@
 +++
 title = 'character'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkæriktə] n.性格；特性；角色'

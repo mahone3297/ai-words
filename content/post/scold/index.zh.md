@@ -1,6 +1,6 @@
 +++
 title = 'scold'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skəuld] vi.责骂 vt.申斥'

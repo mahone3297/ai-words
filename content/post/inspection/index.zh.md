@@ -1,6 +1,6 @@
 +++
 title = 'inspection'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈspek∫ən] n.检查，审查；检阅'

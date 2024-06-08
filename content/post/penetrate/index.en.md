@@ -1,6 +1,6 @@
 +++
 title = 'penetrate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpenitreit] vt.穿过 vi.穿入'

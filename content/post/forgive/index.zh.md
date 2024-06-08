@@ -1,6 +1,6 @@
 +++
 title = 'forgive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fəˈgiv] vt.原谅，饶恕，宽恕'

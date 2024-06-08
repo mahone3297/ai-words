@@ -1,6 +1,6 @@
 +++
 title = 'Bible'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbaibl] n.基督教《圣经》'

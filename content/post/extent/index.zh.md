@@ -1,6 +1,6 @@
 +++
 title = 'extent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈtent] n.广度；范围；程度'

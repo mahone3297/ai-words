@@ -1,6 +1,6 @@
 +++
 title = 'apply'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈplai] vt.应用，实施，使用'

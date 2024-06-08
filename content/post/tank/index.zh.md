@@ -1,6 +1,6 @@
 +++
 title = 'tank'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tæŋk] n.坦克；大容器，槽'

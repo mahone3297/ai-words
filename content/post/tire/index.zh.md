@@ -1,6 +1,6 @@
 +++
 title = 'tire'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtaiə] vi.疲劳，累；厌倦'

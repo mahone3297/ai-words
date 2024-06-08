@@ -1,6 +1,6 @@
 +++
 title = 'sixth'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[siksθ] num.第六；六分之一'

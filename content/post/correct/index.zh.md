@@ -1,6 +1,6 @@
 +++
 title = 'correct'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈrekt] a.正确的 vt.纠正'

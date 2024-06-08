@@ -1,6 +1,6 @@
 +++
 title = 'beast'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biːst] n.兽，野兽；牲畜'

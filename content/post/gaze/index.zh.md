@@ -1,6 +1,6 @@
 +++
 title = 'gaze'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[geiz] vi.凝视，盯，注视'

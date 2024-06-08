@@ -1,6 +1,6 @@
 +++
 title = 'majority'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[məˈdʒɔriti] n.多数，大多数'

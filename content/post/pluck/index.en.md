@@ -1,6 +1,6 @@
 +++
 title = 'pluck'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[plʌk] vt.采，摘；拉下 n.拉'

@@ -1,6 +1,6 @@
 +++
 title = 'miner'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmainə] n.矿工'

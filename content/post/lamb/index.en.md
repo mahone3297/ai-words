@@ -1,6 +1,6 @@
 +++
 title = 'lamb'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[læm] n.羔羊，小羊；羔羊肉'

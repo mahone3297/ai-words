@@ -1,6 +1,6 @@
 +++
 title = 'punishment'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpʌni∫mənt] n.罚，惩罚，处罚'

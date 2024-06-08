@@ -1,6 +1,6 @@
 +++
 title = 'hunt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hʌnt] n.打猎；搜寻 vt.追猎'

@@ -1,6 +1,6 @@
 +++
 title = 'sample'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsæmpl] n.样品；实例，标本'

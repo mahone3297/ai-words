@@ -1,6 +1,6 @@
 +++
 title = 'fold'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fəuld] vt.折叠；合拢 n.褶'

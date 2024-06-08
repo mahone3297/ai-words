@@ -1,6 +1,6 @@
 +++
 title = 'exceedingly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ikˈsiːdiŋli] ad.极端地，非常'

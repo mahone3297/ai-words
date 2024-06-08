@@ -1,6 +1,6 @@
 +++
 title = 'dry'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[drai] a.干的，干燥的'

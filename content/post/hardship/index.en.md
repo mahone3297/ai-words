@@ -1,6 +1,6 @@
 +++
 title = 'hardship'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhɑːdˌ∫ip] n.艰难，困苦'

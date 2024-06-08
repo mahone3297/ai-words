@@ -1,6 +1,6 @@
 +++
 title = 'stiff'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stif] a.硬的；僵直的'

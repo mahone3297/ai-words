@@ -1,6 +1,6 @@
 +++
 title = 'arithmetic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈriθmətik] n.算术，四则运算'

@@ -1,6 +1,6 @@
 +++
 title = 'climate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈklaimit] n.气候；风土，地带'

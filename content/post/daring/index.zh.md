@@ -1,6 +1,6 @@
 +++
 title = 'daring'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdeəriŋ] a.大胆的，勇敢的'

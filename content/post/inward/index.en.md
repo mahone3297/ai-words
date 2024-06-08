@@ -1,6 +1,6 @@
 +++
 title = 'inward'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinwəd] a.里面的 ad.向内'

@@ -1,6 +1,6 @@
 +++
 title = 'radiation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌreidiˈei∫ən] n.放/发射；辐射能'

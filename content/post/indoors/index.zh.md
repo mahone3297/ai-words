@@ -1,6 +1,6 @@
 +++
 title = 'indoors'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinˈdɔːz] ad.在室内，在屋里'

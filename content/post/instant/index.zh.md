@@ -1,6 +1,6 @@
 +++
 title = 'instant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinstənt] n.瞬间 a.立即的'

@@ -1,6 +1,6 @@
 +++
 title = 'weed'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wiːd] n.杂草，野草 vi.除草'

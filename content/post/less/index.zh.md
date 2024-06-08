@@ -1,6 +1,6 @@
 +++
 title = 'less'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[les] a.更少的 ad.更少地'

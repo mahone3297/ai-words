@@ -1,6 +1,6 @@
 +++
 title = 'warn'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wɔːn] vt.警告 vi.发生警告'

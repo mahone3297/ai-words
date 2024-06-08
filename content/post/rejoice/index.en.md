@@ -1,6 +1,6 @@
 +++
 title = 'rejoice'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈdʒɔis] vi.欣喜，高兴'

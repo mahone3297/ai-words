@@ -1,6 +1,6 @@
 +++
 title = 'slip'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[slip] vi.滑跤；滑落；溜'

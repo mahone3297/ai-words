@@ -1,6 +1,6 @@
 +++
 title = 'seek'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[siːk] vt.寻找，探索；试图'

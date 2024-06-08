@@ -1,6 +1,6 @@
 +++
 title = 'early'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈəːli] ad.早 a.早的，早期的'

@@ -1,6 +1,6 @@
 +++
 title = 'fault'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fɔːlt] n.缺点；过失；故障'

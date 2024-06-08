@@ -1,6 +1,6 @@
 +++
 title = 'roughly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrʌfli] ad.粗糙地，粗略地'

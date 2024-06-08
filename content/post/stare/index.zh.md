@@ -1,6 +1,6 @@
 +++
 title = 'stare'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[steə(r)] vi.盯，凝视'

@@ -1,6 +1,6 @@
 +++
 title = 'mild'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[maild] a.和缓的；温柔的'

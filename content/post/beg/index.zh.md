@@ -1,6 +1,6 @@
 +++
 title = 'beg'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[beg] vt.&vi.乞求；请求'

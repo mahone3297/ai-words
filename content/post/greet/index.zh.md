@@ -1,6 +1,6 @@
 +++
 title = 'greet'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[griːt] vt.问候，招呼；反应'

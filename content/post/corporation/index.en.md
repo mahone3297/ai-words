@@ -1,6 +1,6 @@
 +++
 title = 'corporation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌkɔːpəˈrei∫ən] n.公司，企业；社团'

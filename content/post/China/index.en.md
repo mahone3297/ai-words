@@ -1,10 +1,10 @@
 +++
-title = 'China'
-draft = false
+title = 'china'
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[ˈt∫ainə] n.中国'
-keywords = ['ai words', 'China']
+description = 'n.瓷器，瓷料'
+keywords = ['ai words', 'china']
 +++
 
 ## Pronunciation

@@ -1,6 +1,6 @@
 +++
 title = 'critical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkritikəl] a.决定性的；批评的'

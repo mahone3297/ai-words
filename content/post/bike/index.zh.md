@@ -1,6 +1,6 @@
 +++
 title = 'bike'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[baik] n.自行车 vi.骑自行车'

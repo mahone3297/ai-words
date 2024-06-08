@@ -1,6 +1,6 @@
 +++
 title = 'four'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fɔː] num.四，四个，第四'

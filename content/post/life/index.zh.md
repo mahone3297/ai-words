@@ -1,6 +1,6 @@
 +++
 title = 'life'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[laif] n.生命；一生；寿命'

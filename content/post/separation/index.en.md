@@ -1,6 +1,6 @@
 +++
 title = 'separation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sepəˈrei∫ən] n.分离，分开/居'

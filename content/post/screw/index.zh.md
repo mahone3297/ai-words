@@ -1,6 +1,6 @@
 +++
 title = 'screw'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skruː] n.螺旋，螺丝 vt.拧紧'

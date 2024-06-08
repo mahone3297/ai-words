@@ -1,6 +1,6 @@
 +++
 title = 'swim'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[swim] vi.游，游泳；眼花'

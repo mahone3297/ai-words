@@ -1,6 +1,6 @@
 +++
 title = 'headache'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhedeik] n.头痛；头痛的事'

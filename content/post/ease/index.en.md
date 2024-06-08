@@ -1,6 +1,6 @@
 +++
 title = 'ease'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iːz] n.容易，舒适 vt.缓和'

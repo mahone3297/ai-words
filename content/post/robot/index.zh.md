@@ -1,6 +1,6 @@
 +++
 title = 'robot'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrəubɔt] n.机器人；自动机'

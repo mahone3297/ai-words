@@ -1,6 +1,6 @@
 +++
 title = 'ski'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skiː] n.滑橇 vi.滑雪'

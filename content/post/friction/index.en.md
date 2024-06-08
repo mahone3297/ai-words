@@ -1,6 +1,6 @@
 +++
 title = 'friction'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfrik∫ən] n.摩擦，摩擦力'

@@ -1,6 +1,6 @@
 +++
 title = 'step'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[step] n.(脚)步；步骤 vi.走'

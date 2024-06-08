@@ -1,6 +1,6 @@
 +++
 title = 'steep'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stiːp] a.险峻的，陡峭的'

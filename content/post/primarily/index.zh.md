@@ -1,6 +1,6 @@
 +++
 title = 'primarily'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpraimərili] ad.首先；主要地'

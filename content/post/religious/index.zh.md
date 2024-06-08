@@ -1,6 +1,6 @@
 +++
 title = 'religious'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈlidʒəs] a.宗教的；虔诚的'

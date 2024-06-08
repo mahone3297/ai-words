@@ -1,6 +1,6 @@
 +++
 title = 'same'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[seim] a.同一的，相同的'

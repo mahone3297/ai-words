@@ -1,6 +1,6 @@
 +++
 title = 'coast'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəust] n.海岸，海滨(地区)'

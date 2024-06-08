@@ -1,6 +1,6 @@
 +++
 title = 'tedious'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtiːdiəs] a.冗长乏味的，沉闷的'

@@ -1,6 +1,6 @@
 +++
 title = 'sweat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[swet] n.汗 vi.出汗'

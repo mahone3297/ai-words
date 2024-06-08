@@ -1,6 +1,6 @@
 +++
 title = 'cordial'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔːrdʒəl] a.真诚的，诚恳的'

@@ -1,6 +1,6 @@
 +++
 title = 'justify'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒʌstifai] vt.证明…是正当的'

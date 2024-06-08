@@ -1,6 +1,6 @@
 +++
 title = 'qualify'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkwɔlifai] vt.使具有资格'

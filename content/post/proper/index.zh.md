@@ -1,6 +1,6 @@
 +++
 title = 'proper'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprɔpə] a.适合的；合乎体统的'

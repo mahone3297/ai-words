@@ -1,6 +1,6 @@
 +++
 title = 'flag'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[flæg] n.旗，旗帜；旗舰旗'

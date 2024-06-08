@@ -1,6 +1,6 @@
 +++
 title = 'accurate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈækjurit] a.准确的，正确无误的'

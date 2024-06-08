@@ -1,6 +1,6 @@
 +++
 title = 'retire'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈtaiə] vi.退下；引退；就寝'

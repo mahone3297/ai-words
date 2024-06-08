@@ -1,6 +1,6 @@
 +++
 title = 'load'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ləud] vt.装；装满 n.负载'

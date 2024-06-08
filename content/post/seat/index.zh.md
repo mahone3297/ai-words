@@ -1,6 +1,6 @@
 +++
 title = 'seat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[siːt] n.座；座部 vt.使坐下'

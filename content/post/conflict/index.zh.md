@@ -1,6 +1,6 @@
 +++
 title = 'conflict'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔnflikt] n.争论；冲突；斗争'

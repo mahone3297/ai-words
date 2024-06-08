@@ -1,6 +1,6 @@
 +++
 title = 'trust'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trʌst] n.信任 vt.相信；委托'

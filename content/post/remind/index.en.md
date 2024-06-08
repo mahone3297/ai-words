@@ -1,6 +1,6 @@
 +++
 title = 'remind'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈmaind] vt.提醒，使想起'

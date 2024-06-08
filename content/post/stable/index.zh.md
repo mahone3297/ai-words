@@ -1,9 +1,9 @@
 +++
 title = 'stable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[ˈsteibl] a.稳定的，不变的'
+description = 'n.厩，马厩，牛棚'
 keywords = ['ai words', 'stable']
 +++
 

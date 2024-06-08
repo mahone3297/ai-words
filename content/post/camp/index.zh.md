@@ -1,6 +1,6 @@
 +++
 title = 'camp'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kæmp] n.野营，营地，兵营'

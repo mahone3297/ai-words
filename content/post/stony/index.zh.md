@@ -1,6 +1,6 @@
 +++
 title = 'stony'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstəuni] a.多石的；冷酷的'

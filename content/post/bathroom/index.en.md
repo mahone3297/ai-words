@@ -1,6 +1,6 @@
 +++
 title = 'bathroom'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbɑːθruːm] n.浴室；盥洗室'

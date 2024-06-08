@@ -1,6 +1,6 @@
 +++
 title = 'organize'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔːgənaiz] vt.组织，编组'

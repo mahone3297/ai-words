@@ -1,6 +1,6 @@
 +++
 title = 'wake'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[weik] vi.醒，醒来 vt.唤醒'

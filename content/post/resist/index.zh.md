@@ -1,6 +1,6 @@
 +++
 title = 'resist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈzist] vt.&vi.抵抗，抵制'

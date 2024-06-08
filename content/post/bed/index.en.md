@@ -1,6 +1,6 @@
 +++
 title = 'bed'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bed] n.床，床位；圃；河床'

@@ -1,6 +1,6 @@
 +++
 title = 'wholly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhəuli] ad.完全地，全部'

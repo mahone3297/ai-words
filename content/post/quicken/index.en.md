@@ -1,6 +1,6 @@
 +++
 title = 'quicken'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkwikən] vt.加快 vi.加快'

@@ -1,6 +1,6 @@
 +++
 title = 'seize'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[siːz] vt.抓住，逮捕；夺取'

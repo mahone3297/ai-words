@@ -1,6 +1,6 @@
 +++
 title = 'establish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[isˈtæbli∫] vt.建立，设立；确立'

@@ -1,6 +1,6 @@
 +++
 title = 'barrel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbærəl] n.桶；圆筒；枪管'

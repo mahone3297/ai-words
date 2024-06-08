@@ -1,6 +1,6 @@
 +++
 title = 'district'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdistrikt] n.区；地区，区域'

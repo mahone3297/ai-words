@@ -1,6 +1,6 @@
 +++
 title = 'reality'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ri(ː)ˈæliti] n.现实；真实'

@@ -1,6 +1,6 @@
 +++
 title = 'merely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmiəli] ad.仅仅，只不过'

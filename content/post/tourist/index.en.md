@@ -1,6 +1,6 @@
 +++
 title = 'tourist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtuərist] n.旅游者，观光者'

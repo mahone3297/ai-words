@@ -1,6 +1,6 @@
 +++
 title = 'substance'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsʌbstəns] n.物质；实质；本旨'

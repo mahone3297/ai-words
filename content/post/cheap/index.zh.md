@@ -1,6 +1,6 @@
 +++
 title = 'cheap'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫iːp] a.廉价的；劣质的'

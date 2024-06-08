@@ -1,6 +1,6 @@
 +++
 title = 'bus'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bʌs] n.公共汽车'

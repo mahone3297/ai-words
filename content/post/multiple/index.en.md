@@ -1,6 +1,6 @@
 +++
 title = 'multiple'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmʌltipl] a.复合的；并联的'

@@ -1,6 +1,6 @@
 +++
 title = 'plenty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈplenti] n.丰富，充足，大量'

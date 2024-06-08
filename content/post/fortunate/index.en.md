@@ -1,6 +1,6 @@
 +++
 title = 'fortunate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfɔːt∫ənit] a.幸运的，侥幸的'

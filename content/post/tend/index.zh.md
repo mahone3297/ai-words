@@ -1,9 +1,9 @@
 +++
 title = 'tend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[tend] vt.照管，照料，护理'
+description = 'vi.走向，趋向；倾向'
 keywords = ['ai words', 'tend']
 +++
 

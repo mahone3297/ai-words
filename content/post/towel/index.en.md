@@ -1,6 +1,6 @@
 +++
 title = 'towel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtauəl] n.毛巾，手巾'

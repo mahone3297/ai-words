@@ -1,6 +1,6 @@
 +++
 title = 'substitute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsʌbstitjuːt] n.代替人 vt.用…代替'

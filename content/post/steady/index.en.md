@@ -1,6 +1,6 @@
 +++
 title = 'steady'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstedi] a.稳固的 vt.使稳定'

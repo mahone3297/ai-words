@@ -1,6 +1,6 @@
 +++
 title = 'memory'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmeməri] n.记忆；回忆；存储'

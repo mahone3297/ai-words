@@ -1,6 +1,6 @@
 +++
 title = 'white'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[(h)wait] a.白的 n.白色'

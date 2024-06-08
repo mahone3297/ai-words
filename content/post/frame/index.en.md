@@ -1,6 +1,6 @@
 +++
 title = 'frame'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[freim] n.框架，框子；构架'

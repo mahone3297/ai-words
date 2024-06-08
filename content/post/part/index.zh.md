@@ -1,6 +1,6 @@
 +++
 title = 'part'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pɑːt] n.一部分；零件；本份'

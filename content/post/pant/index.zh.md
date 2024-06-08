@@ -1,6 +1,6 @@
 +++
 title = 'pant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pænt] n.气喘；心跳'

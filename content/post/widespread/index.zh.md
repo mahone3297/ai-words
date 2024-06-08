@@ -1,6 +1,6 @@
 +++
 title = 'widespread'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwaidspred] a.分布广/普遍的'

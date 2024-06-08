@@ -1,6 +1,6 @@
 +++
 title = 'naughty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnɔːti] a.顽皮的，淘气的'

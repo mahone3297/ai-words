@@ -1,6 +1,6 @@
 +++
 title = 'quart'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɔːt] n.夸脱(=2 品脱)'

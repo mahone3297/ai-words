@@ -1,6 +1,6 @@
 +++
 title = 'tired'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtaiəd] a.疲劳的；厌倦的'

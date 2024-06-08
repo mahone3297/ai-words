@@ -1,6 +1,6 @@
 +++
 title = 'essential'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈsen∫əl] a.必要的，本质的'

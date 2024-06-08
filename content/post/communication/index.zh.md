@@ -1,6 +1,6 @@
 +++
 title = 'communication'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˌmjuːniˈkei∫n] n.通讯;传达；交通'

@@ -1,6 +1,6 @@
 +++
 title = 'tick'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tik] n.滴答声；记号'

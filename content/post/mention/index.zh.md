@@ -1,6 +1,6 @@
 +++
 title = 'mention'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmen∫ən] vt.&n.提及，说起'

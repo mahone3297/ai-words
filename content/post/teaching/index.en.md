@@ -1,6 +1,6 @@
 +++
 title = 'teaching'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtiːt∫iŋ] n.教学，讲授；教导'

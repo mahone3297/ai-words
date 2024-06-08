@@ -1,6 +1,6 @@
 +++
 title = 'rotary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrəutəri] a.旋转的，转动的'

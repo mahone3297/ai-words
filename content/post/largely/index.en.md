@@ -1,6 +1,6 @@
 +++
 title = 'largely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlɑːdʒli] ad.大部分；大量地'

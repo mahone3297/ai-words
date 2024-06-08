@@ -1,6 +1,6 @@
 +++
 title = 'typical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtipikəl] a.典型的，代表性的'

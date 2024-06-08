@@ -1,6 +1,6 @@
 +++
 title = 'celebrate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈselibreit] vt.庆祝；歌颂，赞美'

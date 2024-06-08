@@ -1,6 +1,6 @@
 +++
 title = 'microcomputer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmaikrəukəmpjuːtə(r)] n.微型计算机，微机'

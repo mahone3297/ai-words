@@ -1,6 +1,6 @@
 +++
 title = 'everyday'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈevridei] a.每天的，日常的'

@@ -1,6 +1,6 @@
 +++
 title = 'stair'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[steə] n.楼梯'

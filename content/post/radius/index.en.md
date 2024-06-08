@@ -1,6 +1,6 @@
 +++
 title = 'radius'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈreidjəs] n.半径'

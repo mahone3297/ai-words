@@ -1,6 +1,6 @@
 +++
 title = 'define'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈfain] vt.给…下定义；限定'

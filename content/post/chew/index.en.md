@@ -1,6 +1,6 @@
 +++
 title = 'chew'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫uː] vt.咀嚼，嚼碎'

@@ -1,6 +1,6 @@
 +++
 title = 'cry'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[krai] vi.哭，哭泣；叫喊'

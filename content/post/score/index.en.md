@@ -1,6 +1,6 @@
 +++
 title = 'score'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skɔː] n.得分，比数，成绩'

@@ -1,6 +1,6 @@
 +++
 title = 'festival'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfestəvəl] n.节日；音乐节'

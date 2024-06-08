@@ -1,9 +1,9 @@
 +++
 title = 'swallow'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[ˈswɔləu] n.燕子'
+description = 'vt.&vi.吞下，咽下'
 keywords = ['ai words', 'swallow']
 +++
 

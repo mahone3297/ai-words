@@ -1,6 +1,6 @@
 +++
 title = 'successive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səkˈsesiv] a.连续的；接连的'

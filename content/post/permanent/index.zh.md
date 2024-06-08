@@ -1,6 +1,6 @@
 +++
 title = 'permanent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpəːmənənt] a.永久的，持久的'

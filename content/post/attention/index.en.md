@@ -1,6 +1,6 @@
 +++
 title = 'attention'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈten∫ən] n.注意，留心；注意力'

@@ -1,6 +1,6 @@
 +++
 title = 'weight'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[weit] n.重；砝码；重担'

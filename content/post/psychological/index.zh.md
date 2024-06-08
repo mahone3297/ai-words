@@ -1,6 +1,6 @@
 +++
 title = 'psychological'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌsaikəˈlɔdʒikəl] a.心理(学)的'

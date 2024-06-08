@@ -1,6 +1,6 @@
 +++
 title = 'woman'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwumən] n.妇女，女人，女性'

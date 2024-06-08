@@ -1,6 +1,6 @@
 +++
 title = 'singular'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsiŋgjulə] a.单一的；非凡的'

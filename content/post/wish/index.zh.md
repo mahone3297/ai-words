@@ -1,6 +1,6 @@
 +++
 title = 'wish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wi∫] vt.祝；想要 n.希望'

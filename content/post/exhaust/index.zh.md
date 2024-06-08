@@ -1,6 +1,6 @@
 +++
 title = 'exhaust'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[igˈzɔːst] vt.使筋疲力尽；用尽'

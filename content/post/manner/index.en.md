@@ -1,6 +1,6 @@
 +++
 title = 'manner'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmænə] n.方式；态度；礼貌'

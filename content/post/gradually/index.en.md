@@ -1,6 +1,6 @@
 +++
 title = 'gradually'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgrædjuəli] ad.逐渐地，逐步地'

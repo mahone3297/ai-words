@@ -1,6 +1,6 @@
 +++
 title = 'dim'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dim] a.昏暗的；朦胧的'

@@ -1,6 +1,6 @@
 +++
 title = 'creep'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kriːp] vi.爬行；缓慢地行进'

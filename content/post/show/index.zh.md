@@ -1,6 +1,6 @@
 +++
 title = 'show'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫əu] vt.给…看；表明'

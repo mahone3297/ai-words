@@ -1,6 +1,6 @@
 +++
 title = 'blanket'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈblæŋkit] n.毛毯，毯子，羊毛毯'

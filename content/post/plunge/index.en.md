@@ -1,6 +1,6 @@
 +++
 title = 'plunge'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[plʌndʒ] vt.使投入；使陷入'

@@ -1,6 +1,6 @@
 +++
 title = 'slowly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsləuli] ad.慢慢地'

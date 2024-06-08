@@ -1,6 +1,6 @@
 +++
 title = 'truth'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[truːθ] n.真理；真实；真实性'

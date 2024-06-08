@@ -1,6 +1,6 @@
 +++
 title = 'meantime'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmiːnˈtaim] n.其时/间 ad.当时'

@@ -1,6 +1,6 @@
 +++
 title = 'pleasant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈplezənt] a.令人愉快的，舒适的'

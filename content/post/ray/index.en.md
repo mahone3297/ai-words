@@ -1,6 +1,6 @@
 +++
 title = 'ray'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rei] n.光线，射线，辐射线'

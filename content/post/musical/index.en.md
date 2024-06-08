@@ -1,6 +1,6 @@
 +++
 title = 'musical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmjuːzikəl] a.音乐的；和谐的'

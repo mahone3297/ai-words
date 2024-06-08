@@ -1,6 +1,6 @@
 +++
 title = 'criticize'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkritisaiz] vt.批评；评论；非难'

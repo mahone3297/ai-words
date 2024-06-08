@@ -1,6 +1,6 @@
 +++
 title = 'collapse'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈlæps] vi.倒坍；崩溃，瓦解'

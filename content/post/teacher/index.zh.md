@@ -1,6 +1,6 @@
 +++
 title = 'teacher'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtiːt∫ə] n.教师，老师，先生'

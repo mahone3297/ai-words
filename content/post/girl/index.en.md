@@ -1,6 +1,6 @@
 +++
 title = 'girl'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gəːl] n.女孩子，姑娘；女儿'

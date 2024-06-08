@@ -1,6 +1,6 @@
 +++
 title = 'secure'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[siˈkjuə] a.安心的；安全的'

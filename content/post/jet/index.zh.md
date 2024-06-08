@@ -1,6 +1,6 @@
 +++
 title = 'jet'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʒet] n.喷气式飞机；喷嘴'

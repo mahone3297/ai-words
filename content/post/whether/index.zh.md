@@ -1,6 +1,6 @@
 +++
 title = 'whether'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈ(h)weðə] conj.是否'

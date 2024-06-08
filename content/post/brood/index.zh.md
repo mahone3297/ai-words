@@ -1,6 +1,6 @@
 +++
 title = 'brood'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bruːd] n.同窝幼鸟 vt.孵(蛋)'

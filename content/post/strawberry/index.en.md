@@ -1,6 +1,6 @@
 +++
 title = 'strawberry'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstrɔːbəri] n.草莓'

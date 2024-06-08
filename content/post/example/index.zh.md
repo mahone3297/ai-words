@@ -1,6 +1,6 @@
 +++
 title = 'example'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[igˈzɑːmpl] n.例子，实例；模范'

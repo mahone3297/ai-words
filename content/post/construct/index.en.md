@@ -1,6 +1,6 @@
 +++
 title = 'construct'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈstrʌkt] vt.建造；建设；构筑'

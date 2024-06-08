@@ -1,6 +1,6 @@
 +++
 title = 'overcome'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌəuvəˈkʌm] vt.战胜，克服'

@@ -1,6 +1,6 @@
 +++
 title = 'rapid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈræpid] a.快的 n.急流'

@@ -1,6 +1,6 @@
 +++
 title = 'rifle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈraifl] n.步枪，来复枪'

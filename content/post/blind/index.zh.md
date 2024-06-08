@@ -1,6 +1,6 @@
 +++
 title = 'blind'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[blaind] a.瞎的；盲目的'

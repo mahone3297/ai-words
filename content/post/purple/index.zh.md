@@ -1,6 +1,6 @@
 +++
 title = 'purple'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpəːpl] n.紫色 a.紫的'

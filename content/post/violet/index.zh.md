@@ -1,6 +1,6 @@
 +++
 title = 'violet'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvaiəlit] n.紫罗兰'

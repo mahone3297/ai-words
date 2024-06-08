@@ -1,6 +1,6 @@
 +++
 title = 'bark'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bɑːk] n.吠叫声 vi.吠，叫'

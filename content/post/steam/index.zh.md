@@ -1,6 +1,6 @@
 +++
 title = 'steam'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stiːm] n.蒸汽 vi.蒸发 vt.蒸'

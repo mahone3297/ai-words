@@ -1,6 +1,6 @@
 +++
 title = 'temple'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtempl] n.圣堂，神殿，庙宇'

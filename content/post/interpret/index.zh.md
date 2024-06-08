@@ -1,6 +1,6 @@
 +++
 title = 'interpret'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈtəːprit] vt.解释，说明；口译'

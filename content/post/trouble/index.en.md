@@ -1,6 +1,6 @@
 +++
 title = 'trouble'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtrʌbl] n.烦恼；困难 vi.烦恼'

@@ -1,6 +1,6 @@
 +++
 title = 'percentage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈsentidʒ] n.百分比，百分率'

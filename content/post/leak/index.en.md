@@ -1,6 +1,6 @@
 +++
 title = 'leak'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[liːk] vi.漏；泄露 n.漏洞'

@@ -1,6 +1,6 @@
 +++
 title = 'attitude'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈætitjuːd] n.态度，看法；姿势'

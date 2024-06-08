@@ -1,6 +1,6 @@
 +++
 title = 'victory'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈviktəri] n.胜利，战胜'

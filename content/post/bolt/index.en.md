@@ -1,6 +1,6 @@
 +++
 title = 'bolt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bəult] n.螺栓；插销 vt.闩门'

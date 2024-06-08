@@ -1,6 +1,6 @@
 +++
 title = 'vanity'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvæniti] n.虚荣心，虚夸'

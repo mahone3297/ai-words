@@ -1,6 +1,6 @@
 +++
 title = 'dialect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdaiəlekt] n.方言，土语，地方话'

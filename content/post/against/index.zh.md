@@ -1,6 +1,6 @@
 +++
 title = 'against'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈgeinst] prep.倚在；逆，对着'

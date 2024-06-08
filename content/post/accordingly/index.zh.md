@@ -1,6 +1,6 @@
 +++
 title = 'accordingly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈkɔːdiŋli] ad.因此，所以；照着'

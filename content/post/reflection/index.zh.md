@@ -1,6 +1,6 @@
 +++
 title = 'reflection'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈflek∫ən] n.反射；映象；反映'

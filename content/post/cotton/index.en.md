@@ -1,6 +1,6 @@
 +++
 title = 'cotton'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔtn] n.棉；棉线；棉布'

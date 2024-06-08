@@ -1,6 +1,6 @@
 +++
 title = 'distinct'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈtiŋkt] a.与其他不同的'

@@ -1,6 +1,6 @@
 +++
 title = 'party'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpɑːti] n.党，党派；聚会'

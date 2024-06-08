@@ -1,6 +1,6 @@
 +++
 title = 'agree'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈgriː] vi.同意；持相同意见'

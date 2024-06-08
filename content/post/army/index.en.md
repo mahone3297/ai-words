@@ -1,6 +1,6 @@
 +++
 title = 'army'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɑːmi] n.军队；陆军'

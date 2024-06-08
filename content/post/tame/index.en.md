@@ -1,6 +1,6 @@
 +++
 title = 'tame'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[teim] a.驯服的；顺从的'

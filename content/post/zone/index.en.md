@@ -1,6 +1,6 @@
 +++
 title = 'zone'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[zəun] n.地区，区域，范围'

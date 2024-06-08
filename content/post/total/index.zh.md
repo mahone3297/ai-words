@@ -1,6 +1,6 @@
 +++
 title = 'total'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtəutl] a.总的 vi.合计，总共'

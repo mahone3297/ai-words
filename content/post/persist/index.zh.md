@@ -1,6 +1,6 @@
 +++
 title = 'persist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pə(ː)ˈsist] vi.坚持，固执；持续'

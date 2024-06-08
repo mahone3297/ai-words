@@ -1,6 +1,6 @@
 +++
 title = 'tube'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtjuːb] n.管；电子管，显像管'

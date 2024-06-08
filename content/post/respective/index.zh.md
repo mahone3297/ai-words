@@ -1,6 +1,6 @@
 +++
 title = 'respective'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[risˈpektiv] ad. 各自的，各个的'

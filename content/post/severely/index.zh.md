@@ -1,6 +1,6 @@
 +++
 title = 'severely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[siˈviəli] ad.严厉地，严格地'

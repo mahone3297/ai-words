@@ -1,6 +1,6 @@
 +++
 title = 'owe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əu] vt.欠；应把…归功于'

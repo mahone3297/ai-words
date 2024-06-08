@@ -1,6 +1,6 @@
 +++
 title = 'signature'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsignit∫ə] n.署名，签字，签名'

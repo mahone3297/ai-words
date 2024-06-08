@@ -1,6 +1,6 @@
 +++
 title = 'bowl'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bəul] n.碗，钵；碗状物'

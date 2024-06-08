@@ -1,6 +1,6 @@
 +++
 title = 'exciting'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ikˈsaitiŋ] a.令人兴奋的'

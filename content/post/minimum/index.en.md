@@ -1,6 +1,6 @@
 +++
 title = 'minimum'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈminiməm] n.最小量 a.最小的'

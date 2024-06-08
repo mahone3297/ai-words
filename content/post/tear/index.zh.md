@@ -1,9 +1,9 @@
 +++
 title = 'tear'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[tiə] n.眼泪，泪珠'
+description = 'vt.撕开，撕裂'
 keywords = ['ai words', 'tear']
 +++
 

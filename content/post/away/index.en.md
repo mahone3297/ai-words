@@ -1,6 +1,6 @@
 +++
 title = 'away'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈwei] ad.离开，远离；…去'

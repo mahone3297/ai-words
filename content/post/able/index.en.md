@@ -1,6 +1,6 @@
 +++
 title = 'able'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈeibl] a.有能力的；出色的'

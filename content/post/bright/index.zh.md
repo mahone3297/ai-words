@@ -1,6 +1,6 @@
 +++
 title = 'bright'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[brait] a.明亮的；聪明的'

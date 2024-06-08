@@ -1,6 +1,6 @@
 +++
 title = 'plough'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[plau] n.犁 vt.&vi.犁，耕'

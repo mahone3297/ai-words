@@ -1,6 +1,6 @@
 +++
 title = 'deep'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diːp] a.深的；纵深的'

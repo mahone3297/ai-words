@@ -1,6 +1,6 @@
 +++
 title = 'selfish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈselfi∫] a.自私的，利己的'

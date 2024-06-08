@@ -1,6 +1,6 @@
 +++
 title = 'abundant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈbʌndənt] a.丰富的；大量的'

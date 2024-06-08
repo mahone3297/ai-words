@@ -1,6 +1,6 @@
 +++
 title = 'tropical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtrɔpikl] a.热带的'

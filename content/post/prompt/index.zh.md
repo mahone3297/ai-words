@@ -1,6 +1,6 @@
 +++
 title = 'prompt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prɔmpt] a.及时的 vt.敦促'

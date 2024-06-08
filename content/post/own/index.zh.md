@@ -1,6 +1,6 @@
 +++
 title = 'own'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əun] a.自己的 vt.有，拥有'

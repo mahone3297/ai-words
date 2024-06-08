@@ -1,6 +1,6 @@
 +++
 title = 'flu'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fluː] n.流行性感冒'

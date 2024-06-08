@@ -1,6 +1,6 @@
 +++
 title = 'colony'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔləni] n.殖民地；侨居地'

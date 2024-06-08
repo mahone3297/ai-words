@@ -1,6 +1,6 @@
 +++
 title = 'hut'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hʌt] n.小屋，棚屋'

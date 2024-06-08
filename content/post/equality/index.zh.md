@@ -1,6 +1,6 @@
 +++
 title = 'equality'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[i(ː)ˈkwɔliti] n.等同，平等；相等'

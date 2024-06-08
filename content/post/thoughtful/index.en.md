@@ -1,6 +1,6 @@
 +++
 title = 'thoughtful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈθɔːtful] a.沉思的；体贴的'

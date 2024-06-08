@@ -1,6 +1,6 @@
 +++
 title = 'lonely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈləunli] a.孤独的；荒凉的'

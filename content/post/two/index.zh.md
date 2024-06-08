@@ -1,6 +1,6 @@
 +++
 title = 'two'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tuː] num.二，两个'

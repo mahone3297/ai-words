@@ -1,6 +1,6 @@
 +++
 title = 'student'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstjuːdənt] n.学生；研究生，学者'

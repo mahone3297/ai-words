@@ -1,6 +1,6 @@
 +++
 title = 'acid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæsid] n.酸；酸的，酸性的'

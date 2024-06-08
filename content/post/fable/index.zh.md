@@ -1,6 +1,6 @@
 +++
 title = 'fable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfeibl] n.寓言；虚构的故事'

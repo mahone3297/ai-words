@@ -1,6 +1,6 @@
 +++
 title = 'formal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfɔːməl] a.正式的；礼仪上的'

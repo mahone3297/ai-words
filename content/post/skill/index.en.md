@@ -1,6 +1,6 @@
 +++
 title = 'skill'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skil] n.技能，技巧；熟练'

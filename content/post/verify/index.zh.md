@@ -1,6 +1,6 @@
 +++
 title = 'verify'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈverifai] vt.证实，查证；证明'

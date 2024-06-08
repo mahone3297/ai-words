@@ -1,6 +1,6 @@
 +++
 title = 'identify'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[aiˈdentifai] vt.认出，识别，鉴定'

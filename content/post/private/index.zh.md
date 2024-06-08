@@ -1,6 +1,6 @@
 +++
 title = 'private'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpraivit] a.私人的；私下的'

@@ -1,6 +1,6 @@
 +++
 title = 'primitive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprimitiv] a.原始的；粗糙的'

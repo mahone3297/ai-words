@@ -1,6 +1,6 @@
 +++
 title = 'transparent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trænsˈpeərənt] a.透明的;易识破的'

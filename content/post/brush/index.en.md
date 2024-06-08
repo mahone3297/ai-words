@@ -1,6 +1,6 @@
 +++
 title = 'brush'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[brʌ∫] n.刷子，毛刷；画笔'

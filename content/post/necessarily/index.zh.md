@@ -1,6 +1,6 @@
 +++
 title = 'necessarily'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nesiˈserili] ad.必然，必定'

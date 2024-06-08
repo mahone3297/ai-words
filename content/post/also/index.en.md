@@ -1,6 +1,6 @@
 +++
 title = 'also'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔːlsəu] ad.亦，也；而且，还'

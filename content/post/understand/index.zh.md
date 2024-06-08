@@ -1,6 +1,6 @@
 +++
 title = 'understand'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌʌndəˈstænd] vt.懂；获悉 vi.懂得'

@@ -1,6 +1,6 @@
 +++
 title = 'sober'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsəubə] a.清醒的；适度的'

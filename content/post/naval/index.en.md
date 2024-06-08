@@ -1,6 +1,6 @@
 +++
 title = 'naval'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈneivəl] n.海军的，军舰的'

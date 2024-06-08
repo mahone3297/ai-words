@@ -1,6 +1,6 @@
 +++
 title = 'father'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfɑːðə] n.父亲；神父；创始人'

@@ -1,38 +1,36 @@
 +++
-title = 'Hello'
+title = 'hello'
 draft = false
 categories = ['CET4']
 tags = ['CET4']
-description = '/həˈloʊ/ noun, verb, interjection. A greeting or salutation.'
-keywords = []
+description = '[ˈheləu] int.喂'
+keywords = ['ai words', 'hello']
 +++
 
 ## Pronunciation
-/həˈloʊ/
-
-## Part of Speech
-Noun, verb, interjection
+/ˌhɛloʊ/
 
 ## Definitions
-- **Noun**: A greeting or salutation. For example: "He gave me a cheerful hello."
-- **Verb**: To say "hello" or greet. For example: "She helloed everyone she met at the party."
-- **Interjection**: Used to greet, attract attention, or express surprise. For example: "Hello! How are you?" "Hello! What are you doing here?"
+- **Interjection**: An expression used to greet someone, to express surprise, or to get someone's attention. For instance: "Hello! Long time no see." 
+
+- **Noun**: A greeting or form of salutation. Example: "A friendly hello can brighten up someone's day."
 
 ## Phrases
-- "Say hello to someone" means to greet someone.
-- "Hello there" is a casual way of greeting.
-- "Hello, world!" is a common phrase used in computer programming to test output.
+- "Hello there!" is often used as a casual greeting to someone, especially when they are some distance away or newly noticed.
+- "Say hello" or "give my hello" is a request to pass on one's greetings to another person.
+- "Hello, hello!" may be repeated for emphasis when trying to get someone's attention over the phone or in a noisy environment.
+- "Hello, world!" is indeed the traditional introductory message displayed when learning to program, particularly in languages like C or Python.
 
 ## Example Sentences
-- **Noun**: "He gave me a warm hello as I walked into the room."
-- **Verb**: "She always makes sure to hello everyone at the party."
-- **Interjection**: "Hello! I didn't see you there."
+- **Interjection**: "Hello? Is anyone there?"
+- **Noun**: "His cheery hello made it clear he was happy to see us."
 
 ## Synonyms
 - Hi
 - Hey
+- Good day
 - Greetings
-- Howdy
-- Salutations
-
-While these synonyms are similar in meaning, they may differ in usage and tone. For example, "hi" is more casual, while "greetings" is more formal.
+- Hiya (informal)
+- Hallo (British English)
+- Howdy (informal, chiefly American English)
+- Yo (very informal)

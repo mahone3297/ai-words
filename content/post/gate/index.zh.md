@@ -1,6 +1,6 @@
 +++
 title = 'gate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[geit] n.大门；篱笆门'

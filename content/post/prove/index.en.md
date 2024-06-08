@@ -1,6 +1,6 @@
 +++
 title = 'prove'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pruːv] vt.证明 vi.结果是'

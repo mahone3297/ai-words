@@ -1,6 +1,6 @@
 +++
 title = 'method'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmeθəd] n.方法，办法；教学法'

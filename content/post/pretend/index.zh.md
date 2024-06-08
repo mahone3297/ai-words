@@ -1,6 +1,6 @@
 +++
 title = 'pretend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[priˈtend] vt.假托，借口 vi.假装'

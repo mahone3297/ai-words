@@ -1,6 +1,6 @@
 +++
 title = 'omit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əuˈmit] vt.省略，省去；遗漏'

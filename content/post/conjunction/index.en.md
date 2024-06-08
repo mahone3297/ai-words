@@ -1,6 +1,6 @@
 +++
 title = 'conjunction'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈdʒʌŋk∫ən] n.接合,连接(词)'

@@ -1,6 +1,6 @@
 +++
 title = 'fun'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fʌn] n.乐趣，娱乐；玩笑'

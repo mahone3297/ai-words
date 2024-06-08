@@ -1,6 +1,6 @@
 +++
 title = 'resistance'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈzistəns] n.抵抗/制；抵抗力'

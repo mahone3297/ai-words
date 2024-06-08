@@ -1,6 +1,6 @@
 +++
 title = 'halt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hɔːlt] vi.停止；立定 n.停住'

@@ -1,6 +1,6 @@
 +++
 title = 'out'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[aut] ad.出，在外；现出来'

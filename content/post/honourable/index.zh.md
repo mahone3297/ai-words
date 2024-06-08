@@ -1,6 +1,6 @@
 +++
 title = 'honourable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔnərəbl] a.诚实的；光荣的'

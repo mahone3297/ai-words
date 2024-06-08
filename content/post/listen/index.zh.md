@@ -1,6 +1,6 @@
 +++
 title = 'listen'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlisn] vi.听，留神听；听从'

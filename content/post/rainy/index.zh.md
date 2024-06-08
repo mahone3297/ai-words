@@ -1,6 +1,6 @@
 +++
 title = 'rainy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈreini] a.下雨的，多雨的'

@@ -1,6 +1,6 @@
 +++
 title = 'favourite'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfeivərit] a.特别受喜爱的'

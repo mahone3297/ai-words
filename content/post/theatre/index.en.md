@@ -1,6 +1,6 @@
 +++
 title = 'theatre'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈθiətə(r)] n.戏院；戏剧；教室'

@@ -1,6 +1,6 @@
 +++
 title = 'brake'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[breik] n.闸，刹车 vi.制动'

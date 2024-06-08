@@ -1,6 +1,6 @@
 +++
 title = 'pilot'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpailət] n.领航员；飞行员'

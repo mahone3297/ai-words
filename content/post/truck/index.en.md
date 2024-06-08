@@ -1,6 +1,6 @@
 +++
 title = 'truck'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trʌk] n.卡车，载重汽车'

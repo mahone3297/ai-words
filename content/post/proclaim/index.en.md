@@ -1,6 +1,6 @@
 +++
 title = 'proclaim'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈkleim] vt.宣告，宣布；表明'

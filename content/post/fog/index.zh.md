@@ -1,6 +1,6 @@
 +++
 title = 'fog'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fɔg] n.雾；烟雾，尘雾'

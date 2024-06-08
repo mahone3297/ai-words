@@ -1,6 +1,6 @@
 +++
 title = 'publication'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌpʌbliˈkei∫ən] n.公布；出版(物)'

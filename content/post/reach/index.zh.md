@@ -1,6 +1,6 @@
 +++
 title = 'reach'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riːt∫] vt.抵达；伸出 vi.达到'

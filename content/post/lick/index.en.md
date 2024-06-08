@@ -1,6 +1,6 @@
 +++
 title = 'lick'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lik] vt.舔；舔吃'

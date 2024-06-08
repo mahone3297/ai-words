@@ -1,6 +1,6 @@
 +++
 title = 'organic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔːˈgænik] a.有机体的；器官的'

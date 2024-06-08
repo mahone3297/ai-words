@@ -1,6 +1,6 @@
 +++
 title = 'daily'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdeili] a.每日的 n.日报'

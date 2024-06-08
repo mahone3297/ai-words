@@ -1,6 +1,6 @@
 +++
 title = 'mark'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[mɑːk] n.斑点；记号 vt.标明'

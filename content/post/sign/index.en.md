@@ -1,6 +1,6 @@
 +++
 title = 'sign'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sain] n.符号；招牌 n.签名'

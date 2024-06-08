@@ -1,6 +1,6 @@
 +++
 title = 'danger'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdeindʒə] n.危险；危险事物'

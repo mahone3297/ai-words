@@ -1,6 +1,6 @@
 +++
 title = 'social'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsəu∫əl] a.社会的；社交的'

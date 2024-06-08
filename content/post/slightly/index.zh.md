@@ -1,6 +1,6 @@
 +++
 title = 'slightly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈslaitli] ad.稍微，有点'

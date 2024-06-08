@@ -1,6 +1,6 @@
 +++
 title = 'metal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmetl] n.金属，金属制品'

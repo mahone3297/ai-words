@@ -1,6 +1,6 @@
 +++
 title = 'per'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəː] prep.每'

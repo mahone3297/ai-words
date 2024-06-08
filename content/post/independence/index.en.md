@@ -1,6 +1,6 @@
 +++
 title = 'independence'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌindiˈpendəns] n.独立,自主/立'

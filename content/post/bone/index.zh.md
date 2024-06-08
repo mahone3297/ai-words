@@ -1,6 +1,6 @@
 +++
 title = 'bone'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bəun] n.骨，骨骼'

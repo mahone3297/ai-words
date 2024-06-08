@@ -1,6 +1,6 @@
 +++
 title = 'parallel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpærəlel] a.平行的；相同的'

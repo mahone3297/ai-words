@@ -1,6 +1,6 @@
 +++
 title = 'activity'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ækˈtiviti] n.活动；活力；行动'

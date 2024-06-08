@@ -1,6 +1,6 @@
 +++
 title = 'deck'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dek] n.甲板；舱面；层面'

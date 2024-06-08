@@ -1,9 +1,9 @@
 +++
 title = 'mean'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[miːn] vt.作…解释；意指'
+description = 'a.平均的 n.平均值'
 keywords = ['ai words', 'mean']
 +++
 

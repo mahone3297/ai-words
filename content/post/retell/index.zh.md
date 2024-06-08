@@ -1,6 +1,6 @@
 +++
 title = 'retell'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈriːˈtel] vt.再讲，重述，复述'

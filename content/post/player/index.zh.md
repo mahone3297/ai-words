@@ -1,6 +1,6 @@
 +++
 title = 'player'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpleiə] n.游戏的人；比赛者'

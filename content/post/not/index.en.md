@@ -1,6 +1,6 @@
 +++
 title = 'not'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nɔt] ad.不，没有'

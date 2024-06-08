@@ -1,6 +1,6 @@
 +++
 title = 'decade'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdekeid] n.十年，十年期'

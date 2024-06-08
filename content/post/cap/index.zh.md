@@ -1,6 +1,6 @@
 +++
 title = 'cap'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kæp] n.帽子，便帽；帽状物'

@@ -1,6 +1,6 @@
 +++
 title = 'atomic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈtɔmik] a.原子的；原子能的'

@@ -1,6 +1,6 @@
 +++
 title = 'exact'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[igˈzækt] a.确切的；精确的'

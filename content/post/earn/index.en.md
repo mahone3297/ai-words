@@ -1,6 +1,6 @@
 +++
 title = 'earn'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əːn] vt.赚得，挣得；获得'

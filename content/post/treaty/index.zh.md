@@ -1,6 +1,6 @@
 +++
 title = 'treaty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtriːti] n.条约；协议，协定'

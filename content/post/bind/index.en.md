@@ -1,6 +1,6 @@
 +++
 title = 'bind'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[baind] vt.捆绑；包扎；装钉'

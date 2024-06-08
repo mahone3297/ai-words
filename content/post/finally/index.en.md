@@ -1,6 +1,6 @@
 +++
 title = 'finally'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfainəli] ad.最后；不可更改的'

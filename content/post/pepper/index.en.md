@@ -1,6 +1,6 @@
 +++
 title = 'pepper'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpepə] n.胡椒，胡椒粉'

@@ -1,6 +1,6 @@
 +++
 title = 'gun'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gʌn] n.枪，炮，手枪'

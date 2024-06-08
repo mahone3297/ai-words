@@ -1,6 +1,6 @@
 +++
 title = 'need'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[niːd] vt.需要 v.aux.需要'

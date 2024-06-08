@@ -1,6 +1,6 @@
 +++
 title = 'lame'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[leim] a.跛的；瘸的，残废的'

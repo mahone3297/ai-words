@@ -1,6 +1,6 @@
 +++
 title = 'tempt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tempt] vt.引诱，诱惑；吸引'

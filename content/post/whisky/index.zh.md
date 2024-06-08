@@ -1,6 +1,6 @@
 +++
 title = 'whisky'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈ(h)wiski] n.威士忌酒'

@@ -1,6 +1,6 @@
 +++
 title = 'zeal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ziːl] n.热心，热情，热忱'

@@ -1,6 +1,6 @@
 +++
 title = 'ticket'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtikit] n.票，券；纲领；传票'

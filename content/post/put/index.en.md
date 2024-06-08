@@ -1,6 +1,6 @@
 +++
 title = 'put'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[put] vt.放，摆；使处于'

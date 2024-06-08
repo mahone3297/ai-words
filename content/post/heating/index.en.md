@@ -1,6 +1,6 @@
 +++
 title = 'heating'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhiːtiŋ] n.加热，供暖'

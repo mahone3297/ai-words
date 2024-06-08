@@ -1,6 +1,6 @@
 +++
 title = 'tendency'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtendənsi] n.趋向，趋势，倾向'

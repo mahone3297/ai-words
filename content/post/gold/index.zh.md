@@ -1,6 +1,6 @@
 +++
 title = 'gold'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gəuld] n.金；钱财 a.金制的'

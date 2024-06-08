@@ -1,6 +1,6 @@
 +++
 title = 'pace'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[peis] n.步，步速 vi.踱步'

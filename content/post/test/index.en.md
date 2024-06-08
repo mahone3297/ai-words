@@ -1,6 +1,6 @@
 +++
 title = 'test'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[test] n.&vt.试验；检验'

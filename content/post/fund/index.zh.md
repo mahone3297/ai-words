@@ -1,6 +1,6 @@
 +++
 title = 'fund'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fʌnd] n.资金；基金；存款'

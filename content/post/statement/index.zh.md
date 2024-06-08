@@ -1,6 +1,6 @@
 +++
 title = 'statement'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsteitmənt] n.陈述，声明'

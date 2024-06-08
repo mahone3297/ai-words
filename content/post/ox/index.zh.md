@@ -1,6 +1,6 @@
 +++
 title = 'ox'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔks] n.牛；公牛，阉牛'

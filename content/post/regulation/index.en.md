@@ -1,6 +1,6 @@
 +++
 title = 'regulation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[regjuˈlei∫ən] n.规则/章；管理'

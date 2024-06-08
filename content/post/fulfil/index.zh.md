@@ -1,6 +1,6 @@
 +++
 title = 'fulfil'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fulˈfil] vt.履行；满足；完成'

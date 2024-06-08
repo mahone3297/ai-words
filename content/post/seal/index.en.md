@@ -1,9 +1,9 @@
 +++
 title = 'seal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[siːl] n.封蜡；印记 vt.封'
+description = 'n.海豹'
 keywords = ['ai words', 'seal']
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'repetition'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌrepiˈti∫ən] n.重复，反复'

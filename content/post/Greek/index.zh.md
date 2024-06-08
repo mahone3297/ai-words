@@ -1,6 +1,6 @@
 +++
 title = 'Greek'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[griːk] a.希腊的 n.希腊人'

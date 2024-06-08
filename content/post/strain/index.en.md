@@ -1,6 +1,6 @@
 +++
 title = 'strain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[strein] vt.拉紧 vi.尽力'

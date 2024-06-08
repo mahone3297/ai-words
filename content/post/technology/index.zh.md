@@ -1,6 +1,6 @@
 +++
 title = 'technology'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tekˈnɔlədʒi] n.工艺学，工艺，技术'

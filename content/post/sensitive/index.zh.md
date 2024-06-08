@@ -1,6 +1,6 @@
 +++
 title = 'sensitive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsensitiv] a.敏感的；灵敏的'

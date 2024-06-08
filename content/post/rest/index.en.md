@@ -1,9 +1,9 @@
 +++
 title = 'rest'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[rest] n.休息；安静；静止'
+description = 'n.剩余部分；其余的人'
 keywords = ['ai words', 'rest']
 +++
 

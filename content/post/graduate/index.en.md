@@ -1,6 +1,6 @@
 +++
 title = 'graduate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgrædjueit] n.毕业生 vi.大学毕业'

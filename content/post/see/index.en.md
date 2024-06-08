@@ -1,6 +1,6 @@
 +++
 title = 'see'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[siː] vt.看见；遇见；看出'

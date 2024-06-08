@@ -1,6 +1,6 @@
 +++
 title = 'different'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdifrənt] a.差异的；各种的'

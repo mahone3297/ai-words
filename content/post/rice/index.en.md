@@ -1,6 +1,6 @@
 +++
 title = 'rice'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rais] n.稻，米，饭'

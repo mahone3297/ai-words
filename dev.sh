@@ -1,1 +1,1 @@
-hugo server -c content-dev/
+hugo server

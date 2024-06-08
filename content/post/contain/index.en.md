@@ -1,6 +1,6 @@
 +++
 title = 'contain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈtein] vt.包含，容纳；等于'

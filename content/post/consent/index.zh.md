@@ -1,6 +1,6 @@
 +++
 title = 'consent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈsent] n.同意，赞成 vi.同意'

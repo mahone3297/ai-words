@@ -1,6 +1,6 @@
 +++
 title = 'bound'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[baund] a.一定的；有义务的'

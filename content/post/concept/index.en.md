@@ -1,6 +1,6 @@
 +++
 title = 'concept'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔnsept] n.概念，观念，设想'

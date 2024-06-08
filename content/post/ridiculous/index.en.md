@@ -1,6 +1,6 @@
 +++
 title = 'ridiculous'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈdikjuləs] a.荒谬的，可笑的'

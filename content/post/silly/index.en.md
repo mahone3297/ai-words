@@ -1,6 +1,6 @@
 +++
 title = 'silly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsili] a.傻的，愚蠢的'

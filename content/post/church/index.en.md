@@ -1,6 +1,6 @@
 +++
 title = 'church'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫əːt∫] n.教堂，礼拜堂；教会'

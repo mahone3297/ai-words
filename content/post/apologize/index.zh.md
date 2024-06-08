@@ -1,6 +1,6 @@
 +++
 title = 'apologize'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈpɔlədʒaiz] vi.道歉，谢罪，认错'

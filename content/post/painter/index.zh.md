@@ -1,6 +1,6 @@
 +++
 title = 'painter'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpeintə] n.漆工，画家，绘画者'

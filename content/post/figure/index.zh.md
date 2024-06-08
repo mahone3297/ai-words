@@ -1,6 +1,6 @@
 +++
 title = 'figure'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfigə] n.数字；外形；人物'

@@ -1,6 +1,6 @@
 +++
 title = 'landlord'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlændlɔːd] n.地主；房东，店主'

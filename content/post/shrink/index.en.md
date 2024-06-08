@@ -1,6 +1,6 @@
 +++
 title = 'shrink'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫riŋk] vi.收缩；缩小；退缩'

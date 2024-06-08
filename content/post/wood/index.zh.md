@@ -1,6 +1,6 @@
 +++
 title = 'wood'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wud] n.树林，森林；木头'

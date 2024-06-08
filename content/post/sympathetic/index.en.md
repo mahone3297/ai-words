@@ -1,6 +1,6 @@
 +++
 title = 'sympathetic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌsimpəˈθetik] a.同情的；和谐的'

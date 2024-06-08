@@ -1,6 +1,6 @@
 +++
 title = 'range'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[reindʒ] n.排，行；山脉；范围'

@@ -1,6 +1,6 @@
 +++
 title = 'defect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈfekt] n.缺点，缺陷，欠缺'

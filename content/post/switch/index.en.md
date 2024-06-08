@@ -1,6 +1,6 @@
 +++
 title = 'switch'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[swit∫] n.开关；转换 vt.转换'

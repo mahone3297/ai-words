@@ -1,6 +1,6 @@
 +++
 title = 'arm'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɑːm] n.臂；臂状物；武器'

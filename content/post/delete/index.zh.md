@@ -1,6 +1,6 @@
 +++
 title = 'delete'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈliːt] vt.删除；擦掉'

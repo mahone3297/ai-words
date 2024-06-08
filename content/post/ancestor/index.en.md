@@ -1,6 +1,6 @@
 +++
 title = 'ancestor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈænsistə] n.祖宗，祖先'

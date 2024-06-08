@@ -1,6 +1,6 @@
 +++
 title = 'polish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpɔli∫] vt.磨光；使优美'

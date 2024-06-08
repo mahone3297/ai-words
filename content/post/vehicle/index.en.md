@@ -1,6 +1,6 @@
 +++
 title = 'vehicle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈviːikl] n.车辆，机动车'

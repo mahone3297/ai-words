@@ -1,6 +1,6 @@
 +++
 title = 'receipt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈsiːt] n.收到；收条，收据'

@@ -1,6 +1,6 @@
 +++
 title = 'seaman'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsiːmən] n.海员，水手；水兵'

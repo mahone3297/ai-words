@@ -1,6 +1,6 @@
 +++
 title = 'compare'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəmˈpeə] vt.比较，对照；比作'

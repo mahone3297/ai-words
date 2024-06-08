@@ -1,6 +1,6 @@
 +++
 title = 'setting'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsetiŋ] n.安装，调整；环境'

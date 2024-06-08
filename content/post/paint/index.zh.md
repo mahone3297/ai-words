@@ -1,6 +1,6 @@
 +++
 title = 'paint'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[peint] vt.画；油漆 vi.绘画'

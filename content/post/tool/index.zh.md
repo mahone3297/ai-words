@@ -1,6 +1,6 @@
 +++
 title = 'tool'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tuːl] n.工具，器具，用具'

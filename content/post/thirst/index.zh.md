@@ -1,6 +1,6 @@
 +++
 title = 'thirst'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θəːst] n.渴，口渴；渴望'

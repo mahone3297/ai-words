@@ -1,6 +1,6 @@
 +++
 title = 'fix'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fiks] vt.使固定；决定'

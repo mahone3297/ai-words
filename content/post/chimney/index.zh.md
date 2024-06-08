@@ -1,6 +1,6 @@
 +++
 title = 'chimney'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈt∫imni] n.烟囱，烟筒；玻璃罩'

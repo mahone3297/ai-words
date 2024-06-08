@@ -1,6 +1,6 @@
 +++
 title = 'weekly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwiːkli] a.每周的 ad.每周'

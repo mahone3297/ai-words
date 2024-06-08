@@ -1,6 +1,6 @@
 +++
 title = 'nearly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈniəli] ad.差不多；密切地'

@@ -1,9 +1,9 @@
 +++
 title = 'punch'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[pʌnt∫] vt.冲出 n.冲压机'
+description = 'vt.用拳猛击 n.拳打'
 keywords = ['ai words', 'punch']
 +++
 

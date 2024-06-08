@@ -1,6 +1,6 @@
 +++
 title = 'exactly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[igˈzæktli] ad.确切地；恰恰正是'

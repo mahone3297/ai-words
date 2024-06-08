@@ -1,6 +1,6 @@
 +++
 title = 'bloom'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bluːm] n.花；开花，开花期'

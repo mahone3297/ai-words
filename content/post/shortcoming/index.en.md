@@ -1,6 +1,6 @@
 +++
 title = 'shortcoming'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈ∫ɔːtkʌmiŋ] n.短处，缺点'

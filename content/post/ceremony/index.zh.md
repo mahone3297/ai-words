@@ -1,6 +1,6 @@
 +++
 title = 'ceremony'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈseriməni] n.典礼，仪式；礼节'

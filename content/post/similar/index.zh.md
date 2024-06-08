@@ -1,6 +1,6 @@
 +++
 title = 'similar'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsimilə] a.相似的，类似的'

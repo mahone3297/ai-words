@@ -1,6 +1,6 @@
 +++
 title = 'manual'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmænjuəl] a.体力的 n.手册'

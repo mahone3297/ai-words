@@ -1,6 +1,6 @@
 +++
 title = 'secretary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsekrəteri] n.秘书；书记；大臣'

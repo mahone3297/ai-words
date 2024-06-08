@@ -1,6 +1,6 @@
 +++
 title = 'apartment'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈpɑːtmənt] n.一套公寓房间'

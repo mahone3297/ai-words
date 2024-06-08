@@ -1,6 +1,6 @@
 +++
 title = 'speed'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[spiːd] n.快；速率 vi.快行'

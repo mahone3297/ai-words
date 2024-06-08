@@ -1,6 +1,6 @@
 +++
 title = 'chin'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫in] n.颏，下巴'

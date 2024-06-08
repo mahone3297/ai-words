@@ -1,6 +1,6 @@
 +++
 title = 'potato'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəˈteitəu] n.马铃薯，土豆'

@@ -1,6 +1,6 @@
 +++
 title = 'resemble'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈzembl] vt.像，类似'

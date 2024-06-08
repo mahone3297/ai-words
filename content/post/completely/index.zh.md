@@ -1,6 +1,6 @@
 +++
 title = 'completely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəmˈpliːtli] ad.十分，完全地'

@@ -1,6 +1,6 @@
 +++
 title = 'sort'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sɔːt] n.种类；类别 vt.整理'

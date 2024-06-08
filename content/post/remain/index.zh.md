@@ -1,6 +1,6 @@
 +++
 title = 'remain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈmein] vi.剩下，余留；保持'

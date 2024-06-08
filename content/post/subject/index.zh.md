@@ -1,6 +1,6 @@
 +++
 title = 'subject'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsʌbdʒikt] n.题目；学科；主语'

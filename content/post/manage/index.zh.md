@@ -1,6 +1,6 @@
 +++
 title = 'manage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmænidʒ] vt.管理；设法；对付'

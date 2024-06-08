@@ -1,6 +1,6 @@
 +++
 title = 'person'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpəːsn] n.人；人身；本人'

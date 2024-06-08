@@ -1,6 +1,6 @@
 +++
 title = 'village'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvilidʒ] n.乡村，村庄'

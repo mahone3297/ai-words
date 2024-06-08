@@ -1,6 +1,6 @@
 +++
 title = 'disguise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈgaiz] vi.隐瞒，掩埋 n.假装'

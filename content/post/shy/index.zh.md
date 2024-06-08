@@ -1,6 +1,6 @@
 +++
 title = 'shy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫ai] a.易受惊的；害羞的'

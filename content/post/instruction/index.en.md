@@ -1,6 +1,6 @@
 +++
 title = 'instruction'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈstrʌk∫ən] n.命令;教学；教训'

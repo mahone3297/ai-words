@@ -1,6 +1,6 @@
 +++
 title = 'estimate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈestimeit] vt.估计，评价 n.估计'

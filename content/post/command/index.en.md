@@ -1,6 +1,6 @@
 +++
 title = 'command'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈmɑːnd] vt.命令，指挥；控制'

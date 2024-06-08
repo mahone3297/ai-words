@@ -1,6 +1,6 @@
 +++
 title = 'mainly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmeinli] ad.主要地，大体上'

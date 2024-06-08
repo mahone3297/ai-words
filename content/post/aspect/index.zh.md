@@ -1,6 +1,6 @@
 +++
 title = 'aspect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæspekt] n.方面；样子，外表'

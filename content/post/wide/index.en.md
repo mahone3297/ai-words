@@ -1,6 +1,6 @@
 +++
 title = 'wide'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[waid] a.宽阔的 ad.全部地'

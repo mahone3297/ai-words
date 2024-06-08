@@ -1,6 +1,6 @@
 +++
 title = 'i.e.'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈaiˈiː] (=that is)那就是，即'

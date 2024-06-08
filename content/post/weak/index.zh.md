@@ -1,6 +1,6 @@
 +++
 title = 'weak'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wiːk] a.弱的；软弱的'

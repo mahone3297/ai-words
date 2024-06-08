@@ -1,6 +1,6 @@
 +++
 title = 'decorate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdekəreit] vt.装饰，装璜，修饰'

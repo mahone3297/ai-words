@@ -1,6 +1,6 @@
 +++
 title = 'cast'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kɑːst] vt.投，扔，抛；浇铸'

@@ -1,6 +1,6 @@
 +++
 title = 'hazard'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhæzəd] n.危险；公害'

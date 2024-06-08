@@ -1,6 +1,6 @@
 +++
 title = 'definition'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌdefiˈni∫ən] n.定义，释义；定界'

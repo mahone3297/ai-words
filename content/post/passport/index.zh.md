@@ -1,6 +1,6 @@
 +++
 title = 'passport'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpɑːspɔːt] n.护照'

@@ -1,6 +1,6 @@
 +++
 title = 'strong'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[strɔŋ] a.强壮的；擅长的'

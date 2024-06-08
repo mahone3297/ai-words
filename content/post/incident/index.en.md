@@ -1,6 +1,6 @@
 +++
 title = 'incident'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinsidənt] n.发生的事；事件'

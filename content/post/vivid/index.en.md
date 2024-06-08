@@ -1,6 +1,6 @@
 +++
 title = 'vivid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvivid] a.鲜艳的；生动的'

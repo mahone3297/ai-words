@@ -1,6 +1,6 @@
 +++
 title = 'household'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhaushəuld] n.家庭，户；家务'

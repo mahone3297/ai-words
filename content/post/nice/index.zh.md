@@ -1,6 +1,6 @@
 +++
 title = 'nice'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nais] a.美好的，令人愉快的'

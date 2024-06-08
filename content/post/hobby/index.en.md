@@ -1,6 +1,6 @@
 +++
 title = 'hobby'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhɔbi] n.业余爱好，癖好'

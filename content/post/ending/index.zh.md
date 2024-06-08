@@ -1,6 +1,6 @@
 +++
 title = 'ending'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈendiŋ] n.结尾，结局；死亡'

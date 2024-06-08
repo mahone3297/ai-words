@@ -1,6 +1,6 @@
 +++
 title = 'dollar'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdɔlə] n.元(货币单位)'

@@ -1,6 +1,6 @@
 +++
 title = 'beautiful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbjuːtəful] a.美的，美丽的'

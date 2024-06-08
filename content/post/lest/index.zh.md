@@ -1,6 +1,6 @@
 +++
 title = 'lest'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lest] conj.惟恐，以免'

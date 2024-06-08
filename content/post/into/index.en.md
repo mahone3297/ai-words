@@ -1,6 +1,6 @@
 +++
 title = 'into'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈintu] prep.进，入；进入到'

@@ -1,6 +1,6 @@
 +++
 title = 'carrier'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkæriə] n.运输工具；运载工具'

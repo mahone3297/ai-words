@@ -1,6 +1,6 @@
 +++
 title = 'oppress'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈpres] vt.压迫，压制；压抑'

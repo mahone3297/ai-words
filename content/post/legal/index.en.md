@@ -1,6 +1,6 @@
 +++
 title = 'legal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈliːgəl] a.法律的；合法的'

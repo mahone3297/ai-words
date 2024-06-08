@@ -1,6 +1,6 @@
 +++
 title = 'aircraft'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈeəkrɑːft] n.飞机，飞行器'

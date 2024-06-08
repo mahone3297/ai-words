@@ -1,6 +1,6 @@
 +++
 title = 'vibrate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[vaiˈbreit] vt.使颤动 vi.颤动'

@@ -1,6 +1,6 @@
 +++
 title = 'board'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bɔːd] n.板 vt.上(船、车等)'

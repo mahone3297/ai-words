@@ -1,9 +1,9 @@
 +++
 title = 'race'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[reis] n.比赛，竞赛，竞争'
+description = 'n.人种，种族，民族'
 keywords = ['ai words', 'race']
 +++
 

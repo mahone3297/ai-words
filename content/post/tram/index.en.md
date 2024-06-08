@@ -1,6 +1,6 @@
 +++
 title = 'tram'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[træm] n.(有轨)电车'

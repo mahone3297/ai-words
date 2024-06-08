@@ -1,6 +1,6 @@
 +++
 title = 'gramme'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[græm] n.克(重量单位)'

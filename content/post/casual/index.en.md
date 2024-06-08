@@ -1,6 +1,6 @@
 +++
 title = 'casual'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkæʒuəl] a.偶然的；随便的'

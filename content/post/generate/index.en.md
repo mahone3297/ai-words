@@ -1,6 +1,6 @@
 +++
 title = 'generate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒenəˌreit] vt.发生；引起；生殖'

@@ -1,6 +1,6 @@
 +++
 title = 'football'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfutbɔːl] n.足球比赛；足球'

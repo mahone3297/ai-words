@@ -1,6 +1,6 @@
 +++
 title = 'proceed'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈsiːd] vi.进行；继续进行'

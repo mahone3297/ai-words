@@ -1,6 +1,6 @@
 +++
 title = 'split'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[split] vt.劈开 vi.被劈开'

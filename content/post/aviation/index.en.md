@@ -1,6 +1,6 @@
 +++
 title = 'aviation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌeiviˈei∫ən] n.航空，航空学'

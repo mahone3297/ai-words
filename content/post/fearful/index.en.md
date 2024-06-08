@@ -1,6 +1,6 @@
 +++
 title = 'fearful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfiəful] a.害怕的，可怕的'

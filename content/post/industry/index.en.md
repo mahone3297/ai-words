@@ -1,6 +1,6 @@
 +++
 title = 'industry'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈindəstri] n.工业，产业；勤劳'

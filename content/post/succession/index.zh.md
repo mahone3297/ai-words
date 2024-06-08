@@ -1,6 +1,6 @@
 +++
 title = 'succession'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səkˈse∫ən] n.连续；继任，继承'

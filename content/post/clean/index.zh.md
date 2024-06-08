@@ -1,6 +1,6 @@
 +++
 title = 'clean'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kliːn] a.清洁的；纯洁的'

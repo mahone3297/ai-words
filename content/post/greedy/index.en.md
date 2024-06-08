@@ -1,6 +1,6 @@
 +++
 title = 'greedy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgriːdi] a.贪吃的；贪婪的'

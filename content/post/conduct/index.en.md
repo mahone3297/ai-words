@@ -1,6 +1,6 @@
 +++
 title = 'conduct'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔndʌkt,-dəkt] n.举止，行为；指导'

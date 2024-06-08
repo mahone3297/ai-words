@@ -1,6 +1,6 @@
 +++
 title = 'battery'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbætəri] n.电池；一套，一组'

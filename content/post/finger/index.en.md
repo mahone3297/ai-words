@@ -1,6 +1,6 @@
 +++
 title = 'finger'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfiŋgə] n.手指；指状物'

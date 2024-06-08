@@ -1,6 +1,6 @@
 +++
 title = 'fatal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfeitl] a.致命的；命运的'

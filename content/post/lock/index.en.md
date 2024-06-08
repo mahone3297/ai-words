@@ -1,6 +1,6 @@
 +++
 title = 'lock'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lɔk] n.锁 vt.锁上，锁住'

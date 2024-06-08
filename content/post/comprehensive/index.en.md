@@ -1,6 +1,6 @@
 +++
 title = 'comprehensive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌkɔmpriˈhensiv] a.广泛的；理解的'

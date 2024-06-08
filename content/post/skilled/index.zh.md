@@ -1,6 +1,6 @@
 +++
 title = 'skilled'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skild] a.有技能的，熟练的'

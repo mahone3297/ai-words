@@ -1,6 +1,6 @@
 +++
 title = 'serve'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səːv] vt.为…服务；招待'

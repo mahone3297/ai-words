@@ -1,9 +1,9 @@
 +++
 title = 'lead'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[liːd] vt.为…带路；领导'
+description = '[liːd] n.铅，铅制品'
 keywords = ['ai words', 'lead']
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'table'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈteibl] n.桌子；餐桌；项目表'

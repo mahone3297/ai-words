@@ -1,6 +1,6 @@
 +++
 title = 'bomb'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bɔm] n.炸弹 vt.轰炸'

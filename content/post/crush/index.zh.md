@@ -1,6 +1,6 @@
 +++
 title = 'crush'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[krʌ∫] vt.压碎，碾碎；镇压'

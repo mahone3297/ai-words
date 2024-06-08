@@ -1,6 +1,6 @@
 +++
 title = 'beer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biə] n.啤酒'

@@ -1,6 +1,6 @@
 +++
 title = 'condense'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈdens] vt.压缩，使缩短'

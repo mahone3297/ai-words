@@ -1,6 +1,6 @@
 +++
 title = 'considerate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈsidərit] a.考虑周到的；体谅的'

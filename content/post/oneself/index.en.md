@@ -1,6 +1,6 @@
 +++
 title = 'oneself'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wʌnˈself] pron.自己；亲自'

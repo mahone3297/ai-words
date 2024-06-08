@@ -1,6 +1,6 @@
 +++
 title = 'accommodation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˌkɔməˈdei∫ən] n.招待设备；预定铺位'

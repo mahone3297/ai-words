@@ -1,6 +1,6 @@
 +++
 title = 'exist'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[igˈzist] vi.存在；生存，生活'

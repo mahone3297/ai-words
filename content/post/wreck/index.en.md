@@ -1,6 +1,6 @@
 +++
 title = 'wreck'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rek] n.失事；残骸 vt.破坏'

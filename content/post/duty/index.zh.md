@@ -1,6 +1,6 @@
 +++
 title = 'duty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdjuːti] n.职责；责任；税'

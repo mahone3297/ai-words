@@ -1,6 +1,6 @@
 +++
 title = 'communism'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔmjunizəm] n.共产主义'

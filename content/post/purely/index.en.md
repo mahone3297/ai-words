@@ -1,6 +1,6 @@
 +++
 title = 'purely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpjuəli] ad.纯粹地，完全地'

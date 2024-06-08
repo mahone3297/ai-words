@@ -1,6 +1,6 @@
 +++
 title = 'vary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈveəri] vt.改变；使多样化'

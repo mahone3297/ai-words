@@ -1,6 +1,6 @@
 +++
 title = 'glorious'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈglɔːriəs] a.光荣的；壮丽的'

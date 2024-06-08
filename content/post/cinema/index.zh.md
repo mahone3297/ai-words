@@ -1,6 +1,6 @@
 +++
 title = 'cinema'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsinimə] n.电影院；电影，影片'

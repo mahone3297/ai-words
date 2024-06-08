@@ -1,6 +1,6 @@
 +++
 title = 'up'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ʌp] ad.向上；起床，起来'

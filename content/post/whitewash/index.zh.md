@@ -1,6 +1,6 @@
 +++
 title = 'whitewash'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈ(h)waitwɔ∫] vt.粉刷，涂白'

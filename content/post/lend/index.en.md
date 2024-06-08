@@ -1,6 +1,6 @@
 +++
 title = 'lend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lend] vt.把…借给，贷(款)'

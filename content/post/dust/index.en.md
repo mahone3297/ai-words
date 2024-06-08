@@ -1,6 +1,6 @@
 +++
 title = 'dust'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʌst] n.尘土，灰尘'

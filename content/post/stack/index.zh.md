@@ -1,6 +1,6 @@
 +++
 title = 'stack'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stæk] n.堆，垛 vt.堆积'

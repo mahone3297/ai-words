@@ -1,6 +1,6 @@
 +++
 title = 'effort'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈefət] n.努力；努力的成果'

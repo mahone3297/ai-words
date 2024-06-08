@@ -1,6 +1,6 @@
 +++
 title = 'occur'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈkəː] vi.发生；出现，存在'

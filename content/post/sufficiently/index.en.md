@@ -1,6 +1,6 @@
 +++
 title = 'sufficiently'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səˈfi∫əntli] ad.足够地，充分地'

@@ -1,6 +1,6 @@
 +++
 title = 'restore'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[risˈtɔː] vt.恢复；归还；修补'

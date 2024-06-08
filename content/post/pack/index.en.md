@@ -1,6 +1,6 @@
 +++
 title = 'pack'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pæk] vt.捆扎；挤满 n.包'

@@ -1,6 +1,6 @@
 +++
 title = 'foreign'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfɔrin] a.外国的；外来的'

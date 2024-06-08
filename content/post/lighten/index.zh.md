@@ -1,6 +1,6 @@
 +++
 title = 'lighten'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlaitn] vt.照亮，使明亮'

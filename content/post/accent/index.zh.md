@@ -1,6 +1,6 @@
 +++
 title = 'accent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæksənt] n.口音，腔调；重音'

@@ -1,6 +1,6 @@
 +++
 title = 'immediate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈmiːdjət] a.立即的；直接的'

@@ -1,6 +1,6 @@
 +++
 title = 'yes'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[jes] ad.是，是的'

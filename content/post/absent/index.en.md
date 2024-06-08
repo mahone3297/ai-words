@@ -1,6 +1,6 @@
 +++
 title = 'absent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈæbsənt] a.不在场的；缺乏的'

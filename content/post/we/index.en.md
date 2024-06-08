@@ -1,6 +1,6 @@
 +++
 title = 'we'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wiː] pron.(主格)我们'

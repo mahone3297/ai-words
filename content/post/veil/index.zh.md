@@ -1,6 +1,6 @@
 +++
 title = 'veil'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[veil] n.面纱，面罩；遮蔽物'

@@ -1,6 +1,6 @@
 +++
 title = 'hedge'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hedʒ] n.篱笆，树篱；障碍物'

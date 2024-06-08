@@ -1,6 +1,6 @@
 +++
 title = 'gay'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gei] a.快乐的；鲜明的'

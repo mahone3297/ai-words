@@ -1,6 +1,6 @@
 +++
 title = 'scout'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skaut] n.侦察员，侦察机'

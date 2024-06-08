@@ -1,6 +1,6 @@
 +++
 title = 'closely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkləuzli] ad.紧密地，接近地'

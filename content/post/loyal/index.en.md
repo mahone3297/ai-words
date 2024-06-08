@@ -1,6 +1,6 @@
 +++
 title = 'loyal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlɔiəl] a.忠诚的，忠心的'

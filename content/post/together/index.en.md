@@ -1,6 +1,6 @@
 +++
 title = 'together'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[təˈgeðə] ad.共同，一起'

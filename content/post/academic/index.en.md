@@ -1,6 +1,6 @@
 +++
 title = 'academic'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌækəˈdemik] a.学院的；学术的'

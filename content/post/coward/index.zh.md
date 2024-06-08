@@ -1,6 +1,6 @@
 +++
 title = 'coward'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkauəd] n.懦夫；胆怯者'

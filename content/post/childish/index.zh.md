@@ -1,6 +1,6 @@
 +++
 title = 'childish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈt∫aildi∫] a.孩子的；幼稚的'

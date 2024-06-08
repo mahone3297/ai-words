@@ -1,9 +1,9 @@
 +++
 title = 'case'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[keis] n.情况；事实；病例'
+description = 'n.箱(子)，盒(子)，套'
 keywords = ['ai words', 'case']
 +++
 

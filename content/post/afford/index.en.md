@@ -1,6 +1,6 @@
 +++
 title = 'afford'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈfɔːd] vt.担负得起…；提供'

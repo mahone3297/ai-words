@@ -1,6 +1,6 @@
 +++
 title = 'acceleration'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ækˌseləˈrei∫ən] n.加速(度)'

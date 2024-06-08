@@ -1,6 +1,6 @@
 +++
 title = 'uncomfortable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ʌnˈkʌmfətəbl] a.不舒服的；不自在的'

@@ -1,6 +1,6 @@
 +++
 title = 'central'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsentr(ə)l] a.中心的；主要的'

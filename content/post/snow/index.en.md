@@ -1,6 +1,6 @@
 +++
 title = 'snow'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[snəu] n.雪 vi.下雪'

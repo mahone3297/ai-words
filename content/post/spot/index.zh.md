@@ -1,6 +1,6 @@
 +++
 title = 'spot'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[spɔt] n.点，斑点；地点'

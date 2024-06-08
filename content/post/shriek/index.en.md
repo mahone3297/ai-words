@@ -1,6 +1,6 @@
 +++
 title = 'shriek'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫riːk] vi.尖声喊叫 n.尖叫声'

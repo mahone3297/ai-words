@@ -1,6 +1,6 @@
 +++
 title = 'smooth'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[smuːð] a.平滑的；平静的'

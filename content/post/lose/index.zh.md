@@ -1,6 +1,6 @@
 +++
 title = 'lose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[luːz] vt.失去；迷失；输掉'

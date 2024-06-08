@@ -1,6 +1,6 @@
 +++
 title = 'yesterday'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈjestədi] n.&ad.昨天，昨日'

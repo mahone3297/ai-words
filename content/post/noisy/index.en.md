@@ -1,6 +1,6 @@
 +++
 title = 'noisy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnɔizi] a.嘈杂的；喧闹的'

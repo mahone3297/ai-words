@@ -1,6 +1,6 @@
 +++
 title = 'insure'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈ∫uə] vt.给…保险；确保'

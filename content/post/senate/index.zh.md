@@ -1,6 +1,6 @@
 +++
 title = 'senate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsenit] n.参议院，上院'

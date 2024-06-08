@@ -1,6 +1,6 @@
 +++
 title = 'sew'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sjuː] vt.缝制 vi.缝纫'

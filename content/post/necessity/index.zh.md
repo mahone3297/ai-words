@@ -1,6 +1,6 @@
 +++
 title = 'necessity'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[niˈsesiti] n.必要性；必然性'

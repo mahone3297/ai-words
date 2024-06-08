@@ -1,6 +1,6 @@
 +++
 title = 'portion'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpɔː∫ən] n.一部分；一分'

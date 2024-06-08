@@ -1,6 +1,6 @@
 +++
 title = 'Negro'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈniːgrəu] n.黑人'

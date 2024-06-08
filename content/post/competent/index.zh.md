@@ -1,6 +1,6 @@
 +++
 title = 'competent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔmpitənt] a.有能力的；应该做的'

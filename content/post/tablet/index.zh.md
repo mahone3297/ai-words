@@ -1,6 +1,6 @@
 +++
 title = 'tablet'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtæblit] n.碑，匾；药片'

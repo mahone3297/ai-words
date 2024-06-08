@@ -1,6 +1,6 @@
 +++
 title = 'rigid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈridʒid] a.刚硬的；僵硬的'

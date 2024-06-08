@@ -1,6 +1,6 @@
 +++
 title = 'rust'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rʌst] n.锈 vi.生锈，氧化'

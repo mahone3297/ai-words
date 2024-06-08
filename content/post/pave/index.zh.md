@@ -1,6 +1,6 @@
 +++
 title = 'pave'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[peiv] vt.铺，筑(路等)'

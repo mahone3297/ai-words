@@ -1,6 +1,6 @@
 +++
 title = 'phenomenon'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fiˈnɔminən] n.现象'

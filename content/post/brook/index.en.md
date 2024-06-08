@@ -1,6 +1,6 @@
 +++
 title = 'brook'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bruk] n.小河，溪流'

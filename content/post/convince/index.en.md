@@ -1,6 +1,6 @@
 +++
 title = 'convince'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈvins] vt.使确信，使信服'

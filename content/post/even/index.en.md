@@ -1,9 +1,9 @@
 +++
 title = 'even'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[ˈiːvən] ad.甚至；甚至更，还'
+description = 'a.均匀的；平的'
 keywords = ['ai words', 'even']
 +++
 

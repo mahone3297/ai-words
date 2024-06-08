@@ -1,6 +1,6 @@
 +++
 title = 'occupation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌɔkjuˈpei∫ən] n.占领/据；职业'

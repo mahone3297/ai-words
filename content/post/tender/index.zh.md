@@ -1,6 +1,6 @@
 +++
 title = 'tender'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtendə] a.嫩的；脆弱的'

@@ -1,6 +1,6 @@
 +++
 title = 'anticipate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ænˈtisipeit] vt.预料，预期，期望'

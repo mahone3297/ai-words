@@ -1,6 +1,6 @@
 +++
 title = 'ten'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ten] num.十，十个'

@@ -1,6 +1,6 @@
 +++
 title = 'formula'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfɔːmjulə] n.公式，式'

@@ -1,6 +1,6 @@
 +++
 title = 'product'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprɔdəkt] n.产品，产物；(乘)积'

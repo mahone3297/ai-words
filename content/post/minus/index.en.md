@@ -1,6 +1,6 @@
 +++
 title = 'minus'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmainəs] a.负的 prep.减(去)'

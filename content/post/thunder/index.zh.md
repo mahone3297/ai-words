@@ -1,6 +1,6 @@
 +++
 title = 'thunder'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈθʌndə] n.雷 vi.打雷 vt.吼出'

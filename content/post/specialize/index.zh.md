@@ -1,6 +1,6 @@
 +++
 title = 'specialize'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈspe∫əlaiz] vi.成为…专家；专攻'

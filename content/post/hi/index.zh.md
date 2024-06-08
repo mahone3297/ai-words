@@ -1,6 +1,6 @@
 +++
 title = 'hi'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hai] ini.嗨(表示问候等)'

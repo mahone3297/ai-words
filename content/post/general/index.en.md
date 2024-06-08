@@ -1,6 +1,6 @@
 +++
 title = 'general'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdʒenərəl] a.总的；一般的 n.将军'

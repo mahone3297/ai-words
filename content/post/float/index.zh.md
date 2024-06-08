@@ -1,6 +1,6 @@
 +++
 title = 'float'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fləut] vi.漂浮 vt.使漂浮'

@@ -1,6 +1,6 @@
 +++
 title = 'conclude'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈkluːd] vt.推断出；结束'

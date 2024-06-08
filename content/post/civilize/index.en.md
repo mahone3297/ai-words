@@ -1,6 +1,6 @@
 +++
 title = 'civilize'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsivilaiz] vt.使文明；教育'

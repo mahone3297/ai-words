@@ -1,6 +1,6 @@
 +++
 title = 'principal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprinsip(ə)l] a.主要的 n.负责人'

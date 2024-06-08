@@ -1,6 +1,6 @@
 +++
 title = 'experiment'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈperimənt] n.实验；试验'

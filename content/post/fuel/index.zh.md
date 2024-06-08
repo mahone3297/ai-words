@@ -1,6 +1,6 @@
 +++
 title = 'fuel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fjuəl] n.燃料 vt.给…加燃料'

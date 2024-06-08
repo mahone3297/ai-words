@@ -1,6 +1,6 @@
 +++
 title = 'component'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəmˈpəunənt] n.组成部分；分；组件'

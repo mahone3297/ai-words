@@ -1,6 +1,6 @@
 +++
 title = 'dispute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[disˈpjuːt] vi.争论，争执 n.争论'

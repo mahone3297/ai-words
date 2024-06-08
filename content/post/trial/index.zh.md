@@ -1,6 +1,6 @@
 +++
 title = 'trial'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtraiəl] n.试，试验；审判'

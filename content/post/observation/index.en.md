@@ -1,6 +1,6 @@
 +++
 title = 'observation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌəbzəːˈvei∫ən] n.注意；观察(力)'

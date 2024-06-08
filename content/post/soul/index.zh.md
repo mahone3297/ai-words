@@ -1,6 +1,6 @@
 +++
 title = 'soul'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səul] n.灵魂；精神；人'

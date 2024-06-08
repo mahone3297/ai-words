@@ -1,6 +1,6 @@
 +++
 title = 'seven'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsevən] num.七，七个(人或物)'

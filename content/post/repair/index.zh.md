@@ -1,6 +1,6 @@
 +++
 title = 'repair'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈpeə] vt.&n.修理，修补'

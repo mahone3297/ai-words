@@ -1,6 +1,6 @@
 +++
 title = 'ore'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔː(r)] n.矿，矿石，矿砂'

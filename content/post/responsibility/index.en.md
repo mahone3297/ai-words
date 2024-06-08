@@ -1,6 +1,6 @@
 +++
 title = 'responsibility'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[risˌpɔnsəˈbiliti] n.责任(心)；职责'

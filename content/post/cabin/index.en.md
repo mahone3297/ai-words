@@ -1,6 +1,6 @@
 +++
 title = 'cabin'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkæbin] n.小屋；船舱，机舱'

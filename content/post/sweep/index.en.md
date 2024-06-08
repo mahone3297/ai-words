@@ -1,6 +1,6 @@
 +++
 title = 'sweep'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[swiːp] vt.扫；刮起；扫过'

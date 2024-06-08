@@ -1,6 +1,6 @@
 +++
 title = 'inferior'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈfiəriə] a.下等的；劣等的'

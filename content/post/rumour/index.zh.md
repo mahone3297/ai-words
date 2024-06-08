@@ -1,6 +1,6 @@
 +++
 title = 'rumour'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈruːmə] n.谣言，谣传，传闻'

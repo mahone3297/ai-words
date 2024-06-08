@@ -1,6 +1,6 @@
 +++
 title = 'medium'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmiːdjəm] n.媒质；中间 a.中等的'

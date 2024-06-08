@@ -1,6 +1,6 @@
 +++
 title = 'consume'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈsjuːm] vt.消耗，消费；消灭'

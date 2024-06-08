@@ -1,6 +1,6 @@
 +++
 title = 'hopeful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhəupful] a.有希望的'

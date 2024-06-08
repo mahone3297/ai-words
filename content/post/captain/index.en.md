@@ -1,6 +1,6 @@
 +++
 title = 'captain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkæptin] n.陆军上尉；队长'

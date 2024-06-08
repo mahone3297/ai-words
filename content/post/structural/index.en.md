@@ -1,6 +1,6 @@
 +++
 title = 'structural'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstrʌkt∫ərəl] a.结构的，构造的'

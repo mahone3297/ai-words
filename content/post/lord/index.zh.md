@@ -1,6 +1,6 @@
 +++
 title = 'lord'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[lɔːd] n.贵族；上帝，基督'

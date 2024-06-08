@@ -1,6 +1,6 @@
 +++
 title = 'oblige'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈblaidʒ] vt.迫使；施恩惠于'

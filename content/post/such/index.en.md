@@ -1,6 +1,6 @@
 +++
 title = 'such'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sʌt∫] a.这样的；如此的…'

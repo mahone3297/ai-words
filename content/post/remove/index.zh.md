@@ -1,6 +1,6 @@
 +++
 title = 'remove'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˈmuːv] vt.移动，搬开；脱掉'

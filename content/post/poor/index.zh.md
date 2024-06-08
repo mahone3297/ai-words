@@ -1,6 +1,6 @@
 +++
 title = 'poor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[puə] a.贫穷的；贫乏的'

@@ -1,6 +1,6 @@
 +++
 title = 'sky'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skai] n.天，天空'

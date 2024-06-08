@@ -1,6 +1,6 @@
 +++
 title = 'electricity'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ilekˈtrisiti] n.电，电学；电流'

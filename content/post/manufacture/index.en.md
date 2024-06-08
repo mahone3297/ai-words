@@ -1,6 +1,6 @@
 +++
 title = 'manufacture'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌmænjuˈfækt∫ə] vt.制造 n.制造；产品'

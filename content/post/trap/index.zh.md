@@ -1,6 +1,6 @@
 +++
 title = 'trap'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[træp] n.陷阱；诡计 vt.诱骗'

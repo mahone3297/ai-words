@@ -1,6 +1,6 @@
 +++
 title = 'net'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[net] n.网，网状物；通信网'

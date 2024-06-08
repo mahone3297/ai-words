@@ -1,9 +1,9 @@
 +++
 title = 'rock'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[rɔk] vt.摇，使动摇 vi.摇'
+description = 'n.岩，岩石；石头'
 keywords = ['ai words', 'rock']
 +++
 

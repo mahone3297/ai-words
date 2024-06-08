@@ -1,6 +1,6 @@
 +++
 title = 'glad'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[glæd] a.高兴的；乐意的'

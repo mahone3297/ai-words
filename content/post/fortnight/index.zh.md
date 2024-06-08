@@ -1,6 +1,6 @@
 +++
 title = 'fortnight'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfɔːtnait] n.两星期，十四天'

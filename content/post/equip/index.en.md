@@ -1,6 +1,6 @@
 +++
 title = 'equip'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈkwip] vt.装备，配备'

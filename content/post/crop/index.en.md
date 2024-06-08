@@ -1,6 +1,6 @@
 +++
 title = 'crop'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[krɔp] n.农作物，庄稼；一熟'

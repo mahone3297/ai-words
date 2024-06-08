@@ -1,6 +1,6 @@
 +++
 title = 'hat'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hæt] n.帽子(一般指有边的)'

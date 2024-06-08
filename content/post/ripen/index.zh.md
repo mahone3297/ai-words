@@ -1,6 +1,6 @@
 +++
 title = 'ripen'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈraipən] vt.使熟 vi.成熟'

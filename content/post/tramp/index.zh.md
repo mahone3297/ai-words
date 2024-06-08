@@ -1,6 +1,6 @@
 +++
 title = 'tramp'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[træmp] n.流浪者，游民'

@@ -1,6 +1,6 @@
 +++
 title = 'immigrant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈimigrənt] n.移民 a.移民的'

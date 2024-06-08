@@ -1,6 +1,6 @@
 +++
 title = 'guide'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gaid] n.导游者 vt.给…导游'

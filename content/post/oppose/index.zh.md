@@ -1,6 +1,6 @@
 +++
 title = 'oppose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈpəuz] vt.反对；反抗'

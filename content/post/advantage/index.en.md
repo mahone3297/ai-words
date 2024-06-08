@@ -1,6 +1,6 @@
 +++
 title = 'advantage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ədˈvɑːntidʒ] n.优点，优势；好处'

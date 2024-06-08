@@ -1,6 +1,6 @@
 +++
 title = 'place'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pleis] n.地方，地点；住所'

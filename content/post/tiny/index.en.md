@@ -1,6 +1,6 @@
 +++
 title = 'tiny'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtaini] a.微小的，极小的'

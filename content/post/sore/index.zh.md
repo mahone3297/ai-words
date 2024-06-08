@@ -1,6 +1,6 @@
 +++
 title = 'sore'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sɔ] a.痛的；恼火的 n.疮'

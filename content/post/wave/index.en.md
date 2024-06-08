@@ -1,6 +1,6 @@
 +++
 title = 'wave'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[weiv] n.波；波涛 vi.波动'

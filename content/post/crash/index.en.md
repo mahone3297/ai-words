@@ -1,6 +1,6 @@
 +++
 title = 'crash'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kræ∫] vi.碰撞，坠落 n.碰撞'

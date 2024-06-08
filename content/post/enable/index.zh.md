@@ -1,6 +1,6 @@
 +++
 title = 'enable'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈneibl] vt.使能够，使可能'

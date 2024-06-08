@@ -1,6 +1,6 @@
 +++
 title = 'option'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔp∫ən] n.选择，选择权'

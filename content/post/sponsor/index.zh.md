@@ -1,6 +1,6 @@
 +++
 title = 'sponsor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈspɔnsə] n.发起者 vt.发起'

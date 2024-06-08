@@ -1,6 +1,6 @@
 +++
 title = 'clerk'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[klərk] n.店员；办事员，职员'

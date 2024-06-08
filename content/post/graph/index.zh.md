@@ -1,6 +1,6 @@
 +++
 title = 'graph'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[grɑːf] n.(曲线)图，图表'

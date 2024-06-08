@@ -1,6 +1,6 @@
 +++
 title = 'gap'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gæp] n.缺口；间隔；差距'

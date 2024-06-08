@@ -1,6 +1,6 @@
 +++
 title = 'smell'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[smel] n.嗅觉；气味 vt.嗅'

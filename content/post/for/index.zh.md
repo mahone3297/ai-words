@@ -1,6 +1,6 @@
 +++
 title = 'for'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fɔː] prep.为；给；因为'

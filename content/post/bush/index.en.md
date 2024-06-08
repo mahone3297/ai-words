@@ -1,6 +1,6 @@
 +++
 title = 'bush'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bu∫] n.灌木，灌木丛，矮树'

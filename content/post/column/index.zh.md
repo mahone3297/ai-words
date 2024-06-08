@@ -1,6 +1,6 @@
 +++
 title = 'column'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔləm] n.柱，支柱，圆柱'

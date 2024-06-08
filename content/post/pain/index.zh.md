@@ -1,6 +1,6 @@
 +++
 title = 'pain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pein] n.痛，疼痛；辛苦'

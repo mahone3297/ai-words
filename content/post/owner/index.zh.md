@@ -1,6 +1,6 @@
 +++
 title = 'owner'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈəunə] n.物主，所有人'

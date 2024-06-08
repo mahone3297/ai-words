@@ -1,6 +1,6 @@
 +++
 title = 'preliminary'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[priˈliminəri] a.预备的，初步的'

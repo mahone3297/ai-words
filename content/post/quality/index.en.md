@@ -1,6 +1,6 @@
 +++
 title = 'quality'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkwɔliti] n.质量；品质，特性'

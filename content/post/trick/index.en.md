@@ -1,6 +1,6 @@
 +++
 title = 'trick'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trik] n.诡计；窍门 vt.哄骗'

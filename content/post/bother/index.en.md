@@ -1,6 +1,6 @@
 +++
 title = 'bother'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbɔðə] vt.烦扰，迷惑 n.麻烦'

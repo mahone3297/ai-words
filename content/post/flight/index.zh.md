@@ -1,6 +1,6 @@
 +++
 title = 'flight'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[flait] n.航班；飞行；逃跑'

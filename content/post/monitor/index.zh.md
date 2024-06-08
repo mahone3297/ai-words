@@ -1,6 +1,6 @@
 +++
 title = 'monitor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmɔnitə] n.班长；监视器'

@@ -1,6 +1,6 @@
 +++
 title = 'living-room'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = 'n.起居室'

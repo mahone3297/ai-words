@@ -1,6 +1,6 @@
 +++
 title = 'resignation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌrezigˈnei∫ən] n.放弃，辞职，反抗'

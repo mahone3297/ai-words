@@ -1,6 +1,6 @@
 +++
 title = 'practice'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpræktis] n.实践；练习；业务'

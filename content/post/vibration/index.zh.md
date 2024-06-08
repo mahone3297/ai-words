@@ -1,6 +1,6 @@
 +++
 title = 'vibration'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[vaiˈbrei∫ən] n.颤动，振动；摆动'

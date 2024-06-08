@@ -1,6 +1,6 @@
 +++
 title = 'increasingly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈkriːsiŋli] ad.日益，越来越多地'

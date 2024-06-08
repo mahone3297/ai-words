@@ -1,6 +1,6 @@
 +++
 title = 'name'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[neim] n.名字；名誉 vt.说出'

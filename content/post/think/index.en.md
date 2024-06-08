@@ -1,6 +1,6 @@
 +++
 title = 'think'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θiŋk] vt.想；想要；认为'

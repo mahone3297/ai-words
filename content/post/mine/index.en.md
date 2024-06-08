@@ -1,9 +1,9 @@
 +++
 title = 'mine'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[main] pron.我的'
+description = '[main] n.矿，矿山；地雷'
 keywords = ['ai words', 'mine']
 +++
 

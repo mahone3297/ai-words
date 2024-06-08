@@ -1,6 +1,6 @@
 +++
 title = 'drain'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[drein] vt.排去；放水 n.耗竭'

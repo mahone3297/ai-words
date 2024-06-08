@@ -1,6 +1,6 @@
 +++
 title = 'territory'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈteritəri] n.领土，版图；领域'

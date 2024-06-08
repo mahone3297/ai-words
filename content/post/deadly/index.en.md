@@ -1,6 +1,6 @@
 +++
 title = 'deadly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdedli] a.致命的，死一般的'

@@ -1,6 +1,6 @@
 +++
 title = 'set'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[set] vt.放；安置 vi.落'

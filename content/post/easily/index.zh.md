@@ -1,6 +1,6 @@
 +++
 title = 'easily'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈiːzili] ad.容易地；舒适的'

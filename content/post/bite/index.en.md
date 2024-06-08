@@ -1,6 +1,6 @@
 +++
 title = 'bite'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bait] vt.咬，叮，螫；剌穿'

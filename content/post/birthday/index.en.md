@@ -1,6 +1,6 @@
 +++
 title = 'birthday'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbəːθdei] n.生日，诞生的日期'

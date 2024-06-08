@@ -1,6 +1,6 @@
 +++
 title = 'rouse'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rauz] vt.唤醒，唤起；惊起'

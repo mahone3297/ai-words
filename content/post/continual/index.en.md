@@ -1,6 +1,6 @@
 +++
 title = 'continual'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈtinjuəl] a.不断的；连续的'

@@ -1,6 +1,6 @@
 +++
 title = 'register'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈredʒistə] n.&vt.登记，注册'

@@ -1,6 +1,6 @@
 +++
 title = 'logical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlɔdʒikəl] a.逻辑的；符合逻辑的'

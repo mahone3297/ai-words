@@ -1,6 +1,6 @@
 +++
 title = 'hope'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[həup] n.&vt.&vi.希望'

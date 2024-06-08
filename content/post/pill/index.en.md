@@ -1,6 +1,6 @@
 +++
 title = 'pill'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pil] n.药丸，丸剂'

@@ -1,6 +1,6 @@
 +++
 title = 'erect'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iˈrekt] vt.建造；使竖立'

@@ -1,6 +1,6 @@
 +++
 title = 'widely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwaidli] ad.广，广泛'

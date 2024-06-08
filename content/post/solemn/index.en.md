@@ -1,6 +1,6 @@
 +++
 title = 'solemn'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsɔləm] a.庄严的；隆重的'

@@ -1,6 +1,6 @@
 +++
 title = 'visual'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvizjuəl] a.看的；看得见的'

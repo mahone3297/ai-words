@@ -1,6 +1,6 @@
 +++
 title = 'schedule'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈskedʒjul] n.时间表；计划表'

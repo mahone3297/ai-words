@@ -1,6 +1,6 @@
 +++
 title = 'want'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wɔnt] vt.要 n.需要；缺乏'

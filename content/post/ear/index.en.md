@@ -1,6 +1,6 @@
 +++
 title = 'ear'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iə] n.耳朵；听力，听觉'

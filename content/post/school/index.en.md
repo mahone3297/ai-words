@@ -1,6 +1,6 @@
 +++
 title = 'school'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[skuːl] n.学校；学院；学派'

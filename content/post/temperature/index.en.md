@@ -1,6 +1,6 @@
 +++
 title = 'temperature'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈtemprit∫ə(r)] n.温度；体温'

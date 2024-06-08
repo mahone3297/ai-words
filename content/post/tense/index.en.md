@@ -1,9 +1,9 @@
 +++
 title = 'tense'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[tens] n.时态，时'
+description = 'a.拉紧的，绷紧的'
 keywords = ['ai words', 'tense']
 +++
 

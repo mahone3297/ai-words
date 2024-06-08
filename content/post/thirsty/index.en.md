@@ -1,6 +1,6 @@
 +++
 title = 'thirsty'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈθəːsti] a.渴的；渴望的'

@@ -1,6 +1,6 @@
 +++
 title = 'farm'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fɑːm] n.农场，农庄；饲养场'

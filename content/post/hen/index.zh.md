@@ -1,6 +1,6 @@
 +++
 title = 'hen'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hen] n.母鸡，雌禽'

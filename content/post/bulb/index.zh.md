@@ -1,6 +1,6 @@
 +++
 title = 'bulb'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bʌlb] n.电灯泡；球状物'

@@ -1,6 +1,6 @@
 +++
 title = 'seldom'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈseldəm] ad.很少，不常，难得'

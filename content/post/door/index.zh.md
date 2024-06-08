@@ -1,6 +1,6 @@
 +++
 title = 'door'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dɔː] n.门，通道；一家'

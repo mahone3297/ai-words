@@ -1,6 +1,6 @@
 +++
 title = 'movie'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmuːvi] n.电影；电影院'

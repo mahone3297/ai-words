@@ -1,6 +1,6 @@
 +++
 title = 'many'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmeni] a.许多的 pron.许多人'

@@ -1,6 +1,6 @@
 +++
 title = 'delivery'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈlivəri] n.投递；交付；分娩'

@@ -1,6 +1,6 @@
 +++
 title = 'identical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[aiˈdentikəl] a.完全相同的；同一的'

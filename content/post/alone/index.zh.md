@@ -1,6 +1,6 @@
 +++
 title = 'alone'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈləun] a.单独的 ad.单独地'

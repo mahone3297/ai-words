@@ -1,6 +1,6 @@
 +++
 title = 'nail'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[neil] n.钉；指甲 vt.钉'

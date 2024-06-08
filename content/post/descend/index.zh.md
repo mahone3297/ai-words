@@ -1,6 +1,6 @@
 +++
 title = 'descend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈsend] vi.下来，下降；下倾'

@@ -1,6 +1,6 @@
 +++
 title = 'debate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈbeit] n.&vi.争论，辩论'

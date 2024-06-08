@@ -1,6 +1,6 @@
 +++
 title = 'wealthy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwelθi] a.富的，富裕的'

@@ -1,6 +1,6 @@
 +++
 title = 'loud'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[laud] a.响亮的；吵闹的'

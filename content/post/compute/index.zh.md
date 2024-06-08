@@ -1,6 +1,6 @@
 +++
 title = 'compute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəmˈpjuːt] vt.计算，估计，估算'

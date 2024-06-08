@@ -1,6 +1,6 @@
 +++
 title = 'holy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhəuli] a.神圣的；圣洁的'

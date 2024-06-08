@@ -1,6 +1,6 @@
 +++
 title = 'wild'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[waild] a.野生的；野蛮的'

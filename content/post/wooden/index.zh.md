@@ -1,6 +1,6 @@
 +++
 title = 'wooden'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwudn] a.木制的；呆板的'

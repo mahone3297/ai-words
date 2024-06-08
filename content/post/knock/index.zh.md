@@ -1,6 +1,6 @@
 +++
 title = 'knock'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[nɔk] vi.&vt.&n.敲，击，打'

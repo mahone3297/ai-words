@@ -1,6 +1,6 @@
 +++
 title = 'garage'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[gə rɑː(d)ʒ] n.车库；加油站'

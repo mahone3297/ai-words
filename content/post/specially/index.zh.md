@@ -1,6 +1,6 @@
 +++
 title = 'specially'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈspe∫əli] ad.专门地，特别地'

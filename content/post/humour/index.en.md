@@ -1,6 +1,6 @@
 +++
 title = 'humour'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhjuːmə] n.幽默，诙谐，幽默感'

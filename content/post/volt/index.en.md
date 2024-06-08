@@ -1,6 +1,6 @@
 +++
 title = 'volt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[vəult] n.伏特，伏'

@@ -1,6 +1,6 @@
 +++
 title = 'abnormal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[æbˈnɔːməl] a.不正常的；变态的'

@@ -1,6 +1,6 @@
 +++
 title = 'plug'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[plʌg] n.塞子；插头 vt.塞'

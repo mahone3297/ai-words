@@ -1,6 +1,6 @@
 +++
 title = 'adopt'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈdɔpt] vt.收养；采用；采取'

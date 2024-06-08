@@ -1,6 +1,6 @@
 +++
 title = 'reliability'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[riˌlaiəˈbiliti] n.可靠性'

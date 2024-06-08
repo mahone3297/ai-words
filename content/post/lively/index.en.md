@@ -1,6 +1,6 @@
 +++
 title = 'lively'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlaivli] a.活泼的；逼真的'

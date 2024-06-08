@@ -1,6 +1,6 @@
 +++
 title = 'namely'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈneimli] ad.即，也就是'

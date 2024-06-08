@@ -1,6 +1,6 @@
 +++
 title = 'fibre'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfaibə] n.纤维，纤维质'

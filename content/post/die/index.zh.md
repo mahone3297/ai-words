@@ -1,6 +1,6 @@
 +++
 title = 'die'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dai] vi.死，死亡；灭亡'

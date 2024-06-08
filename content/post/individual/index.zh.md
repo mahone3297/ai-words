@@ -1,6 +1,6 @@
 +++
 title = 'individual'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌindiˈvidjuəl] a.个别的；独特的'

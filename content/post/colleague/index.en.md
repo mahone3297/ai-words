@@ -1,6 +1,6 @@
 +++
 title = 'colleague'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔliːg] n.同事，同僚'

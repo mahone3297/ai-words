@@ -1,6 +1,6 @@
 +++
 title = 'interesting'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈintristiŋ] a.有趣的，引人入胜的'

@@ -1,6 +1,6 @@
 +++
 title = 'postpone'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pəustˈpəun] vt.延迟，推迟，延缓'

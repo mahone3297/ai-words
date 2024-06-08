@@ -1,6 +1,6 @@
 +++
 title = 'observe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əbˈzəːv] vt.遵守；看到；说'

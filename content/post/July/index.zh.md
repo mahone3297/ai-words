@@ -1,6 +1,6 @@
 +++
 title = 'July'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dʒu(ː)ˈlai] n.七月'

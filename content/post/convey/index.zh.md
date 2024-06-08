@@ -1,6 +1,6 @@
 +++
 title = 'convey'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈvei] vt.传送；运送；传播'

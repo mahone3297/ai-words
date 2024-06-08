@@ -1,6 +1,6 @@
 +++
 title = 'headmaster'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hedˈmɑːstə(r)] n.校长'

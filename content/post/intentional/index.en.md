@@ -1,6 +1,6 @@
 +++
 title = 'intentional'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈten∫ənəl] a.故意的，有意识的'

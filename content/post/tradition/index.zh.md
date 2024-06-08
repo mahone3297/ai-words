@@ -1,6 +1,6 @@
 +++
 title = 'tradition'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trəˈdi∫ən] n.传统，惯例'

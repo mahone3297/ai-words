@@ -1,6 +1,6 @@
 +++
 title = 'thrive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θraiv] vi.兴旺，繁荣，旺盛'

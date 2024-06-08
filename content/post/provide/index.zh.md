@@ -1,6 +1,6 @@
 +++
 title = 'provide'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈvaid] vt.提供；装备，供给'

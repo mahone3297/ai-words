@@ -1,6 +1,6 @@
 +++
 title = 'pray'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prei] vt.&vi.请求；祈祷'

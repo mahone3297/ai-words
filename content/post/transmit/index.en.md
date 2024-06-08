@@ -1,6 +1,6 @@
 +++
 title = 'transmit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trænzˈmit] vt.传送，传达；发射'

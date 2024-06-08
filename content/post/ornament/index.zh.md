@@ -1,6 +1,6 @@
 +++
 title = 'ornament'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔːnəmənt] n.装饰物；装饰'

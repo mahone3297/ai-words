@@ -1,6 +1,6 @@
 +++
 title = 'bean'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biːn] n.豆，蚕豆'

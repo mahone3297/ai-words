@@ -1,6 +1,6 @@
 +++
 title = 'prevail'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[priˈveil] vi.胜，优胜；流行'

@@ -1,6 +1,6 @@
 +++
 title = 'shall'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫æl] aux.v.将要；必须；应'

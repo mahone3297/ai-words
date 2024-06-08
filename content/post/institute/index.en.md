@@ -1,6 +1,6 @@
 +++
 title = 'institute'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈinstitjuːt] n.研究所；学院'

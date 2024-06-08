@@ -1,6 +1,6 @@
 +++
 title = 'conductor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈdʌktə] n.售票员；(乐队)指挥'

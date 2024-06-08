@@ -1,6 +1,6 @@
 +++
 title = 'compromise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔmprəmaiz] n.妥协，和解'

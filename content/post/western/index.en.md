@@ -1,6 +1,6 @@
 +++
 title = 'western'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈwestən] a.西方的，西部的'

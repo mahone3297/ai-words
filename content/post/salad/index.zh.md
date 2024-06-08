@@ -1,6 +1,6 @@
 +++
 title = 'salad'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsæləd] n.色拉；莴苣，生菜'

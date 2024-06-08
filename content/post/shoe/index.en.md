@@ -1,6 +1,6 @@
 +++
 title = 'shoe'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫uː] n.鞋'

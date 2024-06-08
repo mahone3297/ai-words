@@ -1,6 +1,6 @@
 +++
 title = 'detail'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈteil] n.细节；枝节；零件'

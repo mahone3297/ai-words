@@ -1,6 +1,6 @@
 +++
 title = 'phrase'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[freiz] n.短语；习惯用语'

@@ -1,6 +1,6 @@
 +++
 title = 'universal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌjuːniˈvəːsəl] a.宇宙的；普遍的'

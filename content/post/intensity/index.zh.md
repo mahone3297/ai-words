@@ -1,6 +1,6 @@
 +++
 title = 'intensity'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈtensiti] n.强烈，剧烈；强度'

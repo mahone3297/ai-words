@@ -1,6 +1,6 @@
 +++
 title = 'hostile'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈhɔstail] a.敌方的；不友善的'

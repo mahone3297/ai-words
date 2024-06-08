@@ -1,6 +1,6 @@
 +++
 title = 'compete'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəmˈpiːt] vi.比赛；竞争；对抗'

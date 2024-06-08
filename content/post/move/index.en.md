@@ -1,6 +1,6 @@
 +++
 title = 'move'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[muːv] vt.移动；感动 n.动'

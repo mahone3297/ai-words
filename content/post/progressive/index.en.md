@@ -1,6 +1,6 @@
 +++
 title = 'progressive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈgresiv] a.进步/向前进的'

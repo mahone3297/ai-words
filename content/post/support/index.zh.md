@@ -1,6 +1,6 @@
 +++
 title = 'support'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səˈpɔːt] vt.支撑；支持；供养'

@@ -1,9 +1,9 @@
 +++
 title = 'like'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[laik] vt.喜欢；喜爱；希望'
+description = 'prep.像，如；像要'
 keywords = ['ai words', 'like']
 +++
 

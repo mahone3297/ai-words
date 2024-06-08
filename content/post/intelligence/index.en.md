@@ -1,6 +1,6 @@
 +++
 title = 'intelligence'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈtelidʒəns] n.智力；理解力；情报'

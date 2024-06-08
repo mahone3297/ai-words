@@ -1,6 +1,6 @@
 +++
 title = 'opening'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈəupniŋ] a.开始的 n.开始'

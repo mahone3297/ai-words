@@ -1,6 +1,6 @@
 +++
 title = 'boot'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[buːt] n.靴子，长统靴'

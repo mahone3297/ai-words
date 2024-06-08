@@ -1,6 +1,6 @@
 +++
 title = 'chop'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫ɔp] vt.砍，劈；切细 vi.砍'

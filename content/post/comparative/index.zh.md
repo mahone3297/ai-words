@@ -1,6 +1,6 @@
 +++
 title = 'comparative'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəmˈpærətiv] a.比较的，相对的'

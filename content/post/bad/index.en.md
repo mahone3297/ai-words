@@ -1,6 +1,6 @@
 +++
 title = 'bad'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[bæd] a.坏的，恶的；严重的'

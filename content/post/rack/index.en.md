@@ -1,9 +1,9 @@
 +++
 title = 'rack'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[ræk] n.搁物架；行李架'
+description = 'vt.使苦痛，折磨'
 keywords = ['ai words', 'rack']
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'automation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔːtəˈmei∫ən] n.自动，自动化'

@@ -1,6 +1,6 @@
 +++
 title = 'medical'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmedikəl] a.医学的；内科的'

@@ -1,6 +1,6 @@
 +++
 title = 'tenth'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tenθ] num.第十；十分之一'

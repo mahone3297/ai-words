@@ -1,6 +1,6 @@
 +++
 title = 'radish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrædi∫] n.小萝卜'

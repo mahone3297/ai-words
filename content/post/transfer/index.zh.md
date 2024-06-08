@@ -1,6 +1,6 @@
 +++
 title = 'transfer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trænsˈfəː] vt.转移；调动 vi.转移'

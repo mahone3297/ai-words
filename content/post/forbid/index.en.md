@@ -1,6 +1,6 @@
 +++
 title = 'forbid'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fəˈbid] vt.禁止，不许；阻止'

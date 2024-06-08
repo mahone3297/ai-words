@@ -1,6 +1,6 @@
 +++
 title = 'conference'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔnfərəns] n.会议，讨论会'

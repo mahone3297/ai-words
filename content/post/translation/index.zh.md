@@ -1,6 +1,6 @@
 +++
 title = 'translation'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[trænsˈlei∫ən] n.翻译；译文/本'

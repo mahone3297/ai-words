@@ -1,6 +1,6 @@
 +++
 title = 'analyse'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈænəlaiz] vt.分析，分解，解析'

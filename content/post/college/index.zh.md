@@ -1,6 +1,6 @@
 +++
 title = 'college'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔlidʒ] n.学院；大学'

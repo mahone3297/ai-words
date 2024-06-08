@@ -1,6 +1,6 @@
 +++
 title = 'terrible'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈterəbl] a.可怕的；极度的'

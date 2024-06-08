@@ -1,6 +1,6 @@
 +++
 title = 'represent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌriːpriˈzent] vt.描绘；代表；象征'

@@ -1,6 +1,6 @@
 +++
 title = 'be'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biː] aux.v.&vi.是，在，做'

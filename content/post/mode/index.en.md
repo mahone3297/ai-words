@@ -1,6 +1,6 @@
 +++
 title = 'mode'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[məud] n.方式，样式'

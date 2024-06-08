@@ -1,9 +1,9 @@
 +++
 title = 'fine'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[fain] a.美好的；纤细的'
+description = '[fain] n.罚金，罚款'
 keywords = ['ai words', 'fine']
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'plant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[plɑːnt] n.植物；工厂 vt.栽种'

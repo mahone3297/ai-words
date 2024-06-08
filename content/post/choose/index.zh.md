@@ -1,6 +1,6 @@
 +++
 title = 'choose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[t∫uːz] vt.选择，挑选；情愿'

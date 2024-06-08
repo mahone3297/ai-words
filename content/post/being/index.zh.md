@@ -1,6 +1,6 @@
 +++
 title = 'being'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbiːiŋ] n.存在；生物；生命'

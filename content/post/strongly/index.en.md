@@ -1,6 +1,6 @@
 +++
 title = 'strongly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstrɔŋli] ad.强壮地，强烈地'

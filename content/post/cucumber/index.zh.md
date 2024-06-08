@@ -1,6 +1,6 @@
 +++
 title = 'cucumber'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkjuːkʌmbə] n.黄瓜'

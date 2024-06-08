@@ -1,6 +1,6 @@
 +++
 title = 'baby'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈbeibi] n.婴儿；孩子气的人'

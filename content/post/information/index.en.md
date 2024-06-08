@@ -1,6 +1,6 @@
 +++
 title = 'information'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌinfəˈmei∫ən] n.消息，信息；通知'

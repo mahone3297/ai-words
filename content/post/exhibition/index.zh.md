@@ -1,6 +1,6 @@
 +++
 title = 'exhibition'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌeksiˈbi∫ən] n.展览，陈列；展览会'

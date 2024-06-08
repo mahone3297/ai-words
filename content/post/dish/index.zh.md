@@ -1,6 +1,6 @@
 +++
 title = 'dish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[di∫] n.碟，盘子；菜肴'

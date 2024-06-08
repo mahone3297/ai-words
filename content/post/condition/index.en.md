@@ -1,6 +1,6 @@
 +++
 title = 'condition'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈdi∫ən] n.状况，状态；环境'

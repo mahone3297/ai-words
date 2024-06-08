@@ -1,6 +1,6 @@
 +++
 title = 'provision'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈviʒən] n.供应；预备；存粮'

@@ -1,6 +1,6 @@
 +++
 title = 'corridor'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkɔridɔː] n.走廊，回廊，通路'

@@ -1,6 +1,6 @@
 +++
 title = 'prohibit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈhibit] vt.禁止，阻止'

@@ -1,6 +1,6 @@
 +++
 title = 'stone'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stəun] n.石，石头；宝石'

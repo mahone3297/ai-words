@@ -1,6 +1,6 @@
 +++
 title = 'term'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[təːm] n.期；学期；条件；词'

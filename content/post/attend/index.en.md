@@ -1,6 +1,6 @@
 +++
 title = 'attend'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈtend] vt.出席；照顾，护理'

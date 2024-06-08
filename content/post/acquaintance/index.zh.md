@@ -1,6 +1,6 @@
 +++
 title = 'acquaintance'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈkweintəns] n.认识;了解;熟人'

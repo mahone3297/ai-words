@@ -1,6 +1,6 @@
 +++
 title = 'rebel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrebəl] vi.造反 n.造反者'

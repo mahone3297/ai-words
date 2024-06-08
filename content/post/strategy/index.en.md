@@ -1,6 +1,6 @@
 +++
 title = 'strategy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstrætidʒi] n.战略；策略'

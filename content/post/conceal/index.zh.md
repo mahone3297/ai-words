@@ -1,6 +1,6 @@
 +++
 title = 'conceal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kənˈsiːl] vt.把…隐藏起来'

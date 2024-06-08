@@ -1,6 +1,6 @@
 +++
 title = 'digest'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[daiˈdʒest] vt.消化；领会 n.文摘'

@@ -1,6 +1,6 @@
 +++
 title = 'fame'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[feim] n.名声，名望'

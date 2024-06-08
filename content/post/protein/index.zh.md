@@ -1,6 +1,6 @@
 +++
 title = 'protein'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈprəutiːn] n.蛋白质，朊'

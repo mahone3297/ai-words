@@ -1,6 +1,6 @@
 +++
 title = 'near'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[niə] ad.近，接近 a.近的'

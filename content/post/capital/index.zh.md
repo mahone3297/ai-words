@@ -1,6 +1,6 @@
 +++
 title = 'capital'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkæpitəl] n.资本，资金；首都'

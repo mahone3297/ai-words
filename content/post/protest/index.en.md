@@ -1,6 +1,6 @@
 +++
 title = 'protest'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[prəˈtest] vt.&vi.&n.抗议'

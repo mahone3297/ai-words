@@ -1,6 +1,6 @@
 +++
 title = 'tongue'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[tʌŋ] n.舌，舌头；语言'

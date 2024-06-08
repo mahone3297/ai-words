@@ -1,6 +1,6 @@
 +++
 title = 'store'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stɔː] n.贮藏；贮存品；商店'

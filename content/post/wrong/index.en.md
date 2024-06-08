@@ -1,6 +1,6 @@
 +++
 title = 'wrong'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rɔŋ] a.错误的 ad.错，不对'

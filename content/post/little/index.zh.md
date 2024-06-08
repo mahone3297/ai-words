@@ -1,6 +1,6 @@
 +++
 title = 'little'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlitl] a.小的；少；幼小的'

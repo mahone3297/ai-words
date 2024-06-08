@@ -1,6 +1,6 @@
 +++
 title = 'shape'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[∫eip] n.形状；情况 vt.形成'

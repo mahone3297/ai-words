@@ -1,6 +1,6 @@
 +++
 title = 'kneel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[niːl] vi.跪，跪下，跪着'

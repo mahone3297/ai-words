@@ -1,6 +1,6 @@
 +++
 title = 'operational'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌɔpəˈrei∫ənl] a.操作上的；可使用的'

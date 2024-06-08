@@ -1,6 +1,6 @@
 +++
 title = 'office'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔfis] n.办公室；处，局，社'

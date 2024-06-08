@@ -1,6 +1,6 @@
 +++
 title = 'society'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səˈsaiəti] n.社会；团体；社交界'

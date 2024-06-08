@@ -1,6 +1,6 @@
 +++
 title = 'rib'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rib] n.肋，肋骨'

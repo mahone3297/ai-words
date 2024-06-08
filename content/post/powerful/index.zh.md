@@ -1,6 +1,6 @@
 +++
 title = 'powerful'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpauəful] a.强有力的；有权威的'

@@ -1,6 +1,6 @@
 +++
 title = 'sense'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[sens] n.感官；感觉；见识'

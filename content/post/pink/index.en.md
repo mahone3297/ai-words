@@ -1,6 +1,6 @@
 +++
 title = 'pink'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[piŋk] n.粉红色 a.粉红色的'

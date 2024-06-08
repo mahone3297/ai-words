@@ -1,6 +1,6 @@
 +++
 title = 'lion'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlaiən] n.狮子；勇猛的人'

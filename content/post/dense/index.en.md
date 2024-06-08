@@ -1,6 +1,6 @@
 +++
 title = 'dense'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[dens] a.密集的；浓厚的'

@@ -1,6 +1,6 @@
 +++
 title = 'prepare'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[priˈpeə] vt.&vi.准备，预备'

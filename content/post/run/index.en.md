@@ -1,6 +1,6 @@
 +++
 title = 'run'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rʌn] vi.跑，奔；行驶；流'

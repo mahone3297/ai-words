@@ -1,6 +1,6 @@
 +++
 title = 'pint'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[paint] n.品脱'

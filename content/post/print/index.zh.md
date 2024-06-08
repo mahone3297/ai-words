@@ -1,6 +1,6 @@
 +++
 title = 'print'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[print] vt.印刷 n.印刷；正片'

@@ -1,6 +1,6 @@
 +++
 title = 'station'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstei∫ən] n.站，台，所，局'

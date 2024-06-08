@@ -1,6 +1,6 @@
 +++
 title = 'lean'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[liːn] vi.倾斜，屈身；靠'

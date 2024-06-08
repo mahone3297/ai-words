@@ -1,6 +1,6 @@
 +++
 title = 'company'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkʌmpəni] n.公司，商号；同伴'

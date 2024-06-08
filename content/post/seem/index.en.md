@@ -1,6 +1,6 @@
 +++
 title = 'seem'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[siːm] vi.好像，似乎'

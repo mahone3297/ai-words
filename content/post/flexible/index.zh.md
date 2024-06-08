@@ -1,6 +1,6 @@
 +++
 title = 'flexible'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfleksəbl] a.易弯曲的；灵活的'

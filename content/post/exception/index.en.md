@@ -1,6 +1,6 @@
 +++
 title = 'exception'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ikˈsep∫ən] n.例外，除外'

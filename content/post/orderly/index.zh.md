@@ -1,6 +1,6 @@
 +++
 title = 'orderly'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔːdəli] a.整洁的；有秩序的'

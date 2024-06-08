@@ -1,6 +1,6 @@
 +++
 title = 'foremost'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfɔːməust] a.最初的；第一流的'

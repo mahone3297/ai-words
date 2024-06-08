@@ -1,6 +1,6 @@
 +++
 title = 'thermometer'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θəˈmɔmitə(r)] n.温度计，寒暑表'

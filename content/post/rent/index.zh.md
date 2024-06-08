@@ -1,6 +1,6 @@
 +++
 title = 'rent'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rent] n.租金，租 vi.出租'

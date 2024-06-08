@@ -1,6 +1,6 @@
 +++
 title = 'low'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ləu] a.低的，矮的；低下的'

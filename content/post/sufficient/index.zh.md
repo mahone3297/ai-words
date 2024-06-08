@@ -1,6 +1,6 @@
 +++
 title = 'sufficient'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[səˈfi∫ənt] a.足够的，充分的'

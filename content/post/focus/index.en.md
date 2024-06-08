@@ -1,6 +1,6 @@
 +++
 title = 'focus'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfəukəs] vi.聚焦，注视 n.焦点'

@@ -1,6 +1,6 @@
 +++
 title = 'participate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[pɑːˈtisipeit] vi.参与/加；分享'

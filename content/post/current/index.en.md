@@ -1,6 +1,6 @@
 +++
 title = 'current'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈkʌrənt] a.当前的；通用的'

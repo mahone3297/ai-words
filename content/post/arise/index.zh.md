@@ -1,6 +1,6 @@
 +++
 title = 'arise'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈraiz] vi.出现；由…引起'

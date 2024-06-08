@@ -1,6 +1,6 @@
 +++
 title = 'hold'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[həuld] vt.拿住；掌握；拥有'

@@ -1,6 +1,6 @@
 +++
 title = 'residence'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈrezidəns] n.居住；驻扎；住处'

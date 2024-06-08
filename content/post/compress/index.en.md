@@ -1,6 +1,6 @@
 +++
 title = 'compress'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəmˈpres] vt.压紧，压缩'

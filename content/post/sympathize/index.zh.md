@@ -1,6 +1,6 @@
 +++
 title = 'sympathize'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsimpəθaiz] vi.同情/感，共鸣'

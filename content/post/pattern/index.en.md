@@ -1,6 +1,6 @@
 +++
 title = 'pattern'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpætən] n.型，式样，模，模型'

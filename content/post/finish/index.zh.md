@@ -1,6 +1,6 @@
 +++
 title = 'finish'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈfini∫] vt.完成，结束 n.结束'

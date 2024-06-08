@@ -1,6 +1,6 @@
 +++
 title = 'departure'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[diˈpɑːt∫ə] n.离开，出发，起程'

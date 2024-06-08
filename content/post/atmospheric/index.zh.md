@@ -1,6 +1,6 @@
 +++
 title = 'atmospheric'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌætməsˈferik] a.大气的;大气层的'

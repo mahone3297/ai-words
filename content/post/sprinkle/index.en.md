@@ -1,6 +1,6 @@
 +++
 title = 'sprinkle'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈspriŋkl] n.洒，撒；小雨'

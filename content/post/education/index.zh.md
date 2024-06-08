@@ -1,6 +1,6 @@
 +++
 title = 'education'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌedju(ː)ˈkei∫ən] n.教育;训导;教育学'

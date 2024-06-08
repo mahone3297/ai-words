@@ -1,6 +1,6 @@
 +++
 title = 'limit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈlimit] n.限度；限制；范围'

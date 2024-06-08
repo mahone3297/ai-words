@@ -1,6 +1,6 @@
 +++
 title = 'plaster'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈplɑːstə] n.灰泥；硬膏；熟石膏'

@@ -1,6 +1,6 @@
 +++
 title = 'starve'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stɑːv] vi.饿死 vt.使饿死'

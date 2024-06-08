@@ -1,6 +1,6 @@
 +++
 title = 'learning'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈləːniŋ] n.学习；学问，知识'

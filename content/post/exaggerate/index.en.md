@@ -1,6 +1,6 @@
 +++
 title = 'exaggerate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[igˈzædʒəreit] vt.&vi.夸大，夸张'

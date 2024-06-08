@@ -1,6 +1,6 @@
 +++
 title = 'stamp'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[stæmp] n.戳子；邮票；标志'

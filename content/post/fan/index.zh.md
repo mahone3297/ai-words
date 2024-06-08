@@ -1,9 +1,9 @@
 +++
 title = 'fan'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
-description = '[fæn] n.(运动等)狂热爱好者'
+description = 'n.扇子，风扇 vt.扇'
 keywords = ['ai words', 'fan']
 +++
 

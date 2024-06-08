@@ -1,6 +1,6 @@
 +++
 title = 'medal'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈmedl] n.奖章，勋章，纪念章'

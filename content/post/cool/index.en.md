@@ -1,6 +1,6 @@
 +++
 title = 'cool'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kuːl] a.凉的，冷静的'

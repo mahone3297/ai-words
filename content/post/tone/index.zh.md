@@ -1,6 +1,6 @@
 +++
 title = 'tone'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[təun] n.音；腔调；声调'

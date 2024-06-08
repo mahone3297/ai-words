@@ -1,6 +1,6 @@
 +++
 title = 'throw'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θrəu] vt.投，掷，抛，扔'

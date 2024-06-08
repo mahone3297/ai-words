@@ -1,6 +1,6 @@
 +++
 title = 'mineral'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈminərəl] n.矿物 a.矿物的'

@@ -1,6 +1,6 @@
 +++
 title = 'gasoline'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgæsəliːn] n.(美)汽油'

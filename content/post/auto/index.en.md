@@ -1,6 +1,6 @@
 +++
 title = 'auto'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈɔːtəu] n.(口语)汽车'

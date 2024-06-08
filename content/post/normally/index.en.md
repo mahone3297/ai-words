@@ -1,6 +1,6 @@
 +++
 title = 'normally'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnɔːməli] ad.通常，正常地'

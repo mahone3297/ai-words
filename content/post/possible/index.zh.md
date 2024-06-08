@@ -1,6 +1,6 @@
 +++
 title = 'possible'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈpɔsəbl] a.可能的；可能存在的'

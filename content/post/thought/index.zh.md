@@ -1,6 +1,6 @@
 +++
 title = 'thought'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[θɔːt] n.思想；思维；想法'

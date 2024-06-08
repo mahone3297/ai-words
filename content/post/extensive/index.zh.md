@@ -1,6 +1,6 @@
 +++
 title = 'extensive'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[iksˈtensiv] a.广阔的；广泛的'

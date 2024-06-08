@@ -1,6 +1,6 @@
 +++
 title = 'committee'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəˈmiti] n.委员会；全体委员'

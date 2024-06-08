@@ -1,6 +1,6 @@
 +++
 title = 'experimental'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ikˈsperiment(ə)l] a.实/试验的'

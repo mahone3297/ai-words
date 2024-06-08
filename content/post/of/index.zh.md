@@ -1,6 +1,6 @@
 +++
 title = 'of'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ɔːf] prep.…的；由于'

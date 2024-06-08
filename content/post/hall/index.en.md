@@ -1,6 +1,6 @@
 +++
 title = 'hall'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[hɔːl] n.门厅；过道；会堂'

@@ -1,6 +1,6 @@
 +++
 title = 'response'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[risˈpɔns] n.作答，回答；响应'

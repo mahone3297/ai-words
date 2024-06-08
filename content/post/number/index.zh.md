@@ -1,6 +1,6 @@
 +++
 title = 'number'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈnʌmbə] n.数，数字；号码'

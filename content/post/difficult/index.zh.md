@@ -1,6 +1,6 @@
 +++
 title = 'difficult'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈdifikəlt] a.困难的；难对付的'

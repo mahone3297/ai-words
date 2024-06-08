@@ -1,6 +1,6 @@
 +++
 title = 'illustrate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈiləstreit] vt.(用图等)说明'

@@ -1,6 +1,6 @@
 +++
 title = 'slit'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[slit] n.裂缝 vt.切开，撕开'

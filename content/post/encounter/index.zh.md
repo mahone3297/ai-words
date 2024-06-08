@@ -1,6 +1,6 @@
 +++
 title = 'encounter'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈkauntə] vt.遭遇，遇到 n.遭遇'

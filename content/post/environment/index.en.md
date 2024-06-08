@@ -1,6 +1,6 @@
 +++
 title = 'environment'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈvaiərənmənt] n.环境，外界；围绕'

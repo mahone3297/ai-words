@@ -1,6 +1,6 @@
 +++
 title = 'beach'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[biːt∫] n.海滩，湖滩，河滩'

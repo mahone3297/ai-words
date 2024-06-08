@@ -1,6 +1,6 @@
 +++
 title = 'insert'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈsəːt] vt.插入; 嵌入; 登载'

@@ -1,6 +1,6 @@
 +++
 title = 'work'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wəːk] n.工作；职业 vi.工作'

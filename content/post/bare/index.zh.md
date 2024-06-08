@@ -1,6 +1,6 @@
 +++
 title = 'bare'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[beə] a.赤裸的；仅仅的'

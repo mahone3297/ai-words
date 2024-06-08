@@ -1,6 +1,6 @@
 +++
 title = 'compel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[kəmˈpel] vt.强迫，迫使屈服'

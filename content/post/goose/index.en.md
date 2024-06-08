@@ -1,6 +1,6 @@
 +++
 title = 'goose'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[guːs] n.鹅，雌鹅'

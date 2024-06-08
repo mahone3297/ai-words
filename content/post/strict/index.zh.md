@@ -1,6 +1,6 @@
 +++
 title = 'strict'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[strikt] a.严格的；严谨的'

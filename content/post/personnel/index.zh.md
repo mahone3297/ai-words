@@ -1,6 +1,6 @@
 +++
 title = 'personnel'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌpəːsəˈnel] n.全体人员，全体职员'

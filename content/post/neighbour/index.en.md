@@ -1,6 +1,6 @@
 +++
 title = 'neighbour'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈneibə] n.邻居，邻国，邻人'

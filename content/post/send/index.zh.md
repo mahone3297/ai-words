@@ -1,6 +1,6 @@
 +++
 title = 'send'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[send] vt.送，寄发；派遣'

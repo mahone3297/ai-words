@@ -1,6 +1,6 @@
 +++
 title = 'virtue'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈvəːtjuː] n.善；美德；优点'

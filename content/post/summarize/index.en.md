@@ -1,6 +1,6 @@
 +++
 title = 'summarize'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsʌməraiz] vt.概括/述，总结'

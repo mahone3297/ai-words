@@ -1,6 +1,6 @@
 +++
 title = 'academy'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[əˈkædəmi] n.私立中学；专科院校'

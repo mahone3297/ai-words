@@ -1,6 +1,6 @@
 +++
 title = 'restrict'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[risˈtrikt] vt 限制，限定，约束'

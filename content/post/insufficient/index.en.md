@@ -1,6 +1,6 @@
 +++
 title = 'insufficient'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˌinsəˈfi∫ənt] a.不足的;不适当的'

@@ -1,6 +1,6 @@
 +++
 title = 'inhabitant'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[inˈhæbitənt] n.居民，住户'

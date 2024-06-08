@@ -1,6 +1,6 @@
 +++
 title = 'circulate'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈsəːkjuleit] vt.使循环 vi.循环'

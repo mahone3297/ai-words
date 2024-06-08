@@ -1,6 +1,6 @@
 +++
 title = 'shoulder'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈ∫əuldə] n.肩，肩膀；挑起'

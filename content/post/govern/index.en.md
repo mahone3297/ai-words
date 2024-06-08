@@ -1,6 +1,6 @@
 +++
 title = 'govern'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈgʌvən] vt.统治，治理；支配'

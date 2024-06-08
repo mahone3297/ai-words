@@ -1,6 +1,6 @@
 +++
 title = 'free'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[friː] a.自由的；空闲的'

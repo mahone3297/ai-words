@@ -1,6 +1,6 @@
 +++
 title = 'steward'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈstjuəd] n.乘务员，服务员'

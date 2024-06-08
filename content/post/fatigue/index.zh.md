@@ -1,6 +1,6 @@
 +++
 title = 'fatigue'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[fəˈtiːg] n.疲劳，劳累'

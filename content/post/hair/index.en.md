@@ -1,6 +1,6 @@
 +++
 title = 'hair'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[heə] n.头发，毛发；毛'

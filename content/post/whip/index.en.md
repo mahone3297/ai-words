@@ -1,6 +1,6 @@
 +++
 title = 'whip'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[(h)wip] vt.鞭笞；搅打 n.鞭子'

@@ -1,6 +1,6 @@
 +++
 title = 'worse'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[wəːs] a.更坏的 ad.更坏'

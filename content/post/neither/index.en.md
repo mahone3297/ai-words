@@ -1,6 +1,6 @@
 +++
 title = 'neither'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[ˈniːðə] a.(两者)都不的'

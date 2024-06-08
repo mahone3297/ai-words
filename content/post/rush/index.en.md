@@ -1,6 +1,6 @@
 +++
 title = 'rush'
-draft = false
+draft = true
 categories = ['CET4']
 tags = ['CET4']
 description = '[rʌ∫] vi.冲，奔 vt.催促'
