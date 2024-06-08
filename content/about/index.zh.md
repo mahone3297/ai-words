@@ -16,7 +16,7 @@ keywords = ['AI', 'ai words', 'ai dictionary']
 
 ## 历程
 
-- 2024-06-07 单词丰富 CET4，英文版，4k+ words
+- 2024-06-08 单词丰富 CET4，英文版，4k+ words
 - 2024-06-07 单词丰富 CET4，英文版，1k+ words
 - 2024-06-06 单词丰富 CET4，中文版，4k+ words
 - 2024-06-03 上线，hello
