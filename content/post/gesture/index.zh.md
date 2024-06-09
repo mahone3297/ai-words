@@ -11,20 +11,20 @@ keywords = ['ai words', 'gesture']
 /ˈdʒestʃər/
 
 ## 释义
-- **名词 n**: 手势，动作；示意。例如: "She made a friendly gesture towards him."
-- **动词 v**: 做手势；示意。例如: "He gestured for me to follow him."
+- **名词 n**: 手势，动作；示意。例如: "[She](/post/she/) made [a](/post/a/) [friendly](/post/friendly/) [gesture](/post/gesture/) towards [him](/post/him/)."
+- **动词 v**: 做手势；示意。例如: "[He](/post/he/) gestured [for](/post/for/) [me](/post/me/) [to](/post/to/) [follow](/post/follow/) [him](/post/him/)."
 
 ## 短语
-- "gestural communication" 手势交流
-- "a welcoming gesture" 欢迎的手势
+- "gestural [communication](/post/communication/)" 手势交流
+- "[a](/post/a/) welcoming [gesture](/post/gesture/)" 欢迎的手势
 
 ## 例句
-- 名词: "The speaker used a series of gestures to emphasize his points."
-- 动词: "He gestured wildly when explaining his idea."
+- 名词: "[The](/post/the/) [speaker](/post/speaker/) [used](/post/used/) [a](/post/a/) [series](/post/series/) [of](/post/of/) gestures [to](/post/to/) [emphasize](/post/emphasize/) [his](/post/his/) points."
+- 动词: "[He](/post/he/) gestured wildly [when](/post/when/) explaining [his](/post/his/) [idea](/post/idea/)."
 
 ## 同义词
-- Movement
-- Signal
-- Motion
-- Action
-- Sign
+- [Movement](/post/movement/)
+- [Signal](/post/signal/)
+- [Motion](/post/motion/)
+- [Action](/post/action/)
+- [Sign](/post/sign/)

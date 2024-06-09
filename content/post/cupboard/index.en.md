@@ -7,41 +7,41 @@ description = '[ˈkʌbəd] n.碗柜，碗碟橱；食橱'
 keywords = ['ai words', 'cupboard']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kʌpboʊd/
 
 ## Definitions
-### Noun
-1. A piece of furniture with shelves and doors, typically used for storing dishes, food, or other household items.
-   - Example: "The kitchen had a large wooden cupboard for storing pots and pans."
-2. A place or situation where something is kept out of sight or hidden.
-   - Example: "He hid his secret in the cupboard under the stairs."
+### [Noun](/en/post/noun/)
+1. [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [furniture](/en/post/furniture/) [with](/en/post/with/) shelves [and](/en/post/and/) doors, typically [used](/en/post/used/) [for](/en/post/for/) storing dishes, [food](/en/post/food/), [or](/en/post/or/) [other](/en/post/other/) [household](/en/post/household/) items.
+   - [Example](/en/post/example/): "[The](/en/post/the/) [kitchen](/en/post/kitchen/) had [a](/en/post/a/) [large](/en/post/large/) [wooden](/en/post/wooden/) [cupboard](/en/post/cupboard/) [for](/en/post/for/) storing pots [and](/en/post/and/) pans."
+2. [A](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [situation](/en/post/situation/) [where](/en/post/where/) [something](/en/post/something/) is kept [out](/en/post/out/) [of](/en/post/of/) [sight](/en/post/sight/) [or](/en/post/or/) hidden.
+   - [Example](/en/post/example/): "[He](/en/post/he/) hid [his](/en/post/his/) [secret](/en/post/secret/) [in](/en/post/in/) [the](/en/post/the/) [cupboard](/en/post/cupboard/) [under](/en/post/under/) [the](/en/post/the/) stairs."
 
-### Verb
-1. To store something in a cupboard or closet.
-   - Example: "She put away her old books in the cupboard."
-2. Informal: To conceal or hide something.
-   - Example: "He cupboarded the embarrassing letter in a drawer."
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [store](/en/post/store/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [cupboard](/en/post/cupboard/) [or](/en/post/or/) closet.
+   - [Example](/en/post/example/): "[She](/en/post/she/) [put](/en/post/put/) [away](/en/post/away/) [her](/en/post/her/) [old](/en/post/old/) books [in](/en/post/in/) [the](/en/post/the/) [cupboard](/en/post/cupboard/)."
+2. Informal: [To](/en/post/to/) [conceal](/en/post/conceal/) [or](/en/post/or/) [hide](/en/post/hide/) [something](/en/post/something/).
+   - [Example](/en/post/example/): "[He](/en/post/he/) cupboarded [the](/en/post/the/) embarrassing [letter](/en/post/letter/) [in](/en/post/in/) [a](/en/post/a/) [drawer](/en/post/drawer/)."
 
 ## Phrases
-- "Keep something in the cupboard" means to store it in a cupboard.
-- "Clean out the cupboard" refers to organizing or discarding items from a cupboard.
-- "A cupboard full of surprises" implies unexpected finds.
+- "[Keep](/en/post/keep/) [something](/en/post/something/) [in](/en/post/in/) [the](/en/post/the/) [cupboard](/en/post/cupboard/)" [means](/en/post/means/) [to](/en/post/to/) [store](/en/post/store/) [it](/en/post/it/) [in](/en/post/in/) [a](/en/post/a/) [cupboard](/en/post/cupboard/).
+- "[Clean](/en/post/clean/) [out](/en/post/out/) [the](/en/post/the/) [cupboard](/en/post/cupboard/)" refers [to](/en/post/to/) organizing [or](/en/post/or/) discarding items [from](/en/post/from/) [a](/en/post/a/) [cupboard](/en/post/cupboard/).
+- "[A](/en/post/a/) [cupboard](/en/post/cupboard/) [full](/en/post/full/) [of](/en/post/of/) surprises" implies [unexpected](/en/post/unexpected/) finds.
 
-## Example Sentences
-- **Noun**: "She took down a jar of jam from the top cupboard."
-- **Verb**: "He decided to cupboard his old clothes until he needed them again."
-- **Informal**: "He cupboarded the truth about his past to protect his reputation."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) took [down](/en/post/down/) [a](/en/post/a/) [jar](/en/post/jar/) [of](/en/post/of/) [jam](/en/post/jam/) [from](/en/post/from/) [the](/en/post/the/) [top](/en/post/top/) [cupboard](/en/post/cupboard/)."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [cupboard](/en/post/cupboard/) [his](/en/post/his/) [old](/en/post/old/) [clothes](/en/post/clothes/) [until](/en/post/until/) [he](/en/post/he/) needed [them](/en/post/them/) [again](/en/post/again/)."
+- **Informal**: "[He](/en/post/he/) cupboarded [the](/en/post/the/) [truth](/en/post/truth/) [about](/en/post/about/) [his](/en/post/his/) [past](/en/post/past/) [to](/en/post/to/) [protect](/en/post/protect/) [his](/en/post/his/) [reputation](/en/post/reputation/)."
 
 ## Synonyms
 - Closet
 - Pantry
-- Storage cabinet
-- Filing cabinet (in a figurative sense)
-- Conceal
-- Hide
+- [Storage](/en/post/storage/) [cabinet](/en/post/cabinet/)
+- Filing [cabinet](/en/post/cabinet/) ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/))
+- [Conceal](/en/post/conceal/)
+- [Hide](/en/post/hide/)
 
 ## Antonyms
-- Expose
-- Display
-- Open up (in the sense of revealing)
+- [Expose](/en/post/expose/)
+- [Display](/en/post/display/)
+- [Open](/en/post/open/) [up](/en/post/up/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) revealing)

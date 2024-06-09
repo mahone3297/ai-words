@@ -12,20 +12,20 @@ keywords = ['ai words', 'persist']
 
 ## 释义
 - **动词**:
-  - 坚持；持续不断。例如: "Despite difficulties, she persisted in her efforts."
-  - 持续存在。例如: "The problem persists even after several attempts to solve it."
+  - 坚持；持续不断。例如: "[Despite](/post/despite/) difficulties, [she](/post/she/) persisted [in](/post/in/) [her](/post/her/) efforts."
+  - 持续存在。例如: "[The](/post/the/) [problem](/post/problem/) persists [even](/post/even/) [after](/post/after/) [several](/post/several/) attempts [to](/post/to/) [solve](/post/solve/) [it](/post/it/)."
 
 ## 短语
-- "persist in doing something" 坚持做某事。例如: "He persisted in his belief that the theory was correct."
-- "the persistence of memory" 记忆的持久性。
+- "[persist](/post/persist/) [in](/post/in/) doing [something](/post/something/)" 坚持做某事。例如: "[He](/post/he/) persisted [in](/post/in/) [his](/post/his/) [belief](/post/belief/) [that](/post/that/) [the](/post/the/) [theory](/post/theory/) was [correct](/post/correct/)."
+- "[the](/post/the/) persistence [of](/post/of/) [memory](/post/memory/)" 记忆的持久性。
 
 ## 例句
-- 动词: "She persisted with her painting even when critics were harsh."
-- 持续存在: "The noise from the construction site persisted throughout the night."
+- 动词: "[She](/post/she/) persisted [with](/post/with/) [her](/post/her/) [painting](/post/painting/) [even](/post/even/) [when](/post/when/) critics were [harsh](/post/harsh/)."
+- 持续存在: "[The](/post/the/) [noise](/post/noise/) [from](/post/from/) [the](/post/the/) [construction](/post/construction/) [site](/post/site/) persisted [throughout](/post/throughout/) [the](/post/the/) [night](/post/night/)."
 
 ## 同义词
-- continue
-- endure
-- last
-- remain
-- go on
+- [continue](/post/continue/)
+- [endure](/post/endure/)
+- [last](/post/last/)
+- [remain](/post/remain/)
+- [go](/post/go/) [on](/post/on/)

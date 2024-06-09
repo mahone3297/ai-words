@@ -7,36 +7,36 @@ description = '[ˈsʌməri] n.摘要，概要，一览'
 keywords = ['ai words', 'summary']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈsʌməri/
 
 ## Definitions
-### Noun
-1. **A concise restatement or summary of main points or ideas from a text, speech, or discussion**: *After reading the novel, she wrote a brief summary of the plot.*
-2. **A brief overview or synopsis**: *The film's summary on the back cover gave a good idea of what to expect.**
-3. **A person's summary understanding or assessment**: *His summary of the situation was spot-on.*
+### [Noun](/en/post/noun/)
+1. **[A](/en/post/a/) concise restatement [or](/en/post/or/) [summary](/en/post/summary/) [of](/en/post/of/) [main](/en/post/main/) points [or](/en/post/or/) ideas [from](/en/post/from/) [a](/en/post/a/) [text](/en/post/text/), [speech](/en/post/speech/), [or](/en/post/or/) [discussion](/en/post/discussion/)**: *[After](/en/post/after/) [reading](/en/post/reading/) [the](/en/post/the/) [novel](/en/post/novel/), [she](/en/post/she/) wrote [a](/en/post/a/) [brief](/en/post/brief/) [summary](/en/post/summary/) [of](/en/post/of/) [the](/en/post/the/) [plot](/en/post/plot/).*
+2. **[A](/en/post/a/) [brief](/en/post/brief/) overview [or](/en/post/or/) synopsis**: *[The](/en/post/the/) film's [summary](/en/post/summary/) [on](/en/post/on/) [the](/en/post/the/) [back](/en/post/back/) [cover](/en/post/cover/) gave [a](/en/post/a/) [good](/en/post/good/) [idea](/en/post/idea/) [of](/en/post/of/) [what](/en/post/what/) [to](/en/post/to/) [expect](/en/post/expect/).**
+3. **[A](/en/post/a/) person's [summary](/en/post/summary/) [understanding](/en/post/understanding/) [or](/en/post/or/) assessment**: *[His](/en/post/his/) [summary](/en/post/summary/) [of](/en/post/of/) [the](/en/post/the/) [situation](/en/post/situation/) was spot-on.*
 
-### Verb
-1. **To condense or present (information) in a summary form**: *She summarized the key findings of the research report.*
-2. **To give a brief account or overview**: *He summarized his experience at the conference.*
+### [Verb](/en/post/verb/)
+1. **[To](/en/post/to/) [condense](/en/post/condense/) [or](/en/post/or/) [present](/en/post/present/) ([information](/en/post/information/)) [in](/en/post/in/) [a](/en/post/a/) [summary](/en/post/summary/) [form](/en/post/form/)**: *[She](/en/post/she/) summarized [the](/en/post/the/) [key](/en/post/key/) findings [of](/en/post/of/) [the](/en/post/the/) [research](/en/post/research/) [report](/en/post/report/).*
+2. **[To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [brief](/en/post/brief/) [account](/en/post/account/) [or](/en/post/or/) overview**: *[He](/en/post/he/) summarized [his](/en/post/his/) [experience](/en/post/experience/) [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/).*
 
-### Adjective
-1. Brief and concise: *A summary presentation avoided unnecessary details.**
+### [Adjective](/en/post/adjective/)
+1. [Brief](/en/post/brief/) [and](/en/post/and/) concise: *[A](/en/post/a/) [summary](/en/post/summary/) presentation avoided [unnecessary](/en/post/unnecessary/) details.**
 
 ## Phrases
-- "Provide a summary" asks for a concise overview.
-- "In summary" signals the conclusion or main points of a speech or explanation.
-- "Summary notes" are shortened versions of written material.
+- "[Provide](/en/post/provide/) [a](/en/post/a/) [summary](/en/post/summary/)" asks [for](/en/post/for/) [a](/en/post/a/) concise overview.
+- "[In](/en/post/in/) [summary](/en/post/summary/)" signals [the](/en/post/the/) [conclusion](/en/post/conclusion/) [or](/en/post/or/) [main](/en/post/main/) points [of](/en/post/of/) [a](/en/post/a/) [speech](/en/post/speech/) [or](/en/post/or/) [explanation](/en/post/explanation/).
+- "[Summary](/en/post/summary/) notes" are shortened versions [of](/en/post/of/) written [material](/en/post/material/).
 
-## Example Sentences
-- **Noun**: *After the long meeting, they shared their thoughts in a summary email.*
-- **Verb**: *The teacher asked the students to summarize their group discussions.*
-- **Adjective**: *The summary version of the book was easy to read for busy readers.**
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: *[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [meeting](/en/post/meeting/), [they](/en/post/they/) shared [their](/en/post/their/) thoughts [in](/en/post/in/) [a](/en/post/a/) [summary](/en/post/summary/) email.*
+- **[Verb](/en/post/verb/)**: *[The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) students [to](/en/post/to/) [summarize](/en/post/summarize/) [their](/en/post/their/) [group](/en/post/group/) discussions.*
+- **[Adjective](/en/post/adjective/)**: *[The](/en/post/the/) [summary](/en/post/summary/) [version](/en/post/version/) [of](/en/post/of/) [the](/en/post/the/) [book](/en/post/book/) was [easy](/en/post/easy/) [to](/en/post/to/) [read](/en/post/read/) [for](/en/post/for/) [busy](/en/post/busy/) readers.**
 
 ## Synonyms
 - Recap
-- Outline
-- Condensed version
+- [Outline](/en/post/outline/)
+- Condensed [version](/en/post/version/)
 - Recapitulation
 - Excerpt
 -gist
@@ -44,7 +44,7 @@ keywords = ['ai words', 'summary']
 
 ## Antonyms
 - Detailed
-- Comprehensive
+- [Comprehensive](/en/post/comprehensive/)
 - Lengthy
 - Exhaustive
-- Full account
+- [Full](/en/post/full/) [account](/en/post/account/)

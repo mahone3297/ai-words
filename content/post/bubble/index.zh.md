@@ -12,23 +12,23 @@ keywords = ['ai words', 'bubble']
 
 ## 释义
 - **名词**:
-  - 气泡；泡沫：A small globule of air or gas in a liquid, or the mass of such globules.
-  - 炫耀；虚华的事物：Something that is ephemeral, insubstantial, or overvalued.
-  - (股市)泡沫；投机热潮：A period of rapid and unsustainable growth in the stock market or other investments.
+  - 气泡；泡沫：[A](/post/a/) [small](/post/small/) globule [of](/post/of/) [air](/post/air/) [or](/post/or/) [gas](/post/gas/) [in](/post/in/) [a](/post/a/) [liquid](/post/liquid/), [or](/post/or/) [the](/post/the/) [mass](/post/mass/) [of](/post/of/) [such](/post/such/) globules.
+  - 炫耀；虚华的事物：[Something](/post/something/) [that](/post/that/) is ephemeral, insubstantial, [or](/post/or/) overvalued.
+  - (股市)泡沫；投机热潮：[A](/post/a/) [period](/post/period/) [of](/post/of/) [rapid](/post/rapid/) [and](/post/and/) unsustainable [growth](/post/growth/) [in](/post/in/) [the](/post/the/) [stock](/post/stock/) [market](/post/market/) [or](/post/or/) [other](/post/other/) investments.
 
 - **动词**:
-  - 形成气泡：To form bubbles, especially in a liquid.
-  - 轻声说话；低声细语：To speak softly or confidentially.
+  - 形成气泡：[To](/post/to/) [form](/post/form/) bubbles, [especially](/post/especially/) [in](/post/in/) [a](/post/a/) [liquid](/post/liquid/).
+  - 轻声说话；低声细语：[To](/post/to/) [speak](/post/speak/) [softly](/post/softly/) [or](/post/or/) confidentially.
 
 ## 短语
-- "Bubble up" 意味着液体中的气泡升起，或者指事物逐渐显现或发展。
-- "Live in a bubble" 指与外界隔绝，不了解现实世界的情况。
-- "Burst one's bubble" 意味着打破某人的幻想或美梦。
+- "[Bubble](/post/bubble/) [up](/post/up/)" 意味着液体中的气泡升起，或者指事物逐渐显现或发展。
+- "[Live](/post/live/) [in](/post/in/) [a](/post/a/) [bubble](/post/bubble/)" 指与外界隔绝，不了解现实世界的情况。
+- "[Burst](/post/burst/) one's [bubble](/post/bubble/)" 意味着打破某人的幻想或美梦。
 
 ## 例句
-- 名词: "The champagne was filled with delicate bubbles."
-- 动词: "The children were bubbling with excitement about their upcoming vacation."
-- 感叹词: "Bubble, bubble, toil and trouble"（出自莎士比亚的《麦克白》）
+- 名词: "[The](/post/the/) champagne was filled [with](/post/with/) [delicate](/post/delicate/) bubbles."
+- 动词: "[The](/post/the/) children were bubbling [with](/post/with/) excitement [about](/post/about/) [their](/post/their/) upcoming [vacation](/post/vacation/)."
+- 感叹词: "[Bubble](/post/bubble/), [bubble](/post/bubble/), toil [and](/post/and/) [trouble](/post/trouble/)"（出自莎士比亚的《麦克白》）
 
 ## 同义词
 - Bubbliness

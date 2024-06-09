@@ -7,34 +7,34 @@ description = '[ˈkælində] n.日历，历书；历法'
 keywords = ['ai words', 'calendar']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kəˈlændər/
 
 ## Definitions
-### Noun
-1. A **calendar** is a system for organizing and displaying days, weeks, and months, often used to track dates and appointments. It can be a physical book, electronic device, or a set of rules for a particular calendar system (e.g., Gregorian, lunar).
-2. An event schedule or series of events planned for a specific period: "The school's academic calendar for the year."
+### [Noun](/en/post/noun/)
+1. [A](/en/post/a/) **[calendar](/en/post/calendar/)** is [a](/en/post/a/) [system](/en/post/system/) [for](/en/post/for/) organizing [and](/en/post/and/) displaying days, weeks, [and](/en/post/and/) months, [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [track](/en/post/track/) dates [and](/en/post/and/) appointments. [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [physical](/en/post/physical/) [book](/en/post/book/), [electronic](/en/post/electronic/) [device](/en/post/device/), [or](/en/post/or/) [a](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) rules [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [calendar](/en/post/calendar/) [system](/en/post/system/) (e.g., Gregorian, lunar).
+2. An [event](/en/post/event/) [schedule](/en/post/schedule/) [or](/en/post/or/) [series](/en/post/series/) [of](/en/post/of/) events planned [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [period](/en/post/period/): "[The](/en/post/the/) school's [academic](/en/post/academic/) [calendar](/en/post/calendar/) [for](/en/post/for/) [the](/en/post/the/) [year](/en/post/year/)."
 
-### Verb
-1. To **plan** or **schedule** events according to a calendar: "Let's calendar the meetings for next month."
-2. To indicate or record the occurrence of an event on a calendar: "I'll calendar the birthday party on the family calendar."
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) **[plan](/en/post/plan/)** [or](/en/post/or/) **[schedule](/en/post/schedule/)** events according [to](/en/post/to/) [a](/en/post/a/) [calendar](/en/post/calendar/): "Let's [calendar](/en/post/calendar/) [the](/en/post/the/) meetings [for](/en/post/for/) [next](/en/post/next/) [month](/en/post/month/)."
+2. [To](/en/post/to/) [indicate](/en/post/indicate/) [or](/en/post/or/) [record](/en/post/record/) [the](/en/post/the/) [occurrence](/en/post/occurrence/) [of](/en/post/of/) an [event](/en/post/event/) [on](/en/post/on/) [a](/en/post/a/) [calendar](/en/post/calendar/): "I'll [calendar](/en/post/calendar/) [the](/en/post/the/) [birthday](/en/post/birthday/) [party](/en/post/party/) [on](/en/post/on/) [the](/en/post/the/) [family](/en/post/family/) [calendar](/en/post/calendar/)."
 
 ## Phrases
-- "Keep a calendar" means to maintain a record of important dates.
-- "Public holidays are on the calendar" refers to official days off.
-- "Calendar view" is a display format showing events by date.
+- "[Keep](/en/post/keep/) [a](/en/post/a/) [calendar](/en/post/calendar/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [record](/en/post/record/) [of](/en/post/of/) [important](/en/post/important/) dates.
+- "[Public](/en/post/public/) holidays are [on](/en/post/on/) [the](/en/post/the/) [calendar](/en/post/calendar/)" refers [to](/en/post/to/) [official](/en/post/official/) days [off](/en/post/off/).
+- "[Calendar](/en/post/calendar/) [view](/en/post/view/)" is [a](/en/post/a/) [display](/en/post/display/) format showing events [by](/en/post/by/) [date](/en/post/date/).
 
-## Example Sentences
-- **Noun**: "I hung up the new wall calendar with all our family events."
-- **Verb**: "We need to calendar the team's training sessions for the next quarter."
-- **Phrasal verb**: "She checked her digital calendar to confirm the meeting time."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "I hung [up](/en/post/up/) [the](/en/post/the/) [new](/en/post/new/) [wall](/en/post/wall/) [calendar](/en/post/calendar/) [with](/en/post/with/) [all](/en/post/all/) [our](/en/post/our/) [family](/en/post/family/) events."
+- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [calendar](/en/post/calendar/) [the](/en/post/the/) team's [training](/en/post/training/) sessions [for](/en/post/for/) [the](/en/post/the/) [next](/en/post/next/) [quarter](/en/post/quarter/)."
+- **Phrasal [verb](/en/post/verb/)**: "[She](/en/post/she/) checked [her](/en/post/her/) [digital](/en/post/digital/) [calendar](/en/post/calendar/) [to](/en/post/to/) [confirm](/en/post/confirm/) [the](/en/post/the/) [meeting](/en/post/meeting/) [time](/en/post/time/)."
 
 ## Synonyms
-- Schedule
+- [Schedule](/en/post/schedule/)
 - Planner
 - Agenda
-- Calendar system
-- Appointment book
+- [Calendar](/en/post/calendar/) [system](/en/post/system/)
+- [Appointment](/en/post/appointment/) [book](/en/post/book/)
 - Timekeeper
 
 ## Antonyms

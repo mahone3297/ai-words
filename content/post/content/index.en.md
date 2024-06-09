@@ -7,37 +7,37 @@ description = '[kənˈtent] a.满意的，满足的'
 keywords = ['ai words', 'content']
 +++
 
-## Pronunciation
-/content/
+## [Pronunciation](/en/post/pronunciation/)
+/[content](/en/post/content/)/
 
 ## Definitions
-### Noun
-A noun referring to the substance, matter, or information that constitutes the main part or subject of something, often expressed as ideas, topics, or themes. **Example:** The website's content was engaging and informative.
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [substance](/en/post/substance/), [matter](/en/post/matter/), [or](/en/post/or/) [information](/en/post/information/) [that](/en/post/that/) constitutes [the](/en/post/the/) [main](/en/post/main/) [part](/en/post/part/) [or](/en/post/or/) [subject](/en/post/subject/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) expressed [as](/en/post/as/) ideas, topics, [or](/en/post/or/) themes. **[Example](/en/post/example/):** [The](/en/post/the/) website's [content](/en/post/content/) was engaging [and](/en/post/and/) informative.
 
-### Verb
-To fill, supply, or present with substantial material or matter; to constitute the core or essence of something. **Example:** The course content will cover various aspects of history.
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) [fill](/en/post/fill/), [supply](/en/post/supply/), [or](/en/post/or/) [present](/en/post/present/) [with](/en/post/with/) [substantial](/en/post/substantial/) [material](/en/post/material/) [or](/en/post/or/) [matter](/en/post/matter/); [to](/en/post/to/) constitute [the](/en/post/the/) [core](/en/post/core/) [or](/en/post/or/) essence [of](/en/post/of/) [something](/en/post/something/). **[Example](/en/post/example/):** [The](/en/post/the/) [course](/en/post/course/) [content](/en/post/content/) [will](/en/post/will/) [cover](/en/post/cover/) [various](/en/post/various/) aspects [of](/en/post/of/) [history](/en/post/history/).
 
-### Adjective
-Characterizing or consisting of the matter or substance of something; significant or substantial. **Example:** The book's content is well-researched.
+### [Adjective](/en/post/adjective/)
+Characterizing [or](/en/post/or/) consisting [of](/en/post/of/) [the](/en/post/the/) [matter](/en/post/matter/) [or](/en/post/or/) [substance](/en/post/substance/) [of](/en/post/of/) [something](/en/post/something/); [significant](/en/post/significant/) [or](/en/post/or/) [substantial](/en/post/substantial/). **[Example](/en/post/example/):** [The](/en/post/the/) book's [content](/en/post/content/) is well-researched.
 
 ## Phrases
-- "Content marketing" refers to the strategy of creating and sharing valuable online material to attract and retain a clearly defined audience.
-- "Content creator" is someone who produces and shares original content, such as videos or blog posts.
-- "On-demand content" is available for immediate viewing or access when requested.
+- "[Content](/en/post/content/) marketing" refers [to](/en/post/to/) [the](/en/post/the/) [strategy](/en/post/strategy/) [of](/en/post/of/) creating [and](/en/post/and/) sharing [valuable](/en/post/valuable/) online [material](/en/post/material/) [to](/en/post/to/) [attract](/en/post/attract/) [and](/en/post/and/) [retain](/en/post/retain/) [a](/en/post/a/) [clearly](/en/post/clearly/) defined [audience](/en/post/audience/).
+- "[Content](/en/post/content/) creator" is [someone](/en/post/someone/) [who](/en/post/who/) produces [and](/en/post/and/) shares [original](/en/post/original/) [content](/en/post/content/), [such](/en/post/such/) [as](/en/post/as/) videos [or](/en/post/or/) blog posts.
+- "On-demand [content](/en/post/content/)" is [available](/en/post/available/) [for](/en/post/for/) [immediate](/en/post/immediate/) viewing [or](/en/post/or/) [access](/en/post/access/) [when](/en/post/when/) requested.
 
-## Example Sentences
-- **Noun**: The e-book's content was divided into several chapters.
-- **Verb**: She curated the podcast's content to appeal to a wide audience.
-- **Adjective**: The high-quality content attracted many subscribers.
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) e-book's [content](/en/post/content/) was divided [into](/en/post/into/) [several](/en/post/several/) chapters.
+- **[Verb](/en/post/verb/)**: [She](/en/post/she/) curated [the](/en/post/the/) podcast's [content](/en/post/content/) [to](/en/post/to/) [appeal](/en/post/appeal/) [to](/en/post/to/) [a](/en/post/a/) [wide](/en/post/wide/) [audience](/en/post/audience/).
+- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) high-quality [content](/en/post/content/) attracted [many](/en/post/many/) subscribers.
 
 ## Synonyms
-- Material
-- Subject matter
-- Substance
-- Core content
+- [Material](/en/post/material/)
+- [Subject](/en/post/subject/) [matter](/en/post/matter/)
+- [Substance](/en/post/substance/)
+- [Core](/en/post/core/) [content](/en/post/content/)
 - Essence
 - Payload
-- Message
-- Information
-- Data
-- Stuff
+- [Message](/en/post/message/)
+- [Information](/en/post/information/)
+- [Data](/en/post/data/)
+- [Stuff](/en/post/stuff/)

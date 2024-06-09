@@ -11,20 +11,20 @@ keywords = ['ai words', 'minority']
 /ˈmɪnərəti/
 
 ## 释义
-- **名词**: 少数，少数派，少数民族。例如: "The minority group has the right to express their opinions."
-- **名词**: 不占优势的一方。例如: "In this election, the minority party won only a few seats."
+- **名词**: 少数，少数派，少数民族。例如: "[The](/post/the/) [minority](/post/minority/) [group](/post/group/) has [the](/post/the/) [right](/post/right/) [to](/post/to/) [express](/post/express/) [their](/post/their/) opinions."
+- **名词**: 不占优势的一方。例如: "[In](/post/in/) [this](/post/this/) [election](/post/election/), [the](/post/the/) [minority](/post/minority/) [party](/post/party/) won [only](/post/only/) [a](/post/a/) [few](/post/few/) seats."
 
 ## 短语
-- "Minority rights" 意指少数群体的权利。
-- "Ethnic minority" 指的是某一地区的非主要族群。
+- "[Minority](/post/minority/) rights" 意指少数群体的权利。
+- "Ethnic [minority](/post/minority/)" 指的是某一地区的非主要族群。
 
 ## 例句
-- 名词: "The government is working on policies to improve the living conditions of ethnic minorities."
-- 名词: "In the Senate, the minority leader opposes the majority's bill."
+- 名词: "[The](/post/the/) [government](/post/government/) is working [on](/post/on/) policies [to](/post/to/) [improve](/post/improve/) [the](/post/the/) [living](/post/living/) conditions [of](/post/of/) ethnic minorities."
+- 名词: "[In](/post/in/) [the](/post/the/) [Senate](/post/senate/), [the](/post/the/) [minority](/post/minority/) [leader](/post/leader/) opposes [the](/post/the/) majority's [bill](/post/bill/)."
 
 ## 同义词
-- Smaller number
-- Lesser part
-- Minority group
-- Disadvantaged group
-- Underrepresented group
+- Smaller [number](/post/number/)
+- Lesser [part](/post/part/)
+- [Minority](/post/minority/) [group](/post/group/)
+- Disadvantaged [group](/post/group/)
+- Underrepresented [group](/post/group/)

@@ -12,25 +12,25 @@ keywords = ['ai words', 'glory']
 
 ## 释义
 - **名词**:
-    - 荣誉；光荣：The soldiers fought for the glory of their country.
-    - 壮丽，辉煌：The sunset was a glorious display of colors.
-    - （常复数）崇拜的对象，神灵：They bowed down before the statues in glory.
+    - 荣誉；光荣：[The](/post/the/) soldiers fought [for](/post/for/) [the](/post/the/) [glory](/post/glory/) [of](/post/of/) [their](/post/their/) [country](/post/country/).
+    - 壮丽，辉煌：[The](/post/the/) [sunset](/post/sunset/) was [a](/post/a/) [glorious](/post/glorious/) [display](/post/display/) [of](/post/of/) colors.
+    - （常复数）崇拜的对象，神灵：[They](/post/they/) bowed [down](/post/down/) [before](/post/before/) [the](/post/the/) statues [in](/post/in/) [glory](/post/glory/).
 
 - **动词**:
-    - 以...为荣，引以为豪：She glories in her children's achievements.
-    - 颂扬，赞美：The poet gloried the beauty of nature.
+    - 以...为荣，引以为豪：[She](/post/she/) glories [in](/post/in/) [her](/post/her/) children's achievements.
+    - 颂扬，赞美：[The](/post/the/) [poet](/post/poet/) gloried [the](/post/the/) [beauty](/post/beauty/) [of](/post/of/) [nature](/post/nature/).
 
 ## 短语
-- "in the glory of" 在...的辉煌中：We were there in the glory of spring.
-- "to glory in something" 为...感到自豪：She glories in her newfound independence.
+- "[in](/post/in/) [the](/post/the/) [glory](/post/glory/) [of](/post/of/)" 在...的辉煌中：[We](/post/we/) were [there](/post/there/) [in](/post/in/) [the](/post/the/) [glory](/post/glory/) [of](/post/of/) [spring](/post/spring/).
+- "[to](/post/to/) [glory](/post/glory/) [in](/post/in/) [something](/post/something/)" 为...感到自豪：[She](/post/she/) glories [in](/post/in/) [her](/post/her/) newfound [independence](/post/independence/).
 
 ## 例句
-- 名词: "He received a medal for his bravery, basking in the glory of his accomplishment."
-- 动词: "She glories in her ability to solve complex problems."
+- 名词: "[He](/post/he/) received [a](/post/a/) [medal](/post/medal/) [for](/post/for/) [his](/post/his/) bravery, basking [in](/post/in/) [the](/post/the/) [glory](/post/glory/) [of](/post/of/) [his](/post/his/) accomplishment."
+- 动词: "[She](/post/she/) glories [in](/post/in/) [her](/post/her/) [ability](/post/ability/) [to](/post/to/) [solve](/post/solve/) [complex](/post/complex/) problems."
 
 ## 同义词
 - Honor
-- Fame
+- [Fame](/post/fame/)
 - Renown
 - Esteem
 - Splendor

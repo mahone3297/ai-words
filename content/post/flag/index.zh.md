@@ -12,27 +12,27 @@ keywords = ['ai words', 'flag']
 
 ## 释义
 - **名词**:
-  - 国旗：国家的象征，通常由特定的颜色和图案组成。例如: "The American flag has stars and stripes."
-  - 旗帜：任何类型的标志，用于标识、装饰或传达信息。例如: "The pirate ship flew a black flag with a skull and crossbones."
-  - 标志；信号：一种视觉指示，用于传达某种信息或引起注意。例如: "Drivers should raise a red flag if they notice any unusual vehicle issues."
+  - 国旗：国家的象征，通常由特定的颜色和图案组成。例如: "[The](/post/the/) [American](/post/american/) [flag](/post/flag/) has stars [and](/post/and/) stripes."
+  - 旗帜：任何类型的标志，用于标识、装饰或传达信息。例如: "[The](/post/the/) pirate [ship](/post/ship/) flew [a](/post/a/) [black](/post/black/) [flag](/post/flag/) [with](/post/with/) [a](/post/a/) skull [and](/post/and/) crossbones."
+  - 标志；信号：一种视觉指示，用于传达某种信息或引起注意。例如: "Drivers [should](/post/should/) [raise](/post/raise/) [a](/post/a/) [red](/post/red/) [flag](/post/flag/) [if](/post/if/) [they](/post/they/) [notice](/post/notice/) [any](/post/any/) [unusual](/post/unusual/) [vehicle](/post/vehicle/) issues."
 
 - **动词**:
-  - 标记；标记出：指出或高亮显示某事物以引起注意。例如: "The teacher flagged several errors in the student's essay."
-  - 警告；发出警告信号：表明存在潜在问题或危险。例如: "The doctor flagged the possibility of complications from the surgery."
+  - 标记；标记出：指出或高亮显示某事物以引起注意。例如: "[The](/post/the/) [teacher](/post/teacher/) flagged [several](/post/several/) errors [in](/post/in/) [the](/post/the/) student's [essay](/post/essay/)."
+  - 警告；发出警告信号：表明存在潜在问题或危险。例如: "[The](/post/the/) [doctor](/post/doctor/) flagged [the](/post/the/) [possibility](/post/possibility/) [of](/post/of/) complications [from](/post/from/) [the](/post/the/) [surgery](/post/surgery/)."
 
 ## 短语
-- "Wave a flag" 意为挥舞旗帜。
-- "Flag down" 用于表示挥手让车辆或船只停下。
-- "To flag someone's attention" 是吸引某人注意的意思。
+- "[Wave](/post/wave/) [a](/post/a/) [flag](/post/flag/)" 意为挥舞旗帜。
+- "[Flag](/post/flag/) [down](/post/down/)" 用于表示挥手让车辆或船只停下。
+- "[To](/post/to/) [flag](/post/flag/) someone's [attention](/post/attention/)" 是吸引某人注意的意思。
 
 ## 例句
-- 名词: "The athletes marched proudly behind their country's flag."
-- 动词: "He flagged down a taxi on the busy street."
-- 标志： "A yellow flag indicates caution on the racetrack."
+- 名词: "[The](/post/the/) athletes marched proudly [behind](/post/behind/) [their](/post/their/) country's [flag](/post/flag/)."
+- 动词: "[He](/post/he/) flagged [down](/post/down/) [a](/post/a/) [taxi](/post/taxi/) [on](/post/on/) [the](/post/the/) [busy](/post/busy/) [street](/post/street/)."
+- 标志： "[A](/post/a/) [yellow](/post/yellow/) [flag](/post/flag/) indicates caution [on](/post/on/) [the](/post/the/) racetrack."
 
 ## 同义词
-- Banner
+- [Banner](/post/banner/)
 - Emblem
-- Signal
+- [Signal](/post/signal/)
 - Marker
-- Standard
+- [Standard](/post/standard/)

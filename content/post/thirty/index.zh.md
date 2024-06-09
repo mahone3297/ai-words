@@ -11,16 +11,16 @@ keywords = ['ai words', 'thirty']
 /ˈθɜːrti/
 
 ## 释义
-- **数词**: 表示数字30。例如: "I turned thirty last month."
+- **数词**: 表示数字30。例如: "I turned [thirty](/post/thirty/) [last](/post/last/) [month](/post/month/)."
 
 ## 短语
-- "Thirty years old" 指的是30岁的人。
-- "Thirty days hath September" 是一首帮助记忆月份天数的诗。
+- "[Thirty](/post/thirty/) years [old](/post/old/)" 指的是30岁的人。
+- "[Thirty](/post/thirty/) days hath September" 是一首帮助记忆月份天数的诗。
 
 ## 例句
-- "She was thrilled to have reached her thirties, feeling more confident than ever."
-- "There are thirty students in our class."
+- "[She](/post/she/) was thrilled [to](/post/to/) [have](/post/have/) reached [her](/post/her/) thirties, [feeling](/post/feeling/) [more](/post/more/) [confident](/post/confident/) [than](/post/than/) [ever](/post/ever/)."
+- "[There](/post/there/) are [thirty](/post/thirty/) students [in](/post/in/) [our](/post/our/) [class](/post/class/)."
 
 ## 同义词
-- Thirty can be represented by "XXX" in Roman numerals.
-- "Three decades" also refers to a period of 30 years.
+- [Thirty](/post/thirty/) [can](/post/can/) [be](/post/be/) represented [by](/post/by/) "XXX" [in](/post/in/) Roman numerals.
+- "[Three](/post/three/) decades" [also](/post/also/) refers [to](/post/to/) [a](/post/a/) [period](/post/period/) [of](/post/of/) 30 years.

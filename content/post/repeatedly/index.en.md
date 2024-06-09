@@ -7,33 +7,33 @@ description = '[riˈpiːtidli] ad.重复地；一再'
 keywords = ['ai words', 'repeatedly']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /reɪˈpiːtədli/
 
 ## Definitions
-- **Adverb**: In a repeated or continuous manner; continually. For example: "She sang the song repeatedly."
-- **Adjective**: Occurring or done again and again; frequent. For example: "The instructions were repeatedly unclear."
+- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) repeated [or](/en/post/or/) [continuous](/en/post/continuous/) [manner](/en/post/manner/); continually. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sang [the](/en/post/the/) [song](/en/post/song/) [repeatedly](/en/post/repeatedly/)."
+- **[Adjective](/en/post/adjective/)**: Occurring [or](/en/post/or/) done [again](/en/post/again/) [and](/en/post/and/) [again](/en/post/again/); [frequent](/en/post/frequent/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) instructions were [repeatedly](/en/post/repeatedly/) unclear."
 
 ## Phrases
-- "Repeatedly performed" indicates something that happens many times.
-- "Repeating a task" refers to doing it over and over.
-- "Repeat after me" is a phrase used for teaching or training.
+- "[Repeatedly](/en/post/repeatedly/) performed" indicates [something](/en/post/something/) [that](/en/post/that/) happens [many](/en/post/many/) times.
+- "Repeating [a](/en/post/a/) [task](/en/post/task/)" refers [to](/en/post/to/) doing [it](/en/post/it/) [over](/en/post/over/) [and](/en/post/and/) [over](/en/post/over/).
+- "[Repeat](/en/post/repeat/) [after](/en/post/after/) [me](/en/post/me/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) [used](/en/post/used/) [for](/en/post/for/) [teaching](/en/post/teaching/) [or](/en/post/or/) [training](/en/post/training/).
 
-## Example Sentences
-- **Adverb**: "He knocked on the door repeatedly before giving up and leaving."
-- **Adjective**: "The teacher's explanations were repeatedly praised by the students."
-- **Noun**: "The habit of repeating oneself can be frustrating."
+## [Example](/en/post/example/) Sentences
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) knocked [on](/en/post/on/) [the](/en/post/the/) [door](/en/post/door/) [repeatedly](/en/post/repeatedly/) [before](/en/post/before/) giving [up](/en/post/up/) [and](/en/post/and/) leaving."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) teacher's explanations were [repeatedly](/en/post/repeatedly/) praised [by](/en/post/by/) [the](/en/post/the/) students."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [habit](/en/post/habit/) [of](/en/post/of/) repeating [oneself](/en/post/oneself/) [can](/en/post/can/) [be](/en/post/be/) frustrating."
 
 ## Synonyms
-- Frequently
-- Often
-- Regularly
+- [Frequently](/en/post/frequently/)
+- [Often](/en/post/often/)
+- [Regularly](/en/post/regularly/)
 - Habitually
 - Consistently
 
 ## Antonyms
 - Infrequently
-- Occasionally
-- Seldom
-- Once
+- [Occasionally](/en/post/occasionally/)
+- [Seldom](/en/post/seldom/)
+- [Once](/en/post/once/)
 - Unrepeatedly

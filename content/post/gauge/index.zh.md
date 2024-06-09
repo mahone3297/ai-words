@@ -12,26 +12,26 @@ keywords = ['ai words', 'gauge']
 
 ## 释义
 - **名词**:
-  - 测量工具；计量器：A device for measuring, especially the size or quantity of something.
-  - 标准；规范；准则：A standard by which something is measured or judged.
-  - 阶梯；级差；深度：A step or level; a depth in a well or other excavation.
+  - 测量工具；计量器：[A](/post/a/) [device](/post/device/) [for](/post/for/) measuring, [especially](/post/especially/) [the](/post/the/) [size](/post/size/) [or](/post/or/) [quantity](/post/quantity/) [of](/post/of/) [something](/post/something/).
+  - 标准；规范；准则：[A](/post/a/) [standard](/post/standard/) [by](/post/by/) [which](/post/which/) [something](/post/something/) is measured [or](/post/or/) judged.
+  - 阶梯；级差；深度：[A](/post/a/) [step](/post/step/) [or](/post/or/) [level](/post/level/); [a](/post/a/) [depth](/post/depth/) [in](/post/in/) [a](/post/a/) [well](/post/well/) [or](/post/or/) [other](/post/other/) excavation.
 
 - **动词**:
-  - 测量；估量：To measure or estimate the size, amount, or degree of something.
+  - 测量；估量：[To](/post/to/) [measure](/post/measure/) [or](/post/or/) [estimate](/post/estimate/) [the](/post/the/) [size](/post/size/), [amount](/post/amount/), [or](/post/or/) [degree](/post/degree/) [of](/post/of/) [something](/post/something/).
 
 ## 短语
-- "gauge the temperature" 测量温度
-- "gauge public opinion" 了解公众意见
-- "pressure gauge" 压力表
+- "[gauge](/post/gauge/) [the](/post/the/) [temperature](/post/temperature/)" 测量温度
+- "[gauge](/post/gauge/) [public](/post/public/) [opinion](/post/opinion/)" 了解公众意见
+- "[pressure](/post/pressure/) [gauge](/post/gauge/)" 压力表
 
 ## 例句
-- 名词: "The plumber used a gauge to check the water pressure."
-- 动词: "They tried to gauge the distance to the mountain peak."
-- "The instrument gauge showed the engine was running smoothly."
+- 名词: "[The](/post/the/) plumber [used](/post/used/) [a](/post/a/) [gauge](/post/gauge/) [to](/post/to/) [check](/post/check/) [the](/post/the/) [water](/post/water/) [pressure](/post/pressure/)."
+- 动词: "[They](/post/they/) tried [to](/post/to/) [gauge](/post/gauge/) [the](/post/the/) [distance](/post/distance/) [to](/post/to/) [the](/post/the/) [mountain](/post/mountain/) [peak](/post/peak/)."
+- "[The](/post/the/) [instrument](/post/instrument/) [gauge](/post/gauge/) showed [the](/post/the/) [engine](/post/engine/) was running [smoothly](/post/smoothly/)."
 
 ## 同义词
-- measure
-- assess
-- evaluate
-- estimate
-- judge
+- [measure](/post/measure/)
+- [assess](/post/assess/)
+- [evaluate](/post/evaluate/)
+- [estimate](/post/estimate/)
+- [judge](/post/judge/)

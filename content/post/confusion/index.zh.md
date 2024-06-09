@@ -11,19 +11,19 @@ keywords = ['ai words', 'confusion']
 /confjuːˈzɪʃ(ə)n/
 
 ## 释义
-- **名词**: 混乱；混淆；困惑。例如: "There was complete confusion after the explosion."
-- **形容词**: 混乱的；混淆的。例如: "She was in a state of confusion about what to do next."
+- **名词**: 混乱；混淆；困惑。例如: "[There](/post/there/) was [complete](/post/complete/) [confusion](/post/confusion/) [after](/post/after/) [the](/post/the/) [explosion](/post/explosion/)."
+- **形容词**: 混乱的；混淆的。例如: "[She](/post/she/) was [in](/post/in/) [a](/post/a/) [state](/post/state/) [of](/post/of/) [confusion](/post/confusion/) [about](/post/about/) [what](/post/what/) [to](/post/to/) [do](/post/do/) [next](/post/next/)."
 
 ## 短语
-- "in confusion" 表示处于混乱状态。
-- "to clear up the confusion" 意为消除困惑。
+- "[in](/post/in/) [confusion](/post/confusion/)" 表示处于混乱状态。
+- "[to](/post/to/) [clear](/post/clear/) [up](/post/up/) [the](/post/the/) [confusion](/post/confusion/)" 意为消除困惑。
 
 ## 例句
-- 名词: "The crowd was in confusion when the fire alarm went off."
-- 形容词: "His thoughts were in such confusion that he couldn't make a decision."
+- 名词: "[The](/post/the/) [crowd](/post/crowd/) was [in](/post/in/) [confusion](/post/confusion/) [when](/post/when/) [the](/post/the/) [fire](/post/fire/) [alarm](/post/alarm/) went [off](/post/off/)."
+- 形容词: "[His](/post/his/) thoughts were [in](/post/in/) [such](/post/such/) [confusion](/post/confusion/) [that](/post/that/) [he](/post/he/) couldn't [make](/post/make/) [a](/post/a/) [decision](/post/decision/)."
 
 ## 同义词
-- Disorder
+- [Disorder](/post/disorder/)
 - Bafflement
 - Perplexity
 - Bewilderment

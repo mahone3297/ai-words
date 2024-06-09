@@ -11,20 +11,20 @@ keywords = ['ai words', 'meaning']
 /meɪnɪŋ/
 
 ## 释义
-- **名词**: 事物的含义，意图，重要性或价值。例如: "The true meaning of life is a philosophical question." 
-- **动词**: （使）具有意义，解释。例如: "The poem can be meaningfully interpreted in different ways."
+- **名词**: 事物的含义，意图，重要性或价值。例如: "[The](/post/the/) [true](/post/true/) [meaning](/post/meaning/) [of](/post/of/) [life](/post/life/) is [a](/post/a/) philosophical [question](/post/question/)." 
+- **动词**: （使）具有意义，解释。例如: "[The](/post/the/) [poem](/post/poem/) [can](/post/can/) [be](/post/be/) meaningfully interpreted [in](/post/in/) [different](/post/different/) ways."
 
 ## 短语
-- "To give meaning to something" 意味着为某事赋予意义或解释。
-- "Lose its meaning" 指某事物失去原有的意义或变得无足轻重。
+- "[To](/post/to/) [give](/post/give/) [meaning](/post/meaning/) [to](/post/to/) [something](/post/something/)" 意味着为某事赋予意义或解释。
+- "[Lose](/post/lose/) [its](/post/its/) [meaning](/post/meaning/)" 指某事物失去原有的意义或变得无足轻重。
 
 ## 例句
-- 名词: "The artist's work explores the deeper meanings behind everyday objects."
-- 动词: "The teacher asked us to meaning the text beyond its literal interpretation."
+- 名词: "[The](/post/the/) artist's [work](/post/work/) explores [the](/post/the/) deeper meanings [behind](/post/behind/) [everyday](/post/everyday/) objects."
+- 动词: "[The](/post/the/) [teacher](/post/teacher/) asked [us](/post/us/) [to](/post/to/) [meaning](/post/meaning/) [the](/post/the/) [text](/post/text/) [beyond](/post/beyond/) [its](/post/its/) literal [interpretation](/post/interpretation/)."
 
 ## 同义词
-- Significance
-- Interpretation
+- [Significance](/post/significance/)
+- [Interpretation](/post/interpretation/)
 - Connotation
-- Sense
+- [Sense](/post/sense/)
 - Purport

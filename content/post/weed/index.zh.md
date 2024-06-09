@@ -11,24 +11,24 @@ keywords = ['ai words', 'weed']
 /wiːd/
 
 ## 释义
-- **名词 (n)**: 一种野生植物，通常指在不需要的地方生长的草本植物，可能是杂草。例如: "I spent the afternoon weeding the garden."
-- **动词 (v)**: 移除或清除不需要的植物，尤其是杂草。例如: "She was busy weeding out the unwanted plants in her vegetable patch."
+- **名词 (n)**: 一种野生植物，通常指在不需要的地方生长的草本植物，可能是杂草。例如: "I spent [the](/post/the/) [afternoon](/post/afternoon/) weeding [the](/post/the/) [garden](/post/garden/)."
+- **动词 (v)**: 移除或清除不需要的植物，尤其是杂草。例如: "[She](/post/she/) was [busy](/post/busy/) weeding [out](/post/out/) [the](/post/the/) unwanted plants [in](/post/in/) [her](/post/her/) [vegetable](/post/vegetable/) [patch](/post/patch/)."
 
 ## 短语
-- "weed out" 意味着去除不想要的东西，如在园艺中移除杂草，或在群体中淘汰不合适的人或事物。例如: "The teacher had to weed out the students who weren't committed to the program."
-- "weed-infested" 描述充满杂草的区域。例如: "The once-beautiful lawn was now weed-infested."
+- "[weed](/post/weed/) [out](/post/out/)" 意味着去除不想要的东西，如在园艺中移除杂草，或在群体中淘汰不合适的人或事物。例如: "[The](/post/the/) [teacher](/post/teacher/) had [to](/post/to/) [weed](/post/weed/) [out](/post/out/) [the](/post/the/) students [who](/post/who/) weren't committed [to](/post/to/) [the](/post/the/) [program](/post/program/)."
+- "weed-infested" 描述充满杂草的区域。例如: "[The](/post/the/) once-beautiful [lawn](/post/lawn/) was [now](/post/now/) weed-infested."
 
 ## 例句
-- 名词: "The gardener was annoyed by the persistent weeds growing between the paving stones."
-- 动词: "I need to weed the garden before the flowers get choked."
+- 名词: "[The](/post/the/) [gardener](/post/gardener/) was annoyed [by](/post/by/) [the](/post/the/) persistent weeds growing [between](/post/between/) [the](/post/the/) paving stones."
+- 动词: "I [need](/post/need/) [to](/post/to/) [weed](/post/weed/) [the](/post/the/) [garden](/post/garden/) [before](/post/before/) [the](/post/the/) flowers [get](/post/get/) choked."
 
 ## 同义词
-- Noun:
-  - undesirable plant
-  - grass
-  - plant
-- Verb:
-  - pull up weeds
+- [Noun](/post/noun/):
+  - undesirable [plant](/post/plant/)
+  - [grass](/post/grass/)
+  - [plant](/post/plant/)
+- [Verb](/post/verb/):
+  - [pull](/post/pull/) [up](/post/up/) weeds
   - eradicate
-  - remove
-  - clear away
+  - [remove](/post/remove/)
+  - [clear](/post/clear/) [away](/post/away/)

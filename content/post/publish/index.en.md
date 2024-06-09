@@ -7,44 +7,44 @@ description = '[ˈpʌbli∫] vt.公布；发表；出版'
 keywords = ['ai words', 'publish']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /pəˈbliʃ/
 
 ## Definitions
-### Noun
-1. The act of making something available to the public, especially by printing or publishing a book, newspaper, or article.
-   - Example: "The author's latest novel was published last month."
-2. The right or privilege to print or distribute a work.
-   - Example: "She holds the copyright to her paintings, giving her the right to publish them."
+### [Noun](/en/post/noun/)
+1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) making [something](/en/post/something/) [available](/en/post/available/) [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/), [especially](/en/post/especially/) [by](/en/post/by/) printing [or](/en/post/or/) publishing [a](/en/post/a/) [book](/en/post/book/), [newspaper](/en/post/newspaper/), [or](/en/post/or/) [article](/en/post/article/).
+   - [Example](/en/post/example/): "[The](/en/post/the/) author's latest [novel](/en/post/novel/) was published [last](/en/post/last/) [month](/en/post/month/)."
+2. [The](/en/post/the/) [right](/en/post/right/) [or](/en/post/or/) [privilege](/en/post/privilege/) [to](/en/post/to/) [print](/en/post/print/) [or](/en/post/or/) [distribute](/en/post/distribute/) [a](/en/post/a/) [work](/en/post/work/).
+   - [Example](/en/post/example/): "[She](/en/post/she/) holds [the](/en/post/the/) copyright [to](/en/post/to/) [her](/en/post/her/) paintings, giving [her](/en/post/her/) [the](/en/post/the/) [right](/en/post/right/) [to](/en/post/to/) [publish](/en/post/publish/) [them](/en/post/them/)."
 
-### Verb
-1. To issue (a book, periodical, or other work) for general distribution or sale.
-   - Example: "The publisher decided to publish the new cookbook after positive reviews."
-2. To make content accessible or visible online.
-   - Example: "The company recently published their annual report on their website."
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [issue](/en/post/issue/) ([a](/en/post/a/) [book](/en/post/book/), periodical, [or](/en/post/or/) [other](/en/post/other/) [work](/en/post/work/)) [for](/en/post/for/) [general](/en/post/general/) [distribution](/en/post/distribution/) [or](/en/post/or/) [sale](/en/post/sale/).
+   - [Example](/en/post/example/): "[The](/en/post/the/) publisher decided [to](/en/post/to/) [publish](/en/post/publish/) [the](/en/post/the/) [new](/en/post/new/) cookbook [after](/en/post/after/) [positive](/en/post/positive/) reviews."
+2. [To](/en/post/to/) [make](/en/post/make/) [content](/en/post/content/) accessible [or](/en/post/or/) [visible](/en/post/visible/) online.
+   - [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) [recently](/en/post/recently/) published [their](/en/post/their/) [annual](/en/post/annual/) [report](/en/post/report/) [on](/en/post/on/) [their](/en/post/their/) website."
 
 ## Phrases
-- "Publish a book" means to release a written work for readers.
-- "Self-publish" refers to independently producing and distributing a work.
-- "Publishing house" is a company that specializes in bringing out books, journals, or other printed materials.
+- "[Publish](/en/post/publish/) [a](/en/post/a/) [book](/en/post/book/)" [means](/en/post/means/) [to](/en/post/to/) [release](/en/post/release/) [a](/en/post/a/) written [work](/en/post/work/) [for](/en/post/for/) readers.
+- "Self-publish" refers [to](/en/post/to/) independently producing [and](/en/post/and/) distributing [a](/en/post/a/) [work](/en/post/work/).
+- "Publishing [house](/en/post/house/)" is [a](/en/post/a/) [company](/en/post/company/) [that](/en/post/that/) specializes [in](/en/post/in/) bringing [out](/en/post/out/) books, journals, [or](/en/post/or/) [other](/en/post/other/) printed materials.
 
-## Example Sentences
-- **Noun**: "The author's debut novel was published with a prestigious publishing house."
-- **Verb**: "After writing the thesis, she submitted it to her university for publication."
-- **Verbal Usage**: "The blog post was published on the company's official website yesterday."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) author's debut [novel](/en/post/novel/) was published [with](/en/post/with/) [a](/en/post/a/) prestigious publishing [house](/en/post/house/)."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [writing](/en/post/writing/) [the](/en/post/the/) thesis, [she](/en/post/she/) submitted [it](/en/post/it/) [to](/en/post/to/) [her](/en/post/her/) [university](/en/post/university/) [for](/en/post/for/) [publication](/en/post/publication/)."
+- **Verbal [Usage](/en/post/usage/)**: "[The](/en/post/the/) blog [post](/en/post/post/) was published [on](/en/post/on/) [the](/en/post/the/) company's [official](/en/post/official/) website [yesterday](/en/post/yesterday/)."
 
 ## Synonyms
-- Issue
-- Release
-- Put out
-- Print
-- Distribute
-- Publish content
-- Release content
-- Release a product
+- [Issue](/en/post/issue/)
+- [Release](/en/post/release/)
+- [Put](/en/post/put/) [out](/en/post/out/)
+- [Print](/en/post/print/)
+- [Distribute](/en/post/distribute/)
+- [Publish](/en/post/publish/) [content](/en/post/content/)
+- [Release](/en/post/release/) [content](/en/post/content/)
+- [Release](/en/post/release/) [a](/en/post/a/) [product](/en/post/product/)
 
 ## Antonyms
-- Conceal
+- [Conceal](/en/post/conceal/)
 - Suppress
-- Withdraw
+- [Withdraw](/en/post/withdraw/)
 - Censor

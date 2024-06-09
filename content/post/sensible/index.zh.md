@@ -11,20 +11,20 @@ keywords = ['ai words', 'sensible']
 /ˈsɛnsəbl/
 
 ## 释义
-- **形容词**: 明智的，理智的，有道理的。例如: "It's sensible to wear a coat in cold weather."
-- **名词**: (罕用) 感觉，知觉。例如: "He has lost all his sensibles due to the illness."
+- **形容词**: 明智的，理智的，有道理的。例如: "It's [sensible](/post/sensible/) [to](/post/to/) [wear](/post/wear/) [a](/post/a/) [coat](/post/coat/) [in](/post/in/) [cold](/post/cold/) [weather](/post/weather/)."
+- **名词**: (罕用) 感觉，知觉。例如: "[He](/post/he/) has lost [all](/post/all/) [his](/post/his/) sensibles [due](/post/due/) [to](/post/to/) [the](/post/the/) [illness](/post/illness/)."
 
 ## 短语
-- "Act sensibly" 意味着要理智行事。
-- "A sensible decision" 指的是明智的决定。
+- "[Act](/post/act/) sensibly" 意味着要理智行事。
+- "[A](/post/a/) [sensible](/post/sensible/) [decision](/post/decision/)" 指的是明智的决定。
 
 ## 例句
-- 形容词: "She made a sensible choice by saving money for the future."
-- 名词: "His sensibles were heightened after drinking too much coffee."
+- 形容词: "[She](/post/she/) made [a](/post/a/) [sensible](/post/sensible/) [choice](/post/choice/) [by](/post/by/) [saving](/post/saving/) [money](/post/money/) [for](/post/for/) [the](/post/the/) [future](/post/future/)."
+- 名词: "[His](/post/his/) sensibles were heightened [after](/post/after/) drinking [too](/post/too/) [much](/post/much/) [coffee](/post/coffee/)."
 
 ## 同义词
-- Rational
-- Practical
-- Wise
-- Sound
+- [Rational](/post/rational/)
+- [Practical](/post/practical/)
+- [Wise](/post/wise/)
+- [Sound](/post/sound/)
 - Judicious

@@ -11,21 +11,21 @@ keywords = ['ai words', 'dose']
 /dəʊs/
 
 ## 释义
-- **名词** (n): 一次给药量；一剂；一份。例如: "She took her daily dose of vitamins."
-- **名词**: 适当量；适量。例如: "The right dose of humor can lighten any situation."
-- **动词** (v): 给予（药物）；施用量。例如: "The nurse will dose the patient with pain medication."
+- **名词** (n): 一次给药量；一剂；一份。例如: "[She](/post/she/) took [her](/post/her/) [daily](/post/daily/) [dose](/post/dose/) [of](/post/of/) vitamins."
+- **名词**: 适当量；适量。例如: "[The](/post/the/) [right](/post/right/) [dose](/post/dose/) [of](/post/of/) humor [can](/post/can/) [lighten](/post/lighten/) [any](/post/any/) [situation](/post/situation/)."
+- **动词** (v): 给予（药物）；施用量。例如: "[The](/post/the/) [nurse](/post/nurse/) [will](/post/will/) [dose](/post/dose/) [the](/post/the/) [patient](/post/patient/) [with](/post/with/) [pain](/post/pain/) medication."
 
 ## 短语
-- "dose of medicine" 意为药物剂量。
-- "double dose" 指加倍的剂量。
+- "[dose](/post/dose/) [of](/post/of/) [medicine](/post/medicine/)" 意为药物剂量。
+- "[double](/post/double/) [dose](/post/dose/)" 指加倍的剂量。
 
 ## 例句
-- 名词: "The doctor prescribed a high dose of antibiotics for the infection."
-- 动词: "He carefully dosed the medicine to ensure the puppy wouldn't overdose."
+- 名词: "[The](/post/the/) [doctor](/post/doctor/) prescribed [a](/post/a/) [high](/post/high/) [dose](/post/dose/) [of](/post/of/) antibiotics [for](/post/for/) [the](/post/the/) infection."
+- 动词: "[He](/post/he/) carefully dosed [the](/post/the/) [medicine](/post/medicine/) [to](/post/to/) [ensure](/post/ensure/) [the](/post/the/) puppy wouldn't overdose."
 
 ## 同义词
-- amount
-- quantity
+- [amount](/post/amount/)
+- [quantity](/post/quantity/)
 - serving
-- portion
-- shot (尤指药物或酒精的量)
+- [portion](/post/portion/)
+- [shot](/post/shot/) (尤指药物或酒精的量)

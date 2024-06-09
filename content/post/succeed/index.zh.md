@@ -11,20 +11,20 @@ keywords = ['ai words', 'succeed']
 /səkˈsiːd/
 
 ## 释义
-- **动词**: 成功；达到预期目标。例如: "With hard work, she succeeded in getting a scholarship."
-- **名词**: 成功；成就。例如: "His biggest succeed was starting his own business."
+- **动词**: 成功；达到预期目标。例如: "[With](/post/with/) [hard](/post/hard/) [work](/post/work/), [she](/post/she/) succeeded [in](/post/in/) getting [a](/post/a/) [scholarship](/post/scholarship/)."
+- **名词**: 成功；成就。例如: "[His](/post/his/) biggest [succeed](/post/succeed/) was starting [his](/post/his/) [own](/post/own/) [business](/post/business/)."
 
 ## 短语
-- "to succeed in something" 在某事上取得成功。
-- "succeed someone in a position" 接替某人的职位。
+- "[to](/post/to/) [succeed](/post/succeed/) [in](/post/in/) [something](/post/something/)" 在某事上取得成功。
+- "[succeed](/post/succeed/) [someone](/post/someone/) [in](/post/in/) [a](/post/a/) [position](/post/position/)" 接替某人的职位。
 
 ## 例句
-- 动词: "If you keep practicing, you'll succeed in learning this language."
-- 名词: "Her new project has been a great succeed."
+- 动词: "[If](/post/if/) [you](/post/you/) [keep](/post/keep/) practicing, you'll [succeed](/post/succeed/) [in](/post/in/) [learning](/post/learning/) [this](/post/this/) [language](/post/language/)."
+- 名词: "[Her](/post/her/) [new](/post/new/) [project](/post/project/) has been [a](/post/a/) [great](/post/great/) [succeed](/post/succeed/)."
 
 ## 同义词
-- achieve
-- accomplish
-- triumph
-- prevail
-- attain
+- [achieve](/post/achieve/)
+- [accomplish](/post/accomplish/)
+- [triumph](/post/triumph/)
+- [prevail](/post/prevail/)
+- [attain](/post/attain/)

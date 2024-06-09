@@ -7,31 +7,31 @@ description = '[ˈreinbəu] n.虹，彩虹'
 keywords = ['ai words', 'rainbow']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /rəʊˈbaɪn/
 
 ## Definitions
-- **Noun**: A large, multicolored arc formed in the sky after rain, with colors appearing in the order red, orange, yellow, green, blue, indigo, and violet. [Oxford](https://en.oxforddictionaries.com/definition/rainbow)
-- **Adjective**: Characteristic of a rainbow, especially having a bright, colorful appearance. [Merriam-Webster](https://www.merriam-webster.com/dictionary/rainbow)
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [large](/en/post/large/), multicolored arc formed [in](/en/post/in/) [the](/en/post/the/) [sky](/en/post/sky/) [after](/en/post/after/) [rain](/en/post/rain/), [with](/en/post/with/) colors appearing [in](/en/post/in/) [the](/en/post/the/) [order](/en/post/order/) [red](/en/post/red/), [orange](/en/post/orange/), [yellow](/en/post/yellow/), [green](/en/post/green/), [blue](/en/post/blue/), indigo, [and](/en/post/and/) [violet](/en/post/violet/). [Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[rainbow](/en/post/rainbow/))
+- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [rainbow](/en/post/rainbow/), [especially](/en/post/especially/) having [a](/en/post/a/) [bright](/en/post/bright/), colorful [appearance](/en/post/appearance/). [Merriam-Webster](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[rainbow](/en/post/rainbow/))
 
 ## Phrases
-- "A rainbow after the rain" signifies hope or a sign of better times after hardship.
-- "Rainbow connection" implies a shared sense of wonder or beauty between people.
-- "Rainbow flag" is a symbol representing diversity and LGBTQ+ rights.
+- "[A](/en/post/a/) [rainbow](/en/post/rainbow/) [after](/en/post/after/) [the](/en/post/the/) [rain](/en/post/rain/)" signifies [hope](/en/post/hope/) [or](/en/post/or/) [a](/en/post/a/) [sign](/en/post/sign/) [of](/en/post/of/) [better](/en/post/better/) times [after](/en/post/after/) [hardship](/en/post/hardship/).
+- "[Rainbow](/en/post/rainbow/) [connection](/en/post/connection/)" implies [a](/en/post/a/) shared [sense](/en/post/sense/) [of](/en/post/of/) [wonder](/en/post/wonder/) [or](/en/post/or/) [beauty](/en/post/beauty/) [between](/en/post/between/) [people](/en/post/people/).
+- "[Rainbow](/en/post/rainbow/) [flag](/en/post/flag/)" is [a](/en/post/a/) [symbol](/en/post/symbol/) representing diversity [and](/en/post/and/) LGBTQ+ rights.
 
-## Example Sentences
-- **Noun**: "The children were amazed by the vivid rainbow they saw in the sky after the storm."
-- **Adjective**: "The rainbow-colored flowers in the garden created a cheerful atmosphere."
-- "The artist painted a vibrant rainbow on the canvas, capturing the essence of nature's beauty."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were amazed [by](/en/post/by/) [the](/en/post/the/) [vivid](/en/post/vivid/) [rainbow](/en/post/rainbow/) [they](/en/post/they/) [saw](/en/post/saw/) [in](/en/post/in/) [the](/en/post/the/) [sky](/en/post/sky/) [after](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) rainbow-colored flowers [in](/en/post/in/) [the](/en/post/the/) [garden](/en/post/garden/) created [a](/en/post/a/) [cheerful](/en/post/cheerful/) [atmosphere](/en/post/atmosphere/)."
+- "[The](/en/post/the/) [artist](/en/post/artist/) painted [a](/en/post/a/) vibrant [rainbow](/en/post/rainbow/) [on](/en/post/on/) [the](/en/post/the/) [canvas](/en/post/canvas/), capturing [the](/en/post/the/) essence [of](/en/post/of/) nature's [beauty](/en/post/beauty/)."
 
 ## Synonyms
-- Arc of colors
+- Arc [of](/en/post/of/) colors
 - Spectrum
 -🌈 (emoji)
-- Bow of colors
-- Kaleidoscope of light
+- [Bow](/en/post/bow/) [of](/en/post/of/) colors
+- Kaleidoscope [of](/en/post/of/) [light](/en/post/light/)
 
 ## Antonyms
-- Gray skies
+- [Gray](/en/post/gray/) skies
 - Monochromatic
-- Dull colors
+- [Dull](/en/post/dull/) colors

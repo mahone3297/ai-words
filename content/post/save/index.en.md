@@ -7,42 +7,42 @@ description = '[seiv] vt.救；节省；储蓄'
 keywords = ['ai words', 'save']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /səˈveɪ/
 
 ## Definitions
-### Noun
-1. The act of preserving or securing something from harm, loss, or destruction. For example: "She saved the endangered species from extinction."
-2. Financial resources set aside for future use or emergencies. For example: "The family has a savings account for unexpected expenses."
-3. A recording or digital file that has been stored. For example: "I backed up my photos to save them on my computer."
+### [Noun](/en/post/noun/)
+1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) preserving [or](/en/post/or/) securing [something](/en/post/something/) [from](/en/post/from/) [harm](/en/post/harm/), [loss](/en/post/loss/), [or](/en/post/or/) [destruction](/en/post/destruction/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) saved [the](/en/post/the/) endangered species [from](/en/post/from/) extinction."
+2. [Financial](/en/post/financial/) resources [set](/en/post/set/) [aside](/en/post/aside/) [for](/en/post/for/) [future](/en/post/future/) [use](/en/post/use/) [or](/en/post/or/) emergencies. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [family](/en/post/family/) has [a](/en/post/a/) savings [account](/en/post/account/) [for](/en/post/for/) [unexpected](/en/post/unexpected/) expenses."
+3. [A](/en/post/a/) recording [or](/en/post/or/) [digital](/en/post/digital/) [file](/en/post/file/) [that](/en/post/that/) has been stored. [For](/en/post/for/) [example](/en/post/example/): "I backed [up](/en/post/up/) [my](/en/post/my/) photos [to](/en/post/to/) [save](/en/post/save/) [them](/en/post/them/) [on](/en/post/on/) [my](/en/post/my/) [computer](/en/post/computer/)."
 
-### Verb
-1. To keep or protect from harm, injury, or loss. For example: "He saved the drowning child from the river."
-2. To store or preserve something, often with the intention of using it later. For example: "She saved the old letters in a box."
-3. To transfer data from one place to another, typically for backup purposes. For example: "He saved his work before closing the program."
-4. (Computing) To stop the execution of a process or application. For example: "To close a tab, right-click and select 'Save' or 'Exit.'"
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [keep](/en/post/keep/) [or](/en/post/or/) [protect](/en/post/protect/) [from](/en/post/from/) [harm](/en/post/harm/), [injury](/en/post/injury/), [or](/en/post/or/) [loss](/en/post/loss/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) saved [the](/en/post/the/) drowning [child](/en/post/child/) [from](/en/post/from/) [the](/en/post/the/) [river](/en/post/river/)."
+2. [To](/en/post/to/) [store](/en/post/store/) [or](/en/post/or/) [preserve](/en/post/preserve/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) using [it](/en/post/it/) [later](/en/post/later/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) saved [the](/en/post/the/) [old](/en/post/old/) letters [in](/en/post/in/) [a](/en/post/a/) [box](/en/post/box/)."
+3. [To](/en/post/to/) [transfer](/en/post/transfer/) [data](/en/post/data/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/), typically [for](/en/post/for/) backup purposes. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) saved [his](/en/post/his/) [work](/en/post/work/) [before](/en/post/before/) closing [the](/en/post/the/) [program](/en/post/program/)."
+4. (Computing) [To](/en/post/to/) [stop](/en/post/stop/) [the](/en/post/the/) execution [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [application](/en/post/application/). [For](/en/post/for/) [example](/en/post/example/): "[To](/en/post/to/) [close](/en/post/close/) [a](/en/post/a/) tab, right-click [and](/en/post/and/) [select](/en/post/select/) '[Save](/en/post/save/)' [or](/en/post/or/) '[Exit](/en/post/exit/).'"
 
-### Adjective
-1. Suitable for keeping or preserving. For example: "A waterproof container is essential for saving food during a camping trip."
-2. Designed to economize or reduce waste. For example: "Energy-saving light bulbs are environmentally friendly."
+### [Adjective](/en/post/adjective/)
+1. [Suitable](/en/post/suitable/) [for](/en/post/for/) keeping [or](/en/post/or/) preserving. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [waterproof](/en/post/waterproof/) [container](/en/post/container/) is [essential](/en/post/essential/) [for](/en/post/for/) [saving](/en/post/saving/) [food](/en/post/food/) [during](/en/post/during/) [a](/en/post/a/) camping [trip](/en/post/trip/)."
+2. Designed [to](/en/post/to/) economize [or](/en/post/or/) [reduce](/en/post/reduce/) [waste](/en/post/waste/). [For](/en/post/for/) [example](/en/post/example/): "Energy-saving [light](/en/post/light/) bulbs are environmentally [friendly](/en/post/friendly/)."
 
 ## Phrases
-- "Save money" means to accumulate funds for future use.
-- "Save face" is to maintain one's dignity or reputation.
-- "Save the day" means to come to someone's rescue or solve a difficult situation.
+- "[Save](/en/post/save/) [money](/en/post/money/)" [means](/en/post/means/) [to](/en/post/to/) [accumulate](/en/post/accumulate/) funds [for](/en/post/for/) [future](/en/post/future/) [use](/en/post/use/).
+- "[Save](/en/post/save/) [face](/en/post/face/)" is [to](/en/post/to/) [maintain](/en/post/maintain/) one's dignity [or](/en/post/or/) [reputation](/en/post/reputation/).
+- "[Save](/en/post/save/) [the](/en/post/the/) [day](/en/post/day/)" [means](/en/post/means/) [to](/en/post/to/) [come](/en/post/come/) [to](/en/post/to/) someone's [rescue](/en/post/rescue/) [or](/en/post/or/) [solve](/en/post/solve/) [a](/en/post/a/) [difficult](/en/post/difficult/) [situation](/en/post/situation/).
 
-## Example Sentences
-- **Noun**: "She saved her retirement fund diligently every month."
-- **Verb**: "The doctor recommended taking antibiotics to save the patient's life."
-- **Adjective**: "The energy-saving light bulb lasted much longer than the traditional one."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) saved [her](/en/post/her/) retirement [fund](/en/post/fund/) diligently [every](/en/post/every/) [month](/en/post/month/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) recommended taking antibiotics [to](/en/post/to/) [save](/en/post/save/) [the](/en/post/the/) patient's [life](/en/post/life/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) energy-saving [light](/en/post/light/) [bulb](/en/post/bulb/) lasted [much](/en/post/much/) longer [than](/en/post/than/) [the](/en/post/the/) [traditional](/en/post/traditional/) [one](/en/post/one/)."
 
 ## Synonyms
-- Preserve
-- Protect
-- Maintain
-- Guard
-- Retain
-- Store
-- Accumulate
+- [Preserve](/en/post/preserve/)
+- [Protect](/en/post/protect/)
+- [Maintain](/en/post/maintain/)
+- [Guard](/en/post/guard/)
+- [Retain](/en/post/retain/)
+- [Store](/en/post/store/)
+- [Accumulate](/en/post/accumulate/)
 - Economize
 - Conserve

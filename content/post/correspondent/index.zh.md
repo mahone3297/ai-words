@@ -11,21 +11,21 @@ keywords = ['ai words', 'correspondent']
 /kəˈrɪənsənt/
 
 ## 释义
-- **名词**: 通讯员，记者。例如: "She worked as a foreign correspondent for a major news network."
-- **名词**: 相对应的人，通信伙伴。例如: "They maintained a correspondence with their penpals, who became their correspondents over time."
-- **形容词**: 相符合的，相应的。例如: "The correspondent account in the USA matches the company's records."
+- **名词**: 通讯员，记者。例如: "[She](/post/she/) worked [as](/post/as/) [a](/post/a/) [foreign](/post/foreign/) [correspondent](/post/correspondent/) [for](/post/for/) [a](/post/a/) [major](/post/major/) [news](/post/news/) [network](/post/network/)."
+- **名词**: 相对应的人，通信伙伴。例如: "[They](/post/they/) maintained [a](/post/a/) correspondence [with](/post/with/) [their](/post/their/) penpals, [who](/post/who/) became [their](/post/their/) correspondents [over](/post/over/) [time](/post/time/)."
+- **形容词**: 相符合的，相应的。例如: "[The](/post/the/) [correspondent](/post/correspondent/) [account](/post/account/) [in](/post/in/) [the](/post/the/) USA matches [the](/post/the/) company's records."
 
 ## 短语
-- "business correspondent" 商业记者或银行的代理
-- "correspondent banking" 代理银行业务
+- "[business](/post/business/) [correspondent](/post/correspondent/)" 商业记者或银行的代理
+- "[correspondent](/post/correspondent/) banking" 代理银行业务
 
 ## 例句
-- 名词: "The correspondent filed a report from the war zone."
-- 形容词: "The information provided by the correspondent office was not entirely correspondent with the facts on the ground."
+- 名词: "[The](/post/the/) [correspondent](/post/correspondent/) filed [a](/post/a/) [report](/post/report/) [from](/post/from/) [the](/post/the/) [war](/post/war/) [zone](/post/zone/)."
+- 形容词: "[The](/post/the/) [information](/post/information/) [provided](/post/provided/) [by](/post/by/) [the](/post/the/) [correspondent](/post/correspondent/) [office](/post/office/) was [not](/post/not/) entirely [correspondent](/post/correspondent/) [with](/post/with/) [the](/post/the/) facts [on](/post/on/) [the](/post/the/) [ground](/post/ground/)."
 
 ## 同义词
-- reporter
-- journalist
-- writer
+- [reporter](/post/reporter/)
+- [journalist](/post/journalist/)
+- [writer](/post/writer/)
 - communicator
-- equivalent
+- [equivalent](/post/equivalent/)

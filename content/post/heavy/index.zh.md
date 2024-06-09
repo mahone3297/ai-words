@@ -11,23 +11,23 @@ keywords = ['ai words', 'heavy']
 /hɛvi/
 
 ## 释义
-- **形容词**: 重的；重量大的。例如: "This box is too heavy for me to lift."
-- **副词**: 严重地；猛烈地。例如: "The rain was falling heavily."
-- **名词**: 重量级人物；重要人物。例如: "He's a heavy in the music industry."
+- **形容词**: 重的；重量大的。例如: "[This](/post/this/) [box](/post/box/) is [too](/post/too/) [heavy](/post/heavy/) [for](/post/for/) [me](/post/me/) [to](/post/to/) [lift](/post/lift/)."
+- **副词**: 严重地；猛烈地。例如: "[The](/post/the/) [rain](/post/rain/) was falling [heavily](/post/heavily/)."
+- **名词**: 重量级人物；重要人物。例如: "He's [a](/post/a/) [heavy](/post/heavy/) [in](/post/in/) [the](/post/the/) [music](/post/music/) [industry](/post/industry/)."
 
 ## 短语
-- "Heavy traffic" 指交通拥挤。
-- "Heavy smoker" 指烟瘾很大的人。
+- "[Heavy](/post/heavy/) [traffic](/post/traffic/)" 指交通拥挤。
+- "[Heavy](/post/heavy/) smoker" 指烟瘾很大的人。
 - "Heavy-handed" 形容手法粗暴或严厉。
 
 ## 例句
-- 形容词: "The luggage was so heavy that I needed help carrying it."
-- 副词: "The storm came in heavily, causing widespread flooding."
-- 名词: "He's a heavy in the boxing world, known for his powerful punches."
+- 形容词: "[The](/post/the/) [luggage](/post/luggage/) was [so](/post/so/) [heavy](/post/heavy/) [that](/post/that/) I needed [help](/post/help/) carrying [it](/post/it/)."
+- 副词: "[The](/post/the/) [storm](/post/storm/) came [in](/post/in/) [heavily](/post/heavily/), causing [widespread](/post/widespread/) flooding."
+- 名词: "He's [a](/post/a/) [heavy](/post/heavy/) [in](/post/in/) [the](/post/the/) boxing [world](/post/world/), known [for](/post/for/) [his](/post/his/) [powerful](/post/powerful/) punches."
 
 ## 同义词
 - Weighty
-- Severe
+- [Severe](/post/severe/)
 - Massive
 - ponderous
 - Burdensome

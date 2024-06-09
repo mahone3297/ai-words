@@ -11,20 +11,20 @@ keywords = ['ai words', 'successive']
 /ˈsʌksɪsɪv/
 
 ## 释义
-- **形容词**: 接连发生的；连续的；相继的。例如: "The successive victories boosted their morale."
-- **名词**: 连续的事物或人。例如: "The company's successive CEOs have all been women."
+- **形容词**: 接连发生的；连续的；相继的。例如: "[The](/post/the/) [successive](/post/successive/) victories boosted [their](/post/their/) morale."
+- **名词**: 连续的事物或人。例如: "[The](/post/the/) company's [successive](/post/successive/) CEOs [have](/post/have/) [all](/post/all/) been women."
 
 ## 短语
-- "successive failures" 连续的失败
-- "successive generations" 相继的几代人
+- "[successive](/post/successive/) failures" 连续的失败
+- "[successive](/post/successive/) generations" 相继的几代人
 
 ## 例句
-- 形容词: "The city experienced successive heatwaves throughout the summer."
-- 名词: "The team's successive wins made them the champions."
+- 形容词: "[The](/post/the/) [city](/post/city/) experienced [successive](/post/successive/) heatwaves [throughout](/post/throughout/) [the](/post/the/) [summer](/post/summer/)."
+- 名词: "[The](/post/the/) team's [successive](/post/successive/) wins made [them](/post/them/) [the](/post/the/) champions."
 
 ## 同义词
 - Consecutive
 - Sequential
-- Following
-- Continuous
+- [Following](/post/following/)
+- [Continuous](/post/continuous/)
 - Unbroken

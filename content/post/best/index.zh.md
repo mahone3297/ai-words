@@ -8,24 +8,24 @@ keywords = ['ai words', 'best']
 +++
 
 ## 读音
-/best/
+/[best](/post/best/)/
 
 ## 释义
 - **形容词**:
-  - 最好的，最高质量的，最优秀的。例如: "This is the best cake I've ever tasted."
-  - 最佳的，最合适的。例如: "She chose the best time to propose her idea."
+  - 最好的，最高质量的，最优秀的。例如: "[This](/post/this/) is [the](/post/the/) [best](/post/best/) [cake](/post/cake/) I've [ever](/post/ever/) tasted."
+  - 最佳的，最合适的。例如: "[She](/post/she/) chose [the](/post/the/) [best](/post/best/) [time](/post/time/) [to](/post/to/) [propose](/post/propose/) [her](/post/her/) [idea](/post/idea/)."
 
 ## 短语
-- "at one's best" 意为处于最佳状态或表现最好。例如: "He performs at his best when under pressure."
-- "the best of" 用于表示群体中最好的部分或人。例如: "The best of luck to you on your journey."
+- "[at](/post/at/) one's [best](/post/best/)" 意为处于最佳状态或表现最好。例如: "[He](/post/he/) performs [at](/post/at/) [his](/post/his/) [best](/post/best/) [when](/post/when/) [under](/post/under/) [pressure](/post/pressure/)."
+- "[the](/post/the/) [best](/post/best/) [of](/post/of/)" 用于表示群体中最好的部分或人。例如: "[The](/post/the/) [best](/post/best/) [of](/post/of/) [luck](/post/luck/) [to](/post/to/) [you](/post/you/) [on](/post/on/) [your](/post/your/) [journey](/post/journey/)."
 
 ## 例句
-- 形容词: "This restaurant is known for having the best pizza in town."
-- 短语: "I always try to give my best in everything I do."
+- 形容词: "[This](/post/this/) [restaurant](/post/restaurant/) is known [for](/post/for/) having [the](/post/the/) [best](/post/best/) pizza [in](/post/in/) [town](/post/town/)."
+- 短语: "I [always](/post/always/) [try](/post/try/) [to](/post/to/) [give](/post/give/) [my](/post/my/) [best](/post/best/) [in](/post/in/) [everything](/post/everything/) I [do](/post/do/)."
 
 ## 同义词
 - finest
 - greatest
 - optimum
-- supreme
+- [supreme](/post/supreme/)
 - top-notch

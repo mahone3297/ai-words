@@ -7,34 +7,34 @@ description = '[ˈkɔmən] a.普通的；共同的'
 keywords = ['ai words', 'common']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kəˈmən/
 
 ## Definitions
-- **Adjective**: 1. Shared by many people or things; widely known or used. "The common cold is a very common illness."
-- 2. Belonging to or typical of a large group; ordinary. "A common misconception about the moon is that it's always full."
-- 3. Characteristic of a particular place or time. "The landscape is dominated by common wildflowers."
-- 4. Having equal rights or opportunities. "We strive for a society where everyone has access to common resources."
+- **[Adjective](/en/post/adjective/)**: 1. Shared [by](/en/post/by/) [many](/en/post/many/) [people](/en/post/people/) [or](/en/post/or/) things; [widely](/en/post/widely/) known [or](/en/post/or/) [used](/en/post/used/). "[The](/en/post/the/) [common](/en/post/common/) [cold](/en/post/cold/) is [a](/en/post/a/) [very](/en/post/very/) [common](/en/post/common/) [illness](/en/post/illness/)."
+- 2. Belonging [to](/en/post/to/) [or](/en/post/or/) [typical](/en/post/typical/) [of](/en/post/of/) [a](/en/post/a/) [large](/en/post/large/) [group](/en/post/group/); [ordinary](/en/post/ordinary/). "[A](/en/post/a/) [common](/en/post/common/) misconception [about](/en/post/about/) [the](/en/post/the/) [moon](/en/post/moon/) is [that](/en/post/that/) it's [always](/en/post/always/) [full](/en/post/full/)."
+- 3. [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [or](/en/post/or/) [time](/en/post/time/). "[The](/en/post/the/) landscape is dominated [by](/en/post/by/) [common](/en/post/common/) wildflowers."
+- 4. Having [equal](/en/post/equal/) rights [or](/en/post/or/) opportunities. "[We](/en/post/we/) strive [for](/en/post/for/) [a](/en/post/a/) [society](/en/post/society/) [where](/en/post/where/) [everyone](/en/post/everyone/) has [access](/en/post/access/) [to](/en/post/to/) [common](/en/post/common/) resources."
 
-- **Noun**: 1. A shared possession or item; something that belongs to everyone. "The park had several picnic tables in the common area."
-- 2. (Informal) An understanding or agreement among people. "There's a common understanding that we'll meet at 6 PM."
+- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) shared [possession](/en/post/possession/) [or](/en/post/or/) [item](/en/post/item/); [something](/en/post/something/) [that](/en/post/that/) belongs [to](/en/post/to/) [everyone](/en/post/everyone/). "[The](/en/post/the/) [park](/en/post/park/) had [several](/en/post/several/) [picnic](/en/post/picnic/) tables [in](/en/post/in/) [the](/en/post/the/) [common](/en/post/common/) [area](/en/post/area/)."
+- 2. (Informal) An [understanding](/en/post/understanding/) [or](/en/post/or/) [agreement](/en/post/agreement/) [among](/en/post/among/) [people](/en/post/people/). "There's [a](/en/post/a/) [common](/en/post/common/) [understanding](/en/post/understanding/) [that](/en/post/that/) we'll [meet](/en/post/meet/) [at](/en/post/at/) 6 PM."
 
 ## Phrases
-- "Common knowledge" refers to information that is generally known or accepted.
-- "Have a common interest" means to share a similar hobby or passion.
-- "Common denominator" is a shared factor that connects different things.
+- "[Common](/en/post/common/) [knowledge](/en/post/knowledge/)" refers [to](/en/post/to/) [information](/en/post/information/) [that](/en/post/that/) is [generally](/en/post/generally/) known [or](/en/post/or/) accepted.
+- "[Have](/en/post/have/) [a](/en/post/a/) [common](/en/post/common/) [interest](/en/post/interest/)" [means](/en/post/means/) [to](/en/post/to/) [share](/en/post/share/) [a](/en/post/a/) [similar](/en/post/similar/) [hobby](/en/post/hobby/) [or](/en/post/or/) [passion](/en/post/passion/).
+- "[Common](/en/post/common/) denominator" is [a](/en/post/a/) shared [factor](/en/post/factor/) [that](/en/post/that/) connects [different](/en/post/different/) things.
 
-## Example Sentences
-- **Adjective**: "It's common for students to feel stressed during exams."
-- **Noun**: "The common area was bustling with people chatting and playing games."
-- **Adjective (plural)**: "Their ideas formed a common ground for negotiation."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "It's [common](/en/post/common/) [for](/en/post/for/) students [to](/en/post/to/) [feel](/en/post/feel/) stressed [during](/en/post/during/) exams."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [common](/en/post/common/) [area](/en/post/area/) was bustling [with](/en/post/with/) [people](/en/post/people/) chatting [and](/en/post/and/) playing games."
+- **[Adjective](/en/post/adjective/) ([plural](/en/post/plural/))**: "[Their](/en/post/their/) ideas formed [a](/en/post/a/) [common](/en/post/common/) [ground](/en/post/ground/) [for](/en/post/for/) negotiation."
 
 ## Synonyms
-- Usual
-- Familiar
-- Ordinary
+- [Usual](/en/post/usual/)
+- [Familiar](/en/post/familiar/)
+- [Ordinary](/en/post/ordinary/)
 - Run-of-the-mill
-- Average
-- General
-- Public
+- [Average](/en/post/average/)
+- [General](/en/post/general/)
+- [Public](/en/post/public/)
 - Shared

@@ -11,22 +11,22 @@ keywords = ['ai words', 'show']
 /ʃəʊ/
 
 ## 释义
-- **动词**: 显示，展示。例如: "The artist showed his paintings in an exhibition."
-- **名词**: 展示，表演。例如: "There will be a magic show tonight."
-- **名词**: (电视或广播的)节目。例如: "I love watching talk shows."
+- **动词**: 显示，展示。例如: "[The](/post/the/) [artist](/post/artist/) showed [his](/post/his/) paintings [in](/post/in/) an [exhibition](/post/exhibition/)."
+- **名词**: 展示，表演。例如: "[There](/post/there/) [will](/post/will/) [be](/post/be/) [a](/post/a/) [magic](/post/magic/) [show](/post/show/) [tonight](/post/tonight/)."
+- **名词**: (电视或广播的)节目。例如: "I [love](/post/love/) watching [talk](/post/talk/) shows."
 
 ## 短语
-- "show off" 展示，炫耀。例如: "He was showing off his new car to all his friends."
-- "put on a show" 表演，作秀。例如: "The children put on a show for their parents."
+- "[show](/post/show/) [off](/post/off/)" 展示，炫耀。例如: "[He](/post/he/) was showing [off](/post/off/) [his](/post/his/) [new](/post/new/) [car](/post/car/) [to](/post/to/) [all](/post/all/) [his](/post/his/) friends."
+- "[put](/post/put/) [on](/post/on/) [a](/post/a/) [show](/post/show/)" 表演，作秀。例如: "[The](/post/the/) children [put](/post/put/) [on](/post/on/) [a](/post/a/) [show](/post/show/) [for](/post/for/) [their](/post/their/) parents."
 
 ## 例句
-- 动词: "She showed us her collection of antique dolls."
-- 名词: "The magician's show was full of impressive tricks."
-- 名词: "The late-night show always has interesting guests."
+- 动词: "[She](/post/she/) showed [us](/post/us/) [her](/post/her/) [collection](/post/collection/) [of](/post/of/) antique dolls."
+- 名词: "[The](/post/the/) magician's [show](/post/show/) was [full](/post/full/) [of](/post/of/) [impressive](/post/impressive/) tricks."
+- 名词: "[The](/post/the/) late-night [show](/post/show/) [always](/post/always/) has [interesting](/post/interesting/) guests."
 
 ## 同义词
-- display
-- exhibit
-- present
-- demonstrate
-- reveal
+- [display](/post/display/)
+- [exhibit](/post/exhibit/)
+- [present](/post/present/)
+- [demonstrate](/post/demonstrate/)
+- [reveal](/post/reveal/)

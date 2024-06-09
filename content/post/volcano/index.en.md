@@ -7,44 +7,44 @@ description = '[vɔlˈkeinəu] n.火山'
 keywords = ['ai words', 'volcano']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /vəˈkɑːləʊ/
 
 ## Definitions
-### Noun
-A volcano is a geological feature characterized by its ability to erupt, typically through the vent of a magma chamber, expelling lava, ash, and gases. Volcanoes are formed when tectonic plates interact, causing magma to rise to the Earth's surface.
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) [volcano](/en/post/volcano/) is [a](/en/post/a/) geological [feature](/en/post/feature/) characterized [by](/en/post/by/) [its](/en/post/its/) [ability](/en/post/ability/) [to](/en/post/to/) erupt, typically [through](/en/post/through/) [the](/en/post/the/) vent [of](/en/post/of/) [a](/en/post/a/) magma [chamber](/en/post/chamber/), expelling lava, [ash](/en/post/ash/), [and](/en/post/and/) gases. Volcanoes are formed [when](/en/post/when/) tectonic plates interact, causing magma [to](/en/post/to/) [rise](/en/post/rise/) [to](/en/post/to/) [the](/en/post/the/) Earth's [surface](/en/post/surface/).
 
-### Verb (Transitive)
-To become active as a volcano; erupt. For example: "The volcano suddenly erupted, spewing lava across the landscape."
-### Adjective
-Related to or denoting a volcano. For example: "The volcanic landscape was both awe-inspiring and dangerous."
+### [Verb](/en/post/verb/) (Transitive)
+[To](/en/post/to/) [become](/en/post/become/) [active](/en/post/active/) [as](/en/post/as/) [a](/en/post/a/) [volcano](/en/post/volcano/); erupt. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [volcano](/en/post/volcano/) [suddenly](/en/post/suddenly/) erupted, spewing lava [across](/en/post/across/) [the](/en/post/the/) landscape."
+### [Adjective](/en/post/adjective/)
+Related [to](/en/post/to/) [or](/en/post/or/) denoting [a](/en/post/a/) [volcano](/en/post/volcano/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) volcanic landscape was [both](/en/post/both/) awe-inspiring [and](/en/post/and/) [dangerous](/en/post/dangerous/)."
 
 ## Phrases
-- "Volcanic eruption" describes the event of a volcano releasing its contents.
-- "Volcanic ash" refers to the fine particles expelled during an eruption.
-- "Volcanic activity" signifies ongoing volcanic processes.
+- "Volcanic eruption" describes [the](/en/post/the/) [event](/en/post/event/) [of](/en/post/of/) [a](/en/post/a/) [volcano](/en/post/volcano/) releasing [its](/en/post/its/) contents.
+- "Volcanic [ash](/en/post/ash/)" refers [to](/en/post/to/) [the](/en/post/the/) [fine](/en/post/fine/) particles expelled [during](/en/post/during/) an eruption.
+- "Volcanic [activity](/en/post/activity/)" signifies ongoing volcanic processes.
 
-## Example Sentences
-- **Noun**: "The dormant volcano on the island had been active for centuries."
-- **Verb**: "The recent volcanic eruption forced thousands to evacuate their homes."
-- **Adjective**: "The volcanic terrain created unique ecosystems with adapted plants and animals."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) dormant [volcano](/en/post/volcano/) [on](/en/post/on/) [the](/en/post/the/) [island](/en/post/island/) had been [active](/en/post/active/) [for](/en/post/for/) centuries."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [recent](/en/post/recent/) volcanic eruption forced thousands [to](/en/post/to/) evacuate [their](/en/post/their/) homes."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) volcanic terrain created [unique](/en/post/unique/) ecosystems [with](/en/post/with/) adapted plants [and](/en/post/and/) animals."
 
 ## Synonyms
 - Eruptive
 - Lava-spewing
-- Volcanic flow
+- Volcanic [flow](/en/post/flow/)
 - Geothermal
 - Strombolian
-- Hekla-like (referring to a specific type of explosive eruption)
+- Hekla-like (referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [type](/en/post/type/) [of](/en/post/of/) [explosive](/en/post/explosive/) eruption)
 
 ## Related Terms
 - Eruption
 - Magma
 - Lava
-- Tectonic plate
+- Tectonic [plate](/en/post/plate/)
 - Volcanic vent
 - Stratovolcano
 - Cinder cone
 - Caldera
-- Volcanic hazard
-- Volcanic ash fall
+- Volcanic [hazard](/en/post/hazard/)
+- Volcanic [ash](/en/post/ash/) [fall](/en/post/fall/)

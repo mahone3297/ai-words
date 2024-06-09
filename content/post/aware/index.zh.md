@@ -11,20 +11,20 @@ keywords = ['ai words', 'aware']
 /əˈweər/
 
 ## 释义
-- **形容词**: 知道的，意识到的，察觉到的。例如: "He was aware of the danger around him."
-- **动词**: 使某人知道或意识到。例如: "The news aware him of the upcoming event."
+- **形容词**: 知道的，意识到的，察觉到的。例如: "[He](/post/he/) was [aware](/post/aware/) [of](/post/of/) [the](/post/the/) [danger](/post/danger/) [around](/post/around/) [him](/post/him/)."
+- **动词**: 使某人知道或意识到。例如: "[The](/post/the/) [news](/post/news/) [aware](/post/aware/) [him](/post/him/) [of](/post/of/) [the](/post/the/) upcoming [event](/post/event/)."
 
 ## 短语
-- "be aware of something" 意识到某事。
-- "become aware that" 发现或认识到。
+- "[be](/post/be/) [aware](/post/aware/) [of](/post/of/) [something](/post/something/)" 意识到某事。
+- "[become](/post/become/) [aware](/post/aware/) [that](/post/that/)" 发现或认识到。
 
 ## 例句
-- 形容词: "She is aware of the importance of recycling."
-- 动词: "The teacher quickly aware the students of the changes in the schedule."
+- 形容词: "[She](/post/she/) is [aware](/post/aware/) [of](/post/of/) [the](/post/the/) [importance](/post/importance/) [of](/post/of/) recycling."
+- 动词: "[The](/post/the/) [teacher](/post/teacher/) [quickly](/post/quickly/) [aware](/post/aware/) [the](/post/the/) students [of](/post/of/) [the](/post/the/) changes [in](/post/in/) [the](/post/the/) [schedule](/post/schedule/)."
 
 ## 同义词
-- Conscious
+- [Conscious](/post/conscious/)
 - Knowledgeable
 - Informed
-- Sensible
+- [Sensible](/post/sensible/)
 - Mindful

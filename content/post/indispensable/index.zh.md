@@ -11,19 +11,19 @@ keywords = ['ai words', 'indispensable']
 /ɪnˈdɪsənəbl/
 
 ## 释义
-- **形容词**: 必不可少的，必需的。例如: "Fresh water is indispensable for life."
-- **名词**: 不能缺少的人或事物。例如: "She is an indispensable member of our team."
+- **形容词**: 必不可少的，必需的。例如: "[Fresh](/post/fresh/) [water](/post/water/) is [indispensable](/post/indispensable/) [for](/post/for/) [life](/post/life/)."
+- **名词**: 不能缺少的人或事物。例如: "[She](/post/she/) is an [indispensable](/post/indispensable/) [member](/post/member/) [of](/post/of/) [our](/post/our/) [team](/post/team/)."
 
 ## 短语
-- "indispensable to something" 表示对某事至关重要的。例如: "Good communication skills are indispensable to success in business."
+- "[indispensable](/post/indispensable/) [to](/post/to/) [something](/post/something/)" 表示对某事至关重要的。例如: "[Good](/post/good/) [communication](/post/communication/) skills are [indispensable](/post/indispensable/) [to](/post/to/) [success](/post/success/) [in](/post/in/) [business](/post/business/)."
 
 ## 例句
-- 形容词: "Having a reliable car is indispensable for commuting long distances."
-- 名词: "Her knowledge of the subject makes her an indispensable resource."
+- 形容词: "Having [a](/post/a/) [reliable](/post/reliable/) [car](/post/car/) is [indispensable](/post/indispensable/) [for](/post/for/) commuting [long](/post/long/) distances."
+- 名词: "[Her](/post/her/) [knowledge](/post/knowledge/) [of](/post/of/) [the](/post/the/) [subject](/post/subject/) makes [her](/post/her/) an [indispensable](/post/indispensable/) [resource](/post/resource/)."
 
 ## 同义词
-- Essential
-- Necessary
-- Vital
+- [Essential](/post/essential/)
+- [Necessary](/post/necessary/)
+- [Vital](/post/vital/)
 - Crucial
 - Invaluable

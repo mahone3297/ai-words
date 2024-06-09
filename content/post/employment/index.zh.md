@@ -12,22 +12,22 @@ keywords = ['ai words', 'employment']
 
 ## 释义
 - **名词**:
-  - 工作；职业。例如: "He found employment as a software engineer."
-  - 雇佣；使用。例如: "The company is looking for new ways to employment technology."
+  - 工作；职业。例如: "[He](/post/he/) [found](/post/found/) [employment](/post/employment/) [as](/post/as/) [a](/post/a/) software [engineer](/post/engineer/)."
+  - 雇佣；使用。例如: "[The](/post/the/) [company](/post/company/) is looking [for](/post/for/) [new](/post/new/) ways [to](/post/to/) [employment](/post/employment/) [technology](/post/technology/)."
 
 ## 短语
 - "Unemployment" 意为失业。
-- "Employment opportunities" 指就业机会。
-- "Full-time employment" 是全职工作。
-- "Part-time employment" 是兼职工作。
+- "[Employment](/post/employment/) opportunities" 指就业机会。
+- "Full-time [employment](/post/employment/)" 是全职工作。
+- "Part-time [employment](/post/employment/)" 是兼职工作。
 
 ## 例句
-- 名词: "She's been in steady employment since graduating from college."
-- 动词（作为"employ"的名词形式）: "The firm has decided to increase its employment of skilled workers."
+- 名词: "She's been [in](/post/in/) [steady](/post/steady/) [employment](/post/employment/) [since](/post/since/) graduating [from](/post/from/) [college](/post/college/)."
+- 动词（作为"[employ](/post/employ/)"的名词形式）: "[The](/post/the/) [firm](/post/firm/) has decided [to](/post/to/) [increase](/post/increase/) [its](/post/its/) [employment](/post/employment/) [of](/post/of/) [skilled](/post/skilled/) workers."
 
 ## 同义词
-- Job
-- Work
-- Occupation
-- Career
+- [Job](/post/job/)
+- [Work](/post/work/)
+- [Occupation](/post/occupation/)
+- [Career](/post/career/)
 - Labor

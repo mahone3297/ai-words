@@ -7,45 +7,45 @@ description = '[ˈprezns] n.出席，到场；在'
 keywords = ['ai words', 'presence']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /presəns/
 
 ## Definitions
-### Noun
-**Presence**: The act or quality of being present, attendance, or the feeling that someone or something is nearby or has an effect on others. It can also refer to a significant or impressive presence.
+### [Noun](/en/post/noun/)
+**[Presence](/en/post/presence/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [present](/en/post/present/), attendance, [or](/en/post/or/) [the](/en/post/the/) [feeling](/en/post/feeling/) [that](/en/post/that/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) is [nearby](/en/post/nearby/) [or](/en/post/or/) has an [effect](/en/post/effect/) [on](/en/post/on/) others. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [significant](/en/post/significant/) [or](/en/post/or/) [impressive](/en/post/impressive/) [presence](/en/post/presence/).
 
-### Verb
-**Be present**: To be physically or mentally present at a place or event. To have a strong impact or impression.
+### [Verb](/en/post/verb/)
+**[Be](/en/post/be/) [present](/en/post/present/)**: [To](/en/post/to/) [be](/en/post/be/) physically [or](/en/post/or/) mentally [present](/en/post/present/) [at](/en/post/at/) [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [event](/en/post/event/). [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [impact](/en/post/impact/) [or](/en/post/or/) [impression](/en/post/impression/).
 
-### Adjective
-**Present**: Existing now; current; occurring at the same time as something else.
+### [Adjective](/en/post/adjective/)
+**[Present](/en/post/present/)**: Existing [now](/en/post/now/); [current](/en/post/current/); occurring [at](/en/post/at/) [the](/en/post/the/) [same](/en/post/same/) [time](/en/post/time/) [as](/en/post/as/) [something](/en/post/something/) [else](/en/post/else/).
 
-### Adverb
-**Presently**: Currently, at this moment.
+### [Adverb](/en/post/adverb/)
+**[Presently](/en/post/presently/)**: Currently, [at](/en/post/at/) [this](/en/post/this/) [moment](/en/post/moment/).
 
 ## Phrases
-- "In one's presence" indicates when someone is nearby or has a notable effect on another.
-- "Lack of presence" signifies the absence or invisibility of someone.
-- "Make an entrance/exit in one's presence" refers to making a notable appearance or departure.
+- "[In](/en/post/in/) one's [presence](/en/post/presence/)" indicates [when](/en/post/when/) [someone](/en/post/someone/) is [nearby](/en/post/nearby/) [or](/en/post/or/) has [a](/en/post/a/) notable [effect](/en/post/effect/) [on](/en/post/on/) [another](/en/post/another/).
+- "[Lack](/en/post/lack/) [of](/en/post/of/) [presence](/en/post/presence/)" signifies [the](/en/post/the/) [absence](/en/post/absence/) [or](/en/post/or/) invisibility [of](/en/post/of/) [someone](/en/post/someone/).
+- "[Make](/en/post/make/) an [entrance](/en/post/entrance/)/[exit](/en/post/exit/) [in](/en/post/in/) one's [presence](/en/post/presence/)" refers [to](/en/post/to/) making [a](/en/post/a/) notable [appearance](/en/post/appearance/) [or](/en/post/or/) [departure](/en/post/departure/).
 
-## Example Sentences
-- **Noun**: "Her calming presence helped to soothe the anxious children."
-- **Verb**: "Please be present for the meeting tomorrow."
-- **Adjective**: "The atmosphere was filled with a sense of present danger."
-- **Adverb**: "We'll discuss the project presently."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) calming [presence](/en/post/presence/) helped [to](/en/post/to/) soothe [the](/en/post/the/) [anxious](/en/post/anxious/) children."
+- **[Verb](/en/post/verb/)**: "[Please](/en/post/please/) [be](/en/post/be/) [present](/en/post/present/) [for](/en/post/for/) [the](/en/post/the/) [meeting](/en/post/meeting/) [tomorrow](/en/post/tomorrow/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [atmosphere](/en/post/atmosphere/) was filled [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [present](/en/post/present/) [danger](/en/post/danger/)."
+- **[Adverb](/en/post/adverb/)**: "We'll [discuss](/en/post/discuss/) [the](/en/post/the/) [project](/en/post/project/) [presently](/en/post/presently/)."
 
 ## Synonyms
 - Attendance
-- Showing up
-- Being there
-- Punctual
+- Showing [up](/en/post/up/)
+- [Being](/en/post/being/) [there](/en/post/there/)
+- [Punctual](/en/post/punctual/)
 - Ergodic
 - Abundance
-- Impact
-- Influence
+- [Impact](/en/post/impact/)
+- [Influence](/en/post/influence/)
 
 ## Antonyms
-- Absence
+- [Absence](/en/post/absence/)
 - Non-presence
-- Lack thereof
+- [Lack](/en/post/lack/) thereof
 - Omission

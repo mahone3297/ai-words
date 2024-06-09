@@ -11,20 +11,20 @@ keywords = ['ai words', 'vivid']
 /ˈvɪvɪd/
 
 ## 释义
-- **形容词**: 生动的，栩栩如生的，鲜明的。例如: "The painting was so vivid that it felt like I could step into it."
-- **副词**: 生动地，鲜明地。例如: "She described the scene so vividly that we all felt we were there."
+- **形容词**: 生动的，栩栩如生的，鲜明的。例如: "[The](/post/the/) [painting](/post/painting/) was [so](/post/so/) [vivid](/post/vivid/) [that](/post/that/) [it](/post/it/) felt [like](/post/like/) I [could](/post/could/) [step](/post/step/) [into](/post/into/) [it](/post/it/)."
+- **副词**: 生动地，鲜明地。例如: "[She](/post/she/) described [the](/post/the/) [scene](/post/scene/) [so](/post/so/) vividly [that](/post/that/) [we](/post/we/) [all](/post/all/) felt [we](/post/we/) were [there](/post/there/)."
 
 ## 短语
-- "vivid imagination" 意为丰富的想象力。
-- "vivid colors" 表示鲜艳的色彩。
+- "[vivid](/post/vivid/) [imagination](/post/imagination/)" 意为丰富的想象力。
+- "[vivid](/post/vivid/) colors" 表示鲜艳的色彩。
 
 ## 例句
-- 形容词: "The sunset was a vivid display of red and orange hues."
-- 副词: "He recalled the event so vividly that every detail was etched in his memory."
+- 形容词: "[The](/post/the/) [sunset](/post/sunset/) was [a](/post/a/) [vivid](/post/vivid/) [display](/post/display/) [of](/post/of/) [red](/post/red/) [and](/post/and/) [orange](/post/orange/) hues."
+- 副词: "[He](/post/he/) recalled [the](/post/the/) [event](/post/event/) [so](/post/so/) vividly [that](/post/that/) [every](/post/every/) [detail](/post/detail/) was etched [in](/post/in/) [his](/post/his/) [memory](/post/memory/)."
 
 ## 同义词
-- Bright
+- [Bright](/post/bright/)
 - Colorful
 - Graphic
-- Lively
+- [Lively](/post/lively/)
 - Realistic

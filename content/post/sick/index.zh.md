@@ -11,19 +11,19 @@ keywords = ['ai words', 'sick']
 /sɪk/
 
 ## 释义
-- **形容词**: 生病的，不适的。例如: "She's feeling a bit sick today."
-- **动词**: 使生病，使不适。例如: "The bad food made him sick."
+- **形容词**: 生病的，不适的。例如: "She's [feeling](/post/feeling/) [a](/post/a/) [bit](/post/bit/) [sick](/post/sick/) [today](/post/today/)."
+- **动词**: 使生病，使不适。例如: "[The](/post/the/) [bad](/post/bad/) [food](/post/food/) made [him](/post/him/) [sick](/post/sick/)."
 
 ## 短语
-- "Sick leave" 指因病请假。
-- "Sick to one's stomach" 意为感到恶心或呕吐。
+- "[Sick](/post/sick/) [leave](/post/leave/)" 指因病请假。
+- "[Sick](/post/sick/) [to](/post/to/) one's [stomach](/post/stomach/)" 意为感到恶心或呕吐。
 
 ## 例句
-- 形容词: "I need to go home; I'm feeling really sick."
-- 动词: "The smell of the paint was making me sick, so I had to open a window."
+- 形容词: "I [need](/post/need/) [to](/post/to/) [go](/post/go/) [home](/post/home/); I'm [feeling](/post/feeling/) [really](/post/really/) [sick](/post/sick/)."
+- 动词: "[The](/post/the/) [smell](/post/smell/) [of](/post/of/) [the](/post/the/) [paint](/post/paint/) was making [me](/post/me/) [sick](/post/sick/), [so](/post/so/) I had [to](/post/to/) [open](/post/open/) [a](/post/a/) [window](/post/window/)."
 
 ## 同义词
-- Ill
+- [Ill](/post/ill/)
 - Unwell
 - Ailing
 - Sickly

@@ -11,20 +11,20 @@ keywords = ['ai words', 'torch']
 /ˈtɔːrtʃ/
 
 ## 释义
-- **名词 (n)**: 一种手持的照明工具，通常有可燃的燃料，如蜡烛或电灯泡。例如: "He used a torch to light his way through the dark tunnel."
-- **名词 (n)**: 在某些体育比赛中，如奥运会，象征性的火炬。例如: "The Olympic torch relay is a symbol of unity and peace."
-- **动词 (v)**: 用火炬照亮，或者用火把烧毁。例如: "They torched the old building to clear the land."
+- **名词 (n)**: 一种手持的照明工具，通常有可燃的燃料，如蜡烛或电灯泡。例如: "[He](/post/he/) [used](/post/used/) [a](/post/a/) [torch](/post/torch/) [to](/post/to/) [light](/post/light/) [his](/post/his/) [way](/post/way/) [through](/post/through/) [the](/post/the/) [dark](/post/dark/) [tunnel](/post/tunnel/)."
+- **名词 (n)**: 在某些体育比赛中，如奥运会，象征性的火炬。例如: "[The](/post/the/) Olympic [torch](/post/torch/) relay is [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) [unity](/post/unity/) [and](/post/and/) [peace](/post/peace/)."
+- **动词 (v)**: 用火炬照亮，或者用火把烧毁。例如: "[They](/post/they/) torched [the](/post/the/) [old](/post/old/) [building](/post/building/) [to](/post/to/) [clear](/post/clear/) [the](/post/the/) [land](/post/land/)."
 
 ## 短语
-- "Bear the torch" 意为承担重任或传承精神。
-- "Pass the torch" 指传递责任或接力棒给下一个人。
+- "[Bear](/post/bear/) [the](/post/the/) [torch](/post/torch/)" 意为承担重任或传承精神。
+- "[Pass](/post/pass/) [the](/post/the/) [torch](/post/torch/)" 指传递责任或接力棒给下一个人。
 
 ## 例句
-- 名词: "The firefighters needed torches to navigate through the smoke-filled building."
-- 动词: "The archaeologists used torches to explore the ancient cave paintings."
+- 名词: "[The](/post/the/) firefighters needed torches [to](/post/to/) navigate [through](/post/through/) [the](/post/the/) smoke-filled [building](/post/building/)."
+- 动词: "[The](/post/the/) archaeologists [used](/post/used/) torches [to](/post/to/) [explore](/post/explore/) [the](/post/the/) [ancient](/post/ancient/) [cave](/post/cave/) paintings."
 
 ## 同义词
 - Flashlight (手电筒)
 - Lighter (打火机)
-- Flame (火焰)
-- Candle (蜡烛)
+- [Flame](/post/flame/) (火焰)
+- [Candle](/post/candle/) (蜡烛)

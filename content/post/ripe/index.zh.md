@@ -11,19 +11,19 @@ keywords = ['ai words', 'ripe']
 /raɪp/
 
 ## 释义
-- **形容词**: 成熟的，完全长成的。例如: "The ripe apples on the tree are ready for picking."
-- **动词**: （使）成熟，（使）熟透。例如: "The sun ripened the tomatoes in no time."
+- **形容词**: 成熟的，完全长成的。例如: "[The](/post/the/) [ripe](/post/ripe/) apples [on](/post/on/) [the](/post/the/) [tree](/post/tree/) are [ready](/post/ready/) [for](/post/for/) picking."
+- **动词**: （使）成熟，（使）熟透。例如: "[The](/post/the/) [sun](/post/sun/) ripened [the](/post/the/) tomatoes [in](/post/in/) [no](/post/no/) [time](/post/time/)."
 
 ## 短语
-- "ripe for something" 表示适合做某事，时机成熟。例如: "The market is ripe for new innovations."
-- "ripe with possibility" 意味充满可能性或潜力。例如: "Her art is ripe with possibilities."
+- "[ripe](/post/ripe/) [for](/post/for/) [something](/post/something/)" 表示适合做某事，时机成熟。例如: "[The](/post/the/) [market](/post/market/) is [ripe](/post/ripe/) [for](/post/for/) [new](/post/new/) innovations."
+- "[ripe](/post/ripe/) [with](/post/with/) [possibility](/post/possibility/)" 意味充满可能性或潜力。例如: "[Her](/post/her/) [art](/post/art/) is [ripe](/post/ripe/) [with](/post/with/) possibilities."
 
 ## 例句
-- 形容词: "These bananas are just ripe enough to eat."
-- 动词: "The grapes will soon be ripe, and we can harvest them."
+- 形容词: "[These](/post/these/) bananas are [just](/post/just/) [ripe](/post/ripe/) [enough](/post/enough/) [to](/post/to/) [eat](/post/eat/)."
+- 动词: "[The](/post/the/) grapes [will](/post/will/) [soon](/post/soon/) [be](/post/be/) [ripe](/post/ripe/), [and](/post/and/) [we](/post/we/) [can](/post/can/) [harvest](/post/harvest/) [them](/post/them/)."
 
 ## 同义词
-- mature
+- [mature](/post/mature/)
 - fully grown
 - developed
 - seasoned

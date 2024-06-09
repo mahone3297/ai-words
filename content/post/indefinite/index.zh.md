@@ -11,20 +11,20 @@ keywords = ['ai words', 'indefinite']
 /ɪnˈdɪfɪnət/
 
 ## 释义
-- **形容词**: 不确定的，未限定的，无边界的。例如: "The future is indefinite and full of possibilities."
-- **名词**: 不定冠词，通常指一个不确定或无特定数量的人或物。例如: "There are some indefinite articles in English, such as 'a' and 'an'."
+- **形容词**: 不确定的，未限定的，无边界的。例如: "[The](/post/the/) [future](/post/future/) is [indefinite](/post/indefinite/) [and](/post/and/) [full](/post/full/) [of](/post/of/) possibilities."
+- **名词**: 不定冠词，通常指一个不确定或无特定数量的人或物。例如: "[There](/post/there/) are [some](/post/some/) [indefinite](/post/indefinite/) articles [in](/post/in/) English, [such](/post/such/) [as](/post/as/) '[a](/post/a/)' [and](/post/and/) 'an'."
 
 ## 短语
-- "indefinite quantity" 表示不确定的数量。
-- "indefinite period" 表示不确定的时间段。
+- "[indefinite](/post/indefinite/) [quantity](/post/quantity/)" 表示不确定的数量。
+- "[indefinite](/post/indefinite/) [period](/post/period/)" 表示不确定的时间段。
 
 ## 例句
-- 形容词: "The contract has an indefinite duration, which means it can continue without a fixed end date."
-- 名词: "The indefinite article 'a' is used before countable nouns when their quantity is unspecified."
+- 形容词: "[The](/post/the/) [contract](/post/contract/) has an [indefinite](/post/indefinite/) [duration](/post/duration/), [which](/post/which/) [means](/post/means/) [it](/post/it/) [can](/post/can/) [continue](/post/continue/) [without](/post/without/) [a](/post/a/) fixed [end](/post/end/) [date](/post/date/)."
+- 名词: "[The](/post/the/) [indefinite](/post/indefinite/) [article](/post/article/) '[a](/post/a/)' is [used](/post/used/) [before](/post/before/) countable nouns [when](/post/when/) [their](/post/their/) [quantity](/post/quantity/) is unspecified."
 
 ## 同义词
-- Uncertain
-- Vague
+- [Uncertain](/post/uncertain/)
+- [Vague](/post/vague/)
 - Ambiguous
 - Indistinct
 - Unlimited

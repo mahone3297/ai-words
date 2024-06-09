@@ -12,24 +12,24 @@ keywords = ['ai words', 'provision']
 
 ## 释义
 - **名词**:
-  1. 提供的物品或供应品。例如: "The campsite had all the necessary provisions for a comfortable stay."
-  2. 法规、条款或条件。例如: "The contract contains a provision for early termination."
-  3. 预备措施；准备。例如: "They made provisions against possible power outages."
+  1. 提供的物品或供应品。例如: "[The](/post/the/) campsite had [all](/post/all/) [the](/post/the/) [necessary](/post/necessary/) provisions [for](/post/for/) [a](/post/a/) [comfortable](/post/comfortable/) [stay](/post/stay/)."
+  2. 法规、条款或条件。例如: "[The](/post/the/) [contract](/post/contract/) contains [a](/post/a/) [provision](/post/provision/) [for](/post/for/) [early](/post/early/) termination."
+  3. 预备措施；准备。例如: "[They](/post/they/) made provisions [against](/post/against/) [possible](/post/possible/) [power](/post/power/) outages."
 
 - **动词**:
-  为...提供所需物品或准备。例如: "We need to provision the ship with food and water before setting sail."
+  为...提供所需物品或准备。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [provision](/post/provision/) [the](/post/the/) [ship](/post/ship/) [with](/post/with/) [food](/post/food/) [and](/post/and/) [water](/post/water/) [before](/post/before/) [setting](/post/setting/) [sail](/post/sail/)."
 
 ## 短语
-- "make provisions for" 意思是为...做好准备或安排。例如: "The company is making provisions for a potential economic downturn."
-- "provisional arrangement" 暂时的或临时的安排。例如: "A provisional agreement was reached between the two parties."
+- "[make](/post/make/) provisions [for](/post/for/)" 意思是为...做好准备或安排。例如: "[The](/post/the/) [company](/post/company/) is making provisions [for](/post/for/) [a](/post/a/) [potential](/post/potential/) [economic](/post/economic/) downturn."
+- "provisional [arrangement](/post/arrangement/)" 暂时的或临时的安排。例如: "[A](/post/a/) provisional [agreement](/post/agreement/) was reached [between](/post/between/) [the](/post/the/) [two](/post/two/) parties."
 
 ## 例句
-- 名词: "The government has allocated funds for disaster relief provisions."
-- 动词: "The store specializes in provisioning yachts for long voyages."
+- 名词: "[The](/post/the/) [government](/post/government/) has allocated funds [for](/post/for/) [disaster](/post/disaster/) [relief](/post/relief/) provisions."
+- 动词: "[The](/post/the/) [store](/post/store/) specializes [in](/post/in/) provisioning yachts [for](/post/for/) [long](/post/long/) voyages."
 
 ## 同义词
-- Supply
-- Preparation
-- Arrangement
-- Stock
+- [Supply](/post/supply/)
+- [Preparation](/post/preparation/)
+- [Arrangement](/post/arrangement/)
+- [Stock](/post/stock/)
 - Commodity

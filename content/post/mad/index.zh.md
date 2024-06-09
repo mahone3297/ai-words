@@ -12,22 +12,22 @@ keywords = ['ai words', 'mad']
 
 ## 释义
 - **形容词**: 
-    - (生气)愤怒的，疯狂的。例如: "He was mad at me for forgetting our appointment."
-    - (异常)精神错乱的，精神病的。例如: "She was declared legally mad after the incident."
-    - (俚语)极好的，出色的。例如: "That new song is absolutely mad!"
+    - (生气)愤怒的，疯狂的。例如: "[He](/post/he/) was [mad](/post/mad/) [at](/post/at/) [me](/post/me/) [for](/post/for/) forgetting [our](/post/our/) [appointment](/post/appointment/)."
+    - (异常)精神错乱的，精神病的。例如: "[She](/post/she/) was declared legally [mad](/post/mad/) [after](/post/after/) [the](/post/the/) [incident](/post/incident/)."
+    - (俚语)极好的，出色的。例如: "[That](/post/that/) [new](/post/new/) [song](/post/song/) is [absolutely](/post/absolutely/) [mad](/post/mad/)!"
     
 ## 短语
-- "Drive someone mad" 意为使某人生气或疯狂。
-- "Mad as a hatter" 形容一个人行为古怪或精神不正常。
+- "[Drive](/post/drive/) [someone](/post/someone/) [mad](/post/mad/)" 意为使某人生气或疯狂。
+- "[Mad](/post/mad/) [as](/post/as/) [a](/post/a/) hatter" 形容一个人行为古怪或精神不正常。
 
 ## 例句
-- 形容词(生气): "She was mad when I told her I couldn't come to the party."
-- 形容词(精神病的): "He spent some time in a mental institution because he was considered mad."
-- 形容词(俚语): "The new restaurant in town has mad burgers; you have to try them!"
+- 形容词(生气): "[She](/post/she/) was [mad](/post/mad/) [when](/post/when/) I told [her](/post/her/) I couldn't [come](/post/come/) [to](/post/to/) [the](/post/the/) [party](/post/party/)."
+- 形容词(精神病的): "[He](/post/he/) spent [some](/post/some/) [time](/post/time/) [in](/post/in/) [a](/post/a/) [mental](/post/mental/) [institution](/post/institution/) [because](/post/because/) [he](/post/he/) was considered [mad](/post/mad/)."
+- 形容词(俚语): "[The](/post/the/) [new](/post/new/) [restaurant](/post/restaurant/) [in](/post/in/) [town](/post/town/) has [mad](/post/mad/) burgers; [you](/post/you/) [have](/post/have/) [to](/post/to/) [try](/post/try/) [them](/post/them/)!"
 
 ## 同义词
-- Angry
-- Furious
+- [Angry](/post/angry/)
+- [Furious](/post/furious/)
 - Enraged
 - Irritated
 - Insane

@@ -14,17 +14,17 @@ keywords = ['ai words', 'gunpowder']
 - **名词**: 火药；烟火剂；黑火药；硝石甘汞
 
 ## 短语
-- "gunpowder tea" 指的是用火烧过的茶叶，通常是中国的武夷岩茶。
-- "gunpowder plot" 指的是1605年英国的火药阴谋，是一次企图炸毁英国国会的未遂政变。
+- "[gunpowder](/post/gunpowder/) [tea](/post/tea/)" 指的是用火烧过的茶叶，通常是中国的武夷岩茶。
+- "[gunpowder](/post/gunpowder/) [plot](/post/plot/)" 指的是1605年英国的火药阴谋，是一次企图炸毁英国国会的未遂政变。
 
 ## 例句
-- "In the Middle Ages, gunpowder was a significant military invention."
-- "The smell of gunpowder lingered in the air after the fireworks display."
-- "The gunpowder plot was a notorious attempt to assassinate King James I."
+- "[In](/post/in/) [the](/post/the/) [Middle](/post/middle/) Ages, [gunpowder](/post/gunpowder/) was [a](/post/a/) [significant](/post/significant/) [military](/post/military/) [invention](/post/invention/)."
+- "[The](/post/the/) [smell](/post/smell/) [of](/post/of/) [gunpowder](/post/gunpowder/) lingered [in](/post/in/) [the](/post/the/) [air](/post/air/) [after](/post/after/) [the](/post/the/) fireworks [display](/post/display/)."
+- "[The](/post/the/) [gunpowder](/post/gunpowder/) [plot](/post/plot/) was [a](/post/a/) notorious [attempt](/post/attempt/) [to](/post/to/) assassinate [King](/post/king/) James I."
 
 ## 同义词
 - explosives
 - ammunition
 - pyrotechnics
-- powder
-- blasting agent
+- [powder](/post/powder/)
+- blasting [agent](/post/agent/)

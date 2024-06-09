@@ -11,20 +11,20 @@ keywords = ['ai words', 'rarely']
 /ˈræli/
 
 ## 释义
-- **副词**: 很少，难得，不常。例如: "He rarely visits his parents these days."
-- **形容词**: 罕见的，不常见的。例如: "Rarely have I seen such a beautiful sunset."
+- **副词**: 很少，难得，不常。例如: "[He](/post/he/) [rarely](/post/rarely/) visits [his](/post/his/) parents [these](/post/these/) days."
+- **形容词**: 罕见的，不常见的。例如: "[Rarely](/post/rarely/) [have](/post/have/) I seen [such](/post/such/) [a](/post/a/) [beautiful](/post/beautiful/) [sunset](/post/sunset/)."
 
 ## 短语
-- "rarely if ever" 表示几乎从不，极少。
-- "rarely seen" 意味着很少被看到或发生。
+- "[rarely](/post/rarely/) [if](/post/if/) [ever](/post/ever/)" 表示几乎从不，极少。
+- "[rarely](/post/rarely/) seen" 意味着很少被看到或发生。
 
 ## 例句
-- 副词: "She rarely misses a day of work."
-- 形容词: "This flower is rarely found in this region."
+- 副词: "[She](/post/she/) [rarely](/post/rarely/) misses [a](/post/a/) [day](/post/day/) [of](/post/of/) [work](/post/work/)."
+- 形容词: "[This](/post/this/) [flower](/post/flower/) is [rarely](/post/rarely/) [found](/post/found/) [in](/post/in/) [this](/post/this/) [region](/post/region/)."
 
 ## 同义词
-- seldom
+- [seldom](/post/seldom/)
 - infrequently
-- hardly
-- scarcely
+- [hardly](/post/hardly/)
+- [scarcely](/post/scarcely/)
 - barely

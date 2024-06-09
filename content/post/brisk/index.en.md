@@ -7,42 +7,42 @@ description = '[brisk] a.活泼的；清新的'
 keywords = ['ai words', 'brisk']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /brɪsk/
 
 ## Definitions
-- **Adjective**: 1. Characterized by quickness or energy, especially in movement or action. "A brisk walk in the morning."
-- 2. Showing or suggesting a lively or lively interest or enthusiasm. "A brisk discussion followed."
-- 3. (of weather) Cool and invigorating, with a strong wind. "A brisk autumn day."
+- **[Adjective](/en/post/adjective/)**: 1. Characterized [by](/en/post/by/) quickness [or](/en/post/or/) [energy](/en/post/energy/), [especially](/en/post/especially/) [in](/en/post/in/) [movement](/en/post/movement/) [or](/en/post/or/) [action](/en/post/action/). "[A](/en/post/a/) [brisk](/en/post/brisk/) [walk](/en/post/walk/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/)."
+- 2. Showing [or](/en/post/or/) suggesting [a](/en/post/a/) [lively](/en/post/lively/) [or](/en/post/or/) [lively](/en/post/lively/) [interest](/en/post/interest/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/). "[A](/en/post/a/) [brisk](/en/post/brisk/) [discussion](/en/post/discussion/) followed."
+- 3. ([of](/en/post/of/) [weather](/en/post/weather/)) [Cool](/en/post/cool/) [and](/en/post/and/) invigorating, [with](/en/post/with/) [a](/en/post/a/) [strong](/en/post/strong/) [wind](/en/post/wind/). "[A](/en/post/a/) [brisk](/en/post/brisk/) [autumn](/en/post/autumn/) [day](/en/post/day/)."
 
-## Adverb**: Happening or done quickly and energetically. "She briskly completed the task."
+## [Adverb](/en/post/adverb/)**: Happening [or](/en/post/or/) done [quickly](/en/post/quickly/) [and](/en/post/and/) energetically. "[She](/en/post/she/) briskly completed [the](/en/post/the/) [task](/en/post/task/)."
 
-## Noun**: (rare) A brisk action or movement. "His brisk movements caught my attention."
+## [Noun](/en/post/noun/)**: ([rare](/en/post/rare/)) [A](/en/post/a/) [brisk](/en/post/brisk/) [action](/en/post/action/) [or](/en/post/or/) [movement](/en/post/movement/). "[His](/en/post/his/) [brisk](/en/post/brisk/) movements caught [my](/en/post/my/) [attention](/en/post/attention/)."
 
-## Example Sentences
-- **Adjective**: "The air was brisk after the rain, invigorating the senses."
-- **Adverb**: "She briskly swept the floor, making sure every corner was clean."
-- **Noun**: "The gardener performed a series of brisk tasks in the garden."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [air](/en/post/air/) was [brisk](/en/post/brisk/) [after](/en/post/after/) [the](/en/post/the/) [rain](/en/post/rain/), invigorating [the](/en/post/the/) senses."
+- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) briskly swept [the](/en/post/the/) [floor](/en/post/floor/), making [sure](/en/post/sure/) [every](/en/post/every/) [corner](/en/post/corner/) was [clean](/en/post/clean/)."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [gardener](/en/post/gardener/) performed [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [brisk](/en/post/brisk/) tasks [in](/en/post/in/) [the](/en/post/the/) [garden](/en/post/garden/)."
 
 ## Phrases
-- "Briskly moving" describes movement with speed and energy.
-- "A brisk pace" refers to a fast walking or running speed.
-- "Brisk trade" indicates a lively buying and selling activity.
+- "Briskly moving" describes [movement](/en/post/movement/) [with](/en/post/with/) [speed](/en/post/speed/) [and](/en/post/and/) [energy](/en/post/energy/).
+- "[A](/en/post/a/) [brisk](/en/post/brisk/) [pace](/en/post/pace/)" refers [to](/en/post/to/) [a](/en/post/a/) [fast](/en/post/fast/) walking [or](/en/post/or/) running [speed](/en/post/speed/).
+- "[Brisk](/en/post/brisk/) [trade](/en/post/trade/)" indicates [a](/en/post/a/) [lively](/en/post/lively/) buying [and](/en/post/and/) selling [activity](/en/post/activity/).
 
 ## Synonyms
-- Vigorous
-- Lively
+- [Vigorous](/en/post/vigorous/)
+- [Lively](/en/post/lively/)
 - Energetic
-- Fresh
-- Quick
-- Sharp
-- Cool breeze
-- Strong wind
+- [Fresh](/en/post/fresh/)
+- [Quick](/en/post/quick/)
+- [Sharp](/en/post/sharp/)
+- [Cool](/en/post/cool/) [breeze](/en/post/breeze/)
+- [Strong](/en/post/strong/) [wind](/en/post/wind/)
 
 ## Antonyms
-- Slow
+- [Slow](/en/post/slow/)
 - Listless
-- Dull
+- [Dull](/en/post/dull/)
 - Sedate
-- Calm
-- Still
+- [Calm](/en/post/calm/)
+- [Still](/en/post/still/)

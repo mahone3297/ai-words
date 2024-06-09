@@ -11,19 +11,19 @@ keywords = ['ai words', 'suspicion']
 /səˈspɪʃən/
 
 ## 释义
-- **名词**: 怀疑，疑虑；对某人或某事的不信任感。例如: "There was a growing suspicion that he was lying."
-- **动词**: 怀疑，对…产生怀疑。例如: "She suspected him of having an affair."
+- **名词**: 怀疑，疑虑；对某人或某事的不信任感。例如: "[There](/post/there/) was [a](/post/a/) growing [suspicion](/post/suspicion/) [that](/post/that/) [he](/post/he/) was lying."
+- **动词**: 怀疑，对…产生怀疑。例如: "[She](/post/she/) suspected [him](/post/him/) [of](/post/of/) having an [affair](/post/affair/)."
 
 ## 短语
-- "to have suspicion about" 意味着对某事有疑虑。
-- "to cast suspicion on" 指使别人对某人或某事产生怀疑。
+- "[to](/post/to/) [have](/post/have/) [suspicion](/post/suspicion/) [about](/post/about/)" 意味着对某事有疑虑。
+- "[to](/post/to/) [cast](/post/cast/) [suspicion](/post/suspicion/) [on](/post/on/)" 指使别人对某人或某事产生怀疑。
 
 ## 例句
-- 名词: "The police had strong suspicions about his involvement in the crime."
-- 动词: "Her sudden departure made us suspect something was wrong."
+- 名词: "[The](/post/the/) [police](/post/police/) had [strong](/post/strong/) suspicions [about](/post/about/) [his](/post/his/) involvement [in](/post/in/) [the](/post/the/) [crime](/post/crime/)."
+- 动词: "[Her](/post/her/) [sudden](/post/sudden/) [departure](/post/departure/) made [us](/post/us/) [suspect](/post/suspect/) [something](/post/something/) was [wrong](/post/wrong/)."
 
 ## 同义词
-- doubt
+- [doubt](/post/doubt/)
 - mistrust
 - doubtfulness
 - suspection

@@ -11,20 +11,20 @@ keywords = ['ai words', 'cup']
 /kʌp/
 
 ## 释义
-- **名词**: 一种有柄的小杯子，通常用来盛饮料。例如: "She held her cup of tea with both hands."
-- **动词**: 在某些语境中，表示捧起或持有什么。例如: "He cupped his hands to catch the water."
+- **名词**: 一种有柄的小杯子，通常用来盛饮料。例如: "[She](/post/she/) held [her](/post/her/) [cup](/post/cup/) [of](/post/of/) [tea](/post/tea/) [with](/post/with/) [both](/post/both/) hands."
+- **动词**: 在某些语境中，表示捧起或持有什么。例如: "[He](/post/he/) cupped [his](/post/his/) hands [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [water](/post/water/)."
 
 ## 短语
-- "Hold the cup" 意为握住杯子。
-- "A cup of coffee" 通常指一杯咖啡。
+- "[Hold](/post/hold/) [the](/post/the/) [cup](/post/cup/)" 意为握住杯子。
+- "[A](/post/a/) [cup](/post/cup/) [of](/post/of/) [coffee](/post/coffee/)" 通常指一杯咖啡。
 
 ## 例句
-- 名词: "He filled the cup with hot chocolate and handed it to her."
-- 动词: "She cupped her chin in her hand while listening to the story."
+- 名词: "[He](/post/he/) filled [the](/post/the/) [cup](/post/cup/) [with](/post/with/) [hot](/post/hot/) [chocolate](/post/chocolate/) [and](/post/and/) handed [it](/post/it/) [to](/post/to/) [her](/post/her/)."
+- 动词: "[She](/post/she/) cupped [her](/post/her/) [chin](/post/chin/) [in](/post/in/) [her](/post/her/) [hand](/post/hand/) [while](/post/while/) listening [to](/post/to/) [the](/post/the/) [story](/post/story/)."
 
 ## 同义词
-- Vessel
-- Mug
+- [Vessel](/post/vessel/)
+- [Mug](/post/mug/)
 - Goblet
 - Tumbler
-- Glass (在某些情况下可作为杯的同义词)
+- [Glass](/post/glass/) (在某些情况下可作为杯的同义词)

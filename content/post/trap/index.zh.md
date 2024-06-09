@@ -12,22 +12,22 @@ keywords = ['ai words', 'trap']
 
 ## 释义
 - **名词 n**:
-  - 陷阱，圈套：A device or situation designed to catch or ensnare someone or something, typically metaphorically.
-  - 一个困境，难以摆脱的局面：A difficult or unpleasant situation from which it is hard to escape.
+  - 陷阱，圈套：[A](/post/a/) [device](/post/device/) [or](/post/or/) [situation](/post/situation/) designed [to](/post/to/) [catch](/post/catch/) [or](/post/or/) ensnare [someone](/post/someone/) [or](/post/or/) [something](/post/something/), typically metaphorically.
+  - 一个困境，难以摆脱的局面：[A](/post/a/) [difficult](/post/difficult/) [or](/post/or/) [unpleasant](/post/unpleasant/) [situation](/post/situation/) [from](/post/from/) [which](/post/which/) [it](/post/it/) is [hard](/post/hard/) [to](/post/to/) [escape](/post/escape/).
 
 - **动词 v**:
-  - 设陷阱，诱捕：To set a trap for someone or something.
-  - 使陷入困境：To cause someone to become trapped in a difficult situation.
+  - 设陷阱，诱捕：[To](/post/to/) [set](/post/set/) [a](/post/a/) [trap](/post/trap/) [for](/post/for/) [someone](/post/someone/) [or](/post/or/) [something](/post/something/).
+  - 使陷入困境：[To](/post/to/) [cause](/post/cause/) [someone](/post/someone/) [to](/post/to/) [become](/post/become/) trapped [in](/post/in/) [a](/post/a/) [difficult](/post/difficult/) [situation](/post/situation/).
 
 ## 短语
-- "fall into a trap" 落入陷阱，受骗
-- "set a trap for sb." 为某人设陷阱
-- "be trapped in" 被困在...
+- "[fall](/post/fall/) [into](/post/into/) [a](/post/a/) [trap](/post/trap/)" 落入陷阱，受骗
+- "[set](/post/set/) [a](/post/a/) [trap](/post/trap/) [for](/post/for/) sb." 为某人设陷阱
+- "[be](/post/be/) trapped [in](/post/in/)" 被困在...
 
 ## 例句
-- 名词: "The hunter set a trap to catch the rabbit."
-- 动词: "The spy was trapped by the enemy's deception."
-- 情景： "They were lucky to escape being trapped in the burning building."
+- 名词: "[The](/post/the/) hunter [set](/post/set/) [a](/post/a/) [trap](/post/trap/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [rabbit](/post/rabbit/)."
+- 动词: "[The](/post/the/) [spy](/post/spy/) was trapped [by](/post/by/) [the](/post/the/) enemy's deception."
+- 情景： "[They](/post/they/) were [lucky](/post/lucky/) [to](/post/to/) [escape](/post/escape/) [being](/post/being/) trapped [in](/post/in/) [the](/post/the/) burning [building](/post/building/)."
 
 ## 同义词
 - snare

@@ -11,19 +11,19 @@ keywords = ['ai words', 'joyful']
 /ˈdʒoʊfl/
 
 ## 释义
-- **形容词**: 快乐的，愉快的，充满喜悦的。例如: "She had a joyful expression on her face."
-- **副词**: 快乐地，愉快地。例如: "They danced joyful around the room."
+- **形容词**: 快乐的，愉快的，充满喜悦的。例如: "[She](/post/she/) had [a](/post/a/) [joyful](/post/joyful/) [expression](/post/expression/) [on](/post/on/) [her](/post/her/) [face](/post/face/)."
+- **副词**: 快乐地，愉快地。例如: "[They](/post/they/) danced [joyful](/post/joyful/) [around](/post/around/) [the](/post/the/) [room](/post/room/)."
 
 ## 短语
-- "joyful occasion" 意为令人快乐的场合。
-- "joyful celebration" 表示欢乐的庆祝活动。
+- "[joyful](/post/joyful/) [occasion](/post/occasion/)" 意为令人快乐的场合。
+- "[joyful](/post/joyful/) celebration" 表示欢乐的庆祝活动。
 
 ## 例句
-- 形容词: "The children's laughter filled the air with a joyful atmosphere."
-- 副词: "She sang joyful songs, filling the house with happiness."
+- 形容词: "[The](/post/the/) children's [laughter](/post/laughter/) filled [the](/post/the/) [air](/post/air/) [with](/post/with/) [a](/post/a/) [joyful](/post/joyful/) [atmosphere](/post/atmosphere/)."
+- 副词: "[She](/post/she/) sang [joyful](/post/joyful/) songs, filling [the](/post/the/) [house](/post/house/) [with](/post/with/) [happiness](/post/happiness/)."
 
 ## 同义词
-- Happy
+- [Happy](/post/happy/)
 - Delighted
 - Ecstatic
 - Elated

@@ -14,16 +14,16 @@ keywords = ['ai words', 'railway']
 - **名词**: 铁路，铁道。一种由钢轨、枕木、道岔和信号设备组成的交通系统，通常用于运输旅客和货物。
 
 ## 短语
-- "railway station" 火车站
-- "railway network" 铁路网
-- "railway line" 铁路线
+- "[railway](/post/railway/) [station](/post/station/)" 火车站
+- "[railway](/post/railway/) [network](/post/network/)" 铁路网
+- "[railway](/post/railway/) [line](/post/line/)" 铁路线
 
 ## 例句
-- 名词: "The new railway connects the two cities directly."
-- "We'll take the express train on the main railway line to reach our destination."
+- 名词: "[The](/post/the/) [new](/post/new/) [railway](/post/railway/) connects [the](/post/the/) [two](/post/two/) cities [directly](/post/directly/)."
+- "We'll [take](/post/take/) [the](/post/the/) [express](/post/express/) [train](/post/train/) [on](/post/on/) [the](/post/the/) [main](/post/main/) [railway](/post/railway/) [line](/post/line/) [to](/post/to/) [reach](/post/reach/) [our](/post/our/) [destination](/post/destination/)."
 
 ## 同义词
-- railroad (美式英语)
-- railway system
-- train track
+- [railroad](/post/railroad/) (美式英语)
+- [railway](/post/railway/) [system](/post/system/)
+- [train](/post/train/) [track](/post/track/)
 - tramway (在某些情况下，指城市有轨电车系统)

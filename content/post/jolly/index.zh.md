@@ -11,20 +11,20 @@ keywords = ['ai words', 'jolly']
 /ˈdʒɒli/
 
 ## 释义
-- **形容词**: 快乐的，愉快的，充满乐趣的。例如: "They had a jolly good time at the party."
-- **副词**: 非常，极其。主要用于口语中，表示强调。例如: "I'm jolly tired after a long day at work."
+- **形容词**: 快乐的，愉快的，充满乐趣的。例如: "[They](/post/they/) had [a](/post/a/) [jolly](/post/jolly/) [good](/post/good/) [time](/post/time/) [at](/post/at/) [the](/post/the/) [party](/post/party/)."
+- **副词**: 非常，极其。主要用于口语中，表示强调。例如: "I'm [jolly](/post/jolly/) [tired](/post/tired/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [at](/post/at/) [work](/post/work/)."
 
 ## 短语
-- "have a jolly time" 意为玩得开心。
-- "jolly well" 用来强调肯定，意为"确实，的确"。
+- "[have](/post/have/) [a](/post/a/) [jolly](/post/jolly/) [time](/post/time/)" 意为玩得开心。
+- "[jolly](/post/jolly/) [well](/post/well/)" 用来强调肯定，意为"确实，的确"。
 
 ## 例句
-- 形容词: "The children were in jolly spirits on their holiday."
-- 副词: "You did jolly well on that exam!"
+- 形容词: "[The](/post/the/) children were [in](/post/in/) [jolly](/post/jolly/) spirits [on](/post/on/) [their](/post/their/) [holiday](/post/holiday/)."
+- 副词: "[You](/post/you/) did [jolly](/post/jolly/) [well](/post/well/) [on](/post/on/) [that](/post/that/) [exam](/post/exam/)!"
 
 ## 同义词
-- joyful
-- happy
-- cheerful
-- merry
+- [joyful](/post/joyful/)
+- [happy](/post/happy/)
+- [cheerful](/post/cheerful/)
+- [merry](/post/merry/)
 - delighted

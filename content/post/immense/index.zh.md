@@ -11,20 +11,20 @@ keywords = ['ai words', 'immense']
 /ɪmˈmens/
 
 ## 释义
-- **形容词**: 极大的，巨大的，庞大的。例如: "The immense size of the building impressed everyone."
-- **名词**: (有时用作抽象名词) 巨大，浩渺。例如: "She felt overwhelmed by the immense responsibility."
+- **形容词**: 极大的，巨大的，庞大的。例如: "[The](/post/the/) [immense](/post/immense/) [size](/post/size/) [of](/post/of/) [the](/post/the/) [building](/post/building/) impressed [everyone](/post/everyone/)."
+- **名词**: (有时用作抽象名词) 巨大，浩渺。例如: "[She](/post/she/) felt overwhelmed [by](/post/by/) [the](/post/the/) [immense](/post/immense/) [responsibility](/post/responsibility/)."
 
 ## 短语
-- "immense power" 强大的力量
-- "immense gratitude" 深深的感激
+- "[immense](/post/immense/) [power](/post/power/)" 强大的力量
+- "[immense](/post/immense/) [gratitude](/post/gratitude/)" 深深的感激
 
 ## 例句
-- 形容词: "The scientist was studying an immense galaxy far away in space."
-- 名词: "His success brought him immense satisfaction."
+- 形容词: "[The](/post/the/) [scientist](/post/scientist/) was studying an [immense](/post/immense/) galaxy [far](/post/far/) [away](/post/away/) [in](/post/in/) [space](/post/space/)."
+- 名词: "[His](/post/his/) [success](/post/success/) brought [him](/post/him/) [immense](/post/immense/) [satisfaction](/post/satisfaction/)."
 
 ## 同义词
-- enormous
+- [enormous](/post/enormous/)
 - gigantic
 - colossal
 - mammoth
-- vast
+- [vast](/post/vast/)

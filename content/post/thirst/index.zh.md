@@ -11,20 +11,20 @@ keywords = ['ai words', 'thirst']
 /θɜːrst/
 
 ## 释义
-- **名词**: 渴望，渴求。例如: "She had a strong thirst for knowledge."
-- **动词**: 感到口渴；渴望得到。例如: "After running, he thirsted for a cold drink."
+- **名词**: 渴望，渴求。例如: "[She](/post/she/) had [a](/post/a/) [strong](/post/strong/) [thirst](/post/thirst/) [for](/post/for/) [knowledge](/post/knowledge/)."
+- **动词**: 感到口渴；渴望得到。例如: "[After](/post/after/) running, [he](/post/he/) thirsted [for](/post/for/) [a](/post/a/) [cold](/post/cold/) [drink](/post/drink/)."
 
 ## 短语
-- "Thirst quenching" 指的是消除口渴或满足渴望。
-- "Thirst for something" 表示对某事物的强烈欲望。
+- "[Thirst](/post/thirst/) quenching" 指的是消除口渴或满足渴望。
+- "[Thirst](/post/thirst/) [for](/post/for/) [something](/post/something/)" 表示对某事物的强烈欲望。
 
 ## 例句
-- 名词: "His thirst for adventure led him to explore unknown territories."
-- 动词: "After a long hike, they were all thirsting for water."
+- 名词: "[His](/post/his/) [thirst](/post/thirst/) [for](/post/for/) [adventure](/post/adventure/) led [him](/post/him/) [to](/post/to/) [explore](/post/explore/) [unknown](/post/unknown/) territories."
+- 动词: "[After](/post/after/) [a](/post/a/) [long](/post/long/) hike, [they](/post/they/) were [all](/post/all/) thirsting [for](/post/for/) [water](/post/water/)."
 
 ## 同义词
-- Desire
-- Hunger
+- [Desire](/post/desire/)
+- [Hunger](/post/hunger/)
 - Longing
-- Appetite
+- [Appetite](/post/appetite/)
 - Craving

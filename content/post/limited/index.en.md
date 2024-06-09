@@ -7,39 +7,39 @@ description = '[ˈlimitid] a.有限的'
 keywords = ['ai words', 'limited']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈlɪmɪtɪd/
 
 ## Definitions
-- **Adjective**: Confined within limits; not exceeding a certain amount or degree; restricted. For example: "The company has a limited budget for marketing this year."
+- **[Adjective](/en/post/adjective/)**: Confined [within](/en/post/within/) limits; [not](/en/post/not/) exceeding [a](/en/post/a/) [certain](/en/post/certain/) [amount](/en/post/amount/) [or](/en/post/or/) [degree](/en/post/degree/); restricted. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) has [a](/en/post/a/) [limited](/en/post/limited/) budget [for](/en/post/for/) marketing [this](/en/post/this/) [year](/en/post/year/)."
   
-  - **Verb (Past Participle)**: To restrict or confine within bounds; to set a maximum or minimum limit on something. For example: "Our use of natural resources has been severely limited by new environmental regulations."
+  - **[Verb](/en/post/verb/) ([Past](/en/post/past/) Participle)**: [To](/en/post/to/) [restrict](/en/post/restrict/) [or](/en/post/or/) [confine](/en/post/confine/) [within](/en/post/within/) bounds; [to](/en/post/to/) [set](/en/post/set/) [a](/en/post/a/) [maximum](/en/post/maximum/) [or](/en/post/or/) [minimum](/en/post/minimum/) [limit](/en/post/limit/) [on](/en/post/on/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[Our](/en/post/our/) [use](/en/post/use/) [of](/en/post/of/) [natural](/en/post/natural/) resources has been [severely](/en/post/severely/) [limited](/en/post/limited/) [by](/en/post/by/) [new](/en/post/new/) environmental regulations."
 
 ### Phrases
-- "Limited edition": A product that is produced in a restricted quantity and often considered exclusive or collectible.
-- "Limited liability": A legal status where a person's financial responsibility for a loss or debt is restricted to a specific sum, typically the amount they invested in a company.
-- "Time-limited offer": An offer or deal that is only available for a specific period.
+- "[Limited](/en/post/limited/) [edition](/en/post/edition/)": [A](/en/post/a/) [product](/en/post/product/) [that](/en/post/that/) is produced [in](/en/post/in/) [a](/en/post/a/) restricted [quantity](/en/post/quantity/) [and](/en/post/and/) [often](/en/post/often/) considered exclusive [or](/en/post/or/) collectible.
+- "[Limited](/en/post/limited/) liability": [A](/en/post/a/) [legal](/en/post/legal/) [status](/en/post/status/) [where](/en/post/where/) [a](/en/post/a/) person's [financial](/en/post/financial/) [responsibility](/en/post/responsibility/) [for](/en/post/for/) [a](/en/post/a/) [loss](/en/post/loss/) [or](/en/post/or/) [debt](/en/post/debt/) is restricted [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [sum](/en/post/sum/), typically [the](/en/post/the/) [amount](/en/post/amount/) [they](/en/post/they/) invested [in](/en/post/in/) [a](/en/post/a/) [company](/en/post/company/).
+- "Time-limited [offer](/en/post/offer/)": An [offer](/en/post/offer/) [or](/en/post/or/) [deal](/en/post/deal/) [that](/en/post/that/) is [only](/en/post/only/) [available](/en/post/available/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [period](/en/post/period/).
 
-### Example Sentences
-- **Adjective**: "Due to her injury, her ability to participate in sports activities was limited."
-- **Verb**: "The government has limited the number of cars allowed on the road during peak hours to reduce traffic congestion."
+### [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[Due](/en/post/due/) [to](/en/post/to/) [her](/en/post/her/) [injury](/en/post/injury/), [her](/en/post/her/) [ability](/en/post/ability/) [to](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) sports activities was [limited](/en/post/limited/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [government](/en/post/government/) has [limited](/en/post/limited/) [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) cars allowed [on](/en/post/on/) [the](/en/post/the/) [road](/en/post/road/) [during](/en/post/during/) [peak](/en/post/peak/) hours [to](/en/post/to/) [reduce](/en/post/reduce/) [traffic](/en/post/traffic/) congestion."
 
 ## Synonyms
 - Constrained
 - Restricted
-- Bound
+- [Bound](/en/post/bound/)
 - Confined
 - Curtailed
 - Circumscribed
 - Bounded
-- Restricted to
+- Restricted [to](/en/post/to/)
 - Allocated
-- Set (a limit) on
+- [Set](/en/post/set/) ([a](/en/post/a/) [limit](/en/post/limit/)) [on](/en/post/on/)
 
 Antonyms:
 - Unlimited
 - Unrestricted
 - Boundless
-- Endless
-- Infinite
+- [Endless](/en/post/endless/)
+- [Infinite](/en/post/infinite/)
 - Unconstrained

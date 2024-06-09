@@ -7,40 +7,40 @@ description = '[sləu] a.慢的；迟钝的'
 keywords = ['ai words', 'slow']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /səʊl/
 
 ## Definitions
-### Adjective
-- **Slow**: Characterized by a lack of speed or agility; proceeding at a gradual pace. For example: "The snail moved very slowly across the garden."
-- **Slower**: Comparatively less fast; more leisurely. For example: "The older car had a slower acceleration than the new one."
-- **Slowly**: In a gradual or unhurried manner. For example: "She drank her coffee slowly, enjoying the warmth."
+### [Adjective](/en/post/adjective/)
+- **[Slow](/en/post/slow/)**: Characterized [by](/en/post/by/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [speed](/en/post/speed/) [or](/en/post/or/) agility; proceeding [at](/en/post/at/) [a](/en/post/a/) [gradual](/en/post/gradual/) [pace](/en/post/pace/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) snail moved [very](/en/post/very/) [slowly](/en/post/slowly/) [across](/en/post/across/) [the](/en/post/the/) [garden](/en/post/garden/)."
+- **Slower**: Comparatively [less](/en/post/less/) [fast](/en/post/fast/); [more](/en/post/more/) leisurely. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) older [car](/en/post/car/) had [a](/en/post/a/) slower [acceleration](/en/post/acceleration/) [than](/en/post/than/) [the](/en/post/the/) [new](/en/post/new/) [one](/en/post/one/)."
+- **[Slowly](/en/post/slowly/)**: [In](/en/post/in/) [a](/en/post/a/) [gradual](/en/post/gradual/) [or](/en/post/or/) unhurried [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) drank [her](/en/post/her/) [coffee](/en/post/coffee/) [slowly](/en/post/slowly/), enjoying [the](/en/post/the/) [warmth](/en/post/warmth/)."
 
-### Noun
-- **Slowdown**: A decrease in speed or activity. For example: "The company experienced a significant slowdown during the pandemic."
-- **Slow motion**: The visual representation of actions occurring at a much slower pace than normal. For example: "In the film, the explosion was shown in slow motion."
+### [Noun](/en/post/noun/)
+- **Slowdown**: [A](/en/post/a/) [decrease](/en/post/decrease/) [in](/en/post/in/) [speed](/en/post/speed/) [or](/en/post/or/) [activity](/en/post/activity/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) experienced [a](/en/post/a/) [significant](/en/post/significant/) slowdown [during](/en/post/during/) [the](/en/post/the/) pandemic."
+- **[Slow](/en/post/slow/) [motion](/en/post/motion/)**: [The](/en/post/the/) [visual](/en/post/visual/) representation [of](/en/post/of/) actions occurring [at](/en/post/at/) [a](/en/post/a/) [much](/en/post/much/) slower [pace](/en/post/pace/) [than](/en/post/than/) [normal](/en/post/normal/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [the](/en/post/the/) [film](/en/post/film/), [the](/en/post/the/) [explosion](/en/post/explosion/) was shown [in](/en/post/in/) [slow](/en/post/slow/) [motion](/en/post/motion/)."
 
-### Verb
-- **To slow down**: To reduce one's speed or pace. For example: "Drivers are advised to slow down when approaching a school zone."
-- **To slow**: To cause something to move or function at a reduced rate. For example: "The mechanic slowed the engine to check for any issues."
+### [Verb](/en/post/verb/)
+- **[To](/en/post/to/) [slow](/en/post/slow/) [down](/en/post/down/)**: [To](/en/post/to/) [reduce](/en/post/reduce/) one's [speed](/en/post/speed/) [or](/en/post/or/) [pace](/en/post/pace/). [For](/en/post/for/) [example](/en/post/example/): "Drivers are advised [to](/en/post/to/) [slow](/en/post/slow/) [down](/en/post/down/) [when](/en/post/when/) approaching [a](/en/post/a/) [school](/en/post/school/) [zone](/en/post/zone/)."
+- **[To](/en/post/to/) [slow](/en/post/slow/)**: [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [function](/en/post/function/) [at](/en/post/at/) [a](/en/post/a/) reduced [rate](/en/post/rate/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [mechanic](/en/post/mechanic/) slowed [the](/en/post/the/) [engine](/en/post/engine/) [to](/en/post/to/) [check](/en/post/check/) [for](/en/post/for/) [any](/en/post/any/) issues."
 
 ## Phrases
-- "Slow down a bit"
-- "A slow process"
-- "Slowly but surely"
-- "She drives too slow for my taste"
+- "[Slow](/en/post/slow/) [down](/en/post/down/) [a](/en/post/a/) [bit](/en/post/bit/)"
+- "[A](/en/post/a/) [slow](/en/post/slow/) [process](/en/post/process/)"
+- "[Slowly](/en/post/slowly/) [but](/en/post/but/) [surely](/en/post/surely/)"
+- "[She](/en/post/she/) drives [too](/en/post/too/) [slow](/en/post/slow/) [for](/en/post/for/) [my](/en/post/my/) [taste](/en/post/taste/)"
 
-## Example Sentences
-- **Adjective**: "The train was delayed due to a slow track."
-- **Noun**: "The project is progressing slowly after the slowdown in funding."
-- **Verb**: "He tried to slow his breathing to calm himself down."
-- **Adverb**: "He drove the car slowly around the corner."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [train](/en/post/train/) was delayed [due](/en/post/due/) [to](/en/post/to/) [a](/en/post/a/) [slow](/en/post/slow/) [track](/en/post/track/)."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [project](/en/post/project/) is progressing [slowly](/en/post/slowly/) [after](/en/post/after/) [the](/en/post/the/) slowdown [in](/en/post/in/) funding."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) [slow](/en/post/slow/) [his](/en/post/his/) breathing [to](/en/post/to/) [calm](/en/post/calm/) [himself](/en/post/himself/) [down](/en/post/down/)."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) drove [the](/en/post/the/) [car](/en/post/car/) [slowly](/en/post/slowly/) [around](/en/post/around/) [the](/en/post/the/) [corner](/en/post/corner/)."
 
 ## Synonyms
-- Gradual
+- [Gradual](/en/post/gradual/)
 - Leisurely
 - Unhurried
-- Steady
+- [Steady](/en/post/steady/)
 - Deliberate
 - Tardy
 - Languid

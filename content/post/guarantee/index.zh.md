@@ -12,26 +12,26 @@ keywords = ['ai words', 'guarantee']
 
 ## 释义
 - **名词 n**:
-  - 保证；担保：A promise or assurance, especially one in writing, that something is of a specified quality, quantity, or performance.
-  - 保修单：A document that specifies the terms of a manufacturer's or seller's warranty.
+  - 保证；担保：[A](/post/a/) [promise](/post/promise/) [or](/post/or/) assurance, [especially](/post/especially/) [one](/post/one/) [in](/post/in/) [writing](/post/writing/), [that](/post/that/) [something](/post/something/) is [of](/post/of/) [a](/post/a/) specified [quality](/post/quality/), [quantity](/post/quantity/), [or](/post/or/) [performance](/post/performance/).
+  - 保修单：[A](/post/a/) [document](/post/document/) [that](/post/that/) specifies [the](/post/the/) terms [of](/post/of/) [a](/post/a/) manufacturer's [or](/post/or/) seller's warranty.
 
 - **动词 v**:
-  - 保证；确保：To promise or assure something; to give a warranty for.
-  - 保证（某事会发生）：To assure or promise that something will happen or be true.
+  - 保证；确保：[To](/post/to/) [promise](/post/promise/) [or](/post/or/) [assure](/post/assure/) [something](/post/something/); [to](/post/to/) [give](/post/give/) [a](/post/a/) warranty [for](/post/for/).
+  - 保证（某事会发生）：[To](/post/to/) [assure](/post/assure/) [or](/post/or/) [promise](/post/promise/) [that](/post/that/) [something](/post/something/) [will](/post/will/) [happen](/post/happen/) [or](/post/or/) [be](/post/be/) [true](/post/true/).
 
 ## 短语
-- "Guarantee payment" 指担保付款。
-- "Money-back guarantee" 是一种退款保证。
-- "Guaranteed delivery" 意为保证送达。
+- "[Guarantee](/post/guarantee/) [payment](/post/payment/)" 指担保付款。
+- "Money-back [guarantee](/post/guarantee/)" 是一种退款保证。
+- "Guaranteed [delivery](/post/delivery/)" 意为保证送达。
 
 ## 例句
-- 名词: "The manufacturer provides a two-year guarantee on all their products."
-- 动词: "The bank guaranteed the loan against default by the borrower."
-- "The contract guarantees a minimum salary for the employees."
+- 名词: "[The](/post/the/) [manufacturer](/post/manufacturer/) provides [a](/post/a/) two-year [guarantee](/post/guarantee/) [on](/post/on/) [all](/post/all/) [their](/post/their/) products."
+- 动词: "[The](/post/the/) [bank](/post/bank/) guaranteed [the](/post/the/) [loan](/post/loan/) [against](/post/against/) default [by](/post/by/) [the](/post/the/) borrower."
+- "[The](/post/the/) [contract](/post/contract/) guarantees [a](/post/a/) [minimum](/post/minimum/) [salary](/post/salary/) [for](/post/for/) [the](/post/the/) employees."
 
 ## 同义词
-- Assure
+- [Assure](/post/assure/)
 - Warranty
 - Vouchsafe
-- Secure
-- Promise
+- [Secure](/post/secure/)
+- [Promise](/post/promise/)

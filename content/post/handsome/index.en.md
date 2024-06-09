@@ -7,32 +7,32 @@ description = '[ˈhænsəm] a.英俊的；相当大的'
 keywords = ['ai words', 'handsome']
 +++
 
-## Word: Handsome
+## [Word](/en/post/word/): [Handsome](/en/post/handsome/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈhænsəm/
 
 ## Definitions
-- **Adjective**: (adj) Attractive, especially in a manly or dignified way; good-looking. For example: "The actor has a handsome face with chiseled features."
+- **[Adjective](/en/post/adjective/)**: (adj) [Attractive](/en/post/attractive/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [manly](/en/post/manly/) [or](/en/post/or/) dignified [way](/en/post/way/); good-looking. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [actor](/en/post/actor/) has [a](/en/post/a/) [handsome](/en/post/handsome/) [face](/en/post/face/) [with](/en/post/with/) chiseled features."
   
-  - Referring to money or an amount: Generous, ample, considerable. Example: "He received a handsome reward for his efforts."
+  - Referring [to](/en/post/to/) [money](/en/post/money/) [or](/en/post/or/) an [amount](/en/post/amount/): [Generous](/en/post/generous/), ample, [considerable](/en/post/considerable/). [Example](/en/post/example/): "[He](/en/post/he/) received [a](/en/post/a/) [handsome](/en/post/handsome/) [reward](/en/post/reward/) [for](/en/post/for/) [his](/en/post/his/) efforts."
   
-- **Noun** (less commonly): A handsome person or thing. Example: "The young man was quite the handsome around town."
+- **[Noun](/en/post/noun/)** ([less](/en/post/less/) [commonly](/en/post/commonly/)): [A](/en/post/a/) [handsome](/en/post/handsome/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/). [Example](/en/post/example/): "[The](/en/post/the/) [young](/en/post/young/) [man](/en/post/man/) was [quite](/en/post/quite/) [the](/en/post/the/) [handsome](/en/post/handsome/) [around](/en/post/around/) [town](/en/post/town/)."
 
 ## Phrases
-- "A handsome sum": A large or generous amount of money. Example: "The inheritance was a handsome sum indeed."
-- "Handsome is as handsome does": This idiomatic expression suggests that one's true worth is based on their actions rather than their appearance.
+- "[A](/en/post/a/) [handsome](/en/post/handsome/) [sum](/en/post/sum/)": [A](/en/post/a/) [large](/en/post/large/) [or](/en/post/or/) [generous](/en/post/generous/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/). [Example](/en/post/example/): "[The](/en/post/the/) inheritance was [a](/en/post/a/) [handsome](/en/post/handsome/) [sum](/en/post/sum/) [indeed](/en/post/indeed/)."
+- "[Handsome](/en/post/handsome/) is [as](/en/post/as/) [handsome](/en/post/handsome/) does": [This](/en/post/this/) idiomatic [expression](/en/post/expression/) suggests [that](/en/post/that/) one's [true](/en/post/true/) [worth](/en/post/worth/) is based [on](/en/post/on/) [their](/en/post/their/) actions [rather](/en/post/rather/) [than](/en/post/than/) [their](/en/post/their/) [appearance](/en/post/appearance/).
 
-## Example Sentences
-- **Adjective**: "She couldn't help but admire her date's handsome suit and debonair demeanor."
-- "He inherited a handsome Victorian house from his grandmother."
-- **Noun**: "The leading man was known for being the most handsome in Hollywood."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) couldn't [help](/en/post/help/) [but](/en/post/but/) [admire](/en/post/admire/) [her](/en/post/her/) date's [handsome](/en/post/handsome/) [suit](/en/post/suit/) [and](/en/post/and/) debonair demeanor."
+- "[He](/en/post/he/) inherited [a](/en/post/a/) [handsome](/en/post/handsome/) Victorian [house](/en/post/house/) [from](/en/post/from/) [his](/en/post/his/) [grandmother](/en/post/grandmother/)."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [leading](/en/post/leading/) [man](/en/post/man/) was known [for](/en/post/for/) [being](/en/post/being/) [the](/en/post/the/) [most](/en/post/most/) [handsome](/en/post/handsome/) [in](/en/post/in/) Hollywood."
 
 ## Synonyms
-- Attractive
+- [Attractive](/en/post/attractive/)
 - Good-looking
 - Dashing
-- Charming
-- Elegant (for appearance)
-- Generous (for amounts)
-- Considerable (for quantities)
+- [Charming](/en/post/charming/)
+- Elegant ([for](/en/post/for/) [appearance](/en/post/appearance/))
+- [Generous](/en/post/generous/) ([for](/en/post/for/) amounts)
+- [Considerable](/en/post/considerable/) ([for](/en/post/for/) quantities)

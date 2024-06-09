@@ -11,23 +11,23 @@ keywords = ['ai words', 'comfort']
 /ˈkʌmfərt/
 
 ## 释义
-- **名词**: 舒适，安逸；安慰，抚慰。例如: "She found comfort in her friend's embrace."
-- **动词**: 使舒适，安慰。例如: "His words comforted her during the difficult time."
-- **形容词**: 舒适的，给人安慰的。例如: "a comfortable chair"
+- **名词**: 舒适，安逸；安慰，抚慰。例如: "[She](/post/she/) [found](/post/found/) [comfort](/post/comfort/) [in](/post/in/) [her](/post/her/) friend's [embrace](/post/embrace/)."
+- **动词**: 使舒适，安慰。例如: "[His](/post/his/) words comforted [her](/post/her/) [during](/post/during/) [the](/post/the/) [difficult](/post/difficult/) [time](/post/time/)."
+- **形容词**: 舒适的，给人安慰的。例如: "[a](/post/a/) [comfortable](/post/comfortable/) [chair](/post/chair/)"
 
 ## 短语
-- "in comfort" 表示在舒适的环境中。
-- "to take comfort from something" 意为从某事中得到安慰。
-- "a comforting presence" 指的是给人带来安慰的存在。
+- "[in](/post/in/) [comfort](/post/comfort/)" 表示在舒适的环境中。
+- "[to](/post/to/) [take](/post/take/) [comfort](/post/comfort/) [from](/post/from/) [something](/post/something/)" 意为从某事中得到安慰。
+- "[a](/post/a/) comforting [presence](/post/presence/)" 指的是给人带来安慰的存在。
 
 ## 例句
-- 名词: "The soft bed provided much-needed comfort after a long journey."
-- 动词: "His mother comforted him when he was upset."
-- 形容词: "The hotel offers comfortable rooms with all modern amenities."
+- 名词: "[The](/post/the/) [soft](/post/soft/) [bed](/post/bed/) [provided](/post/provided/) much-needed [comfort](/post/comfort/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [journey](/post/journey/)."
+- 动词: "[His](/post/his/) [mother](/post/mother/) comforted [him](/post/him/) [when](/post/when/) [he](/post/he/) was [upset](/post/upset/)."
+- 形容词: "[The](/post/the/) [hotel](/post/hotel/) offers [comfortable](/post/comfortable/) rooms [with](/post/with/) [all](/post/all/) [modern](/post/modern/) amenities."
 
 ## 同义词
 - Consolation
-- Relief
+- [Relief](/post/relief/)
 - Solace
-- Ease
+- [Ease](/post/ease/)
 - Contentment

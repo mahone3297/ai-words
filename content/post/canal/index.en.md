@@ -7,38 +7,38 @@ description = '[kəˈnæl] n.运河；沟渠；管'
 keywords = ['ai words', 'canal']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kəˈnæl/
 
 ## Definitions
-### Noun
-A **canal** is:
-1. A人工开凿的水道，通常用于运输或 drainage, often with locks to allow boats to navigate different water levels.
-   - Example: "The Panama Canal connects the Atlantic and Pacific Oceans."
-2. A narrow strip of land or water that is dug or naturally occurring, serving as a barrier or dividing line.
-   - Example: "The Grand Canal divides Venice into two main parts."
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) **[canal](/en/post/canal/)** is:
+1. A人工开凿的水道，通常用于运输或 drainage, [often](/en/post/often/) [with](/en/post/with/) locks [to](/en/post/to/) [allow](/en/post/allow/) boats [to](/en/post/to/) navigate [different](/en/post/different/) [water](/en/post/water/) levels.
+   - [Example](/en/post/example/): "[The](/en/post/the/) Panama [Canal](/en/post/canal/) connects [the](/en/post/the/) [Atlantic](/en/post/atlantic/) [and](/en/post/and/) [Pacific](/en/post/pacific/) Oceans."
+2. [A](/en/post/a/) [narrow](/en/post/narrow/) [strip](/en/post/strip/) [of](/en/post/of/) [land](/en/post/land/) [or](/en/post/or/) [water](/en/post/water/) [that](/en/post/that/) is dug [or](/en/post/or/) [naturally](/en/post/naturally/) occurring, serving [as](/en/post/as/) [a](/en/post/a/) [barrier](/en/post/barrier/) [or](/en/post/or/) dividing [line](/en/post/line/).
+   - [Example](/en/post/example/): "[The](/en/post/the/) [Grand](/en/post/grand/) [Canal](/en/post/canal/) divides Venice [into](/en/post/into/) [two](/en/post/two/) [main](/en/post/main/) parts."
 
-### Verb
-To **canalize** (or sometimes *channel*) something means to direct it through a canal or channel.
-   - Example: "The river was canalized to reduce flooding in the city."
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) **canalize** ([or](/en/post/or/) [sometimes](/en/post/sometimes/) *[channel](/en/post/channel/)*) [something](/en/post/something/) [means](/en/post/means/) [to](/en/post/to/) [direct](/en/post/direct/) [it](/en/post/it/) [through](/en/post/through/) [a](/en/post/a/) [canal](/en/post/canal/) [or](/en/post/or/) [channel](/en/post/channel/).
+   - [Example](/en/post/example/): "[The](/en/post/the/) [river](/en/post/river/) was canalized [to](/en/post/to/) [reduce](/en/post/reduce/) flooding [in](/en/post/in/) [the](/en/post/the/) [city](/en/post/city/)."
 
-### Adjective
-- In architecture or engineering, "canal-like" describes something resembling a canal.
-   - Example: "The design of the building featured canal-like atriums."
+### [Adjective](/en/post/adjective/)
+- [In](/en/post/in/) [architecture](/en/post/architecture/) [or](/en/post/or/) [engineering](/en/post/engineering/), "canal-like" describes [something](/en/post/something/) resembling [a](/en/post/a/) [canal](/en/post/canal/).
+   - [Example](/en/post/example/): "[The](/en/post/the/) [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [building](/en/post/building/) featured canal-like atriums."
 
 ## Phrases
-- "Open a canal" means to start or create a passage or communication channel.
-- "A canal system" refers to a network of interconnected canals for transportation or drainage purposes.
-- "Canal lock gates" are the barriers controlling water levels in a canal.
+- "[Open](/en/post/open/) [a](/en/post/a/) [canal](/en/post/canal/)" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) [or](/en/post/or/) [create](/en/post/create/) [a](/en/post/a/) [passage](/en/post/passage/) [or](/en/post/or/) [communication](/en/post/communication/) [channel](/en/post/channel/).
+- "[A](/en/post/a/) [canal](/en/post/canal/) [system](/en/post/system/)" refers [to](/en/post/to/) [a](/en/post/a/) [network](/en/post/network/) [of](/en/post/of/) interconnected canals [for](/en/post/for/) [transportation](/en/post/transportation/) [or](/en/post/or/) drainage purposes.
+- "[Canal](/en/post/canal/) [lock](/en/post/lock/) gates" are [the](/en/post/the/) barriers controlling [water](/en/post/water/) levels [in](/en/post/in/) [a](/en/post/a/) [canal](/en/post/canal/).
 
-## Example Sentences
-- **Noun**: "The canal was lined with lush vegetation on either side."
-- **Verb**: "They planned to canalize the river to improve navigation."
-- **Adjective**: "The garden's layout resembled a canal system, with winding paths."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [canal](/en/post/canal/) was lined [with](/en/post/with/) lush vegetation [on](/en/post/on/) [either](/en/post/either/) [side](/en/post/side/)."
+- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) planned [to](/en/post/to/) canalize [the](/en/post/the/) [river](/en/post/river/) [to](/en/post/to/) [improve](/en/post/improve/) [navigation](/en/post/navigation/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) garden's [layout](/en/post/layout/) resembled [a](/en/post/a/) [canal](/en/post/canal/) [system](/en/post/system/), [with](/en/post/with/) winding paths."
 
 ## Synonyms
 - Waterway
 - Aqueduct
-- Channel
-- Ditch
-- Lane (less commonly used for waterways)
+- [Channel](/en/post/channel/)
+- [Ditch](/en/post/ditch/)
+- [Lane](/en/post/lane/) ([less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/) [for](/en/post/for/) waterways)

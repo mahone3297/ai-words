@@ -12,24 +12,24 @@ keywords = ['ai words', 'establish']
 
 ## 释义
 - **动词**:
-1. 创建或建立。例如: "They established a new company in the city."
-2. 确立或确立事实。例如: "The experiment helped establish the theory."
-3. 建立关系或联系。例如: "She has established herself as a respected artist in the community."
-4. 使定居或安顿。例如: "The immigrants were helped to establish themselves in their new homes."
+1. 创建或建立。例如: "[They](/post/they/) established [a](/post/a/) [new](/post/new/) [company](/post/company/) [in](/post/in/) [the](/post/the/) [city](/post/city/)."
+2. 确立或确立事实。例如: "[The](/post/the/) [experiment](/post/experiment/) helped [establish](/post/establish/) [the](/post/the/) [theory](/post/theory/)."
+3. 建立关系或联系。例如: "[She](/post/she/) has established [herself](/post/herself/) [as](/post/as/) [a](/post/a/) respected [artist](/post/artist/) [in](/post/in/) [the](/post/the/) [community](/post/community/)."
+4. 使定居或安顿。例如: "[The](/post/the/) immigrants were helped [to](/post/to/) [establish](/post/establish/) [themselves](/post/themselves/) [in](/post/in/) [their](/post/their/) [new](/post/new/) homes."
 
 ## 短语
-- "establish a business" 开设一家企业
-- "establish communication" 建立通讯联系
-- "establish a routine" 建立日常习惯
+- "[establish](/post/establish/) [a](/post/a/) [business](/post/business/)" 开设一家企业
+- "[establish](/post/establish/) [communication](/post/communication/)" 建立通讯联系
+- "[establish](/post/establish/) [a](/post/a/) [routine](/post/routine/)" 建立日常习惯
 
 ## 例句
-- They successfully established a non-profit organization to help underprivileged children.
-- The research findings establish beyond doubt that exercise improves mental health.
-- He has established himself as one of the leading experts in his field.
+- [They](/post/they/) [successfully](/post/successfully/) established [a](/post/a/) non-profit [organization](/post/organization/) [to](/post/to/) [help](/post/help/) underprivileged children.
+- [The](/post/the/) [research](/post/research/) findings [establish](/post/establish/) [beyond](/post/beyond/) [doubt](/post/doubt/) [that](/post/that/) [exercise](/post/exercise/) improves [mental](/post/mental/) [health](/post/health/).
+- [He](/post/he/) has established [himself](/post/himself/) [as](/post/as/) [one](/post/one/) [of](/post/of/) [the](/post/the/) [leading](/post/leading/) experts [in](/post/in/) [his](/post/his/) [field](/post/field/).
 
 ## 同义词
-- found
-- set up
-- create
+- [found](/post/found/)
+- [set](/post/set/) [up](/post/up/)
+- [create](/post/create/)
 - initiate
-- institute
+- [institute](/post/institute/)

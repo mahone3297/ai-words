@@ -11,20 +11,20 @@ keywords = ['ai words', 'disguise']
 /dɪsˈaɪz/
 
 ## 释义
-- **名词**: 假装，伪装，化装。例如: "He wore a disguise to avoid being recognized."
-- **动词**: 使伪装，乔装打扮。例如: "She disguised herself as a boy to escape capture."
+- **名词**: 假装，伪装，化装。例如: "[He](/post/he/) wore [a](/post/a/) [disguise](/post/disguise/) [to](/post/to/) [avoid](/post/avoid/) [being](/post/being/) recognized."
+- **动词**: 使伪装，乔装打扮。例如: "[She](/post/she/) disguised [herself](/post/herself/) [as](/post/as/) [a](/post/a/) [boy](/post/boy/) [to](/post/to/) [escape](/post/escape/) [capture](/post/capture/)."
 
 ## 短语
-- "in disguise" 表示假装成另一种身份或外表。
-- "disguise one's true feelings" 意味着掩饰真实的情感。
+- "[in](/post/in/) [disguise](/post/disguise/)" 表示假装成另一种身份或外表。
+- "[disguise](/post/disguise/) one's [true](/post/true/) feelings" 意味着掩饰真实的情感。
 
 ## 例句
-- 名词: "The spy used a clever disguise to blend in with the crowd."
-- 动词: "She disguised her voice on the phone so no one would recognize her."
+- 名词: "[The](/post/the/) [spy](/post/spy/) [used](/post/used/) [a](/post/a/) [clever](/post/clever/) [disguise](/post/disguise/) [to](/post/to/) [blend](/post/blend/) [in](/post/in/) [with](/post/with/) [the](/post/the/) [crowd](/post/crowd/)."
+- 动词: "[She](/post/she/) disguised [her](/post/her/) [voice](/post/voice/) [on](/post/on/) [the](/post/the/) [phone](/post/phone/) [so](/post/so/) [no](/post/no/) [one](/post/one/) [would](/post/would/) [recognize](/post/recognize/) [her](/post/her/)."
 
 ## 同义词
-- conceal
-- mask
-- pretend
-- hide
+- [conceal](/post/conceal/)
+- [mask](/post/mask/)
+- [pretend](/post/pretend/)
+- [hide](/post/hide/)
 - camouflage

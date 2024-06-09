@@ -11,20 +11,20 @@ keywords = ['ai words', 'capable']
 /ˈkeɪ.pə.bəl/
 
 ## 释义
-- **形容词**: 有能力的，有才能的，胜任的。例如: "She is capable of handling difficult tasks."
-- **名词**: 能力，才能。例如: "His capabilities in music are impressive."
+- **形容词**: 有能力的，有才能的，胜任的。例如: "[She](/post/she/) is [capable](/post/capable/) [of](/post/of/) handling [difficult](/post/difficult/) tasks."
+- **名词**: 能力，才能。例如: "[His](/post/his/) capabilities [in](/post/in/) [music](/post/music/) are [impressive](/post/impressive/)."
 
 ## 短语
-- "capable of" 意为能够做某事，例如: "The new software is capable of processing large amounts of data quickly."
-- "more than capable" 意为非常有能力，例如: "She is more than capable of managing the project on her own."
+- "[capable](/post/capable/) [of](/post/of/)" 意为能够做某事，例如: "[The](/post/the/) [new](/post/new/) software is [capable](/post/capable/) [of](/post/of/) processing [large](/post/large/) amounts [of](/post/of/) [data](/post/data/) [quickly](/post/quickly/)."
+- "[more](/post/more/) [than](/post/than/) [capable](/post/capable/)" 意为非常有能力，例如: "[She](/post/she/) is [more](/post/more/) [than](/post/than/) [capable](/post/capable/) [of](/post/of/) managing [the](/post/the/) [project](/post/project/) [on](/post/on/) [her](/post/her/) [own](/post/own/)."
 
 ## 例句
-- 形容词: "John proved himself to be a capable leader during the crisis."
-- 名词: "The company is looking for employees with exceptional capabilities in problem-solving."
+- 形容词: "John proved [himself](/post/himself/) [to](/post/to/) [be](/post/be/) [a](/post/a/) [capable](/post/capable/) [leader](/post/leader/) [during](/post/during/) [the](/post/the/) [crisis](/post/crisis/)."
+- 名词: "[The](/post/the/) [company](/post/company/) is looking [for](/post/for/) employees [with](/post/with/) exceptional capabilities [in](/post/in/) problem-solving."
 
 ## 同义词
-- able
-- competent
+- [able](/post/able/)
+- [competent](/post/competent/)
 - proficient
-- skilled
+- [skilled](/post/skilled/)
 - gifted

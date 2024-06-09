@@ -7,29 +7,29 @@ description = '[ˈniːðə] a.(两者)都不的'
 keywords = ['ai words', 'neither']
 +++
 
-## Word: Neither
+## [Word](/en/post/word/): [Neither](/en/post/neither/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈnɛðər/
 
 ## Definitions
-- **Adjective**: Not one nor the other of two people or things; not either. For example: "Neither of them came to the party."
-- **Conjunction**: Introducing a negative statement referring to two alternatives, meaning 'not the one and not the other'. For example: "Neither John nor Mary knows the answer."
-- **Adverb**: Not in any degree; not at all. Often used with "nor" to negate two possibilities. Example: "It was neither hot nor cold outside."
+- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) [one](/en/post/one/) [nor](/en/post/nor/) [the](/en/post/the/) [other](/en/post/other/) [of](/en/post/of/) [two](/en/post/two/) [people](/en/post/people/) [or](/en/post/or/) things; [not](/en/post/not/) [either](/en/post/either/). [For](/en/post/for/) [example](/en/post/example/): "[Neither](/en/post/neither/) [of](/en/post/of/) [them](/en/post/them/) came [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/)."
+- **[Conjunction](/en/post/conjunction/)**: Introducing [a](/en/post/a/) [negative](/en/post/negative/) [statement](/en/post/statement/) referring [to](/en/post/to/) [two](/en/post/two/) alternatives, [meaning](/en/post/meaning/) '[not](/en/post/not/) [the](/en/post/the/) [one](/en/post/one/) [and](/en/post/and/) [not](/en/post/not/) [the](/en/post/the/) [other](/en/post/other/)'. [For](/en/post/for/) [example](/en/post/example/): "[Neither](/en/post/neither/) John [nor](/en/post/nor/) Mary knows [the](/en/post/the/) [answer](/en/post/answer/)."
+- **[Adverb](/en/post/adverb/)**: [Not](/en/post/not/) [in](/en/post/in/) [any](/en/post/any/) [degree](/en/post/degree/); [not](/en/post/not/) [at](/en/post/at/) [all](/en/post/all/). [Often](/en/post/often/) [used](/en/post/used/) [with](/en/post/with/) "[nor](/en/post/nor/)" [to](/en/post/to/) negate [two](/en/post/two/) possibilities. [Example](/en/post/example/): "[It](/en/post/it/) was [neither](/en/post/neither/) [hot](/en/post/hot/) [nor](/en/post/nor/) [cold](/en/post/cold/) [outside](/en/post/outside/)."
 
 ## Phrases
-- "Neither here nor there": Refers to something that is irrelevant or immaterial to the matter at hand. 
-- "Neither a borrower nor a lender be": From Shakespeare's Hamlet, this phrase advises against becoming financially involved with others.
-- "Neither fish nor fowl": Describes something that doesn't fit into a specific category or classification.
+- "[Neither](/en/post/neither/) [here](/en/post/here/) [nor](/en/post/nor/) [there](/en/post/there/)": Refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is irrelevant [or](/en/post/or/) immaterial [to](/en/post/to/) [the](/en/post/the/) [matter](/en/post/matter/) [at](/en/post/at/) [hand](/en/post/hand/). 
+- "[Neither](/en/post/neither/) [a](/en/post/a/) borrower [nor](/en/post/nor/) [a](/en/post/a/) lender [be](/en/post/be/)": [From](/en/post/from/) Shakespeare's Hamlet, [this](/en/post/this/) [phrase](/en/post/phrase/) advises [against](/en/post/against/) becoming financially involved [with](/en/post/with/) others.
+- "[Neither](/en/post/neither/) [fish](/en/post/fish/) [nor](/en/post/nor/) fowl": Describes [something](/en/post/something/) [that](/en/post/that/) doesn't [fit](/en/post/fit/) [into](/en/post/into/) [a](/en/post/a/) [specific](/en/post/specific/) category [or](/en/post/or/) [classification](/en/post/classification/).
 
-## Example Sentences
-- **Adjective**: "I like neither coffee nor tea."
-- **Conjunction**: "Neither the teacher nor the students knew the correct answer."
-- **Adverb**: "She was neither surprised nor upset by the news."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "I [like](/en/post/like/) [neither](/en/post/neither/) [coffee](/en/post/coffee/) [nor](/en/post/nor/) [tea](/en/post/tea/)."
+- **[Conjunction](/en/post/conjunction/)**: "[Neither](/en/post/neither/) [the](/en/post/the/) [teacher](/en/post/teacher/) [nor](/en/post/nor/) [the](/en/post/the/) students knew [the](/en/post/the/) [correct](/en/post/correct/) [answer](/en/post/answer/)."
+- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) was [neither](/en/post/neither/) surprised [nor](/en/post/nor/) [upset](/en/post/upset/) [by](/en/post/by/) [the](/en/post/the/) [news](/en/post/news/)."
 
 ## Synonyms
-- Not one
-- Not either
-- None of the two
-- No (used in some cases)
-- Not both
+- [Not](/en/post/not/) [one](/en/post/one/)
+- [Not](/en/post/not/) [either](/en/post/either/)
+- [None](/en/post/none/) [of](/en/post/of/) [the](/en/post/the/) [two](/en/post/two/)
+- [No](/en/post/no/) ([used](/en/post/used/) [in](/en/post/in/) [some](/en/post/some/) cases)
+- [Not](/en/post/not/) [both](/en/post/both/)

@@ -7,32 +7,32 @@ description = '[ˈpəuitri] n.诗，诗歌，诗作'
 keywords = ['ai words', 'poetry']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /pəˈtriː/
 
 ## Definitions
-### Noun
-**Poetry** (noun): A form of literature that uses aesthetic and rhythmic qualities of language to evoke meanings in addition to, or in place of, prosaic ostensible meaning, particularly when丞erformanced. It often includes metaphor, imagery, and other literary techniques to create emotions and ideas.
+### [Noun](/en/post/noun/)
+**[Poetry](/en/post/poetry/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [literature](/en/post/literature/) [that](/en/post/that/) uses aesthetic [and](/en/post/and/) rhythmic qualities [of](/en/post/of/) [language](/en/post/language/) [to](/en/post/to/) evoke meanings [in](/en/post/in/) [addition](/en/post/addition/) [to](/en/post/to/), [or](/en/post/or/) [in](/en/post/in/) [place](/en/post/place/) [of](/en/post/of/), prosaic ostensible [meaning](/en/post/meaning/), [particularly](/en/post/particularly/) when丞erformanced. [It](/en/post/it/) [often](/en/post/often/) includes metaphor, imagery, [and](/en/post/and/) [other](/en/post/other/) [literary](/en/post/literary/) techniques [to](/en/post/to/) [create](/en/post/create/) emotions [and](/en/post/and/) ideas.
 
-### Verb
-**To write poetry** (verb): The act of creating or composing poems, expressing thoughts, feelings, or ideas through verse.
+### [Verb](/en/post/verb/)
+**[To](/en/post/to/) [write](/en/post/write/) [poetry](/en/post/poetry/)** ([verb](/en/post/verb/)): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) creating [or](/en/post/or/) composing poems, expressing thoughts, feelings, [or](/en/post/or/) ideas [through](/en/post/through/) verse.
 
-### Adjective
-**Poetic** (adjective): Characteristic of or relating to poetry, having a poetic quality, or evoking a sense of beauty and imagination.
+### [Adjective](/en/post/adjective/)
+**Poetic** ([adjective](/en/post/adjective/)): [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) relating [to](/en/post/to/) [poetry](/en/post/poetry/), having [a](/en/post/a/) poetic [quality](/en/post/quality/), [or](/en/post/or/) evoking [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [beauty](/en/post/beauty/) [and](/en/post/and/) [imagination](/en/post/imagination/).
 
 ## Phrases
-- "Compose a poem" means to write a new piece of poetry.
-- "The art of poetry" refers to the skill and craft involved in writing poetry.
-- "Poetry朗诵会" is an event where poetry is read aloud to an audience.
+- "[Compose](/en/post/compose/) [a](/en/post/a/) [poem](/en/post/poem/)" [means](/en/post/means/) [to](/en/post/to/) [write](/en/post/write/) [a](/en/post/a/) [new](/en/post/new/) [piece](/en/post/piece/) [of](/en/post/of/) [poetry](/en/post/poetry/).
+- "[The](/en/post/the/) [art](/en/post/art/) [of](/en/post/of/) [poetry](/en/post/poetry/)" refers [to](/en/post/to/) [the](/en/post/the/) [skill](/en/post/skill/) [and](/en/post/and/) [craft](/en/post/craft/) involved [in](/en/post/in/) [writing](/en/post/writing/) [poetry](/en/post/poetry/).
+- "Poetry朗诵会" is an [event](/en/post/event/) [where](/en/post/where/) [poetry](/en/post/poetry/) is [read](/en/post/read/) [aloud](/en/post/aloud/) [to](/en/post/to/) an [audience](/en/post/audience/).
 
-## Example Sentences
-- **Noun**: "She was deeply moved by the haunting poetry of the song."
-- **Verb**: "He spent his weekends writing poetry in the park."
-- **Adjective**: "The sunset was a picturesque, poetic scene."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was deeply moved [by](/en/post/by/) [the](/en/post/the/) haunting [poetry](/en/post/poetry/) [of](/en/post/of/) [the](/en/post/the/) [song](/en/post/song/)."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) spent [his](/en/post/his/) weekends [writing](/en/post/writing/) [poetry](/en/post/poetry/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sunset](/en/post/sunset/) was [a](/en/post/a/) picturesque, poetic [scene](/en/post/scene/)."
 
 ## Synonyms
 - Verse
-- Literary works
+- [Literary](/en/post/literary/) works
 - Rhymes
 - Quatrain
 - Lyricism
@@ -44,4 +44,4 @@ keywords = ['ai words', 'poetry']
 - Prose
 - Clarity
 - Directness
-- Practicality (in a non-poetic context)
+- Practicality ([in](/en/post/in/) [a](/en/post/a/) non-poetic context)

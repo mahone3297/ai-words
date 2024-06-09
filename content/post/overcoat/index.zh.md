@@ -11,19 +11,19 @@ keywords = ['ai words', 'overcoat']
 /ˈoʊvərkoʊt/
 
 ## 释义
-- **名词**: 一种长及膝盖的厚重外套，通常在冬季或寒冷天气中穿着。例如: "He put on his overcoat before stepping out into the snow."
+- **名词**: 一种长及膝盖的厚重外套，通常在冬季或寒冷天气中穿着。例如: "[He](/post/he/) [put](/post/put/) [on](/post/on/) [his](/post/his/) [overcoat](/post/overcoat/) [before](/post/before/) stepping [out](/post/out/) [into](/post/into/) [the](/post/the/) [snow](/post/snow/)."
 
 ## 短语
-- "Wear an overcoat" 意思是穿上大衣。
-- "Take off your overcoat" 是指脱下大衣。
+- "[Wear](/post/wear/) an [overcoat](/post/overcoat/)" 意思是穿上大衣。
+- "[Take](/post/take/) [off](/post/off/) [your](/post/your/) [overcoat](/post/overcoat/)" 是指脱下大衣。
 
 ## 例句
-- "She wore a stylish overcoat to keep her warm during the cold winter nights."
-- "The old man buttoned up his overcoat tightly against the biting wind."
+- "[She](/post/she/) wore [a](/post/a/) stylish [overcoat](/post/overcoat/) [to](/post/to/) [keep](/post/keep/) [her](/post/her/) [warm](/post/warm/) [during](/post/during/) [the](/post/the/) [cold](/post/cold/) [winter](/post/winter/) nights."
+- "[The](/post/the/) [old](/post/old/) [man](/post/man/) buttoned [up](/post/up/) [his](/post/his/) [overcoat](/post/overcoat/) tightly [against](/post/against/) [the](/post/the/) biting [wind](/post/wind/)."
 
 ## 同义词
-- Coat
-- Jacket
+- [Coat](/post/coat/)
+- [Jacket](/post/jacket/)
 - Parka
-- Trench coat
+- Trench [coat](/post/coat/)
 - Raincoat

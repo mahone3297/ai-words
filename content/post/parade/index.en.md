@@ -7,33 +7,33 @@ description = '[pəˈreid] n.游行；检阅 vi.游行'
 keywords = ['ai words', 'parade']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈpærəde/
 
 ## Definitions
-- **Noun**: A public procession, usually including a marching band and often featuring decorated floats, performers, or displays of various kinds, held to celebrate a special occasion, honor a group of people, or commemorate a holiday or event. For example: "The annual Thanksgiving Day parade drew crowds from all over the city."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [public](/en/post/public/) [procession](/en/post/procession/), [usually](/en/post/usually/) including [a](/en/post/a/) marching [band](/en/post/band/) [and](/en/post/and/) [often](/en/post/often/) featuring decorated floats, performers, [or](/en/post/or/) displays [of](/en/post/of/) [various](/en/post/various/) kinds, held [to](/en/post/to/) [celebrate](/en/post/celebrate/) [a](/en/post/a/) [special](/en/post/special/) [occasion](/en/post/occasion/), honor [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/), [or](/en/post/or/) commemorate [a](/en/post/a/) [holiday](/en/post/holiday/) [or](/en/post/or/) [event](/en/post/event/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [annual](/en/post/annual/) Thanksgiving [Day](/en/post/day/) [parade](/en/post/parade/) drew crowds [from](/en/post/from/) [all](/en/post/all/) [over](/en/post/over/) [the](/en/post/the/) [city](/en/post/city/)."
 
-Example Sentence: "The high school marching band performed in the town's Memorial Day parade."
+[Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [high](/en/post/high/) [school](/en/post/school/) marching [band](/en/post/band/) performed [in](/en/post/in/) [the](/en/post/the/) town's [Memorial](/en/post/memorial/) [Day](/en/post/day/) [parade](/en/post/parade/)."
 
-- **Verb**: (1) To organize or take part in a parade. For example: "They will be parading through the streets tomorrow to celebrate their victory."
-(2) To display or show off something or someone proudly or ostentatiously. For example: "She paraded her new dress around the party."
+- **[Verb](/en/post/verb/)**: (1) [To](/en/post/to/) [organize](/en/post/organize/) [or](/en/post/or/) [take](/en/post/take/) [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [parade](/en/post/parade/). [For](/en/post/for/) [example](/en/post/example/): "[They](/en/post/they/) [will](/en/post/will/) [be](/en/post/be/) parading [through](/en/post/through/) [the](/en/post/the/) streets [tomorrow](/en/post/tomorrow/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [their](/en/post/their/) [victory](/en/post/victory/)."
+(2) [To](/en/post/to/) [display](/en/post/display/) [or](/en/post/or/) [show](/en/post/show/) [off](/en/post/off/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) proudly [or](/en/post/or/) ostentatiously. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) paraded [her](/en/post/her/) [new](/en/post/new/) [dress](/en/post/dress/) [around](/en/post/around/) [the](/en/post/the/) [party](/en/post/party/)."
 
-Example Sentence: "The company decided to parade its latest technology at the trade fair."
+[Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [parade](/en/post/parade/) [its](/en/post/its/) latest [technology](/en/post/technology/) [at](/en/post/at/) [the](/en/post/the/) [trade](/en/post/trade/) [fair](/en/post/fair/)."
 
 ## Phrases
-- "Parade ground": A large open area where military drills and parades are conducted.
-- "Parade one's knowledge": To show off or boast about how much one knows about a particular subject.
-- "March in a parade": To participate in a parade by walking or marching along with others.
+- "[Parade](/en/post/parade/) [ground](/en/post/ground/)": [A](/en/post/a/) [large](/en/post/large/) [open](/en/post/open/) [area](/en/post/area/) [where](/en/post/where/) [military](/en/post/military/) drills [and](/en/post/and/) parades are conducted.
+- "[Parade](/en/post/parade/) one's [knowledge](/en/post/knowledge/)": [To](/en/post/to/) [show](/en/post/show/) [off](/en/post/off/) [or](/en/post/or/) [boast](/en/post/boast/) [about](/en/post/about/) [how](/en/post/how/) [much](/en/post/much/) [one](/en/post/one/) knows [about](/en/post/about/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/).
+- "[March](/en/post/march/) [in](/en/post/in/) [a](/en/post/a/) [parade](/en/post/parade/)": [To](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [parade](/en/post/parade/) [by](/en/post/by/) walking [or](/en/post/or/) marching [along](/en/post/along/) [with](/en/post/with/) others.
 
-## Example Sentences
-- **Noun**: "The veterans led the Fourth of July parade down Main Street."
-- **Verb**: "Every year, they parade their prize-winning livestock around the fairgrounds."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) veterans led [the](/en/post/the/) [Fourth](/en/post/fourth/) [of](/en/post/of/) July [parade](/en/post/parade/) [down](/en/post/down/) [Main](/en/post/main/) [Street](/en/post/street/)."
+- **[Verb](/en/post/verb/)**: "[Every](/en/post/every/) [year](/en/post/year/), [they](/en/post/they/) [parade](/en/post/parade/) [their](/en/post/their/) prize-winning livestock [around](/en/post/around/) [the](/en/post/the/) fairgrounds."
 
 ## Synonyms
-- March
-- Procession
+- [March](/en/post/march/)
+- [Procession](/en/post/procession/)
 - Pageant
-- Display
-- Exhibition
+- [Display](/en/post/display/)
+- [Exhibition](/en/post/exhibition/)
 - Promenade
 - Cavalcade

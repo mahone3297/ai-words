@@ -7,39 +7,39 @@ description = '[ˈkritisiz(ə)m] n.批评；批判；评论'
 keywords = ['ai words', 'criticism']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kriˈmɪʃən/
 
 ## Definitions
-- **Noun**: 1. An expression of disapproval or a critical remark; a comment expressing censure or fault. 2. The act of judging or evaluating something, often negatively. 3. A particular instance of such evaluation. 4. Articulated opinions or evaluations, especially in literary or artistic works.
+- **[Noun](/en/post/noun/)**: 1. An [expression](/en/post/expression/) [of](/en/post/of/) disapproval [or](/en/post/or/) [a](/en/post/a/) [critical](/en/post/critical/) [remark](/en/post/remark/); [a](/en/post/a/) [comment](/en/post/comment/) expressing censure [or](/en/post/or/) [fault](/en/post/fault/). 2. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) judging [or](/en/post/or/) evaluating [something](/en/post/something/), [often](/en/post/often/) negatively. 3. [A](/en/post/a/) [particular](/en/post/particular/) [instance](/en/post/instance/) [of](/en/post/of/) [such](/en/post/such/) evaluation. 4. Articulated opinions [or](/en/post/or/) evaluations, [especially](/en/post/especially/) [in](/en/post/in/) [literary](/en/post/literary/) [or](/en/post/or/) [artistic](/en/post/artistic/) works.
 
-- **Verb**: To offer or express critical comments or judgments; to criticize.
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [offer](/en/post/offer/) [or](/en/post/or/) [express](/en/post/express/) [critical](/en/post/critical/) comments [or](/en/post/or/) judgments; [to](/en/post/to/) [criticize](/en/post/criticize/).
 
 ## Phrases
-- "Subject to criticism" means open to being judged or evaluated harshly.
-- "Voice your criticism" encourages someone to share their opinions or concerns.
-- "Constructive criticism" refers to feedback that is helpful for improvement.
+- "[Subject](/en/post/subject/) [to](/en/post/to/) [criticism](/en/post/criticism/)" [means](/en/post/means/) [open](/en/post/open/) [to](/en/post/to/) [being](/en/post/being/) judged [or](/en/post/or/) evaluated harshly.
+- "[Voice](/en/post/voice/) [your](/en/post/your/) [criticism](/en/post/criticism/)" encourages [someone](/en/post/someone/) [to](/en/post/to/) [share](/en/post/share/) [their](/en/post/their/) opinions [or](/en/post/or/) concerns.
+- "Constructive [criticism](/en/post/criticism/)" refers [to](/en/post/to/) [feedback](/en/post/feedback/) [that](/en/post/that/) is [helpful](/en/post/helpful/) [for](/en/post/for/) [improvement](/en/post/improvement/).
 
-## Example Sentences
-- **Noun**: "The novel was praised for its compelling plot but criticized for its weak character development."
-- **Verb**: "She felt encouraged to criticize the proposal openly during the meeting."
-- **Criticism**: "The painting received mixed criticism from art critics."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [novel](/en/post/novel/) was praised [for](/en/post/for/) [its](/en/post/its/) compelling [plot](/en/post/plot/) [but](/en/post/but/) criticized [for](/en/post/for/) [its](/en/post/its/) [weak](/en/post/weak/) [character](/en/post/character/) [development](/en/post/development/)."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) felt encouraged [to](/en/post/to/) [criticize](/en/post/criticize/) [the](/en/post/the/) [proposal](/en/post/proposal/) openly [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+- **[Criticism](/en/post/criticism/)**: "[The](/en/post/the/) [painting](/en/post/painting/) received mixed [criticism](/en/post/criticism/) [from](/en/post/from/) [art](/en/post/art/) critics."
 
 ## Synonyms
 - Critique
 - Evaluation
 - Judgment
-- Comment
+- [Comment](/en/post/comment/)
 - Assessment
-- Observation
+- [Observation](/en/post/observation/)
 - Flaw
-- Fault
+- [Fault](/en/post/fault/)
 - Detraction
 
 ## Antonyms
-- Praise
+- [Praise](/en/post/praise/)
 - Appreciation
 - Endorsement
-- Approval
-- Support
-- Acceptance
+- [Approval](/en/post/approval/)
+- [Support](/en/post/support/)
+- [Acceptance](/en/post/acceptance/)

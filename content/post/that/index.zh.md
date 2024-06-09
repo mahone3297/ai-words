@@ -11,20 +11,20 @@ keywords = ['ai words', 'that']
 /ðæt/
 
 ## 释义
-- **代词**: 指已提到或已知的人或事物。例如: "The book that you lent me was very interesting."
-- **连词**: 引导定语从句，修饰名词或代词。例如: "I like the house that has a big garden."
-- **限定词**: 在某些固定搭配中，如 "such that", "so that"。例如: "She was so tired that she fell asleep immediately."
+- **代词**: 指已提到或已知的人或事物。例如: "[The](/post/the/) [book](/post/book/) [that](/post/that/) [you](/post/you/) lent [me](/post/me/) was [very](/post/very/) [interesting](/post/interesting/)."
+- **连词**: 引导定语从句，修饰名词或代词。例如: "I [like](/post/like/) [the](/post/the/) [house](/post/house/) [that](/post/that/) has [a](/post/a/) [big](/post/big/) [garden](/post/garden/)."
+- **限定词**: 在某些固定搭配中，如 "[such](/post/such/) [that](/post/that/)", "[so](/post/so/) [that](/post/that/)"。例如: "[She](/post/she/) was [so](/post/so/) [tired](/post/tired/) [that](/post/that/) [she](/post/she/) fell [asleep](/post/asleep/) [immediately](/post/immediately/)."
 
 ## 短语
-- "such that" 使得，以致于。例如: "She chose a dress such that it matched her shoes."
-- "so that" 以便，为了。例如: "I woke up early so that I wouldn't be late for work."
+- "[such](/post/such/) [that](/post/that/)" 使得，以致于。例如: "[She](/post/she/) chose [a](/post/a/) [dress](/post/dress/) [such](/post/such/) [that](/post/that/) [it](/post/it/) matched [her](/post/her/) shoes."
+- "[so](/post/so/) [that](/post/that/)" 以便，为了。例如: "I woke [up](/post/up/) [early](/post/early/) [so](/post/so/) [that](/post/that/) I wouldn't [be](/post/be/) [late](/post/late/) [for](/post/for/) [work](/post/work/)."
 
 ## 例句
-- 代词: "The car that just passed is my neighbor's."
-- 连词: "I know the person that spoke to you on the phone."
-- 限定词: "The problem was such that no one could solve it."
+- 代词: "[The](/post/the/) [car](/post/car/) [that](/post/that/) [just](/post/just/) passed is [my](/post/my/) neighbor's."
+- 连词: "I [know](/post/know/) [the](/post/the/) [person](/post/person/) [that](/post/that/) spoke [to](/post/to/) [you](/post/you/) [on](/post/on/) [the](/post/the/) [phone](/post/phone/)."
+- 限定词: "[The](/post/the/) [problem](/post/problem/) was [such](/post/such/) [that](/post/that/) [no](/post/no/) [one](/post/one/) [could](/post/could/) [solve](/post/solve/) [it](/post/it/)."
 
 ## 同义词
-- which
-- who (在指人时)
-- whom (在指人且作宾语时)
+- [which](/post/which/)
+- [who](/post/who/) (在指人时)
+- [whom](/post/whom/) (在指人且作宾语时)

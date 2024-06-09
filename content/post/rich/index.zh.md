@@ -11,23 +11,23 @@ keywords = ['ai words', 'rich']
 /ˈrɪtʃ/
 
 ## 释义
-- **形容词**: 富有的，有钱的。例如: "She comes from a rich family."
-- **形容词**: 丰富的，丰盛的。例如: "The soil is rich in nutrients."
-- **副词**: 丰富地，充足地。例如: "The dish is seasoned richly."
+- **形容词**: 富有的，有钱的。例如: "[She](/post/she/) comes [from](/post/from/) [a](/post/a/) [rich](/post/rich/) [family](/post/family/)."
+- **形容词**: 丰富的，丰盛的。例如: "[The](/post/the/) [soil](/post/soil/) is [rich](/post/rich/) [in](/post/in/) nutrients."
+- **副词**: 丰富地，充足地。例如: "[The](/post/the/) [dish](/post/dish/) is seasoned richly."
 
 ## 短语
-- "rich man" 富有的人
-- "rich resources" 丰富的资源
-- "rich in culture" 文化丰富
+- "[rich](/post/rich/) [man](/post/man/)" 富有的人
+- "[rich](/post/rich/) resources" 丰富的资源
+- "[rich](/post/rich/) [in](/post/in/) [culture](/post/culture/)" 文化丰富
 
 ## 例句
-- 形容词: "The rich live in luxurious mansions."
-- 形容词: "This cake has a rich chocolate flavor."
-- 副词: "The garden was watered richly, resulting in lush plants."
+- 形容词: "[The](/post/the/) [rich](/post/rich/) [live](/post/live/) [in](/post/in/) luxurious mansions."
+- 形容词: "[This](/post/this/) [cake](/post/cake/) has [a](/post/a/) [rich](/post/rich/) [chocolate](/post/chocolate/) flavor."
+- 副词: "[The](/post/the/) [garden](/post/garden/) was watered richly, resulting [in](/post/in/) lush plants."
 
 ## 同义词
-- Wealthy
+- [Wealthy](/post/wealthy/)
 - Affluent
 - Well-off
 - Opulent
-- Prosperous
+- [Prosperous](/post/prosperous/)

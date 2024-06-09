@@ -11,20 +11,20 @@ keywords = ['ai words', 'inspire']
 /ɪnˈspaɪər/
 
 ## 释义
-- **动词**: 激励，鼓舞；给予灵感。例如: "The artist was inspired by the beauty of nature."
-- **名词**: 灵感，启发。例如: "She had a great idea – it was a true inspiration."
+- **动词**: 激励，鼓舞；给予灵感。例如: "[The](/post/the/) [artist](/post/artist/) was inspired [by](/post/by/) [the](/post/the/) [beauty](/post/beauty/) [of](/post/of/) [nature](/post/nature/)."
+- **名词**: 灵感，启发。例如: "[She](/post/she/) had [a](/post/a/) [great](/post/great/) [idea](/post/idea/) – [it](/post/it/) was [a](/post/a/) [true](/post/true/) inspiration."
 
 ## 短语
-- "inspire someone to do something" 意为激发某人去做某事。例如: "His speech inspired us to work harder."
-- "draw inspiration from" 从...中获取灵感。例如: "Many writers draw inspiration from their personal experiences."
+- "[inspire](/post/inspire/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" 意为激发某人去做某事。例如: "[His](/post/his/) [speech](/post/speech/) inspired [us](/post/us/) [to](/post/to/) [work](/post/work/) harder."
+- "[draw](/post/draw/) inspiration [from](/post/from/)" 从...中获取灵感。例如: "[Many](/post/many/) writers [draw](/post/draw/) inspiration [from](/post/from/) [their](/post/their/) [personal](/post/personal/) experiences."
 
 ## 例句
-- 动词: "The teacher's enthusiasm inspired the students to learn more."
-- 名词: "The composer found inspiration for his new symphony in the sounds of the ocean."
+- 动词: "[The](/post/the/) teacher's [enthusiasm](/post/enthusiasm/) inspired [the](/post/the/) students [to](/post/to/) [learn](/post/learn/) [more](/post/more/)."
+- 名词: "[The](/post/the/) composer [found](/post/found/) inspiration [for](/post/for/) [his](/post/his/) [new](/post/new/) symphony [in](/post/in/) [the](/post/the/) sounds [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/)."
 
 ## 同义词
-- motivate
-- encourage
-- stimulate
-- influence
+- [motivate](/post/motivate/)
+- [encourage](/post/encourage/)
+- [stimulate](/post/stimulate/)
+- [influence](/post/influence/)
 - energize

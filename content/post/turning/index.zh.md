@@ -12,25 +12,25 @@ keywords = ['ai words', 'turning']
 
 ## 释义
 - **名词**:
-  - 转变；转折点：指事物从一个状态或方向转变为另一个状态或方向的关键时刻。例如: "The turning point in the story was when the main character discovered the truth."
-  - 旋转；转动：物体围绕自己的轴线或其他点移动。例如: "The wheel made a smooth turning."
+  - 转变；转折点：指事物从一个状态或方向转变为另一个状态或方向的关键时刻。例如: "[The](/post/the/) [turning](/post/turning/) [point](/post/point/) [in](/post/in/) [the](/post/the/) [story](/post/story/) was [when](/post/when/) [the](/post/the/) [main](/post/main/) [character](/post/character/) discovered [the](/post/the/) [truth](/post/truth/)."
+  - 旋转；转动：物体围绕自己的轴线或其他点移动。例如: "[The](/post/the/) [wheel](/post/wheel/) made [a](/post/a/) [smooth](/post/smooth/) [turning](/post/turning/)."
 
 - **动词**:
-  - 转动；旋转：使物体改变方向或位置。例如: "She turned the handle to open the door."
-  - 变化；转变：改变性质、状态或方向。例如: "As the weather turned colder, people started wearing coats."
+  - 转动；旋转：使物体改变方向或位置。例如: "[She](/post/she/) turned [the](/post/the/) [handle](/post/handle/) [to](/post/to/) [open](/post/open/) [the](/post/the/) [door](/post/door/)."
+  - 变化；转变：改变性质、状态或方向。例如: "[As](/post/as/) [the](/post/the/) [weather](/post/weather/) turned colder, [people](/post/people/) started wearing coats."
 
 ## 短语
-- "Take a turn" 意为轮流做某事。
-- "Turn around" 指身体或物体的旋转，也常用于请求某人改变行为。例如: "Please turn around so I can see your face."
+- "[Take](/post/take/) [a](/post/a/) [turn](/post/turn/)" 意为轮流做某事。
+- "[Turn](/post/turn/) [around](/post/around/)" 指身体或物体的旋转，也常用于请求某人改变行为。例如: "[Please](/post/please/) [turn](/post/turn/) [around](/post/around/) [so](/post/so/) I [can](/post/can/) [see](/post/see/) [your](/post/your/) [face](/post/face/)."
 
 ## 例句
-- 名词: "The turning of the tide marked the end of their victory celebrations."
-- 动词: "He turned the key in the lock and pushed the door open."
-- 动词（变化）: "Her mood suddenly turned from joy to sadness."
+- 名词: "[The](/post/the/) [turning](/post/turning/) [of](/post/of/) [the](/post/the/) [tide](/post/tide/) marked [the](/post/the/) [end](/post/end/) [of](/post/of/) [their](/post/their/) [victory](/post/victory/) celebrations."
+- 动词: "[He](/post/he/) turned [the](/post/the/) [key](/post/key/) [in](/post/in/) [the](/post/the/) [lock](/post/lock/) [and](/post/and/) pushed [the](/post/the/) [door](/post/door/) [open](/post/open/)."
+- 动词（变化）: "[Her](/post/her/) [mood](/post/mood/) [suddenly](/post/suddenly/) turned [from](/post/from/) [joy](/post/joy/) [to](/post/to/) [sadness](/post/sadness/)."
 
 ## 同义词
-- Rotation
-- Shift
+- [Rotation](/post/rotation/)
+- [Shift](/post/shift/)
 - Alteration
-- Change
-- Transformation
+- [Change](/post/change/)
+- [Transformation](/post/transformation/)

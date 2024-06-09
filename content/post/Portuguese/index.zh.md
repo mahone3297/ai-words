@@ -11,17 +11,17 @@ keywords = ['ai words', 'Portuguese']
 /ˌpɔːrtʃuˈgeɪz/
 
 ## 释义
-- **形容词**: 葡萄牙的，与葡萄牙有关的。例如: "She speaks fluent Portuguese."
-- **名词**: 葡萄牙人，葡萄牙语。例如: "The Portuguese explorer Vasco da Gama discovered the sea route to India."
+- **形容词**: 葡萄牙的，与葡萄牙有关的。例如: "[She](/post/she/) speaks [fluent](/post/fluent/) Portuguese."
+- **名词**: 葡萄牙人，葡萄牙语。例如: "[The](/post/the/) Portuguese explorer Vasco da Gama discovered [the](/post/the/) [sea](/post/sea/) [route](/post/route/) [to](/post/to/) India."
 
 ## 短语
 - "Portuguese cuisine" 指葡萄牙的烹饪风格。
 - "Portuguese colonies" 指葡萄牙的殖民地。
-- "Portuguese grammar" 指葡萄牙语的语法结构。
+- "Portuguese [grammar](/post/grammar/)" 指葡萄牙语的语法结构。
 
 ## 例句
-- 形容词: "The restaurant serves traditional Portuguese dishes."
-- 名词: "He is learning Portuguese to communicate with his in-laws."
+- 形容词: "[The](/post/the/) [restaurant](/post/restaurant/) serves [traditional](/post/traditional/) Portuguese dishes."
+- 名词: "[He](/post/he/) is [learning](/post/learning/) Portuguese [to](/post/to/) [communicate](/post/communicate/) [with](/post/with/) [his](/post/his/) in-laws."
 
 ## 同义词
 - Lusitanian (形容词，古代对葡萄牙人的称呼)

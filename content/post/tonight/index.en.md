@@ -7,28 +7,28 @@ description = '[təˈnait] ad.在今夜 n.今夜'
 keywords = ['ai words', 'tonight']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈtɑɪnɪt/
 
 ## Definitions
-- **Adverb**: Used to indicate the time of day when an event is to take place or is happening, typically referring to the evening or night. For example: "We're meeting tonight at 7."
-- **Noun**: Tonight is the evening after tomorrow's day, often used to refer to a specific planned activity or event. For example: "What are you doing tonight? Want to watch the movie?"
+- **[Adverb](/en/post/adverb/)**: [Used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [time](/en/post/time/) [of](/en/post/of/) [day](/en/post/day/) [when](/en/post/when/) an [event](/en/post/event/) is [to](/en/post/to/) [take](/en/post/take/) [place](/en/post/place/) [or](/en/post/or/) is happening, typically referring [to](/en/post/to/) [the](/en/post/the/) [evening](/en/post/evening/) [or](/en/post/or/) [night](/en/post/night/). [For](/en/post/for/) [example](/en/post/example/): "We're [meeting](/en/post/meeting/) [tonight](/en/post/tonight/) [at](/en/post/at/) 7."
+- **[Noun](/en/post/noun/)**: [Tonight](/en/post/tonight/) is [the](/en/post/the/) [evening](/en/post/evening/) [after](/en/post/after/) tomorrow's [day](/en/post/day/), [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) planned [activity](/en/post/activity/) [or](/en/post/or/) [event](/en/post/event/). [For](/en/post/for/) [example](/en/post/example/): "[What](/en/post/what/) are [you](/en/post/you/) doing [tonight](/en/post/tonight/)? [Want](/en/post/want/) [to](/en/post/to/) [watch](/en/post/watch/) [the](/en/post/the/) [movie](/en/post/movie/)?"
 
 ## Phrases
-- "Be there tonight" means to plan to attend something that happens in the evening.
-- "Enjoy your evening tonight" is a polite way to wish someone a good night.
-- "Tonight's special" may be used to advertise a special event or menu for that evening.
+- "[Be](/en/post/be/) [there](/en/post/there/) [tonight](/en/post/tonight/)" [means](/en/post/means/) [to](/en/post/to/) [plan](/en/post/plan/) [to](/en/post/to/) [attend](/en/post/attend/) [something](/en/post/something/) [that](/en/post/that/) happens [in](/en/post/in/) [the](/en/post/the/) [evening](/en/post/evening/).
+- "[Enjoy](/en/post/enjoy/) [your](/en/post/your/) [evening](/en/post/evening/) [tonight](/en/post/tonight/)" is [a](/en/post/a/) [polite](/en/post/polite/) [way](/en/post/way/) [to](/en/post/to/) [wish](/en/post/wish/) [someone](/en/post/someone/) [a](/en/post/a/) [good](/en/post/good/) [night](/en/post/night/).
+- "Tonight's [special](/en/post/special/)" [may](/en/post/may/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) advertise [a](/en/post/a/) [special](/en/post/special/) [event](/en/post/event/) [or](/en/post/or/) [menu](/en/post/menu/) [for](/en/post/for/) [that](/en/post/that/) [evening](/en/post/evening/).
 
-## Example Sentences
-- **Adverb**: "I'll see you tonight, after work."
-- **Noun**: "What's your plans for tonight? You mentioned a dinner reservation."
-- **Adjective**: "The concert was amazing, the highlight of my weekend was tonight."
+## [Example](/en/post/example/) Sentences
+- **[Adverb](/en/post/adverb/)**: "I'll [see](/en/post/see/) [you](/en/post/you/) [tonight](/en/post/tonight/), [after](/en/post/after/) [work](/en/post/work/)."
+- **[Noun](/en/post/noun/)**: "What's [your](/en/post/your/) plans [for](/en/post/for/) [tonight](/en/post/tonight/)? [You](/en/post/you/) mentioned [a](/en/post/a/) [dinner](/en/post/dinner/) reservation."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [concert](/en/post/concert/) was amazing, [the](/en/post/the/) highlight [of](/en/post/of/) [my](/en/post/my/) [weekend](/en/post/weekend/) was [tonight](/en/post/tonight/)."
 
 ## Synonyms
-- This evening
-- Tonight's show
-- Evening
+- [This](/en/post/this/) [evening](/en/post/evening/)
+- Tonight's [show](/en/post/show/)
+- [Evening](/en/post/evening/)
 - Nighttime
-- Present evening
+- [Present](/en/post/present/) [evening](/en/post/evening/)
 
-Note: Although "tonight" can function as a noun to refer to the evening, it's primarily used as an adverb in most cases. The noun form is less common but still recognized. Synonyms provided mostly relate to the context of an evening or night.
+[Note](/en/post/note/): [Although](/en/post/although/) "[tonight](/en/post/tonight/)" [can](/en/post/can/) [function](/en/post/function/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [the](/en/post/the/) [evening](/en/post/evening/), it's [primarily](/en/post/primarily/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/) [in](/en/post/in/) [most](/en/post/most/) cases. [The](/en/post/the/) [noun](/en/post/noun/) [form](/en/post/form/) is [less](/en/post/less/) [common](/en/post/common/) [but](/en/post/but/) [still](/en/post/still/) recognized. Synonyms [provided](/en/post/provided/) [mostly](/en/post/mostly/) [relate](/en/post/relate/) [to](/en/post/to/) [the](/en/post/the/) context [of](/en/post/of/) an [evening](/en/post/evening/) [or](/en/post/or/) [night](/en/post/night/).

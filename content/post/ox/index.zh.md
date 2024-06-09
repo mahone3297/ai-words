@@ -12,19 +12,19 @@ keywords = ['ai words', 'ox']
 
 ## 释义
 - **名词**:
-   - 牛，特别是公牛。例如: "The farmer led his oxen to plow the field."
-   - 星座，天蝎座（Ox, in astrology, refers to the Chinese zodiac sign, which represents strength and perseverance.）
+   - 牛，特别是公牛。例如: "[The](/post/the/) [farmer](/post/farmer/) led [his](/post/his/) oxen [to](/post/to/) plow [the](/post/the/) [field](/post/field/)."
+   - 星座，天蝎座（[Ox](/post/ox/), [in](/post/in/) astrology, refers [to](/post/to/) [the](/post/the/) Chinese zodiac [sign](/post/sign/), [which](/post/which/) represents [strength](/post/strength/) [and](/post/and/) perseverance.）
 
 ## 短语
-- "bull ox" 指成年的公牛。
-- "ox cart" 是一种由牛拉的古老运输工具。
+- "[bull](/post/bull/) [ox](/post/ox/)" 指成年的公牛。
+- "[ox](/post/ox/) [cart](/post/cart/)" 是一种由牛拉的古老运输工具。
 
 ## 例句
-- 名词: "The ox was strong enough to pull the heavy load."
-- 星座: "She was born in the Year of the Ox, so she's known for her hardworking nature."
+- 名词: "[The](/post/the/) [ox](/post/ox/) was [strong](/post/strong/) [enough](/post/enough/) [to](/post/to/) [pull](/post/pull/) [the](/post/the/) [heavy](/post/heavy/) [load](/post/load/)."
+- 星座: "[She](/post/she/) was [born](/post/born/) [in](/post/in/) [the](/post/the/) [Year](/post/year/) [of](/post/of/) [the](/post/the/) [Ox](/post/ox/), [so](/post/so/) she's known [for](/post/for/) [her](/post/her/) hardworking [nature](/post/nature/)."
 
 ## 同义词
-- Cow (in the context of livestock, referring to female bovines)
-- Bull (for a male cow)
-- Steer (a castrated male cow)
-- Heifer (a young female cow that hasn't had a calf yet)
+- [Cow](/post/cow/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) livestock, referring [to](/post/to/) [female](/post/female/) bovines)
+- [Bull](/post/bull/) ([for](/post/for/) [a](/post/a/) [male](/post/male/) [cow](/post/cow/))
+- [Steer](/post/steer/) ([a](/post/a/) castrated [male](/post/male/) [cow](/post/cow/))
+- Heifer ([a](/post/a/) [young](/post/young/) [female](/post/female/) [cow](/post/cow/) [that](/post/that/) hasn't had [a](/post/a/) calf [yet](/post/yet/))

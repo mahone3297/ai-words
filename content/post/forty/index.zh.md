@@ -11,17 +11,17 @@ keywords = ['ai words', 'forty']
 /ˈfɔːrti/
 
 ## 释义
-- **数词**: 表示数字40，四十。例如: "There are forty students in the class."
+- **数词**: 表示数字40，四十。例如: "[There](/post/there/) are [forty](/post/forty/) students [in](/post/in/) [the](/post/the/) [class](/post/class/)."
 
 ## 短语
-- "Forty winks" 指短暂的睡眠或小憩。
-- "In my forties" 指在40到50岁之间这个年龄段。
+- "[Forty](/post/forty/) winks" 指短暂的睡眠或小憩。
+- "[In](/post/in/) [my](/post/my/) forties" 指在40到50岁之间这个年龄段。
 
 ## 例句
-- "She turned forty last month and feels more confident than ever."
-- "After a long day, he just needed a quick forty winks before dinner."
+- "[She](/post/she/) turned [forty](/post/forty/) [last](/post/last/) [month](/post/month/) [and](/post/and/) feels [more](/post/more/) [confident](/post/confident/) [than](/post/than/) [ever](/post/ever/)."
+- "[After](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/), [he](/post/he/) [just](/post/just/) needed [a](/post/a/) [quick](/post/quick/) [forty](/post/forty/) winks [before](/post/before/) [dinner](/post/dinner/)."
 
 ## 同义词
 - Fourty (错误拼写，但有时被用作同义词)
-- Four score (古老或正式的表达)
+- [Four](/post/four/) [score](/post/score/) (古老或正式的表达)
 - XL (罗马数字表示40)

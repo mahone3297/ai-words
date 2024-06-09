@@ -7,29 +7,29 @@ description = '[ˈsəuldʒə] n.(陆军)士兵，军人'
 keywords = ['ai words', 'soldier']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /səˈləʊdr/
 
 ## Definitions
-- **Noun**: A person who serves as a member of the armed forces, typically a land-based combatant. **[countable]**
-- **Verb**: To serve as a soldier, often by enlisting or being conscripted. **[transitive]**
-- **Adjective**: Characterizing or relating to a soldier, military, or warfare. **[adjective, usually before a noun]**
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) serves [as](/en/post/as/) [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) armed forces, typically [a](/en/post/a/) land-based combatant. **[countable]**
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [serve](/en/post/serve/) [as](/en/post/as/) [a](/en/post/a/) [soldier](/en/post/soldier/), [often](/en/post/often/) [by](/en/post/by/) enlisting [or](/en/post/or/) [being](/en/post/being/) conscripted. **[transitive]**
+- **[Adjective](/en/post/adjective/)**: Characterizing [or](/en/post/or/) relating [to](/en/post/to/) [a](/en/post/a/) [soldier](/en/post/soldier/), [military](/en/post/military/), [or](/en/post/or/) warfare. **[[adjective](/en/post/adjective/), [usually](/en/post/usually/) [before](/en/post/before/) [a](/en/post/a/) [noun](/en/post/noun/)]**
 
 ## Phrases
-- "Join the ranks of soldiers" means to become part of a military force.
-- "A soldier's life" refers to the experiences and duties of a military personnel.
-- "The soldier fought bravely" describes valorous combat.
+- "[Join](/en/post/join/) [the](/en/post/the/) ranks [of](/en/post/of/) soldiers" [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [military](/en/post/military/) [force](/en/post/force/).
+- "[A](/en/post/a/) soldier's [life](/en/post/life/)" refers [to](/en/post/to/) [the](/en/post/the/) experiences [and](/en/post/and/) duties [of](/en/post/of/) [a](/en/post/a/) [military](/en/post/military/) [personnel](/en/post/personnel/).
+- "[The](/en/post/the/) [soldier](/en/post/soldier/) fought bravely" describes valorous combat.
 
-## Example Sentences
-- **Noun**: "The soldier was awarded a medal for his bravery in battle."
-- **Verb**: "After finishing basic training, he proudly became a soldier."
-- **Adjective**: "The soldier's uniform was crisp and clean, reflecting his dedication."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [soldier](/en/post/soldier/) was awarded [a](/en/post/a/) [medal](/en/post/medal/) [for](/en/post/for/) [his](/en/post/his/) bravery [in](/en/post/in/) [battle](/en/post/battle/)."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [basic](/en/post/basic/) [training](/en/post/training/), [he](/en/post/he/) proudly became [a](/en/post/a/) [soldier](/en/post/soldier/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) soldier's [uniform](/en/post/uniform/) was crisp [and](/en/post/and/) [clean](/en/post/clean/), reflecting [his](/en/post/his/) dedication."
 
 ## Synonyms
 - Trooper
 - Warrior
-- Military personnel
--GI (Gee-Oh-Why, referring to U.S. Army)
-- Warrior (informal, especially in British English)
+- [Military](/en/post/military/) [personnel](/en/post/personnel/)
+-GI (Gee-Oh-Why, referring [to](/en/post/to/) U.S. [Army](/en/post/army/))
+- Warrior (informal, [especially](/en/post/especially/) [in](/en/post/in/) British English)
 - Fighter
-- Reconnaissance (when describing a soldier's role)
+- Reconnaissance ([when](/en/post/when/) describing [a](/en/post/a/) soldier's [role](/en/post/role/))

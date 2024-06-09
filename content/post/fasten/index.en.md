@@ -7,37 +7,37 @@ description = '[fæ sn] vt.扎牢，扣住'
 keywords = ['ai words', 'fasten']
 +++
 
-## Word: Fasten
+## [Word](/en/post/word/): [Fasten](/en/post/fasten/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈfæsn/
 
 ## Definitions
-- **Verb**: To attach or secure something firmly in place, often by means of a buckle, clip, knot, lock, or other mechanism. For example: "She fastened her seatbelt before driving off."
-- **Verb**: To make tight or immovable; to close securely. For example: "Please fasten the lid on the jar tightly."
-- **Verb**: (archaic) To make firm or stable; to settle or fix firmly. For example: "The roots of the tree have fastened themselves deep in the ground."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [attach](/en/post/attach/) [or](/en/post/or/) [secure](/en/post/secure/) [something](/en/post/something/) firmly [in](/en/post/in/) [place](/en/post/place/), [often](/en/post/often/) [by](/en/post/by/) [means](/en/post/means/) [of](/en/post/of/) [a](/en/post/a/) buckle, clip, [knot](/en/post/knot/), [lock](/en/post/lock/), [or](/en/post/or/) [other](/en/post/other/) mechanism. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) fastened [her](/en/post/her/) seatbelt [before](/en/post/before/) driving [off](/en/post/off/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [tight](/en/post/tight/) [or](/en/post/or/) immovable; [to](/en/post/to/) [close](/en/post/close/) securely. [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [fasten](/en/post/fasten/) [the](/en/post/the/) [lid](/en/post/lid/) [on](/en/post/on/) [the](/en/post/the/) [jar](/en/post/jar/) tightly."
+- **[Verb](/en/post/verb/)**: (archaic) [To](/en/post/to/) [make](/en/post/make/) [firm](/en/post/firm/) [or](/en/post/or/) [stable](/en/post/stable/); [to](/en/post/to/) [settle](/en/post/settle/) [or](/en/post/or/) [fix](/en/post/fix/) firmly. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) roots [of](/en/post/of/) [the](/en/post/the/) [tree](/en/post/tree/) [have](/en/post/have/) fastened [themselves](/en/post/themselves/) [deep](/en/post/deep/) [in](/en/post/in/) [the](/en/post/the/) [ground](/en/post/ground/)."
 
 ## Phrases
-- "Fasten your seatbelt": An instruction given to prepare for travel, particularly in a vehicle, to ensure safety during movement.
-- "Fasten one's gaze": To direct and fix one's attention strongly on something.
-- "Fasten onto something": To grab hold of something physically or mentally and not let go.
+- "[Fasten](/en/post/fasten/) [your](/en/post/your/) seatbelt": An [instruction](/en/post/instruction/) given [to](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) [travel](/en/post/travel/), [particularly](/en/post/particularly/) [in](/en/post/in/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), [to](/en/post/to/) [ensure](/en/post/ensure/) [safety](/en/post/safety/) [during](/en/post/during/) [movement](/en/post/movement/).
+- "[Fasten](/en/post/fasten/) one's [gaze](/en/post/gaze/)": [To](/en/post/to/) [direct](/en/post/direct/) [and](/en/post/and/) [fix](/en/post/fix/) one's [attention](/en/post/attention/) [strongly](/en/post/strongly/) [on](/en/post/on/) [something](/en/post/something/).
+- "[Fasten](/en/post/fasten/) [onto](/en/post/onto/) [something](/en/post/something/)": [To](/en/post/to/) grab [hold](/en/post/hold/) [of](/en/post/of/) [something](/en/post/something/) physically [or](/en/post/or/) mentally [and](/en/post/and/) [not](/en/post/not/) [let](/en/post/let/) [go](/en/post/go/).
 
-## Example Sentences
-- **Verb (attaching)**: "Make sure to fasten the gate so the dog doesn't escape."
-- **Verb (closing)**: "I fastened the window shutters against the storm."
-- **Verb (fixing attention)**: "He fastened his gaze on the painting, admiring its intricate details."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/) (attaching)**: "[Make](/en/post/make/) [sure](/en/post/sure/) [to](/en/post/to/) [fasten](/en/post/fasten/) [the](/en/post/the/) [gate](/en/post/gate/) [so](/en/post/so/) [the](/en/post/the/) [dog](/en/post/dog/) doesn't [escape](/en/post/escape/)."
+- **[Verb](/en/post/verb/) (closing)**: "I fastened [the](/en/post/the/) [window](/en/post/window/) shutters [against](/en/post/against/) [the](/en/post/the/) [storm](/en/post/storm/)."
+- **[Verb](/en/post/verb/) (fixing [attention](/en/post/attention/))**: "[He](/en/post/he/) fastened [his](/en/post/his/) [gaze](/en/post/gaze/) [on](/en/post/on/) [the](/en/post/the/) [painting](/en/post/painting/), admiring [its](/en/post/its/) intricate details."
 
 ## Synonyms
-- Secure
-- Attach
+- [Secure](/en/post/secure/)
+- [Attach](/en/post/attach/)
 - Buckle
 - Clamp
-- Bind
-- Tie
+- [Bind](/en/post/bind/)
+- [Tie](/en/post/tie/)
 -Latch
-- Lock
-- Close
-- Seal
-- Fix
+- [Lock](/en/post/lock/)
+- [Close](/en/post/close/)
+- [Seal](/en/post/seal/)
+- [Fix](/en/post/fix/)
 - Affix
 - Tighten

@@ -7,31 +7,31 @@ description = '[ˈintimit] a.亲密的；个人的'
 keywords = ['ai words', 'intimate']
 +++
 
-## Word: Intimate
+## [Word](/en/post/word/): [Intimate](/en/post/intimate/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ɪnˈtɪmət/
 
 ## Definitions
-- **Noun**: A close friend or associate; a person with whom one shares a deep emotional connection or private information. Example: "They have been intimates since childhood."
-- **Adj**: Denoting a very close relationship or association; suggesting a high degree of familiarity or privacy. Example: "The couple shared intimate details about their lives."
-- **Verb**: (to intimate) To indicate subtly or suggest something indirectly; to communicate or convey privately or confidentially. Example: "She intimated her dissatisfaction with the proposal."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [close](/en/post/close/) [friend](/en/post/friend/) [or](/en/post/or/) [associate](/en/post/associate/); [a](/en/post/a/) [person](/en/post/person/) [with](/en/post/with/) [whom](/en/post/whom/) [one](/en/post/one/) shares [a](/en/post/a/) [deep](/en/post/deep/) [emotional](/en/post/emotional/) [connection](/en/post/connection/) [or](/en/post/or/) [private](/en/post/private/) [information](/en/post/information/). [Example](/en/post/example/): "[They](/en/post/they/) [have](/en/post/have/) been intimates [since](/en/post/since/) [childhood](/en/post/childhood/)."
+- **Adj**: Denoting [a](/en/post/a/) [very](/en/post/very/) [close](/en/post/close/) [relationship](/en/post/relationship/) [or](/en/post/or/) [association](/en/post/association/); suggesting [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/) [of](/en/post/of/) familiarity [or](/en/post/or/) privacy. [Example](/en/post/example/): "[The](/en/post/the/) [couple](/en/post/couple/) shared [intimate](/en/post/intimate/) details [about](/en/post/about/) [their](/en/post/their/) lives."
+- **[Verb](/en/post/verb/)**: ([to](/en/post/to/) [intimate](/en/post/intimate/)) [To](/en/post/to/) [indicate](/en/post/indicate/) subtly [or](/en/post/or/) [suggest](/en/post/suggest/) [something](/en/post/something/) indirectly; [to](/en/post/to/) [communicate](/en/post/communicate/) [or](/en/post/or/) [convey](/en/post/convey/) privately [or](/en/post/or/) confidentially. [Example](/en/post/example/): "[She](/en/post/she/) intimated [her](/en/post/her/) dissatisfaction [with](/en/post/with/) [the](/en/post/the/) [proposal](/en/post/proposal/)."
 
 ## Phrases
-- **Intimate knowledge**: Deep understanding or familiarity with a subject or person.
-- **Intimate relationship**: A close, personal, and typically romantic connection between two people.
-- **Be intimate with**: To be closely acquainted with someone, often referring to sexual intimacy or deep emotional attachment.
+- **[Intimate](/en/post/intimate/) [knowledge](/en/post/knowledge/)**: [Deep](/en/post/deep/) [understanding](/en/post/understanding/) [or](/en/post/or/) familiarity [with](/en/post/with/) [a](/en/post/a/) [subject](/en/post/subject/) [or](/en/post/or/) [person](/en/post/person/).
+- **[Intimate](/en/post/intimate/) [relationship](/en/post/relationship/)**: [A](/en/post/a/) [close](/en/post/close/), [personal](/en/post/personal/), [and](/en/post/and/) typically [romantic](/en/post/romantic/) [connection](/en/post/connection/) [between](/en/post/between/) [two](/en/post/two/) [people](/en/post/people/).
+- **[Be](/en/post/be/) [intimate](/en/post/intimate/) [with](/en/post/with/)**: [To](/en/post/to/) [be](/en/post/be/) [closely](/en/post/closely/) acquainted [with](/en/post/with/) [someone](/en/post/someone/), [often](/en/post/often/) referring [to](/en/post/to/) sexual intimacy [or](/en/post/or/) [deep](/en/post/deep/) [emotional](/en/post/emotional/) attachment.
 
-## Example Sentences
-- **Noun**: "Their intimate friendship had stood the test of time."
-- **Adjective**: "The restaurant provides an intimate setting for couples to enjoy dinner."
-- **Verb**: "Through his body language, he intimated that he was ready to leave."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) [intimate](/en/post/intimate/) [friendship](/en/post/friendship/) had stood [the](/en/post/the/) [test](/en/post/test/) [of](/en/post/of/) [time](/en/post/time/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [restaurant](/en/post/restaurant/) provides an [intimate](/en/post/intimate/) [setting](/en/post/setting/) [for](/en/post/for/) couples [to](/en/post/to/) [enjoy](/en/post/enjoy/) [dinner](/en/post/dinner/)."
+- **[Verb](/en/post/verb/)**: "[Through](/en/post/through/) [his](/en/post/his/) [body](/en/post/body/) [language](/en/post/language/), [he](/en/post/he/) intimated [that](/en/post/that/) [he](/en/post/he/) was [ready](/en/post/ready/) [to](/en/post/to/) [leave](/en/post/leave/)."
 
 ## Synonyms
-- Close (friend)
+- [Close](/en/post/close/) ([friend](/en/post/friend/))
 - Confidant
-- Acquaintance (for noun use)
-- Personal (for adjective use)
-- Suggest (for verb use)
-- Hint (for verb use)
-- Indicate (for verb use)
+- [Acquaintance](/en/post/acquaintance/) ([for](/en/post/for/) [noun](/en/post/noun/) [use](/en/post/use/))
+- [Personal](/en/post/personal/) ([for](/en/post/for/) [adjective](/en/post/adjective/) [use](/en/post/use/))
+- [Suggest](/en/post/suggest/) ([for](/en/post/for/) [verb](/en/post/verb/) [use](/en/post/use/))
+- [Hint](/en/post/hint/) ([for](/en/post/for/) [verb](/en/post/verb/) [use](/en/post/use/))
+- [Indicate](/en/post/indicate/) ([for](/en/post/for/) [verb](/en/post/verb/) [use](/en/post/use/))

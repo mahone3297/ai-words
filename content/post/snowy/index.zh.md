@@ -11,19 +11,19 @@ keywords = ['ai words', 'snowy']
 /ˈsnəʊi/
 
 ## 释义
-- **形容词**: 形容覆盖着雪的；下雪的；多雪的。例如: "The snowy mountains looked majestic in the winter sunlight."
-- **名词**: 在某些上下文中，指雪或者雪景。例如: "The child was playing in the snowy yard."
+- **形容词**: 形容覆盖着雪的；下雪的；多雪的。例如: "[The](/post/the/) [snowy](/post/snowy/) mountains looked majestic [in](/post/in/) [the](/post/the/) [winter](/post/winter/) [sunlight](/post/sunlight/)."
+- **名词**: 在某些上下文中，指雪或者雪景。例如: "[The](/post/the/) [child](/post/child/) was playing [in](/post/in/) [the](/post/the/) [snowy](/post/snowy/) [yard](/post/yard/)."
 
 ## 短语
 - "snowy-white" 意为纯白的，像雪一样的白。
-- "a snowy day" 指下雪的日子。
+- "[a](/post/a/) [snowy](/post/snowy/) [day](/post/day/)" 指下雪的日子。
 
 ## 例句
-- 形容词: "The village looked picture-perfect under a blanket of snowy snow."
-- 名词: "The kids were having a snowball fight in the snowy."
+- 形容词: "[The](/post/the/) [village](/post/village/) looked picture-perfect [under](/post/under/) [a](/post/a/) [blanket](/post/blanket/) [of](/post/of/) [snowy](/post/snowy/) [snow](/post/snow/)."
+- 名词: "[The](/post/the/) kids were having [a](/post/a/) snowball [fight](/post/fight/) [in](/post/in/) [the](/post/the/) [snowy](/post/snowy/)."
 
 ## 同义词
-- covered with snow
+- covered [with](/post/with/) [snow](/post/snow/)
 - snowy-white
 - wintry
 - frosty

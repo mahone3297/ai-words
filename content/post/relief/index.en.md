@@ -7,37 +7,37 @@ description = '[riˈliːf] n.减轻；救济；援救'
 keywords = ['ai words', 'relief']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /rɪˈliːf/
 
 ## Definitions
-### Noun
-1. **Relief**: A feeling of ease, comfort, or release from stress, pain, or anxiety. For example: "The medicine brought immediate relief from his headache."
-2. **Physical relief**: The act of providing assistance or support to someone in need. For example: "The soldiers provided food and medical relief to the flood victims."
-3. **Artistic relief**: A design or sculpture that projects above a flat surface, creating a three-dimensional effect. For example: "The bas-relief on the building's facade depicted scenes from the city's history."
+### [Noun](/en/post/noun/)
+1. **[Relief](/en/post/relief/)**: [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [ease](/en/post/ease/), [comfort](/en/post/comfort/), [or](/en/post/or/) [release](/en/post/release/) [from](/en/post/from/) [stress](/en/post/stress/), [pain](/en/post/pain/), [or](/en/post/or/) [anxiety](/en/post/anxiety/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [medicine](/en/post/medicine/) brought [immediate](/en/post/immediate/) [relief](/en/post/relief/) [from](/en/post/from/) [his](/en/post/his/) [headache](/en/post/headache/)."
+2. **[Physical](/en/post/physical/) [relief](/en/post/relief/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) providing assistance [or](/en/post/or/) [support](/en/post/support/) [to](/en/post/to/) [someone](/en/post/someone/) [in](/en/post/in/) [need](/en/post/need/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) soldiers [provided](/en/post/provided/) [food](/en/post/food/) [and](/en/post/and/) [medical](/en/post/medical/) [relief](/en/post/relief/) [to](/en/post/to/) [the](/en/post/the/) [flood](/en/post/flood/) victims."
+3. **[Artistic](/en/post/artistic/) [relief](/en/post/relief/)**: [A](/en/post/a/) [design](/en/post/design/) [or](/en/post/or/) sculpture [that](/en/post/that/) projects [above](/en/post/above/) [a](/en/post/a/) [flat](/en/post/flat/) [surface](/en/post/surface/), creating [a](/en/post/a/) three-dimensional [effect](/en/post/effect/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) bas-relief [on](/en/post/on/) [the](/en/post/the/) building's facade depicted scenes [from](/en/post/from/) [the](/en/post/the/) city's [history](/en/post/history/)."
 
-### Verb
-1. **To relieve (someone)**: To alleviate the discomfort or suffering of another person. For example: "The nurse relieved the patient's pain with a new medication."
-2. **To relieve (pressure or strain)**: To reduce or lessen the burden or intensity of something. For example: "The team's victory relieved the pressure on the coach."
+### [Verb](/en/post/verb/)
+1. **[To](/en/post/to/) [relieve](/en/post/relieve/) ([someone](/en/post/someone/))**: [To](/en/post/to/) alleviate [the](/en/post/the/) discomfort [or](/en/post/or/) suffering [of](/en/post/of/) [another](/en/post/another/) [person](/en/post/person/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [nurse](/en/post/nurse/) relieved [the](/en/post/the/) patient's [pain](/en/post/pain/) [with](/en/post/with/) [a](/en/post/a/) [new](/en/post/new/) medication."
+2. **[To](/en/post/to/) [relieve](/en/post/relieve/) ([pressure](/en/post/pressure/) [or](/en/post/or/) [strain](/en/post/strain/))**: [To](/en/post/to/) [reduce](/en/post/reduce/) [or](/en/post/or/) [lessen](/en/post/lessen/) [the](/en/post/the/) [burden](/en/post/burden/) [or](/en/post/or/) [intensity](/en/post/intensity/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) team's [victory](/en/post/victory/) relieved [the](/en/post/the/) [pressure](/en/post/pressure/) [on](/en/post/on/) [the](/en/post/the/) [coach](/en/post/coach/)."
 
-### Adjective
-1. **Relieving**: Providing comfort or relief; soothing. For example: "The cool breeze was very relieving after the hot day."
+### [Adjective](/en/post/adjective/)
+1. **Relieving**: Providing [comfort](/en/post/comfort/) [or](/en/post/or/) [relief](/en/post/relief/); soothing. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [cool](/en/post/cool/) [breeze](/en/post/breeze/) was [very](/en/post/very/) relieving [after](/en/post/after/) [the](/en/post/the/) [hot](/en/post/hot/) [day](/en/post/day/)."
 
 ## Phrases
-- "Find relief in something" suggests finding comfort or solace.
-- "Temporary relief" indicates a temporary decrease in discomfort or stress.
-- "Offering relief efforts" refers to providing aid during times of crisis.
+- "[Find](/en/post/find/) [relief](/en/post/relief/) [in](/en/post/in/) [something](/en/post/something/)" suggests [finding](/en/post/finding/) [comfort](/en/post/comfort/) [or](/en/post/or/) solace.
+- "[Temporary](/en/post/temporary/) [relief](/en/post/relief/)" indicates [a](/en/post/a/) [temporary](/en/post/temporary/) [decrease](/en/post/decrease/) [in](/en/post/in/) discomfort [or](/en/post/or/) [stress](/en/post/stress/).
+- "Offering [relief](/en/post/relief/) efforts" refers [to](/en/post/to/) providing [aid](/en/post/aid/) [during](/en/post/during/) times [of](/en/post/of/) [crisis](/en/post/crisis/).
 
-## Example Sentences
-- **Noun**: "The medication provided her with much-needed relief from her chronic pain."
-- **Verb**: "The firefighters worked tirelessly to relieve the trapped victims from the burning building."
-- **Adjective**: "The gentle rain was a relieving break from the heat."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) medication [provided](/en/post/provided/) [her](/en/post/her/) [with](/en/post/with/) much-needed [relief](/en/post/relief/) [from](/en/post/from/) [her](/en/post/her/) chronic [pain](/en/post/pain/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) firefighters worked tirelessly [to](/en/post/to/) [relieve](/en/post/relieve/) [the](/en/post/the/) trapped victims [from](/en/post/from/) [the](/en/post/the/) burning [building](/en/post/building/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [gentle](/en/post/gentle/) [rain](/en/post/rain/) was [a](/en/post/a/) relieving [break](/en/post/break/) [from](/en/post/from/) [the](/en/post/the/) [heat](/en/post/heat/)."
 
 ## Synonyms
 - Alleviation
-- Comfort
-- Ease
+- [Comfort](/en/post/comfort/)
+- [Ease](/en/post/ease/)
 - Respite
-- Escape
+- [Escape](/en/post/escape/)
 - Assuage
-- Ease the burden
+- [Ease](/en/post/ease/) [the](/en/post/the/) [burden](/en/post/burden/)

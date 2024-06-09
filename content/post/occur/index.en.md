@@ -7,38 +7,38 @@ description = '[əˈkəː] vi.发生；出现，存在'
 keywords = ['ai words', 'occur']
 +++
 
-# Occur
+# [Occur](/en/post/occur/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /əˈkɜːr/
 
 ## Definitions
-- **Verb**: To happen; take place; come about; arise.
-  - _Intransitive_ usage: To meet with something by chance; to be present or found.
-    > Example sentence: "Rarely does such an opportunity occur in one's lifetime."
-  - _Transitive_ usage: To present itself; to suggest itself to the mind.
-    > Example sentence: "The idea occurred to him while he was taking a walk."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [happen](/en/post/happen/); [take](/en/post/take/) [place](/en/post/place/); [come](/en/post/come/) [about](/en/post/about/); [arise](/en/post/arise/).
+  - _Intransitive_ [usage](/en/post/usage/): [To](/en/post/to/) [meet](/en/post/meet/) [with](/en/post/with/) [something](/en/post/something/) [by](/en/post/by/) [chance](/en/post/chance/); [to](/en/post/to/) [be](/en/post/be/) [present](/en/post/present/) [or](/en/post/or/) [found](/en/post/found/).
+    > [Example](/en/post/example/) [sentence](/en/post/sentence/): "[Rarely](/en/post/rarely/) does [such](/en/post/such/) an [opportunity](/en/post/opportunity/) [occur](/en/post/occur/) [in](/en/post/in/) one's [lifetime](/en/post/lifetime/)."
+  - _Transitive_ [usage](/en/post/usage/): [To](/en/post/to/) [present](/en/post/present/) [itself](/en/post/itself/); [to](/en/post/to/) [suggest](/en/post/suggest/) [itself](/en/post/itself/) [to](/en/post/to/) [the](/en/post/the/) [mind](/en/post/mind/).
+    > [Example](/en/post/example/) [sentence](/en/post/sentence/): "[The](/en/post/the/) [idea](/en/post/idea/) occurred [to](/en/post/to/) [him](/en/post/him/) [while](/en/post/while/) [he](/en/post/he/) was taking [a](/en/post/a/) [walk](/en/post/walk/)."
 
 ## Phrases
-- "Occurs to": To suddenly come into one's mind.
-  > Example: "It just occurred to me that we forgot to lock the door."
-- "More often than not": This phrase implies that something occurs frequently or usually.
-  > Example: "More often than not, accidents occur due to carelessness."
+- "Occurs [to](/en/post/to/)": [To](/en/post/to/) [suddenly](/en/post/suddenly/) [come](/en/post/come/) [into](/en/post/into/) one's [mind](/en/post/mind/).
+  > [Example](/en/post/example/): "[It](/en/post/it/) [just](/en/post/just/) occurred [to](/en/post/to/) [me](/en/post/me/) [that](/en/post/that/) [we](/en/post/we/) forgot [to](/en/post/to/) [lock](/en/post/lock/) [the](/en/post/the/) [door](/en/post/door/)."
+- "[More](/en/post/more/) [often](/en/post/often/) [than](/en/post/than/) [not](/en/post/not/)": [This](/en/post/this/) [phrase](/en/post/phrase/) implies [that](/en/post/that/) [something](/en/post/something/) occurs [frequently](/en/post/frequently/) [or](/en/post/or/) [usually](/en/post/usually/).
+  > [Example](/en/post/example/): "[More](/en/post/more/) [often](/en/post/often/) [than](/en/post/than/) [not](/en/post/not/), accidents [occur](/en/post/occur/) [due](/en/post/due/) [to](/en/post/to/) carelessness."
 
-## Example Sentences
-- **Intransitive Verb**: "The festival occurs annually on the last weekend of August."
-- **Transitive Verb**: "A sense of unease occurred when she noticed the door ajar."
+## [Example](/en/post/example/) Sentences
+- **Intransitive [Verb](/en/post/verb/)**: "[The](/en/post/the/) [festival](/en/post/festival/) occurs annually [on](/en/post/on/) [the](/en/post/the/) [last](/en/post/last/) [weekend](/en/post/weekend/) [of](/en/post/of/) [August](/en/post/august/)."
+- **Transitive [Verb](/en/post/verb/)**: "[A](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) unease occurred [when](/en/post/when/) [she](/en/post/she/) noticed [the](/en/post/the/) [door](/en/post/door/) ajar."
 
 ## Synonyms
-- Happen
-- Arise
-- Take place
-- Come about
-- Emerge
+- [Happen](/en/post/happen/)
+- [Arise](/en/post/arise/)
+- [Take](/en/post/take/) [place](/en/post/place/)
+- [Come](/en/post/come/) [about](/en/post/about/)
+- [Emerge](/en/post/emerge/)
 - Materialize
-- Surface
-- Present itself
+- [Surface](/en/post/surface/)
+- [Present](/en/post/present/) [itself](/en/post/itself/)
 
 ## Related Phrasal Verbs
-- **Occur to sb**: To think of something.
-  > Example: "It never occurred to her that he might change his mind."
+- **[Occur](/en/post/occur/) [to](/en/post/to/) sb**: [To](/en/post/to/) [think](/en/post/think/) [of](/en/post/of/) [something](/en/post/something/).
+  > [Example](/en/post/example/): "[It](/en/post/it/) [never](/en/post/never/) occurred [to](/en/post/to/) [her](/en/post/her/) [that](/en/post/that/) [he](/en/post/he/) [might](/en/post/might/) [change](/en/post/change/) [his](/en/post/his/) [mind](/en/post/mind/)."

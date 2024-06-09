@@ -7,26 +7,26 @@ description = '[ˈdistənt] a.在远处的，疏远的'
 keywords = ['ai words', 'distant']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /dɪˈstnt/
 
 ## Definitions
-- **Adjective**: Far away in space or time; remote. For example: "The distant mountains were visible on a clear day."
-- **Adverb**: At a distance; far from. For example: "She sat quietly in the distant corner of the room."
-- **Noun**: remoteness or separation in terms of physical or emotional distance. For example: "The family's distant relatives rarely visited."
+- **[Adjective](/en/post/adjective/)**: [Far](/en/post/far/) [away](/en/post/away/) [in](/en/post/in/) [space](/en/post/space/) [or](/en/post/or/) [time](/en/post/time/); [remote](/en/post/remote/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [distant](/en/post/distant/) mountains were [visible](/en/post/visible/) [on](/en/post/on/) [a](/en/post/a/) [clear](/en/post/clear/) [day](/en/post/day/)."
+- **[Adverb](/en/post/adverb/)**: [At](/en/post/at/) [a](/en/post/a/) [distance](/en/post/distance/); [far](/en/post/far/) [from](/en/post/from/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sat quietly [in](/en/post/in/) [the](/en/post/the/) [distant](/en/post/distant/) [corner](/en/post/corner/) [of](/en/post/of/) [the](/en/post/the/) [room](/en/post/room/)."
+- **[Noun](/en/post/noun/)**: remoteness [or](/en/post/or/) [separation](/en/post/separation/) [in](/en/post/in/) terms [of](/en/post/of/) [physical](/en/post/physical/) [or](/en/post/or/) [emotional](/en/post/emotional/) [distance](/en/post/distance/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) family's [distant](/en/post/distant/) relatives [rarely](/en/post/rarely/) visited."
 
 ## Phrases
-- "Keep a distant watch" implies keeping an eye from a safe distance.
-- "A distant memory" refers to something that is remembered but not recent.
-- "Maintain a distant relationship" means having a limited connection with someone.
+- "[Keep](/en/post/keep/) [a](/en/post/a/) [distant](/en/post/distant/) [watch](/en/post/watch/)" implies keeping an [eye](/en/post/eye/) [from](/en/post/from/) [a](/en/post/a/) [safe](/en/post/safe/) [distance](/en/post/distance/).
+- "[A](/en/post/a/) [distant](/en/post/distant/) [memory](/en/post/memory/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is remembered [but](/en/post/but/) [not](/en/post/not/) [recent](/en/post/recent/).
+- "[Maintain](/en/post/maintain/) [a](/en/post/a/) [distant](/en/post/distant/) [relationship](/en/post/relationship/)" [means](/en/post/means/) having [a](/en/post/a/) [limited](/en/post/limited/) [connection](/en/post/connection/) [with](/en/post/with/) [someone](/en/post/someone/).
 
-## Example Sentences
-- **Adjective**: "The distant stars闪烁 in the night sky."
-- **Adverb**: "He heard her voice faintly from the distant hallway."
-- **Noun**: "She longed for a closer connection with her distant friend."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [distant](/en/post/distant/) stars闪烁 [in](/en/post/in/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/)."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) heard [her](/en/post/her/) [voice](/en/post/voice/) faintly [from](/en/post/from/) [the](/en/post/the/) [distant](/en/post/distant/) hallway."
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) longed [for](/en/post/for/) [a](/en/post/a/) closer [connection](/en/post/connection/) [with](/en/post/with/) [her](/en/post/her/) [distant](/en/post/distant/) [friend](/en/post/friend/)."
 
 ## Synonyms
-- Remote
+- [Remote](/en/post/remote/)
 - Far-off
 - Secluded
 - Isolated

@@ -7,36 +7,36 @@ description = '[riˈdʒɔis] vi.欣喜，高兴'
 keywords = ['ai words', 'rejoice']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /rɪˈdʒɔɪs/
 
 ## Definitions
-- **Verb**: (v) To feel or express great happiness, pleasure, or satisfaction. Also used transitively, to cause someone else to feel joy. 
-- **Noun**: (n) The act of rejoicing; a feeling of great happiness or delight.
+- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [express](/en/post/express/) [great](/en/post/great/) [happiness](/en/post/happiness/), [pleasure](/en/post/pleasure/), [or](/en/post/or/) [satisfaction](/en/post/satisfaction/). [Also](/en/post/also/) [used](/en/post/used/) transitively, [to](/en/post/to/) [cause](/en/post/cause/) [someone](/en/post/someone/) [else](/en/post/else/) [to](/en/post/to/) [feel](/en/post/feel/) [joy](/en/post/joy/). 
+- **[Noun](/en/post/noun/)**: (n) [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) rejoicing; [a](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [great](/en/post/great/) [happiness](/en/post/happiness/) [or](/en/post/or/) [delight](/en/post/delight/).
 
 ## Phrases
-- "Rejoice at the news" means to be delighted by a particular piece of information.
-- "Rejoice with others" expresses the act of sharing one's happiness with those around them.
-- "Rejoice and be glad" is a phrase encouraging celebration and happiness.
+- "[Rejoice](/en/post/rejoice/) [at](/en/post/at/) [the](/en/post/the/) [news](/en/post/news/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) delighted [by](/en/post/by/) [a](/en/post/a/) [particular](/en/post/particular/) [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/).
+- "[Rejoice](/en/post/rejoice/) [with](/en/post/with/) others" expresses [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) sharing one's [happiness](/en/post/happiness/) [with](/en/post/with/) [those](/en/post/those/) [around](/en/post/around/) [them](/en/post/them/).
+- "[Rejoice](/en/post/rejoice/) [and](/en/post/and/) [be](/en/post/be/) [glad](/en/post/glad/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) encouraging celebration [and](/en/post/and/) [happiness](/en/post/happiness/).
 
-## Example Sentences
-- **Verb**: "The children rejoiced when they found out they were going on a vacation."
-- **Noun**: "After winning the championship, the team's fans rejoiced in the streets."
-- "She couldn't contain her rejoicing upon receiving the good news."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) children rejoiced [when](/en/post/when/) [they](/en/post/they/) [found](/en/post/found/) [out](/en/post/out/) [they](/en/post/they/) were going [on](/en/post/on/) [a](/en/post/a/) [vacation](/en/post/vacation/)."
+- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) winning [the](/en/post/the/) championship, [the](/en/post/the/) team's fans rejoiced [in](/en/post/in/) [the](/en/post/the/) streets."
+- "[She](/en/post/she/) couldn't [contain](/en/post/contain/) [her](/en/post/her/) rejoicing [upon](/en/post/upon/) receiving [the](/en/post/the/) [good](/en/post/good/) [news](/en/post/news/)."
 
 ## Synonyms
-- Delight
+- [Delight](/en/post/delight/)
 - Jubilation
 - Exhilaration
 - Ecstasy
-- Thrill
+- [Thrill](/en/post/thrill/)
 - Elation
 - Bliss
 
 ## Antonyms
-- Sorrow
+- [Sorrow](/en/post/sorrow/)
 - Grief
-- Despair
+- [Despair](/en/post/despair/)
 - Misery
-- Sadness
+- [Sadness](/en/post/sadness/)
 - Disappointment

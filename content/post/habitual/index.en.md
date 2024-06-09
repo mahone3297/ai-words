@@ -7,33 +7,33 @@ description = '[həˈbitjuəl] a.习惯性的，惯常的'
 keywords = ['ai words', 'habitual']
 +++
 
-## Word: Habitual
+## [Word](/en/post/word/): [Habitual](/en/post/habitual/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈhæbɪtʃuəl/
 
 ## Definitions
-- **Adjective**: (of a behavior, activity, or pattern) Happening regularly or repeatedly, often without conscious thought; usual or customary. 
+- **[Adjective](/en/post/adjective/)**: ([of](/en/post/of/) [a](/en/post/a/) [behavior](/en/post/behavior/), [activity](/en/post/activity/), [or](/en/post/or/) [pattern](/en/post/pattern/)) Happening [regularly](/en/post/regularly/) [or](/en/post/or/) [repeatedly](/en/post/repeatedly/), [often](/en/post/often/) [without](/en/post/without/) [conscious](/en/post/conscious/) [thought](/en/post/thought/); [usual](/en/post/usual/) [or](/en/post/or/) customary. 
 
-Example sentence: _Smoking had become a habitual part of his routine._
-- **Noun** (less common): A person who has a habit, especially one that's hard to break.
-Example sentence: _He was known as a habitual smoker._
+[Example](/en/post/example/) [sentence](/en/post/sentence/): _Smoking had [become](/en/post/become/) [a](/en/post/a/) [habitual](/en/post/habitual/) [part](/en/post/part/) [of](/en/post/of/) [his](/en/post/his/) [routine](/en/post/routine/)._
+- **[Noun](/en/post/noun/)** ([less](/en/post/less/) [common](/en/post/common/)): [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [a](/en/post/a/) [habit](/en/post/habit/), [especially](/en/post/especially/) [one](/en/post/one/) that's [hard](/en/post/hard/) [to](/en/post/to/) [break](/en/post/break/).
+[Example](/en/post/example/) [sentence](/en/post/sentence/): _He was known [as](/en/post/as/) [a](/en/post/a/) [habitual](/en/post/habitual/) smoker._
 
 ## Phrases
-- **Habitual offender**: A person who repeatedly commits crimes or breaks rules, often leading to stricter legal penalties.
-- **Habitual behavior**: Behaviors that have become automatic or ingrained through frequent repetition.
-- **Habitual residence**: The place where a person customarily lives, particularly in legal contexts regarding residency or custody rights.
+- **[Habitual](/en/post/habitual/) offender**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) [repeatedly](/en/post/repeatedly/) commits crimes [or](/en/post/or/) breaks rules, [often](/en/post/often/) [leading](/en/post/leading/) [to](/en/post/to/) stricter [legal](/en/post/legal/) penalties.
+- **[Habitual](/en/post/habitual/) [behavior](/en/post/behavior/)**: Behaviors [that](/en/post/that/) [have](/en/post/have/) [become](/en/post/become/) [automatic](/en/post/automatic/) [or](/en/post/or/) ingrained [through](/en/post/through/) [frequent](/en/post/frequent/) [repetition](/en/post/repetition/).
+- **[Habitual](/en/post/habitual/) [residence](/en/post/residence/)**: [The](/en/post/the/) [place](/en/post/place/) [where](/en/post/where/) [a](/en/post/a/) [person](/en/post/person/) customarily lives, [particularly](/en/post/particularly/) [in](/en/post/in/) [legal](/en/post/legal/) contexts [regarding](/en/post/regarding/) residency [or](/en/post/or/) custody rights.
 
-## Example Sentences
-- Adjective: _She had developed a habitual practice of reading before going to bed._
-- Noun: _The police arrested him because he was identified as a habitual thief._
+## [Example](/en/post/example/) Sentences
+- [Adjective](/en/post/adjective/): _She had developed [a](/en/post/a/) [habitual](/en/post/habitual/) [practice](/en/post/practice/) [of](/en/post/of/) [reading](/en/post/reading/) [before](/en/post/before/) going [to](/en/post/to/) [bed](/en/post/bed/)._
+- [Noun](/en/post/noun/): _The [police](/en/post/police/) arrested [him](/en/post/him/) [because](/en/post/because/) [he](/en/post/he/) was identified [as](/en/post/as/) [a](/en/post/a/) [habitual](/en/post/habitual/) [thief](/en/post/thief/)._
 
 ## Synonyms
-- Regular
-- Usual
+- [Regular](/en/post/regular/)
+- [Usual](/en/post/usual/)
 - Customary
 - Commonplace
 - Ingrained
-- Routine
-- Chronic (in the context of negative habits)
-- Persistent (also used for negative habits)
+- [Routine](/en/post/routine/)
+- Chronic ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [negative](/en/post/negative/) habits)
+- Persistent ([also](/en/post/also/) [used](/en/post/used/) [for](/en/post/for/) [negative](/en/post/negative/) habits)

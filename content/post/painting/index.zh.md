@@ -11,21 +11,21 @@ keywords = ['ai words', 'painting']
 /pəˈnɪntɪŋ/
 
 ## 释义
-- **名词 (n)**: 艺术创作的一种形式，通常指的是用颜料在画布、纸或其他表面上创造出图像的艺术作品。例如: "She displayed her latest painting in the gallery."
-- **动词 (v)**: 指进行绘画活动或创作画作。例如: "He spends his weekends painting landscapes."
+- **名词 (n)**: 艺术创作的一种形式，通常指的是用颜料在画布、纸或其他表面上创造出图像的艺术作品。例如: "[She](/post/she/) displayed [her](/post/her/) latest [painting](/post/painting/) [in](/post/in/) [the](/post/the/) [gallery](/post/gallery/)."
+- **动词 (v)**: 指进行绘画活动或创作画作。例如: "[He](/post/he/) spends [his](/post/his/) weekends [painting](/post/painting/) landscapes."
 
 ## 短语
-- "painting techniques" 绘画技巧
-- "oil painting" 油画
-- "watercolor painting" 水彩画
+- "[painting](/post/painting/) techniques" 绘画技巧
+- "[oil](/post/oil/) [painting](/post/painting/)" 油画
+- "watercolor [painting](/post/painting/)" 水彩画
 
 ## 例句
-- 名词: "The old master's painting fetched a record price at the auction."
-- 动词: "She is painting a portrait of her daughter."
+- 名词: "[The](/post/the/) [old](/post/old/) master's [painting](/post/painting/) fetched [a](/post/a/) [record](/post/record/) [price](/post/price/) [at](/post/at/) [the](/post/the/) auction."
+- 动词: "[She](/post/she/) is [painting](/post/painting/) [a](/post/a/) [portrait](/post/portrait/) [of](/post/of/) [her](/post/her/) [daughter](/post/daughter/)."
 
 ## 同义词
 - artwork
-- picture
+- [picture](/post/picture/)
 - artwork
-- drawing
-- sketch
+- [drawing](/post/drawing/)
+- [sketch](/post/sketch/)

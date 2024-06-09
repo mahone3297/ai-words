@@ -7,35 +7,35 @@ description = '[ˈbiznis] n.商业，生意；事务'
 keywords = ['ai words', 'business']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /bɪˈziːnəs/
 
 ## Definitions
-### Noun
-1. **Business** (noun): A company or commercial enterprise engaged in producing goods or providing services for profit. [Example:] "She started her own business selling handmade crafts."
-2. **Business affairs** (noun): Matters related to work or financial activities. [Example:] "We discussed our business affairs over lunch."
-3. **Commercial activity** (noun): The general operation of buying and selling goods or services. [Example:] "The downtown area thrives on local business."
-4. **Trade** (noun): The exchange of goods or services for money. [Example:] "The country's exports form a significant part of its business."
+### [Noun](/en/post/noun/)
+1. **[Business](/en/post/business/)** ([noun](/en/post/noun/)): [A](/en/post/a/) [company](/en/post/company/) [or](/en/post/or/) [commercial](/en/post/commercial/) enterprise engaged [in](/en/post/in/) producing [goods](/en/post/goods/) [or](/en/post/or/) providing services [for](/en/post/for/) [profit](/en/post/profit/). [[Example](/en/post/example/):] "[She](/en/post/she/) started [her](/en/post/her/) [own](/en/post/own/) [business](/en/post/business/) selling handmade crafts."
+2. **[Business](/en/post/business/) affairs** ([noun](/en/post/noun/)): Matters related [to](/en/post/to/) [work](/en/post/work/) [or](/en/post/or/) [financial](/en/post/financial/) activities. [[Example](/en/post/example/):] "[We](/en/post/we/) discussed [our](/en/post/our/) [business](/en/post/business/) affairs [over](/en/post/over/) [lunch](/en/post/lunch/)."
+3. **[Commercial](/en/post/commercial/) [activity](/en/post/activity/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [general](/en/post/general/) [operation](/en/post/operation/) [of](/en/post/of/) buying [and](/en/post/and/) selling [goods](/en/post/goods/) [or](/en/post/or/) services. [[Example](/en/post/example/):] "[The](/en/post/the/) downtown [area](/en/post/area/) thrives [on](/en/post/on/) [local](/en/post/local/) [business](/en/post/business/)."
+4. **[Trade](/en/post/trade/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [exchange](/en/post/exchange/) [of](/en/post/of/) [goods](/en/post/goods/) [or](/en/post/or/) services [for](/en/post/for/) [money](/en/post/money/). [[Example](/en/post/example/):] "[The](/en/post/the/) country's exports [form](/en/post/form/) [a](/en/post/a/) [significant](/en/post/significant/) [part](/en/post/part/) [of](/en/post/of/) [its](/en/post/its/) [business](/en/post/business/)."
 
-### Verb
-1. **To conduct business** (verb): To manage or operate a company or engage in transactions. [Example:] "The company conducts its business efficiently."
-2. **To do business with** (verb): To enter into a transaction or relationship with another person or organization. [Example:] "They've been doing business with this supplier for years."
+### [Verb](/en/post/verb/)
+1. **[To](/en/post/to/) [conduct](/en/post/conduct/) [business](/en/post/business/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [manage](/en/post/manage/) [or](/en/post/or/) [operate](/en/post/operate/) [a](/en/post/a/) [company](/en/post/company/) [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) transactions. [[Example](/en/post/example/):] "[The](/en/post/the/) [company](/en/post/company/) conducts [its](/en/post/its/) [business](/en/post/business/) efficiently."
+2. **[To](/en/post/to/) [do](/en/post/do/) [business](/en/post/business/) [with](/en/post/with/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [enter](/en/post/enter/) [into](/en/post/into/) [a](/en/post/a/) transaction [or](/en/post/or/) [relationship](/en/post/relationship/) [with](/en/post/with/) [another](/en/post/another/) [person](/en/post/person/) [or](/en/post/or/) [organization](/en/post/organization/). [[Example](/en/post/example/):] "They've been doing [business](/en/post/business/) [with](/en/post/with/) [this](/en/post/this/) supplier [for](/en/post/for/) years."
 
 ## Phrases
-- "Running a business" signifies managing or operating a company.
-- "In business" refers to being professionally engaged or active.
-- "Get down to business" means to start working on important tasks.
+- "Running [a](/en/post/a/) [business](/en/post/business/)" signifies managing [or](/en/post/or/) operating [a](/en/post/a/) [company](/en/post/company/).
+- "[In](/en/post/in/) [business](/en/post/business/)" refers [to](/en/post/to/) [being](/en/post/being/) professionally engaged [or](/en/post/or/) [active](/en/post/active/).
+- "[Get](/en/post/get/) [down](/en/post/down/) [to](/en/post/to/) [business](/en/post/business/)" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) working [on](/en/post/on/) [important](/en/post/important/) tasks.
 
-## Example Sentences
-- **Noun**: "He started his own business after losing his job."
-- **Verb**: "The CEO is meeting with investors to discuss the business's future strategy."
-- **Phrases**: "It's time we got down to business and made some decisions."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) started [his](/en/post/his/) [own](/en/post/own/) [business](/en/post/business/) [after](/en/post/after/) losing [his](/en/post/his/) [job](/en/post/job/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) CEO is [meeting](/en/post/meeting/) [with](/en/post/with/) investors [to](/en/post/to/) [discuss](/en/post/discuss/) [the](/en/post/the/) business's [future](/en/post/future/) [strategy](/en/post/strategy/)."
+- **Phrases**: "It's [time](/en/post/time/) [we](/en/post/we/) got [down](/en/post/down/) [to](/en/post/to/) [business](/en/post/business/) [and](/en/post/and/) made [some](/en/post/some/) decisions."
 
 ## Synonyms
 - Enterprise
-- Operation
+- [Operation](/en/post/operation/)
 - Endeavor
 - Endeavour
-- Firm
-- Company
-- Trade (in the context of commerce)
+- [Firm](/en/post/firm/)
+- [Company](/en/post/company/)
+- [Trade](/en/post/trade/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [commerce](/en/post/commerce/))

@@ -11,21 +11,21 @@ keywords = ['ai words', 'export']
 /ɪkˈspɔːrt/
 
 ## 释义
-- **动词**: 将货物或产品从一个国家运输到另一个国家出售或使用。例如: "The country exports a large amount of oil to neighboring nations."
-- **名词**: 出口的商品或服务。例如: "Their main export is agricultural products."
+- **动词**: 将货物或产品从一个国家运输到另一个国家出售或使用。例如: "[The](/post/the/) [country](/post/country/) exports [a](/post/a/) [large](/post/large/) [amount](/post/amount/) [of](/post/of/) [oil](/post/oil/) [to](/post/to/) neighboring nations."
+- **名词**: 出口的商品或服务。例如: "[Their](/post/their/) [main](/post/main/) [export](/post/export/) is agricultural products."
 
 ## 短语
-- "Export goods" 指的是出口的商品。
-- "Export market" 指的是出口商品或服务的目标市场。
-- "Export regulations" 是指关于出口的法规和限制。
+- "[Export](/post/export/) [goods](/post/goods/)" 指的是出口的商品。
+- "[Export](/post/export/) [market](/post/market/)" 指的是出口商品或服务的目标市场。
+- "[Export](/post/export/) regulations" 是指关于出口的法规和限制。
 
 ## 例句
-- 动词: "The company has been exporting cars to Europe for decades."
-- 名词: "The government encourages the growth of the export sector."
+- 动词: "[The](/post/the/) [company](/post/company/) has been exporting cars [to](/post/to/) Europe [for](/post/for/) decades."
+- 名词: "[The](/post/the/) [government](/post/government/) encourages [the](/post/the/) [growth](/post/growth/) [of](/post/of/) [the](/post/the/) [export](/post/export/) sector."
 
 ## 同义词
-- Ship out
-- Send abroad
+- [Ship](/post/ship/) [out](/post/out/)
+- [Send](/post/send/) [abroad](/post/abroad/)
 - Exportation
-- Outbound trade
-- Sales abroad
+- Outbound [trade](/post/trade/)
+- Sales [abroad](/post/abroad/)

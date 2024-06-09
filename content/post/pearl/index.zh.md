@@ -12,20 +12,20 @@ keywords = ['ai words', 'pearl']
 
 ## 释义
 - **名词**: 
-   - 一种由贝类产生的光滑、圆形的宝石，通常作为珠宝使用。例如: "She wore a necklace with a beautiful pearl in the center."
-   - 比喻珍贵的东西或人。例如: "He is the pearl of their family."
+   - 一种由贝类产生的光滑、圆形的宝石，通常作为珠宝使用。例如: "[She](/post/she/) wore [a](/post/a/) [necklace](/post/necklace/) [with](/post/with/) [a](/post/a/) [beautiful](/post/beautiful/) [pearl](/post/pearl/) [in](/post/in/) [the](/post/the/) center."
+   - 比喻珍贵的东西或人。例如: "[He](/post/he/) is [the](/post/the/) [pearl](/post/pearl/) [of](/post/of/) [their](/post/their/) [family](/post/family/)."
 
 ## 短语
-- "Pearl necklace" 指由珍珠串成的项链。
-- "Black pearl" 指黑色的珍珠，较为稀有。
+- "[Pearl](/post/pearl/) [necklace](/post/necklace/)" 指由珍珠串成的项链。
+- "[Black](/post/black/) [pearl](/post/pearl/)" 指黑色的珍珠，较为稀有。
 
 ## 例句
-- 名词: "The oyster contained a large, lustrous pearl."
-- 比喻: "Her smile was the pearl that lit up the room."
+- 名词: "[The](/post/the/) oyster contained [a](/post/a/) [large](/post/large/), lustrous [pearl](/post/pearl/)."
+- 比喻: "[Her](/post/her/) [smile](/post/smile/) was [the](/post/the/) [pearl](/post/pearl/) [that](/post/that/) lit [up](/post/up/) [the](/post/the/) [room](/post/room/)."
 
 ## 同义词
 - Gem
-- Jewel
-- Treasure
+- [Jewel](/post/jewel/)
+- [Treasure](/post/treasure/)
 - Bead
-- Stone
+- [Stone](/post/stone/)

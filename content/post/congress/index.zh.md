@@ -12,19 +12,19 @@ keywords = ['ai words', 'congress']
 
 ## 释义
 - **名词**: 
-   - **立法机关**: 特指美国的国会，由参议院（Senate）和众议院（House of Representatives）组成。例如: "The Congress has the power to levy taxes."
-   - **代表大会**: 指各种组织或国家间的会议，讨论共同关心的问题。例如: "The World Congress on Environmental Protection is held annually."
+   - **立法机关**: 特指美国的国会，由参议院（[Senate](/post/senate/)）和众议院（[House](/post/house/) [of](/post/of/) Representatives）组成。例如: "[The](/post/the/) [Congress](/post/congress/) has [the](/post/the/) [power](/post/power/) [to](/post/to/) levy taxes."
+   - **代表大会**: 指各种组织或国家间的会议，讨论共同关心的问题。例如: "[The](/post/the/) [World](/post/world/) [Congress](/post/congress/) [on](/post/on/) Environmental [Protection](/post/protection/) is held annually."
 
 ## 短语
 - "Congressional hearing" 指国会进行的听证会。
-- "Joint session of Congress" 是指参众两院同时召开的会议。
+- "[Joint](/post/joint/) [session](/post/session/) [of](/post/of/) [Congress](/post/congress/)" 是指参众两院同时召开的会议。
 
 ## 例句
-- 名词: "The Congress is currently debating a new healthcare bill."
-- 代表大会: "Delegates from around the globe attended the International Congress on Climate Change."
+- 名词: "[The](/post/the/) [Congress](/post/congress/) is currently debating [a](/post/a/) [new](/post/new/) healthcare [bill](/post/bill/)."
+- 代表大会: "Delegates [from](/post/from/) [around](/post/around/) [the](/post/the/) [globe](/post/globe/) attended [the](/post/the/) [International](/post/international/) [Congress](/post/congress/) [on](/post/on/) [Climate](/post/climate/) [Change](/post/change/)."
 
 ## 同义词
 - Legislature (特指其他国家的立法机构)
-- Assembly (尤指州级或市级的立法机构)
-- Meeting (一般性的会议)
+- [Assembly](/post/assembly/) (尤指州级或市级的立法机构)
+- [Meeting](/post/meeting/) (一般性的会议)
 - Gathering (集合，聚会)

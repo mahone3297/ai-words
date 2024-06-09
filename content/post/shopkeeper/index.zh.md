@@ -11,20 +11,20 @@ keywords = ['ai words', 'shopkeeper']
 /ˈʃɒpˌkiːpər/
 
 ## 释义
-- **名词 (n)**: 经营商店的人，店主。例如: "The shopkeeper is very friendly with his customers."
-- **动词 (v)**: 通常不作为动词使用，但可以表达“经营店铺”的含义。例如: "She shopkeeps at a small bookstore downtown."
+- **名词 (n)**: 经营商店的人，店主。例如: "[The](/post/the/) [shopkeeper](/post/shopkeeper/) is [very](/post/very/) [friendly](/post/friendly/) [with](/post/with/) [his](/post/his/) customers."
+- **动词 (v)**: 通常不作为动词使用，但可以表达“经营店铺”的含义。例如: "[She](/post/she/) shopkeeps [at](/post/at/) [a](/post/a/) [small](/post/small/) bookstore downtown."
 
 ## 短语
-- "Behind the counter, the shopkeeper was busy serving customers." 店主在柜台后面忙着接待顾客。
+- "[Behind](/post/behind/) [the](/post/the/) [counter](/post/counter/), [the](/post/the/) [shopkeeper](/post/shopkeeper/) was [busy](/post/busy/) serving customers." 店主在柜台后面忙着接待顾客。
 - "Shopkeeper's hours" 指店主通常工作的时间，可能很长且不固定。
 
 ## 例句
-- 名词: "The local shopkeeper knows everyone in the village by name."
-- 动词: "She has been shopkeeping for over 20 years."
+- 名词: "[The](/post/the/) [local](/post/local/) [shopkeeper](/post/shopkeeper/) knows [everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) [village](/post/village/) [by](/post/by/) [name](/post/name/)."
+- 动词: "[She](/post/she/) has been shopkeeping [for](/post/for/) [over](/post/over/) 20 years."
 
 ## 同义词
 - Proprietor
-- Merchant
-- Owner
+- [Merchant](/post/merchant/)
+- [Owner](/post/owner/)
 - Retailer
 - Dealer

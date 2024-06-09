@@ -12,20 +12,20 @@ keywords = ['ai words', 'salary']
 
 ## 释义
 - **名词 n**:
-   - 薪水，薪酬。指个人因工作而获得的定期收入。例如: "He earns a good salary as a software engineer."
-   - 工资，薪水额。例如: "The company offers a competitive salary package."
+   - 薪水，薪酬。指个人因工作而获得的定期收入。例如: "[He](/post/he/) earns [a](/post/a/) [good](/post/good/) [salary](/post/salary/) [as](/post/as/) [a](/post/a/) software [engineer](/post/engineer/)."
+   - 工资，薪水额。例如: "[The](/post/the/) [company](/post/company/) offers [a](/post/a/) competitive [salary](/post/salary/) [package](/post/package/)."
 
 ## 短语
-- "Annual salary" 指一年的总收入。
-- "Salary negotiation" 是指在求职过程中讨论薪资待遇的过程。
+- "[Annual](/post/annual/) [salary](/post/salary/)" 指一年的总收入。
+- "[Salary](/post/salary/) negotiation" 是指在求职过程中讨论薪资待遇的过程。
 
 ## 例句
-- "Her starting salary was quite low, but it increased with time."
-- "We're in the process of salary negotiation for the new position."
+- "[Her](/post/her/) starting [salary](/post/salary/) was [quite](/post/quite/) [low](/post/low/), [but](/post/but/) [it](/post/it/) increased [with](/post/with/) [time](/post/time/)."
+- "We're [in](/post/in/) [the](/post/the/) [process](/post/process/) [of](/post/of/) [salary](/post/salary/) negotiation [for](/post/for/) [the](/post/the/) [new](/post/new/) [position](/post/position/)."
 
 ## 同义词
 - Wages
 - Earnings
 - Compensation
 - Remuneration
-- Income
+- [Income](/post/income/)

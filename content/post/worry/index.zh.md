@@ -11,20 +11,20 @@ keywords = ['ai words', 'worry']
 /wʌri/
 
 ## 释义
-- **动词**: 担心，忧虑。例如: "I'm really worrying about the exam tomorrow."
-- **名词**: 担忧，烦恼。例如: "Her biggest worry is finding a job."
+- **动词**: 担心，忧虑。例如: "I'm [really](/post/really/) worrying [about](/post/about/) [the](/post/the/) [exam](/post/exam/) [tomorrow](/post/tomorrow/)."
+- **名词**: 担忧，烦恼。例如: "[Her](/post/her/) biggest [worry](/post/worry/) is [finding](/post/finding/) [a](/post/a/) [job](/post/job/)."
 
 ## 短语
-- "Don't worry" 常用来安慰别人，意思是别担心。
-- "Worry about something" 指对某事感到担忧。例如: "Stop worrying about what others think and just be yourself."
+- "Don't [worry](/post/worry/)" 常用来安慰别人，意思是别担心。
+- "[Worry](/post/worry/) [about](/post/about/) [something](/post/something/)" 指对某事感到担忧。例如: "[Stop](/post/stop/) worrying [about](/post/about/) [what](/post/what/) others [think](/post/think/) [and](/post/and/) [just](/post/just/) [be](/post/be/) [yourself](/post/yourself/)."
 
 ## 例句
-- 动词: "She spent the whole day worrying about her sick child."
-- 名词: "His main worry is how he'll pay the rent this month."
+- 动词: "[She](/post/she/) spent [the](/post/the/) [whole](/post/whole/) [day](/post/day/) worrying [about](/post/about/) [her](/post/her/) [sick](/post/sick/) [child](/post/child/)."
+- 名词: "[His](/post/his/) [main](/post/main/) [worry](/post/worry/) is [how](/post/how/) he'll [pay](/post/pay/) [the](/post/the/) [rent](/post/rent/) [this](/post/this/) [month](/post/month/)."
 
 ## 同义词
-- Anxiety
-- Concern
-- Fear
+- [Anxiety](/post/anxiety/)
+- [Concern](/post/concern/)
+- [Fear](/post/fear/)
 - Apprehension
 - Nervousness

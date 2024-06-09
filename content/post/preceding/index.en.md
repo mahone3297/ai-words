@@ -7,28 +7,28 @@ description = '[pri(ː)ˈsiːdiŋ] a.在前的；在先的'
 keywords = ['ai words', 'preceding']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /həˈlɛp/
 
 ## Definitions
-- **Noun**: A device or tool used for writing, drawing, or marking, typically consisting of a flat surface with one or more writing instruments attached. For example: "The artist worked on her canvas with a paintbrush."
-- **Verb**: To use a pen for writing or drawing. For example: "She carefully penciled in the details of the drawing."
-- **Noun**: (colloquial) A person who writes or creates content, especially professionally. For example: "The author is known for her captivating pen names."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [device](/en/post/device/) [or](/en/post/or/) [tool](/en/post/tool/) [used](/en/post/used/) [for](/en/post/for/) [writing](/en/post/writing/), [drawing](/en/post/drawing/), [or](/en/post/or/) marking, typically consisting [of](/en/post/of/) [a](/en/post/a/) [flat](/en/post/flat/) [surface](/en/post/surface/) [with](/en/post/with/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) [writing](/en/post/writing/) instruments attached. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) worked [on](/en/post/on/) [her](/en/post/her/) [canvas](/en/post/canvas/) [with](/en/post/with/) [a](/en/post/a/) paintbrush."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [pen](/en/post/pen/) [for](/en/post/for/) [writing](/en/post/writing/) [or](/en/post/or/) [drawing](/en/post/drawing/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) carefully penciled [in](/en/post/in/) [the](/en/post/the/) details [of](/en/post/of/) [the](/en/post/the/) [drawing](/en/post/drawing/)."
+- **[Noun](/en/post/noun/)**: (colloquial) [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) writes [or](/en/post/or/) creates [content](/en/post/content/), [especially](/en/post/especially/) professionally. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [author](/en/post/author/) is known [for](/en/post/for/) [her](/en/post/her/) captivating [pen](/en/post/pen/) names."
 
 ## Phrases
-- "Put pen to paper" means to start writing.
-- "With a pen in hand" describes someone preparing to write.
-- "A writer's pen" symbolizes creativity and expression.
+- "[Put](/en/post/put/) [pen](/en/post/pen/) [to](/en/post/to/) [paper](/en/post/paper/)" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) [writing](/en/post/writing/).
+- "[With](/en/post/with/) [a](/en/post/a/) [pen](/en/post/pen/) [in](/en/post/in/) [hand](/en/post/hand/)" describes [someone](/en/post/someone/) preparing [to](/en/post/to/) [write](/en/post/write/).
+- "[A](/en/post/a/) writer's [pen](/en/post/pen/)" symbolizes creativity [and](/en/post/and/) [expression](/en/post/expression/).
 
-## Example Sentences
-- **Noun**: "He picked up his pen and began sketching a portrait."
-- **Verb**: "After finishing her essay, she signed her name with a flourish."
-- **Colloquial**: "As a freelance pen, she churns out articles for various publications."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) picked [up](/en/post/up/) [his](/en/post/his/) [pen](/en/post/pen/) [and](/en/post/and/) began sketching [a](/en/post/a/) [portrait](/en/post/portrait/)."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) finishing [her](/en/post/her/) [essay](/en/post/essay/), [she](/en/post/she/) signed [her](/en/post/her/) [name](/en/post/name/) [with](/en/post/with/) [a](/en/post/a/) [flourish](/en/post/flourish/)."
+- **Colloquial**: "[As](/en/post/as/) [a](/en/post/a/) freelance [pen](/en/post/pen/), [she](/en/post/she/) churns [out](/en/post/out/) articles [for](/en/post/for/) [various](/en/post/various/) publications."
 
 ## Synonyms
-- Pencil
+- [Pencil](/en/post/pencil/)
 - Quill
 - Marker
-- Instrument
-- Writing utensil
-- Penman (archaic, referring to a skilled writer)
+- [Instrument](/en/post/instrument/)
+- [Writing](/en/post/writing/) utensil
+- Penman (archaic, referring [to](/en/post/to/) [a](/en/post/a/) [skilled](/en/post/skilled/) [writer](/en/post/writer/))

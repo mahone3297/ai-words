@@ -7,39 +7,39 @@ description = '[trəˈdi∫ən] n.传统，惯例'
 keywords = ['ai words', 'tradition']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /trə'dɪʃən/
 
 ## Definitions
-### Noun
-A **tradition** is a long-standing custom, practice, or belief that has been passed down from generation to generation within a family, community, or society. It often involves a set of rituals, ceremonies, or symbols that carry cultural or historical significance.
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) **[tradition](/en/post/tradition/)** is [a](/en/post/a/) long-standing [custom](/en/post/custom/), [practice](/en/post/practice/), [or](/en/post/or/) [belief](/en/post/belief/) [that](/en/post/that/) has been passed [down](/en/post/down/) [from](/en/post/from/) [generation](/en/post/generation/) [to](/en/post/to/) [generation](/en/post/generation/) [within](/en/post/within/) [a](/en/post/a/) [family](/en/post/family/), [community](/en/post/community/), [or](/en/post/or/) [society](/en/post/society/). [It](/en/post/it/) [often](/en/post/often/) involves [a](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) rituals, ceremonies, [or](/en/post/or/) symbols [that](/en/post/that/) [carry](/en/post/carry/) cultural [or](/en/post/or/) [historical](/en/post/historical/) [significance](/en/post/significance/).
 
-### Verb
-To **tradition** (as a verb) can mean to adhere to or follow a particular custom or practice, often out of respect for its historical or cultural importance.
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) **[tradition](/en/post/tradition/)** ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)) [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) adhere [to](/en/post/to/) [or](/en/post/or/) [follow](/en/post/follow/) [a](/en/post/a/) [particular](/en/post/particular/) [custom](/en/post/custom/) [or](/en/post/or/) [practice](/en/post/practice/), [often](/en/post/often/) [out](/en/post/out/) [of](/en/post/of/) [respect](/en/post/respect/) [for](/en/post/for/) [its](/en/post/its/) [historical](/en/post/historical/) [or](/en/post/or/) cultural [importance](/en/post/importance/).
 
 ## Phrases
-- "Carrying on a family tradition"
-- "Honoring a cultural tradition"
-- "Breaking a long-held tradition"
+- "Carrying [on](/en/post/on/) [a](/en/post/a/) [family](/en/post/family/) [tradition](/en/post/tradition/)"
+- "Honoring [a](/en/post/a/) cultural [tradition](/en/post/tradition/)"
+- "Breaking [a](/en/post/a/) long-held [tradition](/en/post/tradition/)"
 
-## Example Sentences
-- **Noun**: "The annual Christmas tree lighting ceremony is a cherished tradition in our town."
-- **Verb**: "She decided to tradition the old recipe handed down by her grandmother."
-- **Phrasal verb**: "He's proud to tradition the values instilled by his parents."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [annual](/en/post/annual/) Christmas [tree](/en/post/tree/) lighting [ceremony](/en/post/ceremony/) is [a](/en/post/a/) cherished [tradition](/en/post/tradition/) [in](/en/post/in/) [our](/en/post/our/) [town](/en/post/town/)."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [tradition](/en/post/tradition/) [the](/en/post/the/) [old](/en/post/old/) recipe handed [down](/en/post/down/) [by](/en/post/by/) [her](/en/post/her/) [grandmother](/en/post/grandmother/)."
+- **Phrasal [verb](/en/post/verb/)**: "He's [proud](/en/post/proud/) [to](/en/post/to/) [tradition](/en/post/tradition/) [the](/en/post/the/) values instilled [by](/en/post/by/) [his](/en/post/his/) parents."
 
 ## Synonyms
-- Custom
-- Practice
+- [Custom](/en/post/custom/)
+- [Practice](/en/post/practice/)
 - Ritual
-- Belief
+- [Belief](/en/post/belief/)
 - Legacy
-- Institution
-- Ancestral tradition
-- Time-honored tradition
+- [Institution](/en/post/institution/)
+- Ancestral [tradition](/en/post/tradition/)
+- Time-honored [tradition](/en/post/tradition/)
 
 ## Antonyms
 - Innovation
-- Departure
+- [Departure](/en/post/departure/)
 - Abandonment
 - Renovation
-- Reform
+- [Reform](/en/post/reform/)

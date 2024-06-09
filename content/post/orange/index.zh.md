@@ -11,19 +11,19 @@ keywords = ['ai words', 'orange']
 /ˈɒrɪndʒ/
 
 ## 释义
-- **名词**: 一种圆形水果，颜色通常是橙色，有甜味，可食用。例如: "I love eating oranges for their refreshing taste."
-- **形容词**: 颜色为橙色的，或与橙子有关的。例如: "The walls of the room were painted in a bright orange color."
-- **名词 (色彩)**: 橙色，一种介于红色和黄色之间的颜色。例如: "Orange is her favorite color."
+- **名词**: 一种圆形水果，颜色通常是橙色，有甜味，可食用。例如: "I [love](/post/love/) eating oranges [for](/post/for/) [their](/post/their/) refreshing [taste](/post/taste/)."
+- **形容词**: 颜色为橙色的，或与橙子有关的。例如: "[The](/post/the/) walls [of](/post/of/) [the](/post/the/) [room](/post/room/) were painted [in](/post/in/) [a](/post/a/) [bright](/post/bright/) [orange](/post/orange/) [color](/post/color/)."
+- **名词 (色彩)**: 橙色，一种介于红色和黄色之间的颜色。例如: "[Orange](/post/orange/) is [her](/post/her/) favorite [color](/post/color/)."
 
 ## 短语
-- "orange juice" 橙汁，由橙子榨出的饮料。
-- "orange peel" 橙皮，指的是橙子的外皮，有时用于烹饪或制作香料。
-- "orange blossom" 橙花，橙树的花，具有香气，常用于香水和婚礼。
+- "[orange](/post/orange/) [juice](/post/juice/)" 橙汁，由橙子榨出的饮料。
+- "[orange](/post/orange/) [peel](/post/peel/)" 橙皮，指的是橙子的外皮，有时用于烹饪或制作香料。
+- "[orange](/post/orange/) [blossom](/post/blossom/)" 橙花，橙树的花，具有香气，常用于香水和婚礼。
 
 ## 例句
-- 名词: "She peeled an orange and shared it with her friend."
-- 形容词: "The dress she wore was a beautiful shade of orange."
-- 色彩: "The sunset displayed a spectrum of warm colors, from orange to red."
+- 名词: "[She](/post/she/) peeled an [orange](/post/orange/) [and](/post/and/) shared [it](/post/it/) [with](/post/with/) [her](/post/her/) [friend](/post/friend/)."
+- 形容词: "[The](/post/the/) [dress](/post/dress/) [she](/post/she/) wore was [a](/post/a/) [beautiful](/post/beautiful/) [shade](/post/shade/) [of](/post/of/) [orange](/post/orange/)."
+- 色彩: "[The](/post/the/) [sunset](/post/sunset/) displayed [a](/post/a/) spectrum [of](/post/of/) [warm](/post/warm/) colors, [from](/post/from/) [orange](/post/orange/) [to](/post/to/) [red](/post/red/)."
 
 ## 同义词
 - Citrus

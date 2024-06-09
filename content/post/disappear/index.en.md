@@ -7,37 +7,37 @@ description = '[ˌdisəˈpiə] vi.不见，失踪；消失'
 keywords = ['ai words', 'disappear']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /disəˈpɪər/
 
 ## Definitions
-- **Verb**: **v**. To vanish or cease to be seen or known; to go out of sight or existence. For example: "The children disappeared into the playground."
-- **Noun**: The act or fact of disappearing; vanishing. For example: "Her sudden disappearance puzzled everyone."
-- **Adjective**: Not present or noticeable; hidden or concealed. For example: "The noise disappeared into the distance."
+- **[Verb](/en/post/verb/)**: **v**. [To](/en/post/to/) [vanish](/en/post/vanish/) [or](/en/post/or/) [cease](/en/post/cease/) [to](/en/post/to/) [be](/en/post/be/) seen [or](/en/post/or/) known; [to](/en/post/to/) [go](/en/post/go/) [out](/en/post/out/) [of](/en/post/of/) [sight](/en/post/sight/) [or](/en/post/or/) [existence](/en/post/existence/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) children disappeared [into](/en/post/into/) [the](/en/post/the/) [playground](/en/post/playground/)."
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [fact](/en/post/fact/) [of](/en/post/of/) disappearing; vanishing. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [sudden](/en/post/sudden/) disappearance puzzled [everyone](/en/post/everyone/)."
+- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) [present](/en/post/present/) [or](/en/post/or/) [noticeable](/en/post/noticeable/); hidden [or](/en/post/or/) concealed. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [noise](/en/post/noise/) disappeared [into](/en/post/into/) [the](/en/post/the/) [distance](/en/post/distance/)."
 
 ## Phrases
-- "Disappear without a trace" means to vanish completely with no sign or evidence left behind.
-- "Disappear from sight" refers to someone or something ceasing to be visible.
-- "Disappear act" is a term used for a dramatic disappearance or performance.
+- "[Disappear](/en/post/disappear/) [without](/en/post/without/) [a](/en/post/a/) [trace](/en/post/trace/)" [means](/en/post/means/) [to](/en/post/to/) [vanish](/en/post/vanish/) [completely](/en/post/completely/) [with](/en/post/with/) [no](/en/post/no/) [sign](/en/post/sign/) [or](/en/post/or/) [evidence](/en/post/evidence/) [left](/en/post/left/) [behind](/en/post/behind/).
+- "[Disappear](/en/post/disappear/) [from](/en/post/from/) [sight](/en/post/sight/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) ceasing [to](/en/post/to/) [be](/en/post/be/) [visible](/en/post/visible/).
+- "[Disappear](/en/post/disappear/) [act](/en/post/act/)" is [a](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [for](/en/post/for/) [a](/en/post/a/) [dramatic](/en/post/dramatic/) disappearance [or](/en/post/or/) [performance](/en/post/performance/).
 
-## Example Sentences
-- **Verb**: "The magician made the rabbit disappear with a wave of his wand."
-- **Noun**: "After a heated argument, he stormed out, disappearing into the night."
-- **Adjective**: "The old house was surrounded by overgrown shrubs, making it seem almost invisible or disappeared."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) magician made [the](/en/post/the/) [rabbit](/en/post/rabbit/) [disappear](/en/post/disappear/) [with](/en/post/with/) [a](/en/post/a/) [wave](/en/post/wave/) [of](/en/post/of/) [his](/en/post/his/) wand."
+- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [a](/en/post/a/) heated [argument](/en/post/argument/), [he](/en/post/he/) stormed [out](/en/post/out/), disappearing [into](/en/post/into/) [the](/en/post/the/) [night](/en/post/night/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [old](/en/post/old/) [house](/en/post/house/) was surrounded [by](/en/post/by/) overgrown shrubs, making [it](/en/post/it/) [seem](/en/post/seem/) [almost](/en/post/almost/) [invisible](/en/post/invisible/) [or](/en/post/or/) disappeared."
 
 ## Synonyms
-- Vanish
-- Fade away
-- Evaporate
+- [Vanish](/en/post/vanish/)
+- [Fade](/en/post/fade/) [away](/en/post/away/)
+- [Evaporate](/en/post/evaporate/)
 - Vanquish
 - Elude
-- Conceal
-- Withdraw
-- Vanish into thin air
+- [Conceal](/en/post/conceal/)
+- [Withdraw](/en/post/withdraw/)
+- [Vanish](/en/post/vanish/) [into](/en/post/into/) [thin](/en/post/thin/) [air](/en/post/air/)
 
 ## Antonyms
-- Appear
-- Surface
+- [Appear](/en/post/appear/)
+- [Surface](/en/post/surface/)
 - Reemerge
-- Become visible
-- Pop up
+- [Become](/en/post/become/) [visible](/en/post/visible/)
+- [Pop](/en/post/pop/) [up](/en/post/up/)

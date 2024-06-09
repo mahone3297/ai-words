@@ -12,20 +12,20 @@ keywords = ['ai words', 'lifetime']
 
 ## 释义
 - **名词**:
-  - 一生；寿命: "The average human lifetime is about 70 years."
-  - 使用期限；有效期限: "This software has a limited lifetime."
+  - 一生；寿命: "[The](/post/the/) [average](/post/average/) [human](/post/human/) [lifetime](/post/lifetime/) is [about](/post/about/) 70 years."
+  - 使用期限；有效期限: "[This](/post/this/) software has [a](/post/a/) [limited](/post/limited/) [lifetime](/post/lifetime/)."
 
 ## 短语
-- "Lifetime guarantee" 表示终身保修或保证。
-- "Lifetime achievement award" 是终身成就奖。
+- "[Lifetime](/post/lifetime/) [guarantee](/post/guarantee/)" 表示终身保修或保证。
+- "[Lifetime](/post/lifetime/) [achievement](/post/achievement/) [award](/post/award/)" 是终身成就奖。
 
 ## 例句
-- 名词: "She dedicated her entire lifetime to helping others."
-- "The warranty has a lifetime coverage for defects in materials."
+- 名词: "[She](/post/she/) dedicated [her](/post/her/) [entire](/post/entire/) [lifetime](/post/lifetime/) [to](/post/to/) helping others."
+- "[The](/post/the/) warranty has [a](/post/a/) [lifetime](/post/lifetime/) coverage [for](/post/for/) defects [in](/post/in/) materials."
 
 ## 同义词
 - Lifespan
-- Duration
-- Term
-- Existence
+- [Duration](/post/duration/)
+- [Term](/post/term/)
+- [Existence](/post/existence/)
 - Longevity

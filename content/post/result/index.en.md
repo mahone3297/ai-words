@@ -7,38 +7,38 @@ description = '[riˈzʌlt] n.成果 vi.发生，结果'
 keywords = ['ai words', 'result']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /rɪˈzʌlt/
 
 ## Definitions
-### Noun
-1. The outcome or consequence of an action, process, or event. For example: "The experiment produced unexpected results."
-2. A specific piece of information or data derived from a calculation or investigation. For example: "The result of the election was announced last night."
+### [Noun](/en/post/noun/)
+1. [The](/en/post/the/) [outcome](/en/post/outcome/) [or](/en/post/or/) [consequence](/en/post/consequence/) [of](/en/post/of/) an [action](/en/post/action/), [process](/en/post/process/), [or](/en/post/or/) [event](/en/post/event/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [experiment](/en/post/experiment/) produced [unexpected](/en/post/unexpected/) results."
+2. [A](/en/post/a/) [specific](/en/post/specific/) [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/) [or](/en/post/or/) [data](/en/post/data/) derived [from](/en/post/from/) [a](/en/post/a/) [calculation](/en/post/calculation/) [or](/en/post/or/) [investigation](/en/post/investigation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [result](/en/post/result/) [of](/en/post/of/) [the](/en/post/the/) [election](/en/post/election/) was announced [last](/en/post/last/) [night](/en/post/night/)."
 
-### Verb
-1. To produce or achieve as a consequence. For example: "Working hard will result in success."
-2. To come to a specific conclusion or decision after considering something. For example: "The team discussed the issue and eventually resulted in a plan."
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [produce](/en/post/produce/) [or](/en/post/or/) [achieve](/en/post/achieve/) [as](/en/post/as/) [a](/en/post/a/) [consequence](/en/post/consequence/). [For](/en/post/for/) [example](/en/post/example/): "Working [hard](/en/post/hard/) [will](/en/post/will/) [result](/en/post/result/) [in](/en/post/in/) [success](/en/post/success/)."
+2. [To](/en/post/to/) [come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [conclusion](/en/post/conclusion/) [or](/en/post/or/) [decision](/en/post/decision/) [after](/en/post/after/) considering [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) discussed [the](/en/post/the/) [issue](/en/post/issue/) [and](/en/post/and/) [eventually](/en/post/eventually/) resulted [in](/en/post/in/) [a](/en/post/a/) [plan](/en/post/plan/)."
 
 ## Phrases
-- "As a result" indicates the outcome of an action.
-- "No matter the result" suggests acceptance of any possible outcome.
-- "Bring about a result" implies causing a desired outcome.
+- "[As](/en/post/as/) [a](/en/post/a/) [result](/en/post/result/)" indicates [the](/en/post/the/) [outcome](/en/post/outcome/) [of](/en/post/of/) an [action](/en/post/action/).
+- "[No](/en/post/no/) [matter](/en/post/matter/) [the](/en/post/the/) [result](/en/post/result/)" suggests [acceptance](/en/post/acceptance/) [of](/en/post/of/) [any](/en/post/any/) [possible](/en/post/possible/) [outcome](/en/post/outcome/).
+- "[Bring](/en/post/bring/) [about](/en/post/about/) [a](/en/post/a/) [result](/en/post/result/)" implies causing [a](/en/post/a/) desired [outcome](/en/post/outcome/).
 
-## Example Sentences
-- **Noun**: "The experiment's results were groundbreaking in the field of science."
-- **Verb**: "Her diligent study resulted in top grades on the exams."
-- **Verb**: "After careful analysis, they were able to result in a peaceful resolution."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) experiment's results were groundbreaking [in](/en/post/in/) [the](/en/post/the/) [field](/en/post/field/) [of](/en/post/of/) [science](/en/post/science/)."
+- **[Verb](/en/post/verb/)**: "[Her](/en/post/her/) [diligent](/en/post/diligent/) [study](/en/post/study/) resulted [in](/en/post/in/) [top](/en/post/top/) grades [on](/en/post/on/) [the](/en/post/the/) exams."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [careful](/en/post/careful/) [analysis](/en/post/analysis/), [they](/en/post/they/) were [able](/en/post/able/) [to](/en/post/to/) [result](/en/post/result/) [in](/en/post/in/) [a](/en/post/a/) [peaceful](/en/post/peaceful/) [resolution](/en/post/resolution/)."
 
 ## Synonyms
-- Outcome
-- Consequence
-- Effect
-- Implication
+- [Outcome](/en/post/outcome/)
+- [Consequence](/en/post/consequence/)
+- [Effect](/en/post/effect/)
+- [Implication](/en/post/implication/)
 - Findings
-- Conclusion
+- [Conclusion](/en/post/conclusion/)
 
 ## Antonyms
-- Cause
+- [Cause](/en/post/cause/)
 - Prevention
-- Failure
-- Lack of result (opposite of successful outcome)
+- [Failure](/en/post/failure/)
+- [Lack](/en/post/lack/) [of](/en/post/of/) [result](/en/post/result/) ([opposite](/en/post/opposite/) [of](/en/post/of/) [successful](/en/post/successful/) [outcome](/en/post/outcome/))

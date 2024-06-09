@@ -14,17 +14,17 @@ keywords = ['ai words', 'rapidly']
 - **副词**: 快速地，迅速地。描述动作或变化的速度很快。
 
 ## 短语
-- "to do something rapidly" 表示快速地做某事。
-- "growing rapidly" 指迅速增长。
+- "[to](/post/to/) [do](/post/do/) [something](/post/something/) [rapidly](/post/rapidly/)" 表示快速地做某事。
+- "growing [rapidly](/post/rapidly/)" 指迅速增长。
 
 ## 例句
-- "The train moved rapidly through the countryside."
-- "Her heart was beating rapidly after the intense workout."
-- "The technology is advancing rapidly."
+- "[The](/post/the/) [train](/post/train/) moved [rapidly](/post/rapidly/) [through](/post/through/) [the](/post/the/) [countryside](/post/countryside/)."
+- "[Her](/post/her/) [heart](/post/heart/) was beating [rapidly](/post/rapidly/) [after](/post/after/) [the](/post/the/) [intense](/post/intense/) workout."
+- "[The](/post/the/) [technology](/post/technology/) is advancing [rapidly](/post/rapidly/)."
 
 ## 同义词
-- Quickly
+- [Quickly](/post/quickly/)
 - Swiftly
 - Promptly
 - Speedily
-- Instantly
+- [Instantly](/post/instantly/)

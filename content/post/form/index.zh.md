@@ -12,30 +12,30 @@ keywords = ['ai words', 'form']
 
 ## 释义
 - **名词**:
-1. 形状，外观：The building has an elegant form.
-2. 格式，表格：Please fill out this application form.
-3. 结构，构造：The molecule's form determines its chemical properties.
-4. 规则，制度：We must follow the school's dress code form.
-5. 体形，身材：She has a good form when dancing.
+1. 形状，外观：[The](/post/the/) [building](/post/building/) has an elegant [form](/post/form/).
+2. 格式，表格：[Please](/post/please/) [fill](/post/fill/) [out](/post/out/) [this](/post/this/) [application](/post/application/) [form](/post/form/).
+3. 结构，构造：[The](/post/the/) molecule's [form](/post/form/) determines [its](/post/its/) [chemical](/post/chemical/) properties.
+4. 规则，制度：[We](/post/we/) [must](/post/must/) [follow](/post/follow/) [the](/post/the/) school's [dress](/post/dress/) [code](/post/code/) [form](/post/form/).
+5. 体形，身材：[She](/post/she/) has [a](/post/a/) [good](/post/good/) [form](/post/form/) [when](/post/when/) dancing.
 
 - **动词**:
-1. 形成，产生：Clouds are forming in the sky.
-2. 组成，构成：These elements form the basis of our diet.
-3. 采取形式：The idea formed in his mind.
-4. 整理，排列：The students formed a line outside the classroom.
+1. 形成，产生：Clouds are forming [in](/post/in/) [the](/post/the/) [sky](/post/sky/).
+2. 组成，构成：[These](/post/these/) elements [form](/post/form/) [the](/post/the/) [basis](/post/basis/) [of](/post/of/) [our](/post/our/) diet.
+3. 采取形式：[The](/post/the/) [idea](/post/idea/) formed [in](/post/in/) [his](/post/his/) [mind](/post/mind/).
+4. 整理，排列：[The](/post/the/) students formed [a](/post/a/) [line](/post/line/) [outside](/post/outside/) [the](/post/the/) [classroom](/post/classroom/).
 
 ## 短语
-- "take the form of" 表现为，以...的形式：The answer took the form of a detailed explanation.
-- "in the form of" 以...的方式：The donation came in the form of cash.
+- "[take](/post/take/) [the](/post/the/) [form](/post/form/) [of](/post/of/)" 表现为，以...的形式：[The](/post/the/) [answer](/post/answer/) took [the](/post/the/) [form](/post/form/) [of](/post/of/) [a](/post/a/) detailed [explanation](/post/explanation/).
+- "[in](/post/in/) [the](/post/the/) [form](/post/form/) [of](/post/of/)" 以...的方式：[The](/post/the/) donation came [in](/post/in/) [the](/post/the/) [form](/post/form/) [of](/post/of/) [cash](/post/cash/).
 
 ## 例句
-- 名词: "The sculpture has a beautiful, abstract form."
-- 动词: "New policies are forming to address climate change."
-- 形容词: "The athlete demonstrated perfect form during the exercise."
+- 名词: "[The](/post/the/) sculpture has [a](/post/a/) [beautiful](/post/beautiful/), [abstract](/post/abstract/) [form](/post/form/)."
+- 动词: "[New](/post/new/) policies are forming [to](/post/to/) [address](/post/address/) [climate](/post/climate/) [change](/post/change/)."
+- 形容词: "[The](/post/the/) [athlete](/post/athlete/) demonstrated [perfect](/post/perfect/) [form](/post/form/) [during](/post/during/) [the](/post/the/) [exercise](/post/exercise/)."
 
 ## 同义词
-- Shape
-- Structure
+- [Shape](/post/shape/)
+- [Structure](/post/structure/)
 - Configuration
-- Composition
+- [Composition](/post/composition/)
 - Manifestation

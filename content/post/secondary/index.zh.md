@@ -11,20 +11,20 @@ keywords = ['ai words', 'secondary']
 /ˈsekən.dɛri/
 
 ## 释义
-- **形容词**: 第二的，次要的，辅助的。例如: "The secondary education system focuses on preparing students for college." 
-- **名词**: 辅助的，次要的事物。例如: "The secondary school offers a wide range of extracurricular activities."
+- **形容词**: 第二的，次要的，辅助的。例如: "[The](/post/the/) [secondary](/post/secondary/) [education](/post/education/) [system](/post/system/) focuses [on](/post/on/) preparing students [for](/post/for/) [college](/post/college/)." 
+- **名词**: 辅助的，次要的事物。例如: "[The](/post/the/) [secondary](/post/secondary/) [school](/post/school/) offers [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) extracurricular activities."
 
 ## 短语
-- "secondary source" 指的是次要的信息来源，如评论或历史著作，而非原始资料。
-- "secondary market" 在金融领域指的是股票、债券等证券的交易市场，不同于初次发行的市场。
+- "[secondary](/post/secondary/) [source](/post/source/)" 指的是次要的信息来源，如评论或历史著作，而非原始资料。
+- "[secondary](/post/secondary/) [market](/post/market/)" 在金融领域指的是股票、债券等证券的交易市场，不同于初次发行的市场。
 
 ## 例句
-- 形容词: "In the play, the secondary characters often provide comic relief."
-- 名词: "Investors trade stocks on the secondary market after they are initially sold in the primary market."
+- 形容词: "[In](/post/in/) [the](/post/the/) [play](/post/play/), [the](/post/the/) [secondary](/post/secondary/) characters [often](/post/often/) [provide](/post/provide/) comic [relief](/post/relief/)."
+- 名词: "Investors [trade](/post/trade/) stocks [on](/post/on/) [the](/post/the/) [secondary](/post/secondary/) [market](/post/market/) [after](/post/after/) [they](/post/they/) are initially sold [in](/post/in/) [the](/post/the/) [primary](/post/primary/) [market](/post/market/)."
 
 ## 同义词
 - subordinate
 - ancillary
 - supporting
-- minor
-- auxiliary
+- [minor](/post/minor/)
+- [auxiliary](/post/auxiliary/)

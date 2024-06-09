@@ -12,20 +12,20 @@ keywords = ['ai words', 'discuss']
 
 ## 释义
 - **动词**:
-1. 讨论，辩论。例如: "They spent hours discussing the pros and cons of the new policy."
-2. 详述，阐述。例如: "The professor discussed various theories in his lecture."
+1. 讨论，辩论。例如: "[They](/post/they/) spent hours discussing [the](/post/the/) pros [and](/post/and/) cons [of](/post/of/) [the](/post/the/) [new](/post/new/) [policy](/post/policy/)."
+2. 详述，阐述。例如: "[The](/post/the/) [professor](/post/professor/) discussed [various](/post/various/) theories [in](/post/in/) [his](/post/his/) [lecture](/post/lecture/)."
 
 ## 短语
-- "Discuss with sb" 意为与某人讨论。例如: "We need to discuss with the team before making a decision."
-- "In discussion" 表示在讨论中。例如: "The proposal is still in discussion."
+- "[Discuss](/post/discuss/) [with](/post/with/) sb" 意为与某人讨论。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [discuss](/post/discuss/) [with](/post/with/) [the](/post/the/) [team](/post/team/) [before](/post/before/) making [a](/post/a/) [decision](/post/decision/)."
+- "[In](/post/in/) [discussion](/post/discussion/)" 表示在讨论中。例如: "[The](/post/the/) [proposal](/post/proposal/) is [still](/post/still/) [in](/post/in/) [discussion](/post/discussion/)."
 
 ## 例句
-- 动词: "The students were asked to discuss their opinions on the book in small groups."
-- 动词: "Let's discuss your ideas further over lunch."
+- 动词: "[The](/post/the/) students were asked [to](/post/to/) [discuss](/post/discuss/) [their](/post/their/) opinions [on](/post/on/) [the](/post/the/) [book](/post/book/) [in](/post/in/) [small](/post/small/) groups."
+- 动词: "Let's [discuss](/post/discuss/) [your](/post/your/) ideas [further](/post/further/) [over](/post/over/) [lunch](/post/lunch/)."
 
 ## 同义词
-- Talk about
-- Debate
-- Argue
-- Examine
-- Consider
+- [Talk](/post/talk/) [about](/post/about/)
+- [Debate](/post/debate/)
+- [Argue](/post/argue/)
+- [Examine](/post/examine/)
+- [Consider](/post/consider/)

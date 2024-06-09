@@ -7,26 +7,26 @@ description = '[ˈempərə] n.皇帝'
 keywords = ['ai words', 'emperor']
 +++
 
-# Emperor
+# [Emperor](/en/post/emperor/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈɛmpərər/
 
 ## Definitions
-- **Noun**: The male monarch or supreme ruler of an empire, typically with vast territories and great power or authority. For example: "The Roman Empire had many powerful emperors throughout its history."
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [male](/en/post/male/) monarch [or](/en/post/or/) [supreme](/en/post/supreme/) [ruler](/en/post/ruler/) [of](/en/post/of/) an [empire](/en/post/empire/), typically [with](/en/post/with/) [vast](/en/post/vast/) territories [and](/en/post/and/) [great](/en/post/great/) [power](/en/post/power/) [or](/en/post/or/) [authority](/en/post/authority/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) Roman [Empire](/en/post/empire/) had [many](/en/post/many/) [powerful](/en/post/powerful/) emperors [throughout](/en/post/throughout/) [its](/en/post/its/) [history](/en/post/history/)."
 
-### Phrase
-- **Emperor of all Russia**: A title used by Russian czars from the 18th century onwards.
-- **The Emperor's New Clothes**: A well-known fairy tale by Hans Christian Andersen about an emperor who is deceived into believing he is wearing magnificent clothes when in reality he is naked, illustrating the concept of perceived power versus truth.
+### [Phrase](/en/post/phrase/)
+- **[Emperor](/en/post/emperor/) [of](/en/post/of/) [all](/en/post/all/) Russia**: [A](/en/post/a/) [title](/en/post/title/) [used](/en/post/used/) [by](/en/post/by/) Russian czars [from](/en/post/from/) [the](/en/post/the/) 18th [century](/en/post/century/) onwards.
+- **[The](/en/post/the/) Emperor's [New](/en/post/new/) [Clothes](/en/post/clothes/)**: [A](/en/post/a/) [well-known](/en/post/well-known/) fairy [tale](/en/post/tale/) [by](/en/post/by/) Hans Christian Andersen [about](/en/post/about/) an [emperor](/en/post/emperor/) [who](/en/post/who/) is deceived [into](/en/post/into/) believing [he](/en/post/he/) is wearing [magnificent](/en/post/magnificent/) [clothes](/en/post/clothes/) [when](/en/post/when/) [in](/en/post/in/) [reality](/en/post/reality/) [he](/en/post/he/) is [naked](/en/post/naked/), illustrating [the](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) perceived [power](/en/post/power/) versus [truth](/en/post/truth/).
   
-## Example Sentences
-- **Noun**: "The young prince was destined to become a just and fair emperor, loved by his subjects."
-- "Under the reign of the mighty emperor, the arts and sciences flourished in the kingdom."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [young](/en/post/young/) [prince](/en/post/prince/) was destined [to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) [just](/en/post/just/) [and](/en/post/and/) [fair](/en/post/fair/) [emperor](/en/post/emperor/), loved [by](/en/post/by/) [his](/en/post/his/) subjects."
+- "[Under](/en/post/under/) [the](/en/post/the/) [reign](/en/post/reign/) [of](/en/post/of/) [the](/en/post/the/) mighty [emperor](/en/post/emperor/), [the](/en/post/the/) arts [and](/en/post/and/) sciences flourished [in](/en/post/in/) [the](/en/post/the/) [kingdom](/en/post/kingdom/)."
 
 ## Synonyms
 - Monarch
 - Sovereign
-- Ruler
-- King (in a non-imperial context)
-- Czar (historically for Russian emperors)
-- Kaiser (historically for German and Holy Roman emperors)
+- [Ruler](/en/post/ruler/)
+- [King](/en/post/king/) ([in](/en/post/in/) [a](/en/post/a/) non-imperial context)
+- Czar (historically [for](/en/post/for/) Russian emperors)
+- Kaiser (historically [for](/en/post/for/) German [and](/en/post/and/) [Holy](/en/post/holy/) Roman emperors)

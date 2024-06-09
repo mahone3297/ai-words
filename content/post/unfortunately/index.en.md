@@ -7,33 +7,33 @@ description = '[ʌnˈfɔːtjunətli] ad.不幸地'
 keywords = ['ai words', 'unfortunately']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /unˈfɔːrtuˈnətli/
 
 ## Definitions
-### Adverb
-- Used to modify a verb, adjective, or other adverb, expressing that something is不幸 or regrettable.
+### [Adverb](/en/post/adverb/)
+- [Used](/en/post/used/) [to](/en/post/to/) [modify](/en/post/modify/) [a](/en/post/a/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [or](/en/post/or/) [other](/en/post/other/) [adverb](/en/post/adverb/), expressing [that](/en/post/that/) [something](/en/post/something/) is不幸 [or](/en/post/or/) regrettable.
 
 ## Phrases
-- "Unfortunately, the weather turned bad."
-- "Despite their hard work, they didn't win the competition unfortunately."
-- "Unluckily, they had to cancel the event due to unforeseen circumstances."
+- "[Unfortunately](/en/post/unfortunately/), [the](/en/post/the/) [weather](/en/post/weather/) turned [bad](/en/post/bad/)."
+- "[Despite](/en/post/despite/) [their](/en/post/their/) [hard](/en/post/hard/) [work](/en/post/work/), [they](/en/post/they/) didn't [win](/en/post/win/) [the](/en/post/the/) [competition](/en/post/competition/) [unfortunately](/en/post/unfortunately/)."
+- "Unluckily, [they](/en/post/they/) had [to](/en/post/to/) [cancel](/en/post/cancel/) [the](/en/post/the/) [event](/en/post/event/) [due](/en/post/due/) [to](/en/post/to/) unforeseen circumstances."
 
-## Example Sentences
-- "Unfortunately, he missed the deadline for submitting his project."
-- "The flight was delayed, and we arrived home later than planned, unfortunately."
-- "They had to postpone the wedding due to the pandemic, unfortunately."
+## [Example](/en/post/example/) Sentences
+- "[Unfortunately](/en/post/unfortunately/), [he](/en/post/he/) missed [the](/en/post/the/) deadline [for](/en/post/for/) submitting [his](/en/post/his/) [project](/en/post/project/)."
+- "[The](/en/post/the/) [flight](/en/post/flight/) was delayed, [and](/en/post/and/) [we](/en/post/we/) arrived [home](/en/post/home/) [later](/en/post/later/) [than](/en/post/than/) planned, [unfortunately](/en/post/unfortunately/)."
+- "[They](/en/post/they/) had [to](/en/post/to/) [postpone](/en/post/postpone/) [the](/en/post/the/) [wedding](/en/post/wedding/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) pandemic, [unfortunately](/en/post/unfortunately/)."
 
 ## Synonyms
 - Regrettably
-- Sadly
+- [Sadly](/en/post/sadly/)
 - Alas
-- Unfortunately
+- [Unfortunately](/en/post/unfortunately/)
 - Unhappily
 - Disappointingly
 
 ## Antonyms
-- Fortunately
+- [Fortunately](/en/post/fortunately/)
 - Happily
 - Delightedly
 - Thankfully

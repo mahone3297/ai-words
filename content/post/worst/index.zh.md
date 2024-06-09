@@ -11,20 +11,20 @@ keywords = ['ai words', 'worst']
 /wɜːrst/
 
 ## 释义
-- **形容词**: 最差的，最糟糕的，最恶劣的。例如: "This is the worst weather we've had all year."
-- **副词**: 最差地，最糟糕地。例如: "He performed worst among all the contestants."
+- **形容词**: 最差的，最糟糕的，最恶劣的。例如: "[This](/post/this/) is [the](/post/the/) [worst](/post/worst/) [weather](/post/weather/) we've had [all](/post/all/) [year](/post/year/)."
+- **副词**: 最差地，最糟糕地。例如: "[He](/post/he/) performed [worst](/post/worst/) [among](/post/among/) [all](/post/all/) [the](/post/the/) contestants."
 
 ## 短语
-- "The worst-case scenario" 指的是可能出现的最坏情况。
-- "At worst" 用来表达某种情况已经到了最坏的地步。例如: "The project might be delayed, at worst canceled."
+- "[The](/post/the/) worst-case scenario" 指的是可能出现的最坏情况。
+- "[At](/post/at/) [worst](/post/worst/)" 用来表达某种情况已经到了最坏的地步。例如: "[The](/post/the/) [project](/post/project/) [might](/post/might/) [be](/post/be/) delayed, [at](/post/at/) [worst](/post/worst/) canceled."
 
 ## 例句
-- 形容词: "This restaurant has the worst service in town."
-- 副词: "She sang worst in the choir, but she was still praised for her effort."
+- 形容词: "[This](/post/this/) [restaurant](/post/restaurant/) has [the](/post/the/) [worst](/post/worst/) [service](/post/service/) [in](/post/in/) [town](/post/town/)."
+- 副词: "[She](/post/she/) sang [worst](/post/worst/) [in](/post/in/) [the](/post/the/) choir, [but](/post/but/) [she](/post/she/) was [still](/post/still/) praised [for](/post/for/) [her](/post/her/) [effort](/post/effort/)."
 
 ## 同义词
 - Worst-case: 
-- Terrible:
-- Awful:
+- [Terrible](/post/terrible/):
+- [Awful](/post/awful/):
 - Dreadful:
 - Horrible:

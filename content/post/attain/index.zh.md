@@ -11,20 +11,20 @@ keywords = ['ai words', 'attain']
 /əˈteɪn/
 
 ## 释义
-- **动词**: 达到；实现；获得。例如: "He attained his goal through hard work."
-- **动词**: 获得（某种地位、水平或资格）。例如: "She attained the rank of captain in the army."
+- **动词**: 达到；实现；获得。例如: "[He](/post/he/) attained [his](/post/his/) [goal](/post/goal/) [through](/post/through/) [hard](/post/hard/) [work](/post/work/)."
+- **动词**: 获得（某种地位、水平或资格）。例如: "[She](/post/she/) attained [the](/post/the/) [rank](/post/rank/) [of](/post/of/) [captain](/post/captain/) [in](/post/in/) [the](/post/the/) [army](/post/army/)."
 
 ## 短语
-- "Attain success" 意味着成功地达到目标。
-- "Attain proficiency in something" 指在某方面变得熟练或精通。
+- "[Attain](/post/attain/) [success](/post/success/)" 意味着成功地达到目标。
+- "[Attain](/post/attain/) proficiency [in](/post/in/) [something](/post/something/)" 指在某方面变得熟练或精通。
 
 ## 例句
-- "With dedication, he attained the top score on the exam."
-- "She worked tirelessly to attain her dream job."
+- "[With](/post/with/) dedication, [he](/post/he/) attained [the](/post/the/) [top](/post/top/) [score](/post/score/) [on](/post/on/) [the](/post/the/) [exam](/post/exam/)."
+- "[She](/post/she/) worked tirelessly [to](/post/to/) [attain](/post/attain/) [her](/post/her/) [dream](/post/dream/) [job](/post/job/)."
 
 ## 同义词
-- Achieve
-- Reach
-- Gain
-- Obtain
-- Secure
+- [Achieve](/post/achieve/)
+- [Reach](/post/reach/)
+- [Gain](/post/gain/)
+- [Obtain](/post/obtain/)
+- [Secure](/post/secure/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'amplify']
 /əˈmɪplɪfaɪ/
 
 ## 释义
-- **动词**: 增大；增强。例如: "The amplifier amplified the sound so that everyone could hear it."
-- **名词**: 放大器；增益器。例如: "He used an electronic amplifier to boost the signal."
+- **动词**: 增大；增强。例如: "[The](/post/the/) amplifier amplified [the](/post/the/) [sound](/post/sound/) [so](/post/so/) [that](/post/that/) [everyone](/post/everyone/) [could](/post/could/) [hear](/post/hear/) [it](/post/it/)."
+- **名词**: 放大器；增益器。例如: "[He](/post/he/) [used](/post/used/) an [electronic](/post/electronic/) amplifier [to](/post/to/) boost [the](/post/the/) [signal](/post/signal/)."
 
 ## 短语
-- "Amplify the volume" 意为提高音量。
-- "Amplify a message" 指的是加强信息的影响力或传达力。
+- "[Amplify](/post/amplify/) [the](/post/the/) [volume](/post/volume/)" 意为提高音量。
+- "[Amplify](/post/amplify/) [a](/post/a/) [message](/post/message/)" 指的是加强信息的影响力或传达力。
 
 ## 例句
-- 动词: "The microphone amplified her voice so that it echoed through the hall."
-- 名词: "The audio system includes a powerful amplifier for clear sound reproduction."
+- 动词: "[The](/post/the/) [microphone](/post/microphone/) amplified [her](/post/her/) [voice](/post/voice/) [so](/post/so/) [that](/post/that/) [it](/post/it/) echoed [through](/post/through/) [the](/post/the/) [hall](/post/hall/)."
+- 名词: "[The](/post/the/) audio [system](/post/system/) includes [a](/post/a/) [powerful](/post/powerful/) amplifier [for](/post/for/) [clear](/post/clear/) [sound](/post/sound/) reproduction."
 
 ## 同义词
-- Increase
+- [Increase](/post/increase/)
 - Boost
-- Strengthen
+- [Strengthen](/post/strengthen/)
 - Enhance
-- Enlarge
+- [Enlarge](/post/enlarge/)

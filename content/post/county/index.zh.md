@@ -11,20 +11,20 @@ keywords = ['ai words', 'county']
 /ˈkʌn.ti/
 
 ## 释义
-- **名词 (n)**: 行政区划，通常指美国、英国等地的郡或县。例如: "He lives in a small town in Sussex county."
-- **名词 (n)**: 在某些国家（如爱尔兰）指选区。例如: "She was elected to represent her county in Parliament."
+- **名词 (n)**: 行政区划，通常指美国、英国等地的郡或县。例如: "[He](/post/he/) lives [in](/post/in/) [a](/post/a/) [small](/post/small/) [town](/post/town/) [in](/post/in/) Sussex [county](/post/county/)."
+- **名词 (n)**: 在某些国家（如爱尔兰）指选区。例如: "[She](/post/she/) was elected [to](/post/to/) [represent](/post/represent/) [her](/post/her/) [county](/post/county/) [in](/post/in/) [Parliament](/post/parliament/)."
 
 ## 短语
-- "Counties of Ireland" 指爱尔兰的行政区域划分。
-- "County Seat" 是一个县或郡的行政中心。
+- "Counties [of](/post/of/) Ireland" 指爱尔兰的行政区域划分。
+- "[County](/post/county/) [Seat](/post/seat/)" 是一个县或郡的行政中心。
 
 ## 例句
-- 名词: "The county fair is an annual event in many rural counties across the United States."
-- 名词: "She grew up in a farming community in County Galway, Ireland."
+- 名词: "[The](/post/the/) [county](/post/county/) [fair](/post/fair/) is an [annual](/post/annual/) [event](/post/event/) [in](/post/in/) [many](/post/many/) [rural](/post/rural/) counties [across](/post/across/) [the](/post/the/) United States."
+- 名词: "[She](/post/she/) grew [up](/post/up/) [in](/post/in/) [a](/post/a/) farming [community](/post/community/) [in](/post/in/) [County](/post/county/) Galway, Ireland."
 
 ## 同义词
-- District
-- Province
-- Region
+- [District](/post/district/)
+- [Province](/post/province/)
+- [Region](/post/region/)
 - Borough
 - Shire

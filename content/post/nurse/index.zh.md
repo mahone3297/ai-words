@@ -11,21 +11,21 @@ keywords = ['ai words', 'nurse']
 /nɜːrs/
 
 ## 释义
-- **名词 (n)**: 护士；护理人员。例如: "The nurse took the patient's temperature."
-- **动词 (v)**: 照顾，呵护。例如: "She is nursing her injured ankle back to health."
+- **名词 (n)**: 护士；护理人员。例如: "[The](/post/the/) [nurse](/post/nurse/) took [the](/post/the/) patient's [temperature](/post/temperature/)."
+- **动词 (v)**: 照顾，呵护。例如: "[She](/post/she/) is nursing [her](/post/her/) injured [ankle](/post/ankle/) [back](/post/back/) [to](/post/to/) [health](/post/health/)."
 
 ## 短语
-- "on duty nurse" 在职护士
-- "nurse manager" 护理经理
-- "nurse practitioner" 高级执业护士
+- "[on](/post/on/) [duty](/post/duty/) [nurse](/post/nurse/)" 在职护士
+- "[nurse](/post/nurse/) manager" 护理经理
+- "[nurse](/post/nurse/) practitioner" 高级执业护士
 
 ## 例句
-- 名词: "The kind nurse held the child's hand to comfort him during the procedure."
-- 动词: "She is nursing her newborn baby through the night."
+- 名词: "[The](/post/the/) [kind](/post/kind/) [nurse](/post/nurse/) held [the](/post/the/) child's [hand](/post/hand/) [to](/post/to/) [comfort](/post/comfort/) [him](/post/him/) [during](/post/during/) [the](/post/the/) [procedure](/post/procedure/)."
+- 动词: "[She](/post/she/) is nursing [her](/post/her/) newborn [baby](/post/baby/) [through](/post/through/) [the](/post/the/) [night](/post/night/)."
 
 ## 同义词
 - Carer
 - Attendant
-- Healthcare professional
-- Medical practitioner
+- Healthcare [professional](/post/professional/)
+- [Medical](/post/medical/) practitioner
 - Sanitarian

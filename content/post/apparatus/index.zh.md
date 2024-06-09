@@ -11,18 +11,18 @@ keywords = ['ai words', 'apparatus']
 /əˈpærətəs/
 
 ## 释义
-- **名词**: 工具，设备，器械；装置。通常指一组用于特定任务的仪器或机器。例如: "The scientist used a complex apparatus to conduct her experiments."
+- **名词**: 工具，设备，器械；装置。通常指一组用于特定任务的仪器或机器。例如: "[The](/post/the/) [scientist](/post/scientist/) [used](/post/used/) [a](/post/a/) [complex](/post/complex/) [apparatus](/post/apparatus/) [to](/post/to/) [conduct](/post/conduct/) [her](/post/her/) experiments."
 
 ## 短语
-- "Medical apparatus" 指医疗设备。
-- "Laboratory apparatus" 是实验室用的器具和设备。
+- "[Medical](/post/medical/) [apparatus](/post/apparatus/)" 指医疗设备。
+- "[Laboratory](/post/laboratory/) [apparatus](/post/apparatus/)" 是实验室用的器具和设备。
 
 ## 例句
-- "The fire department had to bring in specialized apparatus to extinguish the blaze."
-- "In the biology lab, we use various apparatuses to study cells under microscopes."
+- "[The](/post/the/) [fire](/post/fire/) [department](/post/department/) had [to](/post/to/) [bring](/post/bring/) [in](/post/in/) specialized [apparatus](/post/apparatus/) [to](/post/to/) extinguish [the](/post/the/) [blaze](/post/blaze/)."
+- "[In](/post/in/) [the](/post/the/) [biology](/post/biology/) [lab](/post/lab/), [we](/post/we/) [use](/post/use/) [various](/post/various/) apparatuses [to](/post/to/) [study](/post/study/) cells [under](/post/under/) microscopes."
 
 ## 同义词
-- Equipment
+- [Equipment](/post/equipment/)
 - Instrumentation
 - Gear
 - Machinery

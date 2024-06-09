@@ -11,23 +11,23 @@ keywords = ['ai words', 'shop']
 /ʃɒp/
 
 ## 释义
-- **名词 (n)**: 一个售卖商品的商店或店铺。例如: "I need to go to the grocery shop for some milk."
-- **动词 (v)**: 购物；买东西。例如: "She's shopping for a new dress for the wedding."
-- **动词 (v)**: 在商店工作或经营商店。例如: "My uncle shops at the local market every morning."
+- **名词 (n)**: 一个售卖商品的商店或店铺。例如: "I [need](/post/need/) [to](/post/to/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [grocery](/post/grocery/) [shop](/post/shop/) [for](/post/for/) [some](/post/some/) [milk](/post/milk/)."
+- **动词 (v)**: 购物；买东西。例如: "She's [shopping](/post/shopping/) [for](/post/for/) [a](/post/a/) [new](/post/new/) [dress](/post/dress/) [for](/post/for/) [the](/post/the/) [wedding](/post/wedding/)."
+- **动词 (v)**: 在商店工作或经营商店。例如: "[My](/post/my/) [uncle](/post/uncle/) shops [at](/post/at/) [the](/post/the/) [local](/post/local/) [market](/post/market/) [every](/post/every/) [morning](/post/morning/)."
 
 ## 短语
-- "Window shopping" 浏览商店，不打算购买。
-- "Do some shopping" 去购物。
-- "Shop till you drop" 一直购物直到累得不行。
+- "[Window](/post/window/) [shopping](/post/shopping/)" 浏览商店，不打算购买。
+- "[Do](/post/do/) [some](/post/some/) [shopping](/post/shopping/)" 去购物。
+- "[Shop](/post/shop/) [till](/post/till/) [you](/post/you/) [drop](/post/drop/)" 一直购物直到累得不行。
 
 ## 例句
-- 名词: "There's a new bookshop in town that just opened up."
-- 动词: "I'm going to shop online for a birthday present for my friend."
-- 动词: "She shops for fresh produce at the farmer's market every weekend."
+- 名词: "There's [a](/post/a/) [new](/post/new/) bookshop [in](/post/in/) [town](/post/town/) [that](/post/that/) [just](/post/just/) opened [up](/post/up/)."
+- 动词: "I'm going [to](/post/to/) [shop](/post/shop/) online [for](/post/for/) [a](/post/a/) [birthday](/post/birthday/) [present](/post/present/) [for](/post/for/) [my](/post/my/) [friend](/post/friend/)."
+- 动词: "[She](/post/she/) shops [for](/post/for/) [fresh](/post/fresh/) [produce](/post/produce/) [at](/post/at/) [the](/post/the/) farmer's [market](/post/market/) [every](/post/every/) [weekend](/post/weekend/)."
 
 ## 同义词
-- Store
+- [Store](/post/store/)
 - Retailer
-- Market
+- [Market](/post/market/)
 - Emporium
-- Outlet
+- [Outlet](/post/outlet/)

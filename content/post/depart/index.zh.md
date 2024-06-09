@@ -11,22 +11,22 @@ keywords = ['ai words', 'depart']
 /ˈdɛpɑːrt/
 
 ## 释义
-- **动词**: 离开；出发。例如: "We will depart for Paris at 8 am tomorrow."
-- **名词**: 离开；出发的行为或时刻。例如: "The department announced the time of his departure."
-- **名词**: 部门；科室。例如: "She works in the sales department."
+- **动词**: 离开；出发。例如: "[We](/post/we/) [will](/post/will/) [depart](/post/depart/) [for](/post/for/) Paris [at](/post/at/) 8 am [tomorrow](/post/tomorrow/)."
+- **名词**: 离开；出发的行为或时刻。例如: "[The](/post/the/) [department](/post/department/) announced [the](/post/the/) [time](/post/time/) [of](/post/of/) [his](/post/his/) [departure](/post/departure/)."
+- **名词**: 部门；科室。例如: "[She](/post/she/) works [in](/post/in/) [the](/post/the/) sales [department](/post/department/)."
 
 ## 短语
-- "Depart from" 意为离开某个地方。例如: "They departed from the hotel early in the morning."
-- "Department of Transportation" 交通部门。
+- "[Depart](/post/depart/) [from](/post/from/)" 意为离开某个地方。例如: "[They](/post/they/) departed [from](/post/from/) [the](/post/the/) [hotel](/post/hotel/) [early](/post/early/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- "[Department](/post/department/) [of](/post/of/) [Transportation](/post/transportation/)" 交通部门。
 
 ## 例句
-- 动词: "We need to depart soon if we want to avoid traffic."
-- 名词: "His unexpected departure caused a lot of chaos in the company."
-- 名词: "The department store had a huge sale on clothing."
+- 动词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [depart](/post/depart/) [soon](/post/soon/) [if](/post/if/) [we](/post/we/) [want](/post/want/) [to](/post/to/) [avoid](/post/avoid/) [traffic](/post/traffic/)."
+- 名词: "[His](/post/his/) [unexpected](/post/unexpected/) [departure](/post/departure/) caused [a](/post/a/) [lot](/post/lot/) [of](/post/of/) chaos [in](/post/in/) [the](/post/the/) [company](/post/company/)."
+- 名词: "[The](/post/the/) [department](/post/department/) [store](/post/store/) had [a](/post/a/) [huge](/post/huge/) [sale](/post/sale/) [on](/post/on/) [clothing](/post/clothing/)."
 
 ## 同义词
-- Leave
-- Set off
-- Departure
-- Take off
-- Go away
+- [Leave](/post/leave/)
+- [Set](/post/set/) [off](/post/off/)
+- [Departure](/post/departure/)
+- [Take](/post/take/) [off](/post/off/)
+- [Go](/post/go/) [away](/post/away/)

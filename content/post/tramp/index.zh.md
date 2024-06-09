@@ -11,23 +11,23 @@ keywords = ['ai words', 'tramp']
 /træmp/
 
 ## 释义
-- **名词**: 无家可归的人；流浪者。例如: "The tramp was looking for a place to sleep for the night."
-- **动词**: 踏实，重重地踩。例如: "He tramped through the muddy fields."
-- **形容词**: (衣物、鞋等)破旧的，磨损的。例如: "Her boots were tramped from walking miles in them."
+- **名词**: 无家可归的人；流浪者。例如: "[The](/post/the/) [tramp](/post/tramp/) was looking [for](/post/for/) [a](/post/a/) [place](/post/place/) [to](/post/to/) [sleep](/post/sleep/) [for](/post/for/) [the](/post/the/) [night](/post/night/)."
+- **动词**: 踏实，重重地踩。例如: "[He](/post/he/) tramped [through](/post/through/) [the](/post/the/) [muddy](/post/muddy/) fields."
+- **形容词**: (衣物、鞋等)破旧的，磨损的。例如: "[Her](/post/her/) boots were tramped [from](/post/from/) walking miles [in](/post/in/) [them](/post/them/)."
 
 ## 短语
-- "tramp around/abroad" 意思是四处流浪。
-- "to tramp on something" 表示用力踩在某物上。
-- "a tramp steamer" 指的是定期航行的货轮。
+- "[tramp](/post/tramp/) [around](/post/around/)/[abroad](/post/abroad/)" 意思是四处流浪。
+- "[to](/post/to/) [tramp](/post/tramp/) [on](/post/on/) [something](/post/something/)" 表示用力踩在某物上。
+- "[a](/post/a/) [tramp](/post/tramp/) [steamer](/post/steamer/)" 指的是定期航行的货轮。
 
 ## 例句
-- 名词: "The old tramp had been living under the bridge for years."
-- 动词: "The children tramped through the forest, searching for adventure."
-- 形容词: "His clothes were tramped and dirty after the long hike."
+- 名词: "[The](/post/the/) [old](/post/old/) [tramp](/post/tramp/) had been [living](/post/living/) [under](/post/under/) [the](/post/the/) [bridge](/post/bridge/) [for](/post/for/) years."
+- 动词: "[The](/post/the/) children tramped [through](/post/through/) [the](/post/the/) [forest](/post/forest/), searching [for](/post/for/) [adventure](/post/adventure/)."
+- 形容词: "[His](/post/his/) [clothes](/post/clothes/) were tramped [and](/post/and/) [dirty](/post/dirty/) [after](/post/after/) [the](/post/the/) [long](/post/long/) hike."
 
 ## 同义词
 - vagrant
 - hobo
 - wanderer
 - drifter
-- beggar
+- [beggar](/post/beggar/)

@@ -7,36 +7,36 @@ description = '[ˈaitəm] n.条，条款；一条'
 keywords = ['ai words', 'item']
 +++
 
-## Word: Item
+## [Word](/en/post/word/): [Item](/en/post/item/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈaɪtəm/
 
 ## Definitions
-- **Noun**: (n) An object, article, or thing, especially one that is distinct from others in a collection or list. For example: "The first item on the agenda is the budget report."
-  - _In a shopping context:_ "She added several items to her cart before checking out."
-  - _In a menu context:_ "The chef's special item is a grilled salmon with lemon butter sauce."
-  - _In a list context:_ "Make sure every item on your grocery list is crossed off before leaving the store."
+- **[Noun](/en/post/noun/)**: (n) An [object](/en/post/object/), [article](/en/post/article/), [or](/en/post/or/) [thing](/en/post/thing/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is [distinct](/en/post/distinct/) [from](/en/post/from/) others [in](/en/post/in/) [a](/en/post/a/) [collection](/en/post/collection/) [or](/en/post/or/) [list](/en/post/list/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [first](/en/post/first/) [item](/en/post/item/) [on](/en/post/on/) [the](/en/post/the/) agenda is [the](/en/post/the/) budget [report](/en/post/report/)."
+  - _In [a](/en/post/a/) [shopping](/en/post/shopping/) context:_ "[She](/en/post/she/) added [several](/en/post/several/) items [to](/en/post/to/) [her](/en/post/her/) [cart](/en/post/cart/) [before](/en/post/before/) checking [out](/en/post/out/)."
+  - _In [a](/en/post/a/) [menu](/en/post/menu/) context:_ "[The](/en/post/the/) chef's [special](/en/post/special/) [item](/en/post/item/) is [a](/en/post/a/) grilled salmon [with](/en/post/with/) [lemon](/en/post/lemon/) [butter](/en/post/butter/) [sauce](/en/post/sauce/)."
+  - _In [a](/en/post/a/) [list](/en/post/list/) context:_ "[Make](/en/post/make/) [sure](/en/post/sure/) [every](/en/post/every/) [item](/en/post/item/) [on](/en/post/on/) [your](/en/post/your/) [grocery](/en/post/grocery/) [list](/en/post/list/) is crossed [off](/en/post/off/) [before](/en/post/before/) leaving [the](/en/post/the/) [store](/en/post/store/)."
 
-- **Verb**: (v) [Rarely used] To include or list something as an item. For example: "He made sure to itemize all expenses in his report."
+- **[Verb](/en/post/verb/)**: (v) [[Rarely](/en/post/rarely/) [used](/en/post/used/)] [To](/en/post/to/) [include](/en/post/include/) [or](/en/post/or/) [list](/en/post/list/) [something](/en/post/something/) [as](/en/post/as/) an [item](/en/post/item/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) made [sure](/en/post/sure/) [to](/en/post/to/) itemize [all](/en/post/all/) expenses [in](/en/post/in/) [his](/en/post/his/) [report](/en/post/report/)."
 
 ## Phrases
-- "Item by item": Refers to considering or dealing with each separate thing in a list or group individually.
-  - "The teacher went over the rules item by item to ensure clarity."
+- "[Item](/en/post/item/) [by](/en/post/by/) [item](/en/post/item/)": Refers [to](/en/post/to/) considering [or](/en/post/or/) dealing [with](/en/post/with/) [each](/en/post/each/) [separate](/en/post/separate/) [thing](/en/post/thing/) [in](/en/post/in/) [a](/en/post/a/) [list](/en/post/list/) [or](/en/post/or/) [group](/en/post/group/) individually.
+  - "[The](/en/post/the/) [teacher](/en/post/teacher/) went [over](/en/post/over/) [the](/en/post/the/) rules [item](/en/post/item/) [by](/en/post/by/) [item](/en/post/item/) [to](/en/post/to/) [ensure](/en/post/ensure/) clarity."
 
-- "A list of items": A compilation of objects, topics, or points to be considered, discussed, or accomplished.
-  - "The contract included a list of items required for delivery."
+- "[A](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) items": [A](/en/post/a/) compilation [of](/en/post/of/) objects, topics, [or](/en/post/or/) points [to](/en/post/to/) [be](/en/post/be/) considered, discussed, [or](/en/post/or/) accomplished.
+  - "[The](/en/post/the/) [contract](/en/post/contract/) included [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) items required [for](/en/post/for/) [delivery](/en/post/delivery/)."
 
-## Example Sentences
-- **Noun**: "Among the items found at the archaeological site was an ancient vase."
-- "_As a verb_": "He itemized each expense on the spreadsheet for tax purposes."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[Among](/en/post/among/) [the](/en/post/the/) items [found](/en/post/found/) [at](/en/post/at/) [the](/en/post/the/) archaeological [site](/en/post/site/) was an [ancient](/en/post/ancient/) [vase](/en/post/vase/)."
+- "_As [a](/en/post/a/) verb_": "[He](/en/post/he/) itemized [each](/en/post/each/) [expense](/en/post/expense/) [on](/en/post/on/) [the](/en/post/the/) spreadsheet [for](/en/post/for/) [tax](/en/post/tax/) purposes."
 
 ## Synonyms
-- Article
-- Object
-- Thing
-- Unit
-- Entry (in a list)
-- Component
-- Element
-- Piece
+- [Article](/en/post/article/)
+- [Object](/en/post/object/)
+- [Thing](/en/post/thing/)
+- [Unit](/en/post/unit/)
+- [Entry](/en/post/entry/) ([in](/en/post/in/) [a](/en/post/a/) [list](/en/post/list/))
+- [Component](/en/post/component/)
+- [Element](/en/post/element/)
+- [Piece](/en/post/piece/)

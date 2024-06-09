@@ -11,23 +11,23 @@ keywords = ['ai words', 'while']
 /waɪl/
 
 ## 释义
-- **连词**: 表示在某段时间内或某条件下，常与现在进行时或过去进行时搭配使用。例如: "I'm reading a book while you're watching TV."
-- **名词**: 时间段，期间。例如: "Take a break for a while."
-- **形容词**: 当作副词用，表示“与此同时”，“同时”。例如: "She cooked dinner while talking on the phone."
+- **连词**: 表示在某段时间内或某条件下，常与现在进行时或过去进行时搭配使用。例如: "I'm [reading](/post/reading/) [a](/post/a/) [book](/post/book/) [while](/post/while/) you're watching TV."
+- **名词**: 时间段，期间。例如: "[Take](/post/take/) [a](/post/a/) [break](/post/break/) [for](/post/for/) [a](/post/a/) [while](/post/while/)."
+- **形容词**: 当作副词用，表示“与此同时”，“同时”。例如: "[She](/post/she/) cooked [dinner](/post/dinner/) [while](/post/while/) talking [on](/post/on/) [the](/post/the/) [phone](/post/phone/)."
 
 ## 短语
-- "for a while" 意为一段时间。
-- "in the while" 指在此期间。
-- "meanwhile" 作为同义词，表示“与此同时”。
+- "[for](/post/for/) [a](/post/a/) [while](/post/while/)" 意为一段时间。
+- "[in](/post/in/) [the](/post/the/) [while](/post/while/)" 指在此期间。
+- "[meanwhile](/post/meanwhile/)" 作为同义词，表示“与此同时”。
 
 ## 例句
-- 连词: "She sang along to the radio while driving to work."
-- 名词: "Let's take a rest for a while before continuing."
-- 形容词: "He worked on his project while keeping an eye on the kids."
+- 连词: "[She](/post/she/) sang [along](/post/along/) [to](/post/to/) [the](/post/the/) [radio](/post/radio/) [while](/post/while/) driving [to](/post/to/) [work](/post/work/)."
+- 名词: "Let's [take](/post/take/) [a](/post/a/) [rest](/post/rest/) [for](/post/for/) [a](/post/a/) [while](/post/while/) [before](/post/before/) continuing."
+- 形容词: "[He](/post/he/) worked [on](/post/on/) [his](/post/his/) [project](/post/project/) [while](/post/while/) keeping an [eye](/post/eye/) [on](/post/on/) [the](/post/the/) kids."
 
 ## 同义词
-- during
-- at the same time
+- [during](/post/during/)
+- [at](/post/at/) [the](/post/the/) [same](/post/same/) [time](/post/time/)
 - concurrently
-- in the meantime
-- meanwhile
+- [in](/post/in/) [the](/post/the/) [meantime](/post/meantime/)
+- [meanwhile](/post/meanwhile/)

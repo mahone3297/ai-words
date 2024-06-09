@@ -12,22 +12,22 @@ keywords = ['ai words', 'heading']
 
 ## 释义
 - **名词**: 
-   - 头衔；标题：例如 "The heading of the article is 'Climate Change and Its Impact'."
-   - 航向；方向：例如 "Keep the boat on a northerly heading."
-   - 章节标题：例如 "Please write a creative heading for this section."
+   - 头衔；标题：例如 "[The](/post/the/) [heading](/post/heading/) [of](/post/of/) [the](/post/the/) [article](/post/article/) is '[Climate](/post/climate/) [Change](/post/change/) [and](/post/and/) [Its](/post/its/) [Impact](/post/impact/)'."
+   - 航向；方向：例如 "[Keep](/post/keep/) [the](/post/the/) [boat](/post/boat/) [on](/post/on/) [a](/post/a/) northerly [heading](/post/heading/)."
+   - 章节标题：例如 "[Please](/post/please/) [write](/post/write/) [a](/post/a/) [creative](/post/creative/) [heading](/post/heading/) [for](/post/for/) [this](/post/this/) [section](/post/section/)."
 
 ## 短语
-- "Page heading" 指页面的标题或顶部标识。
-- "Flight heading" 在航空中指的是飞机的飞行方向。
+- "[Page](/post/page/) [heading](/post/heading/)" 指页面的标题或顶部标识。
+- "[Flight](/post/flight/) [heading](/post/heading/)" 在航空中指的是飞机的飞行方向。
 
 ## 例句
-- 名词: "The heading of the email was 'Urgent Business Proposal'."
-- 航向: "The pilot adjusted the plane's heading to avoid storm clouds."
-- 章节标题: "The heading 'History and Origin' introduced the topic well."
+- 名词: "[The](/post/the/) [heading](/post/heading/) [of](/post/of/) [the](/post/the/) email was '[Urgent](/post/urgent/) [Business](/post/business/) [Proposal](/post/proposal/)'."
+- 航向: "[The](/post/the/) [pilot](/post/pilot/) adjusted [the](/post/the/) plane's [heading](/post/heading/) [to](/post/to/) [avoid](/post/avoid/) [storm](/post/storm/) clouds."
+- 章节标题: "[The](/post/the/) [heading](/post/heading/) '[History](/post/history/) [and](/post/and/) [Origin](/post/origin/)' introduced [the](/post/the/) [topic](/post/topic/) [well](/post/well/)."
 
 ## 同义词
-- Title
+- [Title](/post/title/)
 - Caption
-- Label
+- [Label](/post/label/)
 - Prefix
-- Topic
+- [Topic](/post/topic/)

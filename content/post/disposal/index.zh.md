@@ -12,25 +12,25 @@ keywords = ['ai words', 'disposal']
 
 ## 释义
 - **名词**:
-   - 处理；处置：例如 "The proper disposal of waste is crucial for environmental protection."
-   - 去除；抛弃：例如 "We need to dispose of these old furniture items."
-   - 可供使用；支配权：例如 "She had full disposal of the company's resources."
+   - 处理；处置：例如 "[The](/post/the/) [proper](/post/proper/) [disposal](/post/disposal/) [of](/post/of/) [waste](/post/waste/) is crucial [for](/post/for/) environmental [protection](/post/protection/)."
+   - 去除；抛弃：例如 "[We](/post/we/) [need](/post/need/) [to](/post/to/) [dispose](/post/dispose/) [of](/post/of/) [these](/post/these/) [old](/post/old/) [furniture](/post/furniture/) items."
+   - 可供使用；支配权：例如 "[She](/post/she/) had [full](/post/full/) [disposal](/post/disposal/) [of](/post/of/) [the](/post/the/) company's resources."
 
 - **动词**:
-   - 处理；处置：例如 "The company disposes of its waste through recycling."
-   - 安排；决定：例如 "They disposed their time wisely during the vacation."
+   - 处理；处置：例如 "[The](/post/the/) [company](/post/company/) disposes [of](/post/of/) [its](/post/its/) [waste](/post/waste/) [through](/post/through/) recycling."
+   - 安排；决定：例如 "[They](/post/they/) disposed [their](/post/their/) [time](/post/time/) wisely [during](/post/during/) [the](/post/the/) [vacation](/post/vacation/)."
 
 ## 短语
-- "at one's disposal" 意为可供某人使用：例如 "All the tools were at his disposal to complete the project."
-- "dispose of" 用于处理或去除某物：例如 "We need to dispose of these old documents securely."
+- "[at](/post/at/) one's [disposal](/post/disposal/)" 意为可供某人使用：例如 "[All](/post/all/) [the](/post/the/) tools were [at](/post/at/) [his](/post/his/) [disposal](/post/disposal/) [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [project](/post/project/)."
+- "[dispose](/post/dispose/) [of](/post/of/)" 用于处理或去除某物：例如 "[We](/post/we/) [need](/post/need/) [to](/post/to/) [dispose](/post/dispose/) [of](/post/of/) [these](/post/these/) [old](/post/old/) documents securely."
 
 ## 例句
-- 名词: "The city has implemented new policies for waste disposal."
-- 动词: "We'll dispose of the damaged goods before the inspection."
+- 名词: "[The](/post/the/) [city](/post/city/) has implemented [new](/post/new/) policies [for](/post/for/) [waste](/post/waste/) [disposal](/post/disposal/)."
+- 动词: "We'll [dispose](/post/dispose/) [of](/post/of/) [the](/post/the/) damaged [goods](/post/goods/) [before](/post/before/) [the](/post/the/) [inspection](/post/inspection/)."
   
 ## 同义词
 - Handling
-- Management
-- Elimination
+- [Management](/post/management/)
+- [Elimination](/post/elimination/)
 - Riddance
-- Settlement
+- [Settlement](/post/settlement/)

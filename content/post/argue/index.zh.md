@@ -11,21 +11,21 @@ keywords = ['ai words', 'argue']
 /ˈɑːrɡjuː/
 
 ## 释义
-- **动词**: 表达或提出（观点、看法），辩论，争吵。例如: "They were arguing about the best way to solve the problem."
-- **名词**: 争论，辩论，论据。例如: "The debate was filled with arguments for and against the proposal."
+- **动词**: 表达或提出（观点、看法），辩论，争吵。例如: "[They](/post/they/) were arguing [about](/post/about/) [the](/post/the/) [best](/post/best/) [way](/post/way/) [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [problem](/post/problem/)."
+- **名词**: 争论，辩论，论据。例如: "[The](/post/the/) [debate](/post/debate/) was filled [with](/post/with/) arguments [for](/post/for/) [and](/post/and/) [against](/post/against/) [the](/post/the/) [proposal](/post/proposal/)."
 
 ## 短语
-- "argue one's point" 坚持自己的观点。
-- "argue with someone" 与某人争论。
-- "argue from A to B" 从A点论述到B点，逻辑推理。
+- "[argue](/post/argue/) one's [point](/post/point/)" 坚持自己的观点。
+- "[argue](/post/argue/) [with](/post/with/) [someone](/post/someone/)" 与某人争论。
+- "[argue](/post/argue/) [from](/post/from/) [A](/post/a/) [to](/post/to/) B" 从A点论述到B点，逻辑推理。
 
 ## 例句
-- 动词: "He argued that increasing taxes would stimulate the economy."
-- 名词: "The politician presented several arguments in favor of the new policy."
+- 动词: "[He](/post/he/) argued [that](/post/that/) increasing taxes [would](/post/would/) [stimulate](/post/stimulate/) [the](/post/the/) [economy](/post/economy/)."
+- 名词: "[The](/post/the/) [politician](/post/politician/) presented [several](/post/several/) arguments [in](/post/in/) favor [of](/post/of/) [the](/post/the/) [new](/post/new/) [policy](/post/policy/)."
 
 ## 同义词
-- debate
-- discuss
-- dispute
-- quarrel
+- [debate](/post/debate/)
+- [discuss](/post/discuss/)
+- [dispute](/post/dispute/)
+- [quarrel](/post/quarrel/)
 - contend

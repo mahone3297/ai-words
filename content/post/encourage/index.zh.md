@@ -11,20 +11,20 @@ keywords = ['ai words', 'encourage']
 /ɪnˈkʌrɪdʒ/
 
 ## 释义
-- **动词**: 鼓励，激励；促进。例如: "Her teacher encouraged her to pursue her dreams."
-- **名词**: 鼓励，支持。例如: "He received a lot of encouragement from his friends."
+- **动词**: 鼓励，激励；促进。例如: "[Her](/post/her/) [teacher](/post/teacher/) encouraged [her](/post/her/) [to](/post/to/) [pursue](/post/pursue/) [her](/post/her/) dreams."
+- **名词**: 鼓励，支持。例如: "[He](/post/he/) received [a](/post/a/) [lot](/post/lot/) [of](/post/of/) encouragement [from](/post/from/) [his](/post/his/) friends."
 
 ## 短语
-- "encourage someone to do something" 意为鼓励某人去做某事。
-- "encourage a habit" 鼓励形成一个习惯。
+- "[encourage](/post/encourage/) [someone](/post/someone/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" 意为鼓励某人去做某事。
+- "[encourage](/post/encourage/) [a](/post/a/) [habit](/post/habit/)" 鼓励形成一个习惯。
 
 ## 例句
-- 动词: "Parents should encourage their children's creativity."
-- 名词: "The award was a great encouragement for him to continue his research."
+- 动词: "Parents [should](/post/should/) [encourage](/post/encourage/) [their](/post/their/) children's creativity."
+- 名词: "[The](/post/the/) [award](/post/award/) was [a](/post/a/) [great](/post/great/) encouragement [for](/post/for/) [him](/post/him/) [to](/post/to/) [continue](/post/continue/) [his](/post/his/) [research](/post/research/)."
 
 ## 同义词
-- motivate
-- inspire
+- [motivate](/post/motivate/)
+- [inspire](/post/inspire/)
 - boost
-- stimulate
-- support
+- [stimulate](/post/stimulate/)
+- [support](/post/support/)

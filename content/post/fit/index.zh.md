@@ -8,25 +8,25 @@ keywords = ['ai words', 'fit']
 +++
 
 ## 读音
-/fit/
+/[fit](/post/fit/)/
 
 ## 释义
-- **形容词**: 适合的，适当的。例如: "This dress fits her perfectly."
-- **动词**: 适合，与...相符。例如: "The new job fits his skills and interests."
-- **名词**: 健康状况良好，健身。例如: "He is in great physical fit."
+- **形容词**: 适合的，适当的。例如: "[This](/post/this/) [dress](/post/dress/) fits [her](/post/her/) [perfectly](/post/perfectly/)."
+- **动词**: 适合，与...相符。例如: "[The](/post/the/) [new](/post/new/) [job](/post/job/) fits [his](/post/his/) skills [and](/post/and/) interests."
+- **名词**: 健康状况良好，健身。例如: "[He](/post/he/) is [in](/post/in/) [great](/post/great/) [physical](/post/physical/) [fit](/post/fit/)."
 
 ## 短语
-- "Fit for purpose" 意思是适合特定的目标或用途。
-- "Fit in" 意为适应环境或群体。例如: "It took her a while to fit in at the new school."
+- "[Fit](/post/fit/) [for](/post/for/) [purpose](/post/purpose/)" 意思是适合特定的目标或用途。
+- "[Fit](/post/fit/) [in](/post/in/)" 意为适应环境或群体。例如: "[It](/post/it/) took [her](/post/her/) [a](/post/a/) [while](/post/while/) [to](/post/to/) [fit](/post/fit/) [in](/post/in/) [at](/post/at/) [the](/post/the/) [new](/post/new/) [school](/post/school/)."
 
 ## 例句
-- 形容词: "These shoes are just the right fit; they're neither too tight nor too loose."
-- 动词: "The sofa doesn't fit through the doorway; we'll have to take it apart."
-- 名词: "Regular exercise helps maintain a good fit."
+- 形容词: "[These](/post/these/) shoes are [just](/post/just/) [the](/post/the/) [right](/post/right/) [fit](/post/fit/); they're [neither](/post/neither/) [too](/post/too/) [tight](/post/tight/) [nor](/post/nor/) [too](/post/too/) [loose](/post/loose/)."
+- 动词: "[The](/post/the/) sofa doesn't [fit](/post/fit/) [through](/post/through/) [the](/post/the/) doorway; we'll [have](/post/have/) [to](/post/to/) [take](/post/take/) [it](/post/it/) [apart](/post/apart/)."
+- 名词: "[Regular](/post/regular/) [exercise](/post/exercise/) helps [maintain](/post/maintain/) [a](/post/a/) [good](/post/good/) [fit](/post/fit/)."
 
 ## 同义词
-- Appropriate
-- Suitable
+- [Appropriate](/post/appropriate/)
+- [Suitable](/post/suitable/)
 - Compatible
-- Right
-- Proper
+- [Right](/post/right/)
+- [Proper](/post/proper/)

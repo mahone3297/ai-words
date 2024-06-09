@@ -12,20 +12,20 @@ keywords = ['ai words', 'citizen']
 
 ## 释义
 - **名词 n**:
-  - 公民；市民：指拥有某个国家国籍或居住在某个城市的人。例如: "All citizens have the right to vote in elections."
-  - 居民：常用于指在某一地区长期居住的人。例如: "The city's diverse citizens make it a vibrant place to live."
+  - 公民；市民：指拥有某个国家国籍或居住在某个城市的人。例如: "[All](/post/all/) citizens [have](/post/have/) [the](/post/the/) [right](/post/right/) [to](/post/to/) [vote](/post/vote/) [in](/post/in/) elections."
+  - 居民：常用于指在某一地区长期居住的人。例如: "[The](/post/the/) city's [diverse](/post/diverse/) citizens [make](/post/make/) [it](/post/it/) [a](/post/a/) vibrant [place](/post/place/) [to](/post/to/) [live](/post/live/)."
 
 ## 短语
 - "Citizens' rights" 公民权利：指公民享有的法律和宪法赋予的权利。
-- "Good citizens" 好公民：指遵守法律、积极参与社区事务的人。
+- "[Good](/post/good/) citizens" 好公民：指遵守法律、积极参与社区事务的人。
 
 ## 例句
-- "As a responsible citizen, she always votes in local elections."
-- "The new policy affects all citizens of the country, regardless of their background."
+- "[As](/post/as/) [a](/post/a/) [responsible](/post/responsible/) [citizen](/post/citizen/), [she](/post/she/) [always](/post/always/) votes [in](/post/in/) [local](/post/local/) elections."
+- "[The](/post/the/) [new](/post/new/) [policy](/post/policy/) affects [all](/post/all/) citizens [of](/post/of/) [the](/post/the/) [country](/post/country/), [regardless](/post/regardless/) [of](/post/of/) [their](/post/their/) [background](/post/background/)."
 
 ## 同义词
-- Resident
-- Subject (in the context of nationality)
-- Inhabitant
-- Person
-- Native
+- [Resident](/post/resident/)
+- [Subject](/post/subject/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [nationality](/post/nationality/))
+- [Inhabitant](/post/inhabitant/)
+- [Person](/post/person/)
+- [Native](/post/native/)

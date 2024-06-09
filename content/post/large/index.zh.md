@@ -11,21 +11,21 @@ keywords = ['ai words', 'large']
 /lɑːrɡ/
 
 ## 释义
-- **形容词**: 大的，宽敞的，大规模的。例如: "The house has a large garden."
-- **副词**: 大量地，大规模地。例如: "They eat large quantities of food every day."
+- **形容词**: 大的，宽敞的，大规模的。例如: "[The](/post/the/) [house](/post/house/) has [a](/post/a/) [large](/post/large/) [garden](/post/garden/)."
+- **副词**: 大量地，大规模地。例如: "[They](/post/they/) [eat](/post/eat/) [large](/post/large/) quantities [of](/post/of/) [food](/post/food/) [every](/post/every/) [day](/post/day/)."
 
 ## 短语
-- "large enough" 足够大的。
-- "in large numbers" 大量地，大批地。
+- "[large](/post/large/) [enough](/post/enough/)" 足够大的。
+- "[in](/post/in/) [large](/post/large/) numbers" 大量地，大批地。
 - "large-scale" 大规模的，大型的。
 
 ## 例句
-- 形容词: "This room is so large that we can play basketball in it."
-- 副词: "The company invests large amounts of money in research and development."
+- 形容词: "[This](/post/this/) [room](/post/room/) is [so](/post/so/) [large](/post/large/) [that](/post/that/) [we](/post/we/) [can](/post/can/) [play](/post/play/) [basketball](/post/basketball/) [in](/post/in/) [it](/post/it/)."
+- 副词: "[The](/post/the/) [company](/post/company/) invests [large](/post/large/) amounts [of](/post/of/) [money](/post/money/) [in](/post/in/) [research](/post/research/) [and](/post/and/) [development](/post/development/)."
 
 ## 同义词
-- Big
-- Huge
-- Enormous
+- [Big](/post/big/)
+- [Huge](/post/huge/)
+- [Enormous](/post/enormous/)
 - Massive
-- Giant
+- [Giant](/post/giant/)

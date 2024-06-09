@@ -11,20 +11,20 @@ keywords = ['ai words', 'dialog']
 /ˈdɪələɡ/
 
 ## 释义
-- **名词 (n)**: 对话，交谈，对话框。例如: "They had a long dialog about their future plans."
-- **动词 (v)**: 进行对话，交谈。例如: "The actors were dialoguing on stage."
+- **名词 (n)**: 对话，交谈，对话框。例如: "[They](/post/they/) had [a](/post/a/) [long](/post/long/) [dialog](/post/dialog/) [about](/post/about/) [their](/post/their/) [future](/post/future/) plans."
+- **动词 (v)**: 进行对话，交谈。例如: "[The](/post/the/) actors were dialoguing [on](/post/on/) [stage](/post/stage/)."
 
 ## 短语
-- "Dialog box" 在计算机术语中指的是弹出的交互式窗口。
-- "Open a dialog" 意味着开始一个讨论或对话。
+- "[Dialog](/post/dialog/) [box](/post/box/)" 在计算机术语中指的是弹出的交互式窗口。
+- "[Open](/post/open/) [a](/post/a/) [dialog](/post/dialog/)" 意味着开始一个讨论或对话。
 
 ## 例句
-- 名词: "The dialog between the two leaders was crucial for international peace."
-- 动词: "The teacher asked the students to dialog in pairs about the topic."
+- 名词: "[The](/post/the/) [dialog](/post/dialog/) [between](/post/between/) [the](/post/the/) [two](/post/two/) leaders was crucial [for](/post/for/) [international](/post/international/) [peace](/post/peace/)."
+- 动词: "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [dialog](/post/dialog/) [in](/post/in/) pairs [about](/post/about/) [the](/post/the/) [topic](/post/topic/)."
 
 ## 同义词
-- Conversation
-- Discussion
-- Talk
+- [Conversation](/post/conversation/)
+- [Discussion](/post/discussion/)
+- [Talk](/post/talk/)
 - Chat
-- Exchange
+- [Exchange](/post/exchange/)

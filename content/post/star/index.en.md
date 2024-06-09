@@ -7,42 +7,42 @@ description = '[stɑː] n.星；恒星；明星'
 keywords = ['ai words', 'star']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /stɑːr/
 
 ## Definitions
-### Noun
-1. **Astronomical Object**: A massive celestial body that emits its own light and is held together by its own gravity, typically consisting of a central core of hot plasma surrounded by an outer atmosphere. Example: "The star Sirius is the brightest in the night sky."
-2. **Celestial Being**: A prominent person or performer in a particular field, often associated with glamour and fame. Example: "She's a rising star in the film industry."
-3. **Symbol or Emblem**: A representation of something, often used to identify or represent a group or idea. Example: "The Olympic Games are a global star, uniting people from around the world."
-4. **Star-shaped**: Characterized by five or more points radiating from a central point. Example: "The Christmas tree had star-shaped ornaments hanging from its branches."
+### [Noun](/en/post/noun/)
+1. **Astronomical [Object](/en/post/object/)**: [A](/en/post/a/) massive celestial [body](/en/post/body/) [that](/en/post/that/) emits [its](/en/post/its/) [own](/en/post/own/) [light](/en/post/light/) [and](/en/post/and/) is held [together](/en/post/together/) [by](/en/post/by/) [its](/en/post/its/) [own](/en/post/own/) [gravity](/en/post/gravity/), typically consisting [of](/en/post/of/) [a](/en/post/a/) [central](/en/post/central/) [core](/en/post/core/) [of](/en/post/of/) [hot](/en/post/hot/) plasma surrounded [by](/en/post/by/) an [outer](/en/post/outer/) [atmosphere](/en/post/atmosphere/). [Example](/en/post/example/): "[The](/en/post/the/) [star](/en/post/star/) Sirius is [the](/en/post/the/) brightest [in](/en/post/in/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/)."
+2. **Celestial [Being](/en/post/being/)**: [A](/en/post/a/) [prominent](/en/post/prominent/) [person](/en/post/person/) [or](/en/post/or/) performer [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/), [often](/en/post/often/) associated [with](/en/post/with/) glamour [and](/en/post/and/) [fame](/en/post/fame/). [Example](/en/post/example/): "She's [a](/en/post/a/) rising [star](/en/post/star/) [in](/en/post/in/) [the](/en/post/the/) [film](/en/post/film/) [industry](/en/post/industry/)."
+3. **[Symbol](/en/post/symbol/) [or](/en/post/or/) Emblem**: [A](/en/post/a/) representation [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [identify](/en/post/identify/) [or](/en/post/or/) [represent](/en/post/represent/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [idea](/en/post/idea/). [Example](/en/post/example/): "[The](/en/post/the/) Olympic Games are [a](/en/post/a/) global [star](/en/post/star/), uniting [people](/en/post/people/) [from](/en/post/from/) [around](/en/post/around/) [the](/en/post/the/) [world](/en/post/world/)."
+4. **Star-shaped**: Characterized [by](/en/post/by/) [five](/en/post/five/) [or](/en/post/or/) [more](/en/post/more/) points radiating [from](/en/post/from/) [a](/en/post/a/) [central](/en/post/central/) [point](/en/post/point/). [Example](/en/post/example/): "[The](/en/post/the/) Christmas [tree](/en/post/tree/) had star-shaped ornaments hanging [from](/en/post/from/) [its](/en/post/its/) branches."
 
-### Verb
-1. To be admired or considered exceptional. Example: "His innovative design made him a star among architects."
-2. To shine or be prominent. Example: "She shone as the star of the play."
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [be](/en/post/be/) admired [or](/en/post/or/) considered exceptional. [Example](/en/post/example/): "[His](/en/post/his/) innovative [design](/en/post/design/) made [him](/en/post/him/) [a](/en/post/a/) [star](/en/post/star/) [among](/en/post/among/) architects."
+2. [To](/en/post/to/) [shine](/en/post/shine/) [or](/en/post/or/) [be](/en/post/be/) [prominent](/en/post/prominent/). [Example](/en/post/example/): "[She](/en/post/she/) shone [as](/en/post/as/) [the](/en/post/the/) [star](/en/post/star/) [of](/en/post/of/) [the](/en/post/the/) [play](/en/post/play/)."
 
-### Adjective
-1. Notable or prominent. Example: "The star witness in the trial was a key part of the prosecution's case."
-2. Excellent or outstanding. Example: "She received a star rating for her customer service."
+### [Adjective](/en/post/adjective/)
+1. Notable [or](/en/post/or/) [prominent](/en/post/prominent/). [Example](/en/post/example/): "[The](/en/post/the/) [star](/en/post/star/) [witness](/en/post/witness/) [in](/en/post/in/) [the](/en/post/the/) [trial](/en/post/trial/) was [a](/en/post/a/) [key](/en/post/key/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) prosecution's [case](/en/post/case/)."
+2. [Excellent](/en/post/excellent/) [or](/en/post/or/) [outstanding](/en/post/outstanding/). [Example](/en/post/example/): "[She](/en/post/she/) received [a](/en/post/a/) [star](/en/post/star/) rating [for](/en/post/for/) [her](/en/post/her/) [customer](/en/post/customer/) [service](/en/post/service/)."
 
-### Adverb
-1. In a starring role or position. Example: "He was the star player on the football team."
+### [Adverb](/en/post/adverb/)
+1. [In](/en/post/in/) [a](/en/post/a/) starring [role](/en/post/role/) [or](/en/post/or/) [position](/en/post/position/). [Example](/en/post/example/): "[He](/en/post/he/) was [the](/en/post/the/) [star](/en/post/star/) [player](/en/post/player/) [on](/en/post/on/) [the](/en/post/the/) [football](/en/post/football/) [team](/en/post/team/)."
 
 ## Phrases
-- "Under the stars" refers to outdoors, often at night.
-- "Follow your dreams and become a star" is a motivational phrase.
-- "A star is born" describes the emergence of a talented new performer or artist.
+- "[Under](/en/post/under/) [the](/en/post/the/) stars" refers [to](/en/post/to/) [outdoors](/en/post/outdoors/), [often](/en/post/often/) [at](/en/post/at/) [night](/en/post/night/).
+- "[Follow](/en/post/follow/) [your](/en/post/your/) dreams [and](/en/post/and/) [become](/en/post/become/) [a](/en/post/a/) [star](/en/post/star/)" is [a](/en/post/a/) motivational [phrase](/en/post/phrase/).
+- "[A](/en/post/a/) [star](/en/post/star/) is [born](/en/post/born/)" describes [the](/en/post/the/) emergence [of](/en/post/of/) [a](/en/post/a/) talented [new](/en/post/new/) performer [or](/en/post/or/) [artist](/en/post/artist/).
 
-## Example Sentences
-- **Noun**: "The astronomer pointed out the constellations, including the Big Dipper and the North Star."
-- **Verb**: "He was the star attraction at the charity event, drawing a large crowd."
-- **Adjective**: "She was awarded the star prize for her groundbreaking research."
-- **Adverb**: "In the movie, she played the lead role, starring as a brave adventurer."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) astronomer pointed [out](/en/post/out/) [the](/en/post/the/) constellations, including [the](/en/post/the/) [Big](/en/post/big/) Dipper [and](/en/post/and/) [the](/en/post/the/) [North](/en/post/north/) [Star](/en/post/star/)."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was [the](/en/post/the/) [star](/en/post/star/) [attraction](/en/post/attraction/) [at](/en/post/at/) [the](/en/post/the/) [charity](/en/post/charity/) [event](/en/post/event/), [drawing](/en/post/drawing/) [a](/en/post/a/) [large](/en/post/large/) [crowd](/en/post/crowd/)."
+- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) was awarded [the](/en/post/the/) [star](/en/post/star/) [prize](/en/post/prize/) [for](/en/post/for/) [her](/en/post/her/) groundbreaking [research](/en/post/research/)."
+- **[Adverb](/en/post/adverb/)**: "[In](/en/post/in/) [the](/en/post/the/) [movie](/en/post/movie/), [she](/en/post/she/) played [the](/en/post/the/) [lead](/en/post/lead/) [role](/en/post/role/), starring [as](/en/post/as/) [a](/en/post/a/) [brave](/en/post/brave/) adventurer."
 
 ## Synonyms
 - Celestial luminary
 - Icon
-- Phenomenon
+- [Phenomenon](/en/post/phenomenon/)
 - Sensation
 - Highlight
-- Prodigy (for exceptional talent)
+- Prodigy ([for](/en/post/for/) exceptional [talent](/en/post/talent/))

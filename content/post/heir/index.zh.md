@@ -11,16 +11,16 @@ keywords = ['ai words', 'heir']
 /haɪr/
 
 ## 释义
-- **名词 n**: 继承人，嗣子，指在家族、财产或头衔方面有权继承的人。例如: "The heir to the throne is expected to make an official visit soon."
-- **名词 n**: 遗产的合法接受者。例如: "She was named the sole heir in her grandfather's will."
+- **名词 n**: 继承人，嗣子，指在家族、财产或头衔方面有权继承的人。例如: "[The](/post/the/) [heir](/post/heir/) [to](/post/to/) [the](/post/the/) [throne](/post/throne/) is expected [to](/post/to/) [make](/post/make/) an [official](/post/official/) [visit](/post/visit/) [soon](/post/soon/)."
+- **名词 n**: 遗产的合法接受者。例如: "[She](/post/she/) was named [the](/post/the/) [sole](/post/sole/) [heir](/post/heir/) [in](/post/in/) [her](/post/her/) grandfather's [will](/post/will/)."
 
 ## 短语
-- "heir apparent" 指无争议的直接继承人。
-- "heir presumptive" 指当前的继承人，但其地位可能被后来出生的其他亲属取代。
+- "[heir](/post/heir/) [apparent](/post/apparent/)" 指无争议的直接继承人。
+- "[heir](/post/heir/) presumptive" 指当前的继承人，但其地位可能被后来出生的其他亲属取代。
 
 ## 例句
-- "The young prince is the heir to the kingdom's vast wealth and traditions."
-- "As the only son, he is considered the heir to the family business."
+- "[The](/post/the/) [young](/post/young/) [prince](/post/prince/) is [the](/post/the/) [heir](/post/heir/) [to](/post/to/) [the](/post/the/) kingdom's [vast](/post/vast/) [wealth](/post/wealth/) [and](/post/and/) traditions."
+- "[As](/post/as/) [the](/post/the/) [only](/post/only/) [son](/post/son/), [he](/post/he/) is considered [the](/post/the/) [heir](/post/heir/) [to](/post/to/) [the](/post/the/) [family](/post/family/) [business](/post/business/)."
 
 ## 同义词
 - successor

@@ -11,20 +11,20 @@ keywords = ['ai words', 'sunrise']
 /səˈraɪz/
 
 ## 释义
-- **名词**: 日出，早晨太阳升起的时候。例如: "The beautiful sunrise painted the sky with hues of gold and orange."
-- **动词**: (太阳)升起。例如: "The sun rises early in the summer."
+- **名词**: 日出，早晨太阳升起的时候。例如: "[The](/post/the/) [beautiful](/post/beautiful/) [sunrise](/post/sunrise/) painted [the](/post/the/) [sky](/post/sky/) [with](/post/with/) hues [of](/post/of/) [gold](/post/gold/) [and](/post/and/) [orange](/post/orange/)."
+- **动词**: (太阳)升起。例如: "[The](/post/the/) [sun](/post/sun/) rises [early](/post/early/) [in](/post/in/) [the](/post/the/) [summer](/post/summer/)."
 
 ## 短语
-- "sunrise view" 指的是观赏日出的景象。
-- "sunrise meditation" 是在日出时进行的冥想活动。
+- "[sunrise](/post/sunrise/) [view](/post/view/)" 指的是观赏日出的景象。
+- "[sunrise](/post/sunrise/) meditation" 是在日出时进行的冥想活动。
 
 ## 例句
-- 名词: "We woke up early to catch the stunning sunrise over the mountains."
-- 动词: "The sun rises at 5:30 am during the summer months."
+- 名词: "[We](/post/we/) woke [up](/post/up/) [early](/post/early/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) stunning [sunrise](/post/sunrise/) [over](/post/over/) [the](/post/the/) mountains."
+- 动词: "[The](/post/the/) [sun](/post/sun/) rises [at](/post/at/) 5:30 am [during](/post/during/) [the](/post/the/) [summer](/post/summer/) months."
 
 ## 同义词
-- dawn
-- break of day
-- first light
+- [dawn](/post/dawn/)
+- [break](/post/break/) [of](/post/of/) [day](/post/day/)
+- [first](/post/first/) [light](/post/light/)
 - daybreak
 - aurora

@@ -11,29 +11,29 @@ keywords = ['ai words', 'content']
 /ˈkɒntɛnt/
 
 ## 释义
-- **名词 (n)**: 内容，所包含的东西。例如: "The book's content covers a wide range of topics."
-- **形容词 (adj)**: 满意的，满足的。例如: "She was content with her simple life."
-- **动词 (v)**: 使满意，满足。例如: "Good food and company contented the guests."
+- **名词 (n)**: 内容，所包含的东西。例如: "[The](/post/the/) book's [content](/post/content/) covers [a](/post/a/) [wide](/post/wide/) [range](/post/range/) [of](/post/of/) topics."
+- **形容词 (adj)**: 满意的，满足的。例如: "[She](/post/she/) was [content](/post/content/) [with](/post/with/) [her](/post/her/) [simple](/post/simple/) [life](/post/life/)."
+- **动词 (v)**: 使满意，满足。例如: "[Good](/post/good/) [food](/post/food/) [and](/post/and/) [company](/post/company/) contented [the](/post/the/) guests."
 
 ## 短语
-- "Content management system (CMS)" 是一种用于创建和管理数字内容的软件。
-- "Be content with" 意味着对某事感到满足。例如: "She is content with her current job."
+- "[Content](/post/content/) [management](/post/management/) [system](/post/system/) (CMS)" 是一种用于创建和管理数字内容的软件。
+- "[Be](/post/be/) [content](/post/content/) [with](/post/with/)" 意味着对某事感到满足。例如: "[She](/post/she/) is [content](/post/content/) [with](/post/with/) [her](/post/her/) [current](/post/current/) [job](/post/job/)."
 
 ## 例句
-- 名词: "The website's content includes articles, videos, and podcasts."
-- 形容词: "He seemed content just to sit by the fire and read."
-- 动词: "The right music can content even the most restless child."
+- 名词: "[The](/post/the/) website's [content](/post/content/) includes articles, videos, [and](/post/and/) podcasts."
+- 形容词: "[He](/post/he/) seemed [content](/post/content/) [just](/post/just/) [to](/post/to/) [sit](/post/sit/) [by](/post/by/) [the](/post/the/) [fire](/post/fire/) [and](/post/and/) [read](/post/read/)."
+- 动词: "[The](/post/the/) [right](/post/right/) [music](/post/music/) [can](/post/can/) [content](/post/content/) [even](/post/even/) [the](/post/the/) [most](/post/most/) [restless](/post/restless/) [child](/post/child/)."
 
 ## 同义词
-- Noun:
-  - Material
-  - Subject matter
+- [Noun](/post/noun/):
+  - [Material](/post/material/)
+  - [Subject](/post/subject/) [matter](/post/matter/)
   - Contents
-- Adjective:
+- [Adjective](/post/adjective/):
   - Satisfied
   - Pleased
-  - Happy
-- Verb:
-  - Satisfy
+  - [Happy](/post/happy/)
+- [Verb](/post/verb/):
+  - [Satisfy](/post/satisfy/)
   - Fulfill
-  - Content oneself (with)
+  - [Content](/post/content/) [oneself](/post/oneself/) ([with](/post/with/))

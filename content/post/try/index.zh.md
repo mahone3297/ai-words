@@ -11,21 +11,21 @@ keywords = ['ai words', 'try']
 /traɪ/
 
 ## 释义
-- **动词**: 尝试，试图。例如: "I'm going to try cooking a new recipe tonight."
-- **名词**: 尝试，一次努力。例如: "This is my third try at solving the puzzle."
+- **动词**: 尝试，试图。例如: "I'm going [to](/post/to/) [try](/post/try/) cooking [a](/post/a/) [new](/post/new/) recipe [tonight](/post/tonight/)."
+- **名词**: 尝试，一次努力。例如: "[This](/post/this/) is [my](/post/my/) [third](/post/third/) [try](/post/try/) [at](/post/at/) solving [the](/post/the/) [puzzle](/post/puzzle/)."
 
 ## 短语
-- "Try your best" 意思是尽你最大的努力。
-- "Give it a try" 是鼓励别人去尝试的意思。
-- "First try" 指的是第一次尝试。
+- "[Try](/post/try/) [your](/post/your/) [best](/post/best/)" 意思是尽你最大的努力。
+- "[Give](/post/give/) [it](/post/it/) [a](/post/a/) [try](/post/try/)" 是鼓励别人去尝试的意思。
+- "[First](/post/first/) [try](/post/try/)" 指的是第一次尝试。
 
 ## 例句
-- 动词: "She decided to try skydiving for her birthday."
-- 名词: "After two failed attempts, he finally made it on his third try."
+- 动词: "[She](/post/she/) decided [to](/post/to/) [try](/post/try/) skydiving [for](/post/for/) [her](/post/her/) [birthday](/post/birthday/)."
+- 名词: "[After](/post/after/) [two](/post/two/) failed attempts, [he](/post/he/) [finally](/post/finally/) made [it](/post/it/) [on](/post/on/) [his](/post/his/) [third](/post/third/) [try](/post/try/)."
 
 ## 同义词
-- Attempt
+- [Attempt](/post/attempt/)
 - Endeavor
-- Have a go
-- Give it a shot
-- Test
+- [Have](/post/have/) [a](/post/a/) [go](/post/go/)
+- [Give](/post/give/) [it](/post/it/) [a](/post/a/) [shot](/post/shot/)
+- [Test](/post/test/)

@@ -7,33 +7,33 @@ description = '[ˈsimpəθaiz] vi.同情/感，共鸣'
 keywords = ['ai words', 'sympathize']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /səˈmɪθəˌaɪz/
 
 ## Definitions
-- **Verb**: To feel or express sympathy or understanding towards someone else's feelings or situation. (nouns: sympathy)
-- **Noun**: Sympathy, the feeling of compassion and concern for others' suffering.
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [express](/en/post/express/) [sympathy](/en/post/sympathy/) [or](/en/post/or/) [understanding](/en/post/understanding/) towards [someone](/en/post/someone/) else's feelings [or](/en/post/or/) [situation](/en/post/situation/). (nouns: [sympathy](/en/post/sympathy/))
+- **[Noun](/en/post/noun/)**: [Sympathy](/en/post/sympathy/), [the](/en/post/the/) [feeling](/en/post/feeling/) [of](/en/post/of/) compassion [and](/en/post/and/) [concern](/en/post/concern/) [for](/en/post/for/) others' suffering.
 
 ## Phrases
-- "Sympathize with someone" means to share or acknowledge their feelings of sorrow or pain.
-- "Show sympathy" is an action to express one's understanding and support.
-- "In sympathy" describes being on the same wavelength emotionally.
+- "[Sympathize](/en/post/sympathize/) [with](/en/post/with/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [share](/en/post/share/) [or](/en/post/or/) acknowledge [their](/en/post/their/) feelings [of](/en/post/of/) [sorrow](/en/post/sorrow/) [or](/en/post/or/) [pain](/en/post/pain/).
+- "[Show](/en/post/show/) [sympathy](/en/post/sympathy/)" is an [action](/en/post/action/) [to](/en/post/to/) [express](/en/post/express/) one's [understanding](/en/post/understanding/) [and](/en/post/and/) [support](/en/post/support/).
+- "[In](/en/post/in/) [sympathy](/en/post/sympathy/)" describes [being](/en/post/being/) [on](/en/post/on/) [the](/en/post/the/) [same](/en/post/same/) [wavelength](/en/post/wavelength/) emotionally.
 
-## Example Sentences
-- **Verb**: "She could easily sympathize with her friend's loss."
-- **Noun**: "His kind words conveyed a deep sense of sympathy for her situation."
-- "The community came together to sympathize with the victims of the disaster."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [could](/en/post/could/) [easily](/en/post/easily/) [sympathize](/en/post/sympathize/) [with](/en/post/with/) [her](/en/post/her/) friend's [loss](/en/post/loss/)."
+- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [kind](/en/post/kind/) words conveyed [a](/en/post/a/) [deep](/en/post/deep/) [sense](/en/post/sense/) [of](/en/post/of/) [sympathy](/en/post/sympathy/) [for](/en/post/for/) [her](/en/post/her/) [situation](/en/post/situation/)."
+- "[The](/en/post/the/) [community](/en/post/community/) came [together](/en/post/together/) [to](/en/post/to/) [sympathize](/en/post/sympathize/) [with](/en/post/with/) [the](/en/post/the/) victims [of](/en/post/of/) [the](/en/post/the/) [disaster](/en/post/disaster/)."
 
 ## Synonyms
 - Commiserate
-- Feel for
-- Pity
-- Mourn
-- Understand
+- [Feel](/en/post/feel/) [for](/en/post/for/)
+- [Pity](/en/post/pity/)
+- [Mourn](/en/post/mourn/)
+- [Understand](/en/post/understand/)
 
 ## Antonyms
 - Detach
 - Disregard
-- Lack empathy
+- [Lack](/en/post/lack/) empathy
 - Insensitive
-- Indifferent
+- [Indifferent](/en/post/indifferent/)

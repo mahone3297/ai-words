@@ -7,38 +7,38 @@ description = '[ˈ(h)wiski] n.威士忌酒'
 keywords = ['ai words', 'whisky']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈwɪskɪ/
 
 ## Definitions
-### Noun
-**Whisky** (also spelled whiskey in American English) is a distilled alcoholic beverage made primarily from fermented grains, such as barley, corn, rye, or wheat. It is usually aged in wooden barrels, which imparts a distinctive flavor.
+### [Noun](/en/post/noun/)
+**[Whisky](/en/post/whisky/)** ([also](/en/post/also/) spelled whiskey [in](/en/post/in/) [American](/en/post/american/) English) is [a](/en/post/a/) distilled alcoholic beverage made [primarily](/en/post/primarily/) [from](/en/post/from/) fermented grains, [such](/en/post/such/) [as](/en/post/as/) barley, [corn](/en/post/corn/), rye, [or](/en/post/or/) [wheat](/en/post/wheat/). [It](/en/post/it/) is [usually](/en/post/usually/) aged [in](/en/post/in/) [wooden](/en/post/wooden/) barrels, [which](/en/post/which/) imparts [a](/en/post/a/) distinctive flavor.
 
-### Verb
-To **drink whisky** (or whiskey) is to consume this alcoholic beverage.
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) **[drink](/en/post/drink/) [whisky](/en/post/whisky/)** ([or](/en/post/or/) whiskey) is [to](/en/post/to/) [consume](/en/post/consume/) [this](/en/post/this/) alcoholic beverage.
 
-### Adjective
-- **Whisky-related**: Referring to or denoting a product made from whisky, like whisky-based cocktails or whisky-flavored food items.
+### [Adjective](/en/post/adjective/)
+- **Whisky-related**: Referring [to](/en/post/to/) [or](/en/post/or/) denoting [a](/en/post/a/) [product](/en/post/product/) made [from](/en/post/from/) [whisky](/en/post/whisky/), [like](/en/post/like/) whisky-based cocktails [or](/en/post/or/) whisky-flavored [food](/en/post/food/) items.
 
 ## Phrases
-- "Take a dram of whisky" means to have a small glass of whisky.
-- "Whisky neat" refers to whisky served without water or ice.
-- "Scotch whisky" specifically denotes whisky produced in Scotland.
+- "[Take](/en/post/take/) [a](/en/post/a/) dram [of](/en/post/of/) [whisky](/en/post/whisky/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [small](/en/post/small/) [glass](/en/post/glass/) [of](/en/post/of/) [whisky](/en/post/whisky/).
+- "[Whisky](/en/post/whisky/) [neat](/en/post/neat/)" refers [to](/en/post/to/) [whisky](/en/post/whisky/) served [without](/en/post/without/) [water](/en/post/water/) [or](/en/post/or/) [ice](/en/post/ice/).
+- "Scotch [whisky](/en/post/whisky/)" specifically denotes [whisky](/en/post/whisky/) produced [in](/en/post/in/) Scotland.
 
-## Example Sentences
-- **Noun**: "He savored a glass of single malt whisky after dinner."
-- **Verb**: "She warmed up with a dram of whisky before the long hike."
-- **Adjective**: "The whisky-soaked oak of the aged bourbon added depth to the flavor."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) savored [a](/en/post/a/) [glass](/en/post/glass/) [of](/en/post/of/) [single](/en/post/single/) malt [whisky](/en/post/whisky/) [after](/en/post/after/) [dinner](/en/post/dinner/)."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) warmed [up](/en/post/up/) [with](/en/post/with/) [a](/en/post/a/) dram [of](/en/post/of/) [whisky](/en/post/whisky/) [before](/en/post/before/) [the](/en/post/the/) [long](/en/post/long/) hike."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) whisky-soaked [oak](/en/post/oak/) [of](/en/post/of/) [the](/en/post/the/) aged bourbon added [depth](/en/post/depth/) [to](/en/post/to/) [the](/en/post/the/) flavor."
 
 ## Synonyms
-- Whiskey (American English)
-- Scotch (for whisky from Scotland)
-- Bourbon (for American whiskey)
-- Irish whiskey (for Irish-made whiskey)
-- Rye whiskey (produced mainly from rye grain)
-- Malt whiskey (distilled from malted barley)
-- Scotch malt whisky (specifically, Scottish malt whiskey)
+- Whiskey ([American](/en/post/american/) English)
+- Scotch ([for](/en/post/for/) [whisky](/en/post/whisky/) [from](/en/post/from/) Scotland)
+- Bourbon ([for](/en/post/for/) [American](/en/post/american/) whiskey)
+- Irish whiskey ([for](/en/post/for/) Irish-made whiskey)
+- Rye whiskey (produced [mainly](/en/post/mainly/) [from](/en/post/from/) rye [grain](/en/post/grain/))
+- Malt whiskey (distilled [from](/en/post/from/) malted barley)
+- Scotch malt [whisky](/en/post/whisky/) (specifically, Scottish malt whiskey)
 
 ## Notes
-- Scotch whisky is legally defined as whisky produced in Scotland and aged for a minimum of three years.
-- The spelling "whisky" is predominantly used in British English, while "whiskey" is more common in American English.
+- Scotch [whisky](/en/post/whisky/) is legally defined [as](/en/post/as/) [whisky](/en/post/whisky/) produced [in](/en/post/in/) Scotland [and](/en/post/and/) aged [for](/en/post/for/) [a](/en/post/a/) [minimum](/en/post/minimum/) [of](/en/post/of/) [three](/en/post/three/) years.
+- [The](/en/post/the/) [spelling](/en/post/spelling/) "[whisky](/en/post/whisky/)" is predominantly [used](/en/post/used/) [in](/en/post/in/) British English, [while](/en/post/while/) "whiskey" is [more](/en/post/more/) [common](/en/post/common/) [in](/en/post/in/) [American](/en/post/american/) English.

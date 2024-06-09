@@ -11,22 +11,22 @@ keywords = ['ai words', 'smell']
 /smel/
 
 ## 释义
-- **名词**: 气味，味道。例如: "The room had a pleasant smell of flowers."
-- **动词**: 闻，嗅。例如: "She could smell the freshly baked bread from the kitchen."
-- **形容词**: 有气味的，发出气味的。例如: "The smell fruit is very attractive."
+- **名词**: 气味，味道。例如: "[The](/post/the/) [room](/post/room/) had [a](/post/a/) [pleasant](/post/pleasant/) [smell](/post/smell/) [of](/post/of/) flowers."
+- **动词**: 闻，嗅。例如: "[She](/post/she/) [could](/post/could/) [smell](/post/smell/) [the](/post/the/) freshly baked [bread](/post/bread/) [from](/post/from/) [the](/post/the/) [kitchen](/post/kitchen/)."
+- **形容词**: 有气味的，发出气味的。例如: "[The](/post/the/) [smell](/post/smell/) [fruit](/post/fruit/) is [very](/post/very/) [attractive](/post/attractive/)."
 
 ## 短语
-- "smell something out" 发现或找出某事物。例如: "The dog smelled the intruder out quickly."
-- "a smell of smoke" 烟味。例如: "There's a strange smell of smoke in the house."
+- "[smell](/post/smell/) [something](/post/something/) [out](/post/out/)" 发现或找出某事物。例如: "[The](/post/the/) [dog](/post/dog/) smelled [the](/post/the/) intruder [out](/post/out/) [quickly](/post/quickly/)."
+- "[a](/post/a/) [smell](/post/smell/) [of](/post/of/) [smoke](/post/smoke/)" 烟味。例如: "There's [a](/post/a/) [strange](/post/strange/) [smell](/post/smell/) [of](/post/of/) [smoke](/post/smoke/) [in](/post/in/) [the](/post/the/) [house](/post/house/)."
 
 ## 例句
-- 名词: "The smell of coffee woke me up in the morning."
-- 动词: "He could smell the danger approaching."
-- 形容词: "The smell clothes needed to be washed."
+- 名词: "[The](/post/the/) [smell](/post/smell/) [of](/post/of/) [coffee](/post/coffee/) woke [me](/post/me/) [up](/post/up/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- 动词: "[He](/post/he/) [could](/post/could/) [smell](/post/smell/) [the](/post/the/) [danger](/post/danger/) approaching."
+- 形容词: "[The](/post/the/) [smell](/post/smell/) [clothes](/post/clothes/) needed [to](/post/to/) [be](/post/be/) washed."
 
 ## 同义词
 - Odor
 - Aroma
-- Scent
+- [Scent](/post/scent/)
 - Fragrance
 - Essence

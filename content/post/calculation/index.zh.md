@@ -12,22 +12,22 @@ keywords = ['ai words', 'calculation']
 
 ## 释义
 - **名词 n**:
-计算；核算；估计。例如: "The calculation of this equation took hours on the computer."
+计算；核算；估计。例如: "[The](/post/the/) [calculation](/post/calculation/) [of](/post/of/) [this](/post/this/) [equation](/post/equation/) took hours [on](/post/on/) [the](/post/the/) [computer](/post/computer/)."
 - **动词 v**:
-计算；估计；预测。例如: "He calculated the distance to the nearest town."
+计算；估计；预测。例如: "[He](/post/he/) calculated [the](/post/the/) [distance](/post/distance/) [to](/post/to/) [the](/post/the/) nearest [town](/post/town/)."
 
 ## 短语
-- "Mathematical calculation" 指数学计算。
-- "Calculation error" 指计算错误。
-- "To make a quick calculation" 意思是快速估算。
+- "[Mathematical](/post/mathematical/) [calculation](/post/calculation/)" 指数学计算。
+- "[Calculation](/post/calculation/) [error](/post/error/)" 指计算错误。
+- "[To](/post/to/) [make](/post/make/) [a](/post/a/) [quick](/post/quick/) [calculation](/post/calculation/)" 意思是快速估算。
 
 ## 例句
-- 名词: "The architect needs to do some complex calculations for the new bridge design."
-- 动词: "She calculated how much paint was needed for the entire house."
+- 名词: "[The](/post/the/) architect needs [to](/post/to/) [do](/post/do/) [some](/post/some/) [complex](/post/complex/) calculations [for](/post/for/) [the](/post/the/) [new](/post/new/) [bridge](/post/bridge/) [design](/post/design/)."
+- 动词: "[She](/post/she/) calculated [how](/post/how/) [much](/post/much/) [paint](/post/paint/) was needed [for](/post/for/) [the](/post/the/) [entire](/post/entire/) [house](/post/house/)."
 
 ## 同义词
 - Computation
 - Estimation
-- Figure
+- [Figure](/post/figure/)
 - Assessment
 - Computing

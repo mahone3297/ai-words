@@ -11,20 +11,20 @@ keywords = ['ai words', 'hopeless']
 /həˈpəʊləs/
 
 ## 释义
-- **形容词**: 没有希望的，绝望的。例如: "The situation seemed hopeless, and we had to find a new plan."
-- **副词**: 绝望地，毫无希望地。例如: "They searched for the lost child hopelessly."
+- **形容词**: 没有希望的，绝望的。例如: "[The](/post/the/) [situation](/post/situation/) seemed [hopeless](/post/hopeless/), [and](/post/and/) [we](/post/we/) had [to](/post/to/) [find](/post/find/) [a](/post/a/) [new](/post/new/) [plan](/post/plan/)."
+- **副词**: 绝望地，毫无希望地。例如: "[They](/post/they/) searched [for](/post/for/) [the](/post/the/) lost [child](/post/child/) hopelessly."
 
 ## 短语
-- "in hopeless confusion" 混乱不堪，无解的状态。
-- "a hopeless romantic" 一个极度浪漫的人，总是怀揣不切实际的期望。
+- "[in](/post/in/) [hopeless](/post/hopeless/) [confusion](/post/confusion/)" 混乱不堪，无解的状态。
+- "[a](/post/a/) [hopeless](/post/hopeless/) [romantic](/post/romantic/)" 一个极度浪漫的人，总是怀揣不切实际的期望。
 
 ## 例句
-- 形容词: "The project was so behind schedule that it felt completely hopeless."
-- 副词: "She looked hopelessly at the broken vase, knowing it couldn't be fixed."
+- 形容词: "[The](/post/the/) [project](/post/project/) was [so](/post/so/) [behind](/post/behind/) [schedule](/post/schedule/) [that](/post/that/) [it](/post/it/) felt [completely](/post/completely/) [hopeless](/post/hopeless/)."
+- 副词: "[She](/post/she/) looked hopelessly [at](/post/at/) [the](/post/the/) [broken](/post/broken/) [vase](/post/vase/), knowing [it](/post/it/) couldn't [be](/post/be/) fixed."
 
 ## 同义词
 - despairing
-- pessimistic
-- gloomy
+- [pessimistic](/post/pessimistic/)
+- [gloomy](/post/gloomy/)
 - despondent
-- without hope
+- [without](/post/without/) [hope](/post/hope/)

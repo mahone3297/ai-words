@@ -11,20 +11,20 @@ keywords = ['ai words', 'voluntary']
 /vəˈnɔːrəlɪ/
 
 ## 释义
-- **形容词**: 自愿的，志愿的，出于个人意愿的。例如: "She works voluntarily at the local charity."
-- **名词**: 志愿者，义工。例如: "The event relies on the help of many volunteers."
+- **形容词**: 自愿的，志愿的，出于个人意愿的。例如: "[She](/post/she/) works voluntarily [at](/post/at/) [the](/post/the/) [local](/post/local/) [charity](/post/charity/)."
+- **名词**: 志愿者，义工。例如: "[The](/post/the/) [event](/post/event/) relies [on](/post/on/) [the](/post/the/) [help](/post/help/) [of](/post/of/) [many](/post/many/) volunteers."
 
 ## 短语
-- "voluntary work" 意为志愿工作。
-- "voluntary organization" 指的是志愿团体或非营利组织。
+- "[voluntary](/post/voluntary/) [work](/post/work/)" 意为志愿工作。
+- "[voluntary](/post/voluntary/) [organization](/post/organization/)" 指的是志愿团体或非营利组织。
 
 ## 例句
-- 形容词: "Participation in the program is completely voluntary."
-- 名词: "The hospital has a group of dedicated volunteers who assist patients."
+- 形容词: "Participation [in](/post/in/) [the](/post/the/) [program](/post/program/) is [completely](/post/completely/) [voluntary](/post/voluntary/)."
+- 名词: "[The](/post/the/) [hospital](/post/hospital/) has [a](/post/a/) [group](/post/group/) [of](/post/of/) dedicated volunteers [who](/post/who/) [assist](/post/assist/) patients."
 
 ## 同义词
 - Unpaid
-- Willing
+- [Willing](/post/willing/)
 - Unsolicited
 - Involuntary (反义词)
 - Compulsory (反义词)

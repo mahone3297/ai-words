@@ -11,20 +11,20 @@ keywords = ['ai words', 'stranger']
 /ˈstræŋər/
 
 ## 释义
-- **名词**: 陌生人，不熟悉的人。例如: "She felt uneasy around strangers."
-- **形容词**: 陌生的，不熟悉的。例如: "This is a stranger city to me."
+- **名词**: 陌生人，不熟悉的人。例如: "[She](/post/she/) felt [uneasy](/post/uneasy/) [around](/post/around/) strangers."
+- **形容词**: 陌生的，不熟悉的。例如: "[This](/post/this/) is [a](/post/a/) [stranger](/post/stranger/) [city](/post/city/) [to](/post/to/) [me](/post/me/)."
 
 ## 短语
-- "a stranger in town" 指的是一个在该地不为人知的人。
-- "feel like a stranger" 表示感到自己与周围环境格格不入。
+- "[a](/post/a/) [stranger](/post/stranger/) [in](/post/in/) [town](/post/town/)" 指的是一个在该地不为人知的人。
+- "[feel](/post/feel/) [like](/post/like/) [a](/post/a/) [stranger](/post/stranger/)" 表示感到自己与周围环境格格不入。
 
 ## 例句
-- 名词: "The child was hesitant to approach the stranger."
-- 形容词: "I'm still getting used to these stranger customs."
+- 名词: "[The](/post/the/) [child](/post/child/) was hesitant [to](/post/to/) [approach](/post/approach/) [the](/post/the/) [stranger](/post/stranger/)."
+- 形容词: "I'm [still](/post/still/) getting [used](/post/used/) [to](/post/to/) [these](/post/these/) [stranger](/post/stranger/) customs."
 
 ## 同义词
-- Unknown
+- [Unknown](/post/unknown/)
 - Unfamiliar
 - Alien
-- Foreigner
+- [Foreigner](/post/foreigner/)
 - Novice

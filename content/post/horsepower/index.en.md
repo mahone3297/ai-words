@@ -7,27 +7,27 @@ description = '[ˈhɔːsˌpauə] n.马力'
 keywords = ['ai words', 'horsepower']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈhɔːspuːt/
 
 ## Definitions
-- **Noun**: A unit of power equal to 745.7 watts, defined as the power needed to lift 550 pounds one foot in one second, and commonly used to express the power output of engines and motors. Originating from the amount of work a horse could do on a task such as turning a mill wheel.
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [power](/en/post/power/) [equal](/en/post/equal/) [to](/en/post/to/) 745.7 watts, defined [as](/en/post/as/) [the](/en/post/the/) [power](/en/post/power/) needed [to](/en/post/to/) [lift](/en/post/lift/) 550 pounds [one](/en/post/one/) [foot](/en/post/foot/) [in](/en/post/in/) [one](/en/post/one/) [second](/en/post/second/), [and](/en/post/and/) [commonly](/en/post/commonly/) [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [the](/en/post/the/) [power](/en/post/power/) [output](/en/post/output/) [of](/en/post/of/) engines [and](/en/post/and/) motors. Originating [from](/en/post/from/) [the](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [work](/en/post/work/) [a](/en/post/a/) [horse](/en/post/horse/) [could](/en/post/could/) [do](/en/post/do/) [on](/en/post/on/) [a](/en/post/a/) [task](/en/post/task/) [such](/en/post/such/) [as](/en/post/as/) [turning](/en/post/turning/) [a](/en/post/a/) [mill](/en/post/mill/) [wheel](/en/post/wheel/).
 
-Example Sentence: 
-- _The new car engine delivers up to 300 horsepower._
+[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
+- _The [new](/en/post/new/) [car](/en/post/car/) [engine](/en/post/engine/) delivers [up](/en/post/up/) [to](/en/post/to/) 300 [horsepower](/en/post/horsepower/)._
 
 ## Phrases
-- "_Equivalent to so many horsepower_" is used when comparing the power output of machines to this standard unit.
-- "_Horsepower rating_" refers to the measurement of an engine's power output.
+- "_Equivalent [to](/en/post/to/) [so](/en/post/so/) [many](/en/post/many/) horsepower_" is [used](/en/post/used/) [when](/en/post/when/) comparing [the](/en/post/the/) [power](/en/post/power/) [output](/en/post/output/) [of](/en/post/of/) machines [to](/en/post/to/) [this](/en/post/this/) [standard](/en/post/standard/) [unit](/en/post/unit/).
+- "_Horsepower rating_" refers [to](/en/post/to/) [the](/en/post/the/) [measurement](/en/post/measurement/) [of](/en/post/of/) an engine's [power](/en/post/power/) [output](/en/post/output/).
 
-## Example Sentences
-- _This lawnmower has a horsepower rating of 5._
-- _The steam engine of old locomotives could generate over a thousand horsepower._
+## [Example](/en/post/example/) Sentences
+- _This lawnmower has [a](/en/post/a/) [horsepower](/en/post/horsepower/) rating [of](/en/post/of/) 5._
+- _The [steam](/en/post/steam/) [engine](/en/post/engine/) [of](/en/post/of/) [old](/en/post/old/) locomotives [could](/en/post/could/) [generate](/en/post/generate/) [over](/en/post/over/) [a](/en/post/a/) [thousand](/en/post/thousand/) [horsepower](/en/post/horsepower/)._
 
 ## Synonyms
 - hp (abbreviation)
-- Pferdestärke (PS; German equivalent)
-- cheval-vapeur (CV; French equivalent)
-- cavallo vapore (CV; Italian equivalent)
+- Pferdestärke (PS; German [equivalent](/en/post/equivalent/))
+- cheval-vapeur (CV; French [equivalent](/en/post/equivalent/))
+- cavallo vapore (CV; Italian [equivalent](/en/post/equivalent/))
   
-It's important to note that while "horsepower" does not have direct synonyms as it is a specific technical term, other units of power include watts, kilowatts, and metric horsepower (ps or CV), which are used interchangeably in different regions and industries to measure power output.
+It's [important](/en/post/important/) [to](/en/post/to/) [note](/en/post/note/) [that](/en/post/that/) [while](/en/post/while/) "[horsepower](/en/post/horsepower/)" does [not](/en/post/not/) [have](/en/post/have/) [direct](/en/post/direct/) synonyms [as](/en/post/as/) [it](/en/post/it/) is [a](/en/post/a/) [specific](/en/post/specific/) [technical](/en/post/technical/) [term](/en/post/term/), [other](/en/post/other/) units [of](/en/post/of/) [power](/en/post/power/) [include](/en/post/include/) watts, kilowatts, [and](/en/post/and/) [metric](/en/post/metric/) [horsepower](/en/post/horsepower/) (ps [or](/en/post/or/) CV), [which](/en/post/which/) are [used](/en/post/used/) interchangeably [in](/en/post/in/) [different](/en/post/different/) regions [and](/en/post/and/) industries [to](/en/post/to/) [measure](/en/post/measure/) [power](/en/post/power/) [output](/en/post/output/).

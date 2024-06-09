@@ -11,22 +11,22 @@ keywords = ['ai words', 'diary']
 /daɪəri/
 
 ## 释义
-- **名词 (n)**: 个人私密记录日常活动、想法或感受的日记本。例如: "She kept a diary of her travels."
-- **名词 (n)**: 日记，日常记载。例如: "Reading his diary was like stepping into the past."
-- **动词 (v)**: 记录在日记中。例如: "I always diary my thoughts and feelings at the end of the day."
+- **名词 (n)**: 个人私密记录日常活动、想法或感受的日记本。例如: "[She](/post/she/) kept [a](/post/a/) [diary](/post/diary/) [of](/post/of/) [her](/post/her/) travels."
+- **名词 (n)**: 日记，日常记载。例如: "[Reading](/post/reading/) [his](/post/his/) [diary](/post/diary/) was [like](/post/like/) stepping [into](/post/into/) [the](/post/the/) [past](/post/past/)."
+- **动词 (v)**: 记录在日记中。例如: "I [always](/post/always/) [diary](/post/diary/) [my](/post/my/) thoughts [and](/post/and/) feelings [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [day](/post/day/)."
 
 ## 短语
-- "Keep a diary" 意味着每天写日记。
-- "Diary entry" 指的是日记中的一个条目或记录。
+- "[Keep](/post/keep/) [a](/post/a/) [diary](/post/diary/)" 意味着每天写日记。
+- "[Diary](/post/diary/) [entry](/post/entry/)" 指的是日记中的一个条目或记录。
 
 ## 例句
-- 名词: "She found an old diary in her attic, filled with memories from her childhood."
-- 名词: "The daily dairy entries helped him reflect on his progress."
-- 动词: "He diaried every detail of his experiment for future reference."
+- 名词: "[She](/post/she/) [found](/post/found/) an [old](/post/old/) [diary](/post/diary/) [in](/post/in/) [her](/post/her/) attic, filled [with](/post/with/) memories [from](/post/from/) [her](/post/her/) [childhood](/post/childhood/)."
+- 名词: "[The](/post/the/) [daily](/post/daily/) [dairy](/post/dairy/) entries helped [him](/post/him/) [reflect](/post/reflect/) [on](/post/on/) [his](/post/his/) [progress](/post/progress/)."
+- 动词: "[He](/post/he/) diaried [every](/post/every/) [detail](/post/detail/) [of](/post/of/) [his](/post/his/) [experiment](/post/experiment/) [for](/post/for/) [future](/post/future/) [reference](/post/reference/)."
 
 ## 同义词
-- Journal
+- [Journal](/post/journal/)
 - Logbook
 - Ledger
-- Record
+- [Record](/post/record/)
 - Scrapbook

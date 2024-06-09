@@ -7,32 +7,32 @@ description = '[bæŋ] n.巨响，枪声；猛击'
 keywords = ['ai words', 'bang']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /bæŋ/
 
 ## Definitions
-- **Noun**: 1. A sharp, loud noise caused by something hitting or exploding. 2. (informal) A sudden realization or epiphany. 3. (slang) A sexual encounter or act. 4. (UK) A fist strike or punch.
-- **Verb**: 1. To cause a sudden, loud noise. 2. To express or communicate a sudden, strong emotion or opinion. 3. (slang) To have a sexual encounter or act.
-- **Adverb**: With emphasis, dramatically, or suddenly.
+- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [sharp](/en/post/sharp/), [loud](/en/post/loud/) [noise](/en/post/noise/) caused [by](/en/post/by/) [something](/en/post/something/) hitting [or](/en/post/or/) exploding. 2. (informal) [A](/en/post/a/) [sudden](/en/post/sudden/) realization [or](/en/post/or/) epiphany. 3. (slang) [A](/en/post/a/) sexual [encounter](/en/post/encounter/) [or](/en/post/or/) [act](/en/post/act/). 4. (UK) [A](/en/post/a/) [fist](/en/post/fist/) [strike](/en/post/strike/) [or](/en/post/or/) [punch](/en/post/punch/).
+- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [cause](/en/post/cause/) [a](/en/post/a/) [sudden](/en/post/sudden/), [loud](/en/post/loud/) [noise](/en/post/noise/). 2. [To](/en/post/to/) [express](/en/post/express/) [or](/en/post/or/) [communicate](/en/post/communicate/) [a](/en/post/a/) [sudden](/en/post/sudden/), [strong](/en/post/strong/) [emotion](/en/post/emotion/) [or](/en/post/or/) [opinion](/en/post/opinion/). 3. (slang) [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) sexual [encounter](/en/post/encounter/) [or](/en/post/or/) [act](/en/post/act/).
+- **[Adverb](/en/post/adverb/)**: [With](/en/post/with/) [emphasis](/en/post/emphasis/), dramatically, [or](/en/post/or/) [suddenly](/en/post/suddenly/).
 
 ## Phrases
-- "Go bang!" (to encourage someone to make a sound)
-- "The fireworks went off with a loud bang."
-- "Her words hit me like a ton of bricks, it was a mental bang."
+- "[Go](/en/post/go/) [bang](/en/post/bang/)!" ([to](/en/post/to/) [encourage](/en/post/encourage/) [someone](/en/post/someone/) [to](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [sound](/en/post/sound/))
+- "[The](/en/post/the/) fireworks went [off](/en/post/off/) [with](/en/post/with/) [a](/en/post/a/) [loud](/en/post/loud/) [bang](/en/post/bang/)."
+- "[Her](/en/post/her/) words [hit](/en/post/hit/) [me](/en/post/me/) [like](/en/post/like/) [a](/en/post/a/) [ton](/en/post/ton/) [of](/en/post/of/) bricks, [it](/en/post/it/) was [a](/en/post/a/) [mental](/en/post/mental/) [bang](/en/post/bang/)."
 
-## Example Sentences
-- **Noun**: "The door slammed shut with a loud bang."
-- **Verb**: "He banged on the table to get everyone's attention."
-- **Interjection**: "Bang! That idea really caught my interest."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [door](/en/post/door/) slammed [shut](/en/post/shut/) [with](/en/post/with/) [a](/en/post/a/) [loud](/en/post/loud/) [bang](/en/post/bang/)."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) banged [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/) [to](/en/post/to/) [get](/en/post/get/) everyone's [attention](/en/post/attention/)."
+- **Interjection**: "[Bang](/en/post/bang/)! [That](/en/post/that/) [idea](/en/post/idea/) [really](/en/post/really/) caught [my](/en/post/my/) [interest](/en/post/interest/)."
 
 ## Synonyms
-- Clap
-- KAPOW (comic book slang)
+- [Clap](/en/post/clap/)
+- KAPOW (comic [book](/en/post/book/) slang)
 - Pow!
-- Crash
+- [Crash](/en/post/crash/)
 - Boom
 
 ## Antonyms
-- Silence
-- Softly
+- [Silence](/en/post/silence/)
+- [Softly](/en/post/softly/)
 - Quietly

@@ -11,21 +11,21 @@ keywords = ['ai words', 'great']
 /greɪt/
 
 ## 释义
-- **形容词**: 极好的，伟大的，重要的。例如: "He is a great actor."
-- **副词**: 非常，极其。例如: "I'm feeling great today."
+- **形容词**: 极好的，伟大的，重要的。例如: "[He](/post/he/) is [a](/post/a/) [great](/post/great/) [actor](/post/actor/)."
+- **副词**: 非常，极其。例如: "I'm [feeling](/post/feeling/) [great](/post/great/) [today](/post/today/)."
 
 ## 短语
-- "Great job" 意为做得好。
-- "The great outdoors" 指户外大自然。
-- "In great demand" 表示需求量很大。
+- "[Great](/post/great/) [job](/post/job/)" 意为做得好。
+- "[The](/post/the/) [great](/post/great/) [outdoors](/post/outdoors/)" 指户外大自然。
+- "[In](/post/in/) [great](/post/great/) [demand](/post/demand/)" 表示需求量很大。
 
 ## 例句
-- 形容词: "She has a great talent for painting."
-- 副词: "He played the piano great during the concert."
+- 形容词: "[She](/post/she/) has [a](/post/a/) [great](/post/great/) [talent](/post/talent/) [for](/post/for/) [painting](/post/painting/)."
+- 副词: "[He](/post/he/) played [the](/post/the/) [piano](/post/piano/) [great](/post/great/) [during](/post/during/) [the](/post/the/) [concert](/post/concert/)."
 
 ## 同义词
-- Excellent
+- [Excellent](/post/excellent/)
 - Fantastic
 - Superb
-- Magnificent
-- Outstanding
+- [Magnificent](/post/magnificent/)
+- [Outstanding](/post/outstanding/)

@@ -7,39 +7,39 @@ description = '[hæv] v.aux.已经 vt.有；吃'
 keywords = ['ai words', 'have']
 +++
 
-## Word: Have
+## [Word](/en/post/word/): [Have](/en/post/have/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /hæv/
 
 ## Definitions
-- **Verb (mainly transitive)**: To possess, own, or hold something as one's own. For example: "I have a car." 
-- **Verb (auxiliary)**: To experience or do something. It's often used to form perfect tenses with the past participle of another verb. For example: "I have eaten breakfast already."
-- **Verb**: To host or organize an event. For example: "They're having a party this weekend."
-- **Verb**: To consume food or drink. For example: "Let's have lunch together."
-- **Verb**: To require or need something. For example: "You'll have to finish your homework before playing games."
-- **Noun**: Used in certain expressions like 'it's high time (that) someone had...' to suggest necessity or inevitability. For example: "It's high time we had a serious talk."
+- **[Verb](/en/post/verb/) ([mainly](/en/post/mainly/) transitive)**: [To](/en/post/to/) [possess](/en/post/possess/), [own](/en/post/own/), [or](/en/post/or/) [hold](/en/post/hold/) [something](/en/post/something/) [as](/en/post/as/) one's [own](/en/post/own/). [For](/en/post/for/) [example](/en/post/example/): "I [have](/en/post/have/) [a](/en/post/a/) [car](/en/post/car/)." 
+- **[Verb](/en/post/verb/) ([auxiliary](/en/post/auxiliary/))**: [To](/en/post/to/) [experience](/en/post/experience/) [or](/en/post/or/) [do](/en/post/do/) [something](/en/post/something/). It's [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [form](/en/post/form/) [perfect](/en/post/perfect/) tenses [with](/en/post/with/) [the](/en/post/the/) [past](/en/post/past/) participle [of](/en/post/of/) [another](/en/post/another/) [verb](/en/post/verb/). [For](/en/post/for/) [example](/en/post/example/): "I [have](/en/post/have/) eaten [breakfast](/en/post/breakfast/) [already](/en/post/already/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [host](/en/post/host/) [or](/en/post/or/) [organize](/en/post/organize/) an [event](/en/post/event/). [For](/en/post/for/) [example](/en/post/example/): "They're having [a](/en/post/a/) [party](/en/post/party/) [this](/en/post/this/) [weekend](/en/post/weekend/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [consume](/en/post/consume/) [food](/en/post/food/) [or](/en/post/or/) [drink](/en/post/drink/). [For](/en/post/for/) [example](/en/post/example/): "Let's [have](/en/post/have/) [lunch](/en/post/lunch/) [together](/en/post/together/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [require](/en/post/require/) [or](/en/post/or/) [need](/en/post/need/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "You'll [have](/en/post/have/) [to](/en/post/to/) [finish](/en/post/finish/) [your](/en/post/your/) homework [before](/en/post/before/) playing games."
+- **[Noun](/en/post/noun/)**: [Used](/en/post/used/) [in](/en/post/in/) [certain](/en/post/certain/) expressions [like](/en/post/like/) 'it's [high](/en/post/high/) [time](/en/post/time/) ([that](/en/post/that/)) [someone](/en/post/someone/) had...' [to](/en/post/to/) [suggest](/en/post/suggest/) [necessity](/en/post/necessity/) [or](/en/post/or/) inevitability. [For](/en/post/for/) [example](/en/post/example/): "It's [high](/en/post/high/) [time](/en/post/time/) [we](/en/post/we/) had [a](/en/post/a/) [serious](/en/post/serious/) [talk](/en/post/talk/)."
 
 ## Phrases
-- "Have to" indicates necessity or obligation. For example: "I have to go to work."
-- "Have got" is informal and equivalent to "have" when expressing possession. For example: "I've got a new phone."
-- "To have done something" is used to describe a completed action. For example: "By 5 pm, I had finished all my tasks."
+- "[Have](/en/post/have/) [to](/en/post/to/)" indicates [necessity](/en/post/necessity/) [or](/en/post/or/) obligation. [For](/en/post/for/) [example](/en/post/example/): "I [have](/en/post/have/) [to](/en/post/to/) [go](/en/post/go/) [to](/en/post/to/) [work](/en/post/work/)."
+- "[Have](/en/post/have/) got" is informal [and](/en/post/and/) [equivalent](/en/post/equivalent/) [to](/en/post/to/) "[have](/en/post/have/)" [when](/en/post/when/) expressing [possession](/en/post/possession/). [For](/en/post/for/) [example](/en/post/example/): "I've got [a](/en/post/a/) [new](/en/post/new/) [phone](/en/post/phone/)."
+- "[To](/en/post/to/) [have](/en/post/have/) done [something](/en/post/something/)" is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) completed [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[By](/en/post/by/) 5 pm, I had finished [all](/en/post/all/) [my](/en/post/my/) tasks."
 
-## Example Sentences
-- **Verb (possession)**: "She has a beautiful house on the beach."
-- **Verb (auxiliary)**: "I have studied French for five years."
-- **Verb (hosting)**: "They are having a barbecue on Saturday."
-- **Verb (consumption)**: "We're going to have dinner at 7 pm."
-- **Verb (necessity)**: "You don't have to stay if you don't want to."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/) ([possession](/en/post/possession/))**: "[She](/en/post/she/) has [a](/en/post/a/) [beautiful](/en/post/beautiful/) [house](/en/post/house/) [on](/en/post/on/) [the](/en/post/the/) [beach](/en/post/beach/)."
+- **[Verb](/en/post/verb/) ([auxiliary](/en/post/auxiliary/))**: "I [have](/en/post/have/) studied French [for](/en/post/for/) [five](/en/post/five/) years."
+- **[Verb](/en/post/verb/) (hosting)**: "[They](/en/post/they/) are having [a](/en/post/a/) barbecue [on](/en/post/on/) Saturday."
+- **[Verb](/en/post/verb/) ([consumption](/en/post/consumption/))**: "We're going [to](/en/post/to/) [have](/en/post/have/) [dinner](/en/post/dinner/) [at](/en/post/at/) 7 pm."
+- **[Verb](/en/post/verb/) ([necessity](/en/post/necessity/))**: "[You](/en/post/you/) don't [have](/en/post/have/) [to](/en/post/to/) [stay](/en/post/stay/) [if](/en/post/if/) [you](/en/post/you/) don't [want](/en/post/want/) [to](/en/post/to/)."
 
 ## Synonyms
-- Possess
-- Own
-- Hold
-- Experience
-- Need
-- Require
-- Eat
-- Drink
-- Host
-- Organize
+- [Possess](/en/post/possess/)
+- [Own](/en/post/own/)
+- [Hold](/en/post/hold/)
+- [Experience](/en/post/experience/)
+- [Need](/en/post/need/)
+- [Require](/en/post/require/)
+- [Eat](/en/post/eat/)
+- [Drink](/en/post/drink/)
+- [Host](/en/post/host/)
+- [Organize](/en/post/organize/)

@@ -7,30 +7,30 @@ description = '[hit] vt.打；碰撞 n.击'
 keywords = ['ai words', 'hit']
 +++
 
-## Word: Hit
+## [Word](/en/post/word/): [Hit](/en/post/hit/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈhɪt/
 
 ## Definitions
-- **Noun**: (1) A physical blow or impact, often with a hand or tool. Example: "The boxer delivered a powerful hit to his opponent." (2) Contact with something, especially a successful contact in sports, like hitting a ball with a bat. Example: "He scored a home run with a solid hit." (3) A success in a particular area or field; a popular song, book, movie, etc. Example: "Their latest album has several hits."
+- **[Noun](/en/post/noun/)**: (1) [A](/en/post/a/) [physical](/en/post/physical/) [blow](/en/post/blow/) [or](/en/post/or/) [impact](/en/post/impact/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [hand](/en/post/hand/) [or](/en/post/or/) [tool](/en/post/tool/). [Example](/en/post/example/): "[The](/en/post/the/) boxer delivered [a](/en/post/a/) [powerful](/en/post/powerful/) [hit](/en/post/hit/) [to](/en/post/to/) [his](/en/post/his/) [opponent](/en/post/opponent/)." (2) [Contact](/en/post/contact/) [with](/en/post/with/) [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [successful](/en/post/successful/) [contact](/en/post/contact/) [in](/en/post/in/) sports, [like](/en/post/like/) hitting [a](/en/post/a/) [ball](/en/post/ball/) [with](/en/post/with/) [a](/en/post/a/) [bat](/en/post/bat/). [Example](/en/post/example/): "[He](/en/post/he/) scored [a](/en/post/a/) [home](/en/post/home/) [run](/en/post/run/) [with](/en/post/with/) [a](/en/post/a/) [solid](/en/post/solid/) [hit](/en/post/hit/)." (3) [A](/en/post/a/) [success](/en/post/success/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/) [or](/en/post/or/) [field](/en/post/field/); [a](/en/post/a/) [popular](/en/post/popular/) [song](/en/post/song/), [book](/en/post/book/), [movie](/en/post/movie/), etc. [Example](/en/post/example/): "[Their](/en/post/their/) latest album has [several](/en/post/several/) hits."
 
-- **Verb**: (1) To strike physically, either intentionally or accidentally. Example: "The tennis player hit the ball over the net." (2) To reach or achieve a target or goal. Example: "We need to hit our sales targets this quarter." (3) To visit or attend. Example: "Let's hit the gym after work." (4) To succeed or be well-received. Example: "His new show really hit big last night."
+- **[Verb](/en/post/verb/)**: (1) [To](/en/post/to/) [strike](/en/post/strike/) physically, [either](/en/post/either/) intentionally [or](/en/post/or/) accidentally. [Example](/en/post/example/): "[The](/en/post/the/) [tennis](/en/post/tennis/) [player](/en/post/player/) [hit](/en/post/hit/) [the](/en/post/the/) [ball](/en/post/ball/) [over](/en/post/over/) [the](/en/post/the/) [net](/en/post/net/)." (2) [To](/en/post/to/) [reach](/en/post/reach/) [or](/en/post/or/) [achieve](/en/post/achieve/) [a](/en/post/a/) [target](/en/post/target/) [or](/en/post/or/) [goal](/en/post/goal/). [Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [hit](/en/post/hit/) [our](/en/post/our/) sales targets [this](/en/post/this/) [quarter](/en/post/quarter/)." (3) [To](/en/post/to/) [visit](/en/post/visit/) [or](/en/post/or/) [attend](/en/post/attend/). [Example](/en/post/example/): "Let's [hit](/en/post/hit/) [the](/en/post/the/) gym [after](/en/post/after/) [work](/en/post/work/)." (4) [To](/en/post/to/) [succeed](/en/post/succeed/) [or](/en/post/or/) [be](/en/post/be/) well-received. [Example](/en/post/example/): "[His](/en/post/his/) [new](/en/post/new/) [show](/en/post/show/) [really](/en/post/really/) [hit](/en/post/hit/) [big](/en/post/big/) [last](/en/post/last/) [night](/en/post/night/)."
 
-- **Adjective** (informal): Exceptionally good or impressive. Example: "That was a hit performance."
+- **[Adjective](/en/post/adjective/)** (informal): Exceptionally [good](/en/post/good/) [or](/en/post/or/) [impressive](/en/post/impressive/). [Example](/en/post/example/): "[That](/en/post/that/) was [a](/en/post/a/) [hit](/en/post/hit/) [performance](/en/post/performance/)."
 
 ## Phrases
-- "Hit and run": A collision where the driver flees the scene without stopping.
-- "Hit the nail on the head": To accurately identify or describe something.
-- "Hit the ground running": To start a task or project immediately and energetically.
-- "Take a hit": To experience a negative effect or setback.
+- "[Hit](/en/post/hit/) [and](/en/post/and/) [run](/en/post/run/)": [A](/en/post/a/) [collision](/en/post/collision/) [where](/en/post/where/) [the](/en/post/the/) [driver](/en/post/driver/) flees [the](/en/post/the/) [scene](/en/post/scene/) [without](/en/post/without/) stopping.
+- "[Hit](/en/post/hit/) [the](/en/post/the/) [nail](/en/post/nail/) [on](/en/post/on/) [the](/en/post/the/) [head](/en/post/head/)": [To](/en/post/to/) accurately [identify](/en/post/identify/) [or](/en/post/or/) [describe](/en/post/describe/) [something](/en/post/something/).
+- "[Hit](/en/post/hit/) [the](/en/post/the/) [ground](/en/post/ground/) running": [To](/en/post/to/) [start](/en/post/start/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [project](/en/post/project/) [immediately](/en/post/immediately/) [and](/en/post/and/) energetically.
+- "[Take](/en/post/take/) [a](/en/post/a/) [hit](/en/post/hit/)": [To](/en/post/to/) [experience](/en/post/experience/) [a](/en/post/a/) [negative](/en/post/negative/) [effect](/en/post/effect/) [or](/en/post/or/) setback.
 
-## Example Sentences
-- **Noun**: "The batter took a mighty swing but missed the hit."
-- **Verb**: "She hit the brakes suddenly to avoid a collision."
-- **Adjective**: "The opening act was a hit with the audience."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) batter took [a](/en/post/a/) mighty [swing](/en/post/swing/) [but](/en/post/but/) missed [the](/en/post/the/) [hit](/en/post/hit/)."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) [hit](/en/post/hit/) [the](/en/post/the/) brakes [suddenly](/en/post/suddenly/) [to](/en/post/to/) [avoid](/en/post/avoid/) [a](/en/post/a/) [collision](/en/post/collision/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [opening](/en/post/opening/) [act](/en/post/act/) was [a](/en/post/a/) [hit](/en/post/hit/) [with](/en/post/with/) [the](/en/post/the/) [audience](/en/post/audience/)."
 
 ## Synonyms
-- Noun: Blow, strike, punch, impact, collision, success
-- Verb: Strike, collide with, touch, reach, affect, accomplish
-- Adjective (as informal usage): Popular, successful, well-received, smash hit
+- [Noun](/en/post/noun/): [Blow](/en/post/blow/), [strike](/en/post/strike/), [punch](/en/post/punch/), [impact](/en/post/impact/), [collision](/en/post/collision/), [success](/en/post/success/)
+- [Verb](/en/post/verb/): [Strike](/en/post/strike/), collide [with](/en/post/with/), [touch](/en/post/touch/), [reach](/en/post/reach/), [affect](/en/post/affect/), [accomplish](/en/post/accomplish/)
+- [Adjective](/en/post/adjective/) ([as](/en/post/as/) informal [usage](/en/post/usage/)): [Popular](/en/post/popular/), [successful](/en/post/successful/), well-received, smash [hit](/en/post/hit/)

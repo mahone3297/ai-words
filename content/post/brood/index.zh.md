@@ -12,20 +12,20 @@ keywords = ['ai words', 'brood']
 
 ## 释义
 - **名词**: 一群雏鸟；一窝；一串（思考的问题）
-    - 例句: "The mother hen was brooding over her brood of chicks."
+    - 例句: "[The](/post/the/) [mother](/post/mother/) [hen](/post/hen/) was brooding [over](/post/over/) [her](/post/her/) [brood](/post/brood/) [of](/post/of/) chicks."
 - **动词**: 孵卵；沉思；忧虑
-    - 例句: "She sat alone, brooding on her past mistakes."
+    - 例句: "[She](/post/she/) sat [alone](/post/alone/), brooding [on](/post/on/) [her](/post/her/) [past](/post/past/) mistakes."
 
 ## 短语
-- "Brood over something" 意味着深思熟虑或长时间思考某事。
-- "Brood of chickens" 指的是一群小鸡。
+- "[Brood](/post/brood/) [over](/post/over/) [something](/post/something/)" 意味着深思熟虑或长时间思考某事。
+- "[Brood](/post/brood/) [of](/post/of/) chickens" 指的是一群小鸡。
 
 ## 例句
-- 名词: "The eagle was watching over its brood from a nearby tree."
-- 动词: "After the argument, he spent the whole day brooding about what had been said."
+- 名词: "[The](/post/the/) [eagle](/post/eagle/) was watching [over](/post/over/) [its](/post/its/) [brood](/post/brood/) [from](/post/from/) [a](/post/a/) [nearby](/post/nearby/) [tree](/post/tree/)."
+- 动词: "[After](/post/after/) [the](/post/the/) [argument](/post/argument/), [he](/post/he/) spent [the](/post/the/) [whole](/post/whole/) [day](/post/day/) brooding [about](/post/about/) [what](/post/what/) had been said."
 
 ## 同义词
-- Flock (名词时)
+- [Flock](/post/flock/) (名词时)
 - Nestlings (名词时)
 - Ponder (动词时)
 - Meditate (动词时)

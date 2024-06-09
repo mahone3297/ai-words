@@ -7,36 +7,36 @@ description = '[ˈkeipəbl] a.有能力的，有才能的'
 keywords = ['ai words', 'capable']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kəˈpæbl/
 
 ## Definitions
-### Adjective
-- **Meaning**: Having the ability, skill, or power to do something; competent or proficient. For example: "The robot is capable of performing complex tasks."
+### [Adjective](/en/post/adjective/)
+- **[Meaning](/en/post/meaning/)**: Having [the](/en/post/the/) [ability](/en/post/ability/), [skill](/en/post/skill/), [or](/en/post/or/) [power](/en/post/power/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/); [competent](/en/post/competent/) [or](/en/post/or/) proficient. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [robot](/en/post/robot/) is [capable](/en/post/capable/) [of](/en/post/of/) performing [complex](/en/post/complex/) tasks."
 - **Antonyms**: Incapable, Incompetent, Unskilled
 
-### Verb
-- **Meaning**: Be able to do or accomplish something; have the capacity or potential to perform an action. For example: "She is capable of learning a new language quickly."
-- **Antonyms**: Unable, Incapable, Incapitated
+### [Verb](/en/post/verb/)
+- **[Meaning](/en/post/meaning/)**: [Be](/en/post/be/) [able](/en/post/able/) [to](/en/post/to/) [do](/en/post/do/) [or](/en/post/or/) [accomplish](/en/post/accomplish/) [something](/en/post/something/); [have](/en/post/have/) [the](/en/post/the/) [capacity](/en/post/capacity/) [or](/en/post/or/) [potential](/en/post/potential/) [to](/en/post/to/) [perform](/en/post/perform/) an [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is [capable](/en/post/capable/) [of](/en/post/of/) [learning](/en/post/learning/) [a](/en/post/a/) [new](/en/post/new/) [language](/en/post/language/) [quickly](/en/post/quickly/)."
+- **Antonyms**: [Unable](/en/post/unable/), Incapable, Incapitated
 
 ## Phrases
-- "Be capable of" expresses the ability to do something. For example: "He is capable of solving complex math problems."
-- "Capable person" refers to someone who has the necessary skills or abilities. For example: "She's a highly capable manager."
-- "Not capable of" negates the ability, like "He isn't capable of lifting that heavy weight."
+- "[Be](/en/post/be/) [capable](/en/post/capable/) [of](/en/post/of/)" expresses [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) is [capable](/en/post/capable/) [of](/en/post/of/) solving [complex](/en/post/complex/) math problems."
+- "[Capable](/en/post/capable/) [person](/en/post/person/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) has [the](/en/post/the/) [necessary](/en/post/necessary/) skills [or](/en/post/or/) abilities. [For](/en/post/for/) [example](/en/post/example/): "She's [a](/en/post/a/) [highly](/en/post/highly/) [capable](/en/post/capable/) manager."
+- "[Not](/en/post/not/) [capable](/en/post/capable/) [of](/en/post/of/)" negates [the](/en/post/the/) [ability](/en/post/ability/), [like](/en/post/like/) "[He](/en/post/he/) isn't [capable](/en/post/capable/) [of](/en/post/of/) lifting [that](/en/post/that/) [heavy](/en/post/heavy/) [weight](/en/post/weight/)."
 
-## Example Sentences
-- **Adjective**: "She is a highly capable musician, able to play multiple instruments."
-- **Verb**: "After months of training, he became capable of running a marathon."
-- **Adverb**: "She demonstrated her capable management by handling the crisis efficiently."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) is [a](/en/post/a/) [highly](/en/post/highly/) [capable](/en/post/capable/) [musician](/en/post/musician/), [able](/en/post/able/) [to](/en/post/to/) [play](/en/post/play/) [multiple](/en/post/multiple/) instruments."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [training](/en/post/training/), [he](/en/post/he/) became [capable](/en/post/capable/) [of](/en/post/of/) running [a](/en/post/a/) marathon."
+- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) demonstrated [her](/en/post/her/) [capable](/en/post/capable/) [management](/en/post/management/) [by](/en/post/by/) handling [the](/en/post/the/) [crisis](/en/post/crisis/) efficiently."
 
 ## Synonyms
-- Able
-- Competent
+- [Able](/en/post/able/)
+- [Competent](/en/post/competent/)
 - Proficient
-- Skilled
+- [Skilled](/en/post/skilled/)
 - Capable-bodied
 - Potent
-- Effective
+- [Effective](/en/post/effective/)
 
 ## Antonyms
 - Incapable

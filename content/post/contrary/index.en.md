@@ -7,33 +7,33 @@ description = '[ˈkɔntrəri] a.相反的 n.相反'
 keywords = ['ai words', 'contrary']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kənˈtrəri/
 
 ## Definitions
-### Adjective
-1. Opposite in nature, direction, or opinion; contradictory. Example: "Their views are quite contrary."
-2. Contrasting with something else; opposing. Example: "The old and the new ideas are contrary to each other."
+### [Adjective](/en/post/adjective/)
+1. [Opposite](/en/post/opposite/) [in](/en/post/in/) [nature](/en/post/nature/), [direction](/en/post/direction/), [or](/en/post/or/) [opinion](/en/post/opinion/); contradictory. [Example](/en/post/example/): "[Their](/en/post/their/) views are [quite](/en/post/quite/) [contrary](/en/post/contrary/)."
+2. Contrasting [with](/en/post/with/) [something](/en/post/something/) [else](/en/post/else/); opposing. [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [and](/en/post/and/) [the](/en/post/the/) [new](/en/post/new/) ideas are [contrary](/en/post/contrary/) [to](/en/post/to/) [each](/en/post/each/) [other](/en/post/other/)."
 
-### Noun
-1. The opposite or reverse of something; the contrary side. Example: "The contrary of success is often failure."
-2. A person who opposes or disagrees with someone else. Example: "He was always arguing with his brother, they were as contrary as could be."
+### [Noun](/en/post/noun/)
+1. [The](/en/post/the/) [opposite](/en/post/opposite/) [or](/en/post/or/) [reverse](/en/post/reverse/) [of](/en/post/of/) [something](/en/post/something/); [the](/en/post/the/) [contrary](/en/post/contrary/) [side](/en/post/side/). [Example](/en/post/example/): "[The](/en/post/the/) [contrary](/en/post/contrary/) [of](/en/post/of/) [success](/en/post/success/) is [often](/en/post/often/) [failure](/en/post/failure/)."
+2. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) opposes [or](/en/post/or/) disagrees [with](/en/post/with/) [someone](/en/post/someone/) [else](/en/post/else/). [Example](/en/post/example/): "[He](/en/post/he/) was [always](/en/post/always/) arguing [with](/en/post/with/) [his](/en/post/his/) [brother](/en/post/brother/), [they](/en/post/they/) were [as](/en/post/as/) [contrary](/en/post/contrary/) [as](/en/post/as/) [could](/en/post/could/) [be](/en/post/be/)."
 
-### Adverb
-1. In a manner that is opposed or contrary. Example: "His actions were contrary to his words."
+### [Adverb](/en/post/adverb/)
+1. [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) is opposed [or](/en/post/or/) [contrary](/en/post/contrary/). [Example](/en/post/example/): "[His](/en/post/his/) actions were [contrary](/en/post/contrary/) [to](/en/post/to/) [his](/en/post/his/) words."
 
 ## Phrases
-- "Contrary to expectations"
-- "Acting contrary to one's nature"
-- "Their behavior was contrary to what was expected"
+- "[Contrary](/en/post/contrary/) [to](/en/post/to/) expectations"
+- "Acting [contrary](/en/post/contrary/) [to](/en/post/to/) one's [nature](/en/post/nature/)"
+- "[Their](/en/post/their/) [behavior](/en/post/behavior/) was [contrary](/en/post/contrary/) [to](/en/post/to/) [what](/en/post/what/) was expected"
 
-## Example Sentences
-- **Adjective**: "Her mood was contrary to her usual cheerful demeanor."
-- **Noun**: "The two siblings have completely contrary personalities."
-- **Adverb**: "Despite his promises, he acted contrary to his word."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [mood](/en/post/mood/) was [contrary](/en/post/contrary/) [to](/en/post/to/) [her](/en/post/her/) [usual](/en/post/usual/) [cheerful](/en/post/cheerful/) demeanor."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [two](/en/post/two/) siblings [have](/en/post/have/) [completely](/en/post/completely/) [contrary](/en/post/contrary/) personalities."
+- **[Adverb](/en/post/adverb/)**: "[Despite](/en/post/despite/) [his](/en/post/his/) promises, [he](/en/post/he/) acted [contrary](/en/post/contrary/) [to](/en/post/to/) [his](/en/post/his/) [word](/en/post/word/)."
 
 ## Synonyms
-- Opposite
+- [Opposite](/en/post/opposite/)
 - Contradictory
 - Opposing
 - Reversed

@@ -12,23 +12,23 @@ keywords = ['ai words', 'generate']
 
 ## 释义
 - **动词**:
-1. 产生；创造。例如: "The solar panel generates electricity from sunlight."
-2. 生产（如能量、想法）。例如: "His creative mind generates new ideas constantly."
-3. 引起；导致。例如: "The discussion generated a lot of controversy."
+1. 产生；创造。例如: "[The](/post/the/) [solar](/post/solar/) [panel](/post/panel/) generates [electricity](/post/electricity/) [from](/post/from/) [sunlight](/post/sunlight/)."
+2. 生产（如能量、想法）。例如: "[His](/post/his/) [creative](/post/creative/) [mind](/post/mind/) generates [new](/post/new/) ideas constantly."
+3. 引起；导致。例如: "[The](/post/the/) [discussion](/post/discussion/) generated [a](/post/a/) [lot](/post/lot/) [of](/post/of/) controversy."
 
 ## 短语
-- "generate ideas" 意为产生想法或创意。
-- "generate income" 表示赚取收入。
-- "generate power" 指发电或产生动力。
+- "[generate](/post/generate/) ideas" 意为产生想法或创意。
+- "[generate](/post/generate/) [income](/post/income/)" 表示赚取收入。
+- "[generate](/post/generate/) [power](/post/power/)" 指发电或产生动力。
 
 ## 例句
-- "The wind farm is designed to generate enough electricity for thousands of homes."
-- "Her positive attitude generates enthusiasm in the team."
-- "Their conversation generated a new plan for the project."
+- "[The](/post/the/) [wind](/post/wind/) [farm](/post/farm/) is designed [to](/post/to/) [generate](/post/generate/) [enough](/post/enough/) [electricity](/post/electricity/) [for](/post/for/) thousands [of](/post/of/) homes."
+- "[Her](/post/her/) [positive](/post/positive/) [attitude](/post/attitude/) generates [enthusiasm](/post/enthusiasm/) [in](/post/in/) [the](/post/the/) [team](/post/team/)."
+- "[Their](/post/their/) [conversation](/post/conversation/) generated [a](/post/a/) [new](/post/new/) [plan](/post/plan/) [for](/post/for/) [the](/post/the/) [project](/post/project/)."
 
 ## 同义词
-- produce
-- create
+- [produce](/post/produce/)
+- [create](/post/create/)
 - originate
-- cause
-- yield
+- [cause](/post/cause/)
+- [yield](/post/yield/)

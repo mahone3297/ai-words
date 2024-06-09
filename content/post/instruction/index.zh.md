@@ -12,21 +12,21 @@ keywords = ['ai words', 'instruction']
 
 ## 释义
 - **名词**: 
-    - 教导，指导：A set of directions or orders for how to do something. 例如: "Follow the instructions on the back of the package."
-    - 课程，教程：A lesson or course of study. 例如: "The students are attending a series of instructions on art history."
-    - 命令，指令：A command given by a computer program to perform a specific task. 例如: "The software sends instructions to the printer to print the document."
+    - 教导，指导：[A](/post/a/) [set](/post/set/) [of](/post/of/) directions [or](/post/or/) orders [for](/post/for/) [how](/post/how/) [to](/post/to/) [do](/post/do/) [something](/post/something/). 例如: "[Follow](/post/follow/) [the](/post/the/) instructions [on](/post/on/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [the](/post/the/) [package](/post/package/)."
+    - 课程，教程：[A](/post/a/) [lesson](/post/lesson/) [or](/post/or/) [course](/post/course/) [of](/post/of/) [study](/post/study/). 例如: "[The](/post/the/) students are attending [a](/post/a/) [series](/post/series/) [of](/post/of/) instructions [on](/post/on/) [art](/post/art/) [history](/post/history/)."
+    - 命令，指令：[A](/post/a/) [command](/post/command/) given [by](/post/by/) [a](/post/a/) [computer](/post/computer/) [program](/post/program/) [to](/post/to/) [perform](/post/perform/) [a](/post/a/) [specific](/post/specific/) [task](/post/task/). 例如: "[The](/post/the/) software sends instructions [to](/post/to/) [the](/post/the/) printer [to](/post/to/) [print](/post/print/) [the](/post/the/) [document](/post/document/)."
 
 ## 短语
-- "Instructions manual" 指的是操作手册或使用指南。
-- "Carry out the instructions" 意味着按照指示行事。
+- "Instructions [manual](/post/manual/)" 指的是操作手册或使用指南。
+- "[Carry](/post/carry/) [out](/post/out/) [the](/post/the/) instructions" 意味着按照指示行事。
 
 ## 例句
-- 名词: "Before using the new appliance, read the instructions carefully."
-- 动词（作动词时通常与"give"或"follow"搭配）: "The teacher gave clear instructions on how to complete the experiment." 
+- 名词: "[Before](/post/before/) using [the](/post/the/) [new](/post/new/) [appliance](/post/appliance/), [read](/post/read/) [the](/post/the/) instructions carefully."
+- 动词（作动词时通常与"[give](/post/give/)"或"[follow](/post/follow/)"搭配）: "[The](/post/the/) [teacher](/post/teacher/) gave [clear](/post/clear/) instructions [on](/post/on/) [how](/post/how/) [to](/post/to/) [complete](/post/complete/) [the](/post/the/) [experiment](/post/experiment/)." 
 
 ## 同义词
 - Directions
 - Guidelines
-- Guidance
+- [Guidance](/post/guidance/)
 - Instructions
-- Directions for use
+- Directions [for](/post/for/) [use](/post/use/)

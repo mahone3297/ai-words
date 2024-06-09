@@ -11,21 +11,21 @@ keywords = ['ai words', 'educate']
 /ˈɛdʒuˈkeɪt/
 
 ## 释义
-- **动词**: 教育；教导；训练。例如: "Parents are responsible for educating their children." 
-- **名词**: 教育；培养。例如: "She has a degree in education."
+- **动词**: 教育；教导；训练。例如: "Parents are [responsible](/post/responsible/) [for](/post/for/) educating [their](/post/their/) children." 
+- **名词**: 教育；培养。例如: "[She](/post/she/) has [a](/post/a/) [degree](/post/degree/) [in](/post/in/) [education](/post/education/)."
 
 ## 短语
-- "Education system" 指的是教育体系。
+- "[Education](/post/education/) [system](/post/system/)" 指的是教育体系。
 - "Self-education" 意味着自学。
-- "继续教育" (continuous education) 是指成年后持续的学习过程。
+- "继续教育" ([continuous](/post/continuous/) [education](/post/education/)) 是指成年后持续的学习过程。
 
 ## 例句
-- 动词: "The school aims to educate students on the importance of environmental conservation."
-- 名词: "He pursued further education after completing his undergraduate studies."
+- 动词: "[The](/post/the/) [school](/post/school/) aims [to](/post/to/) [educate](/post/educate/) students [on](/post/on/) [the](/post/the/) [importance](/post/importance/) [of](/post/of/) environmental [conservation](/post/conservation/)."
+- 名词: "[He](/post/he/) pursued [further](/post/further/) [education](/post/education/) [after](/post/after/) completing [his](/post/his/) [undergraduate](/post/undergraduate/) studies."
 
 ## 同义词
-- Teach
+- [Teach](/post/teach/)
 - Instruct
-- Train
-- School
-- Coach
+- [Train](/post/train/)
+- [School](/post/school/)
+- [Coach](/post/coach/)

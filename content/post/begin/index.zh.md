@@ -11,20 +11,20 @@ keywords = ['ai words', 'begin']
 /bɪˈɡɪn/
 
 ## 释义
-- **动词**: 开始；着手。例如: "I'm going to begin my new job tomorrow."
-- **名词**: 起点；开端。例如: "The beginning of the movie was captivating."
+- **动词**: 开始；着手。例如: "I'm going [to](/post/to/) [begin](/post/begin/) [my](/post/my/) [new](/post/new/) [job](/post/job/) [tomorrow](/post/tomorrow/)."
+- **名词**: 起点；开端。例如: "[The](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [the](/post/the/) [movie](/post/movie/) was captivating."
 
 ## 短语
-- "to begin with" 表示开始时或首先。例如: "To begin with, let's introduce ourselves."
-- "at the beginning of" 指在...的开始。例如: "We'll discuss this topic at the beginning of the meeting."
+- "[to](/post/to/) [begin](/post/begin/) [with](/post/with/)" 表示开始时或首先。例如: "[To](/post/to/) [begin](/post/begin/) [with](/post/with/), let's [introduce](/post/introduce/) [ourselves](/post/ourselves/)."
+- "[at](/post/at/) [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/)" 指在...的开始。例如: "We'll [discuss](/post/discuss/) [this](/post/this/) [topic](/post/topic/) [at](/post/at/) [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [the](/post/the/) [meeting](/post/meeting/)."
 
 ## 例句
-- 动词: "She began painting when she was just five years old."
-- 名词: "This is just the beginning of our journey together."
+- 动词: "[She](/post/she/) began [painting](/post/painting/) [when](/post/when/) [she](/post/she/) was [just](/post/just/) [five](/post/five/) years [old](/post/old/)."
+- 名词: "[This](/post/this/) is [just](/post/just/) [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [our](/post/our/) [journey](/post/journey/) [together](/post/together/)."
 
 ## 同义词
-- start
+- [start](/post/start/)
 - commence
 - initiate
-- launch
-- set out
+- [launch](/post/launch/)
+- [set](/post/set/) [out](/post/out/)

@@ -11,19 +11,19 @@ keywords = ['ai words', 'Italian']
 /ɪtəˈliən/
 
 ## 释义
-- **形容词**: 意大利的；意大利人的；意大利语的。例如: "She loves Italian cuisine."
-- **名词**: 意大利人；意大利语。例如: "He is an Italian living in New York."
-- **名词 (文化、艺术)**: 意大利风格的艺术、文化和设计。例如: "The painting is in the Italian Renaissance style."
+- **形容词**: 意大利的；意大利人的；意大利语的。例如: "[She](/post/she/) loves Italian cuisine."
+- **名词**: 意大利人；意大利语。例如: "[He](/post/he/) is an Italian [living](/post/living/) [in](/post/in/) [New](/post/new/) York."
+- **名词 (文化、艺术)**: 意大利风格的艺术、文化和设计。例如: "[The](/post/the/) [painting](/post/painting/) is [in](/post/in/) [the](/post/the/) Italian Renaissance [style](/post/style/)."
 
 ## 短语
-- "Italian restaurant" 意大利餐厅
-- "Italian leather" 意大利皮革，以其高质量闻名
-- "Italian opera" 意大利歌剧，世界著名的歌剧形式
+- "Italian [restaurant](/post/restaurant/)" 意大利餐厅
+- "Italian [leather](/post/leather/)" 意大利皮革，以其高质量闻名
+- "Italian [opera](/post/opera/)" 意大利歌剧，世界著名的歌剧形式
 
 ## 例句
-- 形容词: "We had a delicious Italian meal at the new restaurant downtown."
-- 名词: "He speaks fluent Italian and often travels to Italy for work."
-- 文化、艺术: "The Sistine Chapel is a masterpiece of Italian art."
+- 形容词: "[We](/post/we/) had [a](/post/a/) [delicious](/post/delicious/) Italian [meal](/post/meal/) [at](/post/at/) [the](/post/the/) [new](/post/new/) [restaurant](/post/restaurant/) downtown."
+- 名词: "[He](/post/he/) speaks [fluent](/post/fluent/) Italian [and](/post/and/) [often](/post/often/) travels [to](/post/to/) Italy [for](/post/for/) [work](/post/work/)."
+- 文化、艺术: "[The](/post/the/) Sistine Chapel is [a](/post/a/) [masterpiece](/post/masterpiece/) [of](/post/of/) Italian [art](/post/art/)."
 
 ## 同义词
 - Italianic

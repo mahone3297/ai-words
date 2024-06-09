@@ -7,42 +7,42 @@ description = '[spiːk] vi.说话；发言 vt.说'
 keywords = ['ai words', 'speak']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /speɪk/
 
 ## Definitions
-### Noun
-A noun referring to the act or ability to express oneself verbally, typically using words or sounds. **Example**: "Public speaking is a valuable skill to have."
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) [express](/en/post/express/) [oneself](/en/post/oneself/) verbally, typically using words [or](/en/post/or/) sounds. **[Example](/en/post/example/)**: "[Public](/en/post/public/) speaking is [a](/en/post/a/) [valuable](/en/post/valuable/) [skill](/en/post/skill/) [to](/en/post/to/) [have](/en/post/have/)."
 
-### Verb
-1. To articulate words or sounds in order to convey thoughts or information. **Example**: "She will speak at the conference tomorrow."
-2. To express one's opinion or feelings on a topic. **Example**: "The teacher asked the students to speak up if they had any questions."
-3. To act or perform in a particular role or capacity. **Example**: "He spoke as the representative of his company."
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) articulate words [or](/en/post/or/) sounds [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [convey](/en/post/convey/) thoughts [or](/en/post/or/) [information](/en/post/information/). **[Example](/en/post/example/)**: "[She](/en/post/she/) [will](/en/post/will/) [speak](/en/post/speak/) [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/) [tomorrow](/en/post/tomorrow/)."
+2. [To](/en/post/to/) [express](/en/post/express/) one's [opinion](/en/post/opinion/) [or](/en/post/or/) feelings [on](/en/post/on/) [a](/en/post/a/) [topic](/en/post/topic/). **[Example](/en/post/example/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [the](/en/post/the/) students [to](/en/post/to/) [speak](/en/post/speak/) [up](/en/post/up/) [if](/en/post/if/) [they](/en/post/they/) had [any](/en/post/any/) questions."
+3. [To](/en/post/to/) [act](/en/post/act/) [or](/en/post/or/) [perform](/en/post/perform/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [role](/en/post/role/) [or](/en/post/or/) [capacity](/en/post/capacity/). **[Example](/en/post/example/)**: "[He](/en/post/he/) spoke [as](/en/post/as/) [the](/en/post/the/) [representative](/en/post/representative/) [of](/en/post/of/) [his](/en/post/his/) [company](/en/post/company/)."
 
-### Adjective
-Referring to the quality of being spoken or uttered. **Example**: "The language is spoken by millions of people worldwide."
+### [Adjective](/en/post/adjective/)
+Referring [to](/en/post/to/) [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) spoken [or](/en/post/or/) uttered. **[Example](/en/post/example/)**: "[The](/en/post/the/) [language](/en/post/language/) is spoken [by](/en/post/by/) millions [of](/en/post/of/) [people](/en/post/people/) worldwide."
 
-### Adverb
-In the context of communication, it can describe how someone speaks, e.g., softly, fluently, or hesitantly. **Example**: "She speaks English fluently after living abroad for years."
+### [Adverb](/en/post/adverb/)
+[In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [communication](/en/post/communication/), [it](/en/post/it/) [can](/en/post/can/) [describe](/en/post/describe/) [how](/en/post/how/) [someone](/en/post/someone/) speaks, e.g., [softly](/en/post/softly/), fluently, [or](/en/post/or/) hesitantly. **[Example](/en/post/example/)**: "[She](/en/post/she/) speaks English fluently [after](/en/post/after/) [living](/en/post/living/) [abroad](/en/post/abroad/) [for](/en/post/for/) years."
 
 ## Phrases
-- "Speak up" means to raise one's voice or express oneself clearly.
-- "Speak out" encourages someone to express their views openly.
-- "Speak with confidence" suggests having a strong, assured manner when speaking.
+- "[Speak](/en/post/speak/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) [raise](/en/post/raise/) one's [voice](/en/post/voice/) [or](/en/post/or/) [express](/en/post/express/) [oneself](/en/post/oneself/) [clearly](/en/post/clearly/).
+- "[Speak](/en/post/speak/) [out](/en/post/out/)" encourages [someone](/en/post/someone/) [to](/en/post/to/) [express](/en/post/express/) [their](/en/post/their/) views openly.
+- "[Speak](/en/post/speak/) [with](/en/post/with/) [confidence](/en/post/confidence/)" suggests having [a](/en/post/a/) [strong](/en/post/strong/), assured [manner](/en/post/manner/) [when](/en/post/when/) speaking.
 
-## Example Sentences
-- **Noun**: "The lecture was about the art of public speaking."
-- **Verb**: "She spoke her mind without fear of consequences."
-- **Adjective**: "The ancient language is no longer commonly spoken."
-- **Adverb**: "He speaks softly, which helps him connect with his audience."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [lecture](/en/post/lecture/) was [about](/en/post/about/) [the](/en/post/the/) [art](/en/post/art/) [of](/en/post/of/) [public](/en/post/public/) speaking."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) spoke [her](/en/post/her/) [mind](/en/post/mind/) [without](/en/post/without/) [fear](/en/post/fear/) [of](/en/post/of/) consequences."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [language](/en/post/language/) is [no](/en/post/no/) longer [commonly](/en/post/commonly/) spoken."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) speaks [softly](/en/post/softly/), [which](/en/post/which/) helps [him](/en/post/him/) [connect](/en/post/connect/) [with](/en/post/with/) [his](/en/post/his/) [audience](/en/post/audience/)."
 
 ## Synonyms
-- Talk
-- Express
-- Utter
+- [Talk](/en/post/talk/)
+- [Express](/en/post/express/)
+- [Utter](/en/post/utter/)
 - Enunciate
 - Vocalize
-- Communicate
-- Declare
+- [Communicate](/en/post/communicate/)
+- [Declare](/en/post/declare/)
 - Assert
-- State
+- [State](/en/post/state/)

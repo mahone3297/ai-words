@@ -7,33 +7,33 @@ description = '[ˈmembə] n.成员，会员'
 keywords = ['ai words', 'member']
 +++
 
-## Word: Member
+## [Word](/en/post/word/): [Member](/en/post/member/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈmembər/
 
 ## Definitions
-- **Noun**: A person who belongs to a group or organization; a constituent part or element of something larger. For example: "She is an active member of the local book club."
-- **Noun**: In anatomy, a limb or organ that is part of the body. For instance: "The leg is a lower limb member."
-- **Noun**: In mathematics or logic, an element of a set or class. Example: "Each number in the sequence is a member of the set of real numbers."
-- **Verb (used with 'be')**: To belong to a group, organization, or category. Example: "He is a member of the Senate."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) belongs [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [or](/en/post/or/) [organization](/en/post/organization/); [a](/en/post/a/) constituent [part](/en/post/part/) [or](/en/post/or/) [element](/en/post/element/) [of](/en/post/of/) [something](/en/post/something/) larger. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) is an [active](/en/post/active/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) [local](/en/post/local/) [book](/en/post/book/) [club](/en/post/club/)."
+- **[Noun](/en/post/noun/)**: [In](/en/post/in/) anatomy, [a](/en/post/a/) [limb](/en/post/limb/) [or](/en/post/or/) [organ](/en/post/organ/) [that](/en/post/that/) is [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [body](/en/post/body/). [For](/en/post/for/) [instance](/en/post/instance/): "[The](/en/post/the/) [leg](/en/post/leg/) is [a](/en/post/a/) [lower](/en/post/lower/) [limb](/en/post/limb/) [member](/en/post/member/)."
+- **[Noun](/en/post/noun/)**: [In](/en/post/in/) [mathematics](/en/post/mathematics/) [or](/en/post/or/) [logic](/en/post/logic/), an [element](/en/post/element/) [of](/en/post/of/) [a](/en/post/a/) [set](/en/post/set/) [or](/en/post/or/) [class](/en/post/class/). [Example](/en/post/example/): "[Each](/en/post/each/) [number](/en/post/number/) [in](/en/post/in/) [the](/en/post/the/) [sequence](/en/post/sequence/) is [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) [set](/en/post/set/) [of](/en/post/of/) [real](/en/post/real/) numbers."
+- **[Verb](/en/post/verb/) ([used](/en/post/used/) [with](/en/post/with/) '[be](/en/post/be/)')**: [To](/en/post/to/) [belong](/en/post/belong/) [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/), [organization](/en/post/organization/), [or](/en/post/or/) category. [Example](/en/post/example/): "[He](/en/post/he/) is [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) [Senate](/en/post/senate/)."
 
 ## Phrases
-- "Full member": A person who has full rights and privileges within a group.
-- "Honorary member": A title given to someone who is not a regular member but is recognized for their contributions.
-- "Membership dues": The fees paid by members to join or maintain their status in a club or organization.
-- "Member state/country": A nation that is part of a larger organization such as the European Union.
+- "[Full](/en/post/full/) [member](/en/post/member/)": [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) has [full](/en/post/full/) rights [and](/en/post/and/) privileges [within](/en/post/within/) [a](/en/post/a/) [group](/en/post/group/).
+- "Honorary [member](/en/post/member/)": [A](/en/post/a/) [title](/en/post/title/) given [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is [not](/en/post/not/) [a](/en/post/a/) [regular](/en/post/regular/) [member](/en/post/member/) [but](/en/post/but/) is recognized [for](/en/post/for/) [their](/en/post/their/) contributions.
+- "Membership dues": [The](/en/post/the/) fees paid [by](/en/post/by/) members [to](/en/post/to/) [join](/en/post/join/) [or](/en/post/or/) [maintain](/en/post/maintain/) [their](/en/post/their/) [status](/en/post/status/) [in](/en/post/in/) [a](/en/post/a/) [club](/en/post/club/) [or](/en/post/or/) [organization](/en/post/organization/).
+- "[Member](/en/post/member/) [state](/en/post/state/)/[country](/en/post/country/)": [A](/en/post/a/) [nation](/en/post/nation/) [that](/en/post/that/) is [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) larger [organization](/en/post/organization/) [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) European [Union](/en/post/union/).
 
-## Example Sentences
-- **Noun (organization)**: "As a new member, he attended his first meeting of the chess club."
-- **Noun (anatomy)**: "The injured member required immediate medical attention."
-- **Verb**: "She has been a member of the choir since childhood."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/) ([organization](/en/post/organization/))**: "[As](/en/post/as/) [a](/en/post/a/) [new](/en/post/new/) [member](/en/post/member/), [he](/en/post/he/) attended [his](/en/post/his/) [first](/en/post/first/) [meeting](/en/post/meeting/) [of](/en/post/of/) [the](/en/post/the/) [chess](/en/post/chess/) [club](/en/post/club/)."
+- **[Noun](/en/post/noun/) (anatomy)**: "[The](/en/post/the/) injured [member](/en/post/member/) required [immediate](/en/post/immediate/) [medical](/en/post/medical/) [attention](/en/post/attention/)."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) has been [a](/en/post/a/) [member](/en/post/member/) [of](/en/post/of/) [the](/en/post/the/) choir [since](/en/post/since/) [childhood](/en/post/childhood/)."
 
 ## Synonyms
 - Affiliate
-- Associate
+- [Associate](/en/post/associate/)
 - Participant
 - Constituent
-- Component
-- Member of staff (in an organizational context)
-- Limb (in an anatomical context)
+- [Component](/en/post/component/)
+- [Member](/en/post/member/) [of](/en/post/of/) [staff](/en/post/staff/) ([in](/en/post/in/) an organizational context)
+- [Limb](/en/post/limb/) ([in](/en/post/in/) an anatomical context)

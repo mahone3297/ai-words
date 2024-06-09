@@ -12,24 +12,24 @@ keywords = ['ai words', 'transmit']
 
 ## 释义
 - **动词**:
-1. 传输；传递：例如 "The radio station transmits its signal over long distances."
-2. 发送；播送：例如 "The TV channel transmits news bulletins every hour."
-3. 传播（疾病）：例如 "It is possible to transmit an infection through contaminated food."
-4. 遗传（特征）：例如 "Some traits can be transmitted from parents to offspring."
+1. 传输；传递：例如 "[The](/post/the/) [radio](/post/radio/) [station](/post/station/) transmits [its](/post/its/) [signal](/post/signal/) [over](/post/over/) [long](/post/long/) distances."
+2. 发送；播送：例如 "[The](/post/the/) TV [channel](/post/channel/) transmits [news](/post/news/) bulletins [every](/post/every/) [hour](/post/hour/)."
+3. 传播（疾病）：例如 "[It](/post/it/) is [possible](/post/possible/) [to](/post/to/) [transmit](/post/transmit/) an infection [through](/post/through/) contaminated [food](/post/food/)."
+4. 遗传（特征）：例如 "[Some](/post/some/) traits [can](/post/can/) [be](/post/be/) transmitted [from](/post/from/) parents [to](/post/to/) offspring."
 
 ## 短语
-- "transmit data" 意为发送数据。
-- "transmit information" 表示传递信息。
-- "transmit a virus" 指传播病毒。
+- "[transmit](/post/transmit/) [data](/post/data/)" 意为发送数据。
+- "[transmit](/post/transmit/) [information](/post/information/)" 表示传递信息。
+- "[transmit](/post/transmit/) [a](/post/a/) virus" 指传播病毒。
 
 ## 例句
 - 动词: 
-  - "The satellite transmits live footage of the event to viewers worldwide."
-  - "Doctors are concerned about how quickly this virus can transmit between people."
+  - "[The](/post/the/) [satellite](/post/satellite/) transmits [live](/post/live/) footage [of](/post/of/) [the](/post/the/) [event](/post/event/) [to](/post/to/) viewers worldwide."
+  - "Doctors are concerned [about](/post/about/) [how](/post/how/) [quickly](/post/quickly/) [this](/post/this/) virus [can](/post/can/) [transmit](/post/transmit/) [between](/post/between/) [people](/post/people/)."
 
 ## 同义词
-- convey
-- pass on
-- communicate
+- [convey](/post/convey/)
+- [pass](/post/pass/) [on](/post/on/)
+- [communicate](/post/communicate/)
 - dispatch
-- broadcast
+- [broadcast](/post/broadcast/)

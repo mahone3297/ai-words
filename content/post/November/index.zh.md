@@ -14,12 +14,12 @@ keywords = ['ai words', 'November']
 - **名词 (n)**: 一年中的第十一个月。
 
 ## 短语
-- "In November" 表示在十一月期间。
+- "[In](/post/in/) November" 表示在十一月期间。
 - "November skies" 常用来描述十一月的天空。
 
 ## 例句
-- "My birthday is in November, right before Thanksgiving."
-- "The leaves fall from the trees in November, painting the landscape with warm colors."
+- "[My](/post/my/) [birthday](/post/birthday/) is [in](/post/in/) November, [right](/post/right/) [before](/post/before/) Thanksgiving."
+- "[The](/post/the/) leaves [fall](/post/fall/) [from](/post/from/) [the](/post/the/) trees [in](/post/in/) November, [painting](/post/painting/) [the](/post/the/) landscape [with](/post/with/) [warm](/post/warm/) colors."
 
 ## 同义词
 - 十一月

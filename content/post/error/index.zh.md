@@ -12,20 +12,20 @@ keywords = ['ai words', 'error']
 
 ## 释义
 - **名词**:
-   - 错误，不正确，偏差。例如: "There's an error in your calculation."
-   - 异常，故障。例如: "The computer system encountered an error and shut down."
+   - 错误，不正确，偏差。例如: "There's an [error](/post/error/) [in](/post/in/) [your](/post/your/) [calculation](/post/calculation/)."
+   - 异常，故障。例如: "[The](/post/the/) [computer](/post/computer/) [system](/post/system/) encountered an [error](/post/error/) [and](/post/and/) [shut](/post/shut/) [down](/post/down/)."
 
 ## 短语
-- "Error message" 指计算机或其他系统显示的错误信息。
-- "Margin of error" 在统计学中指估算值可能偏离真实值的范围。
+- "[Error](/post/error/) [message](/post/message/)" 指计算机或其他系统显示的错误信息。
+- "[Margin](/post/margin/) [of](/post/of/) [error](/post/error/)" 在统计学中指估算值可能偏离真实值的范围。
 
 ## 例句
-- 名词: "Please check your form for any typing errors before submitting it."
-- "The software displayed an error code that I couldn't understand."
+- 名词: "[Please](/post/please/) [check](/post/check/) [your](/post/your/) [form](/post/form/) [for](/post/for/) [any](/post/any/) typing errors [before](/post/before/) submitting [it](/post/it/)."
+- "[The](/post/the/) software displayed an [error](/post/error/) [code](/post/code/) [that](/post/that/) I couldn't [understand](/post/understand/)."
 
 ## 同义词
-- Mistake
-- Fault
+- [Mistake](/post/mistake/)
+- [Fault](/post/fault/)
 - Flaw
 - Inaccuracy
 - Blunder

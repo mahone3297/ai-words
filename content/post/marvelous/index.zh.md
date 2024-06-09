@@ -11,20 +11,20 @@ keywords = ['ai words', 'marvelous']
 /məˈrævələs/
 
 ## 释义
-- **形容词**: 极好的，令人惊叹的，非凡的。例如: "The view from the mountain top was simply marvelous."
-- **副词**: 非常，极其。例如: "She played the piano marvelously well."
+- **形容词**: 极好的，令人惊叹的，非凡的。例如: "[The](/post/the/) [view](/post/view/) [from](/post/from/) [the](/post/the/) [mountain](/post/mountain/) [top](/post/top/) was [simply](/post/simply/) [marvelous](/post/marvelous/)."
+- **副词**: 非常，极其。例如: "[She](/post/she/) played [the](/post/the/) [piano](/post/piano/) marvelously [well](/post/well/)."
 
 ## 短语
-- "marvelous achievement" 意为卓越的成就。
-- "marvelous performance" 指的是出色的表演。
+- "[marvelous](/post/marvelous/) [achievement](/post/achievement/)" 意为卓越的成就。
+- "[marvelous](/post/marvelous/) [performance](/post/performance/)" 指的是出色的表演。
 
 ## 例句
-- 形容词: "The artist's work is truly marvelous, showcasing incredible detail and skill."
-- 副词: "She sang with a marvelous voice that captivated the entire audience."
+- 形容词: "[The](/post/the/) artist's [work](/post/work/) is [truly](/post/truly/) [marvelous](/post/marvelous/), showcasing incredible [detail](/post/detail/) [and](/post/and/) [skill](/post/skill/)."
+- 副词: "[She](/post/she/) sang [with](/post/with/) [a](/post/a/) [marvelous](/post/marvelous/) [voice](/post/voice/) [that](/post/that/) captivated [the](/post/the/) [entire](/post/entire/) [audience](/post/audience/)."
 
 ## 同义词
-- Wonderful
+- [Wonderful](/post/wonderful/)
 - Amazing
 - Incredible
 - Astonishing
-- Impressive
+- [Impressive](/post/impressive/)

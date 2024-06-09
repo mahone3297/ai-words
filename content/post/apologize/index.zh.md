@@ -11,20 +11,20 @@ keywords = ['ai words', 'apologize']
 /əpˈoʊlədʒaɪz/
 
 ## 释义
-- **动词**: 向某人表示歉意或承认错误。例如: "I apologized to my friend for being late."
-- **名词**: 道歉的行为或表达歉意的话语。例如: "He made an apology for his rude behavior."
+- **动词**: 向某人表示歉意或承认错误。例如: "I apologized [to](/post/to/) [my](/post/my/) [friend](/post/friend/) [for](/post/for/) [being](/post/being/) [late](/post/late/)."
+- **名词**: 道歉的行为或表达歉意的话语。例如: "[He](/post/he/) made an [apology](/post/apology/) [for](/post/for/) [his](/post/his/) [rude](/post/rude/) [behavior](/post/behavior/)."
 
 ## 短语
-- "Apologize for something" 意为为某事道歉。
-- "Make amends" 表示弥补错误或通过行动来道歉。
+- "[Apologize](/post/apologize/) [for](/post/for/) [something](/post/something/)" 意为为某事道歉。
+- "[Make](/post/make/) amends" 表示弥补错误或通过行动来道歉。
 
 ## 例句
-- 动词: "I had to apologize to my boss for missing the meeting."
-- 名词: "His apology seemed sincere, but actions speak louder than words."
+- 动词: "I had [to](/post/to/) [apologize](/post/apologize/) [to](/post/to/) [my](/post/my/) [boss](/post/boss/) [for](/post/for/) [missing](/post/missing/) [the](/post/the/) [meeting](/post/meeting/)."
+- 名词: "[His](/post/his/) [apology](/post/apology/) seemed [sincere](/post/sincere/), [but](/post/but/) actions [speak](/post/speak/) louder [than](/post/than/) words."
 
 ## 同义词
-- Say sorry
-- Express regret
-- Make an excuse
-- Apologise (UK spelling)
-- Beg pardon
+- [Say](/post/say/) [sorry](/post/sorry/)
+- [Express](/post/express/) [regret](/post/regret/)
+- [Make](/post/make/) an [excuse](/post/excuse/)
+- Apologise (UK [spelling](/post/spelling/))
+- [Beg](/post/beg/) [pardon](/post/pardon/)

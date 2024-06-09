@@ -11,23 +11,23 @@ keywords = ['ai words', 'farewell']
 /fərˈwel/
 
 ## 释义
-- **名词**: 分别时说的话或表达，通常表示告别和祝福。例如: "They exchanged farewells before leaving for their separate journeys."
-- **动词**: 向某人道别。例如: "We farewell our dear friend with heavy hearts."
-- **形容词**: 用于表示告别的。例如: "The farewell party was a bittersweet occasion."
+- **名词**: 分别时说的话或表达，通常表示告别和祝福。例如: "[They](/post/they/) exchanged farewells [before](/post/before/) leaving [for](/post/for/) [their](/post/their/) [separate](/post/separate/) journeys."
+- **动词**: 向某人道别。例如: "[We](/post/we/) [farewell](/post/farewell/) [our](/post/our/) [dear](/post/dear/) [friend](/post/friend/) [with](/post/with/) [heavy](/post/heavy/) hearts."
+- **形容词**: 用于表示告别的。例如: "[The](/post/the/) [farewell](/post/farewell/) [party](/post/party/) was [a](/post/a/) bittersweet [occasion](/post/occasion/)."
 
 ## 短语
-- "Farewell speech" 指告别演讲。
-- "Farewell tour" 通常指音乐家、运动员等进行的最后一轮巡演。
-- "Farewell dinner" 是为即将离开的人举办的告别晚宴。
+- "[Farewell](/post/farewell/) [speech](/post/speech/)" 指告别演讲。
+- "[Farewell](/post/farewell/) [tour](/post/tour/)" 通常指音乐家、运动员等进行的最后一轮巡演。
+- "[Farewell](/post/farewell/) [dinner](/post/dinner/)" 是为即将离开的人举办的告别晚宴。
 
 ## 例句
-- 名词: "At the end of the semester, we organized a farewell party for the graduating students."
-- 动词: "Before he left, he took time to personally farewell each team member."
-- 形容词: "It was a farewell performance that left the audience in tears."
+- 名词: "[At](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [semester](/post/semester/), [we](/post/we/) organized [a](/post/a/) [farewell](/post/farewell/) [party](/post/party/) [for](/post/for/) [the](/post/the/) graduating students."
+- 动词: "[Before](/post/before/) [he](/post/he/) [left](/post/left/), [he](/post/he/) took [time](/post/time/) [to](/post/to/) personally [farewell](/post/farewell/) [each](/post/each/) [team](/post/team/) [member](/post/member/)."
+- 形容词: "[It](/post/it/) was [a](/post/a/) [farewell](/post/farewell/) [performance](/post/performance/) [that](/post/that/) [left](/post/left/) [the](/post/the/) [audience](/post/audience/) [in](/post/in/) tears."
 
 ## 同义词
-- Goodbye
+- [Goodbye](/post/goodbye/)
 - Adieu
-- So long
-- Departure
+- [So](/post/so/) [long](/post/long/)
+- [Departure](/post/departure/)
 - Leave-taking

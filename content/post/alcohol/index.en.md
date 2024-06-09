@@ -7,56 +7,56 @@ description = '[ˈælkəhɔl] n.酒精，乙醇'
 keywords = ['ai words', 'alcohol']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈælkəhɒl/
 
 ## Definitions
-### Noun
-**1.** A colorless, transparent, flammable liquid that is produced by the fermentation of sugars or other substances, widely used as a solvent, antiseptic, and in the production of alcoholic beverages.
-   - Example: "Alcohol is a central component of many social gatherings."
-   - Synonyms: ethanol, spirits, liquor, drink, intoxicant
+### [Noun](/en/post/noun/)
+**1.** [A](/en/post/a/) colorless, [transparent](/en/post/transparent/), flammable [liquid](/en/post/liquid/) [that](/en/post/that/) is produced [by](/en/post/by/) [the](/en/post/the/) fermentation [of](/en/post/of/) sugars [or](/en/post/or/) [other](/en/post/other/) substances, [widely](/en/post/widely/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) solvent, antiseptic, [and](/en/post/and/) [in](/en/post/in/) [the](/en/post/the/) [production](/en/post/production/) [of](/en/post/of/) alcoholic beverages.
+   - [Example](/en/post/example/): "[Alcohol](/en/post/alcohol/) is [a](/en/post/a/) [central](/en/post/central/) [component](/en/post/component/) [of](/en/post/of/) [many](/en/post/many/) [social](/en/post/social/) gatherings."
+   - Synonyms: ethanol, spirits, [liquor](/en/post/liquor/), [drink](/en/post/drink/), intoxicant
 
-**2.** The state or quality of being under the influence of alcohol.
-   - Example: "He was too drunk to drive home."
+**2.** [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [under](/en/post/under/) [the](/en/post/the/) [influence](/en/post/influence/) [of](/en/post/of/) [alcohol](/en/post/alcohol/).
+   - [Example](/en/post/example/): "[He](/en/post/he/) was [too](/en/post/too/) [drunk](/en/post/drunk/) [to](/en/post/to/) [drive](/en/post/drive/) [home](/en/post/home/)."
    - Synonyms: intoxication, inebriation, drunkenness, buzz, tipsiness
 
-**3.** (Chemistry) Any of a class of organic compounds containing the hydroxyl group (-OH) bonded to a saturated carbon atom.
-   - Example: "Alcohols can be classified into primary, secondary, and tertiary based on the number of alkyl groups attached to the hydroxyl group."
+**3.** ([Chemistry](/en/post/chemistry/)) [Any](/en/post/any/) [of](/en/post/of/) [a](/en/post/a/) [class](/en/post/class/) [of](/en/post/of/) [organic](/en/post/organic/) compounds containing [the](/en/post/the/) hydroxyl [group](/en/post/group/) (-[OH](/en/post/oh/)) bonded [to](/en/post/to/) [a](/en/post/a/) saturated [carbon](/en/post/carbon/) [atom](/en/post/atom/).
+   - [Example](/en/post/example/): "Alcohols [can](/en/post/can/) [be](/en/post/be/) classified [into](/en/post/into/) [primary](/en/post/primary/), [secondary](/en/post/secondary/), [and](/en/post/and/) tertiary based [on](/en/post/on/) [the](/en/post/the/) [number](/en/post/number/) [of](/en/post/of/) alkyl groups attached [to](/en/post/to/) [the](/en/post/the/) hydroxyl [group](/en/post/group/)."
    - Synonym: alchol
 
-### Verb
-To consume or use alcohol, often in excess.
-   - Example: "People usually drink alcohol to relax or celebrate."
-   - Synonym: imbibe, consume, partake
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) [consume](/en/post/consume/) [or](/en/post/or/) [use](/en/post/use/) [alcohol](/en/post/alcohol/), [often](/en/post/often/) [in](/en/post/in/) [excess](/en/post/excess/).
+   - [Example](/en/post/example/): "[People](/en/post/people/) [usually](/en/post/usually/) [drink](/en/post/drink/) [alcohol](/en/post/alcohol/) [to](/en/post/to/) [relax](/en/post/relax/) [or](/en/post/or/) [celebrate](/en/post/celebrate/)."
+   - Synonym: imbibe, [consume](/en/post/consume/), partake
 
-### Adjective
-Referring to the presence or content of alcohol.
-   - Example: "The restaurant serves non-alcoholic beverages."
+### [Adjective](/en/post/adjective/)
+Referring [to](/en/post/to/) [the](/en/post/the/) [presence](/en/post/presence/) [or](/en/post/or/) [content](/en/post/content/) [of](/en/post/of/) [alcohol](/en/post/alcohol/).
+   - [Example](/en/post/example/): "[The](/en/post/the/) [restaurant](/en/post/restaurant/) serves non-alcoholic beverages."
    - Synonym: alcoholic
 
-### Adverb
-In a manner involving or involving alcohol.
-   - Example: "He drank heavily all night."
+### [Adverb](/en/post/adverb/)
+[In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) involving [or](/en/post/or/) involving [alcohol](/en/post/alcohol/).
+   - [Example](/en/post/example/): "[He](/en/post/he/) drank [heavily](/en/post/heavily/) [all](/en/post/all/) [night](/en/post/night/)."
    - Synonym: excessively
 
 ## Phrases
-- "Moderate alcohol consumption" refers to适量饮酒。
-- "Alcohol-free zones" are designated areas where alcohol is prohibited.
-- "Alcohol dependency" is a chronic condition characterized by compulsive drinking.
+- "[Moderate](/en/post/moderate/) [alcohol](/en/post/alcohol/) [consumption](/en/post/consumption/)" refers to适量饮酒。
+- "Alcohol-free zones" are designated areas [where](/en/post/where/) [alcohol](/en/post/alcohol/) is prohibited.
+- "[Alcohol](/en/post/alcohol/) dependency" is [a](/en/post/a/) chronic [condition](/en/post/condition/) characterized [by](/en/post/by/) compulsive drinking.
 
-## Example Sentences
-- **Noun**: "She poured herself a glass of alcohol to unwind after work."
-- **Verb**: "The doctor recommended he limit his alcohol intake to prevent liver damage."
-- **Adjective**: "The pharmacy stocks a variety of non-alcoholic medications."
-- **Adverb**: "He drove home carefully, despite the alcohol at the party."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) poured [herself](/en/post/herself/) [a](/en/post/a/) [glass](/en/post/glass/) [of](/en/post/of/) [alcohol](/en/post/alcohol/) [to](/en/post/to/) unwind [after](/en/post/after/) [work](/en/post/work/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [doctor](/en/post/doctor/) recommended [he](/en/post/he/) [limit](/en/post/limit/) [his](/en/post/his/) [alcohol](/en/post/alcohol/) intake [to](/en/post/to/) [prevent](/en/post/prevent/) [liver](/en/post/liver/) [damage](/en/post/damage/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) pharmacy stocks [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) non-alcoholic medications."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) drove [home](/en/post/home/) carefully, [despite](/en/post/despite/) [the](/en/post/the/) [alcohol](/en/post/alcohol/) [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/)."
 
 ## Synonyms
-- Alcoholics Anonymous (an organization)
+- Alcoholics Anonymous (an [organization](/en/post/organization/))
 - Intoxication
 - Inebriation
 - Liqueur
 - Rum
 - Whiskey
 - Gin
-- Beer
-- Wine (for alcoholic beverages)
+- [Beer](/en/post/beer/)
+- [Wine](/en/post/wine/) ([for](/en/post/for/) alcoholic beverages)

@@ -7,33 +7,33 @@ description = '[wi∫] vt.祝；想要 n.希望'
 keywords = ['ai words', 'wish']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /wɪʃ/
 
 ## Definitions
-### Noun
-- **wish**: A strong desire or hope for something to happen, often unattainable or hypothetical. For example: "I wished for a magic wand to make my problems go away."
-- **Wishful thinking**: The tendency to believe that one's desires will come true, regardless of the likelihood. For example: "She clung to the wishful thinking that her lottery ticket would win."
+### [Noun](/en/post/noun/)
+- **[wish](/en/post/wish/)**: [A](/en/post/a/) [strong](/en/post/strong/) [desire](/en/post/desire/) [or](/en/post/or/) [hope](/en/post/hope/) [for](/en/post/for/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/), [often](/en/post/often/) unattainable [or](/en/post/or/) hypothetical. [For](/en/post/for/) [example](/en/post/example/): "I wished [for](/en/post/for/) [a](/en/post/a/) [magic](/en/post/magic/) wand [to](/en/post/to/) [make](/en/post/make/) [my](/en/post/my/) problems [go](/en/post/go/) [away](/en/post/away/)."
+- **Wishful thinking**: [The](/en/post/the/) [tendency](/en/post/tendency/) [to](/en/post/to/) [believe](/en/post/believe/) [that](/en/post/that/) one's desires [will](/en/post/will/) [come](/en/post/come/) [true](/en/post/true/), [regardless](/en/post/regardless/) [of](/en/post/of/) [the](/en/post/the/) likelihood. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) clung [to](/en/post/to/) [the](/en/post/the/) wishful thinking [that](/en/post/that/) [her](/en/post/her/) lottery [ticket](/en/post/ticket/) [would](/en/post/would/) [win](/en/post/win/)."
 
-### Verb
-- **To wish**: To express a desire or hope for something. For example: "I wish you a happy birthday."
-- **Make a wish**: To silently express a wish upon making a wishbone, blowing out candles, or engaging in other similar traditions. For example: "On New Year's Eve, we all made a wish before blowing out the candles."
+### [Verb](/en/post/verb/)
+- **[To](/en/post/to/) [wish](/en/post/wish/)**: [To](/en/post/to/) [express](/en/post/express/) [a](/en/post/a/) [desire](/en/post/desire/) [or](/en/post/or/) [hope](/en/post/hope/) [for](/en/post/for/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "I [wish](/en/post/wish/) [you](/en/post/you/) [a](/en/post/a/) [happy](/en/post/happy/) [birthday](/en/post/birthday/)."
+- **[Make](/en/post/make/) [a](/en/post/a/) [wish](/en/post/wish/)**: [To](/en/post/to/) silently [express](/en/post/express/) [a](/en/post/a/) [wish](/en/post/wish/) [upon](/en/post/upon/) making [a](/en/post/a/) wishbone, blowing [out](/en/post/out/) candles, [or](/en/post/or/) engaging [in](/en/post/in/) [other](/en/post/other/) [similar](/en/post/similar/) traditions. [For](/en/post/for/) [example](/en/post/example/): "[On](/en/post/on/) [New](/en/post/new/) Year's [Eve](/en/post/eve/), [we](/en/post/we/) [all](/en/post/all/) made [a](/en/post/a/) [wish](/en/post/wish/) [before](/en/post/before/) blowing [out](/en/post/out/) [the](/en/post/the/) candles."
 
 ### Interjection
-- Not typically used as an interjection, but can be used informally to express a sudden desire or hope. For example: "Oh, I wish I had remembered my keys!"
+- [Not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) an interjection, [but](/en/post/but/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) informally [to](/en/post/to/) [express](/en/post/express/) [a](/en/post/a/) [sudden](/en/post/sudden/) [desire](/en/post/desire/) [or](/en/post/or/) [hope](/en/post/hope/). [For](/en/post/for/) [example](/en/post/example/): "[Oh](/en/post/oh/), I [wish](/en/post/wish/) I had remembered [my](/en/post/my/) keys!"
 
 ## Phrases
-- "Make a wish upon a star" is a popular idiom to express heartfelt wishes.
-- "Good wishes" are expressions of hope for someone's well-being or success. For example: "Sending you good wishes for your exam."
+- "[Make](/en/post/make/) [a](/en/post/a/) [wish](/en/post/wish/) [upon](/en/post/upon/) [a](/en/post/a/) [star](/en/post/star/)" is [a](/en/post/a/) [popular](/en/post/popular/) [idiom](/en/post/idiom/) [to](/en/post/to/) [express](/en/post/express/) heartfelt wishes.
+- "[Good](/en/post/good/) wishes" are expressions [of](/en/post/of/) [hope](/en/post/hope/) [for](/en/post/for/) someone's well-being [or](/en/post/or/) [success](/en/post/success/). [For](/en/post/for/) [example](/en/post/example/): "Sending [you](/en/post/you/) [good](/en/post/good/) wishes [for](/en/post/for/) [your](/en/post/your/) [exam](/en/post/exam/)."
 
-## Example Sentences
-- **Noun**: "She granted all the children's wishes at the birthday party."
-- **Verb**: "I wish it would stop raining so we could go for a walk."
-- **Interjection**: "I wish I could fly like a bird."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) granted [all](/en/post/all/) [the](/en/post/the/) children's wishes [at](/en/post/at/) [the](/en/post/the/) [birthday](/en/post/birthday/) [party](/en/post/party/)."
+- **[Verb](/en/post/verb/)**: "I [wish](/en/post/wish/) [it](/en/post/it/) [would](/en/post/would/) [stop](/en/post/stop/) raining [so](/en/post/so/) [we](/en/post/we/) [could](/en/post/could/) [go](/en/post/go/) [for](/en/post/for/) [a](/en/post/a/) [walk](/en/post/walk/)."
+- **Interjection**: "I [wish](/en/post/wish/) I [could](/en/post/could/) [fly](/en/post/fly/) [like](/en/post/like/) [a](/en/post/a/) [bird](/en/post/bird/)."
 
 ## Synonyms
-- Desire
-- Hope
+- [Desire](/en/post/desire/)
+- [Hope](/en/post/hope/)
 - Longing
 - Yearning
 - Desirement

@@ -11,20 +11,20 @@ keywords = ['ai words', 'mount']
 /mɔːnt/
 
 ## 释义
-- **动词**: 将（某物）安装在另一物体上；登上；爬上。例如: "He mounted the picture on the wall." 或 "She mounted her horse with ease."
-- **名词**: 安装；设置；支架；山峰。例如: "The statue stands on a tall mount." 或 "They reached the summit of the mount."
+- **动词**: 将（某物）安装在另一物体上；登上；爬上。例如: "[He](/post/he/) mounted [the](/post/the/) [picture](/post/picture/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/)." 或 "[She](/post/she/) mounted [her](/post/her/) [horse](/post/horse/) [with](/post/with/) [ease](/post/ease/)."
+- **名词**: 安装；设置；支架；山峰。例如: "[The](/post/the/) [statue](/post/statue/) stands [on](/post/on/) [a](/post/a/) [tall](/post/tall/) [mount](/post/mount/)." 或 "[They](/post/they/) reached [the](/post/the/) summit [of](/post/of/) [the](/post/the/) [mount](/post/mount/)."
 
 ## 短语
-- "mount up" 增加；累积。例如: "Our expenses have mounted up over the past year."
-- "mount a campaign" 发起一项运动或行动。例如: "They are mounting a campaign against plastic waste."
+- "[mount](/post/mount/) [up](/post/up/)" 增加；累积。例如: "[Our](/post/our/) expenses [have](/post/have/) mounted [up](/post/up/) [over](/post/over/) [the](/post/the/) [past](/post/past/) [year](/post/year/)."
+- "[mount](/post/mount/) [a](/post/a/) [campaign](/post/campaign/)" 发起一项运动或行动。例如: "[They](/post/they/) are mounting [a](/post/a/) [campaign](/post/campaign/) [against](/post/against/) [plastic](/post/plastic/) [waste](/post/waste/)."
 
 ## 例句
-- 动词: "I need to mount this shelf on the wall."
-- 名词: "The mountain climber reached the top of the mount after a long ascent."
+- 动词: "I [need](/post/need/) [to](/post/to/) [mount](/post/mount/) [this](/post/this/) [shelf](/post/shelf/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/)."
+- 名词: "[The](/post/the/) [mountain](/post/mountain/) climber reached [the](/post/the/) [top](/post/top/) [of](/post/of/) [the](/post/the/) [mount](/post/mount/) [after](/post/after/) [a](/post/a/) [long](/post/long/) ascent."
 
 ## 同义词
 - ascend
-- climb
-- install
-- set up
-- fix in place
+- [climb](/post/climb/)
+- [install](/post/install/)
+- [set](/post/set/) [up](/post/up/)
+- [fix](/post/fix/) [in](/post/in/) [place](/post/place/)

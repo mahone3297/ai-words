@@ -11,22 +11,22 @@ keywords = ['ai words', 'route']
 /rʊt/
 
 ## 释义
-- **名词**: 路线，道路；行程安排。例如: "Please follow the route marked on the map."
-- **名词**: 方式，方法；策略。例如: "We need to discuss our marketing route for the new product."
-- **动词**: 安排路线；导向。例如: "The airline routes its flights through several cities."
+- **名词**: 路线，道路；行程安排。例如: "[Please](/post/please/) [follow](/post/follow/) [the](/post/the/) [route](/post/route/) marked [on](/post/on/) [the](/post/the/) [map](/post/map/)."
+- **名词**: 方式，方法；策略。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [discuss](/post/discuss/) [our](/post/our/) marketing [route](/post/route/) [for](/post/for/) [the](/post/the/) [new](/post/new/) [product](/post/product/)."
+- **动词**: 安排路线；导向。例如: "[The](/post/the/) [airline](/post/airline/) routes [its](/post/its/) flights [through](/post/through/) [several](/post/several/) cities."
 
 ## 短语
-- "Route planner" 是一种规划路线的工具或应用。
-- "Route someone somewhere" 指为某人规划前往某地的路径。
+- "[Route](/post/route/) planner" 是一种规划路线的工具或应用。
+- "[Route](/post/route/) [someone](/post/someone/) [somewhere](/post/somewhere/)" 指为某人规划前往某地的路径。
 
 ## 例句
-- 名词: "The bus follows a specific route through the city."
-- 动词: "The event organizers routed the runners along the park's scenic paths."
-- 名词: "Our sales strategy involves a multi-channel route to market."
+- 名词: "[The](/post/the/) [bus](/post/bus/) follows [a](/post/a/) [specific](/post/specific/) [route](/post/route/) [through](/post/through/) [the](/post/the/) [city](/post/city/)."
+- 动词: "[The](/post/the/) [event](/post/event/) organizers routed [the](/post/the/) runners [along](/post/along/) [the](/post/the/) park's scenic paths."
+- 名词: "[Our](/post/our/) sales [strategy](/post/strategy/) involves [a](/post/a/) multi-channel [route](/post/route/) [to](/post/to/) [market](/post/market/)."
 
 ## 同义词
-- Path
-- Track
-- Journey
-- Course
-- Direction
+- [Path](/post/path/)
+- [Track](/post/track/)
+- [Journey](/post/journey/)
+- [Course](/post/course/)
+- [Direction](/post/direction/)

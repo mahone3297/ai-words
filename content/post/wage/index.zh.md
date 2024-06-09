@@ -12,26 +12,26 @@ keywords = ['ai words', 'wage']
 
 ## 释义
 - **名词 n**:
-  - 工资，薪水：The amount of money that an employee is paid for their work.
-  - 报酬，代价：The payment or reward for something.
+  - 工资，薪水：[The](/post/the/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) [that](/post/that/) an [employee](/post/employee/) is paid [for](/post/for/) [their](/post/their/) [work](/post/work/).
+  - 报酬，代价：[The](/post/the/) [payment](/post/payment/) [or](/post/or/) [reward](/post/reward/) [for](/post/for/) [something](/post/something/).
 
 - **动词 v**:
-  - 开支，花费：To spend or use money, especially on a particular thing.
-  - 掀起，发动（战争、罢工等）：To begin or lead a campaign, especially a war or strike.
+  - 开支，花费：[To](/post/to/) [spend](/post/spend/) [or](/post/or/) [use](/post/use/) [money](/post/money/), [especially](/post/especially/) [on](/post/on/) [a](/post/a/) [particular](/post/particular/) [thing](/post/thing/).
+  - 掀起，发动（战争、罢工等）：[To](/post/to/) [begin](/post/begin/) [or](/post/or/) [lead](/post/lead/) [a](/post/a/) [campaign](/post/campaign/), [especially](/post/especially/) [a](/post/a/) [war](/post/war/) [or](/post/or/) [strike](/post/strike/).
 
 ## 短语
-- "Wage war" 打仗，发动战争。
-- "Wage a battle" 进行战斗或斗争。
-- "Wage one's life on something" 把生死赌在某事上。
+- "[Wage](/post/wage/) [war](/post/war/)" 打仗，发动战争。
+- "[Wage](/post/wage/) [a](/post/a/) [battle](/post/battle/)" 进行战斗或斗争。
+- "[Wage](/post/wage/) one's [life](/post/life/) [on](/post/on/) [something](/post/something/)" 把生死赌在某事上。
 
 ## 例句
-- 名词: "The minimum wage in this state is $15 per hour."
-- 动词: "They are waging a campaign against plastic pollution."
-- "He wages his entire fortune on the outcome of the game."
+- 名词: "[The](/post/the/) [minimum](/post/minimum/) [wage](/post/wage/) [in](/post/in/) [this](/post/this/) [state](/post/state/) is $15 [per](/post/per/) [hour](/post/hour/)."
+- 动词: "[They](/post/they/) are waging [a](/post/a/) [campaign](/post/campaign/) [against](/post/against/) [plastic](/post/plastic/) [pollution](/post/pollution/)."
+- "[He](/post/he/) wages [his](/post/his/) [entire](/post/entire/) [fortune](/post/fortune/) [on](/post/on/) [the](/post/the/) [outcome](/post/outcome/) [of](/post/of/) [the](/post/the/) [game](/post/game/)."
 
 ## 同义词
-- Salary
+- [Salary](/post/salary/)
 - Earnings
-- Pay
+- [Pay](/post/pay/)
 - Compensation
 - Remuneration

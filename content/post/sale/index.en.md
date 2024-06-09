@@ -7,39 +7,39 @@ description = '[seil] n.卖；拍卖；销售额'
 keywords = ['ai words', 'sale']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /səˈleɪ/
 
 ## Definitions
-### Noun
-- **A sale** is a reduction in price on goods or services offered for purchase, typically for a limited time. (Example: "The store is having a big sale this weekend.")
-- **An auction** where items are sold to the highest bidder is often referred to as a sale. (Example: "The estate sale included many valuable antiques.")
+### [Noun](/en/post/noun/)
+- **[A](/en/post/a/) [sale](/en/post/sale/)** is [a](/en/post/a/) [reduction](/en/post/reduction/) [in](/en/post/in/) [price](/en/post/price/) [on](/en/post/on/) [goods](/en/post/goods/) [or](/en/post/or/) services offered [for](/en/post/for/) [purchase](/en/post/purchase/), typically [for](/en/post/for/) [a](/en/post/a/) [limited](/en/post/limited/) [time](/en/post/time/). ([Example](/en/post/example/): "[The](/en/post/the/) [store](/en/post/store/) is having [a](/en/post/a/) [big](/en/post/big/) [sale](/en/post/sale/) [this](/en/post/this/) [weekend](/en/post/weekend/).")
+- **An auction** [where](/en/post/where/) items are sold [to](/en/post/to/) [the](/en/post/the/) highest bidder is [often](/en/post/often/) referred [to](/en/post/to/) [as](/en/post/as/) [a](/en/post/a/) [sale](/en/post/sale/). ([Example](/en/post/example/): "[The](/en/post/the/) estate [sale](/en/post/sale/) included [many](/en/post/many/) [valuable](/en/post/valuable/) antiques.")
 
-### Verb
-- To sell something at a lower price than usual, often for promotional purposes. (Example: "The company decided to hold a sale to clear out old inventory.")
-- To make a purchase during a sale event. (Example: "I bought a new sofa on sale.")
+### [Verb](/en/post/verb/)
+- [To](/en/post/to/) [sell](/en/post/sell/) [something](/en/post/something/) [at](/en/post/at/) [a](/en/post/a/) [lower](/en/post/lower/) [price](/en/post/price/) [than](/en/post/than/) [usual](/en/post/usual/), [often](/en/post/often/) [for](/en/post/for/) promotional purposes. ([Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [hold](/en/post/hold/) [a](/en/post/a/) [sale](/en/post/sale/) [to](/en/post/to/) [clear](/en/post/clear/) [out](/en/post/out/) [old](/en/post/old/) inventory.")
+- [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [purchase](/en/post/purchase/) [during](/en/post/during/) [a](/en/post/a/) [sale](/en/post/sale/) [event](/en/post/event/). ([Example](/en/post/example/): "I bought [a](/en/post/a/) [new](/en/post/new/) sofa [on](/en/post/on/) [sale](/en/post/sale/).")
 
 ## Phrases
-- "Going on sale" indicates that an item or items will soon be discounted.
-- "Sale price" refers to the reduced cost of an item during a sale.
-- "End-of-season sale" is a common type of sale that occurs when a retailer clears out inventory for the next season.
+- "Going [on](/en/post/on/) [sale](/en/post/sale/)" indicates [that](/en/post/that/) an [item](/en/post/item/) [or](/en/post/or/) items [will](/en/post/will/) [soon](/en/post/soon/) [be](/en/post/be/) discounted.
+- "[Sale](/en/post/sale/) [price](/en/post/price/)" refers [to](/en/post/to/) [the](/en/post/the/) reduced [cost](/en/post/cost/) [of](/en/post/of/) an [item](/en/post/item/) [during](/en/post/during/) [a](/en/post/a/) [sale](/en/post/sale/).
+- "End-of-season [sale](/en/post/sale/)" is [a](/en/post/a/) [common](/en/post/common/) [type](/en/post/type/) [of](/en/post/of/) [sale](/en/post/sale/) [that](/en/post/that/) occurs [when](/en/post/when/) [a](/en/post/a/) retailer clears [out](/en/post/out/) inventory [for](/en/post/for/) [the](/en/post/the/) [next](/en/post/next/) [season](/en/post/season/).
 
-## Example Sentences
-- **Noun**: "The store had a huge sale, with discounts up to 50% off."
-- **Verb**: "We decided to hold a sale to celebrate our anniversary."
-- **Phrasal Verb**: "The book was originally priced at $30, but it's now on sale for only $15."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [store](/en/post/store/) had [a](/en/post/a/) [huge](/en/post/huge/) [sale](/en/post/sale/), [with](/en/post/with/) discounts [up](/en/post/up/) [to](/en/post/to/) 50% [off](/en/post/off/)."
+- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) decided [to](/en/post/to/) [hold](/en/post/hold/) [a](/en/post/a/) [sale](/en/post/sale/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [our](/en/post/our/) anniversary."
+- **Phrasal [Verb](/en/post/verb/)**: "[The](/en/post/the/) [book](/en/post/book/) was originally priced [at](/en/post/at/) $30, [but](/en/post/but/) it's [now](/en/post/now/) [on](/en/post/on/) [sale](/en/post/sale/) [for](/en/post/for/) [only](/en/post/only/) $15."
 
 ## Synonyms
 - Discount
-- Special offer
+- [Special](/en/post/special/) [offer](/en/post/offer/)
 - Clearance
-- Reduction
-- Bargain
+- [Reduction](/en/post/reduction/)
+- [Bargain](/en/post/bargain/)
 - Promo
 
 ## Antonyms
-- Increase
+- [Increase](/en/post/increase/)
 - Markup
 - Premium
-- Regular price
-- No discount
+- [Regular](/en/post/regular/) [price](/en/post/price/)
+- [No](/en/post/no/) discount

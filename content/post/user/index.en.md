@@ -7,32 +7,32 @@ description = '[ˈjuːzə] n.用户，使用者'
 keywords = ['ai words', 'user']
 +++
 
-## Pronunciation
-/user/
+## [Pronunciation](/en/post/pronunciation/)
+/[user](/en/post/user/)/
 
 ## Definitions
-- **Noun**: A person who uses a particular system, device, or service, often interactively. For example: "The app has a large user base."
-- **Pronoun**: A person participating in an activity or using a product. For example: "Each user must agree to the terms of service."
-- **Verb**: To employ or utilize (a tool, software, or resource). For example: "She's a skilled user of the new software."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) uses [a](/en/post/a/) [particular](/en/post/particular/) [system](/en/post/system/), [device](/en/post/device/), [or](/en/post/or/) [service](/en/post/service/), [often](/en/post/often/) interactively. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) app has [a](/en/post/a/) [large](/en/post/large/) [user](/en/post/user/) [base](/en/post/base/)."
+- **[Pronoun](/en/post/pronoun/)**: [A](/en/post/a/) [person](/en/post/person/) participating [in](/en/post/in/) an [activity](/en/post/activity/) [or](/en/post/or/) using [a](/en/post/a/) [product](/en/post/product/). [For](/en/post/for/) [example](/en/post/example/): "[Each](/en/post/each/) [user](/en/post/user/) [must](/en/post/must/) [agree](/en/post/agree/) [to](/en/post/to/) [the](/en/post/the/) terms [of](/en/post/of/) [service](/en/post/service/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [employ](/en/post/employ/) [or](/en/post/or/) [utilize](/en/post/utilize/) ([a](/en/post/a/) [tool](/en/post/tool/), software, [or](/en/post/or/) [resource](/en/post/resource/)). [For](/en/post/for/) [example](/en/post/example/): "She's [a](/en/post/a/) [skilled](/en/post/skilled/) [user](/en/post/user/) [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) software."
 
 ## Phrases
-- "User experience" refers to how easy and enjoyable a product is for its users.
-- "User interface" is the part of a software that allows users to interact with it.
-- "Power user" describes someone who is highly proficient or knowledgeable in using a particular system.
+- "[User](/en/post/user/) [experience](/en/post/experience/)" refers [to](/en/post/to/) [how](/en/post/how/) [easy](/en/post/easy/) [and](/en/post/and/) enjoyable [a](/en/post/a/) [product](/en/post/product/) is [for](/en/post/for/) [its](/en/post/its/) users.
+- "[User](/en/post/user/) interface" is [the](/en/post/the/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) software [that](/en/post/that/) allows users [to](/en/post/to/) interact [with](/en/post/with/) [it](/en/post/it/).
+- "[Power](/en/post/power/) [user](/en/post/user/)" describes [someone](/en/post/someone/) [who](/en/post/who/) is [highly](/en/post/highly/) proficient [or](/en/post/or/) knowledgeable [in](/en/post/in/) using [a](/en/post/a/) [particular](/en/post/particular/) [system](/en/post/system/).
 
-## Example Sentences
-- **Noun**: "The company is constantly gathering feedback from its users to improve the product."
-- **Pronoun**: "As a user, she found the platform intuitive and easy to navigate."
-- **Verb**: "Many users have reported difficulties setting up the new router."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) is constantly gathering [feedback](/en/post/feedback/) [from](/en/post/from/) [its](/en/post/its/) users [to](/en/post/to/) [improve](/en/post/improve/) [the](/en/post/the/) [product](/en/post/product/)."
+- **[Pronoun](/en/post/pronoun/)**: "[As](/en/post/as/) [a](/en/post/a/) [user](/en/post/user/), [she](/en/post/she/) [found](/en/post/found/) [the](/en/post/the/) [platform](/en/post/platform/) intuitive [and](/en/post/and/) [easy](/en/post/easy/) [to](/en/post/to/) navigate."
+- **[Verb](/en/post/verb/)**: "[Many](/en/post/many/) users [have](/en/post/have/) reported difficulties [setting](/en/post/setting/) [up](/en/post/up/) [the](/en/post/the/) [new](/en/post/new/) router."
 
 ## Synonyms
 - Consumer
 - Client
-- Operator
+- [Operator](/en/post/operator/)
 - Utilizer
-- Enthusiast (in the context of being passionate about a product or technology)
+- Enthusiast ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [being](/en/post/being/) passionate [about](/en/post/about/) [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [technology](/en/post/technology/))
 
 ## Antonyms
 - Creator
 - Developer
-- Admin (in the context of having control or management access)
+- Admin ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) having [control](/en/post/control/) [or](/en/post/or/) [management](/en/post/management/) [access](/en/post/access/))

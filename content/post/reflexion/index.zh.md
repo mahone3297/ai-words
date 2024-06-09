@@ -11,19 +11,19 @@ keywords = ['ai words', 'reflexion']
 /rɪˈfleksɪən/
 
 ## 释义
-- **名词**: 反射，反映；思考，沉思。例如: "Light creates reflexions on the water."
-- **名词**: 自我反省，自我反思。例如: "After the incident, he spent some time in reflexion about his actions."
+- **名词**: 反射，反映；思考，沉思。例如: "[Light](/post/light/) creates reflexions [on](/post/on/) [the](/post/the/) [water](/post/water/)."
+- **名词**: 自我反省，自我反思。例如: "[After](/post/after/) [the](/post/the/) [incident](/post/incident/), [he](/post/he/) spent [some](/post/some/) [time](/post/time/) [in](/post/in/) [reflexion](/post/reflexion/) [about](/post/about/) [his](/post/his/) actions."
 
 ## 短语
-- "In reflexion upon" 意为在对...的思考中。
-- "Deep reflexion" 指深入的思考。
+- "[In](/post/in/) [reflexion](/post/reflexion/) [upon](/post/upon/)" 意为在对...的思考中。
+- "[Deep](/post/deep/) [reflexion](/post/reflexion/)" 指深入的思考。
 
 ## 例句
-- 名词: "The artist captured the reflexions of the trees in the still lake."
-- 名词: "She engaged in deep reflexion after receiving the critical feedback."
+- 名词: "[The](/post/the/) [artist](/post/artist/) captured [the](/post/the/) reflexions [of](/post/of/) [the](/post/the/) trees [in](/post/in/) [the](/post/the/) [still](/post/still/) [lake](/post/lake/)."
+- 名词: "[She](/post/she/) engaged [in](/post/in/) [deep](/post/deep/) [reflexion](/post/reflexion/) [after](/post/after/) receiving [the](/post/the/) [critical](/post/critical/) [feedback](/post/feedback/)."
 
 ## 同义词
-- Reflection
+- [Reflection](/post/reflection/)
 - Contemplation
 - Meditation
 - Pondering

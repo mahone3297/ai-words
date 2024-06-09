@@ -11,19 +11,19 @@ keywords = ['ai words', 'purple']
 /pɜːrpl/
 
 ## 释义
-- **形容词**: 1. 紫色的，表示一种颜色，介于蓝色和红色之间。例如: "She wore a beautiful purple dress to the party."
-   - 2. (俚语) 代表奇特、非主流或具有创意的。例如: "His music has a definite purple vibe."
+- **形容词**: 1. 紫色的，表示一种颜色，介于蓝色和红色之间。例如: "[She](/post/she/) wore [a](/post/a/) [beautiful](/post/beautiful/) [purple](/post/purple/) [dress](/post/dress/) [to](/post/to/) [the](/post/the/) [party](/post/party/)."
+   - 2. (俚语) 代表奇特、非主流或具有创意的。例如: "[His](/post/his/) [music](/post/music/) has [a](/post/a/) [definite](/post/definite/) [purple](/post/purple/) vibe."
 
 ## 短语
-- "purple prose" 指过分华丽或夸张的文风。
-- "purple patch" 指一段特别成功或繁荣的时期。
+- "[purple](/post/purple/) prose" 指过分华丽或夸张的文风。
+- "[purple](/post/purple/) [patch](/post/patch/)" 指一段特别成功或繁荣的时期。
 
 ## 例句
-- 形容词: "The flowers in the garden were a stunning array of purple and pink."
-- 俚语: "The new art gallery has a very purple approach to displaying contemporary works."
+- 形容词: "[The](/post/the/) flowers [in](/post/in/) [the](/post/the/) [garden](/post/garden/) were [a](/post/a/) stunning array [of](/post/of/) [purple](/post/purple/) [and](/post/and/) [pink](/post/pink/)."
+- 俚语: "[The](/post/the/) [new](/post/new/) [art](/post/art/) [gallery](/post/gallery/) has [a](/post/a/) [very](/post/very/) [purple](/post/purple/) [approach](/post/approach/) [to](/post/to/) displaying [contemporary](/post/contemporary/) works."
 
 ## 同义词
-- violet
+- [violet](/post/violet/)
 - lilac
 - mauve
 - indigo

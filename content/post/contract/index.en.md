@@ -7,44 +7,44 @@ description = '[ˈkɔntrækt] n.契约，合同；婚约'
 keywords = ['ai words', 'contract']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kənˈtrækt/
 
 ## Definitions
-### Noun
-1. **A contract** (noun n): A legally binding agreement between two or more parties, specifying the rights and obligations of each party, typically concerning the sale, lease, or provision of goods or services.
-   - Example: "The contractor signed a five-year building contract with the city."
-2. **A shortened or constricted form** (figurative): A reduced size or shape, often seen in muscles or body parts when not fully extended.
-   - Example: "After exercising, his biceps were in a state of contraction."
+### [Noun](/en/post/noun/)
+1. **[A](/en/post/a/) [contract](/en/post/contract/)** ([noun](/en/post/noun/) n): [A](/en/post/a/) legally binding [agreement](/en/post/agreement/) [between](/en/post/between/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) parties, specifying [the](/en/post/the/) rights [and](/en/post/and/) obligations [of](/en/post/of/) [each](/en/post/each/) [party](/en/post/party/), typically [concerning](/en/post/concerning/) [the](/en/post/the/) [sale](/en/post/sale/), lease, [or](/en/post/or/) [provision](/en/post/provision/) [of](/en/post/of/) [goods](/en/post/goods/) [or](/en/post/or/) services.
+   - [Example](/en/post/example/): "[The](/en/post/the/) contractor signed [a](/en/post/a/) five-year [building](/en/post/building/) [contract](/en/post/contract/) [with](/en/post/with/) [the](/en/post/the/) [city](/en/post/city/)."
+2. **[A](/en/post/a/) shortened [or](/en/post/or/) constricted [form](/en/post/form/)** (figurative): [A](/en/post/a/) reduced [size](/en/post/size/) [or](/en/post/or/) [shape](/en/post/shape/), [often](/en/post/often/) seen [in](/en/post/in/) muscles [or](/en/post/or/) [body](/en/post/body/) parts [when](/en/post/when/) [not](/en/post/not/) fully extended.
+   - [Example](/en/post/example/): "[After](/en/post/after/) exercising, [his](/en/post/his/) biceps were [in](/en/post/in/) [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) contraction."
 
-### Verb
-1. **To enter into a formal agreement** (transitive verb v): To negotiate and agree upon terms, then sign a contract.
-   - Example: "The company contracted with a new supplier for raw materials."
-2. **To become smaller or tighter** (intransitive verb v, figurative): To shorten or reduce in size or tension.
-   - Example: "Her eyes contracted when she saw the spider."
+### [Verb](/en/post/verb/)
+1. **[To](/en/post/to/) [enter](/en/post/enter/) [into](/en/post/into/) [a](/en/post/a/) [formal](/en/post/formal/) [agreement](/en/post/agreement/)** (transitive [verb](/en/post/verb/) v): [To](/en/post/to/) negotiate [and](/en/post/and/) [agree](/en/post/agree/) [upon](/en/post/upon/) terms, [then](/en/post/then/) [sign](/en/post/sign/) [a](/en/post/a/) [contract](/en/post/contract/).
+   - [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) contracted [with](/en/post/with/) [a](/en/post/a/) [new](/en/post/new/) supplier [for](/en/post/for/) [raw](/en/post/raw/) materials."
+2. **[To](/en/post/to/) [become](/en/post/become/) smaller [or](/en/post/or/) tighter** (intransitive [verb](/en/post/verb/) v, figurative): [To](/en/post/to/) shorten [or](/en/post/or/) [reduce](/en/post/reduce/) [in](/en/post/in/) [size](/en/post/size/) [or](/en/post/or/) tension.
+   - [Example](/en/post/example/): "[Her](/en/post/her/) eyes contracted [when](/en/post/when/) [she](/en/post/she/) [saw](/en/post/saw/) [the](/en/post/the/) [spider](/en/post/spider/)."
 
-### Adjective
-1. **Contractile** (adjective adj): Having the ability to contract, especially in response to stimuli.
-   - Example: "Muscle fibers are highly contractile."
-2. **Reduced in size or scope** (adjective adj, figurative): Limited in extent or range.
-   - Example: "The company's contracted workforce due to budget cuts."
+### [Adjective](/en/post/adjective/)
+1. **Contractile** ([adjective](/en/post/adjective/) adj): Having [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [contract](/en/post/contract/), [especially](/en/post/especially/) [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) stimuli.
+   - [Example](/en/post/example/): "[Muscle](/en/post/muscle/) fibers are [highly](/en/post/highly/) contractile."
+2. **Reduced [in](/en/post/in/) [size](/en/post/size/) [or](/en/post/or/) [scope](/en/post/scope/)** ([adjective](/en/post/adjective/) adj, figurative): [Limited](/en/post/limited/) [in](/en/post/in/) [extent](/en/post/extent/) [or](/en/post/or/) [range](/en/post/range/).
+   - [Example](/en/post/example/): "[The](/en/post/the/) company's contracted workforce [due](/en/post/due/) [to](/en/post/to/) budget cuts."
 
 ## Phrases
-- "Signed a contract" means to put one's signature on a legal document, agreeing to its terms.
-- "Under contract" indicates that someone is legally bound to fulfill certain obligations.
-- "Muscle contraction" refers to the shortening of muscle fibers during physical activity.
+- "Signed [a](/en/post/a/) [contract](/en/post/contract/)" [means](/en/post/means/) [to](/en/post/to/) [put](/en/post/put/) one's [signature](/en/post/signature/) [on](/en/post/on/) [a](/en/post/a/) [legal](/en/post/legal/) [document](/en/post/document/), agreeing [to](/en/post/to/) [its](/en/post/its/) terms.
+- "[Under](/en/post/under/) [contract](/en/post/contract/)" indicates [that](/en/post/that/) [someone](/en/post/someone/) is legally [bound](/en/post/bound/) [to](/en/post/to/) fulfill [certain](/en/post/certain/) obligations.
+- "[Muscle](/en/post/muscle/) contraction" refers [to](/en/post/to/) [the](/en/post/the/) shortening [of](/en/post/of/) [muscle](/en/post/muscle/) fibers [during](/en/post/during/) [physical](/en/post/physical/) [activity](/en/post/activity/).
 
-## Example Sentences
-- **Noun**: "The architect submitted a detailed contract outlining the project's requirements."
-- **Verb**: "They contracted a freelancer to design their website."
-- **Adjective**: "The muscle's contraction was visible under the skin."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) architect submitted [a](/en/post/a/) detailed [contract](/en/post/contract/) outlining [the](/en/post/the/) project's requirements."
+- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) contracted [a](/en/post/a/) freelancer [to](/en/post/to/) [design](/en/post/design/) [their](/en/post/their/) website."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) muscle's contraction was [visible](/en/post/visible/) [under](/en/post/under/) [the](/en/post/the/) [skin](/en/post/skin/)."
 
 ## Synonyms
-- Agreement
+- [Agreement](/en/post/agreement/)
 - Covenant
 - Contractual obligation
-- Binding agreement
-- Arrangement
-- Deal
+- Binding [agreement](/en/post/agreement/)
+- [Arrangement](/en/post/arrangement/)
+- [Deal](/en/post/deal/)
 - pact
-- understanding
+- [understanding](/en/post/understanding/)

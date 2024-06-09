@@ -20,15 +20,15 @@ keywords = ['ai words', 'underground']
    - 反主流文化的：与主流文化相反的艺术、音乐或思想潮流。
 
 ## 短语
-- "underground railway" 地铁系统
-- "underground movement" 秘密运动或反抗组织
-- "underground music" 非主流音乐
+- "[underground](/post/underground/) [railway](/post/railway/)" 地铁系统
+- "[underground](/post/underground/) [movement](/post/movement/)" 秘密运动或反抗组织
+- "[underground](/post/underground/) [music](/post/music/)" 非主流音乐
 
 ## 例句
-- 名词: "The new underground station is expected to open next year."
-- 形容词: "The band gained a strong following in the underground music scene."
+- 名词: "[The](/post/the/) [new](/post/new/) [underground](/post/underground/) [station](/post/station/) is expected [to](/post/to/) [open](/post/open/) [next](/post/next/) [year](/post/year/)."
+- 形容词: "[The](/post/the/) [band](/post/band/) gained [a](/post/a/) [strong](/post/strong/) [following](/post/following/) [in](/post/in/) [the](/post/the/) [underground](/post/underground/) [music](/post/music/) [scene](/post/scene/)."
   
 ## 同义词
-- 地下: below ground, subterranean
+- 地下: [below](/post/below/) [ground](/post/ground/), subterranean
 - 秘密的: secretive, covert, clandestine
-- 反主流文化的: alternative, indie, avant-garde
+- 反主流文化的: [alternative](/post/alternative/), indie, avant-garde

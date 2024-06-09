@@ -11,20 +11,20 @@ keywords = ['ai words', 'famine']
 /fəˈmiːn/
 
 ## 释义
-- **名词**: 大规模的饥饿；饥荒；粮食短缺。例如: "The country suffered from a severe famine due to drought."
-- **形容词**: 极度缺乏的；饥饿的。例如: "The famine-stricken people were desperate for food."
+- **名词**: 大规模的饥饿；饥荒；粮食短缺。例如: "[The](/post/the/) [country](/post/country/) suffered [from](/post/from/) [a](/post/a/) [severe](/post/severe/) [famine](/post/famine/) [due](/post/due/) [to](/post/to/) [drought](/post/drought/)."
+- **形容词**: 极度缺乏的；饥饿的。例如: "[The](/post/the/) famine-stricken [people](/post/people/) were [desperate](/post/desperate/) [for](/post/for/) [food](/post/food/)."
 
 ## 短语
-- "famine relief" 饥荒救济
-- "famine conditions" 饥荒状况
+- "[famine](/post/famine/) [relief](/post/relief/)" 饥荒救济
+- "[famine](/post/famine/) conditions" 饥荒状况
 
 ## 例句
-- 名词: "International aid organizations rushed to provide famine relief to the affected regions."
-- 形容词: "During the famine years, many people had to resort to eating wild plants just to survive."
+- 名词: "[International](/post/international/) [aid](/post/aid/) organizations rushed [to](/post/to/) [provide](/post/provide/) [famine](/post/famine/) [relief](/post/relief/) [to](/post/to/) [the](/post/the/) affected regions."
+- 形容词: "[During](/post/during/) [the](/post/the/) [famine](/post/famine/) years, [many](/post/many/) [people](/post/people/) had [to](/post/to/) [resort](/post/resort/) [to](/post/to/) eating [wild](/post/wild/) plants [just](/post/just/) [to](/post/to/) [survive](/post/survive/)."
 
 ## 同义词
-- Hunger
+- [Hunger](/post/hunger/)
 - Starvation
-- Food shortage
+- [Food](/post/food/) [shortage](/post/shortage/)
 - Scarcity
-- Drought (in the context of causing famine)
+- [Drought](/post/drought/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) causing [famine](/post/famine/))

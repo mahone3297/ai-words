@@ -7,48 +7,48 @@ description = '[disˈtrɔi] vt.破坏；消灭；打破'
 keywords = ['ai words', 'destroy']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /dɪˈstrɔɪ/
 
 ## Definitions
-### Noun
-1. The act or process of causing something to be destroyed or demolished.
-2. The state of being ruined or demolished.
-3. A complete and utter ruin or devastation.
+### [Noun](/en/post/noun/)
+1. [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) causing [something](/en/post/something/) [to](/en/post/to/) [be](/en/post/be/) destroyed [or](/en/post/or/) demolished.
+2. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) ruined [or](/en/post/or/) demolished.
+3. [A](/en/post/a/) [complete](/en/post/complete/) [and](/en/post/and/) [utter](/en/post/utter/) [ruin](/en/post/ruin/) [or](/en/post/or/) devastation.
 
-### Verb
-1. To cause (something) to cease to exist, to be damaged beyond repair, or to be altered irreversibly.
-2. To demolish or reduce to rubble.
-3. To utterly ruin or devastate the morale, reputation, or prospects of.
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [cause](/en/post/cause/) ([something](/en/post/something/)) [to](/en/post/to/) [cease](/en/post/cease/) [to](/en/post/to/) [exist](/en/post/exist/), [to](/en/post/to/) [be](/en/post/be/) damaged [beyond](/en/post/beyond/) [repair](/en/post/repair/), [or](/en/post/or/) [to](/en/post/to/) [be](/en/post/be/) altered irreversibly.
+2. [To](/en/post/to/) demolish [or](/en/post/or/) [reduce](/en/post/reduce/) [to](/en/post/to/) rubble.
+3. [To](/en/post/to/) utterly [ruin](/en/post/ruin/) [or](/en/post/or/) devastate [the](/en/post/the/) morale, [reputation](/en/post/reputation/), [or](/en/post/or/) prospects [of](/en/post/of/).
 
 ## Phrases
-- "Destroy an enemy's stronghold"
-- "The building was destroyed in a fire"
-- "Her confidence was completely destroyed by the news"
+- "[Destroy](/en/post/destroy/) an enemy's stronghold"
+- "[The](/en/post/the/) [building](/en/post/building/) was destroyed [in](/en/post/in/) [a](/en/post/a/) [fire](/en/post/fire/)"
+- "[Her](/en/post/her/) [confidence](/en/post/confidence/) was [completely](/en/post/completely/) destroyed [by](/en/post/by/) [the](/en/post/the/) [news](/en/post/news/)"
 
-## Example Sentences
-- **Noun**: "The ancient city was reduced to ruins after a long war."
-- **Verb**: "The archaeologists carefully excavated the site to prevent further destruction of artifacts."
-- **Sentence with 'destroy' as a verb**: "The storm caused widespread destruction across the region."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [city](/en/post/city/) was reduced [to](/en/post/to/) ruins [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [war](/en/post/war/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) archaeologists carefully excavated [the](/en/post/the/) [site](/en/post/site/) [to](/en/post/to/) [prevent](/en/post/prevent/) [further](/en/post/further/) [destruction](/en/post/destruction/) [of](/en/post/of/) artifacts."
+- **[Sentence](/en/post/sentence/) [with](/en/post/with/) '[destroy](/en/post/destroy/)' [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[The](/en/post/the/) [storm](/en/post/storm/) caused [widespread](/en/post/widespread/) [destruction](/en/post/destruction/) [across](/en/post/across/) [the](/en/post/the/) [region](/en/post/region/)."
 
 ## Synonyms
 - Eradicate
 - Demolish
-- Wreck
-- Ruin
+- [Wreck](/en/post/wreck/)
+- [Ruin](/en/post/ruin/)
 - Extinguish
 - Annihilate
 - Devastate
 
 ## Antonyms
-- Build
-- Preserve
-- Restore
+- [Build](/en/post/build/)
+- [Preserve](/en/post/preserve/)
+- [Restore](/en/post/restore/)
 - Revive
 - Enhance
-- Protect
+- [Protect](/en/post/protect/)
 
-## Usage
-- "The soldiers were ordered to destroy the enemy's supply lines."
-- "After the hurricane, volunteers worked tirelessly to destroy the debris and rebuild homes."
-- "His argument was so compelling that it effectively destroyed her argument."
+## [Usage](/en/post/usage/)
+- "[The](/en/post/the/) soldiers were ordered [to](/en/post/to/) [destroy](/en/post/destroy/) [the](/en/post/the/) enemy's [supply](/en/post/supply/) lines."
+- "[After](/en/post/after/) [the](/en/post/the/) hurricane, volunteers worked tirelessly [to](/en/post/to/) [destroy](/en/post/destroy/) [the](/en/post/the/) debris [and](/en/post/and/) rebuild homes."
+- "[His](/en/post/his/) [argument](/en/post/argument/) was [so](/en/post/so/) compelling [that](/en/post/that/) [it](/en/post/it/) effectively destroyed [her](/en/post/her/) [argument](/en/post/argument/)."

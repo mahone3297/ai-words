@@ -7,41 +7,41 @@ description = '[sigˈnifikənt] n.有意义/重要的'
 keywords = ['ai words', 'significant']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /sɪgˈnɪfɪkənt/
 
 ## Definitions
-### Noun
-- A significant event, thing, or person: "The discovery was a scientific breakthrough of great significance."
-- Something that is important or meaningful: "Her decision was significant for her future career."
+### [Noun](/en/post/noun/)
+- [A](/en/post/a/) [significant](/en/post/significant/) [event](/en/post/event/), [thing](/en/post/thing/), [or](/en/post/or/) [person](/en/post/person/): "[The](/en/post/the/) [discovery](/en/post/discovery/) was [a](/en/post/a/) [scientific](/en/post/scientific/) breakthrough [of](/en/post/of/) [great](/en/post/great/) [significance](/en/post/significance/)."
+- [Something](/en/post/something/) [that](/en/post/that/) is [important](/en/post/important/) [or](/en/post/or/) meaningful: "[Her](/en/post/her/) [decision](/en/post/decision/) was [significant](/en/post/significant/) [for](/en/post/for/) [her](/en/post/her/) [future](/en/post/future/) [career](/en/post/career/)."
 
-### Verb
-- To consider or regard as important: "The results were deemed significant by the researchers."
-- To have an impact or consequence: "His actions had a significant effect on the outcome."
+### [Verb](/en/post/verb/)
+- [To](/en/post/to/) [consider](/en/post/consider/) [or](/en/post/or/) [regard](/en/post/regard/) [as](/en/post/as/) [important](/en/post/important/): "[The](/en/post/the/) results were deemed [significant](/en/post/significant/) [by](/en/post/by/) [the](/en/post/the/) researchers."
+- [To](/en/post/to/) [have](/en/post/have/) an [impact](/en/post/impact/) [or](/en/post/or/) [consequence](/en/post/consequence/): "[His](/en/post/his/) actions had [a](/en/post/a/) [significant](/en/post/significant/) [effect](/en/post/effect/) [on](/en/post/on/) [the](/en/post/the/) [outcome](/en/post/outcome/)."
 
-### Adjective
-- Having importance or meaning: "The book's themes were highly significant."
-- Marked by being noteworthy or impressive: "A significant improvement was made to the design."
+### [Adjective](/en/post/adjective/)
+- Having [importance](/en/post/importance/) [or](/en/post/or/) [meaning](/en/post/meaning/): "[The](/en/post/the/) book's themes were [highly](/en/post/highly/) [significant](/en/post/significant/)."
+- Marked [by](/en/post/by/) [being](/en/post/being/) noteworthy [or](/en/post/or/) [impressive](/en/post/impressive/): "[A](/en/post/a/) [significant](/en/post/significant/) [improvement](/en/post/improvement/) was made [to](/en/post/to/) [the](/en/post/the/) [design](/en/post/design/)."
 
 ## Phrases
-- "Be of significance"
-- "Hold significance"
-- "A significant factor"
-- "Significant implications"
+- "[Be](/en/post/be/) [of](/en/post/of/) [significance](/en/post/significance/)"
+- "[Hold](/en/post/hold/) [significance](/en/post/significance/)"
+- "[A](/en/post/a/) [significant](/en/post/significant/) [factor](/en/post/factor/)"
+- "[Significant](/en/post/significant/) implications"
 
-## Example Sentences
-- **Noun**: "The treaty marked a significant turning point in international relations."
-- **Verb**: "The study found a significant correlation between exercise and mental health."
-- **Adjective**: "Her work was seen as a significant contribution to the field."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [treaty](/en/post/treaty/) marked [a](/en/post/a/) [significant](/en/post/significant/) [turning](/en/post/turning/) [point](/en/post/point/) [in](/en/post/in/) [international](/en/post/international/) relations."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [study](/en/post/study/) [found](/en/post/found/) [a](/en/post/a/) [significant](/en/post/significant/) correlation [between](/en/post/between/) [exercise](/en/post/exercise/) [and](/en/post/and/) [mental](/en/post/mental/) [health](/en/post/health/)."
+- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [work](/en/post/work/) was seen [as](/en/post/as/) [a](/en/post/a/) [significant](/en/post/significant/) contribution [to](/en/post/to/) [the](/en/post/the/) [field](/en/post/field/)."
 
 ## Synonyms
 - Crucial
-- Important
-- Vital
+- [Important](/en/post/important/)
+- [Vital](/en/post/vital/)
 - Notable
-- Impressive
+- [Impressive](/en/post/impressive/)
 - Weighty
-- Relevant
+- [Relevant](/en/post/relevant/)
 - Momentous
 - Decisive
 
@@ -49,6 +49,6 @@ keywords = ['ai words', 'significant']
 - Insignificant
 - Trivial
 - Unimportant
-- Minor
+- [Minor](/en/post/minor/)
 - Negligible
 - Insignificant

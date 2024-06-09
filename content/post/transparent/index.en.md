@@ -7,38 +7,38 @@ description = '[trænsˈpeərənt] a.透明的;易识破的'
 keywords = ['ai words', 'transparent']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /tɹænsˈpærənt/
 
 ## Definitions
-### Noun
-A **transparent** is a noun that refers to:
-1. Something that allows light to pass through it without being obscured, often used to describe materials like glass or plastics: "The glass window is transparent."
-2. (figurative) Something that is easily understood or seen through: "Her honesty is crystal clear, making her thoughts transparent."
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) **[transparent](/en/post/transparent/)** is [a](/en/post/a/) [noun](/en/post/noun/) [that](/en/post/that/) refers [to](/en/post/to/):
+1. [Something](/en/post/something/) [that](/en/post/that/) allows [light](/en/post/light/) [to](/en/post/to/) [pass](/en/post/pass/) [through](/en/post/through/) [it](/en/post/it/) [without](/en/post/without/) [being](/en/post/being/) obscured, [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) materials [like](/en/post/like/) [glass](/en/post/glass/) [or](/en/post/or/) plastics: "[The](/en/post/the/) [glass](/en/post/glass/) [window](/en/post/window/) is [transparent](/en/post/transparent/)."
+2. (figurative) [Something](/en/post/something/) [that](/en/post/that/) is [easily](/en/post/easily/) understood [or](/en/post/or/) seen [through](/en/post/through/): "[Her](/en/post/her/) [honesty](/en/post/honesty/) is [crystal](/en/post/crystal/) [clear](/en/post/clear/), making [her](/en/post/her/) thoughts [transparent](/en/post/transparent/)."
 
-### Verb
-To make something **transparent** can mean to reveal or disclose information clearly: "The company made their financial records transparent to shareholders."
-- Transparently (adverb): In a clear and open manner: "He answered questions transparently."
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) **[transparent](/en/post/transparent/)** [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [reveal](/en/post/reveal/) [or](/en/post/or/) [disclose](/en/post/disclose/) [information](/en/post/information/) [clearly](/en/post/clearly/): "[The](/en/post/the/) [company](/en/post/company/) made [their](/en/post/their/) [financial](/en/post/financial/) records [transparent](/en/post/transparent/) [to](/en/post/to/) shareholders."
+- Transparently ([adverb](/en/post/adverb/)): [In](/en/post/in/) [a](/en/post/a/) [clear](/en/post/clear/) [and](/en/post/and/) [open](/en/post/open/) [manner](/en/post/manner/): "[He](/en/post/he/) answered questions transparently."
 
-### Adjective
-An adjective describing a quality that is easily seen through or understandable: "A transparent policy ensures fairness."
+### [Adjective](/en/post/adjective/)
+An [adjective](/en/post/adjective/) describing [a](/en/post/a/) [quality](/en/post/quality/) [that](/en/post/that/) is [easily](/en/post/easily/) seen [through](/en/post/through/) [or](/en/post/or/) understandable: "[A](/en/post/a/) [transparent](/en/post/transparent/) [policy](/en/post/policy/) ensures fairness."
 
-### Adverb
-Not applicable for this word as an adverb.
+### [Adverb](/en/post/adverb/)
+[Not](/en/post/not/) [applicable](/en/post/applicable/) [for](/en/post/for/) [this](/en/post/this/) [word](/en/post/word/) [as](/en/post/as/) an [adverb](/en/post/adverb/).
 
 ## Phrases
-- "Make something transparent" means to show its contents or intentions clearly.
-- "A transparent process" refers to one that is open and free from hidden agendas.
-- "She has a transparent writing style" implies clarity in her expression.
+- "[Make](/en/post/make/) [something](/en/post/something/) [transparent](/en/post/transparent/)" [means](/en/post/means/) [to](/en/post/to/) [show](/en/post/show/) [its](/en/post/its/) contents [or](/en/post/or/) intentions [clearly](/en/post/clearly/).
+- "[A](/en/post/a/) [transparent](/en/post/transparent/) [process](/en/post/process/)" refers [to](/en/post/to/) [one](/en/post/one/) [that](/en/post/that/) is [open](/en/post/open/) [and](/en/post/and/) [free](/en/post/free/) [from](/en/post/from/) hidden agendas.
+- "[She](/en/post/she/) has [a](/en/post/a/) [transparent](/en/post/transparent/) [writing](/en/post/writing/) [style](/en/post/style/)" implies clarity [in](/en/post/in/) [her](/en/post/her/) [expression](/en/post/expression/).
 
-## Example Sentences
-- **Noun**: "The transparent water revealed schools of fish."
-- **Verb**: "The government promised to be more transparent about their decision-making."
-- **Adjective**: "The company's commitments are presented in a highly transparent report."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [transparent](/en/post/transparent/) [water](/en/post/water/) revealed schools [of](/en/post/of/) [fish](/en/post/fish/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [government](/en/post/government/) promised [to](/en/post/to/) [be](/en/post/be/) [more](/en/post/more/) [transparent](/en/post/transparent/) [about](/en/post/about/) [their](/en/post/their/) decision-making."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's commitments are presented [in](/en/post/in/) [a](/en/post/a/) [highly](/en/post/highly/) [transparent](/en/post/transparent/) [report](/en/post/report/)."
 
 ## Synonyms
-- Clear
-- Open
+- [Clear](/en/post/clear/)
+- [Open](/en/post/open/)
 - See-through
 - Crystalline
 - Unobstructed

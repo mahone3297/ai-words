@@ -11,21 +11,21 @@ keywords = ['ai words', 'wedding']
 /ˈwɛdɪŋ/
 
 ## 释义
-- **名词**: 结婚典礼或庆祝活动；婚礼。例如: "They are planning their wedding for next summer."
-- **动词**: 结婚，举行婚礼。例如: "The couple wedded in a small church surrounded by family and friends."
+- **名词**: 结婚典礼或庆祝活动；婚礼。例如: "[They](/post/they/) are planning [their](/post/their/) [wedding](/post/wedding/) [for](/post/for/) [next](/post/next/) [summer](/post/summer/)."
+- **动词**: 结婚，举行婚礼。例如: "[The](/post/the/) [couple](/post/couple/) wedded [in](/post/in/) [a](/post/a/) [small](/post/small/) [church](/post/church/) surrounded [by](/post/by/) [family](/post/family/) [and](/post/and/) friends."
 
 ## 短语
-- "Wedding ceremony" 婚礼仪式
-- "Wedding reception" 婚礼宴会
-- "Wedding anniversary" 结婚纪念日
+- "[Wedding](/post/wedding/) [ceremony](/post/ceremony/)" 婚礼仪式
+- "[Wedding](/post/wedding/) [reception](/post/reception/)" 婚礼宴会
+- "[Wedding](/post/wedding/) anniversary" 结婚纪念日
 
 ## 例句
-- 名词: "The bride wore a beautiful white gown on her wedding day."
-- 动词: "After dating for five years, they decided to wed."
+- 名词: "[The](/post/the/) bride wore [a](/post/a/) [beautiful](/post/beautiful/) [white](/post/white/) [gown](/post/gown/) [on](/post/on/) [her](/post/her/) [wedding](/post/wedding/) [day](/post/day/)."
+- 动词: "[After](/post/after/) dating [for](/post/for/) [five](/post/five/) years, [they](/post/they/) decided [to](/post/to/) wed."
 
 ## 同义词
-- Marriage ceremony
+- [Marriage](/post/marriage/) [ceremony](/post/ceremony/)
 - Nuptials
-- Union
+- [Union](/post/union/)
 - Matrimony
-- Ceremony of union
+- [Ceremony](/post/ceremony/) [of](/post/of/) [union](/post/union/)

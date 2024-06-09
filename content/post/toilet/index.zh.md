@@ -11,21 +11,21 @@ keywords = ['ai words', 'toilet']
 /toɪˈlɛt/
 
 ## 释义
-- **名词**: 一个设施，通常在室内，用于排泄和/或洗手。例如: "There's a toilet in the back of the restaurant."
-- **名词 (英国用法)**: 通常指洗手间或卫生间。例如: "Excuse me, where is the toilet?"
+- **名词**: 一个设施，通常在室内，用于排泄和/或洗手。例如: "There's [a](/post/a/) [toilet](/post/toilet/) [in](/post/in/) [the](/post/the/) [back](/post/back/) [of](/post/of/) [the](/post/the/) [restaurant](/post/restaurant/)."
+- **名词 (英国用法)**: 通常指洗手间或卫生间。例如: "[Excuse](/post/excuse/) [me](/post/me/), [where](/post/where/) is [the](/post/the/) [toilet](/post/toilet/)?"
 
 ## 短语
-- "Go to the toilet" 意为去上厕所。
-- "Public toilet" 是指公共厕所。
-- "Toilet paper" 是指厕纸。
+- "[Go](/post/go/) [to](/post/to/) [the](/post/the/) [toilet](/post/toilet/)" 意为去上厕所。
+- "[Public](/post/public/) [toilet](/post/toilet/)" 是指公共厕所。
+- "[Toilet](/post/toilet/) [paper](/post/paper/)" 是指厕纸。
 
 ## 例句
-- 名词: "I need to use the toilet before we leave."
-- 名词 (英国用法): "Sorry, do you know where the nearest toilet is?"
+- 名词: "I [need](/post/need/) [to](/post/to/) [use](/post/use/) [the](/post/the/) [toilet](/post/toilet/) [before](/post/before/) [we](/post/we/) [leave](/post/leave/)."
+- 名词 (英国用法): "[Sorry](/post/sorry/), [do](/post/do/) [you](/post/you/) [know](/post/know/) [where](/post/where/) [the](/post/the/) nearest [toilet](/post/toilet/) is?"
 
 ## 同义词
-- Bathroom
+- [Bathroom](/post/bathroom/)
 - Washroom
 - Restroom
-- Lavatory
-- WC (Water Closet)
+- [Lavatory](/post/lavatory/)
+- WC ([Water](/post/water/) Closet)

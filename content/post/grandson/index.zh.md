@@ -11,18 +11,18 @@ keywords = ['ai words', 'grandson']
 /ˈɡrɑːndˌsʌn/
 
 ## 释义
-- **名词**: 指一个人的儿子的儿子，即父亲的孙子，母亲的外孙。例如: "My grandson is visiting us this weekend."
+- **名词**: 指一个人的儿子的儿子，即父亲的孙子，母亲的外孙。例如: "[My](/post/my/) [grandson](/post/grandson/) is visiting [us](/post/us/) [this](/post/this/) [weekend](/post/weekend/)."
 
 ## 短语
-- "grandson of" 表示“...的孙子”，如 "He is the grandson of a famous scientist."
+- "[grandson](/post/grandson/) [of](/post/of/)" 表示“...的孙子”，如 "[He](/post/he/) is [the](/post/the/) [grandson](/post/grandson/) [of](/post/of/) [a](/post/a/) [famous](/post/famous/) [scientist](/post/scientist/)."
 
 ## 例句
-- "My grandson is showing an interest in science just like his grandfather did."
-- "She loves spending time with her grandson and teaching him new things."
+- "[My](/post/my/) [grandson](/post/grandson/) is showing an [interest](/post/interest/) [in](/post/in/) [science](/post/science/) [just](/post/just/) [like](/post/like/) [his](/post/his/) [grandfather](/post/grandfather/) did."
+- "[She](/post/she/) loves spending [time](/post/time/) [with](/post/with/) [her](/post/her/) [grandson](/post/grandson/) [and](/post/and/) [teaching](/post/teaching/) [him](/post/him/) [new](/post/new/) things."
 
 ## 同义词
 - Grandchild
 - Descendant
 - Offspring
 - Progeny
-- Kid (informal)
+- [Kid](/post/kid/) (informal)

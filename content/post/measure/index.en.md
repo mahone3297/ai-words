@@ -7,33 +7,33 @@ description = '[ˈmeʒə] vt.量，测量 n.分量'
 keywords = ['ai words', 'measure']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈmeʒər/
 
 ## Definitions
-### Noun (n)
-- **A unit or system of measurement**: A standardized method for determining the size, amount, or degree of something, such as length, weight, time, or temperature. Example: "The recipe calls for a precise measure of sugar."
-- **Quantity measured**: The amount of something that has been determined using a particular measurement system. Example: "The house measures 150 square meters."
-- **Instrument for measuring**: A tool or device used to quantify or assess something. Example: "A tape measure is used to determine the length of a room."
-- **Legislation or action taken**: A course of action or law implemented to deal with a particular issue. Example: "The government introduced new measures to combat climate change."
-- **Musical notation**: A series of beats that form a unit of time in music. Example: "The song is written in 4/4 measure."
+### [Noun](/en/post/noun/) (n)
+- **[A](/en/post/a/) [unit](/en/post/unit/) [or](/en/post/or/) [system](/en/post/system/) [of](/en/post/of/) [measurement](/en/post/measurement/)**: [A](/en/post/a/) standardized [method](/en/post/method/) [for](/en/post/for/) determining [the](/en/post/the/) [size](/en/post/size/), [amount](/en/post/amount/), [or](/en/post/or/) [degree](/en/post/degree/) [of](/en/post/of/) [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [length](/en/post/length/), [weight](/en/post/weight/), [time](/en/post/time/), [or](/en/post/or/) [temperature](/en/post/temperature/). [Example](/en/post/example/): "[The](/en/post/the/) recipe calls [for](/en/post/for/) [a](/en/post/a/) [precise](/en/post/precise/) [measure](/en/post/measure/) [of](/en/post/of/) [sugar](/en/post/sugar/)."
+- **[Quantity](/en/post/quantity/) measured**: [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) has been determined using [a](/en/post/a/) [particular](/en/post/particular/) [measurement](/en/post/measurement/) [system](/en/post/system/). [Example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) measures 150 [square](/en/post/square/) meters."
+- **[Instrument](/en/post/instrument/) [for](/en/post/for/) measuring**: [A](/en/post/a/) [tool](/en/post/tool/) [or](/en/post/or/) [device](/en/post/device/) [used](/en/post/used/) [to](/en/post/to/) quantify [or](/en/post/or/) [assess](/en/post/assess/) [something](/en/post/something/). [Example](/en/post/example/): "[A](/en/post/a/) [tape](/en/post/tape/) [measure](/en/post/measure/) is [used](/en/post/used/) [to](/en/post/to/) [determine](/en/post/determine/) [the](/en/post/the/) [length](/en/post/length/) [of](/en/post/of/) [a](/en/post/a/) [room](/en/post/room/)."
+- **Legislation [or](/en/post/or/) [action](/en/post/action/) taken**: [A](/en/post/a/) [course](/en/post/course/) [of](/en/post/of/) [action](/en/post/action/) [or](/en/post/or/) [law](/en/post/law/) implemented [to](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [a](/en/post/a/) [particular](/en/post/particular/) [issue](/en/post/issue/). [Example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) introduced [new](/en/post/new/) measures [to](/en/post/to/) combat [climate](/en/post/climate/) [change](/en/post/change/)."
+- **[Musical](/en/post/musical/) notation**: [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) beats [that](/en/post/that/) [form](/en/post/form/) [a](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [time](/en/post/time/) [in](/en/post/in/) [music](/en/post/music/). [Example](/en/post/example/): "[The](/en/post/the/) [song](/en/post/song/) is written [in](/en/post/in/) 4/4 [measure](/en/post/measure/)."
 
-### Verb (v)
-- **To find the dimensions or quantity of something**: To use a tool or instrument to ascertain the extent or amount of something. Example: "I need to measure the width of the door to see if the sofa will fit."
-- **To evaluate or judge**: To make an assessment of the quality, importance, or impact of something. Example: "We must measure the success of our campaign by its overall impact on society."
-- **To take action**: To do something in response to a situation or problem. Example: "The company decided to measure up to the competition by improving their product line."
+### [Verb](/en/post/verb/) (v)
+- **[To](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) dimensions [or](/en/post/or/) [quantity](/en/post/quantity/) [of](/en/post/of/) [something](/en/post/something/)**: [To](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [tool](/en/post/tool/) [or](/en/post/or/) [instrument](/en/post/instrument/) [to](/en/post/to/) ascertain [the](/en/post/the/) [extent](/en/post/extent/) [or](/en/post/or/) [amount](/en/post/amount/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "I [need](/en/post/need/) [to](/en/post/to/) [measure](/en/post/measure/) [the](/en/post/the/) [width](/en/post/width/) [of](/en/post/of/) [the](/en/post/the/) [door](/en/post/door/) [to](/en/post/to/) [see](/en/post/see/) [if](/en/post/if/) [the](/en/post/the/) sofa [will](/en/post/will/) [fit](/en/post/fit/)."
+- **[To](/en/post/to/) [evaluate](/en/post/evaluate/) [or](/en/post/or/) [judge](/en/post/judge/)**: [To](/en/post/to/) [make](/en/post/make/) an assessment [of](/en/post/of/) [the](/en/post/the/) [quality](/en/post/quality/), [importance](/en/post/importance/), [or](/en/post/or/) [impact](/en/post/impact/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[We](/en/post/we/) [must](/en/post/must/) [measure](/en/post/measure/) [the](/en/post/the/) [success](/en/post/success/) [of](/en/post/of/) [our](/en/post/our/) [campaign](/en/post/campaign/) [by](/en/post/by/) [its](/en/post/its/) [overall](/en/post/overall/) [impact](/en/post/impact/) [on](/en/post/on/) [society](/en/post/society/)."
+- **[To](/en/post/to/) [take](/en/post/take/) [action](/en/post/action/)**: [To](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [problem](/en/post/problem/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) decided [to](/en/post/to/) [measure](/en/post/measure/) [up](/en/post/up/) [to](/en/post/to/) [the](/en/post/the/) [competition](/en/post/competition/) [by](/en/post/by/) improving [their](/en/post/their/) [product](/en/post/product/) [line](/en/post/line/)."
 
-### Phrase
-- **Take measures**: To act or plan accordingly to deal with a specific issue or achieve a goal. Example: "The authorities have taken measures to ensure public safety during the event."
-- **Go by the book** (or go by the rule book): To act according to established rules or measures. Example: "In this organization, we always go by the book when it comes to financial procedures."
-- **Measure up**: To meet certain standards or expectations. Example: "The candidate's qualifications didn't quite measure up to what was required for the job."
+### [Phrase](/en/post/phrase/)
+- **[Take](/en/post/take/) measures**: [To](/en/post/to/) [act](/en/post/act/) [or](/en/post/or/) [plan](/en/post/plan/) [accordingly](/en/post/accordingly/) [to](/en/post/to/) [deal](/en/post/deal/) [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) [issue](/en/post/issue/) [or](/en/post/or/) [achieve](/en/post/achieve/) [a](/en/post/a/) [goal](/en/post/goal/). [Example](/en/post/example/): "[The](/en/post/the/) authorities [have](/en/post/have/) taken measures [to](/en/post/to/) [ensure](/en/post/ensure/) [public](/en/post/public/) [safety](/en/post/safety/) [during](/en/post/during/) [the](/en/post/the/) [event](/en/post/event/)."
+- **[Go](/en/post/go/) [by](/en/post/by/) [the](/en/post/the/) [book](/en/post/book/)** ([or](/en/post/or/) [go](/en/post/go/) [by](/en/post/by/) [the](/en/post/the/) [rule](/en/post/rule/) [book](/en/post/book/)): [To](/en/post/to/) [act](/en/post/act/) according [to](/en/post/to/) established rules [or](/en/post/or/) measures. [Example](/en/post/example/): "[In](/en/post/in/) [this](/en/post/this/) [organization](/en/post/organization/), [we](/en/post/we/) [always](/en/post/always/) [go](/en/post/go/) [by](/en/post/by/) [the](/en/post/the/) [book](/en/post/book/) [when](/en/post/when/) [it](/en/post/it/) comes [to](/en/post/to/) [financial](/en/post/financial/) procedures."
+- **[Measure](/en/post/measure/) [up](/en/post/up/)**: [To](/en/post/to/) [meet](/en/post/meet/) [certain](/en/post/certain/) standards [or](/en/post/or/) expectations. [Example](/en/post/example/): "[The](/en/post/the/) candidate's qualifications didn't [quite](/en/post/quite/) [measure](/en/post/measure/) [up](/en/post/up/) [to](/en/post/to/) [what](/en/post/what/) was required [for](/en/post/for/) [the](/en/post/the/) [job](/en/post/job/)."
 
-## Example Sentences
-- **Noun**: "Use a ruler as a measure to cut the fabric straight."
-- **Verb**: "They're measuring the height of the tree to calculate its age."
-- **Adjective (attributive)**: "This is a measure of the team's commitment to excellence."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[Use](/en/post/use/) [a](/en/post/a/) [ruler](/en/post/ruler/) [as](/en/post/as/) [a](/en/post/a/) [measure](/en/post/measure/) [to](/en/post/to/) [cut](/en/post/cut/) [the](/en/post/the/) [fabric](/en/post/fabric/) [straight](/en/post/straight/)."
+- **[Verb](/en/post/verb/)**: "They're measuring [the](/en/post/the/) [height](/en/post/height/) [of](/en/post/of/) [the](/en/post/the/) [tree](/en/post/tree/) [to](/en/post/to/) [calculate](/en/post/calculate/) [its](/en/post/its/) [age](/en/post/age/)."
+- **[Adjective](/en/post/adjective/) (attributive)**: "[This](/en/post/this/) is [a](/en/post/a/) [measure](/en/post/measure/) [of](/en/post/of/) [the](/en/post/the/) team's commitment [to](/en/post/to/) excellence."
 
 ## Synonyms
-- Noun: Unit, dimension, scale, gauge, standard
-- Verb: Assess, quantify, evaluate, gauge, appraise, estimate
-- Adjective (attributive): Quantitative, standardized, proportional, comparative
+- [Noun](/en/post/noun/): [Unit](/en/post/unit/), [dimension](/en/post/dimension/), [scale](/en/post/scale/), [gauge](/en/post/gauge/), [standard](/en/post/standard/)
+- [Verb](/en/post/verb/): [Assess](/en/post/assess/), quantify, [evaluate](/en/post/evaluate/), [gauge](/en/post/gauge/), appraise, [estimate](/en/post/estimate/)
+- [Adjective](/en/post/adjective/) (attributive): Quantitative, standardized, [proportional](/en/post/proportional/), [comparative](/en/post/comparative/)

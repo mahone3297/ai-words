@@ -7,44 +7,44 @@ description = '[əˈtempt] vt.尝试，试图 n.企图'
 keywords = ['ai words', 'attempt']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /əˈtʌmənt/
 
 ## Definitions
-### Noun
-- An effort or trial to do something, often with the intention of succeeding: *He made several attempts to solve the math problem.*
-- An instance or act of trying: *Her first attempt at public speaking was quite successful.*
+### [Noun](/en/post/noun/)
+- An [effort](/en/post/effort/) [or](/en/post/or/) [trial](/en/post/trial/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) succeeding: *[He](/en/post/he/) made [several](/en/post/several/) attempts [to](/en/post/to/) [solve](/en/post/solve/) [the](/en/post/the/) math [problem](/en/post/problem/).*
+- An [instance](/en/post/instance/) [or](/en/post/or/) [act](/en/post/act/) [of](/en/post/of/) trying: *[Her](/en/post/her/) [first](/en/post/first/) [attempt](/en/post/attempt/) [at](/en/post/at/) [public](/en/post/public/) speaking was [quite](/en/post/quite/) [successful](/en/post/successful/).*
 
-### Verb
-- To try to do something, especially with some difficulty or uncertainty: *I'm going to attempt the marathon this year.*
-- To make an effort or proposal: *He attempted to negotiate a better deal.*
+### [Verb](/en/post/verb/)
+- [To](/en/post/to/) [try](/en/post/try/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [especially](/en/post/especially/) [with](/en/post/with/) [some](/en/post/some/) [difficulty](/en/post/difficulty/) [or](/en/post/or/) uncertainty: *I'm going [to](/en/post/to/) [attempt](/en/post/attempt/) [the](/en/post/the/) marathon [this](/en/post/this/) [year](/en/post/year/).*
+- [To](/en/post/to/) [make](/en/post/make/) an [effort](/en/post/effort/) [or](/en/post/or/) [proposal](/en/post/proposal/): *[He](/en/post/he/) attempted [to](/en/post/to/) negotiate [a](/en/post/a/) [better](/en/post/better/) [deal](/en/post/deal/).*
 
-### Adjective
-- Characterizing or involving an attempt: *The attempt to simplify the process was appreciated.*
+### [Adjective](/en/post/adjective/)
+- Characterizing [or](/en/post/or/) involving an [attempt](/en/post/attempt/): *[The](/en/post/the/) [attempt](/en/post/attempt/) [to](/en/post/to/) [simplify](/en/post/simplify/) [the](/en/post/the/) [process](/en/post/process/) was appreciated.*
 
 ## Phrases
-- "Make an attempt" means to try or engage in a task.
-- "Failed attempt" refers to a unsuccessful endeavor.
-- "Without even attempting" means not even trying.
+- "[Make](/en/post/make/) an [attempt](/en/post/attempt/)" [means](/en/post/means/) [to](/en/post/to/) [try](/en/post/try/) [or](/en/post/or/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [task](/en/post/task/).
+- "Failed [attempt](/en/post/attempt/)" refers [to](/en/post/to/) [a](/en/post/a/) unsuccessful endeavor.
+- "[Without](/en/post/without/) [even](/en/post/even/) attempting" [means](/en/post/means/) [not](/en/post/not/) [even](/en/post/even/) trying.
 
-## Example Sentences
-- **Noun**: "After several failed attempts, he finally solved the puzzle."
-- **Verb**: "He decided to attempt a new diet to improve his health."
-- **Adjective**: "The attempt to bridge the gap between cultures was well-received."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [several](/en/post/several/) failed attempts, [he](/en/post/he/) [finally](/en/post/finally/) solved [the](/en/post/the/) [puzzle](/en/post/puzzle/)."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [attempt](/en/post/attempt/) [a](/en/post/a/) [new](/en/post/new/) diet [to](/en/post/to/) [improve](/en/post/improve/) [his](/en/post/his/) [health](/en/post/health/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [attempt](/en/post/attempt/) [to](/en/post/to/) [bridge](/en/post/bridge/) [the](/en/post/the/) [gap](/en/post/gap/) [between](/en/post/between/) cultures was well-received."
 
 ## Synonyms
-- Effort
-- Try
+- [Effort](/en/post/effort/)
+- [Try](/en/post/try/)
 - Endeavor
-- Shot
-- Go
-- Pursuit
-- Struggle
-- Expenditure of effort
+- [Shot](/en/post/shot/)
+- [Go](/en/post/go/)
+- [Pursuit](/en/post/pursuit/)
+- [Struggle](/en/post/struggle/)
+- Expenditure [of](/en/post/of/) [effort](/en/post/effort/)
 
 ## Antonyms
-- Failure
+- [Failure](/en/post/failure/)
 - Abandonment
-- Surrender
-- Lack of effort
+- [Surrender](/en/post/surrender/)
+- [Lack](/en/post/lack/) [of](/en/post/of/) [effort](/en/post/effort/)
 - Inaction

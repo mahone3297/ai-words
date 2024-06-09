@@ -7,29 +7,29 @@ description = '[ˈmenjuː] n.菜单；饭菜，菜肴'
 keywords = ['ai words', 'menu']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈmɛnju/
 
 ## Definitions
-- **Noun**: A list of dishes and drinks available at a restaurant, usually with their prices. For example: "The menu offered a variety of appetizers, entrees, and desserts."
-  - Also used in computing contexts to refer to a list of options from which the user can choose. Example: "Click on 'File' in the top menu to access the save function."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) dishes [and](/en/post/and/) drinks [available](/en/post/available/) [at](/en/post/at/) [a](/en/post/a/) [restaurant](/en/post/restaurant/), [usually](/en/post/usually/) [with](/en/post/with/) [their](/en/post/their/) prices. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [menu](/en/post/menu/) offered [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) appetizers, entrees, [and](/en/post/and/) desserts."
+  - [Also](/en/post/also/) [used](/en/post/used/) [in](/en/post/in/) computing contexts [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) options [from](/en/post/from/) [which](/en/post/which/) [the](/en/post/the/) [user](/en/post/user/) [can](/en/post/can/) [choose](/en/post/choose/). [Example](/en/post/example/): "Click [on](/en/post/on/) '[File](/en/post/file/)' [in](/en/post/in/) [the](/en/post/the/) [top](/en/post/top/) [menu](/en/post/menu/) [to](/en/post/to/) [access](/en/post/access/) [the](/en/post/the/) [save](/en/post/save/) [function](/en/post/function/)."
   
-- **Verb**: (informal) To include something in a list of options or choices. Example: "The chef decided to menu some new vegan dishes this season."
+- **[Verb](/en/post/verb/)**: (informal) [To](/en/post/to/) [include](/en/post/include/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) options [or](/en/post/or/) choices. [Example](/en/post/example/): "[The](/en/post/the/) chef decided [to](/en/post/to/) [menu](/en/post/menu/) [some](/en/post/some/) [new](/en/post/new/) vegan dishes [this](/en/post/this/) [season](/en/post/season/)."
 
 ## Phrases
-- "Menu planning" refers to the process of selecting and organizing items to be served in a restaurant or at an event.
-- "Main menu" in computing refers to the primary screen that provides access to various functions or sub-menus.
-- "Off-menu item" refers to a dish or drink not listed on the regular menu but can still be ordered upon request.
+- "[Menu](/en/post/menu/) planning" refers [to](/en/post/to/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) selecting [and](/en/post/and/) organizing items [to](/en/post/to/) [be](/en/post/be/) served [in](/en/post/in/) [a](/en/post/a/) [restaurant](/en/post/restaurant/) [or](/en/post/or/) [at](/en/post/at/) an [event](/en/post/event/).
+- "[Main](/en/post/main/) [menu](/en/post/menu/)" [in](/en/post/in/) computing refers [to](/en/post/to/) [the](/en/post/the/) [primary](/en/post/primary/) [screen](/en/post/screen/) [that](/en/post/that/) provides [access](/en/post/access/) [to](/en/post/to/) [various](/en/post/various/) functions [or](/en/post/or/) sub-menus.
+- "Off-menu [item](/en/post/item/)" refers [to](/en/post/to/) [a](/en/post/a/) [dish](/en/post/dish/) [or](/en/post/or/) [drink](/en/post/drink/) [not](/en/post/not/) listed [on](/en/post/on/) [the](/en/post/the/) [regular](/en/post/regular/) [menu](/en/post/menu/) [but](/en/post/but/) [can](/en/post/can/) [still](/en/post/still/) [be](/en/post/be/) ordered [upon](/en/post/upon/) [request](/en/post/request/).
 
-## Example Sentences
-- **Noun**: "She studied the menu carefully before placing her order at the café."
-- **Verb**: "They're going to menu the seasonal specials today."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) studied [the](/en/post/the/) [menu](/en/post/menu/) carefully [before](/en/post/before/) placing [her](/en/post/her/) [order](/en/post/order/) [at](/en/post/at/) [the](/en/post/the/) café."
+- **[Verb](/en/post/verb/)**: "They're going [to](/en/post/to/) [menu](/en/post/menu/) [the](/en/post/the/) seasonal specials [today](/en/post/today/)."
 
 ## Synonyms
-- Bill of fare
-- List of choices
-- Selection
-- Catalogue (in a broader sense)
-- In computing: Options, Choices, Dropdown, Navigation bar
+- [Bill](/en/post/bill/) [of](/en/post/of/) [fare](/en/post/fare/)
+- [List](/en/post/list/) [of](/en/post/of/) choices
+- [Selection](/en/post/selection/)
+- Catalogue ([in](/en/post/in/) [a](/en/post/a/) broader [sense](/en/post/sense/))
+- [In](/en/post/in/) computing: Options, Choices, Dropdown, [Navigation](/en/post/navigation/) [bar](/en/post/bar/)
 
-As a verb, it doesn't have direct synonyms in the context of adding items to a list of choices, but one could use expressions like "include on the menu" or "offer as an option."
+[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), [it](/en/post/it/) doesn't [have](/en/post/have/) [direct](/en/post/direct/) synonyms [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) adding items [to](/en/post/to/) [a](/en/post/a/) [list](/en/post/list/) [of](/en/post/of/) choices, [but](/en/post/but/) [one](/en/post/one/) [could](/en/post/could/) [use](/en/post/use/) expressions [like](/en/post/like/) "[include](/en/post/include/) [on](/en/post/on/) [the](/en/post/the/) [menu](/en/post/menu/)" [or](/en/post/or/) "[offer](/en/post/offer/) [as](/en/post/as/) an [option](/en/post/option/)."

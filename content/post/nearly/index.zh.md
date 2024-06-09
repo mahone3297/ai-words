@@ -11,21 +11,21 @@ keywords = ['ai words', 'nearly']
 /nɪəli/
 
 ## 释义
-- **副词**: 差不多，几乎，将近。例如: "I was nearly late for the meeting." 
-- **形容词**: 接近的，邻近的。例如: "The nearly empty bottle is on the table."
+- **副词**: 差不多，几乎，将近。例如: "I was [nearly](/post/nearly/) [late](/post/late/) [for](/post/for/) [the](/post/the/) [meeting](/post/meeting/)." 
+- **形容词**: 接近的，邻近的。例如: "[The](/post/the/) [nearly](/post/nearly/) [empty](/post/empty/) [bottle](/post/bottle/) is [on](/post/on/) [the](/post/the/) [table](/post/table/)."
 
 ## 短语
-- "nearly always" 几乎总是
-- "nearly done" 差不多完成了
-- "nearly there" 快到了
+- "[nearly](/post/nearly/) [always](/post/always/)" 几乎总是
+- "[nearly](/post/nearly/) done" 差不多完成了
+- "[nearly](/post/nearly/) [there](/post/there/)" 快到了
 
 ## 例句
-- 副词: "I finished the project nearly at midnight."
-- 形容词: "The nearly forgotten town has a rich history."
+- 副词: "I finished [the](/post/the/) [project](/post/project/) [nearly](/post/nearly/) [at](/post/at/) [midnight](/post/midnight/)."
+- 形容词: "[The](/post/the/) [nearly](/post/nearly/) forgotten [town](/post/town/) has [a](/post/a/) [rich](/post/rich/) [history](/post/history/)."
 
 ## 同义词
-- almost
+- [almost](/post/almost/)
 - almostly
-- close to
-- virtually
-- practically
+- [close](/post/close/) [to](/post/to/)
+- [virtually](/post/virtually/)
+- [practically](/post/practically/)

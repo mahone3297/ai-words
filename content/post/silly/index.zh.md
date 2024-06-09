@@ -11,20 +11,20 @@ keywords = ['ai words', 'silly']
 /sɪl.i/
 
 ## 释义
-- **形容词**: 愚蠢的，傻的。例如: "Don't be silly, we can't just leave without telling anyone."
-- **名词**: (口语)愚蠢的行为或言语。例如: "What a silly thing to say!"
+- **形容词**: 愚蠢的，傻的。例如: "Don't [be](/post/be/) [silly](/post/silly/), [we](/post/we/) can't [just](/post/just/) [leave](/post/leave/) [without](/post/without/) telling [anyone](/post/anyone/)."
+- **名词**: (口语)愚蠢的行为或言语。例如: "[What](/post/what/) [a](/post/a/) [silly](/post/silly/) [thing](/post/thing/) [to](/post/to/) [say](/post/say/)!"
 
 ## 短语
-- "act/sound silly" 表现得或听起来愚蠢。
-- "make a silly mistake" 做了一个愚蠢的错误。
+- "[act](/post/act/)/[sound](/post/sound/) [silly](/post/silly/)" 表现得或听起来愚蠢。
+- "[make](/post/make/) [a](/post/a/) [silly](/post/silly/) [mistake](/post/mistake/)" 做了一个愚蠢的错误。
 
 ## 例句
-- 形容词: "It's silly to think that rain causes thunder."
-- 名词: "His excuse for being late was just silly."
+- 形容词: "It's [silly](/post/silly/) [to](/post/to/) [think](/post/think/) [that](/post/that/) [rain](/post/rain/) causes [thunder](/post/thunder/)."
+- 名词: "[His](/post/his/) [excuse](/post/excuse/) [for](/post/for/) [being](/post/being/) [late](/post/late/) was [just](/post/just/) [silly](/post/silly/)."
 
 ## 同义词
-- Stupid
-- Foolish
+- [Stupid](/post/stupid/)
+- [Foolish](/post/foolish/)
 - Absurd
-- Nonsense
-- Childish
+- [Nonsense](/post/nonsense/)
+- [Childish](/post/childish/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'velocity']
 /ˈvɛlətɪsi/
 
 ## 释义
-- **名词 n**: 速度，速率。物体在单位时间内移动的距离。例如: "The velocity of light is approximately 299,792 km per second."
-- **名词 n**: (尤其指物理中的)瞬时速度，指物体在某一时刻的速度。例如: "At the peak of his jump, the athlete reached an impressive vertical velocity."
+- **名词 n**: 速度，速率。物体在单位时间内移动的距离。例如: "[The](/post/the/) [velocity](/post/velocity/) [of](/post/of/) [light](/post/light/) is [approximately](/post/approximately/) 299,792 km [per](/post/per/) [second](/post/second/)."
+- **名词 n**: (尤其指物理中的)瞬时速度，指物体在某一时刻的速度。例如: "[At](/post/at/) [the](/post/the/) [peak](/post/peak/) [of](/post/of/) [his](/post/his/) [jump](/post/jump/), [the](/post/the/) [athlete](/post/athlete/) reached an [impressive](/post/impressive/) [vertical](/post/vertical/) [velocity](/post/velocity/)."
 
 ## 短语
-- "terminal velocity" 最终速度，物体在重力或其他阻力作用下达到的稳定速度。
-- "initial velocity" 初始速度，物体开始运动时的速度。
+- "[terminal](/post/terminal/) [velocity](/post/velocity/)" 最终速度，物体在重力或其他阻力作用下达到的稳定速度。
+- "[initial](/post/initial/) [velocity](/post/velocity/)" 初始速度，物体开始运动时的速度。
 
 ## 例句
-- 名词: "The car's velocity increased as it accelerated down the highway."
-- 名词: "The bullet was fired with a high velocity,穿透了 the target."
+- 名词: "[The](/post/the/) car's [velocity](/post/velocity/) increased [as](/post/as/) [it](/post/it/) accelerated [down](/post/down/) [the](/post/the/) [highway](/post/highway/)."
+- 名词: "[The](/post/the/) [bullet](/post/bullet/) was fired [with](/post/with/) [a](/post/a/) [high](/post/high/) [velocity](/post/velocity/),穿透了 [the](/post/the/) [target](/post/target/)."
 
 ## 同义词
-- speed
-- rate
+- [speed](/post/speed/)
+- [rate](/post/rate/)
 - tempo
-- pace
+- [pace](/post/pace/)
 - swiftness

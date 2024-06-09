@@ -7,27 +7,27 @@ description = '[ˈidiəm] n.习语，成语'
 keywords = ['ai words', 'idiom']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈaɪ.di.əm/
 
 ## Definitions
-- **Noun**: A group of words established by usage as having a meaning not deducible from those of the individual words (e.g., *rain cats and dogs*). _Example:_ "Learning idioms can be challenging for non-native speakers; for instance, 'break a leg' is an idiom that actually means 'good luck'."
-- **Noun**: A form of expression natural to a language, person, or group; a manner of speaking or writing characteristic of a particular people. _Example:_ "The poet's use of idiomatic expressions gives his work a unique flavor."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) words established [by](/en/post/by/) [usage](/en/post/usage/) [as](/en/post/as/) having [a](/en/post/a/) [meaning](/en/post/meaning/) [not](/en/post/not/) deducible [from](/en/post/from/) [those](/en/post/those/) [of](/en/post/of/) [the](/en/post/the/) [individual](/en/post/individual/) words (e.g., *[rain](/en/post/rain/) cats [and](/en/post/and/) dogs*). _Example:_ "[Learning](/en/post/learning/) idioms [can](/en/post/can/) [be](/en/post/be/) challenging [for](/en/post/for/) non-native speakers; [for](/en/post/for/) [instance](/en/post/instance/), '[break](/en/post/break/) [a](/en/post/a/) [leg](/en/post/leg/)' is an [idiom](/en/post/idiom/) [that](/en/post/that/) [actually](/en/post/actually/) [means](/en/post/means/) '[good](/en/post/good/) [luck](/en/post/luck/)'."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [expression](/en/post/expression/) [natural](/en/post/natural/) [to](/en/post/to/) [a](/en/post/a/) [language](/en/post/language/), [person](/en/post/person/), [or](/en/post/or/) [group](/en/post/group/); [a](/en/post/a/) [manner](/en/post/manner/) [of](/en/post/of/) speaking [or](/en/post/or/) [writing](/en/post/writing/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [people](/en/post/people/). _Example:_ "[The](/en/post/the/) poet's [use](/en/post/use/) [of](/en/post/of/) idiomatic expressions gives [his](/en/post/his/) [work](/en/post/work/) [a](/en/post/a/) [unique](/en/post/unique/) flavor."
 
 ## Phrases
-- **Idiomatically**: In a way that reflects the natural or customary use of idioms. _Example usage_: "He speaks the language idiomatically, using colloquialisms effortlessly."
-- **Break a leg**: An idiomatic expression wishing good luck, especially to performers before a show. _Example sentence_: "I'm nervous about my stage debut tonight, but don't worry, you can break a leg for me!"
-- **Costs an arm and a leg**: An idiomatic expression meaning something is very expensive. _Example sentence_: "The new car costs an arm and a leg, but it's worth every penny."
+- **Idiomatically**: [In](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) reflects [the](/en/post/the/) [natural](/en/post/natural/) [or](/en/post/or/) customary [use](/en/post/use/) [of](/en/post/of/) idioms. _Example usage_: "[He](/en/post/he/) speaks [the](/en/post/the/) [language](/en/post/language/) idiomatically, using colloquialisms effortlessly."
+- **[Break](/en/post/break/) [a](/en/post/a/) [leg](/en/post/leg/)**: An idiomatic [expression](/en/post/expression/) wishing [good](/en/post/good/) [luck](/en/post/luck/), [especially](/en/post/especially/) [to](/en/post/to/) performers [before](/en/post/before/) [a](/en/post/a/) [show](/en/post/show/). _Example sentence_: "I'm [nervous](/en/post/nervous/) [about](/en/post/about/) [my](/en/post/my/) [stage](/en/post/stage/) debut [tonight](/en/post/tonight/), [but](/en/post/but/) don't [worry](/en/post/worry/), [you](/en/post/you/) [can](/en/post/can/) [break](/en/post/break/) [a](/en/post/a/) [leg](/en/post/leg/) [for](/en/post/for/) [me](/en/post/me/)!"
+- **Costs an [arm](/en/post/arm/) [and](/en/post/and/) [a](/en/post/a/) [leg](/en/post/leg/)**: An idiomatic [expression](/en/post/expression/) [meaning](/en/post/meaning/) [something](/en/post/something/) is [very](/en/post/very/) [expensive](/en/post/expensive/). _Example sentence_: "[The](/en/post/the/) [new](/en/post/new/) [car](/en/post/car/) costs an [arm](/en/post/arm/) [and](/en/post/and/) [a](/en/post/a/) [leg](/en/post/leg/), [but](/en/post/but/) it's [worth](/en/post/worth/) [every](/en/post/every/) [penny](/en/post/penny/)."
 
-## Example Sentences
-- **Noun**: "Understanding English idioms is crucial for mastering the language."
-- **Noun**: "Each culture has its own idioms which reflect their unique perspectives and histories."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[Understanding](/en/post/understanding/) English idioms is crucial [for](/en/post/for/) mastering [the](/en/post/the/) [language](/en/post/language/)."
+- **[Noun](/en/post/noun/)**: "[Each](/en/post/each/) [culture](/en/post/culture/) has [its](/en/post/its/) [own](/en/post/own/) idioms [which](/en/post/which/) [reflect](/en/post/reflect/) [their](/en/post/their/) [unique](/en/post/unique/) perspectives [and](/en/post/and/) histories."
 
 ## Synonyms
-- Expression
-- Phrase
+- [Expression](/en/post/expression/)
+- [Phrase](/en/post/phrase/)
 - Saying
-- Figure of speech
+- [Figure](/en/post/figure/) [of](/en/post/of/) [speech](/en/post/speech/)
 - Colloquialism
 - Proverb
 - Maxim

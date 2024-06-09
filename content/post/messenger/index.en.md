@@ -7,33 +7,33 @@ description = '[ˈmesindʒə] n.送信者，信使'
 keywords = ['ai words', 'messenger']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈmesɪndʒər/
 
 ## Definitions
-- **Noun**: A person who carries messages or acts as a courier from one person or place to another. For example: "The king sent his most trusted messenger to deliver the news."
-- **Noun (figurative)**: A means of communication or a platform that delivers messages, such as an email service or messaging app. For instance: "Facebook Messenger is a popular messaging application."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) carries messages [or](/en/post/or/) acts [as](/en/post/as/) [a](/en/post/a/) courier [from](/en/post/from/) [one](/en/post/one/) [person](/en/post/person/) [or](/en/post/or/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [king](/en/post/king/) sent [his](/en/post/his/) [most](/en/post/most/) trusted [messenger](/en/post/messenger/) [to](/en/post/to/) [deliver](/en/post/deliver/) [the](/en/post/the/) [news](/en/post/news/)."
+- **[Noun](/en/post/noun/) (figurative)**: [A](/en/post/a/) [means](/en/post/means/) [of](/en/post/of/) [communication](/en/post/communication/) [or](/en/post/or/) [a](/en/post/a/) [platform](/en/post/platform/) [that](/en/post/that/) delivers messages, [such](/en/post/such/) [as](/en/post/as/) an email [service](/en/post/service/) [or](/en/post/or/) messaging app. [For](/en/post/for/) [instance](/en/post/instance/): "Facebook [Messenger](/en/post/messenger/) is [a](/en/post/a/) [popular](/en/post/popular/) messaging [application](/en/post/application/)."
 
-### Example Sentences
-- **Noun (person)**: "In ancient times, messengers were often swift runners responsible for relaying important information across great distances."
-- **Noun (communication tool)**: "They prefer using WhatsApp messenger to stay in touch with their friends and family."
+### [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/) ([person](/en/post/person/))**: "[In](/en/post/in/) [ancient](/en/post/ancient/) times, messengers were [often](/en/post/often/) [swift](/en/post/swift/) runners [responsible](/en/post/responsible/) [for](/en/post/for/) relaying [important](/en/post/important/) [information](/en/post/information/) [across](/en/post/across/) [great](/en/post/great/) distances."
+- **[Noun](/en/post/noun/) ([communication](/en/post/communication/) [tool](/en/post/tool/))**: "[They](/en/post/they/) [prefer](/en/post/prefer/) using WhatsApp [messenger](/en/post/messenger/) [to](/en/post/to/) [stay](/en/post/stay/) [in](/en/post/in/) [touch](/en/post/touch/) [with](/en/post/with/) [their](/en/post/their/) friends [and](/en/post/and/) [family](/en/post/family/)."
 
 ## Phrases
-- "A messenger of peace": A diplomatic figure or organization working towards promoting peace.
-- "Messenger RNA (mRNA)": In biology, this refers to a type of RNA molecule that carries genetic information from DNA to ribosomes where proteins are synthesized.
+- "[A](/en/post/a/) [messenger](/en/post/messenger/) [of](/en/post/of/) [peace](/en/post/peace/)": [A](/en/post/a/) diplomatic [figure](/en/post/figure/) [or](/en/post/or/) [organization](/en/post/organization/) working towards promoting [peace](/en/post/peace/).
+- "[Messenger](/en/post/messenger/) RNA (mRNA)": [In](/en/post/in/) [biology](/en/post/biology/), [this](/en/post/this/) refers [to](/en/post/to/) [a](/en/post/a/) [type](/en/post/type/) [of](/en/post/of/) RNA [molecule](/en/post/molecule/) [that](/en/post/that/) carries genetic [information](/en/post/information/) [from](/en/post/from/) DNA [to](/en/post/to/) ribosomes [where](/en/post/where/) proteins are synthesized.
 
 ## Synonyms
 - Courier
 - Envoy
-- Runner
-- Agent
+- [Runner](/en/post/runner/)
+- [Agent](/en/post/agent/)
 - Herald (archaic)
 - Delegate
 - emissary
-- Representative
+- [Representative](/en/post/representative/)
 
-When used in the context of digital communication tools:
+[When](/en/post/when/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [digital](/en/post/digital/) [communication](/en/post/communication/) tools:
 - Messaging app
-- Chat service
-- Instant messaging platform
-- Communication software
+- Chat [service](/en/post/service/)
+- [Instant](/en/post/instant/) messaging [platform](/en/post/platform/)
+- [Communication](/en/post/communication/) software

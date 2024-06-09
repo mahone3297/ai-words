@@ -11,20 +11,20 @@ keywords = ['ai words', 'favourable']
 /fəˈvərəbl/
 
 ## 释义
-- **形容词**: 有利的，赞同的，给予支持的。例如: "The weather was favourable for a picnic."
-- **副词**: 有利地，善意地。例如: "The proposal was received favourably by the committee."
+- **形容词**: 有利的，赞同的，给予支持的。例如: "[The](/post/the/) [weather](/post/weather/) was [favourable](/post/favourable/) [for](/post/for/) [a](/post/a/) [picnic](/post/picnic/)."
+- **副词**: 有利地，善意地。例如: "[The](/post/the/) [proposal](/post/proposal/) was received favourably [by](/post/by/) [the](/post/the/) [committee](/post/committee/)."
 
 ## 短语
-- "in favour of" 支持，赞同。例如: "Most of the voters were in favour of the new policy."
-- "favourable conditions" 有利条件。例如: "The company's growth is due to the favourable economic conditions."
+- "[in](/post/in/) [favour](/post/favour/) [of](/post/of/)" 支持，赞同。例如: "[Most](/post/most/) [of](/post/of/) [the](/post/the/) voters were [in](/post/in/) [favour](/post/favour/) [of](/post/of/) [the](/post/the/) [new](/post/new/) [policy](/post/policy/)."
+- "[favourable](/post/favourable/) conditions" 有利条件。例如: "[The](/post/the/) company's [growth](/post/growth/) is [due](/post/due/) [to](/post/to/) [the](/post/the/) [favourable](/post/favourable/) [economic](/post/economic/) conditions."
 
 ## 例句
-- 形容词: "The review of the book was largely favourable."
-- 副词: "The project was executed favourably, exceeding expectations."
+- 形容词: "[The](/post/the/) [review](/post/review/) [of](/post/of/) [the](/post/the/) [book](/post/book/) was [largely](/post/largely/) [favourable](/post/favourable/)."
+- 副词: "[The](/post/the/) [project](/post/project/) was executed favourably, exceeding expectations."
 
 ## 同义词
-- Positive
-- Beneficial
+- [Positive](/post/positive/)
+- [Beneficial](/post/beneficial/)
 - Supportive
 - Approving
 - Advantageous

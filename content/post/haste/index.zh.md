@@ -11,22 +11,22 @@ keywords = ['ai words', 'haste']
 /hɑːst/
 
 ## 释义
-- **名词**: 匆忙，急躁；草率。例如: "He made a decision in a hurry, full of haste."
-- **形容词**: 急速的，匆忙的。例如: "She moved with haste to catch the train."
-- **动词**: 催促，急忙做。例如: "The teacher haste the students to finish their work."
+- **名词**: 匆忙，急躁；草率。例如: "[He](/post/he/) made [a](/post/a/) [decision](/post/decision/) [in](/post/in/) [a](/post/a/) [hurry](/post/hurry/), [full](/post/full/) [of](/post/of/) [haste](/post/haste/)."
+- **形容词**: 急速的，匆忙的。例如: "[She](/post/she/) moved [with](/post/with/) [haste](/post/haste/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [train](/post/train/)."
+- **动词**: 催促，急忙做。例如: "[The](/post/the/) [teacher](/post/teacher/) [haste](/post/haste/) [the](/post/the/) students [to](/post/to/) [finish](/post/finish/) [their](/post/their/) [work](/post/work/)."
 
 ## 短语
-- "in haste" 表示匆忙地，草率地。
-- "make haste" 意为赶快，迅速行动。
+- "[in](/post/in/) [haste](/post/haste/)" 表示匆忙地，草率地。
+- "[make](/post/make/) [haste](/post/haste/)" 意为赶快，迅速行动。
 
 ## 例句
-- 名词: "She regretted her haste decision, which turned out to be a mistake."
-- 形容词: "He was dressed in a haste, forgetting his tie."
-- 动词: "They haste to pack their bags before the sunrise."
+- 名词: "[She](/post/she/) regretted [her](/post/her/) [haste](/post/haste/) [decision](/post/decision/), [which](/post/which/) turned [out](/post/out/) [to](/post/to/) [be](/post/be/) [a](/post/a/) [mistake](/post/mistake/)."
+- 形容词: "[He](/post/he/) was dressed [in](/post/in/) [a](/post/a/) [haste](/post/haste/), forgetting [his](/post/his/) [tie](/post/tie/)."
+- 动词: "[They](/post/they/) [haste](/post/haste/) [to](/post/to/) [pack](/post/pack/) [their](/post/their/) bags [before](/post/before/) [the](/post/the/) [sunrise](/post/sunrise/)."
 
 ## 同义词
-- Hurry
-- Rush
-- Swift
-- Brisk
-- Prompt
+- [Hurry](/post/hurry/)
+- [Rush](/post/rush/)
+- [Swift](/post/swift/)
+- [Brisk](/post/brisk/)
+- [Prompt](/post/prompt/)

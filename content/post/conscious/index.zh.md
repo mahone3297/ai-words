@@ -11,20 +11,20 @@ keywords = ['ai words', 'conscious']
 /ˈkɑːnʃəs/
 
 ## 释义
-- **形容词**: 有意识的，清醒的，自觉的。例如: "He was conscious of his mistake and apologized immediately."
-- **名词**: 意识，知觉。例如: "The patient regained consciousness after the operation."
+- **形容词**: 有意识的，清醒的，自觉的。例如: "[He](/post/he/) was [conscious](/post/conscious/) [of](/post/of/) [his](/post/his/) [mistake](/post/mistake/) [and](/post/and/) apologized [immediately](/post/immediately/)."
+- **名词**: 意识，知觉。例如: "[The](/post/the/) [patient](/post/patient/) regained [consciousness](/post/consciousness/) [after](/post/after/) [the](/post/the/) [operation](/post/operation/)."
 
 ## 短语
-- "lose consciousness" 意味着失去知觉或昏迷。
-- "raise one's consciousness" 提高某人的认识或觉悟。
+- "[lose](/post/lose/) [consciousness](/post/consciousness/)" 意味着失去知觉或昏迷。
+- "[raise](/post/raise/) one's [consciousness](/post/consciousness/)" 提高某人的认识或觉悟。
 
 ## 例句
-- 形容词: "She remained conscious throughout the entire surgery."
-- 名词: "His consciousness was slowly returning after the accident."
+- 形容词: "[She](/post/she/) remained [conscious](/post/conscious/) [throughout](/post/throughout/) [the](/post/the/) [entire](/post/entire/) [surgery](/post/surgery/)."
+- 名词: "[His](/post/his/) [consciousness](/post/consciousness/) was [slowly](/post/slowly/) returning [after](/post/after/) [the](/post/the/) [accident](/post/accident/)."
 
 ## 同义词
-- Aware
-- Sensible
+- [Aware](/post/aware/)
+- [Sensible](/post/sensible/)
 - Alert
-- Awake
+- [Awake](/post/awake/)
 - Mindful

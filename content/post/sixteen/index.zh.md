@@ -11,16 +11,16 @@ keywords = ['ai words', 'sixteen']
 /ˈsɪksˈtiːn/
 
 ## 释义
-- **数词**: 表示数字16。例如: "There are sixteen students in the class."
+- **数词**: 表示数字16。例如: "[There](/post/there/) are [sixteen](/post/sixteen/) students [in](/post/in/) [the](/post/the/) [class](/post/class/)."
 
 ## 短语
-- "sixteen years old" 意指年龄为16岁。
-- "sixteen times" 表示乘以16。
+- "[sixteen](/post/sixteen/) years [old](/post/old/)" 意指年龄为16岁。
+- "[sixteen](/post/sixteen/) times" 表示乘以16。
 
 ## 例句
-- "She just turned sixteen and got her driver's license."
-- "The box weighs sixteen pounds."
-- "He can multiply numbers up to sixteen quickly."
+- "[She](/post/she/) [just](/post/just/) turned [sixteen](/post/sixteen/) [and](/post/and/) got [her](/post/her/) driver's [license](/post/license/)."
+- "[The](/post/the/) [box](/post/box/) weighs [sixteen](/post/sixteen/) pounds."
+- "[He](/post/he/) [can](/post/can/) [multiply](/post/multiply/) numbers [up](/post/up/) [to](/post/to/) [sixteen](/post/sixteen/) [quickly](/post/quickly/)."
 
 ## 同义词
 - 十六

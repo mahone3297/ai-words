@@ -7,26 +7,26 @@ description = '[ˈkɔstli] a.昂贵的；价值高的'
 keywords = ['ai words', 'costly']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kəˈstəli/
 
 ## Definitions
-### Adjective
-- **Costly**: Expensive; requiring a large amount of money or resources. For example: "The surgery was very costly due to the advanced medical technology involved."
-- **Time-consuming**: Taking a significant amount of time or effort. For example: "The project was both costly and time-consuming."
+### [Adjective](/en/post/adjective/)
+- **[Costly](/en/post/costly/)**: [Expensive](/en/post/expensive/); requiring [a](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) [or](/en/post/or/) resources. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [surgery](/en/post/surgery/) was [very](/en/post/very/) [costly](/en/post/costly/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) [advanced](/en/post/advanced/) [medical](/en/post/medical/) [technology](/en/post/technology/) involved."
+- **Time-consuming**: Taking [a](/en/post/a/) [significant](/en/post/significant/) [amount](/en/post/amount/) [of](/en/post/of/) [time](/en/post/time/) [or](/en/post/or/) [effort](/en/post/effort/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) was [both](/en/post/both/) [costly](/en/post/costly/) [and](/en/post/and/) time-consuming."
 
 ## Phrases
-- "A costly mistake"
-- "A costly affair"
-- "Costly consequences"
+- "[A](/en/post/a/) [costly](/en/post/costly/) [mistake](/en/post/mistake/)"
+- "[A](/en/post/a/) [costly](/en/post/costly/) [affair](/en/post/affair/)"
+- "[Costly](/en/post/costly/) consequences"
 
-## Example Sentences
-- **Adjective**: "The designer dress was too costly for her budget."
-- **Adjective (time-consuming)**: "Running a small business can be both financially and time-costly."
-- **Noun**: "The expedition's high costs strained the team's finances."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) designer [dress](/en/post/dress/) was [too](/en/post/too/) [costly](/en/post/costly/) [for](/en/post/for/) [her](/en/post/her/) budget."
+- **[Adjective](/en/post/adjective/) (time-consuming)**: "Running [a](/en/post/a/) [small](/en/post/small/) [business](/en/post/business/) [can](/en/post/can/) [be](/en/post/be/) [both](/en/post/both/) financially [and](/en/post/and/) time-costly."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) expedition's [high](/en/post/high/) costs strained [the](/en/post/the/) team's finances."
 
 ## Synonyms
-- Expensive
+- [Expensive](/en/post/expensive/)
 - Pricy
 - Exorbitant
 - Hefty
@@ -34,8 +34,8 @@ keywords = ['ai words', 'costly']
 - Onerous
 
 ## Antonyms
-- Inexpensive
+- [Inexpensive](/en/post/inexpensive/)
 - Affordable
-- Reasonable
+- [Reasonable](/en/post/reasonable/)
 - Budget-friendly
-- Economical
+- [Economical](/en/post/economical/)

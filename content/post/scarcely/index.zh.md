@@ -14,18 +14,18 @@ keywords = ['ai words', 'scarcely']
 - **副词**: 几乎不，几乎没有；勉强地。表示某事接近于没有发生或非常微小。
 
 ## 短语
-- "scarcely able to" 表示几乎不能做某事。
-- "scarcely visible" 意为几乎看不见。
-- "scarcely noticeable" 意为几乎察觉不到。
+- "[scarcely](/post/scarcely/) [able](/post/able/) [to](/post/to/)" 表示几乎不能做某事。
+- "[scarcely](/post/scarcely/) [visible](/post/visible/)" 意为几乎看不见。
+- "[scarcely](/post/scarcely/) [noticeable](/post/noticeable/)" 意为几乎察觉不到。
 
 ## 例句
-- "He was so tired that he could scarceley keep his eyes open."
-- "The snow had scarcely covered the ground."
-- "The sound was so faint that it was scarcely audible."
+- "[He](/post/he/) was [so](/post/so/) [tired](/post/tired/) [that](/post/that/) [he](/post/he/) [could](/post/could/) scarceley [keep](/post/keep/) [his](/post/his/) eyes [open](/post/open/)."
+- "[The](/post/the/) [snow](/post/snow/) had [scarcely](/post/scarcely/) covered [the](/post/the/) [ground](/post/ground/)."
+- "[The](/post/the/) [sound](/post/sound/) was [so](/post/so/) [faint](/post/faint/) [that](/post/that/) [it](/post/it/) was [scarcely](/post/scarcely/) audible."
 
 ## 同义词
 - barely
-- hardly
-- almost not
-- nearly not
-- in the slightest (idiomatic)
+- [hardly](/post/hardly/)
+- [almost](/post/almost/) [not](/post/not/)
+- [nearly](/post/nearly/) [not](/post/not/)
+- [in](/post/in/) [the](/post/the/) slightest (idiomatic)

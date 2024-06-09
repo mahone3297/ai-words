@@ -11,21 +11,21 @@ keywords = ['ai words', 'tide']
 /taɪd/
 
 ## 释义
-- **名词**: 潮汐，海洋因月亮和太阳引力而产生的定期涨落。例如: "The high tide prevents us from going to the beach."
-- **动词**: （非标准用法）指潮水上涨或退去。例如: "The river tide flows in and out with the ocean."
+- **名词**: 潮汐，海洋因月亮和太阳引力而产生的定期涨落。例如: "[The](/post/the/) [high](/post/high/) [tide](/post/tide/) prevents [us](/post/us/) [from](/post/from/) going [to](/post/to/) [the](/post/the/) [beach](/post/beach/)."
+- **动词**: （非标准用法）指潮水上涨或退去。例如: "[The](/post/the/) [river](/post/river/) [tide](/post/tide/) flows [in](/post/in/) [and](/post/and/) [out](/post/out/) [with](/post/with/) [the](/post/the/) [ocean](/post/ocean/)."
 
 ## 短语
-- "Tide in" 指涨潮。
-- "Tide out" 指退潮。
-- "Against the tide" 意为逆潮流而行。
+- "[Tide](/post/tide/) [in](/post/in/)" 指涨潮。
+- "[Tide](/post/tide/) [out](/post/out/)" 指退潮。
+- "[Against](/post/against/) [the](/post/the/) [tide](/post/tide/)" 意为逆潮流而行。
 
 ## 例句
-- 名词: "The seagulls flew over the incoming tide."
-- 动词: "The fisherman had to wait for the tide to go out before casting his nets."
+- 名词: "[The](/post/the/) seagulls flew [over](/post/over/) [the](/post/the/) incoming [tide](/post/tide/)."
+- 动词: "[The](/post/the/) [fisherman](/post/fisherman/) had [to](/post/to/) [wait](/post/wait/) [for](/post/for/) [the](/post/the/) [tide](/post/tide/) [to](/post/to/) [go](/post/go/) [out](/post/out/) [before](/post/before/) casting [his](/post/his/) nets."
 
 ## 同义词
-- Ebb and flow
+- Ebb [and](/post/and/) [flow](/post/flow/)
 - Surge
-- Water level changes
-- Sea levels
-- Currents (in the context of ocean movement)
+- [Water](/post/water/) [level](/post/level/) changes
+- [Sea](/post/sea/) levels
+- Currents ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [ocean](/post/ocean/) [movement](/post/movement/))

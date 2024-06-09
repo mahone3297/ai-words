@@ -7,34 +7,34 @@ description = '[ˈtempərəri] a.暂时的，临时的'
 keywords = ['ai words', 'temporary']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /təˈmɛrəri/
 
 ## Definitions
-### Noun
-- **Temporary**: A noun referring to something that is not permanent or lasting for only a limited time. Example: "They are staying in a temporary apartment while they look for a permanent home."
-- **Adjective**: Describing something that is short-lived, provisional, or intended for a brief period. Example: "The company hired temporary workers during the busy season."
+### [Noun](/en/post/noun/)
+- **[Temporary](/en/post/temporary/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [not](/en/post/not/) [permanent](/en/post/permanent/) [or](/en/post/or/) lasting [for](/en/post/for/) [only](/en/post/only/) [a](/en/post/a/) [limited](/en/post/limited/) [time](/en/post/time/). [Example](/en/post/example/): "[They](/en/post/they/) are staying [in](/en/post/in/) [a](/en/post/a/) [temporary](/en/post/temporary/) [apartment](/en/post/apartment/) [while](/en/post/while/) [they](/en/post/they/) [look](/en/post/look/) [for](/en/post/for/) [a](/en/post/a/) [permanent](/en/post/permanent/) [home](/en/post/home/)."
+- **[Adjective](/en/post/adjective/)**: Describing [something](/en/post/something/) [that](/en/post/that/) is short-lived, provisional, [or](/en/post/or/) intended [for](/en/post/for/) [a](/en/post/a/) [brief](/en/post/brief/) [period](/en/post/period/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) hired [temporary](/en/post/temporary/) workers [during](/en/post/during/) [the](/en/post/the/) [busy](/en/post/busy/) [season](/en/post/season/)."
 
-### Verb
-- **To temporarily**: To have or act in a temporary manner, on a temporary basis. Example: "The construction project will be completed temporarily closed next week for renovations."
+### [Verb](/en/post/verb/)
+- **[To](/en/post/to/) temporarily**: [To](/en/post/to/) [have](/en/post/have/) [or](/en/post/or/) [act](/en/post/act/) [in](/en/post/in/) [a](/en/post/a/) [temporary](/en/post/temporary/) [manner](/en/post/manner/), [on](/en/post/on/) [a](/en/post/a/) [temporary](/en/post/temporary/) [basis](/en/post/basis/). [Example](/en/post/example/): "[The](/en/post/the/) [construction](/en/post/construction/) [project](/en/post/project/) [will](/en/post/will/) [be](/en/post/be/) completed temporarily closed [next](/en/post/next/) [week](/en/post/week/) [for](/en/post/for/) renovations."
 
 ## Phrases
-- "A temporary solution" refers to a stopgap arrangement until a more permanent one can be found.
-- "On a temporary assignment" means working for a limited time period.
-- "Temporarily displaced" describes someone who has been moved from their usual location temporarily.
+- "[A](/en/post/a/) [temporary](/en/post/temporary/) [solution](/en/post/solution/)" refers [to](/en/post/to/) [a](/en/post/a/) stopgap [arrangement](/en/post/arrangement/) [until](/en/post/until/) [a](/en/post/a/) [more](/en/post/more/) [permanent](/en/post/permanent/) [one](/en/post/one/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/).
+- "[On](/en/post/on/) [a](/en/post/a/) [temporary](/en/post/temporary/) [assignment](/en/post/assignment/)" [means](/en/post/means/) working [for](/en/post/for/) [a](/en/post/a/) [limited](/en/post/limited/) [time](/en/post/time/) [period](/en/post/period/).
+- "Temporarily displaced" describes [someone](/en/post/someone/) [who](/en/post/who/) has been moved [from](/en/post/from/) [their](/en/post/their/) [usual](/en/post/usual/) [location](/en/post/location/) temporarily.
 
-## Example Sentences
-- **Noun**: "She was offered a temporary job at the museum after her regular position became unavailable."
-- **Verb**: "Due to the pandemic, many schools are temporarily transitioning to online learning."
-- **Adjective**: "The workers installed a temporary fence around the construction site."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was offered [a](/en/post/a/) [temporary](/en/post/temporary/) [job](/en/post/job/) [at](/en/post/at/) [the](/en/post/the/) [museum](/en/post/museum/) [after](/en/post/after/) [her](/en/post/her/) [regular](/en/post/regular/) [position](/en/post/position/) became unavailable."
+- **[Verb](/en/post/verb/)**: "[Due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) pandemic, [many](/en/post/many/) schools are temporarily transitioning [to](/en/post/to/) online [learning](/en/post/learning/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) workers installed [a](/en/post/a/) [temporary](/en/post/temporary/) [fence](/en/post/fence/) [around](/en/post/around/) [the](/en/post/the/) [construction](/en/post/construction/) [site](/en/post/site/)."
 
 ## Synonyms
 - Provisional
 - Transient
 - Interim
-- Occasional
+- [Occasional](/en/post/occasional/)
 - Short-term
 - Intermittent
-- Bridge
-- Crisis
-- Interim (less common)
+- [Bridge](/en/post/bridge/)
+- [Crisis](/en/post/crisis/)
+- Interim ([less](/en/post/less/) [common](/en/post/common/))

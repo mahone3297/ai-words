@@ -7,35 +7,35 @@ description = '[kwait] ad.完全；相当；的确'
 keywords = ['ai words', 'quite']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kwaɪt/
 
 ## Definitions
-- **Adverb**: 
-  - 1. To a moderate degree; fairly: "She's quite tall." (Describing an intensity)
-  - 2. Rather; somewhat: "It was quite a surprise." (Indicating a degree or extent)
-  - 3. Absolutely; completely: "He was quite certain." (Emphasizing agreement or certainty)
+- **[Adverb](/en/post/adverb/)**: 
+  - 1. [To](/en/post/to/) [a](/en/post/a/) [moderate](/en/post/moderate/) [degree](/en/post/degree/); [fairly](/en/post/fairly/): "She's [quite](/en/post/quite/) [tall](/en/post/tall/)." (Describing an [intensity](/en/post/intensity/))
+  - 2. [Rather](/en/post/rather/); [somewhat](/en/post/somewhat/): "[It](/en/post/it/) was [quite](/en/post/quite/) [a](/en/post/a/) [surprise](/en/post/surprise/)." (Indicating [a](/en/post/a/) [degree](/en/post/degree/) [or](/en/post/or/) [extent](/en/post/extent/))
+  - 3. [Absolutely](/en/post/absolutely/); [completely](/en/post/completely/): "[He](/en/post/he/) was [quite](/en/post/quite/) [certain](/en/post/certain/)." (Emphasizing [agreement](/en/post/agreement/) [or](/en/post/or/) [certainty](/en/post/certainty/))
 
 ## Phrases
-- "Quite well" means in good health or condition.
-- "Not quite" expresses a slight disagreement or lack of accuracy.
-- "She's quite talented" is used to praise someone's skills or abilities.
+- "[Quite](/en/post/quite/) [well](/en/post/well/)" [means](/en/post/means/) [in](/en/post/in/) [good](/en/post/good/) [health](/en/post/health/) [or](/en/post/or/) [condition](/en/post/condition/).
+- "[Not](/en/post/not/) [quite](/en/post/quite/)" expresses [a](/en/post/a/) [slight](/en/post/slight/) disagreement [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [accuracy](/en/post/accuracy/).
+- "She's [quite](/en/post/quite/) talented" is [used](/en/post/used/) [to](/en/post/to/) [praise](/en/post/praise/) someone's skills [or](/en/post/or/) abilities.
 
-## Example Sentences
-- **Adverb of degree**: "The weather was quite cold that morning."
-- **Intensifier**: "I quite enjoyed the book."
-- **Negation**: "She didn't quite understand the question."
+## [Example](/en/post/example/) Sentences
+- **[Adverb](/en/post/adverb/) [of](/en/post/of/) [degree](/en/post/degree/)**: "[The](/en/post/the/) [weather](/en/post/weather/) was [quite](/en/post/quite/) [cold](/en/post/cold/) [that](/en/post/that/) [morning](/en/post/morning/)."
+- **Intensifier**: "I [quite](/en/post/quite/) enjoyed [the](/en/post/the/) [book](/en/post/book/)."
+- **Negation**: "[She](/en/post/she/) didn't [quite](/en/post/quite/) [understand](/en/post/understand/) [the](/en/post/the/) [question](/en/post/question/)."
 
 ## Synonyms
-- Fairly
-- Rather
-- Somewhat
-- Pretty
-- Considerable
-- Decent
-- Substantial
+- [Fairly](/en/post/fairly/)
+- [Rather](/en/post/rather/)
+- [Somewhat](/en/post/somewhat/)
+- [Pretty](/en/post/pretty/)
+- [Considerable](/en/post/considerable/)
+- [Decent](/en/post/decent/)
+- [Substantial](/en/post/substantial/)
 
 ## Antonyms
-- Slightly
+- [Slightly](/en/post/slightly/)
 - Barely
-- Moderately (opposite meaning when emphasizing less)
+- Moderately ([opposite](/en/post/opposite/) [meaning](/en/post/meaning/) [when](/en/post/when/) emphasizing [less](/en/post/less/))

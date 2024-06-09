@@ -11,25 +11,25 @@ keywords = ['ai words', 'water']
 /wɔːtər/
 
 ## 释义
-- **名词**: 1. 液体，水。例如: "Drink some water when you're thirsty."
-   2. 水域，水面。例如: "The boat is sailing on the calm water."
-   3. 水资源。例如: "We need to conserve water in drought-prone areas."
-- **动词**: 1. 给...浇水。例如: "I have to water the plants every morning."
-   2. 加水稀释。例如: "The bartender watered down the drink."
+- **名词**: 1. 液体，水。例如: "[Drink](/post/drink/) [some](/post/some/) [water](/post/water/) [when](/post/when/) you're [thirsty](/post/thirsty/)."
+   2. 水域，水面。例如: "[The](/post/the/) [boat](/post/boat/) is sailing [on](/post/on/) [the](/post/the/) [calm](/post/calm/) [water](/post/water/)."
+   3. 水资源。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) conserve [water](/post/water/) [in](/post/in/) drought-prone areas."
+- **动词**: 1. 给...浇水。例如: "I [have](/post/have/) [to](/post/to/) [water](/post/water/) [the](/post/the/) plants [every](/post/every/) [morning](/post/morning/)."
+   2. 加水稀释。例如: "[The](/post/the/) bartender watered [down](/post/down/) [the](/post/the/) [drink](/post/drink/)."
 
 ## 短语
-- "Water supply" 指供水系统或水源。
-- "Still water" 指静止的水，如湖水或池塘里的水。
-- "Running water" 指流动的水，如溪流或自来水。
+- "[Water](/post/water/) [supply](/post/supply/)" 指供水系统或水源。
+- "[Still](/post/still/) [water](/post/water/)" 指静止的水，如湖水或池塘里的水。
+- "Running [water](/post/water/)" 指流动的水，如溪流或自来水。
 
 ## 例句
-- 名词: "There's no clean drinking water in this village."
-- 动词: "She waters the garden every evening after work."
+- 名词: "There's [no](/post/no/) [clean](/post/clean/) drinking [water](/post/water/) [in](/post/in/) [this](/post/this/) [village](/post/village/)."
+- 动词: "[She](/post/she/) waters [the](/post/the/) [garden](/post/garden/) [every](/post/every/) [evening](/post/evening/) [after](/post/after/) [work](/post/work/)."
 - 感叹词: (不常见作为感叹词使用)
 
 ## 同义词
 - H2O
 - Aqua
-- Liquid
-- Moisture
-- Dew
+- [Liquid](/post/liquid/)
+- [Moisture](/post/moisture/)
+- [Dew](/post/dew/)

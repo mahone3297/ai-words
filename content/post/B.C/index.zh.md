@@ -11,15 +11,15 @@ keywords = ['ai words', 'B.C.']
 /Biː ˈsiː/
 
 ## 释义
-- **缩写词**: 公元前（Before Christ）的缩写，用于纪年系统，表示基督诞生之前的时期。
+- **缩写词**: 公元前（[Before](/post/before/) Christ）的缩写，用于纪年系统，表示基督诞生之前的时期。
 
 ## 短语
-- "B.C." 通常与 "A.D." (Anno Domini) 一起使用来标记年代，如 "500 B.C." 或 "200 A.D."。
+- "B.C." 通常与 "[A](/post/a/).D." (Anno Domini) 一起使用来标记年代，如 "500 B.C." 或 "200 [A](/post/a/).D."。
 
 ## 例句
-- "The ancient Greek civilization flourished around 500 B.C."
+- "[The](/post/the/) [ancient](/post/ancient/) Greek [civilization](/post/civilization/) flourished [around](/post/around/) 500 B.C."
 
 ## 同义词
-- Before Jesus Christ
+- [Before](/post/before/) Jesus Christ
 - Ante Christum Natum
 - Prehistory (在某些上下文中，作为历史时期的同义词，特别是指未有书面记录的历史时期)

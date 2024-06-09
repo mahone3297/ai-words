@@ -11,20 +11,20 @@ keywords = ['ai words', 'vanish']
 /vəˈnɪʃ/
 
 ## 释义
-- **动词**: 消失；变得无影无踪。例如: "The plane vanished from the radar screen."
-- **名词**: (通常用作复数) 瞬间的消失；突然的失去。例如: "The vanishings of several tourists remain unexplained."
+- **动词**: 消失；变得无影无踪。例如: "[The](/post/the/) [plane](/post/plane/) vanished [from](/post/from/) [the](/post/the/) [radar](/post/radar/) [screen](/post/screen/)."
+- **名词**: (通常用作复数) 瞬间的消失；突然的失去。例如: "[The](/post/the/) vanishings [of](/post/of/) [several](/post/several/) tourists [remain](/post/remain/) unexplained."
 
 ## 短语
-- "vanish without a trace" 意味着消失得无迹可寻。
-- "to make something vanish" 指使某物消失。
+- "[vanish](/post/vanish/) [without](/post/without/) [a](/post/a/) [trace](/post/trace/)" 意味着消失得无迹可寻。
+- "[to](/post/to/) [make](/post/make/) [something](/post/something/) [vanish](/post/vanish/)" 指使某物消失。
 
 ## 例句
-- 动词: "The mysterious creature suddenly vanished into the forest."
-- 名词: "There have been numerous reports of vanishings in the Bermuda Triangle."
+- 动词: "[The](/post/the/) [mysterious](/post/mysterious/) [creature](/post/creature/) [suddenly](/post/suddenly/) vanished [into](/post/into/) [the](/post/the/) [forest](/post/forest/)."
+- 名词: "[There](/post/there/) [have](/post/have/) been [numerous](/post/numerous/) reports [of](/post/of/) vanishings [in](/post/in/) [the](/post/the/) Bermuda [Triangle](/post/triangle/)."
 
 ## 同义词
-- disappear
-- disappear completely
-- go missing
-- evaporate
-- fade away
+- [disappear](/post/disappear/)
+- [disappear](/post/disappear/) [completely](/post/completely/)
+- [go](/post/go/) [missing](/post/missing/)
+- [evaporate](/post/evaporate/)
+- [fade](/post/fade/) [away](/post/away/)

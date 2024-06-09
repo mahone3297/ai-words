@@ -8,7 +8,7 @@ keywords = ['ai words', 'explosion']
 +++
 
 ## 读音
-/explosion/  
+/[explosion](/post/explosion/)/  
 
 ## 释义
 - **名词 n**:
@@ -21,18 +21,18 @@ keywords = ['ai words', 'explosion']
   - 突然发生或增长：迅速且突然地发生或增加，常指数量、规模或强度。
 
 ## 短语
-- "explosion of anger" 愤怒的爆发
-- "an explosion of creativity" 创意的迸发
-- "cause an explosion" 引发爆炸
+- "[explosion](/post/explosion/) [of](/post/of/) [anger](/post/anger/)" 愤怒的爆发
+- "an [explosion](/post/explosion/) [of](/post/of/) creativity" 创意的迸发
+- "[cause](/post/cause/) an [explosion](/post/explosion/)" 引发爆炸
 
 ## 例句
-- 名词: "The explosion destroyed several buildings in the city center."
-- 动词: "The bomb was detonated, causing an explosion that shook the ground."
-- 情景描述: "There was a sudden explosion, followed by a deafening noise."
+- 名词: "[The](/post/the/) [explosion](/post/explosion/) destroyed [several](/post/several/) buildings [in](/post/in/) [the](/post/the/) [city](/post/city/) center."
+- 动词: "[The](/post/the/) [bomb](/post/bomb/) was detonated, causing an [explosion](/post/explosion/) [that](/post/that/) shook [the](/post/the/) [ground](/post/ground/)."
+- 情景描述: "[There](/post/there/) was [a](/post/a/) [sudden](/post/sudden/) [explosion](/post/explosion/), followed [by](/post/by/) [a](/post/a/) deafening [noise](/post/noise/)."
 
 ## 同义词
-- blast
+- [blast](/post/blast/)
 - detonation
-- burst
+- [burst](/post/burst/)
 - eruption
-- discharge
+- [discharge](/post/discharge/)

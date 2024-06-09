@@ -7,53 +7,53 @@ description = '[raid] vi.&n.骑马，乘车'
 keywords = ['ai words', 'ride']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /rʌɪd/
 
 ## Definitions
-### Noun
-1. The act of riding, especially on a vehicle such as a bicycle, horse, or motorcycle.
-   - Example: "She enjoyed riding her horse through the countryside."
-2. A trip or journey taken on a vehicle or conveyance.
-   - Example: "The family went on a long ride to the beach."
-3. The experience or sensation of being carried or supported by something while moving.
-   - Example: "The roller coaster ride was thrilling."
+### [Noun](/en/post/noun/)
+1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) riding, [especially](/en/post/especially/) [on](/en/post/on/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [bicycle](/en/post/bicycle/), [horse](/en/post/horse/), [or](/en/post/or/) motorcycle.
+   - [Example](/en/post/example/): "[She](/en/post/she/) enjoyed riding [her](/en/post/her/) [horse](/en/post/horse/) [through](/en/post/through/) [the](/en/post/the/) [countryside](/en/post/countryside/)."
+2. [A](/en/post/a/) [trip](/en/post/trip/) [or](/en/post/or/) [journey](/en/post/journey/) taken [on](/en/post/on/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [or](/en/post/or/) conveyance.
+   - [Example](/en/post/example/): "[The](/en/post/the/) [family](/en/post/family/) went [on](/en/post/on/) [a](/en/post/a/) [long](/en/post/long/) [ride](/en/post/ride/) [to](/en/post/to/) [the](/en/post/the/) [beach](/en/post/beach/)."
+3. [The](/en/post/the/) [experience](/en/post/experience/) [or](/en/post/or/) sensation [of](/en/post/of/) [being](/en/post/being/) carried [or](/en/post/or/) supported [by](/en/post/by/) [something](/en/post/something/) [while](/en/post/while/) moving.
+   - [Example](/en/post/example/): "[The](/en/post/the/) [roller](/en/post/roller/) coaster [ride](/en/post/ride/) was thrilling."
 
-### Verb
-1. To sit on and control a vehicle, typically for transportation or leisure.
-   - Example: "He rides his bike to work every day."
-2. To engage in a particular sport or activity that involves riding, like surfing or snowboarding.
-   - Example: "She's been learning to ride a surfboard this summer."
-3. To use something, often metaphorically, as a means to achieve a goal.
-   - Example: "Riding the wave of popularity, her book became a bestseller."
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [sit](/en/post/sit/) [on](/en/post/on/) [and](/en/post/and/) [control](/en/post/control/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), typically [for](/en/post/for/) [transportation](/en/post/transportation/) [or](/en/post/or/) [leisure](/en/post/leisure/).
+   - [Example](/en/post/example/): "[He](/en/post/he/) rides [his](/en/post/his/) [bike](/en/post/bike/) [to](/en/post/to/) [work](/en/post/work/) [every](/en/post/every/) [day](/en/post/day/)."
+2. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [sport](/en/post/sport/) [or](/en/post/or/) [activity](/en/post/activity/) [that](/en/post/that/) involves riding, [like](/en/post/like/) surfing [or](/en/post/or/) snowboarding.
+   - [Example](/en/post/example/): "She's been [learning](/en/post/learning/) [to](/en/post/to/) [ride](/en/post/ride/) [a](/en/post/a/) surfboard [this](/en/post/this/) [summer](/en/post/summer/)."
+3. [To](/en/post/to/) [use](/en/post/use/) [something](/en/post/something/), [often](/en/post/often/) metaphorically, [as](/en/post/as/) [a](/en/post/a/) [means](/en/post/means/) [to](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) [goal](/en/post/goal/).
+   - [Example](/en/post/example/): "Riding [the](/en/post/the/) [wave](/en/post/wave/) [of](/en/post/of/) popularity, [her](/en/post/her/) [book](/en/post/book/) became [a](/en/post/a/) bestseller."
 
-### Adjective
-1. Characterizing or involving riding or the act of being ridden.
-   - Example: "A horse-riding competition was held at the festival."
-2. Enjoyable or thrilling when experienced on a ride.
-   - Example: "The roller coaster was a fun and exhilarating ride."
+### [Adjective](/en/post/adjective/)
+1. Characterizing [or](/en/post/or/) involving riding [or](/en/post/or/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) ridden.
+   - [Example](/en/post/example/): "[A](/en/post/a/) horse-riding [competition](/en/post/competition/) was held [at](/en/post/at/) [the](/en/post/the/) [festival](/en/post/festival/)."
+2. Enjoyable [or](/en/post/or/) thrilling [when](/en/post/when/) experienced [on](/en/post/on/) [a](/en/post/a/) [ride](/en/post/ride/).
+   - [Example](/en/post/example/): "[The](/en/post/the/) [roller](/en/post/roller/) coaster was [a](/en/post/a/) [fun](/en/post/fun/) [and](/en/post/and/) exhilarating [ride](/en/post/ride/)."
 
-### Adverb
-1. In a riding manner or while riding.
-   - Example: "He rode smoothly through the curves of the road."
+### [Adverb](/en/post/adverb/)
+1. [In](/en/post/in/) [a](/en/post/a/) riding [manner](/en/post/manner/) [or](/en/post/or/) [while](/en/post/while/) riding.
+   - [Example](/en/post/example/): "[He](/en/post/he/) rode [smoothly](/en/post/smoothly/) [through](/en/post/through/) [the](/en/post/the/) curves [of](/en/post/of/) [the](/en/post/the/) [road](/en/post/road/)."
 
 ## Phrases
-- "Take a ride" means to go for a trip or journey.
-- "Go for a ride" is a casual invitation to join a ride.
-- "Ride shotgun" is an informal expression meaning to sit in the front passenger seat of a vehicle, often for a thrilling or exciting journey.
+- "[Take](/en/post/take/) [a](/en/post/a/) [ride](/en/post/ride/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [for](/en/post/for/) [a](/en/post/a/) [trip](/en/post/trip/) [or](/en/post/or/) [journey](/en/post/journey/).
+- "[Go](/en/post/go/) [for](/en/post/for/) [a](/en/post/a/) [ride](/en/post/ride/)" is [a](/en/post/a/) [casual](/en/post/casual/) [invitation](/en/post/invitation/) [to](/en/post/to/) [join](/en/post/join/) [a](/en/post/a/) [ride](/en/post/ride/).
+- "[Ride](/en/post/ride/) shotgun" is an informal [expression](/en/post/expression/) [meaning](/en/post/meaning/) [to](/en/post/to/) [sit](/en/post/sit/) [in](/en/post/in/) [the](/en/post/the/) [front](/en/post/front/) [passenger](/en/post/passenger/) [seat](/en/post/seat/) [of](/en/post/of/) [a](/en/post/a/) [vehicle](/en/post/vehicle/), [often](/en/post/often/) [for](/en/post/for/) [a](/en/post/a/) thrilling [or](/en/post/or/) [exciting](/en/post/exciting/) [journey](/en/post/journey/).
 
-## Example Sentences
-- **Noun**: "He cherished the memories of long bike rides with his friends."
-- **Verb**: "She decided to take a ride on the Ferris wheel during the fair."
-- **Adjective**: "The roller coaster provided a thrilling ride with its steep drops."
-- **Adverb**: "He rode the waves with skill and precision."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) cherished [the](/en/post/the/) memories [of](/en/post/of/) [long](/en/post/long/) [bike](/en/post/bike/) rides [with](/en/post/with/) [his](/en/post/his/) friends."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [ride](/en/post/ride/) [on](/en/post/on/) [the](/en/post/the/) Ferris [wheel](/en/post/wheel/) [during](/en/post/during/) [the](/en/post/the/) [fair](/en/post/fair/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [roller](/en/post/roller/) coaster [provided](/en/post/provided/) [a](/en/post/a/) thrilling [ride](/en/post/ride/) [with](/en/post/with/) [its](/en/post/its/) [steep](/en/post/steep/) drops."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) rode [the](/en/post/the/) waves [with](/en/post/with/) [skill](/en/post/skill/) [and](/en/post/and/) [precision](/en/post/precision/)."
 
 ## Synonyms
-- Bicycle tour
-- Journey
-- Trip
-- Tour
+- [Bicycle](/en/post/bicycle/) [tour](/en/post/tour/)
+- [Journey](/en/post/journey/)
+- [Trip](/en/post/trip/)
+- [Tour](/en/post/tour/)
 - Cruise
-- Excursion
+- [Excursion](/en/post/excursion/)
 -游乐
-- Travel (in a figurative sense)
+- [Travel](/en/post/travel/) ([in](/en/post/in/) [a](/en/post/a/) figurative [sense](/en/post/sense/))

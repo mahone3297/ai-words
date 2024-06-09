@@ -7,32 +7,32 @@ description = '[ˈmeinli] ad.主要地，大体上'
 keywords = ['ai words', 'mainly']
 +++
 
-## Word: Mainly
+## [Word](/en/post/word/): [Mainly](/en/post/mainly/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈmeɪnli/
 
 ## Definitions
-- **Adverb**: Predominantly; mostly; primarily; for the most part. It is used to indicate that something is the chief or principal element, factor, or cause.
+- **[Adverb](/en/post/adverb/)**: Predominantly; [mostly](/en/post/mostly/); [primarily](/en/post/primarily/); [for](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/). [It](/en/post/it/) is [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is [the](/en/post/the/) [chief](/en/post/chief/) [or](/en/post/or/) [principal](/en/post/principal/) [element](/en/post/element/), [factor](/en/post/factor/), [or](/en/post/or/) [cause](/en/post/cause/).
 
-Example sentence: _The project's success was mainly due to the team's hard work._
+[Example](/en/post/example/) [sentence](/en/post/sentence/): _The project's [success](/en/post/success/) was [mainly](/en/post/mainly/) [due](/en/post/due/) [to](/en/post/to/) [the](/en/post/the/) team's [hard](/en/post/hard/) [work](/en/post/work/)._
 
 ## Phrases
-- **Mainly because**: Indicates the primary reason behind something. Example: "I chose this university mainly because of its excellent academic reputation."
-- **Mainly consist of**: Implies that something is primarily made up of certain elements. Example: "Her diet mainly consists of fruits and vegetables."
-- **For the most part/mainly**: Both expressions mean largely or predominantly. Example: "For the most part/mainly, the conference attendees were from Europe."
+- **[Mainly](/en/post/mainly/) [because](/en/post/because/)**: Indicates [the](/en/post/the/) [primary](/en/post/primary/) [reason](/en/post/reason/) [behind](/en/post/behind/) [something](/en/post/something/). [Example](/en/post/example/): "I chose [this](/en/post/this/) [university](/en/post/university/) [mainly](/en/post/mainly/) [because](/en/post/because/) [of](/en/post/of/) [its](/en/post/its/) [excellent](/en/post/excellent/) [academic](/en/post/academic/) [reputation](/en/post/reputation/)."
+- **[Mainly](/en/post/mainly/) [consist](/en/post/consist/) [of](/en/post/of/)**: Implies [that](/en/post/that/) [something](/en/post/something/) is [primarily](/en/post/primarily/) made [up](/en/post/up/) [of](/en/post/of/) [certain](/en/post/certain/) elements. [Example](/en/post/example/): "[Her](/en/post/her/) diet [mainly](/en/post/mainly/) consists [of](/en/post/of/) fruits [and](/en/post/and/) vegetables."
+- **[For](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/)/[mainly](/en/post/mainly/)**: [Both](/en/post/both/) expressions [mean](/en/post/mean/) [largely](/en/post/largely/) [or](/en/post/or/) predominantly. [Example](/en/post/example/): "[For](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/)/[mainly](/en/post/mainly/), [the](/en/post/the/) [conference](/en/post/conference/) attendees were [from](/en/post/from/) Europe."
 
-## Example Sentences
-- _She spends her free time mainly reading and painting._
-- _Rainfall in this region is mainly during the monsoon season._
-- _His income mainly comes from his investments._
+## [Example](/en/post/example/) Sentences
+- _She spends [her](/en/post/her/) [free](/en/post/free/) [time](/en/post/time/) [mainly](/en/post/mainly/) [reading](/en/post/reading/) [and](/en/post/and/) [painting](/en/post/painting/)._
+- _Rainfall [in](/en/post/in/) [this](/en/post/this/) [region](/en/post/region/) is [mainly](/en/post/mainly/) [during](/en/post/during/) [the](/en/post/the/) monsoon [season](/en/post/season/)._
+- _His [income](/en/post/income/) [mainly](/en/post/mainly/) comes [from](/en/post/from/) [his](/en/post/his/) investments._
 
 ## Synonyms
-- Primarily
+- [Primarily](/en/post/primarily/)
 - Chiefly
 - Predominantly
-- Largely
+- [Largely](/en/post/largely/)
 - Essentially
-- Mostly
-- For the most part
-- In the main
+- [Mostly](/en/post/mostly/)
+- [For](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/)
+- [In](/en/post/in/) [the](/en/post/the/) [main](/en/post/main/)

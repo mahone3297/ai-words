@@ -14,17 +14,17 @@ keywords = ['ai words', 'suitable']
 - **形容词**: 适合的，适宜的，恰当的。指某物在特定情况或用途下是合适的。
 
 ## 短语
-- "suitable for" 表示适合...的，如 "This dress is suitable for a formal occasion."
-- "not suitable" 意为不适合，如 "These shoes are not suitable for hiking."
+- "[suitable](/post/suitable/) [for](/post/for/)" 表示适合...的，如 "[This](/post/this/) [dress](/post/dress/) is [suitable](/post/suitable/) [for](/post/for/) [a](/post/a/) [formal](/post/formal/) [occasion](/post/occasion/)."
+- "[not](/post/not/) [suitable](/post/suitable/)" 意为不适合，如 "[These](/post/these/) shoes are [not](/post/not/) [suitable](/post/suitable/) [for](/post/for/) hiking."
 
 ## 例句
-- "The jacket is suitable for both casual and formal wear."
-- "Is this food suitable for vegetarians?"
-- "The job requires someone with suitable qualifications and experience."
+- "[The](/post/the/) [jacket](/post/jacket/) is [suitable](/post/suitable/) [for](/post/for/) [both](/post/both/) [casual](/post/casual/) [and](/post/and/) [formal](/post/formal/) [wear](/post/wear/)."
+- "Is [this](/post/this/) [food](/post/food/) [suitable](/post/suitable/) [for](/post/for/) vegetarians?"
+- "[The](/post/the/) [job](/post/job/) requires [someone](/post/someone/) [with](/post/with/) [suitable](/post/suitable/) qualifications [and](/post/and/) [experience](/post/experience/)."
 
 ## 同义词
-- appropriate
+- [appropriate](/post/appropriate/)
 - fitting
-- proper
+- [proper](/post/proper/)
 - apt
-- correct
+- [correct](/post/correct/)

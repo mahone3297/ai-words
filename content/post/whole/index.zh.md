@@ -11,20 +11,20 @@ keywords = ['ai words', 'whole']
 /hoʊl/
 
 ## 释义
-- **形容词**: 完整的，全部的，没有缺损的。例如: "The whole apple is still in one piece."
-- **名词**: 整体，全体。例如: "We need to consider the whole picture, not just individual parts."
+- **形容词**: 完整的，全部的，没有缺损的。例如: "[The](/post/the/) [whole](/post/whole/) [apple](/post/apple/) is [still](/post/still/) [in](/post/in/) [one](/post/one/) [piece](/post/piece/)."
+- **名词**: 整体，全体。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [consider](/post/consider/) [the](/post/the/) [whole](/post/whole/) [picture](/post/picture/), [not](/post/not/) [just](/post/just/) [individual](/post/individual/) parts."
 
 ## 短语
-- "the whole thing" 指的是整个事情或情况。
-- "the whole nine yards" 表示全部，所有的一切（通常用于夸张）。
+- "[the](/post/the/) [whole](/post/whole/) [thing](/post/thing/)" 指的是整个事情或情况。
+- "[the](/post/the/) [whole](/post/whole/) [nine](/post/nine/) yards" 表示全部，所有的一切（通常用于夸张）。
 
 ## 例句
-- 形容词: "I ate the whole cake without sharing any."
-- 名词: "The whole team worked together to achieve the goal."
+- 形容词: "I ate [the](/post/the/) [whole](/post/whole/) [cake](/post/cake/) [without](/post/without/) sharing [any](/post/any/)."
+- 名词: "[The](/post/the/) [whole](/post/whole/) [team](/post/team/) worked [together](/post/together/) [to](/post/to/) [achieve](/post/achieve/) [the](/post/the/) [goal](/post/goal/)."
 
 ## 同义词
-- Complete
-- Total
-- Full
-- Utter
+- [Complete](/post/complete/)
+- [Total](/post/total/)
+- [Full](/post/full/)
+- [Utter](/post/utter/)
 - Unbroken

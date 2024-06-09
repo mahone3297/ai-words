@@ -12,20 +12,20 @@ keywords = ['ai words', 'female']
 
 ## 释义
 - **名词**: 
-    - 性别为女性的；雌性的。例如: "The female birds build nests."
-    - 女人，女士。例如: "There were more male than female participants in the study."
+    - 性别为女性的；雌性的。例如: "[The](/post/the/) [female](/post/female/) birds [build](/post/build/) nests."
+    - 女人，女士。例如: "[There](/post/there/) were [more](/post/more/) [male](/post/male/) [than](/post/than/) [female](/post/female/) participants [in](/post/in/) [the](/post/the/) [study](/post/study/)."
 
 ## 短语
-- "female gender" 指女性性别。
-- "female role model" 指女性榜样或楷模。
+- "[female](/post/female/) gender" 指女性性别。
+- "[female](/post/female/) [role](/post/role/) [model](/post/model/)" 指女性榜样或楷模。
 
 ## 例句
-- 名词: "The company aims to increase the number of female executives."
-- "She is a strong and inspiring female leader."
+- 名词: "[The](/post/the/) [company](/post/company/) aims [to](/post/to/) [increase](/post/increase/) [the](/post/the/) [number](/post/number/) [of](/post/of/) [female](/post/female/) executives."
+- "[She](/post/she/) is [a](/post/a/) [strong](/post/strong/) [and](/post/and/) inspiring [female](/post/female/) [leader](/post/leader/)."
 
 ## 同义词
-- Woman
-- Lady
+- [Woman](/post/woman/)
+- [Lady](/post/lady/)
 - Gal
 - Dame
-- She
+- [She](/post/she/)

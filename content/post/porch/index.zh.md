@@ -11,16 +11,16 @@ keywords = ['ai words', 'porch']
 /pɔːrtʃ/
 
 ## 释义
-- **名词**: 房屋外部的一个区域，通常是一个有遮盖的前廊或入口，有时会有阶梯通往。例如: "She loved sitting on the porch in the evenings."
-- **名词**: 在某些交通工具（如火车）上，指连接车厢的开放式平台。例如: "The train conductor stood on the porch between two cars."
+- **名词**: 房屋外部的一个区域，通常是一个有遮盖的前廊或入口，有时会有阶梯通往。例如: "[She](/post/she/) loved sitting [on](/post/on/) [the](/post/the/) [porch](/post/porch/) [in](/post/in/) [the](/post/the/) evenings."
+- **名词**: 在某些交通工具（如火车）上，指连接车厢的开放式平台。例如: "[The](/post/the/) [train](/post/train/) [conductor](/post/conductor/) stood [on](/post/on/) [the](/post/the/) [porch](/post/porch/) [between](/post/between/) [two](/post/two/) cars."
 
 ## 短语
-- "On the porch" 指在门廊或入口处。
-- "Porch light" 是指门廊上的灯，常用来迎接晚归的人或作为信号。
+- "[On](/post/on/) [the](/post/the/) [porch](/post/porch/)" 指在门廊或入口处。
+- "[Porch](/post/porch/) [light](/post/light/)" 是指门廊上的灯，常用来迎接晚归的人或作为信号。
 
 ## 例句
-- "The old rocking chair creaked as he sat down on the porch."
-- "She left the porch light on for her children returning from the party."
+- "[The](/post/the/) [old](/post/old/) rocking [chair](/post/chair/) creaked [as](/post/as/) [he](/post/he/) sat [down](/post/down/) [on](/post/on/) [the](/post/the/) [porch](/post/porch/)."
+- "[She](/post/she/) [left](/post/left/) [the](/post/the/) [porch](/post/porch/) [light](/post/light/) [on](/post/on/) [for](/post/for/) [her](/post/her/) children returning [from](/post/from/) [the](/post/the/) [party](/post/party/)."
 
 ## 同义词
 - Veranda

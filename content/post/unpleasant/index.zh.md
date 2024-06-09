@@ -11,20 +11,20 @@ keywords = ['ai words', 'unpleasant']
 /ʌnˈplezənt/
 
 ## 释义
-- **形容词**: 不愉快的，令人不悦的。例如: "The weather was unpleasantly cold."
-- **名词**: 不受欢迎的人或事物。例如: "She had to deal with an unpleasant customer."
+- **形容词**: 不愉快的，令人不悦的。例如: "[The](/post/the/) [weather](/post/weather/) was unpleasantly [cold](/post/cold/)."
+- **名词**: 不受欢迎的人或事物。例如: "[She](/post/she/) had [to](/post/to/) [deal](/post/deal/) [with](/post/with/) an [unpleasant](/post/unpleasant/) [customer](/post/customer/)."
 
 ## 短语
-- "an unpleasant surprise" 意为不愉快的意外。
-- "unpleasant news" 指的是坏消息。
+- "an [unpleasant](/post/unpleasant/) [surprise](/post/surprise/)" 意为不愉快的意外。
+- "[unpleasant](/post/unpleasant/) [news](/post/news/)" 指的是坏消息。
 
 ## 例句
-- 形容词: "It was an unpleasant task to clean up the mess."
-- 名词: "He had to face some unpleasant truths about himself."
+- 形容词: "[It](/post/it/) was an [unpleasant](/post/unpleasant/) [task](/post/task/) [to](/post/to/) [clean](/post/clean/) [up](/post/up/) [the](/post/the/) [mess](/post/mess/)."
+- 名词: "[He](/post/he/) had [to](/post/to/) [face](/post/face/) [some](/post/some/) [unpleasant](/post/unpleasant/) truths [about](/post/about/) [himself](/post/himself/)."
 
 ## 同义词
-- Uncomfortable
+- [Uncomfortable](/post/uncomfortable/)
 - Distasteful
 - Displeasing
 - Unsettling
-- Awkward
+- [Awkward](/post/awkward/)

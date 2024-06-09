@@ -7,29 +7,29 @@ description = '[ˈmʌnθli] a.每月的 ad.每月'
 keywords = ['ai words', 'monthly']
 +++
 
-## Word: Monthly
+## [Word](/en/post/word/): [Monthly](/en/post/monthly/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈmʌnθli/
 
 ## Definitions
-- **Adjective**: Occurring or happening once every month; occurring every month regularly. Example: "The monthly magazine arrives promptly on the first day of each month."
-- **Noun**: A publication that is issued every month. Example: "She subscribes to several different monthly magazines to stay updated on current affairs."
-- **Adverb**: Happening or done every month; once a month. Example: "We have a monthly meeting to discuss the progress of our projects."
+- **[Adjective](/en/post/adjective/)**: Occurring [or](/en/post/or/) happening [once](/en/post/once/) [every](/en/post/every/) [month](/en/post/month/); occurring [every](/en/post/every/) [month](/en/post/month/) [regularly](/en/post/regularly/). [Example](/en/post/example/): "[The](/en/post/the/) [monthly](/en/post/monthly/) [magazine](/en/post/magazine/) arrives promptly [on](/en/post/on/) [the](/en/post/the/) [first](/en/post/first/) [day](/en/post/day/) [of](/en/post/of/) [each](/en/post/each/) [month](/en/post/month/)."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [publication](/en/post/publication/) [that](/en/post/that/) is issued [every](/en/post/every/) [month](/en/post/month/). [Example](/en/post/example/): "[She](/en/post/she/) subscribes [to](/en/post/to/) [several](/en/post/several/) [different](/en/post/different/) [monthly](/en/post/monthly/) magazines [to](/en/post/to/) [stay](/en/post/stay/) updated [on](/en/post/on/) [current](/en/post/current/) affairs."
+- **[Adverb](/en/post/adverb/)**: Happening [or](/en/post/or/) done [every](/en/post/every/) [month](/en/post/month/); [once](/en/post/once/) [a](/en/post/a/) [month](/en/post/month/). [Example](/en/post/example/): "[We](/en/post/we/) [have](/en/post/have/) [a](/en/post/a/) [monthly](/en/post/monthly/) [meeting](/en/post/meeting/) [to](/en/post/to/) [discuss](/en/post/discuss/) [the](/en/post/the/) [progress](/en/post/progress/) [of](/en/post/of/) [our](/en/post/our/) projects."
 
 ## Phrases
-- "Monthly subscription": A recurring payment made once a month for access to a service or product.
-- "Monthly salary": The amount of money one earns paid on a monthly basis.
-- "Monthly report": A document prepared periodically, usually every month, to summarize activities, progress, or financial performance.
+- "[Monthly](/en/post/monthly/) subscription": [A](/en/post/a/) recurring [payment](/en/post/payment/) made [once](/en/post/once/) [a](/en/post/a/) [month](/en/post/month/) [for](/en/post/for/) [access](/en/post/access/) [to](/en/post/to/) [a](/en/post/a/) [service](/en/post/service/) [or](/en/post/or/) [product](/en/post/product/).
+- "[Monthly](/en/post/monthly/) [salary](/en/post/salary/)": [The](/en/post/the/) [amount](/en/post/amount/) [of](/en/post/of/) [money](/en/post/money/) [one](/en/post/one/) earns paid [on](/en/post/on/) [a](/en/post/a/) [monthly](/en/post/monthly/) [basis](/en/post/basis/).
+- "[Monthly](/en/post/monthly/) [report](/en/post/report/)": [A](/en/post/a/) [document](/en/post/document/) prepared periodically, [usually](/en/post/usually/) [every](/en/post/every/) [month](/en/post/month/), [to](/en/post/to/) [summarize](/en/post/summarize/) activities, [progress](/en/post/progress/), [or](/en/post/or/) [financial](/en/post/financial/) [performance](/en/post/performance/).
 
-## Example Sentences
-- **Adjective**: "She has a monthly appointment with her therapist."
-- **Noun**: "The company's monthly newsletter keeps its employees informed about new developments."
-- **Adverb**: "The rent must be paid monthly to avoid late fees."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) has [a](/en/post/a/) [monthly](/en/post/monthly/) [appointment](/en/post/appointment/) [with](/en/post/with/) [her](/en/post/her/) therapist."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's [monthly](/en/post/monthly/) newsletter keeps [its](/en/post/its/) employees informed [about](/en/post/about/) [new](/en/post/new/) developments."
+- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [rent](/en/post/rent/) [must](/en/post/must/) [be](/en/post/be/) paid [monthly](/en/post/monthly/) [to](/en/post/to/) [avoid](/en/post/avoid/) [late](/en/post/late/) fees."
 
 ## Synonyms
-- Periodical (noun)
-- Monthly basis (adverb)
-- Every month (adverb)
-- Monthly installment (noun)
-- Monthly event (noun)
+- Periodical ([noun](/en/post/noun/))
+- [Monthly](/en/post/monthly/) [basis](/en/post/basis/) ([adverb](/en/post/adverb/))
+- [Every](/en/post/every/) [month](/en/post/month/) ([adverb](/en/post/adverb/))
+- [Monthly](/en/post/monthly/) installment ([noun](/en/post/noun/))
+- [Monthly](/en/post/monthly/) [event](/en/post/event/) ([noun](/en/post/noun/))

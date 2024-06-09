@@ -11,22 +11,22 @@ keywords = ['ai words', 'regular']
 /ˈrɛgjələr/
 
 ## 释义
-- **形容词**: 有规律的，定期的，常规的。例如: "She follows a regular exercise routine."
-- **名词**: 常客，老主顾。例如: "The regulars at the coffee shop are friendly."
-- **副词**: 通常，正常情况下。例如: "We meet regularly on Fridays."
+- **形容词**: 有规律的，定期的，常规的。例如: "[She](/post/she/) follows [a](/post/a/) [regular](/post/regular/) [exercise](/post/exercise/) [routine](/post/routine/)."
+- **名词**: 常客，老主顾。例如: "[The](/post/the/) regulars [at](/post/at/) [the](/post/the/) [coffee](/post/coffee/) [shop](/post/shop/) are [friendly](/post/friendly/)."
+- **副词**: 通常，正常情况下。例如: "[We](/post/we/) [meet](/post/meet/) [regularly](/post/regularly/) [on](/post/on/) Fridays."
 
 ## 短语
-- "regular customer" 意为常客。
-- "regular schedule" 表示常规日程或时间表。
+- "[regular](/post/regular/) [customer](/post/customer/)" 意为常客。
+- "[regular](/post/regular/) [schedule](/post/schedule/)" 表示常规日程或时间表。
 
 ## 例句
-- 形容词: "He goes to the gym for a regular workout every morning."
-- 名词: "The barista knew my order because I was a regular."
-- 副词: "The meeting is held at a regular interval of two weeks."
+- 形容词: "[He](/post/he/) goes [to](/post/to/) [the](/post/the/) gym [for](/post/for/) [a](/post/a/) [regular](/post/regular/) workout [every](/post/every/) [morning](/post/morning/)."
+- 名词: "[The](/post/the/) barista knew [my](/post/my/) [order](/post/order/) [because](/post/because/) I was [a](/post/a/) [regular](/post/regular/)."
+- 副词: "[The](/post/the/) [meeting](/post/meeting/) is held [at](/post/at/) [a](/post/a/) [regular](/post/regular/) [interval](/post/interval/) [of](/post/of/) [two](/post/two/) weeks."
 
 ## 同义词
-- Usual
-- Normal
-- Standard
-- Habitual
+- [Usual](/post/usual/)
+- [Normal](/post/normal/)
+- [Standard](/post/standard/)
+- [Habitual](/post/habitual/)
 - Systematic

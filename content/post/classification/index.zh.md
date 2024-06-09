@@ -12,20 +12,20 @@ keywords = ['ai words', 'classification']
 
 ## 释义
 - **名词**: 
-    - 将事物、概念或信息分成不同类别的过程或结果。例如: "The job applicants were put into different classifications based on their skills."
-    - 一种分类系统或类别。例如: "The library's book classification system helps organize the collection."
+    - 将事物、概念或信息分成不同类别的过程或结果。例如: "[The](/post/the/) [job](/post/job/) applicants were [put](/post/put/) [into](/post/into/) [different](/post/different/) classifications based [on](/post/on/) [their](/post/their/) skills."
+    - 一种分类系统或类别。例如: "[The](/post/the/) library's [book](/post/book/) [classification](/post/classification/) [system](/post/system/) helps [organize](/post/organize/) [the](/post/the/) [collection](/post/collection/)."
 
 ## 短语
-- "Taxonomic classification" 指生物分类学中的分类方法。
-- "Skill classification" 指根据技能水平进行的分类。
+- "Taxonomic [classification](/post/classification/)" 指生物分类学中的分类方法。
+- "[Skill](/post/skill/) [classification](/post/classification/)" 指根据技能水平进行的分类。
 
 ## 例句
-- 名词: "The new software uses machine learning for automatic image classification."
-- 名词: "In the sports competition, athletes are classified according to their age and gender."
+- 名词: "[The](/post/the/) [new](/post/new/) software uses [machine](/post/machine/) [learning](/post/learning/) [for](/post/for/) [automatic](/post/automatic/) [image](/post/image/) [classification](/post/classification/)."
+- 名词: "[In](/post/in/) [the](/post/the/) sports [competition](/post/competition/), athletes are classified according [to](/post/to/) [their](/post/their/) [age](/post/age/) [and](/post/and/) gender."
 
 ## 同义词
 - Categorization
 - Grouping
-- Division
-- Classification system
+- [Division](/post/division/)
+- [Classification](/post/classification/) [system](/post/system/)
 - Sorting

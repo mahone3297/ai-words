@@ -11,22 +11,22 @@ keywords = ['ai words', 'sour']
 /ˈsaʊər/
 
 ## 释义
-- **形容词**: 酸的，发酸的，味酸的。例如: "The lemonade was too sour for my taste."
-- **动词**: （使）变酸，发酵。例如: "The milk has soured in the heat."
-- **名词**: 酸味，酸性物质。例如: "She added a touch of sour to balance the sweetness."
+- **形容词**: 酸的，发酸的，味酸的。例如: "[The](/post/the/) lemonade was [too](/post/too/) [sour](/post/sour/) [for](/post/for/) [my](/post/my/) [taste](/post/taste/)."
+- **动词**: （使）变酸，发酵。例如: "[The](/post/the/) [milk](/post/milk/) has soured [in](/post/in/) [the](/post/the/) [heat](/post/heat/)."
+- **名词**: 酸味，酸性物质。例如: "[She](/post/she/) added [a](/post/a/) [touch](/post/touch/) [of](/post/of/) [sour](/post/sour/) [to](/post/to/) [balance](/post/balance/) [the](/post/the/) sweetness."
 
 ## 短语
-- "sour cream" 酸奶油，常用于烹饪和烘焙。
-- "sour grapes" 嫉妒心作祟，酸葡萄心理。
+- "[sour](/post/sour/) [cream](/post/cream/)" 酸奶油，常用于烹饪和烘焙。
+- "[sour](/post/sour/) grapes" 嫉妒心作祟，酸葡萄心理。
 
 ## 例句
-- 形容词: "I love the sour taste of pickles."
-- 动词: "The wine had soured after being left open for too long."
-- 名词: "He used a spoonful of sour to enhance the dish's flavor."
+- 形容词: "I [love](/post/love/) [the](/post/the/) [sour](/post/sour/) [taste](/post/taste/) [of](/post/of/) pickles."
+- 动词: "[The](/post/the/) [wine](/post/wine/) had soured [after](/post/after/) [being](/post/being/) [left](/post/left/) [open](/post/open/) [for](/post/for/) [too](/post/too/) [long](/post/long/)."
+- 名词: "[He](/post/he/) [used](/post/used/) [a](/post/a/) spoonful [of](/post/of/) [sour](/post/sour/) [to](/post/to/) enhance [the](/post/the/) dish's flavor."
 
 ## 同义词
-- Acid
+- [Acid](/post/acid/)
 - Tart
-- Bitter
-- Sharp
+- [Bitter](/post/bitter/)
+- [Sharp](/post/sharp/)
 - Pungent

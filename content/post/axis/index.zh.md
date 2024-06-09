@@ -12,19 +12,19 @@ keywords = ['ai words', 'axis']
 
 ## 释义
 - **名词**: 
-   1. 轴线，轴：A straight line around which a body or a system rotates.
-   2. 中心，核心：The central point or line of symmetry in a shape or object.
+   1. 轴线，轴：[A](/post/a/) [straight](/post/straight/) [line](/post/line/) [around](/post/around/) [which](/post/which/) [a](/post/a/) [body](/post/body/) [or](/post/or/) [a](/post/a/) [system](/post/system/) rotates.
+   2. 中心，核心：[The](/post/the/) [central](/post/central/) [point](/post/point/) [or](/post/or/) [line](/post/line/) [of](/post/of/) symmetry [in](/post/in/) [a](/post/a/) [shape](/post/shape/) [or](/post/or/) [object](/post/object/).
 
 ## 短语
-- "axis of rotation" 指旋转的轴线。
-- "central axis" 指物体的中心轴线。
+- "[axis](/post/axis/) [of](/post/of/) [rotation](/post/rotation/)" 指旋转的轴线。
+- "[central](/post/central/) [axis](/post/axis/)" 指物体的中心轴线。
 
 ## 例句
-- "The axis of the Earth is tilted at an angle of about 23.5 degrees."
-- "The design of the building is symmetrical around its central axis."
+- "[The](/post/the/) [axis](/post/axis/) [of](/post/of/) [the](/post/the/) [Earth](/post/earth/) is tilted [at](/post/at/) an [angle](/post/angle/) [of](/post/of/) [about](/post/about/) 23.5 degrees."
+- "[The](/post/the/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [building](/post/building/) is symmetrical [around](/post/around/) [its](/post/its/) [central](/post/central/) [axis](/post/axis/)."
 
 ## 同义词
-- Pole
+- [Pole](/post/pole/)
 - Meridian
-- Line of symmetry
-- Spine (in certain contexts)
+- [Line](/post/line/) [of](/post/of/) symmetry
+- Spine ([in](/post/in/) [certain](/post/certain/) contexts)

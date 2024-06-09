@@ -7,33 +7,33 @@ description = '[prəˈdʌktiv] a.生产的；丰饶的'
 keywords = ['ai words', 'productive']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /prəˈdʌktɪv/
 
 ## Definitions
-### Noun
-- **Productive** (n): A person, process, or thing that generates or yields a significant amount of output, results, or value. Example: "A productive worker is known for their high output of completed tasks."
+### [Noun](/en/post/noun/)
+- **[Productive](/en/post/productive/)** (n): [A](/en/post/a/) [person](/en/post/person/), [process](/en/post/process/), [or](/en/post/or/) [thing](/en/post/thing/) [that](/en/post/that/) generates [or](/en/post/or/) yields [a](/en/post/a/) [significant](/en/post/significant/) [amount](/en/post/amount/) [of](/en/post/of/) [output](/en/post/output/), results, [or](/en/post/or/) [value](/en/post/value/). [Example](/en/post/example/): "[A](/en/post/a/) [productive](/en/post/productive/) [worker](/en/post/worker/) is known [for](/en/post/for/) [their](/en/post/their/) [high](/en/post/high/) [output](/en/post/output/) [of](/en/post/of/) completed tasks."
 
-### Verb
-- **To be productive** (v): To work efficiently and effectively, producing a lot of results or outputs. Example: "She spends her days being highly productive in the office."
-- **To make something productive** (v): To convert resources into useful outputs or achievements. Example: "The company aims to make their meetings more productive."
+### [Verb](/en/post/verb/)
+- **[To](/en/post/to/) [be](/en/post/be/) [productive](/en/post/productive/)** (v): [To](/en/post/to/) [work](/en/post/work/) efficiently [and](/en/post/and/) effectively, producing [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) results [or](/en/post/or/) outputs. [Example](/en/post/example/): "[She](/en/post/she/) spends [her](/en/post/her/) days [being](/en/post/being/) [highly](/en/post/highly/) [productive](/en/post/productive/) [in](/en/post/in/) [the](/en/post/the/) [office](/en/post/office/)."
+- **[To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [productive](/en/post/productive/)** (v): [To](/en/post/to/) [convert](/en/post/convert/) resources [into](/en/post/into/) [useful](/en/post/useful/) outputs [or](/en/post/or/) achievements. [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) aims [to](/en/post/to/) [make](/en/post/make/) [their](/en/post/their/) meetings [more](/en/post/more/) [productive](/en/post/productive/)."
 
 ## Phrases
-- "Highly productive" describes someone or something that achieves a lot.
-- "Productive work habits" refer to efficient routines that lead to success.
-- "Maximizing productivity" is about optimizing one's output.
+- "[Highly](/en/post/highly/) [productive](/en/post/productive/)" describes [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [that](/en/post/that/) achieves [a](/en/post/a/) [lot](/en/post/lot/).
+- "[Productive](/en/post/productive/) [work](/en/post/work/) habits" [refer](/en/post/refer/) [to](/en/post/to/) [efficient](/en/post/efficient/) routines [that](/en/post/that/) [lead](/en/post/lead/) [to](/en/post/to/) [success](/en/post/success/).
+- "Maximizing productivity" is [about](/en/post/about/) optimizing one's [output](/en/post/output/).
 
-## Example Sentences
-- **Noun**: "His productive garden yielded a bountiful harvest this season."
-- **Verb**: "She decided to take a break to increase her productivity during the day."
-- **To make productive use of time**: "I'm trying to make every minute count to be more productive."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [productive](/en/post/productive/) [garden](/en/post/garden/) yielded [a](/en/post/a/) bountiful [harvest](/en/post/harvest/) [this](/en/post/this/) [season](/en/post/season/)."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [break](/en/post/break/) [to](/en/post/to/) [increase](/en/post/increase/) [her](/en/post/her/) productivity [during](/en/post/during/) [the](/en/post/the/) [day](/en/post/day/)."
+- **[To](/en/post/to/) [make](/en/post/make/) [productive](/en/post/productive/) [use](/en/post/use/) [of](/en/post/of/) [time](/en/post/time/)**: "I'm trying [to](/en/post/to/) [make](/en/post/make/) [every](/en/post/every/) [minute](/en/post/minute/) [count](/en/post/count/) [to](/en/post/to/) [be](/en/post/be/) [more](/en/post/more/) [productive](/en/post/productive/)."
 
 ## Synonyms
-- Efficient
+- [Efficient](/en/post/efficient/)
 - Accomplished
 - Result-oriented
-- Fruitful
+- [Fruitful](/en/post/fruitful/)
 - Output-focused
-- Productive output
-- Productive capacity
+- [Productive](/en/post/productive/) [output](/en/post/output/)
+- [Productive](/en/post/productive/) [capacity](/en/post/capacity/)
 - High-yielding

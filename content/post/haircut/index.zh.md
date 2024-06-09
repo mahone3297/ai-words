@@ -11,20 +11,20 @@ keywords = ['ai words', 'haircut']
 /hɑːrˈkʌt/
 
 ## 释义
-- **名词**: 修剪头发的服务或结果；理发。例如: "I need to get a haircut this weekend."
-- **动词**: 给（某人）理发。例如: "She regularly cuts her son's hair herself, but he wants a professional haircut for his school photos."
+- **名词**: 修剪头发的服务或结果；理发。例如: "I [need](/post/need/) [to](/post/to/) [get](/post/get/) [a](/post/a/) [haircut](/post/haircut/) [this](/post/this/) [weekend](/post/weekend/)."
+- **动词**: 给（某人）理发。例如: "[She](/post/she/) [regularly](/post/regularly/) cuts [her](/post/her/) son's [hair](/post/hair/) [herself](/post/herself/), [but](/post/but/) [he](/post/he/) wants [a](/post/a/) [professional](/post/professional/) [haircut](/post/haircut/) [for](/post/for/) [his](/post/his/) [school](/post/school/) photos."
 
 ## 短语
-- "get a haircut" 意味着去理头发。
-- "give someone a haircut" 是给某人剪头发的意思。
+- "[get](/post/get/) [a](/post/a/) [haircut](/post/haircut/)" 意味着去理头发。
+- "[give](/post/give/) [someone](/post/someone/) [a](/post/a/) [haircut](/post/haircut/)" 是给某人剪头发的意思。
 
 ## 例句
-- 名词: "After weeks of growth, it was time for him to get a much-needed haircut."
-- 动词: "The stylist will be with you shortly to give you a haircut."
+- 名词: "[After](/post/after/) weeks [of](/post/of/) [growth](/post/growth/), [it](/post/it/) was [time](/post/time/) [for](/post/for/) [him](/post/him/) [to](/post/to/) [get](/post/get/) [a](/post/a/) much-needed [haircut](/post/haircut/)."
+- 动词: "[The](/post/the/) stylist [will](/post/will/) [be](/post/be/) [with](/post/with/) [you](/post/you/) [shortly](/post/shortly/) [to](/post/to/) [give](/post/give/) [you](/post/you/) [a](/post/a/) [haircut](/post/haircut/)."
 
 ## 同义词
-- Trim
-- Style
-- Tidy up
-- Chop
-- Shear
+- [Trim](/post/trim/)
+- [Style](/post/style/)
+- [Tidy](/post/tidy/) [up](/post/up/)
+- [Chop](/post/chop/)
+- [Shear](/post/shear/)

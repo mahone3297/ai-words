@@ -11,21 +11,21 @@ keywords = ['ai words', 'principle']
 /prɪˈplɪns/
 
 ## 释义
-- **名词**: 原则；原理；基本信念。例如: "He acted according to his principles."
-- **名词**: 法则；准则；道德规范。例如: "The company operates on a set of core principles."
+- **名词**: 原则；原理；基本信念。例如: "[He](/post/he/) acted according [to](/post/to/) [his](/post/his/) principles."
+- **名词**: 法则；准则；道德规范。例如: "[The](/post/the/) [company](/post/company/) operates [on](/post/on/) [a](/post/a/) [set](/post/set/) [of](/post/of/) [core](/post/core/) principles."
 
 ## 短语
-- "Basic principles" 基本原则
-- "道德原则 moral principles"
-- "经济原则 economic principles"
+- "[Basic](/post/basic/) principles" 基本原则
+- "道德原则 [moral](/post/moral/) principles"
+- "经济原则 [economic](/post/economic/) principles"
 
 ## 例句
-- 名词: "Her principles guide her actions in life."
-- 名词: "The school teaches its students to respect the principles of fairness and honesty."
+- 名词: "[Her](/post/her/) principles [guide](/post/guide/) [her](/post/her/) actions [in](/post/in/) [life](/post/life/)."
+- 名词: "[The](/post/the/) [school](/post/school/) teaches [its](/post/its/) students [to](/post/to/) [respect](/post/respect/) [the](/post/the/) principles [of](/post/of/) fairness [and](/post/and/) [honesty](/post/honesty/)."
 
 ## 同义词
-- Concept
-- Theory
+- [Concept](/post/concept/)
+- [Theory](/post/theory/)
 - Guideline
-- Rule
-- Belief
+- [Rule](/post/rule/)
+- [Belief](/post/belief/)

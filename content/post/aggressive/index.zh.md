@@ -11,20 +11,20 @@ keywords = ['ai words', 'aggressive']
 /əˈɡrɛsɪv/
 
 ## 释义
-- **形容词**: 进取的；有攻击性的；挑衅的。例如: "The football team played with an aggressive style."
-- **副词**: 攻击性地；挑衅地。例如: "He answered her aggressive questions."
+- **形容词**: 进取的；有攻击性的；挑衅的。例如: "[The](/post/the/) [football](/post/football/) [team](/post/team/) played [with](/post/with/) an [aggressive](/post/aggressive/) [style](/post/style/)."
+- **副词**: 攻击性地；挑衅地。例如: "[He](/post/he/) answered [her](/post/her/) [aggressive](/post/aggressive/) questions."
 
 ## 短语
-- "aggressive behavior" 表示具有攻击性的行为。
-- "an aggressive marketing strategy" 指积极进取的市场策略。
+- "[aggressive](/post/aggressive/) [behavior](/post/behavior/)" 表示具有攻击性的行为。
+- "an [aggressive](/post/aggressive/) marketing [strategy](/post/strategy/)" 指积极进取的市场策略。
 
 ## 例句
-- 形容词: "His aggressive playing style earned him a yellow card in the match."
-- 副词: "She negotiated aggressively to get the best deal possible."
+- 形容词: "[His](/post/his/) [aggressive](/post/aggressive/) playing [style](/post/style/) earned [him](/post/him/) [a](/post/a/) [yellow](/post/yellow/) [card](/post/card/) [in](/post/in/) [the](/post/the/) [match](/post/match/)."
+- 副词: "[She](/post/she/) negotiated aggressively [to](/post/to/) [get](/post/get/) [the](/post/the/) [best](/post/best/) [deal](/post/deal/) [possible](/post/possible/)."
 
 ## 同义词
-- Bold
+- [Bold](/post/bold/)
 - Assertive
 - Forceful
-- Hostile
+- [Hostile](/post/hostile/)
 - Aggresive (注意：aggresive是拼写错误，正确形式为aggressive)

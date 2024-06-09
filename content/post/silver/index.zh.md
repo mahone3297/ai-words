@@ -11,24 +11,24 @@ keywords = ['ai words', 'silver']
 /ˈsɪlvər/
 
 ## 释义
-- **名词 (n)**: 1. 银，一种化学元素，符号Ag。例如: "She wore a necklace made of pure silver."
-          2. 银色，像银的颜色。例如: "The car had a sleek silver paint job."
-          3. 银币，货币。例如: "In old times, people used silver coins for trading."
+- **名词 (n)**: 1. 银，一种化学元素，符号Ag。例如: "[She](/post/she/) wore [a](/post/a/) [necklace](/post/necklace/) made [of](/post/of/) [pure](/post/pure/) [silver](/post/silver/)."
+          2. 银色，像银的颜色。例如: "[The](/post/the/) [car](/post/car/) had [a](/post/a/) sleek [silver](/post/silver/) [paint](/post/paint/) [job](/post/job/)."
+          3. 银币，货币。例如: "[In](/post/in/) [old](/post/old/) times, [people](/post/people/) [used](/post/used/) [silver](/post/silver/) coins [for](/post/for/) trading."
 
-- **形容词 (adj)**: 1. 由银制成的。例如: "The silverware on the table shone brightly."
-          2. 像银的，银色的。例如: "She had a silver hairpin holding back her hair."
-          3. 有关银的，与银相关的。例如: "They specialize in silver mining."
+- **形容词 (adj)**: 1. 由银制成的。例如: "[The](/post/the/) silverware [on](/post/on/) [the](/post/the/) [table](/post/table/) shone brightly."
+          2. 像银的，银色的。例如: "[She](/post/she/) had [a](/post/a/) [silver](/post/silver/) hairpin holding [back](/post/back/) [her](/post/her/) [hair](/post/hair/)."
+          3. 有关银的，与银相关的。例如: "[They](/post/they/) [specialize](/post/specialize/) [in](/post/in/) [silver](/post/silver/) mining."
 
 ## 短语
-- "silver lining" 意为事物中的积极面或希望（即使在困难中也有好的一面）。
-- "silver spoon" 通常指出生富贵或有特权的人。
-- "silver screen" 是指电影产业，尤其是早期电影时代的电影院。
+- "[silver](/post/silver/) lining" 意为事物中的积极面或希望（即使在困难中也有好的一面）。
+- "[silver](/post/silver/) [spoon](/post/spoon/)" 通常指出生富贵或有特权的人。
+- "[silver](/post/silver/) [screen](/post/screen/)" 是指电影产业，尤其是早期电影时代的电影院。
 
 ## 例句
-- 名词: "The antique store had a collection of valuable silver artifacts."
-- 形容词: "Her shoes had silver heels that sparkled under the light."
+- 名词: "[The](/post/the/) antique [store](/post/store/) had [a](/post/a/) [collection](/post/collection/) [of](/post/of/) [valuable](/post/valuable/) [silver](/post/silver/) artifacts."
+- 形容词: "[Her](/post/her/) shoes had [silver](/post/silver/) heels [that](/post/that/) sparkled [under](/post/under/) [the](/post/the/) [light](/post/light/)."
 
 ## 同义词
 - Platinum (铂)
-- White gold (白金)
-- Metallic gray (金属灰)
+- [White](/post/white/) [gold](/post/gold/) (白金)
+- Metallic [gray](/post/gray/) (金属灰)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'strange']
 /strændʒ/
 
 ## 释义
-- **形容词**: 不寻常的，奇怪的，陌生的。例如: "She felt strange in the new city."
-- **名词**: 陌生人，外地人。例如: "The stranger introduced himself to the group."
+- **形容词**: 不寻常的，奇怪的，陌生的。例如: "[She](/post/she/) felt [strange](/post/strange/) [in](/post/in/) [the](/post/the/) [new](/post/new/) [city](/post/city/)."
+- **名词**: 陌生人，外地人。例如: "[The](/post/the/) [stranger](/post/stranger/) introduced [himself](/post/himself/) [to](/post/to/) [the](/post/the/) [group](/post/group/)."
 
 ## 短语
-- "Something strange happened" 表示有不寻常的事情发生。
-- "a strange feeling" 指一种不熟悉或难以解释的情绪。
+- "[Something](/post/something/) [strange](/post/strange/) happened" 表示有不寻常的事情发生。
+- "[a](/post/a/) [strange](/post/strange/) [feeling](/post/feeling/)" 指一种不熟悉或难以解释的情绪。
 
 ## 例句
-- 形容词: "There was a strange noise coming from the basement."
-- 名词: "The stranger at the door seemed nervous."
+- 形容词: "[There](/post/there/) was [a](/post/a/) [strange](/post/strange/) [noise](/post/noise/) coming [from](/post/from/) [the](/post/the/) basement."
+- 名词: "[The](/post/the/) [stranger](/post/stranger/) [at](/post/at/) [the](/post/the/) [door](/post/door/) seemed [nervous](/post/nervous/)."
 
 ## 同义词
-- Unusual
-- Peculiar
-- Odd
+- [Unusual](/post/unusual/)
+- [Peculiar](/post/peculiar/)
+- [Odd](/post/odd/)
 - Bizarre
-- Out of the ordinary
+- [Out](/post/out/) [of](/post/of/) [the](/post/the/) [ordinary](/post/ordinary/)

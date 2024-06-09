@@ -11,19 +11,19 @@ keywords = ['ai words', 'artificial']
 /ˌɑːrtɪˈfɪʃəl/
 
 ## 释义
-- **形容词**: 人造的，人工的；非自然的；假的。例如: "This flower is artificial, made of plastic."
-- **名词**: 人工智能（Artificial Intelligence，AI）的缩写。
+- **形容词**: 人造的，人工的；非自然的；假的。例如: "[This](/post/this/) [flower](/post/flower/) is [artificial](/post/artificial/), made [of](/post/of/) [plastic](/post/plastic/)."
+- **名词**: 人工智能（[Artificial](/post/artificial/) [Intelligence](/post/intelligence/)，AI）的缩写。
 
 ## 短语
-- "artificial intelligence" 人工智能，指由人类创造的智能系统或机器。
-- "artificial satellite" 人造卫星，人类制造并送入太空的卫星。
+- "[artificial](/post/artificial/) [intelligence](/post/intelligence/)" 人工智能，指由人类创造的智能系统或机器。
+- "[artificial](/post/artificial/) [satellite](/post/satellite/)" 人造卫星，人类制造并送入太空的卫星。
 
 ## 例句
-- 形容词: "The lake is so blue because it's artificial, filled with dye."
-- 名词: "She's studying artificial intelligence for her master's degree."
+- 形容词: "[The](/post/the/) [lake](/post/lake/) is [so](/post/so/) [blue](/post/blue/) [because](/post/because/) it's [artificial](/post/artificial/), filled [with](/post/with/) [dye](/post/dye/)."
+- 名词: "She's studying [artificial](/post/artificial/) [intelligence](/post/intelligence/) [for](/post/for/) [her](/post/her/) master's [degree](/post/degree/)."
 
 ## 同义词
-- Synthetic
+- [Synthetic](/post/synthetic/)
 - Man-made
 - Fake
 - Manufactured

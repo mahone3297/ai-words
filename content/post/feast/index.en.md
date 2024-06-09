@@ -7,31 +7,31 @@ description = '[fiːst] n.盛宴，筵席；节日'
 keywords = ['ai words', 'feast']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /fiːst/
 
 ## Definitions
-- **Noun**: (n) A large, elaborate meal with many courses, often accompanied by entertainment or ceremony; a banquet. For example: "The king hosted a grand feast to celebrate his victory."
-- **Verb**: (v) To enjoy a plentiful or sumptuous meal, especially one shared with others. For example: "After a long day's work, they feasted on roasted turkey and all the trimmings."
-- **Noun**: (figurative) An abundant supply or source of something enjoyable or desirable. For instance: "A feast for the eyes" meaning something visually pleasing.
+- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [large](/en/post/large/), [elaborate](/en/post/elaborate/) [meal](/en/post/meal/) [with](/en/post/with/) [many](/en/post/many/) courses, [often](/en/post/often/) accompanied [by](/en/post/by/) entertainment [or](/en/post/or/) [ceremony](/en/post/ceremony/); [a](/en/post/a/) banquet. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [king](/en/post/king/) hosted [a](/en/post/a/) [grand](/en/post/grand/) [feast](/en/post/feast/) [to](/en/post/to/) [celebrate](/en/post/celebrate/) [his](/en/post/his/) [victory](/en/post/victory/)."
+- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [enjoy](/en/post/enjoy/) [a](/en/post/a/) [plentiful](/en/post/plentiful/) [or](/en/post/or/) sumptuous [meal](/en/post/meal/), [especially](/en/post/especially/) [one](/en/post/one/) shared [with](/en/post/with/) others. [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) day's [work](/en/post/work/), [they](/en/post/they/) feasted [on](/en/post/on/) roasted [turkey](/en/post/turkey/) [and](/en/post/and/) [all](/en/post/all/) [the](/en/post/the/) trimmings."
+- **[Noun](/en/post/noun/)**: (figurative) An [abundant](/en/post/abundant/) [supply](/en/post/supply/) [or](/en/post/or/) [source](/en/post/source/) [of](/en/post/of/) [something](/en/post/something/) enjoyable [or](/en/post/or/) [desirable](/en/post/desirable/). [For](/en/post/for/) [instance](/en/post/instance/): "[A](/en/post/a/) [feast](/en/post/feast/) [for](/en/post/for/) [the](/en/post/the/) eyes" [meaning](/en/post/meaning/) [something](/en/post/something/) visually pleasing.
 
 ## Phrases
-- "Feast your eyes on": To look at or enjoy something that is visually attractive or impressive. Example: "Come over here and feast your eyes on this masterpiece!"
-- "A movable feast": A memorable experience that stays with one, originally from Ernest Hemingway's book title about Paris, suggesting experiences that can be revisited mentally.
-- "Break bread together": This idiomatic expression suggests sharing a meal, often a feast, to strengthen bonds or make peace among people.
+- "[Feast](/en/post/feast/) [your](/en/post/your/) eyes [on](/en/post/on/)": [To](/en/post/to/) [look](/en/post/look/) [at](/en/post/at/) [or](/en/post/or/) [enjoy](/en/post/enjoy/) [something](/en/post/something/) [that](/en/post/that/) is visually [attractive](/en/post/attractive/) [or](/en/post/or/) [impressive](/en/post/impressive/). [Example](/en/post/example/): "[Come](/en/post/come/) [over](/en/post/over/) [here](/en/post/here/) [and](/en/post/and/) [feast](/en/post/feast/) [your](/en/post/your/) eyes [on](/en/post/on/) [this](/en/post/this/) [masterpiece](/en/post/masterpiece/)!"
+- "[A](/en/post/a/) movable [feast](/en/post/feast/)": [A](/en/post/a/) memorable [experience](/en/post/experience/) [that](/en/post/that/) stays [with](/en/post/with/) [one](/en/post/one/), originally [from](/en/post/from/) Ernest Hemingway's [book](/en/post/book/) [title](/en/post/title/) [about](/en/post/about/) Paris, suggesting experiences [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) revisited mentally.
+- "[Break](/en/post/break/) [bread](/en/post/bread/) [together](/en/post/together/)": [This](/en/post/this/) idiomatic [expression](/en/post/expression/) suggests sharing [a](/en/post/a/) [meal](/en/post/meal/), [often](/en/post/often/) [a](/en/post/a/) [feast](/en/post/feast/), [to](/en/post/to/) [strengthen](/en/post/strengthen/) bonds [or](/en/post/or/) [make](/en/post/make/) [peace](/en/post/peace/) [among](/en/post/among/) [people](/en/post/people/).
 
-## Example Sentences
-- **Noun (meal)**: "The wedding feast was held in a grand hall adorned with flowers and candles."
-- **Verb**: "The family gathered around the table to feast on their Thanksgiving dinner."
-- **Figurative Noun**: "The city's skyline at night was a visual feast."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/) ([meal](/en/post/meal/))**: "[The](/en/post/the/) [wedding](/en/post/wedding/) [feast](/en/post/feast/) was held [in](/en/post/in/) [a](/en/post/a/) [grand](/en/post/grand/) [hall](/en/post/hall/) adorned [with](/en/post/with/) flowers [and](/en/post/and/) candles."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [family](/en/post/family/) gathered [around](/en/post/around/) [the](/en/post/the/) [table](/en/post/table/) [to](/en/post/to/) [feast](/en/post/feast/) [on](/en/post/on/) [their](/en/post/their/) Thanksgiving [dinner](/en/post/dinner/)."
+- **Figurative [Noun](/en/post/noun/)**: "[The](/en/post/the/) city's skyline [at](/en/post/at/) [night](/en/post/night/) was [a](/en/post/a/) [visual](/en/post/visual/) [feast](/en/post/feast/)."
 
 ## Synonyms
 - Banquet
 - Gala
 - Repast
-- Meal
+- [Meal](/en/post/meal/)
 - Festivity
-- Spread
+- [Spread](/en/post/spread/)
 - Buffet
 - Banqueting
-- Enjoyment (for the verb sense)
+- Enjoyment ([for](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [sense](/en/post/sense/))

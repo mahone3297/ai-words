@@ -11,16 +11,16 @@ keywords = ['ai words', 'kindness']
 /kɪndnəs/
 
 ## 释义
-- **名词**: 温和，仁慈，善良的行为或态度。例如: "Her kindness towards strangers was remarkable."
-- **形容词**: 仁慈的，好心的。例如: "He is known for his kindness to animals."
+- **名词**: 温和，仁慈，善良的行为或态度。例如: "[Her](/post/her/) [kindness](/post/kindness/) towards strangers was [remarkable](/post/remarkable/)."
+- **形容词**: 仁慈的，好心的。例如: "[He](/post/he/) is known [for](/post/for/) [his](/post/his/) [kindness](/post/kindness/) [to](/post/to/) animals."
 
 ## 短语
-- "Acts of kindness" 指善意的行为。
+- "Acts [of](/post/of/) [kindness](/post/kindness/)" 指善意的行为。
 - "Kind-hearted" 形容心地善良的人。
 
 ## 例句
-- 名词: "His kindness in helping the elderly lady cross the street was commendable."
-- 形容词: "She is a kind person who always thinks of others first."
+- 名词: "[His](/post/his/) [kindness](/post/kindness/) [in](/post/in/) helping [the](/post/the/) elderly [lady](/post/lady/) [cross](/post/cross/) [the](/post/the/) [street](/post/street/) was commendable."
+- 形容词: "[She](/post/she/) is [a](/post/a/) [kind](/post/kind/) [person](/post/person/) [who](/post/who/) [always](/post/always/) thinks [of](/post/of/) others [first](/post/first/)."
 
 ## 同义词
 - Generosity

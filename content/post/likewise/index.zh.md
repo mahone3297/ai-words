@@ -11,20 +11,20 @@ keywords = ['ai words', 'likewise']
 /laɪkwaɪz/
 
 ## 释义
-- **副词**: 表示同样地，也，又。例如: "She enjoys painting, and likewise, she is passionate about music."
-- **连词**: 用于连接两个相似的想法或情况。例如: "John failed the test, and likewise, Mary did not pass either."
+- **副词**: 表示同样地，也，又。例如: "[She](/post/she/) enjoys [painting](/post/painting/), [and](/post/and/) [likewise](/post/likewise/), [she](/post/she/) is passionate [about](/post/about/) [music](/post/music/)."
+- **连词**: 用于连接两个相似的想法或情况。例如: "John failed [the](/post/the/) [test](/post/test/), [and](/post/and/) [likewise](/post/likewise/), Mary did [not](/post/not/) [pass](/post/pass/) [either](/post/either/)."
 
 ## 短语
-- "likewise, too" 用于表示同意或附和对方的观点。
-- "likewise in reverse" 指相反的情况也适用。
+- "[likewise](/post/likewise/), [too](/post/too/)" 用于表示同意或附和对方的观点。
+- "[likewise](/post/likewise/) [in](/post/in/) [reverse](/post/reverse/)" 指相反的情况也适用。
 
 ## 例句
-- 副词: "I love playing tennis, and my brother likewise enjoys it."
-- 连词: "The weather was cold yesterday, and likewise, it's freezing today."
+- 副词: "I [love](/post/love/) playing [tennis](/post/tennis/), [and](/post/and/) [my](/post/my/) [brother](/post/brother/) [likewise](/post/likewise/) enjoys [it](/post/it/)."
+- 连词: "[The](/post/the/) [weather](/post/weather/) was [cold](/post/cold/) [yesterday](/post/yesterday/), [and](/post/and/) [likewise](/post/likewise/), it's freezing [today](/post/today/)."
 
 ## 同义词
-- Similarly
-- Also
-- Too
+- [Similarly](/post/similarly/)
+- [Also](/post/also/)
+- [Too](/post/too/)
 - Equally
-- In the same way
+- [In](/post/in/) [the](/post/the/) [same](/post/same/) [way](/post/way/)

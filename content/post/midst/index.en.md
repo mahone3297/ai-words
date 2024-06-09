@@ -7,29 +7,29 @@ description = '[ˈmidst] n.中部，中间，当中'
 keywords = ['ai words', 'midst']
 +++
 
-## Word: Midst
+## [Word](/en/post/word/): [Midst](/en/post/midst/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈmɪdst/
 
 ## Definitions
-- **Preposition**: In or among the middle of something; surrounded by. For example: "The house was nestled in the midst of a forest."
-- **Noun**: The middle point or part of something; often used in poetic or literary contexts. For example: "In the midst of the battle, he found courage."
+- **[Preposition](/en/post/preposition/)**: [In](/en/post/in/) [or](/en/post/or/) [among](/en/post/among/) [the](/en/post/the/) [middle](/en/post/middle/) [of](/en/post/of/) [something](/en/post/something/); surrounded [by](/en/post/by/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) was nestled [in](/en/post/in/) [the](/en/post/the/) [midst](/en/post/midst/) [of](/en/post/of/) [a](/en/post/a/) [forest](/en/post/forest/)."
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [middle](/en/post/middle/) [point](/en/post/point/) [or](/en/post/or/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/); [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) poetic [or](/en/post/or/) [literary](/en/post/literary/) contexts. [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [the](/en/post/the/) [midst](/en/post/midst/) [of](/en/post/of/) [the](/en/post/the/) [battle](/en/post/battle/), [he](/en/post/he/) [found](/en/post/found/) [courage](/en/post/courage/)."
 
 ### Phrases
-- "In the midst of": This phrase is used to describe being within or surrounded by an activity, situation, or location. Example: "She found herself in the midst of a heated debate."
-- "Amidst": This is a variant form of "in the midst of", and it carries the same meaning. Example: "Amidst the bustling city life, he sought solace in the park."
+- "[In](/en/post/in/) [the](/en/post/the/) [midst](/en/post/midst/) [of](/en/post/of/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [being](/en/post/being/) [within](/en/post/within/) [or](/en/post/or/) surrounded [by](/en/post/by/) an [activity](/en/post/activity/), [situation](/en/post/situation/), [or](/en/post/or/) [location](/en/post/location/). [Example](/en/post/example/): "[She](/en/post/she/) [found](/en/post/found/) [herself](/en/post/herself/) [in](/en/post/in/) [the](/en/post/the/) [midst](/en/post/midst/) [of](/en/post/of/) [a](/en/post/a/) heated [debate](/en/post/debate/)."
+- "Amidst": [This](/en/post/this/) is [a](/en/post/a/) variant [form](/en/post/form/) [of](/en/post/of/) "[in](/en/post/in/) [the](/en/post/the/) [midst](/en/post/midst/) [of](/en/post/of/)", [and](/en/post/and/) [it](/en/post/it/) carries [the](/en/post/the/) [same](/en/post/same/) [meaning](/en/post/meaning/). [Example](/en/post/example/): "Amidst [the](/en/post/the/) bustling [city](/en/post/city/) [life](/en/post/life/), [he](/en/post/he/) sought solace [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
 
-## Example Sentences
-- **Preposition**: "They discovered a hidden pond in the midst of the dense jungle."
-- **Noun**: "The calm amidst the chaos was what kept her grounded."
+## [Example](/en/post/example/) Sentences
+- **[Preposition](/en/post/preposition/)**: "[They](/en/post/they/) discovered [a](/en/post/a/) hidden [pond](/en/post/pond/) [in](/en/post/in/) [the](/en/post/the/) [midst](/en/post/midst/) [of](/en/post/of/) [the](/en/post/the/) [dense](/en/post/dense/) [jungle](/en/post/jungle/)."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [calm](/en/post/calm/) amidst [the](/en/post/the/) chaos was [what](/en/post/what/) kept [her](/en/post/her/) grounded."
 
 ## Synonyms
-- Middle
+- [Middle](/en/post/middle/)
 - Center
-- Heart
-- Core
+- [Heart](/en/post/heart/)
+- [Core](/en/post/core/)
 - Midway
-- Amongst (British English)
-- In between
-- Surrounded by
+- [Amongst](/en/post/amongst/) (British English)
+- [In](/en/post/in/) [between](/en/post/between/)
+- Surrounded [by](/en/post/by/)

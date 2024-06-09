@@ -11,21 +11,21 @@ keywords = ['ai words', 'letter']
 /lətər/
 
 ## 释义
-- **名词 (n)**: 1. 字母，如拉丁字母表中的a, b, c等。例如: "The first letter of the alphabet is 'A'."
-   2. 信件，书面通信。例如: "I received a letter from my friend yesterday."
-   3. 符号，标记。例如: "The symbol for hydrogen is a letter 'H'."
+- **名词 (n)**: 1. 字母，如拉丁字母表中的a, b, c等。例如: "[The](/post/the/) [first](/post/first/) [letter](/post/letter/) [of](/post/of/) [the](/post/the/) [alphabet](/post/alphabet/) is '[A](/post/a/)'."
+   2. 信件，书面通信。例如: "I received [a](/post/a/) [letter](/post/letter/) [from](/post/from/) [my](/post/my/) [friend](/post/friend/) [yesterday](/post/yesterday/)."
+   3. 符号，标记。例如: "[The](/post/the/) [symbol](/post/symbol/) [for](/post/for/) [hydrogen](/post/hydrogen/) is [a](/post/a/) [letter](/post/letter/) 'H'."
 
-- **动词 (v)**: 写信。例如: "I'll letter her tomorrow, telling her about the news."
+- **动词 (v)**: 写信。例如: "I'll [letter](/post/letter/) [her](/post/her/) [tomorrow](/post/tomorrow/), telling [her](/post/her/) [about](/post/about/) [the](/post/the/) [news](/post/news/)."
 
 ## 短语
-- "Write a letter" 意为写一封信。
-- "The alphabet consists of 26 letters" 表示字母表由26个字母组成。
+- "[Write](/post/write/) [a](/post/a/) [letter](/post/letter/)" 意为写一封信。
+- "[The](/post/the/) [alphabet](/post/alphabet/) consists [of](/post/of/) 26 letters" 表示字母表由26个字母组成。
 
 ## 例句
-- 名词: "The word 'cat' has three letters."
-- 动词: "I decided to letter my thoughts in a journal instead of typing them."
+- 名词: "[The](/post/the/) [word](/post/word/) '[cat](/post/cat/)' has [three](/post/three/) letters."
+- 动词: "I decided [to](/post/to/) [letter](/post/letter/) [my](/post/my/) thoughts [in](/post/in/) [a](/post/a/) [journal](/post/journal/) [instead](/post/instead/) [of](/post/of/) typing [them](/post/them/)."
   
 ## 同义词
-- Character (for the symbol or mark sense)
-- Epistle (for written communication)
-- Message (for the content of a letter)
+- [Character](/post/character/) ([for](/post/for/) [the](/post/the/) [symbol](/post/symbol/) [or](/post/or/) [mark](/post/mark/) [sense](/post/sense/))
+- Epistle ([for](/post/for/) written [communication](/post/communication/))
+- [Message](/post/message/) ([for](/post/for/) [the](/post/the/) [content](/post/content/) [of](/post/of/) [a](/post/a/) [letter](/post/letter/))

@@ -7,31 +7,31 @@ description = '[ˈauə] pron.我们的'
 keywords = ['ai words', 'our']
 +++
 
-## Word: Our
+## [Word](/en/post/word/): [Our](/en/post/our/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈaʊər/
 
 ## Definitions
-**Pronoun**: Referring to a belonging or possession shared by the speaker and one or more other people. It indicates that something belongs to the group that includes the speaker. 
+**[Pronoun](/en/post/pronoun/)**: Referring [to](/en/post/to/) [a](/en/post/a/) belonging [or](/en/post/or/) [possession](/en/post/possession/) shared [by](/en/post/by/) [the](/en/post/the/) [speaker](/en/post/speaker/) [and](/en/post/and/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) [other](/en/post/other/) [people](/en/post/people/). [It](/en/post/it/) indicates [that](/en/post/that/) [something](/en/post/something/) belongs [to](/en/post/to/) [the](/en/post/the/) [group](/en/post/group/) [that](/en/post/that/) includes [the](/en/post/the/) [speaker](/en/post/speaker/). 
 
-- **Example**: _Our house is on the corner._
-- _We're proud of our team's performance._
+- **[Example](/en/post/example/)**: _Our [house](/en/post/house/) is [on](/en/post/on/) [the](/en/post/the/) [corner](/en/post/corner/)._
+- _We're [proud](/en/post/proud/) [of](/en/post/of/) [our](/en/post/our/) team's [performance](/en/post/performance/)._
 
-## Usage in Phrases
-- **"Our mutual friend"**: A shared acquaintance between two or more individuals.
-- **"Our plans for the future"**: Refers to plans that belong to or involve the speaker and others.
-- **"In our opinion"**: Expresses a view held collectively by a group that includes the speaker.
+## [Usage](/en/post/usage/) [in](/en/post/in/) Phrases
+- **"[Our](/en/post/our/) [mutual](/en/post/mutual/) [friend](/en/post/friend/)"**: [A](/en/post/a/) shared [acquaintance](/en/post/acquaintance/) [between](/en/post/between/) [two](/en/post/two/) [or](/en/post/or/) [more](/en/post/more/) individuals.
+- **"[Our](/en/post/our/) plans [for](/en/post/for/) [the](/en/post/the/) [future](/en/post/future/)"**: Refers [to](/en/post/to/) plans [that](/en/post/that/) [belong](/en/post/belong/) [to](/en/post/to/) [or](/en/post/or/) [involve](/en/post/involve/) [the](/en/post/the/) [speaker](/en/post/speaker/) [and](/en/post/and/) others.
+- **"[In](/en/post/in/) [our](/en/post/our/) [opinion](/en/post/opinion/)"**: Expresses [a](/en/post/a/) [view](/en/post/view/) held collectively [by](/en/post/by/) [a](/en/post/a/) [group](/en/post/group/) [that](/en/post/that/) includes [the](/en/post/the/) [speaker](/en/post/speaker/).
 
-## Example Sentences
-- **Pronoun**: _Our car needs a wash before the trip._
-  - _The children love playing in our backyard._
+## [Example](/en/post/example/) Sentences
+- **[Pronoun](/en/post/pronoun/)**: _Our [car](/en/post/car/) needs [a](/en/post/a/) [wash](/en/post/wash/) [before](/en/post/before/) [the](/en/post/the/) [trip](/en/post/trip/)._
+  - _The children [love](/en/post/love/) playing [in](/en/post/in/) [our](/en/post/our/) backyard._
   
 ## Synonyms
-- Ours (possessive form)
+- [Ours](/en/post/ours/) (possessive [form](/en/post/form/))
 - Shared
-- Mutual
-- Joint
-- Collective
+- [Mutual](/en/post/mutual/)
+- [Joint](/en/post/joint/)
+- [Collective](/en/post/collective/)
 
-Note: The word "our" does not have alternative part-of-speech uses such as noun, verb, adjective, adverb, etc., as it is primarily a possessive pronoun.
+[Note](/en/post/note/): [The](/en/post/the/) [word](/en/post/word/) "[our](/en/post/our/)" does [not](/en/post/not/) [have](/en/post/have/) [alternative](/en/post/alternative/) part-of-speech uses [such](/en/post/such/) [as](/en/post/as/) [noun](/en/post/noun/), [verb](/en/post/verb/), [adjective](/en/post/adjective/), [adverb](/en/post/adverb/), etc., [as](/en/post/as/) [it](/en/post/it/) is [primarily](/en/post/primarily/) [a](/en/post/a/) possessive [pronoun](/en/post/pronoun/).

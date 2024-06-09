@@ -7,39 +7,39 @@ description = '[spai] n.间谍，特务 vt.侦察'
 keywords = ['ai words', 'spy']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /spaɪ/
 
 ## Definitions
-### Noun
-A **spy** is a person who is hired to gather information, often secretly, for a foreign power, organization, or individual. They may operate covertly and are typically involved in espionage activities.
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) **[spy](/en/post/spy/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is hired [to](/en/post/to/) [gather](/en/post/gather/) [information](/en/post/information/), [often](/en/post/often/) secretly, [for](/en/post/for/) [a](/en/post/a/) [foreign](/en/post/foreign/) [power](/en/post/power/), [organization](/en/post/organization/), [or](/en/post/or/) [individual](/en/post/individual/). [They](/en/post/they/) [may](/en/post/may/) [operate](/en/post/operate/) covertly [and](/en/post/and/) are typically involved [in](/en/post/in/) espionage activities.
 
-### Verb
-To **spy** can mean to observe or monitor someone or something without their knowledge, usually for the purpose of gathering information or surveillance.
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) **[spy](/en/post/spy/)** [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [observe](/en/post/observe/) [or](/en/post/or/) [monitor](/en/post/monitor/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [without](/en/post/without/) [their](/en/post/their/) [knowledge](/en/post/knowledge/), [usually](/en/post/usually/) [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) gathering [information](/en/post/information/) [or](/en/post/or/) surveillance.
 
-### Adjective
-Spy-like or espionage-related.
+### [Adjective](/en/post/adjective/)
+Spy-like [or](/en/post/or/) espionage-related.
 
 ## Phrases
-- "Spy on someone" implies observing secretly.
-- "Undercover spy" refers to a spy working in disguise.
-- "Spy technology" encompasses tools and methods used for surveillance.
+- "[Spy](/en/post/spy/) [on](/en/post/on/) [someone](/en/post/someone/)" implies observing secretly.
+- "Undercover [spy](/en/post/spy/)" refers [to](/en/post/to/) [a](/en/post/a/) [spy](/en/post/spy/) working [in](/en/post/in/) [disguise](/en/post/disguise/).
+- "[Spy](/en/post/spy/) [technology](/en/post/technology/)" encompasses tools [and](/en/post/and/) methods [used](/en/post/used/) [for](/en/post/for/) surveillance.
 
-## Example Sentences
-- **Noun**: "The spy was caught red-handed with classified documents."
-- **Verb**: "She spied on her rival's business practices to gain an advantage."
-- **Adjective**: "The spy-like gadgets were state-of-the-art."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [spy](/en/post/spy/) was caught red-handed [with](/en/post/with/) classified documents."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) spied [on](/en/post/on/) [her](/en/post/her/) rival's [business](/en/post/business/) practices [to](/en/post/to/) [gain](/en/post/gain/) an [advantage](/en/post/advantage/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) spy-like gadgets were state-of-the-art."
 
 ## Synonyms
 - Informant
-- Agent
+- [Agent](/en/post/agent/)
 - Sleuth
 -侦查员
-- Eavesdropper (slightly less formal)
+- Eavesdropper ([slightly](/en/post/slightly/) [less](/en/post/less/) [formal](/en/post/formal/))
 
 ## Antonyms
-- Open
-- Transparent
+- [Open](/en/post/open/)
+- [Transparent](/en/post/transparent/)
 - Candid
 - Unwary
 - Trustworthy

@@ -11,19 +11,19 @@ keywords = ['ai words', 'humble']
 /hʌmbl/
 
 ## 释义
-- **形容词**: 谦虚的，不自大的。例如: "He remained humble despite his great success."
-- **动词**: 使变得谦卑，降低身份。例如: "The defeat humbled the arrogant team."
+- **形容词**: 谦虚的，不自大的。例如: "[He](/post/he/) remained [humble](/post/humble/) [despite](/post/despite/) [his](/post/his/) [great](/post/great/) [success](/post/success/)."
+- **动词**: 使变得谦卑，降低身份。例如: "[The](/post/the/) [defeat](/post/defeat/) humbled [the](/post/the/) arrogant [team](/post/team/)."
 
 ## 短语
-- "to be humble about something" 在某事上表现得谦虚。
-- "to humble oneself" 谦逊自己，承认不足。
+- "[to](/post/to/) [be](/post/be/) [humble](/post/humble/) [about](/post/about/) [something](/post/something/)" 在某事上表现得谦虚。
+- "[to](/post/to/) [humble](/post/humble/) [oneself](/post/oneself/)" 谦逊自己，承认不足。
 
 ## 例句
-- 形容词: "Her humble origins never stopped her from pursuing her dreams."
-- 动词: "The victory didn't humble him; he continued to boast."
+- 形容词: "[Her](/post/her/) [humble](/post/humble/) origins [never](/post/never/) stopped [her](/post/her/) [from](/post/from/) pursuing [her](/post/her/) dreams."
+- 动词: "[The](/post/the/) [victory](/post/victory/) didn't [humble](/post/humble/) [him](/post/him/); [he](/post/he/) continued [to](/post/to/) [boast](/post/boast/)."
 
 ## 同义词
-- Modest
+- [Modest](/post/modest/)
 - Unassuming
 -谦逊的
 - Self-effacing

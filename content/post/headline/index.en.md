@@ -7,28 +7,28 @@ description = '[ˈhedlain] n.大字标题；新闻提要'
 keywords = ['ai words', 'headline']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈhedlʌɪn/
 
 ## Definitions
-- **Noun**: The main title or heading of an article, advertisement, or any written piece, usually printed in large letters above the text. It often summarizes or highlights the most important point of the content. For example: "The newspaper's headline screamed 'Election Results Shock the Nation.'"
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [main](/en/post/main/) [title](/en/post/title/) [or](/en/post/or/) [heading](/en/post/heading/) [of](/en/post/of/) an [article](/en/post/article/), [advertisement](/en/post/advertisement/), [or](/en/post/or/) [any](/en/post/any/) written [piece](/en/post/piece/), [usually](/en/post/usually/) printed [in](/en/post/in/) [large](/en/post/large/) letters [above](/en/post/above/) [the](/en/post/the/) [text](/en/post/text/). [It](/en/post/it/) [often](/en/post/often/) summarizes [or](/en/post/or/) highlights [the](/en/post/the/) [most](/en/post/most/) [important](/en/post/important/) [point](/en/post/point/) [of](/en/post/of/) [the](/en/post/the/) [content](/en/post/content/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) newspaper's [headline](/en/post/headline/) screamed '[Election](/en/post/election/) Results [Shock](/en/post/shock/) [the](/en/post/the/) [Nation](/en/post/nation/).'"
 
-Example sentence: 
-- "The headline of the New York Times' front page was about the historic peace treaty signing."
+[Example](/en/post/example/) [sentence](/en/post/sentence/): 
+- "[The](/en/post/the/) [headline](/en/post/headline/) [of](/en/post/of/) [the](/en/post/the/) [New](/en/post/new/) York Times' [front](/en/post/front/) [page](/en/post/page/) was [about](/en/post/about/) [the](/en/post/the/) historic [peace](/en/post/peace/) [treaty](/en/post/treaty/) signing."
 
 Phrases:
-- "Make headlines": To be featured prominently in news reports due to a significant event or action. For instance: "Their groundbreaking discovery made headlines across the globe."
-- "Above the fold": A reference to the top half of a newspaper where the headline is typically placed so that it can be seen before the paper is unfolded; this phrase has also been applied metaphorically to online content that appears without scrolling.
+- "[Make](/en/post/make/) headlines": [To](/en/post/to/) [be](/en/post/be/) featured prominently [in](/en/post/in/) [news](/en/post/news/) reports [due](/en/post/due/) [to](/en/post/to/) [a](/en/post/a/) [significant](/en/post/significant/) [event](/en/post/event/) [or](/en/post/or/) [action](/en/post/action/). [For](/en/post/for/) [instance](/en/post/instance/): "[Their](/en/post/their/) groundbreaking [discovery](/en/post/discovery/) made headlines [across](/en/post/across/) [the](/en/post/the/) [globe](/en/post/globe/)."
+- "[Above](/en/post/above/) [the](/en/post/the/) [fold](/en/post/fold/)": [A](/en/post/a/) [reference](/en/post/reference/) [to](/en/post/to/) [the](/en/post/the/) [top](/en/post/top/) [half](/en/post/half/) [of](/en/post/of/) [a](/en/post/a/) [newspaper](/en/post/newspaper/) [where](/en/post/where/) [the](/en/post/the/) [headline](/en/post/headline/) is typically placed [so](/en/post/so/) [that](/en/post/that/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) seen [before](/en/post/before/) [the](/en/post/the/) [paper](/en/post/paper/) is unfolded; [this](/en/post/this/) [phrase](/en/post/phrase/) has [also](/en/post/also/) been applied metaphorically [to](/en/post/to/) online [content](/en/post/content/) [that](/en/post/that/) appears [without](/en/post/without/) scrolling.
 
-## Example Sentences
-- **Noun**: "The editor chose a catchy headline to draw readers' attention to the investigative report."
-- "The scandalous story grabbed the day's top headline."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [editor](/en/post/editor/) chose [a](/en/post/a/) catchy [headline](/en/post/headline/) [to](/en/post/to/) [draw](/en/post/draw/) readers' [attention](/en/post/attention/) [to](/en/post/to/) [the](/en/post/the/) investigative [report](/en/post/report/)."
+- "[The](/en/post/the/) scandalous [story](/en/post/story/) grabbed [the](/en/post/the/) day's [top](/en/post/top/) [headline](/en/post/headline/)."
 
 ## Synonyms
-- Headline news
-- Title
+- [Headline](/en/post/headline/) [news](/en/post/news/)
+- [Title](/en/post/title/)
 - Caption
 - Header
-- Banner
-- Lead (in journalism)
+- [Banner](/en/post/banner/)
+- [Lead](/en/post/lead/) ([in](/en/post/in/) journalism)
 - Marquee (informal)

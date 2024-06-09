@@ -7,31 +7,31 @@ description = '[iˈni∫əl] a.最初的；词首的'
 keywords = ['ai words', 'initial']
 +++
 
-## Word: Initial
+## [Word](/en/post/word/): [Initial](/en/post/initial/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ɪˈnɪʃəl/
 
 ## Definitions
-- **Adjective**: Being first or earliest in a series or order; coming before all others. Example: "The initial chapter introduces the main characters."
-  - *As a Noun*: The first letter or letters of a word, often used as a design element or abbreviation. Example: "Her initials are J.S."
-  - *In a Legal Context*: A person's first name and surname initial, typically used to sign documents. Example: "Please write your initials next to each item you agree with."
+- **[Adjective](/en/post/adjective/)**: [Being](/en/post/being/) [first](/en/post/first/) [or](/en/post/or/) earliest [in](/en/post/in/) [a](/en/post/a/) [series](/en/post/series/) [or](/en/post/or/) [order](/en/post/order/); coming [before](/en/post/before/) [all](/en/post/all/) others. [Example](/en/post/example/): "[The](/en/post/the/) [initial](/en/post/initial/) [chapter](/en/post/chapter/) introduces [the](/en/post/the/) [main](/en/post/main/) characters."
+  - *[As](/en/post/as/) [a](/en/post/a/) [Noun](/en/post/noun/)*: [The](/en/post/the/) [first](/en/post/first/) [letter](/en/post/letter/) [or](/en/post/or/) letters [of](/en/post/of/) [a](/en/post/a/) [word](/en/post/word/), [often](/en/post/often/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [design](/en/post/design/) [element](/en/post/element/) [or](/en/post/or/) abbreviation. [Example](/en/post/example/): "[Her](/en/post/her/) initials are J.S."
+  - *[In](/en/post/in/) [a](/en/post/a/) [Legal](/en/post/legal/) Context*: [A](/en/post/a/) person's [first](/en/post/first/) [name](/en/post/name/) [and](/en/post/and/) [surname](/en/post/surname/) [initial](/en/post/initial/), typically [used](/en/post/used/) [to](/en/post/to/) [sign](/en/post/sign/) documents. [Example](/en/post/example/): "[Please](/en/post/please/) [write](/en/post/write/) [your](/en/post/your/) initials [next](/en/post/next/) [to](/en/post/to/) [each](/en/post/each/) [item](/en/post/item/) [you](/en/post/you/) [agree](/en/post/agree/) [with](/en/post/with/)."
 
 ## Phrases
-- "Initial phase": The very beginning or first stage of a process or project.
-- "Initial reaction": The immediate response or impression upon encountering something for the first time.
-- "Initials only": Referring to signing or marking something using just the first letters of one's given names and surname.
+- "[Initial](/en/post/initial/) [phase](/en/post/phase/)": [The](/en/post/the/) [very](/en/post/very/) [beginning](/en/post/beginning/) [or](/en/post/or/) [first](/en/post/first/) [stage](/en/post/stage/) [of](/en/post/of/) [a](/en/post/a/) [process](/en/post/process/) [or](/en/post/or/) [project](/en/post/project/).
+- "[Initial](/en/post/initial/) [reaction](/en/post/reaction/)": [The](/en/post/the/) [immediate](/en/post/immediate/) [response](/en/post/response/) [or](/en/post/or/) [impression](/en/post/impression/) [upon](/en/post/upon/) encountering [something](/en/post/something/) [for](/en/post/for/) [the](/en/post/the/) [first](/en/post/first/) [time](/en/post/time/).
+- "Initials [only](/en/post/only/)": Referring [to](/en/post/to/) signing [or](/en/post/or/) marking [something](/en/post/something/) using [just](/en/post/just/) [the](/en/post/the/) [first](/en/post/first/) letters [of](/en/post/of/) one's given names [and](/en/post/and/) [surname](/en/post/surname/).
 
-## Example Sentences
-- **Adjective**: "Our initial plan was to meet at noon."
-- **Noun (letters)**: "She embroidered her initials onto the handkerchief."
-- **Noun (legal)**: "Both parties signed their initials to indicate agreement on the terms."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[Our](/en/post/our/) [initial](/en/post/initial/) [plan](/en/post/plan/) was [to](/en/post/to/) [meet](/en/post/meet/) [at](/en/post/at/) [noon](/en/post/noon/)."
+- **[Noun](/en/post/noun/) (letters)**: "[She](/en/post/she/) embroidered [her](/en/post/her/) initials [onto](/en/post/onto/) [the](/en/post/the/) [handkerchief](/en/post/handkerchief/)."
+- **[Noun](/en/post/noun/) ([legal](/en/post/legal/))**: "[Both](/en/post/both/) parties signed [their](/en/post/their/) initials [to](/en/post/to/) [indicate](/en/post/indicate/) [agreement](/en/post/agreement/) [on](/en/post/on/) [the](/en/post/the/) terms."
 
 ## Synonyms
-- First
-- Beginning
+- [First](/en/post/first/)
+- [Beginning](/en/post/beginning/)
 - Commencement
-- Start
-- Opening
-- Abbreviated form (as a noun referring to initials)
-- Monogram (in the context of decorative initials)
+- [Start](/en/post/start/)
+- [Opening](/en/post/opening/)
+- Abbreviated [form](/en/post/form/) ([as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) initials)
+- Monogram ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) decorative initials)

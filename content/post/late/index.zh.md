@@ -11,20 +11,20 @@ keywords = ['ai words', 'late']
 /lеɪt/
 
 ## 释义
-- **形容词**: 迟的，晚的。例如: "I'm sorry, I'm late for the meeting."
-- **副词**: 迟，晚。例如: "She arrived late last night."
+- **形容词**: 迟的，晚的。例如: "I'm [sorry](/post/sorry/), I'm [late](/post/late/) [for](/post/for/) [the](/post/the/) [meeting](/post/meeting/)."
+- **副词**: 迟，晚。例如: "[She](/post/she/) arrived [late](/post/late/) [last](/post/last/) [night](/post/night/)."
 
 ## 短语
-- "Better late than never" 意思是晚做总比不做好。
-- "It's later than you think" 提醒别人时间比他们想象的要晚。
+- "[Better](/post/better/) [late](/post/late/) [than](/post/than/) [never](/post/never/)" 意思是晚做总比不做好。
+- "It's [later](/post/later/) [than](/post/than/) [you](/post/you/) [think](/post/think/)" 提醒别人时间比他们想象的要晚。
 
 ## 例句
-- 形容词: "The train was running late due to heavy traffic."
-- 副词: "He usually wakes up early, but today he got up late."
+- 形容词: "[The](/post/the/) [train](/post/train/) was running [late](/post/late/) [due](/post/due/) [to](/post/to/) [heavy](/post/heavy/) [traffic](/post/traffic/)."
+- 副词: "[He](/post/he/) [usually](/post/usually/) wakes [up](/post/up/) [early](/post/early/), [but](/post/but/) [today](/post/today/) [he](/post/he/) got [up](/post/up/) [late](/post/late/)."
 
 ## 同义词
 - tardy
 - delayed
-- behind schedule
+- [behind](/post/behind/) [schedule](/post/schedule/)
 - overdue
-- slow
+- [slow](/post/slow/)

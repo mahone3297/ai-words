@@ -11,20 +11,20 @@ keywords = ['ai words', 'quite']
 /kwʌɪt/
 
 ## 释义
-- **副词**: 相当，颇，非常。用来加强形容词或副词的程度。例如: "He's quite tall."，"It was quite cold yesterday."
-- **形容词**: 完全的，十足的。例如: "The house was quite empty."
+- **副词**: 相当，颇，非常。用来加强形容词或副词的程度。例如: "He's [quite](/post/quite/) [tall](/post/tall/)."，"[It](/post/it/) was [quite](/post/quite/) [cold](/post/cold/) [yesterday](/post/yesterday/)."
+- **形容词**: 完全的，十足的。例如: "[The](/post/the/) [house](/post/house/) was [quite](/post/quite/) [empty](/post/empty/)."
 
 ## 短语
-- "quite often" 意为经常，常常。
-- "quite right" 表示同意，意为没错，你说得对。
+- "[quite](/post/quite/) [often](/post/often/)" 意为经常，常常。
+- "[quite](/post/quite/) [right](/post/right/)" 表示同意，意为没错，你说得对。
 
 ## 例句
-- 副词: "She works quite hard to achieve her goals."
-- 形容词: "The baby fell asleep quite quickly."
+- 副词: "[She](/post/she/) works [quite](/post/quite/) [hard](/post/hard/) [to](/post/to/) [achieve](/post/achieve/) [her](/post/her/) goals."
+- 形容词: "[The](/post/the/) [baby](/post/baby/) fell [asleep](/post/asleep/) [quite](/post/quite/) [quickly](/post/quickly/)."
 
 ## 同义词
-- very
-- rather
-- fairly
-- pretty
-- extremely
+- [very](/post/very/)
+- [rather](/post/rather/)
+- [fairly](/post/fairly/)
+- [pretty](/post/pretty/)
+- [extremely](/post/extremely/)

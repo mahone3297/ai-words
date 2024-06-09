@@ -7,34 +7,34 @@ description = '[ˈdʒenjuin] a.真的；真正的'
 keywords = ['ai words', 'genuine']
 +++
 
-## Word: Genuine
+## [Word](/en/post/word/): [Genuine](/en/post/genuine/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈdʒɛnjuɪn/
 
 ## Definitions
-- **Adjective**: (adj) Authentically real; not counterfeit, fake, or imitation. It also describes something that is sincere, heartfelt, and honest.
+- **[Adjective](/en/post/adjective/)**: (adj) Authentically [real](/en/post/real/); [not](/en/post/not/) counterfeit, fake, [or](/en/post/or/) imitation. [It](/en/post/it/) [also](/en/post/also/) describes [something](/en/post/something/) [that](/en/post/that/) is [sincere](/en/post/sincere/), heartfelt, [and](/en/post/and/) [honest](/en/post/honest/).
 
-### Definition Examples
-- **Adjective**: The antique vase proved to be genuine after careful examination by experts.
-  - Sentence: "She appreciated his genuine concern for her well-being."
-- **Noun**: (less commonly used) A genuine person or thing; often used in the context of referring to someone who is authentic or sincere.
-  - Sentence: "He's one of the few genuine people you'll meet in this industry."
+### [Definition](/en/post/definition/) Examples
+- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) antique [vase](/en/post/vase/) proved [to](/en/post/to/) [be](/en/post/be/) [genuine](/en/post/genuine/) [after](/en/post/after/) [careful](/en/post/careful/) [examination](/en/post/examination/) [by](/en/post/by/) experts.
+  - [Sentence](/en/post/sentence/): "[She](/en/post/she/) appreciated [his](/en/post/his/) [genuine](/en/post/genuine/) [concern](/en/post/concern/) [for](/en/post/for/) [her](/en/post/her/) well-being."
+- **[Noun](/en/post/noun/)**: ([less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/)) [A](/en/post/a/) [genuine](/en/post/genuine/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/); [often](/en/post/often/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) referring [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is authentic [or](/en/post/or/) [sincere](/en/post/sincere/).
+  - [Sentence](/en/post/sentence/): "He's [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [few](/en/post/few/) [genuine](/en/post/genuine/) [people](/en/post/people/) you'll [meet](/en/post/meet/) [in](/en/post/in/) [this](/en/post/this/) [industry](/en/post/industry/)."
 
 ## Phrases
-- "Genuine article": Refers to the original and authentic item or person, not a copy or imitation.
-- "Genuine interest": Sincerely interested, without pretense or ulterior motive.
-- "In genuine terms": Honestly or sincerely expressed.
+- "[Genuine](/en/post/genuine/) [article](/en/post/article/)": Refers [to](/en/post/to/) [the](/en/post/the/) [original](/en/post/original/) [and](/en/post/and/) authentic [item](/en/post/item/) [or](/en/post/or/) [person](/en/post/person/), [not](/en/post/not/) [a](/en/post/a/) [copy](/en/post/copy/) [or](/en/post/or/) imitation.
+- "[Genuine](/en/post/genuine/) [interest](/en/post/interest/)": Sincerely interested, [without](/en/post/without/) pretense [or](/en/post/or/) ulterior [motive](/en/post/motive/).
+- "[In](/en/post/in/) [genuine](/en/post/genuine/) terms": Honestly [or](/en/post/or/) sincerely expressed.
 
-## Example Sentences
-- **Adjective**: The jeweler could easily spot the difference between the genuine diamond and the synthetic ones.
-- **Noun**: His genuineness made him stand out among all the other candidates.
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) jeweler [could](/en/post/could/) [easily](/en/post/easily/) [spot](/en/post/spot/) [the](/en/post/the/) [difference](/en/post/difference/) [between](/en/post/between/) [the](/en/post/the/) [genuine](/en/post/genuine/) [diamond](/en/post/diamond/) [and](/en/post/and/) [the](/en/post/the/) [synthetic](/en/post/synthetic/) ones.
+- **[Noun](/en/post/noun/)**: [His](/en/post/his/) genuineness made [him](/en/post/him/) [stand](/en/post/stand/) [out](/en/post/out/) [among](/en/post/among/) [all](/en/post/all/) [the](/en/post/the/) [other](/en/post/other/) candidates.
 
 ## Synonyms
 - Authentic
-- Real
-- Original
-- True
+- [Real](/en/post/real/)
+- [Original](/en/post/original/)
+- [True](/en/post/true/)
 - Unfeigned
 - Veritable
 - Legitimate

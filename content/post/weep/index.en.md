@@ -7,43 +7,43 @@ description = '[wiːp] vi.哭泣，流泪'
 keywords = ['ai words', 'weep']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /weɪp/
 
 ## Definitions
-- **Verb**: (v) To shed tears, especially from sorrow or emotion. (n) An act or instance of weeping; shedding tears. 
-- **Noun**: The act of crying tears, often in response to sadness, grief, or strong emotions. 
+- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [shed](/en/post/shed/) tears, [especially](/en/post/especially/) [from](/en/post/from/) [sorrow](/en/post/sorrow/) [or](/en/post/or/) [emotion](/en/post/emotion/). (n) An [act](/en/post/act/) [or](/en/post/or/) [instance](/en/post/instance/) [of](/en/post/of/) weeping; shedding tears. 
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) crying tears, [often](/en/post/often/) [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) [sadness](/en/post/sadness/), grief, [or](/en/post/or/) [strong](/en/post/strong/) emotions. 
 
 ## Phrases
-- "Wept tears of joy" expresses tears of happiness.
-- "She wept bitterly over the loss of her pet."
-- "He couldn't hold back his tears of frustration."
+- "Wept tears [of](/en/post/of/) [joy](/en/post/joy/)" expresses tears [of](/en/post/of/) [happiness](/en/post/happiness/).
+- "[She](/en/post/she/) wept [bitterly](/en/post/bitterly/) [over](/en/post/over/) [the](/en/post/the/) [loss](/en/post/loss/) [of](/en/post/of/) [her](/en/post/her/) [pet](/en/post/pet/)."
+- "[He](/en/post/he/) couldn't [hold](/en/post/hold/) [back](/en/post/back/) [his](/en/post/his/) tears [of](/en/post/of/) frustration."
 
-## Example Sentences
-- **Verb**: "After hearing the news, she wept uncontrollably."
-- **Noun**: "His mournful song was accompanied by the sound of her weeping."
-- **Adverb**: "He wept softly, trying not to disturb others."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) hearing [the](/en/post/the/) [news](/en/post/news/), [she](/en/post/she/) wept uncontrollably."
+- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) mournful [song](/en/post/song/) was accompanied [by](/en/post/by/) [the](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) [her](/en/post/her/) weeping."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) wept [softly](/en/post/softly/), trying [not](/en/post/not/) [to](/en/post/to/) [disturb](/en/post/disturb/) others."
 
 ## Synonyms
-- Sob
+- [Sob](/en/post/sob/)
 - Cried
 - Tears
 - Lament
 - Wail
 - Grieving
 - Quiver
-- Sigh
+- [Sigh](/en/post/sigh/)
 
 ## Antonyms
-- Laugh
-- Smile
-- Cheer
+- [Laugh](/en/post/laugh/)
+- [Smile](/en/post/smile/)
+- [Cheer](/en/post/cheer/)
 - Jubilate
-- Rejoice
+- [Rejoice](/en/post/rejoice/)
 
 ## Related Words
-- Tears (noun)
-- Crying (verb, general term)
-- Emotion (the cause of weeping)
-- Compassion (feeling that prompts one to comfort those who weep)
-- Bereavement (cause of grief and weeping)
+- Tears ([noun](/en/post/noun/))
+- Crying ([verb](/en/post/verb/), [general](/en/post/general/) [term](/en/post/term/))
+- [Emotion](/en/post/emotion/) ([the](/en/post/the/) [cause](/en/post/cause/) [of](/en/post/of/) weeping)
+- Compassion ([feeling](/en/post/feeling/) [that](/en/post/that/) prompts [one](/en/post/one/) [to](/en/post/to/) [comfort](/en/post/comfort/) [those](/en/post/those/) [who](/en/post/who/) [weep](/en/post/weep/))
+- Bereavement ([cause](/en/post/cause/) [of](/en/post/of/) grief [and](/en/post/and/) weeping)

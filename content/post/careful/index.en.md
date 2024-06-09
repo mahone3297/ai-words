@@ -7,32 +7,32 @@ description = '[ˈkeəful] a.仔细的；细致的'
 keywords = ['ai words', 'careful']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kəˈrɪfl/
 
 ## Definitions
-- **Adjective**: Displaying or showing great attention to detail; cautious and meticulous. For example: "She was very careful when handling the delicate vase."
-- **Adverb**: In a careful or cautious manner. For example: "He drove carefully on the icy road."
+- **[Adjective](/en/post/adjective/)**: Displaying [or](/en/post/or/) showing [great](/en/post/great/) [attention](/en/post/attention/) [to](/en/post/to/) [detail](/en/post/detail/); cautious [and](/en/post/and/) meticulous. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was [very](/en/post/very/) [careful](/en/post/careful/) [when](/en/post/when/) handling [the](/en/post/the/) [delicate](/en/post/delicate/) [vase](/en/post/vase/)."
+- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [careful](/en/post/careful/) [or](/en/post/or/) cautious [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) drove carefully [on](/en/post/on/) [the](/en/post/the/) icy [road](/en/post/road/)."
 
 ## Phrases
-- "Be careful with" implies caution or warning about handling something.
-- "Careful, now!" is a colloquial expression to advise caution.
-- "Take care" is a phrase used to express concern for someone's well-being.
+- "[Be](/en/post/be/) [careful](/en/post/careful/) [with](/en/post/with/)" implies caution [or](/en/post/or/) warning [about](/en/post/about/) handling [something](/en/post/something/).
+- "[Careful](/en/post/careful/), [now](/en/post/now/)!" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [to](/en/post/to/) [advise](/en/post/advise/) caution.
+- "[Take](/en/post/take/) [care](/en/post/care/)" is [a](/en/post/a/) [phrase](/en/post/phrase/) [used](/en/post/used/) [to](/en/post/to/) [express](/en/post/express/) [concern](/en/post/concern/) [for](/en/post/for/) someone's well-being.
 
-## Example Sentences
-- **Adjective**: "The artist was meticulous and careful with each brushstroke."
-- **Adverb**: "He crossed the street carefully to avoid accidents."
-- "Please be careful when using the hot stove."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [artist](/en/post/artist/) was meticulous [and](/en/post/and/) [careful](/en/post/careful/) [with](/en/post/with/) [each](/en/post/each/) brushstroke."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) crossed [the](/en/post/the/) [street](/en/post/street/) carefully [to](/en/post/to/) [avoid](/en/post/avoid/) accidents."
+- "[Please](/en/post/please/) [be](/en/post/be/) [careful](/en/post/careful/) [when](/en/post/when/) using [the](/en/post/the/) [hot](/en/post/hot/) [stove](/en/post/stove/)."
 
 ## Synonyms
-- Thoughtful
-- Attentive
+- [Thoughtful](/en/post/thoughtful/)
+- [Attentive](/en/post/attentive/)
 - Cautious
 - Mindful
 - Punctilious
 
 ## Antonyms
-- Careless
+- [Careless](/en/post/careless/)
 - Thoughtless
 - Disregardful
 - Carefree

@@ -7,41 +7,41 @@ description = '[ˌeksiˈbi∫ən] n.展览，陈列；展览会'
 keywords = ['ai words', 'exhibition']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˌek.sɪˈbɪʃ.n̩/
 
 ## Definitions
-### Noun (n)
-- A public display or showing of works of art, items of interest, or skills, typically held in a museum, gallery, or other venue for the purpose of education or entertainment: _"an exhibition of modern art"_.
-- A show or display of behavior or emotions, often for effect or to gain attention: _"a child's exhibition of temper"_.
-- A competitive event or contest where participants demonstrate their abilities, such as a sports tournament or dance competition: _"the annual chess exhibition"_.
-- The act of exhibiting or displaying something: _"the exhibition of new technology at the trade fair"_.
+### [Noun](/en/post/noun/) (n)
+- [A](/en/post/a/) [public](/en/post/public/) [display](/en/post/display/) [or](/en/post/or/) showing [of](/en/post/of/) works [of](/en/post/of/) [art](/en/post/art/), items [of](/en/post/of/) [interest](/en/post/interest/), [or](/en/post/or/) skills, typically held [in](/en/post/in/) [a](/en/post/a/) [museum](/en/post/museum/), [gallery](/en/post/gallery/), [or](/en/post/or/) [other](/en/post/other/) venue [for](/en/post/for/) [the](/en/post/the/) [purpose](/en/post/purpose/) [of](/en/post/of/) [education](/en/post/education/) [or](/en/post/or/) entertainment: _"an [exhibition](/en/post/exhibition/) [of](/en/post/of/) [modern](/en/post/modern/) [art](/en/post/art/)"_.
+- [A](/en/post/a/) [show](/en/post/show/) [or](/en/post/or/) [display](/en/post/display/) [of](/en/post/of/) [behavior](/en/post/behavior/) [or](/en/post/or/) emotions, [often](/en/post/often/) [for](/en/post/for/) [effect](/en/post/effect/) [or](/en/post/or/) [to](/en/post/to/) [gain](/en/post/gain/) [attention](/en/post/attention/): _"[a](/en/post/a/) child's [exhibition](/en/post/exhibition/) [of](/en/post/of/) [temper](/en/post/temper/)"_.
+- [A](/en/post/a/) competitive [event](/en/post/event/) [or](/en/post/or/) [contest](/en/post/contest/) [where](/en/post/where/) participants [demonstrate](/en/post/demonstrate/) [their](/en/post/their/) abilities, [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) sports tournament [or](/en/post/or/) [dance](/en/post/dance/) [competition](/en/post/competition/): _"[the](/en/post/the/) [annual](/en/post/annual/) [chess](/en/post/chess/) [exhibition](/en/post/exhibition/)"_.
+- [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) exhibiting [or](/en/post/or/) displaying [something](/en/post/something/): _"[the](/en/post/the/) [exhibition](/en/post/exhibition/) [of](/en/post/of/) [new](/en/post/new/) [technology](/en/post/technology/) [at](/en/post/at/) [the](/en/post/the/) [trade](/en/post/trade/) [fair](/en/post/fair/)"_.
 
-Example sentences:
-- **Noun**: _"The science museum hosted a fascinating exhibition on space exploration."_
-- _"Her confident exhibition of dance moves won her the first prize in the competition."_
+[Example](/en/post/example/) sentences:
+- **[Noun](/en/post/noun/)**: _"[The](/en/post/the/) [science](/en/post/science/) [museum](/en/post/museum/) hosted [a](/en/post/a/) fascinating [exhibition](/en/post/exhibition/) [on](/en/post/on/) [space](/en/post/space/) exploration."_
+- _"[Her](/en/post/her/) [confident](/en/post/confident/) [exhibition](/en/post/exhibition/) [of](/en/post/of/) [dance](/en/post/dance/) moves won [her](/en/post/her/) [the](/en/post/the/) [first](/en/post/first/) [prize](/en/post/prize/) [in](/en/post/in/) [the](/en/post/the/) [competition](/en/post/competition/)."_
 
 ## Phrases
-- _"Put on an exhibition"_ - to organize and host a public showing or display.
-- _"Participate in an exhibition"_ - to take part in a display or competition.
-- _"Exhibition match"_ - a non-competitive game or performance designed to showcase skills rather than determine a winner.
+- _"[Put](/en/post/put/) [on](/en/post/on/) an [exhibition](/en/post/exhibition/)"_ - [to](/en/post/to/) [organize](/en/post/organize/) [and](/en/post/and/) [host](/en/post/host/) [a](/en/post/a/) [public](/en/post/public/) showing [or](/en/post/or/) [display](/en/post/display/).
+- _"[Participate](/en/post/participate/) [in](/en/post/in/) an [exhibition](/en/post/exhibition/)"_ - [to](/en/post/to/) [take](/en/post/take/) [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [display](/en/post/display/) [or](/en/post/or/) [competition](/en/post/competition/).
+- _"[Exhibition](/en/post/exhibition/) [match](/en/post/match/)"_ - [a](/en/post/a/) non-competitive [game](/en/post/game/) [or](/en/post/or/) [performance](/en/post/performance/) designed [to](/en/post/to/) showcase skills [rather](/en/post/rather/) [than](/en/post/than/) [determine](/en/post/determine/) [a](/en/post/a/) [winner](/en/post/winner/).
 
 ## Synonyms
-- Show
-- Display
+- [Show](/en/post/show/)
+- [Display](/en/post/display/)
 - Exhibitionism
 - Showcase
-- Fair
+- [Fair](/en/post/fair/)
 - Expo
 - Presentation
 - Demonstration
-- Spectacle
-- Event
+- [Spectacle](/en/post/spectacle/)
+- [Event](/en/post/event/)
 - Showing
 
-## Derived forms and related words
-- _Exhibitor_ (noun): A person or organization that displays items in an exhibition.
-- _Exhibitory_ (adjective): Relating to or serving as an exhibition.
-- _Exhibit_ (noun/verb): Something exhibited; the act of exhibiting. 
+## Derived forms [and](/en/post/and/) related words
+- _Exhibitor_ ([noun](/en/post/noun/)): [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [organization](/en/post/organization/) [that](/en/post/that/) displays items [in](/en/post/in/) an [exhibition](/en/post/exhibition/).
+- _Exhibitory_ ([adjective](/en/post/adjective/)): Relating [to](/en/post/to/) [or](/en/post/or/) serving [as](/en/post/as/) an [exhibition](/en/post/exhibition/).
+- _Exhibit_ ([noun](/en/post/noun/)/[verb](/en/post/verb/)): [Something](/en/post/something/) exhibited; [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) exhibiting. 
 
-Note: 'Exhibition' does not have verb or adjective forms in the same sense as the example provided for 'hello'. However, it can be used attributively as a noun to modify another noun (e.g., "exhibition hall", "exhibition space").
+[Note](/en/post/note/): '[Exhibition](/en/post/exhibition/)' does [not](/en/post/not/) [have](/en/post/have/) [verb](/en/post/verb/) [or](/en/post/or/) [adjective](/en/post/adjective/) forms [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [sense](/en/post/sense/) [as](/en/post/as/) [the](/en/post/the/) [example](/en/post/example/) [provided](/en/post/provided/) [for](/en/post/for/) '[hello](/en/post/hello/)'. [However](/en/post/however/), [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) attributively [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) [to](/en/post/to/) [modify](/en/post/modify/) [another](/en/post/another/) [noun](/en/post/noun/) (e.g., "[exhibition](/en/post/exhibition/) [hall](/en/post/hall/)", "[exhibition](/en/post/exhibition/) [space](/en/post/space/)").

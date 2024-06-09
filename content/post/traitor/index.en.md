@@ -7,25 +7,25 @@ description = '[ˈtreitə] n.叛徒，卖国贼'
 keywords = ['ai words', 'traitor']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /trəɪˈtɔːr/
 
 ## Definitions
-### Noun
-A **traitor** is a person who betrays their own country, group, or cause by acting against it, often out of selfish motives or to gain advantage for an opposing side. It can also refer to someone who abandons their principles or loyalty.
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) **[traitor](/en/post/traitor/)** is [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) betrays [their](/en/post/their/) [own](/en/post/own/) [country](/en/post/country/), [group](/en/post/group/), [or](/en/post/or/) [cause](/en/post/cause/) [by](/en/post/by/) acting [against](/en/post/against/) [it](/en/post/it/), [often](/en/post/often/) [out](/en/post/out/) [of](/en/post/of/) [selfish](/en/post/selfish/) motives [or](/en/post/or/) [to](/en/post/to/) [gain](/en/post/gain/) [advantage](/en/post/advantage/) [for](/en/post/for/) an opposing [side](/en/post/side/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) abandons [their](/en/post/their/) principles [or](/en/post/or/) [loyalty](/en/post/loyalty/).
 
-### Verb
-To **traitor** someone is to betray them, usually by committing an act of treachery or disclosing confidential information.
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) **[traitor](/en/post/traitor/)** [someone](/en/post/someone/) is [to](/en/post/to/) [betray](/en/post/betray/) [them](/en/post/them/), [usually](/en/post/usually/) [by](/en/post/by/) committing an [act](/en/post/act/) [of](/en/post/of/) treachery [or](/en/post/or/) disclosing confidential [information](/en/post/information/).
 
 ## Phrases
-- "Sell out as a traitor"
-- "Betrayer of trust"
+- "[Sell](/en/post/sell/) [out](/en/post/out/) [as](/en/post/as/) [a](/en/post/a/) [traitor](/en/post/traitor/)"
+- "Betrayer [of](/en/post/of/) [trust](/en/post/trust/)"
 - "Turncoat"
 
-## Example Sentences
-- **Noun**: "The traitor's actions led to the downfall of the secret resistance."
-- **Verb**: "He was accused of being a traitor for passing on military secrets to the enemy."
-- **Phrasal**: "After years of loyalty, he became a traitor to the family business."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) traitor's actions led [to](/en/post/to/) [the](/en/post/the/) downfall [of](/en/post/of/) [the](/en/post/the/) [secret](/en/post/secret/) [resistance](/en/post/resistance/)."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was accused [of](/en/post/of/) [being](/en/post/being/) [a](/en/post/a/) [traitor](/en/post/traitor/) [for](/en/post/for/) passing [on](/en/post/on/) [military](/en/post/military/) secrets [to](/en/post/to/) [the](/en/post/the/) [enemy](/en/post/enemy/)."
+- **Phrasal**: "[After](/en/post/after/) years [of](/en/post/of/) [loyalty](/en/post/loyalty/), [he](/en/post/he/) became [a](/en/post/a/) [traitor](/en/post/traitor/) [to](/en/post/to/) [the](/en/post/the/) [family](/en/post/family/) [business](/en/post/business/)."
 
 ## Synonyms
 -叛徒
@@ -38,9 +38,9 @@ To **traitor** someone is to betray them, usually by committing an act of treach
 - Defector
 
 ## Antonyms
-- Loyalty
+- [Loyalty](/en/post/loyalty/)
 - Patriot
-- Faithful
+- [Faithful](/en/post/faithful/)
 - Devoted
-- Reliable
+- [Reliable](/en/post/reliable/)
 - Trustworthy

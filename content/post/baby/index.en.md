@@ -7,40 +7,40 @@ description = '[ˈbeibi] n.婴儿；孩子气的人'
 keywords = ['ai words', 'baby']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /bɪˈbaɪ/
 
 ## Definitions
-- **Noun**: 
-  - A very young child, typically one who has not yet started to walk or talk. Example: "The baby was sleeping peacefully in her crib."
-  - A person in the early stages of a relationship or project, often referring to a romantic involvement. Example: "They're just friends, not yet a baby couple."
-  - Slang term for a drug user, especially one who is addicted to a recreational drug. Example: "He's been a baby on meth for years."
+- **[Noun](/en/post/noun/)**: 
+  - [A](/en/post/a/) [very](/en/post/very/) [young](/en/post/young/) [child](/en/post/child/), typically [one](/en/post/one/) [who](/en/post/who/) has [not](/en/post/not/) [yet](/en/post/yet/) started [to](/en/post/to/) [walk](/en/post/walk/) [or](/en/post/or/) [talk](/en/post/talk/). [Example](/en/post/example/): "[The](/en/post/the/) [baby](/en/post/baby/) was sleeping peacefully [in](/en/post/in/) [her](/en/post/her/) crib."
+  - [A](/en/post/a/) [person](/en/post/person/) [in](/en/post/in/) [the](/en/post/the/) [early](/en/post/early/) stages [of](/en/post/of/) [a](/en/post/a/) [relationship](/en/post/relationship/) [or](/en/post/or/) [project](/en/post/project/), [often](/en/post/often/) referring [to](/en/post/to/) [a](/en/post/a/) [romantic](/en/post/romantic/) involvement. [Example](/en/post/example/): "They're [just](/en/post/just/) friends, [not](/en/post/not/) [yet](/en/post/yet/) [a](/en/post/a/) [baby](/en/post/baby/) [couple](/en/post/couple/)."
+  - Slang [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [drug](/en/post/drug/) [user](/en/post/user/), [especially](/en/post/especially/) [one](/en/post/one/) [who](/en/post/who/) is addicted [to](/en/post/to/) [a](/en/post/a/) recreational [drug](/en/post/drug/). [Example](/en/post/example/): "He's been [a](/en/post/a/) [baby](/en/post/baby/) [on](/en/post/on/) meth [for](/en/post/for/) years."
 
-- **Verb**: (informal) To act like a baby, typically in a spoilt or overly emotional manner. Example: "Don't baby him, he needs to learn to solve his problems independently."
-  - To refer to a newborn or infant with affection or endearment. Example: "Dad was holding the baby close and cooing to her."
+- **[Verb](/en/post/verb/)**: (informal) [To](/en/post/to/) [act](/en/post/act/) [like](/en/post/like/) [a](/en/post/a/) [baby](/en/post/baby/), typically [in](/en/post/in/) [a](/en/post/a/) spoilt [or](/en/post/or/) overly [emotional](/en/post/emotional/) [manner](/en/post/manner/). [Example](/en/post/example/): "Don't [baby](/en/post/baby/) [him](/en/post/him/), [he](/en/post/he/) needs [to](/en/post/to/) [learn](/en/post/learn/) [to](/en/post/to/) [solve](/en/post/solve/) [his](/en/post/his/) problems independently."
+  - [To](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) newborn [or](/en/post/or/) [infant](/en/post/infant/) [with](/en/post/with/) [affection](/en/post/affection/) [or](/en/post/or/) endearment. [Example](/en/post/example/): "Dad was holding [the](/en/post/the/) [baby](/en/post/baby/) [close](/en/post/close/) [and](/en/post/and/) cooing [to](/en/post/to/) [her](/en/post/her/)."
 
 ## Phrases
-- "Cute baby" is a compliment for a young child.
-- "Baby talk" refers to the exaggerated language and sounds used when speaking to infants.
-- "Look after the baby" means to take care of a small child.
+- "Cute [baby](/en/post/baby/)" is [a](/en/post/a/) compliment [for](/en/post/for/) [a](/en/post/a/) [young](/en/post/young/) [child](/en/post/child/).
+- "[Baby](/en/post/baby/) [talk](/en/post/talk/)" refers [to](/en/post/to/) [the](/en/post/the/) exaggerated [language](/en/post/language/) [and](/en/post/and/) sounds [used](/en/post/used/) [when](/en/post/when/) speaking [to](/en/post/to/) infants.
+- "[Look](/en/post/look/) [after](/en/post/after/) [the](/en/post/the/) [baby](/en/post/baby/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) [care](/en/post/care/) [of](/en/post/of/) [a](/en/post/a/) [small](/en/post/small/) [child](/en/post/child/).
 
-## Example Sentences
-- **Noun**: "The baby's first steps were a moment of pure joy for the parents."
-- **Verb**: "She was so excited to hold her new baby niece."
-- **Inflected forms**: "I'm just a baby in this big city" (idiomatic, meaning inexperienced).
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) baby's [first](/en/post/first/) steps were [a](/en/post/a/) [moment](/en/post/moment/) [of](/en/post/of/) [pure](/en/post/pure/) [joy](/en/post/joy/) [for](/en/post/for/) [the](/en/post/the/) parents."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) was [so](/en/post/so/) excited [to](/en/post/to/) [hold](/en/post/hold/) [her](/en/post/her/) [new](/en/post/new/) [baby](/en/post/baby/) [niece](/en/post/niece/)."
+- **Inflected forms**: "I'm [just](/en/post/just/) [a](/en/post/a/) [baby](/en/post/baby/) [in](/en/post/in/) [this](/en/post/this/) [big](/en/post/big/) [city](/en/post/city/)" (idiomatic, [meaning](/en/post/meaning/) inexperienced).
 
 ## Synonyms
-- Infant
+- [Infant](/en/post/infant/)
 - Toddler
 - Wombling (informal, British)
 - Tots
-- Kid
+- [Kid](/en/post/kid/)
 - Newborn
-- Child
+- [Child](/en/post/child/)
 
 ## Antonyms
-- Adult
-- Teenager
-- Older child
-- Mature
-- Senior
+- [Adult](/en/post/adult/)
+- [Teenager](/en/post/teenager/)
+- Older [child](/en/post/child/)
+- [Mature](/en/post/mature/)
+- [Senior](/en/post/senior/)

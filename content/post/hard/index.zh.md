@@ -11,21 +11,21 @@ keywords = ['ai words', 'hard']
 /hɑːrd/
 
 ## 释义
-- **形容词**: 硬的，坚固的，困难的。例如: "This rock is very hard."，"The assignment was too hard for most students."
-- **副词**: 努力地，费劲地。例如: "He works hard to achieve his goals."
+- **形容词**: 硬的，坚固的，困难的。例如: "[This](/post/this/) [rock](/post/rock/) is [very](/post/very/) [hard](/post/hard/)."，"[The](/post/the/) [assignment](/post/assignment/) was [too](/post/too/) [hard](/post/hard/) [for](/post/for/) [most](/post/most/) students."
+- **副词**: 努力地，费劲地。例如: "[He](/post/he/) works [hard](/post/hard/) [to](/post/to/) [achieve](/post/achieve/) [his](/post/his/) goals."
 
 ## 短语
-- "Hard work" 意味着辛勤的努力。
-- "As hard as nails" 形容人非常坚强或无情。
-- "Hard times" 指艰难时期。
+- "[Hard](/post/hard/) [work](/post/work/)" 意味着辛勤的努力。
+- "[As](/post/as/) [hard](/post/hard/) [as](/post/as/) nails" 形容人非常坚强或无情。
+- "[Hard](/post/hard/) times" 指艰难时期。
 
 ## 例句
-- 形容词: "The wood was so hard that it was difficult to drill through."
-- 副词: "She studied as hard as she could to pass the exam."
+- 形容词: "[The](/post/the/) [wood](/post/wood/) was [so](/post/so/) [hard](/post/hard/) [that](/post/that/) [it](/post/it/) was [difficult](/post/difficult/) [to](/post/to/) [drill](/post/drill/) [through](/post/through/)."
+- 副词: "[She](/post/she/) studied [as](/post/as/) [hard](/post/hard/) [as](/post/as/) [she](/post/she/) [could](/post/could/) [to](/post/to/) [pass](/post/pass/) [the](/post/the/) [exam](/post/exam/)."
 
 ## 同义词
-- Difficult
-- Tough
+- [Difficult](/post/difficult/)
+- [Tough](/post/tough/)
 - Challenging
-- Rigid
-- Severe
+- [Rigid](/post/rigid/)
+- [Severe](/post/severe/)

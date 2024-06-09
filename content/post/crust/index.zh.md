@@ -17,16 +17,16 @@ keywords = ['ai words', 'crust']
    - 财富，积蓄：指积累的财富或财产。
 
 ## 短语
-- "the crust of bread" 面包皮
-- "the earth's crust" 地壳
+- "[the](/post/the/) [crust](/post/crust/) [of](/post/of/) [bread](/post/bread/)" 面包皮
+- "[the](/post/the/) earth's [crust](/post/crust/)" 地壳
 
 ## 例句
-- 名词: "She loved to eat the crust of the freshly baked bread."
-- 名词: "The earthquake was caused by movements in the earth's crust."
+- 名词: "[She](/post/she/) loved [to](/post/to/) [eat](/post/eat/) [the](/post/the/) [crust](/post/crust/) [of](/post/of/) [the](/post/the/) freshly baked [bread](/post/bread/)."
+- 名词: "[The](/post/the/) [earthquake](/post/earthquake/) was caused [by](/post/by/) movements [in](/post/in/) [the](/post/the/) earth's [crust](/post/crust/)."
 
 ## 同义词
-- exterior
-- surface
-- hard outer layer
+- [exterior](/post/exterior/)
+- [surface](/post/surface/)
+- [hard](/post/hard/) [outer](/post/outer/) [layer](/post/layer/)
 - coating
 - accumulation (尤其指财富的积累)

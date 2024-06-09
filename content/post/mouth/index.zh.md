@@ -12,24 +12,24 @@ keywords = ['ai words', 'mouth']
 
 ## 释义
 - **名词**:
-  - 口，嘴；口腔。例如: "She has a beautiful smile that lights up her whole face, especially around her mouth."
-  - （动物的）口，喙。例如: "The parrot perched on the branch, its colorful beak opening and closing in a mimicry of speech."
+  - 口，嘴；口腔。例如: "[She](/post/she/) has [a](/post/a/) [beautiful](/post/beautiful/) [smile](/post/smile/) [that](/post/that/) lights [up](/post/up/) [her](/post/her/) [whole](/post/whole/) [face](/post/face/), [especially](/post/especially/) [around](/post/around/) [her](/post/her/) [mouth](/post/mouth/)."
+  - （动物的）口，喙。例如: "[The](/post/the/) parrot perched [on](/post/on/) [the](/post/the/) [branch](/post/branch/), [its](/post/its/) colorful beak [opening](/post/opening/) [and](/post/and/) closing [in](/post/in/) [a](/post/a/) mimicry [of](/post/of/) [speech](/post/speech/)."
 
 - **动词**:
-  - 说话，言语。例如: "The baby couldn't speak yet, but he could mouth the words along with the song."
+  - 说话，言语。例如: "[The](/post/the/) [baby](/post/baby/) couldn't [speak](/post/speak/) [yet](/post/yet/), [but](/post/but/) [he](/post/he/) [could](/post/could/) [mouth](/post/mouth/) [the](/post/the/) words [along](/post/along/) [with](/post/with/) [the](/post/the/) [song](/post/song/)."
 
 ## 短语
-- "Hold your horses, it's not safe to talk with food in your mouth."
-- "Put a sock in it" 意味着让某人停止说话。
-- "Mouth off" 意味着无礼地或轻率地说出冒犯人的话。
+- "[Hold](/post/hold/) [your](/post/your/) horses, it's [not](/post/not/) [safe](/post/safe/) [to](/post/to/) [talk](/post/talk/) [with](/post/with/) [food](/post/food/) [in](/post/in/) [your](/post/your/) [mouth](/post/mouth/)."
+- "[Put](/post/put/) [a](/post/a/) [sock](/post/sock/) [in](/post/in/) [it](/post/it/)" 意味着让某人停止说话。
+- "[Mouth](/post/mouth/) [off](/post/off/)" 意味着无礼地或轻率地说出冒犯人的话。
 
 ## 例句
-- 名词: "She closed her mouth in surprise when she saw the surprise party."
-- 动词: "The child was mouthing the lyrics to the song without actually singing."
+- 名词: "[She](/post/she/) closed [her](/post/her/) [mouth](/post/mouth/) [in](/post/in/) [surprise](/post/surprise/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [the](/post/the/) [surprise](/post/surprise/) [party](/post/party/)."
+- 动词: "[The](/post/the/) [child](/post/child/) was mouthing [the](/post/the/) lyrics [to](/post/to/) [the](/post/the/) [song](/post/song/) [without](/post/without/) [actually](/post/actually/) singing."
 
 ## 同义词
 - Jaws
 - Lips
-- Oral cavity
-- Beak (for animals)
-- Speak (as a verb)
+- [Oral](/post/oral/) cavity
+- Beak ([for](/post/for/) animals)
+- [Speak](/post/speak/) ([as](/post/as/) [a](/post/a/) [verb](/post/verb/))

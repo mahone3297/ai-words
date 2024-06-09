@@ -11,21 +11,21 @@ keywords = ['ai words', 'interpret']
 /ɪnˈtɜːprɪt/
 
 ## 释义
-- **动词**: 解释，翻译，将（语言、行为、艺术作品等）的意义传达给他人。例如: "She interpreted his silence as disapproval."
-- **名词**: 解释，演绎，对某事物的理解或表达。例如: "The actor's interpretation of the character was brilliant."
+- **动词**: 解释，翻译，将（语言、行为、艺术作品等）的意义传达给他人。例如: "[She](/post/she/) interpreted [his](/post/his/) [silence](/post/silence/) [as](/post/as/) disapproval."
+- **名词**: 解释，演绎，对某事物的理解或表达。例如: "[The](/post/the/) actor's [interpretation](/post/interpretation/) [of](/post/of/) [the](/post/the/) [character](/post/character/) was [brilliant](/post/brilliant/)."
 
 ## 短语
-- "Interpret a dream" 意为解释梦的含义。
-- "Interpretive dance" 是一种表达情感或故事的舞蹈形式。
-- "Legal interpretation" 指法律的解释或阐释。
+- "[Interpret](/post/interpret/) [a](/post/a/) [dream](/post/dream/)" 意为解释梦的含义。
+- "Interpretive [dance](/post/dance/)" 是一种表达情感或故事的舞蹈形式。
+- "[Legal](/post/legal/) [interpretation](/post/interpretation/)" 指法律的解释或阐释。
 
 ## 例句
-- 动词: "The interpreter translated the speech from French to English."
-- 名词: "There are many possible interpretations of this poem."
+- 动词: "[The](/post/the/) [interpreter](/post/interpreter/) translated [the](/post/the/) [speech](/post/speech/) [from](/post/from/) French [to](/post/to/) English."
+- 名词: "[There](/post/there/) are [many](/post/many/) [possible](/post/possible/) interpretations [of](/post/of/) [this](/post/this/) [poem](/post/poem/)."
 
 ## 同义词
-- Explain
-- Translate
-- Render
+- [Explain](/post/explain/)
+- [Translate](/post/translate/)
+- [Render](/post/render/)
 - Decode
 - Analyze

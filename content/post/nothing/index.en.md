@@ -7,30 +7,30 @@ description = '[ˈnʌθiŋ] n.没有东西 ad.毫不'
 keywords = ['ai words', 'nothing']
 +++
 
-## Word: Nothing
+## [Word](/en/post/word/): [Nothing](/en/post/nothing/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈnʌθɪŋ/
 
 ## Definitions
-- **Noun**: The absence of anything; no thing; nonexistence. It can also refer to something that has no value or importance. For example: "There's nothing in the fridge." "To her, money means nothing."
-- **Adjective**: Indicating the complete lack or absence of something. For example: "I have nothing to wear." "They found nothing suspicious in his behavior."
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/) [anything](/en/post/anything/); [no](/en/post/no/) [thing](/en/post/thing/); nonexistence. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [refer](/en/post/refer/) [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) has [no](/en/post/no/) [value](/en/post/value/) [or](/en/post/or/) [importance](/en/post/importance/). [For](/en/post/for/) [example](/en/post/example/): "There's [nothing](/en/post/nothing/) [in](/en/post/in/) [the](/en/post/the/) [fridge](/en/post/fridge/)." "[To](/en/post/to/) [her](/en/post/her/), [money](/en/post/money/) [means](/en/post/means/) [nothing](/en/post/nothing/)."
+- **[Adjective](/en/post/adjective/)**: Indicating [the](/en/post/the/) [complete](/en/post/complete/) [lack](/en/post/lack/) [or](/en/post/or/) [absence](/en/post/absence/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "I [have](/en/post/have/) [nothing](/en/post/nothing/) [to](/en/post/to/) [wear](/en/post/wear/)." "[They](/en/post/they/) [found](/en/post/found/) [nothing](/en/post/nothing/) suspicious [in](/en/post/in/) [his](/en/post/his/) [behavior](/en/post/behavior/)."
 
 ### Phrases
-- "Nothing ventured, nothing gained": This proverb suggests that without taking risks, one cannot achieve success or gain anything.
-- "Absolutely nothing": Emphasizes the complete absence or lack of something. For instance: "She knew absolutely nothing about the surprise party."
-- "There's nothing to it": Expresses that something is very easy or simple to do. Example: "Learning to ride a bike? There's nothing to it really."
+- "[Nothing](/en/post/nothing/) ventured, [nothing](/en/post/nothing/) gained": [This](/en/post/this/) proverb suggests [that](/en/post/that/) [without](/en/post/without/) taking risks, [one](/en/post/one/) cannot [achieve](/en/post/achieve/) [success](/en/post/success/) [or](/en/post/or/) [gain](/en/post/gain/) [anything](/en/post/anything/).
+- "[Absolutely](/en/post/absolutely/) [nothing](/en/post/nothing/)": Emphasizes [the](/en/post/the/) [complete](/en/post/complete/) [absence](/en/post/absence/) [or](/en/post/or/) [lack](/en/post/lack/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [instance](/en/post/instance/): "[She](/en/post/she/) knew [absolutely](/en/post/absolutely/) [nothing](/en/post/nothing/) [about](/en/post/about/) [the](/en/post/the/) [surprise](/en/post/surprise/) [party](/en/post/party/)."
+- "There's [nothing](/en/post/nothing/) [to](/en/post/to/) [it](/en/post/it/)": Expresses [that](/en/post/that/) [something](/en/post/something/) is [very](/en/post/very/) [easy](/en/post/easy/) [or](/en/post/or/) [simple](/en/post/simple/) [to](/en/post/to/) [do](/en/post/do/). [Example](/en/post/example/): "[Learning](/en/post/learning/) [to](/en/post/to/) [ride](/en/post/ride/) [a](/en/post/a/) [bike](/en/post/bike/)? There's [nothing](/en/post/nothing/) [to](/en/post/to/) [it](/en/post/it/) [really](/en/post/really/)."
   
-## Example Sentences
-- **Noun**: "After searching the entire house, they found nothing."
-- **Adjective**: "She felt like she had nothing left to give after the exhausting day."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) searching [the](/en/post/the/) [entire](/en/post/entire/) [house](/en/post/house/), [they](/en/post/they/) [found](/en/post/found/) [nothing](/en/post/nothing/)."
+- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) felt [like](/en/post/like/) [she](/en/post/she/) had [nothing](/en/post/nothing/) [left](/en/post/left/) [to](/en/post/to/) [give](/en/post/give/) [after](/en/post/after/) [the](/en/post/the/) exhausting [day](/en/post/day/)."
 
 ## Synonyms
 - Nil
-- Zero
+- [Zero](/en/post/zero/)
 - Nada
 - Zilch
 - Void
 - Nonentity
-- No thing
-- None (in some contexts)
+- [No](/en/post/no/) [thing](/en/post/thing/)
+- [None](/en/post/none/) ([in](/en/post/in/) [some](/en/post/some/) contexts)

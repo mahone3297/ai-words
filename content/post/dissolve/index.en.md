@@ -7,35 +7,35 @@ description = '[diˈzɔlv] vt.使溶解；解散'
 keywords = ['ai words', 'dissolve']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /dɪˈzɒlvd/
 
 ## Definitions
-### Noun
-A noun related to the verb "dissolve" can be a chemical process or an act of making something (such as a mixture) separate into its constituent parts or lose its form.
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) [noun](/en/post/noun/) related [to](/en/post/to/) [the](/en/post/the/) [verb](/en/post/verb/) "[dissolve](/en/post/dissolve/)" [can](/en/post/can/) [be](/en/post/be/) [a](/en/post/a/) [chemical](/en/post/chemical/) [process](/en/post/process/) [or](/en/post/or/) an [act](/en/post/act/) [of](/en/post/of/) making [something](/en/post/something/) ([such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) [mixture](/en/post/mixture/)) [separate](/en/post/separate/) [into](/en/post/into/) [its](/en/post/its/) constituent parts [or](/en/post/or/) [lose](/en/post/lose/) [its](/en/post/its/) [form](/en/post/form/).
 
-### Verb
-1. **To dissolve** (transitive): To break down or separate into smaller particles, usually by the action of a solvent, e.g., sugar dissolves in water.
-2. **To dissolve a relationship or agreement**: To end or cancel a formal connection, e.g., "The partnership was dissolved due to disagreements."
-3. **To lose focus or attention**: To become distracted or fade away, e.g., "His words slowly dissolved into a whisper."
+### [Verb](/en/post/verb/)
+1. **[To](/en/post/to/) [dissolve](/en/post/dissolve/)** (transitive): [To](/en/post/to/) [break](/en/post/break/) [down](/en/post/down/) [or](/en/post/or/) [separate](/en/post/separate/) [into](/en/post/into/) smaller particles, [usually](/en/post/usually/) [by](/en/post/by/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) [a](/en/post/a/) solvent, e.g., [sugar](/en/post/sugar/) dissolves [in](/en/post/in/) [water](/en/post/water/).
+2. **[To](/en/post/to/) [dissolve](/en/post/dissolve/) [a](/en/post/a/) [relationship](/en/post/relationship/) [or](/en/post/or/) [agreement](/en/post/agreement/)**: [To](/en/post/to/) [end](/en/post/end/) [or](/en/post/or/) [cancel](/en/post/cancel/) [a](/en/post/a/) [formal](/en/post/formal/) [connection](/en/post/connection/), e.g., "[The](/en/post/the/) partnership was dissolved [due](/en/post/due/) [to](/en/post/to/) disagreements."
+3. **[To](/en/post/to/) [lose](/en/post/lose/) [focus](/en/post/focus/) [or](/en/post/or/) [attention](/en/post/attention/)**: [To](/en/post/to/) [become](/en/post/become/) distracted [or](/en/post/or/) [fade](/en/post/fade/) [away](/en/post/away/), e.g., "[His](/en/post/his/) words [slowly](/en/post/slowly/) dissolved [into](/en/post/into/) [a](/en/post/a/) [whisper](/en/post/whisper/)."
 
-### Adjective
-Referring to something that has been dissolved, e.g., "a dissolved corporation."
+### [Adjective](/en/post/adjective/)
+Referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) has been dissolved, e.g., "[a](/en/post/a/) dissolved [corporation](/en/post/corporation/)."
 
 ## Phrases
-- "Dissolve a conflict" means to resolve a disagreement or issue.
-- "Dissolved sugar" describes sugar that has been mixed with a liquid until it no longer appears solid.
-- "Dissolved government" refers to a government that has lost its authority or function.
+- "[Dissolve](/en/post/dissolve/) [a](/en/post/a/) [conflict](/en/post/conflict/)" [means](/en/post/means/) [to](/en/post/to/) [resolve](/en/post/resolve/) [a](/en/post/a/) disagreement [or](/en/post/or/) [issue](/en/post/issue/).
+- "Dissolved [sugar](/en/post/sugar/)" describes [sugar](/en/post/sugar/) [that](/en/post/that/) has been mixed [with](/en/post/with/) [a](/en/post/a/) [liquid](/en/post/liquid/) [until](/en/post/until/) [it](/en/post/it/) [no](/en/post/no/) longer appears [solid](/en/post/solid/).
+- "Dissolved [government](/en/post/government/)" refers [to](/en/post/to/) [a](/en/post/a/) [government](/en/post/government/) [that](/en/post/that/) has lost [its](/en/post/its/) [authority](/en/post/authority/) [or](/en/post/or/) [function](/en/post/function/).
 
-## Example Sentences
-- **Noun**: "The salt dissolved completely in the warm water."
-- **Verb**: "The shareholders agreed to dissolve the company."
-- **Adjective**: "The dissolved fertilizer is essential for plant growth."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [salt](/en/post/salt/) dissolved [completely](/en/post/completely/) [in](/en/post/in/) [the](/en/post/the/) [warm](/en/post/warm/) [water](/en/post/water/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) shareholders agreed [to](/en/post/to/) [dissolve](/en/post/dissolve/) [the](/en/post/the/) [company](/en/post/company/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) dissolved [fertilizer](/en/post/fertilizer/) is [essential](/en/post/essential/) [for](/en/post/for/) [plant](/en/post/plant/) [growth](/en/post/growth/)."
 
 ## Synonyms
 - Disintegrate
-- Melt
+- [Melt](/en/post/melt/)
 -化解
 - Dissociate
-- Liquefy (when referring to a solid turning into a liquid)
-- Wane (when referring to a decrease in intensity or focus)
+- Liquefy ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [solid](/en/post/solid/) [turning](/en/post/turning/) [into](/en/post/into/) [a](/en/post/a/) [liquid](/en/post/liquid/))
+- Wane ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [decrease](/en/post/decrease/) [in](/en/post/in/) [intensity](/en/post/intensity/) [or](/en/post/or/) [focus](/en/post/focus/))

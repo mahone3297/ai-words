@@ -7,31 +7,31 @@ description = '[djuː] n.露，露水'
 keywords = ['ai words', 'dew']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /djuː/
 
 ## Definitions
-- **Noun**: A thin layer of water that forms on the surface of plants, grass, or other objects during cool, humid nights, usually evaporating when the sun rises. ["The morning dew glistened on the leaves."](https://www.example.com/dew-definition)
-- **Adjective**: Characteristic of or resembling dew; cool and moist. ["A dewy morning greeted the hikers."](https://www.example.com/dew-adjective)
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [thin](/en/post/thin/) [layer](/en/post/layer/) [of](/en/post/of/) [water](/en/post/water/) [that](/en/post/that/) forms [on](/en/post/on/) [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) plants, [grass](/en/post/grass/), [or](/en/post/or/) [other](/en/post/other/) objects [during](/en/post/during/) [cool](/en/post/cool/), [humid](/en/post/humid/) nights, [usually](/en/post/usually/) evaporating [when](/en/post/when/) [the](/en/post/the/) [sun](/en/post/sun/) rises. ["[The](/en/post/the/) [morning](/en/post/morning/) [dew](/en/post/dew/) glistened [on](/en/post/on/) [the](/en/post/the/) leaves."](https://www.[example](/en/post/example/).com/dew-definition)
+- **[Adjective](/en/post/adjective/)**: [Characteristic](/en/post/characteristic/) [of](/en/post/of/) [or](/en/post/or/) resembling [dew](/en/post/dew/); [cool](/en/post/cool/) [and](/en/post/and/) [moist](/en/post/moist/). ["[A](/en/post/a/) dewy [morning](/en/post/morning/) greeted [the](/en/post/the/) hikers."](https://www.[example](/en/post/example/).com/dew-adjective)
 
 ## Phrases
-- "Dew-covered grass" describes grass with a thin layer of water from dew.
-- "Dew point" refers to the temperature at which air becomes saturated with water vapor and dew starts to form.
-- "Dew-resistant material" is a substance that does not easily absorb or retain dew.
+- "Dew-covered [grass](/en/post/grass/)" describes [grass](/en/post/grass/) [with](/en/post/with/) [a](/en/post/a/) [thin](/en/post/thin/) [layer](/en/post/layer/) [of](/en/post/of/) [water](/en/post/water/) [from](/en/post/from/) [dew](/en/post/dew/).
+- "[Dew](/en/post/dew/) [point](/en/post/point/)" refers [to](/en/post/to/) [the](/en/post/the/) [temperature](/en/post/temperature/) [at](/en/post/at/) [which](/en/post/which/) [air](/en/post/air/) becomes saturated [with](/en/post/with/) [water](/en/post/water/) vapor [and](/en/post/and/) [dew](/en/post/dew/) starts [to](/en/post/to/) [form](/en/post/form/).
+- "Dew-resistant [material](/en/post/material/)" is [a](/en/post/a/) [substance](/en/post/substance/) [that](/en/post/that/) does [not](/en/post/not/) [easily](/en/post/easily/) [absorb](/en/post/absorb/) [or](/en/post/or/) [retain](/en/post/retain/) [dew](/en/post/dew/).
 
-## Example Sentences
-- **Noun**: "The dew had formed on the windowsill overnight, creating a refreshing scene."
-- **Adjective**: "The dewy night air invigorated her lungs as she stepped outside."
-- "The children woke up to the sound of dewdrops falling from the trees."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [dew](/en/post/dew/) had formed [on](/en/post/on/) [the](/en/post/the/) windowsill [overnight](/en/post/overnight/), creating [a](/en/post/a/) refreshing [scene](/en/post/scene/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) dewy [night](/en/post/night/) [air](/en/post/air/) invigorated [her](/en/post/her/) lungs [as](/en/post/as/) [she](/en/post/she/) stepped [outside](/en/post/outside/)."
+- "[The](/en/post/the/) children woke [up](/en/post/up/) [to](/en/post/to/) [the](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) dewdrops falling [from](/en/post/from/) [the](/en/post/the/) trees."
 
 ## Synonyms
 - Condensation
-- Morning dew
+- [Morning](/en/post/morning/) [dew](/en/post/dew/)
 - Dewfall
-- Mist
-- Cool moisture
+- [Mist](/en/post/mist/)
+- [Cool](/en/post/cool/) [moisture](/en/post/moisture/)
 
 ## Related Words
 - Dewdrop
 - Dewpoint
-- Frost (similar but refers to ice crystals forming on surfaces after freezing temperatures)
+- [Frost](/en/post/frost/) ([similar](/en/post/similar/) [but](/en/post/but/) refers [to](/en/post/to/) [ice](/en/post/ice/) crystals forming [on](/en/post/on/) surfaces [after](/en/post/after/) freezing temperatures)

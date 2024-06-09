@@ -11,20 +11,20 @@ keywords = ['ai words', 'odour']
 /ˈəʊdər/
 
 ## 释义
-- **名词**: 气味，香味，臭味。例如: "The room had a pleasant odour of lavender."
-- **形容词**: 有气味的，散发气味的。例如: "The odourless cleaner was perfect for use in the kitchen."
+- **名词**: 气味，香味，臭味。例如: "[The](/post/the/) [room](/post/room/) had [a](/post/a/) [pleasant](/post/pleasant/) [odour](/post/odour/) [of](/post/of/) lavender."
+- **形容词**: 有气味的，散发气味的。例如: "[The](/post/the/) odourless cleaner was [perfect](/post/perfect/) [for](/post/for/) [use](/post/use/) [in](/post/in/) [the](/post/the/) [kitchen](/post/kitchen/)."
 
 ## 短语
-- "an unpleasant odour" 不愉快的气味
-- "a familiar odour" 熟悉的气味
+- "an [unpleasant](/post/unpleasant/) [odour](/post/odour/)" 不愉快的气味
+- "[a](/post/a/) [familiar](/post/familiar/) [odour](/post/odour/)" 熟悉的气味
 
 ## 例句
-- 名词: "The kitchen had a strong odour of cooking onions."
-- 形容词: "The detergent is odourless, so it won't leave any residue scent."
+- 名词: "[The](/post/the/) [kitchen](/post/kitchen/) had [a](/post/a/) [strong](/post/strong/) [odour](/post/odour/) [of](/post/of/) cooking onions."
+- 形容词: "[The](/post/the/) detergent is odourless, [so](/post/so/) [it](/post/it/) won't [leave](/post/leave/) [any](/post/any/) residue [scent](/post/scent/)."
 
 ## 同义词
 - fragrance
-- scent
+- [scent](/post/scent/)
 - aroma
-- smell
+- [smell](/post/smell/)
 - stench

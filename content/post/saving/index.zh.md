@@ -11,20 +11,20 @@ keywords = ['ai words', 'saving']
 /ˈsævɪŋ/
 
 ## 释义
-- **名词**: 节省的钱或资源；存款。例如: "He put a part of his salary into savings each month."
-- **动词**: 节省；挽救。例如: "Turning off the lights when you leave the room can save electricity."
+- **名词**: 节省的钱或资源；存款。例如: "[He](/post/he/) [put](/post/put/) [a](/post/a/) [part](/post/part/) [of](/post/of/) [his](/post/his/) [salary](/post/salary/) [into](/post/into/) savings [each](/post/each/) [month](/post/month/)."
+- **动词**: 节省；挽救。例如: "[Turning](/post/turning/) [off](/post/off/) [the](/post/the/) lights [when](/post/when/) [you](/post/you/) [leave](/post/leave/) [the](/post/the/) [room](/post/room/) [can](/post/can/) [save](/post/save/) [electricity](/post/electricity/)."
 
 ## 短语
-- "Savings account" 指储蓄账户。
-- "Make savings" 意为节省开支或金钱。
+- "Savings [account](/post/account/)" 指储蓄账户。
+- "[Make](/post/make/) savings" 意为节省开支或金钱。
 
 ## 例句
-- 名词: "She has a substantial amount of savings for her future."
-- 动词: "His quick action saved the drowning child."
+- 名词: "[She](/post/she/) has [a](/post/a/) [substantial](/post/substantial/) [amount](/post/amount/) [of](/post/of/) savings [for](/post/for/) [her](/post/her/) [future](/post/future/)."
+- 动词: "[His](/post/his/) [quick](/post/quick/) [action](/post/action/) saved [the](/post/the/) drowning [child](/post/child/)."
 
 ## 同义词
-- Economy
+- [Economy](/post/economy/)
 - Frugality
 - Preservation
-- Rescue
-- Conservation
+- [Rescue](/post/rescue/)
+- [Conservation](/post/conservation/)

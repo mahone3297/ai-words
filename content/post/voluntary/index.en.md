@@ -7,30 +7,30 @@ description = '[ˈvɔləntəri; (US) -teri] a.自/志愿的'
 keywords = ['ai words', 'voluntary']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /vəˈlʌntəri/
 
 ## Definitions
-- **Adjective**: Done by choice, willingly, or without compulsion. For example: "He took on the project voluntarily."
-- **Noun**: A person who offers their services or participation without being forced. For example: "Many volunteers helped at the charity event."
-- **Verb**: To perform an action willingly or by choice. For example: "She volunteered to clean up the park."
+- **[Adjective](/en/post/adjective/)**: Done [by](/en/post/by/) [choice](/en/post/choice/), willingly, [or](/en/post/or/) [without](/en/post/without/) compulsion. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) took [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/) voluntarily."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) offers [their](/en/post/their/) services [or](/en/post/or/) participation [without](/en/post/without/) [being](/en/post/being/) forced. [For](/en/post/for/) [example](/en/post/example/): "[Many](/en/post/many/) volunteers helped [at](/en/post/at/) [the](/en/post/the/) [charity](/en/post/charity/) [event](/en/post/event/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [perform](/en/post/perform/) an [action](/en/post/action/) willingly [or](/en/post/or/) [by](/en/post/by/) [choice](/en/post/choice/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) volunteered [to](/en/post/to/) [clean](/en/post/clean/) [up](/en/post/up/) [the](/en/post/the/) [park](/en/post/park/)."
 
 ## Phrases
-- "Voluntary work" refers to tasks done without payment or obligation.
-- "Volunteer your time" means to offer your services freely.
-- "Voluntary resignation" is when someone leaves a job willingly.
+- "[Voluntary](/en/post/voluntary/) [work](/en/post/work/)" refers [to](/en/post/to/) tasks done [without](/en/post/without/) [payment](/en/post/payment/) [or](/en/post/or/) obligation.
+- "Volunteer [your](/en/post/your/) [time](/en/post/time/)" [means](/en/post/means/) [to](/en/post/to/) [offer](/en/post/offer/) [your](/en/post/your/) services [freely](/en/post/freely/).
+- "[Voluntary](/en/post/voluntary/) [resignation](/en/post/resignation/)" is [when](/en/post/when/) [someone](/en/post/someone/) leaves [a](/en/post/a/) [job](/en/post/job/) willingly.
 
-## Example Sentences
-- **Adjective**: "His decision was entirely voluntary, based on his passion for the cause."
-- **Noun**: "The organization relies heavily on volunteers to maintain its operations."
-- **Verb**: "He volunteered to teach English in a remote village."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [decision](/en/post/decision/) was entirely [voluntary](/en/post/voluntary/), based [on](/en/post/on/) [his](/en/post/his/) [passion](/en/post/passion/) [for](/en/post/for/) [the](/en/post/the/) [cause](/en/post/cause/)."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [organization](/en/post/organization/) relies [heavily](/en/post/heavily/) [on](/en/post/on/) volunteers [to](/en/post/to/) [maintain](/en/post/maintain/) [its](/en/post/its/) operations."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) volunteered [to](/en/post/to/) [teach](/en/post/teach/) English [in](/en/post/in/) [a](/en/post/a/) [remote](/en/post/remote/) [village](/en/post/village/)."
 
 ## Synonyms
-- Optional
+- [Optional](/en/post/optional/)
 - Self-motivated
 - Uncompelled
 - Free-willed
-- Willing
+- [Willing](/en/post/willing/)
 
 ## Antonyms
 - Compulsory

@@ -11,22 +11,22 @@ keywords = ['ai words', 'sail']
 /saɪl/
 
 ## 释义
-- **名词**: 1. 船帆；帆。例如: "The wind filled the sails of the ship."
-          2. （尤指航海）航行；航程。例如: "They had a long and difficult sail across the Atlantic."
+- **名词**: 1. 船帆；帆。例如: "[The](/post/the/) [wind](/post/wind/) filled [the](/post/the/) sails [of](/post/of/) [the](/post/the/) [ship](/post/ship/)."
+          2. （尤指航海）航行；航程。例如: "[They](/post/they/) had [a](/post/a/) [long](/post/long/) [and](/post/and/) [difficult](/post/difficult/) [sail](/post/sail/) [across](/post/across/) [the](/post/the/) [Atlantic](/post/atlantic/)."
 
-- **动词**: 驾船航行。例如: "We sailed along the coastline for hours."
+- **动词**: 驾船航行。例如: "[We](/post/we/) sailed [along](/post/along/) [the](/post/the/) coastline [for](/post/for/) hours."
 
 ## 短语
-- "Set sail" 意为启航，出发。例如: "The舰队set sail for new lands."
-- "Full sail" 表示全速前进或全力以赴。例如: "The ship was under full sail towards the horizon."
+- "[Set](/post/set/) [sail](/post/sail/)" 意为启航，出发。例如: "The舰队set [sail](/post/sail/) [for](/post/for/) [new](/post/new/) lands."
+- "[Full](/post/full/) [sail](/post/sail/)" 表示全速前进或全力以赴。例如: "[The](/post/the/) [ship](/post/ship/) was [under](/post/under/) [full](/post/full/) [sail](/post/sail/) towards [the](/post/the/) [horizon](/post/horizon/)."
 
 ## 例句
-- 名词: "The beautiful yacht had three large sails."
-- 动词: "They sailed from Europe to America in a traditional wooden boat."
+- 名词: "[The](/post/the/) [beautiful](/post/beautiful/) yacht had [three](/post/three/) [large](/post/large/) sails."
+- 动词: "[They](/post/they/) sailed [from](/post/from/) Europe [to](/post/to/) [America](/post/america/) [in](/post/in/) [a](/post/a/) [traditional](/post/traditional/) [wooden](/post/wooden/) [boat](/post/boat/)."
 
 ## 同义词
 - Navigate
 - Cruise
-- Travel by water
-- Steer
-- Manoeuvre (ship)
+- [Travel](/post/travel/) [by](/post/by/) [water](/post/water/)
+- [Steer](/post/steer/)
+- Manoeuvre ([ship](/post/ship/))

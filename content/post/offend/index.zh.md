@@ -12,20 +12,20 @@ keywords = ['ai words', 'offend']
 
 ## 释义
 - **动词**:
-  - 冒犯；触怒。例如: "He didn't mean to offend anyone with his comment."
-  - 违反（法律、规则等）。例如: "It is illegal to offend public decency."
+  - 冒犯；触怒。例如: "[He](/post/he/) didn't [mean](/post/mean/) [to](/post/to/) [offend](/post/offend/) [anyone](/post/anyone/) [with](/post/with/) [his](/post/his/) [comment](/post/comment/)."
+  - 违反（法律、规则等）。例如: "[It](/post/it/) is [illegal](/post/illegal/) [to](/post/to/) [offend](/post/offend/) [public](/post/public/) decency."
 
 ## 短语
-- "Offend someone's sensibilities" 意味着触动或伤害某人的感情。
-- "To offend against something" 指违反或违背某个原则或规定。
+- "[Offend](/post/offend/) someone's sensibilities" 意味着触动或伤害某人的感情。
+- "[To](/post/to/) [offend](/post/offend/) [against](/post/against/) [something](/post/something/)" 指违反或违背某个原则或规定。
 
 ## 例句
-- 动词: "She was sorry if she had offended him with her honest opinion."
-- "His loud music was considered to be an offense against the neighbors' peace."
+- 动词: "[She](/post/she/) was [sorry](/post/sorry/) [if](/post/if/) [she](/post/she/) had offended [him](/post/him/) [with](/post/with/) [her](/post/her/) [honest](/post/honest/) [opinion](/post/opinion/)."
+- "[His](/post/his/) [loud](/post/loud/) [music](/post/music/) was considered [to](/post/to/) [be](/post/be/) an offense [against](/post/against/) [the](/post/the/) neighbors' [peace](/post/peace/)."
 
 ## 同义词
-- Insult
+- [Insult](/post/insult/)
 - Provoke
 - Aggravate
 - Irritate
-- Hurt (one's feelings)
+- [Hurt](/post/hurt/) (one's feelings)

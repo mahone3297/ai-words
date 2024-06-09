@@ -11,16 +11,16 @@ keywords = ['ai words', 'sulphur']
 /ˈsʌlfər/
 
 ## 释义
-- **名词**: 一种化学元素，符号S，无机化合物的重要成分，通常为淡黄色结晶或粉末，有特殊气味。例如: "Sulphur is used in the production of gunpowder."
-- **形容词**: 与硫磺有关的或具有硫磺特性的。例如: "The hot springs have a strong sulphurous smell."
+- **名词**: 一种化学元素，符号S，无机化合物的重要成分，通常为淡黄色结晶或粉末，有特殊气味。例如: "[Sulphur](/post/sulphur/) is [used](/post/used/) [in](/post/in/) [the](/post/the/) [production](/post/production/) [of](/post/of/) [gunpowder](/post/gunpowder/)."
+- **形容词**: 与硫磺有关的或具有硫磺特性的。例如: "[The](/post/the/) [hot](/post/hot/) springs [have](/post/have/) [a](/post/a/) [strong](/post/strong/) sulphurous [smell](/post/smell/)."
 
 ## 短语
-- "Sulphuric acid" 硫酸，一种强酸。
-- "Sulphur dioxide" 二氧化硫，一种常见的大气污染物。
+- "Sulphuric [acid](/post/acid/)" 硫酸，一种强酸。
+- "[Sulphur](/post/sulphur/) dioxide" 二氧化硫，一种常见的大气污染物。
 
 ## 例句
-- 名词: "The mine produced large quantities of sulphur for industrial use."
-- 形容词: "The eggs had a slightly sulphurous taste due to the way they were cooked."
+- 名词: "[The](/post/the/) [mine](/post/mine/) produced [large](/post/large/) quantities [of](/post/of/) [sulphur](/post/sulphur/) [for](/post/for/) [industrial](/post/industrial/) [use](/post/use/)."
+- 形容词: "[The](/post/the/) eggs had [a](/post/a/) [slightly](/post/slightly/) sulphurous [taste](/post/taste/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [way](/post/way/) [they](/post/they/) were cooked."
 
 ## 同义词
 - Sulfur

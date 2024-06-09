@@ -11,19 +11,19 @@ keywords = ['ai words', 'advisable']
 /ədˈvaɪzəbl/
 
 ## 释义
-- **形容词**: 可取的；明智的；适当的。例如: "It is advisable to have a backup plan in case of emergencies."
+- **形容词**: 可取的；明智的；适当的。例如: "[It](/post/it/) is [advisable](/post/advisable/) [to](/post/to/) [have](/post/have/) [a](/post/a/) backup [plan](/post/plan/) [in](/post/in/) [case](/post/case/) [of](/post/of/) emergencies."
 
 ## 短语
-- "advisable to do something" 意为做某事是明智的。
-- "It is advisable for you to consult a professional." 表示建议你咨询专业人士。
+- "[advisable](/post/advisable/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" 意为做某事是明智的。
+- "[It](/post/it/) is [advisable](/post/advisable/) [for](/post/for/) [you](/post/you/) [to](/post/to/) [consult](/post/consult/) [a](/post/a/) [professional](/post/professional/)." 表示建议你咨询专业人士。
 
 ## 例句
-- "Given the weather conditions, it's advisable to delay the trip."
-- "It's advisable to review your notes before the exam."
+- "Given [the](/post/the/) [weather](/post/weather/) conditions, it's [advisable](/post/advisable/) [to](/post/to/) [delay](/post/delay/) [the](/post/the/) [trip](/post/trip/)."
+- "It's [advisable](/post/advisable/) [to](/post/to/) [review](/post/review/) [your](/post/your/) notes [before](/post/before/) [the](/post/the/) [exam](/post/exam/)."
 
 ## 同义词
-- wise
-- sensible
+- [wise](/post/wise/)
+- [sensible](/post/sensible/)
 - judicious
 - prudent
 - recommended

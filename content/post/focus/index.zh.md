@@ -11,23 +11,23 @@ keywords = ['ai words', 'focus']
 /fəˈkʌs/
 
 ## 释义
-- **名词**: 集中点；焦点；注意力的中心。例如: "The main focus of the meeting was the budget."
-- **动词**: 集中（注意力、精力等）；对焦。例如: "She focused her attention on the task at hand."
-- **形容词**: 关注的；集中的。例如: "He had a focused mind and didn't let distractions interfere."
+- **名词**: 集中点；焦点；注意力的中心。例如: "[The](/post/the/) [main](/post/main/) [focus](/post/focus/) [of](/post/of/) [the](/post/the/) [meeting](/post/meeting/) was [the](/post/the/) budget."
+- **动词**: 集中（注意力、精力等）；对焦。例如: "[She](/post/she/) focused [her](/post/her/) [attention](/post/attention/) [on](/post/on/) [the](/post/the/) [task](/post/task/) [at](/post/at/) [hand](/post/hand/)."
+- **形容词**: 关注的；集中的。例如: "[He](/post/he/) had [a](/post/a/) focused [mind](/post/mind/) [and](/post/and/) didn't [let](/post/let/) distractions [interfere](/post/interfere/)."
 
 ## 短语
-- "Keep the focus on..." 意味着保持对…的关注。
-- "Focus group" 是一种市场研究方法，由一组选定的人讨论特定话题。
-- "Out of focus" 指图像或思维不清晰。
+- "[Keep](/post/keep/) [the](/post/the/) [focus](/post/focus/) [on](/post/on/)..." 意味着保持对…的关注。
+- "[Focus](/post/focus/) [group](/post/group/)" 是一种市场研究方法，由一组选定的人讨论特定话题。
+- "[Out](/post/out/) [of](/post/of/) [focus](/post/focus/)" 指图像或思维不清晰。
 
 ## 例句
-- 名词: "The camera lost its focus, and the picture became blurry."
-- 动词: "Before taking the photo, make sure to focus the lens properly."
-- 形容词: "His focused expression showed he was deeply engaged in the conversation."
+- 名词: "[The](/post/the/) [camera](/post/camera/) lost [its](/post/its/) [focus](/post/focus/), [and](/post/and/) [the](/post/the/) [picture](/post/picture/) became blurry."
+- 动词: "[Before](/post/before/) taking [the](/post/the/) photo, [make](/post/make/) [sure](/post/sure/) [to](/post/to/) [focus](/post/focus/) [the](/post/the/) [lens](/post/lens/) [properly](/post/properly/)."
+- 形容词: "[His](/post/his/) focused [expression](/post/expression/) showed [he](/post/he/) was deeply engaged [in](/post/in/) [the](/post/the/) [conversation](/post/conversation/)."
 
 ## 同义词
-- Concentrate
+- [Concentrate](/post/concentrate/)
 - Center
-- Direct
-- Aim
-- Sharpen
+- [Direct](/post/direct/)
+- [Aim](/post/aim/)
+- [Sharpen](/post/sharpen/)

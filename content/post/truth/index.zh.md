@@ -11,21 +11,21 @@ keywords = ['ai words', 'truth']
 /truːθ/
 
 ## 释义
-- **名词**: 真实，事实，真相。例如: "The truth will eventually come out."
-- **形容词**: 真实的，符合事实的。例如: "She spoke with a truth that left no doubt in anyone's mind."
+- **名词**: 真实，事实，真相。例如: "[The](/post/the/) [truth](/post/truth/) [will](/post/will/) [eventually](/post/eventually/) [come](/post/come/) [out](/post/out/)."
+- **形容词**: 真实的，符合事实的。例如: "[She](/post/she/) spoke [with](/post/with/) [a](/post/a/) [truth](/post/truth/) [that](/post/that/) [left](/post/left/) [no](/post/no/) [doubt](/post/doubt/) [in](/post/in/) anyone's [mind](/post/mind/)."
 
 ## 短语
-- "Tell the truth" 意为说实话，讲真话。
-- "The whole truth" 指全部的事实，没有遗漏。
-- "In search of truth" 表示寻求真相。
+- "[Tell](/post/tell/) [the](/post/the/) [truth](/post/truth/)" 意为说实话，讲真话。
+- "[The](/post/the/) [whole](/post/whole/) [truth](/post/truth/)" 指全部的事实，没有遗漏。
+- "[In](/post/in/) [search](/post/search/) [of](/post/of/) [truth](/post/truth/)" 表示寻求真相。
 
 ## 例句
-- 名词: "We should always strive to uncover the truth, no matter how difficult it may be."
-- 形容词: "His statement was so convincing that it seemed to be the truth."
+- 名词: "[We](/post/we/) [should](/post/should/) [always](/post/always/) strive [to](/post/to/) [uncover](/post/uncover/) [the](/post/the/) [truth](/post/truth/), [no](/post/no/) [matter](/post/matter/) [how](/post/how/) [difficult](/post/difficult/) [it](/post/it/) [may](/post/may/) [be](/post/be/)."
+- 形容词: "[His](/post/his/) [statement](/post/statement/) was [so](/post/so/) convincing [that](/post/that/) [it](/post/it/) seemed [to](/post/to/) [be](/post/be/) [the](/post/the/) [truth](/post/truth/)."
 
 ## 同义词
-- Fact
-- Reality
-- Accuracy
-- Honesty
+- [Fact](/post/fact/)
+- [Reality](/post/reality/)
+- [Accuracy](/post/accuracy/)
+- [Honesty](/post/honesty/)
 - Veracity

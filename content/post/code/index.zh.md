@@ -12,24 +12,24 @@ keywords = ['ai words', 'code']
 
 ## 释义
 - **名词**:
-  - 计程码，代码：由特定符号（如字母、数字）组成的系统，用于编写计算机程序或传达指令。例如: "The programmer wrote some code to solve the problem."
-  - 法规，法律条款：法律文本中的具体规定或条文。例如: "The new tax code is quite complex."
+  - 计程码，代码：由特定符号（如字母、数字）组成的系统，用于编写计算机程序或传达指令。例如: "[The](/post/the/) programmer wrote [some](/post/some/) [code](/post/code/) [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [problem](/post/problem/)."
+  - 法规，法律条款：法律文本中的具体规定或条文。例如: "[The](/post/the/) [new](/post/new/) [tax](/post/tax/) [code](/post/code/) is [quite](/post/quite/) [complex](/post/complex/)."
 
 - **动词**:
-  - 编码：将信息转换为计算机能理解的语言。例如: "She is coding the data for analysis."
-  - 解码：理解和解释编码的信息。例如: "The decoder can quickly code and decode messages."
+  - 编码：将信息转换为计算机能理解的语言。例如: "[She](/post/she/) is coding [the](/post/the/) [data](/post/data/) [for](/post/for/) [analysis](/post/analysis/)."
+  - 解码：理解和解释编码的信息。例如: "[The](/post/the/) decoder [can](/post/can/) [quickly](/post/quickly/) [code](/post/code/) [and](/post/and/) decode messages."
 
 ## 短语
-- "Source code" 指的是编程语言中原始的人类可读的程序文本。
-- "Debugging code" 是指找出并修复程序中错误的过程。
+- "[Source](/post/source/) [code](/post/code/)" 指的是编程语言中原始的人类可读的程序文本。
+- "Debugging [code](/post/code/)" 是指找出并修复程序中错误的过程。
 
 ## 例句
-- 名词: "The developer spent hours reviewing the code for errors."
-- 动词: "They are learning to code in Python for their first programming class."
+- 名词: "[The](/post/the/) developer spent hours reviewing [the](/post/the/) [code](/post/code/) [for](/post/for/) errors."
+- 动词: "[They](/post/they/) are [learning](/post/learning/) [to](/post/to/) [code](/post/code/) [in](/post/in/) Python [for](/post/for/) [their](/post/their/) [first](/post/first/) programming [class](/post/class/)."
 
 ## 同义词
 - Programming
 - Scripting
 - Coding
-- Programming language
+- Programming [language](/post/language/)
 - Syntax

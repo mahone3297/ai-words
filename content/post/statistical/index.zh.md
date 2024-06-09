@@ -11,16 +11,16 @@ keywords = ['ai words', 'statistical']
 /ˈstætɪstɪkl/
 
 ## 释义
-- **形容词**: 与统计学有关的；根据统计方法得出的。例如: "The statistical analysis showed a significant correlation between the two variables."
-- **名词**: 统计学（学科）。例如: "She is pursuing a degree in statistical science."
+- **形容词**: 与统计学有关的；根据统计方法得出的。例如: "[The](/post/the/) [statistical](/post/statistical/) [analysis](/post/analysis/) showed [a](/post/a/) [significant](/post/significant/) correlation [between](/post/between/) [the](/post/the/) [two](/post/two/) variables."
+- **名词**: 统计学（学科）。例如: "[She](/post/she/) is pursuing [a](/post/a/) [degree](/post/degree/) [in](/post/in/) [statistical](/post/statistical/) [science](/post/science/)."
 
 ## 短语
-- "Statistical data" 指的是统计上的数据或信息。
-- "Statistical probability" 表示统计概率，即基于统计数据估算的可能性。
+- "[Statistical](/post/statistical/) [data](/post/data/)" 指的是统计上的数据或信息。
+- "[Statistical](/post/statistical/) [probability](/post/probability/)" 表示统计概率，即基于统计数据估算的可能性。
 
 ## 例句
-- 形容词: "The statistical evidence supports the effectiveness of the new treatment."
-- 名词: "He is an expert in the field of statistics."
+- 形容词: "[The](/post/the/) [statistical](/post/statistical/) [evidence](/post/evidence/) supports [the](/post/the/) effectiveness [of](/post/of/) [the](/post/the/) [new](/post/new/) [treatment](/post/treatment/)."
+- 名词: "[He](/post/he/) is an [expert](/post/expert/) [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) statistics."
 
 ## 同义词
 - Data-driven

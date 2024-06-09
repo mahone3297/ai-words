@@ -7,42 +7,42 @@ description = '[diˈkei] vi.腐烂；衰败 n.腐烂'
 keywords = ['ai words', 'decay']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /dɪˈkeɪ/
 
 ## Definitions
-### Noun
-- **Decay**: 1. The process of becoming rotten, spoiled, or deteriorated. For example: "The ancient statue showed signs of decay from years of exposure to the elements."
-- 2. A decline or worsening in quality, health, or value over time. For example: "The economy is showing signs of financial decay."
-- 3. (Chemistry) The breakdown of a substance into simpler substances through chemical reactions. For example: "Radioactive materials undergo radioactive decay."
+### [Noun](/en/post/noun/)
+- **[Decay](/en/post/decay/)**: 1. [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) becoming [rotten](/en/post/rotten/), spoiled, [or](/en/post/or/) deteriorated. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [ancient](/en/post/ancient/) [statue](/en/post/statue/) showed signs [of](/en/post/of/) [decay](/en/post/decay/) [from](/en/post/from/) years [of](/en/post/of/) [exposure](/en/post/exposure/) [to](/en/post/to/) [the](/en/post/the/) elements."
+- 2. [A](/en/post/a/) decline [or](/en/post/or/) worsening [in](/en/post/in/) [quality](/en/post/quality/), [health](/en/post/health/), [or](/en/post/or/) [value](/en/post/value/) [over](/en/post/over/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [economy](/en/post/economy/) is showing signs [of](/en/post/of/) [financial](/en/post/financial/) [decay](/en/post/decay/)."
+- 3. ([Chemistry](/en/post/chemistry/)) [The](/en/post/the/) breakdown [of](/en/post/of/) [a](/en/post/a/) [substance](/en/post/substance/) [into](/en/post/into/) simpler substances [through](/en/post/through/) [chemical](/en/post/chemical/) reactions. [For](/en/post/for/) [example](/en/post/example/): "[Radioactive](/en/post/radioactive/) materials [undergo](/en/post/undergo/) [radioactive](/en/post/radioactive/) [decay](/en/post/decay/)."
 
-### Verb
-- **To decay**: To undergo the process of deterioration or decomposition. For example: "Wood naturally decays over time."
-- (Chemistry) To undergo radioactive decay.
+### [Verb](/en/post/verb/)
+- **[To](/en/post/to/) [decay](/en/post/decay/)**: [To](/en/post/to/) [undergo](/en/post/undergo/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) deterioration [or](/en/post/or/) decomposition. [For](/en/post/for/) [example](/en/post/example/): "[Wood](/en/post/wood/) [naturally](/en/post/naturally/) decays [over](/en/post/over/) [time](/en/post/time/)."
+- ([Chemistry](/en/post/chemistry/)) [To](/en/post/to/) [undergo](/en/post/undergo/) [radioactive](/en/post/radioactive/) [decay](/en/post/decay/).
 
-### Adjective
-- **Decaying**: 1. In the process of decaying or decomposing. For example: "The decaying leaves created a soft, crunchy sound underfoot."
-- 2. Showing signs of decline or corruption. For example: "The once-thriving city is now a decaying neighborhood."
+### [Adjective](/en/post/adjective/)
+- **Decaying**: 1. [In](/en/post/in/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) decaying [or](/en/post/or/) decomposing. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) decaying leaves created [a](/en/post/a/) [soft](/en/post/soft/), crunchy [sound](/en/post/sound/) underfoot."
+- 2. Showing signs [of](/en/post/of/) decline [or](/en/post/or/) corruption. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) once-thriving [city](/en/post/city/) is [now](/en/post/now/) [a](/en/post/a/) decaying neighborhood."
 
-### Adverb
-- **Decayingly**: In a manner that indicates decay or decline. For example: "The music decayingly faded into the distance."
+### [Adverb](/en/post/adverb/)
+- **Decayingly**: [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) indicates [decay](/en/post/decay/) [or](/en/post/or/) decline. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [music](/en/post/music/) decayingly faded [into](/en/post/into/) [the](/en/post/the/) [distance](/en/post/distance/)."
 
 ## Phrases
-- "Decay of infrastructure" refers to the deterioration of physical structures.
-- "Environmental decay" denotes the worsening of environmental conditions.
-- "Social decay" describes a decline in societal values or cohesion.
+- "[Decay](/en/post/decay/) [of](/en/post/of/) infrastructure" refers [to](/en/post/to/) [the](/en/post/the/) deterioration [of](/en/post/of/) [physical](/en/post/physical/) structures.
+- "Environmental [decay](/en/post/decay/)" denotes [the](/en/post/the/) worsening [of](/en/post/of/) environmental conditions.
+- "[Social](/en/post/social/) [decay](/en/post/decay/)" describes [a](/en/post/a/) decline [in](/en/post/in/) societal values [or](/en/post/or/) cohesion.
 
-## Example Sentences
-- **Noun**: "The once-grand building was now a mere shadow of its former self, a symbol of architectural decay."
-- **Verb**: "The bacteria caused the food to decay rapidly."
-- **Adjective**: "The decaying walls of the abandoned house were a stark reminder of better times."
-- **Adverb**: "The decaying melody echoed through the empty hallways."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) once-grand [building](/en/post/building/) was [now](/en/post/now/) [a](/en/post/a/) [mere](/en/post/mere/) [shadow](/en/post/shadow/) [of](/en/post/of/) [its](/en/post/its/) [former](/en/post/former/) [self](/en/post/self/), [a](/en/post/a/) [symbol](/en/post/symbol/) [of](/en/post/of/) architectural [decay](/en/post/decay/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [bacteria](/en/post/bacteria/) caused [the](/en/post/the/) [food](/en/post/food/) [to](/en/post/to/) [decay](/en/post/decay/) [rapidly](/en/post/rapidly/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) decaying walls [of](/en/post/of/) [the](/en/post/the/) abandoned [house](/en/post/house/) were [a](/en/post/a/) stark reminder [of](/en/post/of/) [better](/en/post/better/) times."
+- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) decaying melody echoed [through](/en/post/through/) [the](/en/post/the/) [empty](/en/post/empty/) hallways."
 
 ## Synonyms
 - Deterioration
 - Corrosion
 - Degradation
-- Rot
+- [Rot](/en/post/rot/)
 - Decline
 - Fading
 - Disintegration

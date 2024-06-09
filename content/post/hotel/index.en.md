@@ -7,33 +7,33 @@ description = '[həuˈtel] n.旅馆'
 keywords = ['ai words', 'hotel']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /hoʊˈtel/
 
 ## Definitions
-- **Noun**: A building providing lodging, meals, and other services for travelers and tourists; often includes various facilities such as restaurants, meeting rooms, and recreational areas.
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [building](/en/post/building/) providing lodging, meals, [and](/en/post/and/) [other](/en/post/other/) services [for](/en/post/for/) travelers [and](/en/post/and/) tourists; [often](/en/post/often/) includes [various](/en/post/various/) facilities [such](/en/post/such/) [as](/en/post/as/) restaurants, [meeting](/en/post/meeting/) rooms, [and](/en/post/and/) recreational areas.
 
-### Example Sentences
-- _Noun_: "We checked into the luxurious hotel overlooking the beach."
-  - "The hotel offers a complimentary breakfast to its guests."
-  - "They stayed at a small boutique hotel in the heart of the city."
+### [Example](/en/post/example/) Sentences
+- _Noun_: "[We](/en/post/we/) checked [into](/en/post/into/) [the](/en/post/the/) luxurious [hotel](/en/post/hotel/) overlooking [the](/en/post/the/) [beach](/en/post/beach/)."
+  - "[The](/en/post/the/) [hotel](/en/post/hotel/) offers [a](/en/post/a/) complimentary [breakfast](/en/post/breakfast/) [to](/en/post/to/) [its](/en/post/its/) guests."
+  - "[They](/en/post/they/) stayed [at](/en/post/at/) [a](/en/post/a/) [small](/en/post/small/) boutique [hotel](/en/post/hotel/) [in](/en/post/in/) [the](/en/post/the/) [heart](/en/post/heart/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/)."
 
 ## Phrases
-- "Check into a hotel": Register and pay for a room in a hotel to stay overnight or for an extended period.
-- "Hotel room service": A facility where hotel guests can order food and drinks to be delivered to their room.
-- "Hotel amenities": The additional features or services provided by a hotel such as a swimming pool, gym, spa, or Wi-Fi.
+- "[Check](/en/post/check/) [into](/en/post/into/) [a](/en/post/a/) [hotel](/en/post/hotel/)": [Register](/en/post/register/) [and](/en/post/and/) [pay](/en/post/pay/) [for](/en/post/for/) [a](/en/post/a/) [room](/en/post/room/) [in](/en/post/in/) [a](/en/post/a/) [hotel](/en/post/hotel/) [to](/en/post/to/) [stay](/en/post/stay/) [overnight](/en/post/overnight/) [or](/en/post/or/) [for](/en/post/for/) an extended [period](/en/post/period/).
+- "[Hotel](/en/post/hotel/) [room](/en/post/room/) [service](/en/post/service/)": [A](/en/post/a/) [facility](/en/post/facility/) [where](/en/post/where/) [hotel](/en/post/hotel/) guests [can](/en/post/can/) [order](/en/post/order/) [food](/en/post/food/) [and](/en/post/and/) drinks [to](/en/post/to/) [be](/en/post/be/) delivered [to](/en/post/to/) [their](/en/post/their/) [room](/en/post/room/).
+- "[Hotel](/en/post/hotel/) amenities": [The](/en/post/the/) [additional](/en/post/additional/) features [or](/en/post/or/) services [provided](/en/post/provided/) [by](/en/post/by/) [a](/en/post/a/) [hotel](/en/post/hotel/) [such](/en/post/such/) [as](/en/post/as/) [a](/en/post/a/) swimming [pool](/en/post/pool/), gym, spa, [or](/en/post/or/) Wi-Fi.
 
 ## Synonyms
-- Inn
+- [Inn](/en/post/inn/)
 - Motel
-- Lodge
-- Resort
+- [Lodge](/en/post/lodge/)
+- [Resort](/en/post/resort/)
 - Guesthouse
 - Hostel
-- Bed and breakfast (B&B)
-- Accommodation
+- [Bed](/en/post/bed/) [and](/en/post/and/) [breakfast](/en/post/breakfast/) (B&B)
+- [Accommodation](/en/post/accommodation/)
 
-## Further Details
-- **Etymology**: The word 'hotel' comes from the French 'hôtel', which originally meant a large townhouse or mansion, but later referred to a place that provides accommodation for paying guests.
+## [Further](/en/post/further/) Details
+- **Etymology**: [The](/en/post/the/) [word](/en/post/word/) '[hotel](/en/post/hotel/)' comes [from](/en/post/from/) [the](/en/post/the/) French 'hôtel', [which](/en/post/which/) originally meant [a](/en/post/a/) [large](/en/post/large/) townhouse [or](/en/post/or/) mansion, [but](/en/post/but/) [later](/en/post/later/) referred [to](/en/post/to/) [a](/en/post/a/) [place](/en/post/place/) [that](/en/post/that/) provides [accommodation](/en/post/accommodation/) [for](/en/post/for/) paying guests.
   
-  No specific verb form or usage of "hotel" as a verb exists in standard English. It is primarily used as a noun referring to the establishment itself or the act of staying at one ("to hotel" could mean to stay temporarily at a hotel, though this usage is less common). Also, no notable interjections or idiomatic expressions with "hotel" are typically found in the same context as the examples given for "hello."
+  [No](/en/post/no/) [specific](/en/post/specific/) [verb](/en/post/verb/) [form](/en/post/form/) [or](/en/post/or/) [usage](/en/post/usage/) [of](/en/post/of/) "[hotel](/en/post/hotel/)" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/) exists [in](/en/post/in/) [standard](/en/post/standard/) English. [It](/en/post/it/) is [primarily](/en/post/primarily/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [establishment](/en/post/establishment/) [itself](/en/post/itself/) [or](/en/post/or/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) staying [at](/en/post/at/) [one](/en/post/one/) ("[to](/en/post/to/) [hotel](/en/post/hotel/)" [could](/en/post/could/) [mean](/en/post/mean/) [to](/en/post/to/) [stay](/en/post/stay/) temporarily [at](/en/post/at/) [a](/en/post/a/) [hotel](/en/post/hotel/), [though](/en/post/though/) [this](/en/post/this/) [usage](/en/post/usage/) is [less](/en/post/less/) [common](/en/post/common/)). [Also](/en/post/also/), [no](/en/post/no/) notable interjections [or](/en/post/or/) idiomatic expressions [with](/en/post/with/) "[hotel](/en/post/hotel/)" are typically [found](/en/post/found/) [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) context [as](/en/post/as/) [the](/en/post/the/) examples given [for](/en/post/for/) "[hello](/en/post/hello/)."

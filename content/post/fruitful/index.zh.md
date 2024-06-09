@@ -11,20 +11,20 @@ keywords = ['ai words', 'fruitful']
 /fruːˈtfl/
 
 ## 释义
-- **形容词**: 富有成果的，多产的。例如: "Her collaboration with the team was highly fruitful."
-- **副词**: 产生丰富结果地。例如: "The project was carried out fruitfully, leading to several new discoveries."
+- **形容词**: 富有成果的，多产的。例如: "[Her](/post/her/) collaboration [with](/post/with/) [the](/post/the/) [team](/post/team/) was [highly](/post/highly/) [fruitful](/post/fruitful/)."
+- **副词**: 产生丰富结果地。例如: "[The](/post/the/) [project](/post/project/) was carried [out](/post/out/) fruitfully, [leading](/post/leading/) [to](/post/to/) [several](/post/several/) [new](/post/new/) discoveries."
 
 ## 短语
-- "fruitful collaboration" 意为富有成效的合作。
-- "fruitful discussion" 指富有成果的讨论。
+- "[fruitful](/post/fruitful/) collaboration" 意为富有成效的合作。
+- "[fruitful](/post/fruitful/) [discussion](/post/discussion/)" 指富有成果的讨论。
 
 ## 例句
-- 形容词: "Their fruitful partnership resulted in multiple best-selling books."
-- 副词: "The meeting was conducted fruitfully, resulting in several innovative ideas."
+- 形容词: "[Their](/post/their/) [fruitful](/post/fruitful/) partnership resulted [in](/post/in/) [multiple](/post/multiple/) best-selling books."
+- 副词: "[The](/post/the/) [meeting](/post/meeting/) was conducted fruitfully, resulting [in](/post/in/) [several](/post/several/) innovative ideas."
 
 ## 同义词
-- Productive
+- [Productive](/post/productive/)
 - Bountiful
-- Abundant
-- Generous
+- [Abundant](/post/abundant/)
+- [Generous](/post/generous/)
 - Rewarding

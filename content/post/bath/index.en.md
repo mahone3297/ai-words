@@ -7,38 +7,38 @@ description = '[bɑːθ] n.浴，洗澡；浴缸'
 keywords = ['ai words', 'bath']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /bɑːθ/
 
 ## Definitions
-### Noun
-1. **A cleansing or immersion in water for personal cleanliness**: She took a relaxing bath after a long day.
-2. **A soaking in a bath solution, such as salts or oils**: The spa offers various bath treatments.
-3. **A tub or container for holding water for bathing**: The bathtub was big enough for two people.
+### [Noun](/en/post/noun/)
+1. **[A](/en/post/a/) cleansing [or](/en/post/or/) immersion [in](/en/post/in/) [water](/en/post/water/) [for](/en/post/for/) [personal](/en/post/personal/) cleanliness**: [She](/en/post/she/) took [a](/en/post/a/) relaxing [bath](/en/post/bath/) [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/).
+2. **[A](/en/post/a/) soaking [in](/en/post/in/) [a](/en/post/a/) [bath](/en/post/bath/) [solution](/en/post/solution/), [such](/en/post/such/) [as](/en/post/as/) salts [or](/en/post/or/) oils**: [The](/en/post/the/) spa offers [various](/en/post/various/) [bath](/en/post/bath/) treatments.
+3. **[A](/en/post/a/) [tub](/en/post/tub/) [or](/en/post/or/) [container](/en/post/container/) [for](/en/post/for/) holding [water](/en/post/water/) [for](/en/post/for/) bathing**: [The](/en/post/the/) bathtub was [big](/en/post/big/) [enough](/en/post/enough/) [for](/en/post/for/) [two](/en/post/two/) [people](/en/post/people/).
 
-### Verb
-1. **To wash oneself with water, typically in a bath**: He decided to take a bath before going to bed.
-2. **To clean or purify (a substance) by immersion in water**: The machine can be bathed in soap and water to remove dirt.
+### [Verb](/en/post/verb/)
+1. **[To](/en/post/to/) [wash](/en/post/wash/) [oneself](/en/post/oneself/) [with](/en/post/with/) [water](/en/post/water/), typically [in](/en/post/in/) [a](/en/post/a/) [bath](/en/post/bath/)**: [He](/en/post/he/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [bath](/en/post/bath/) [before](/en/post/before/) going [to](/en/post/to/) [bed](/en/post/bed/).
+2. **[To](/en/post/to/) [clean](/en/post/clean/) [or](/en/post/or/) [purify](/en/post/purify/) ([a](/en/post/a/) [substance](/en/post/substance/)) [by](/en/post/by/) immersion [in](/en/post/in/) [water](/en/post/water/)**: [The](/en/post/the/) [machine](/en/post/machine/) [can](/en/post/can/) [be](/en/post/be/) bathed [in](/en/post/in/) [soap](/en/post/soap/) [and](/en/post/and/) [water](/en/post/water/) [to](/en/post/to/) [remove](/en/post/remove/) [dirt](/en/post/dirt/).
 
-### Adjective
-1. **Relating to a bath or baths**: The bathroom had a beautiful claw-foot bath.
-2. **Relaxing or soothing**: The herbal bath products are known for their calming properties.
+### [Adjective](/en/post/adjective/)
+1. **Relating [to](/en/post/to/) [a](/en/post/a/) [bath](/en/post/bath/) [or](/en/post/or/) baths**: [The](/en/post/the/) [bathroom](/en/post/bathroom/) had [a](/en/post/a/) [beautiful](/en/post/beautiful/) claw-foot [bath](/en/post/bath/).
+2. **Relaxing [or](/en/post/or/) soothing**: [The](/en/post/the/) herbal [bath](/en/post/bath/) products are known [for](/en/post/for/) [their](/en/post/their/) calming properties.
 
 ## Phrases
-- "Take a bath" means to have a bath for personal hygiene.
-- "Bubble bath" refers to a bath with added soap suds.
-- "Bath salts" are used to add fragrance and relaxation to a bath.
-- "Bubble bath time" is a playful expression for when it's bath time.
+- "[Take](/en/post/take/) [a](/en/post/a/) [bath](/en/post/bath/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [bath](/en/post/bath/) [for](/en/post/for/) [personal](/en/post/personal/) hygiene.
+- "[Bubble](/en/post/bubble/) [bath](/en/post/bath/)" refers [to](/en/post/to/) [a](/en/post/a/) [bath](/en/post/bath/) [with](/en/post/with/) added [soap](/en/post/soap/) suds.
+- "[Bath](/en/post/bath/) salts" are [used](/en/post/used/) [to](/en/post/to/) [add](/en/post/add/) fragrance [and](/en/post/and/) relaxation [to](/en/post/to/) [a](/en/post/a/) [bath](/en/post/bath/).
+- "[Bubble](/en/post/bubble/) [bath](/en/post/bath/) [time](/en/post/time/)" is [a](/en/post/a/) playful [expression](/en/post/expression/) [for](/en/post/for/) [when](/en/post/when/) it's [bath](/en/post/bath/) [time](/en/post/time/).
 
-## Example Sentences
-- **Noun**: She enjoyed a long, hot bath before going to sleep.
-- **Verb**: After a workout, he rinsed off in a quick shower, but still planned to take a bath later.
-- **Adjective**: The hotel room had a luxurious bath with a spa-like experience.
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: [She](/en/post/she/) enjoyed [a](/en/post/a/) [long](/en/post/long/), [hot](/en/post/hot/) [bath](/en/post/bath/) [before](/en/post/before/) going [to](/en/post/to/) [sleep](/en/post/sleep/).
+- **[Verb](/en/post/verb/)**: [After](/en/post/after/) [a](/en/post/a/) workout, [he](/en/post/he/) rinsed [off](/en/post/off/) [in](/en/post/in/) [a](/en/post/a/) [quick](/en/post/quick/) [shower](/en/post/shower/), [but](/en/post/but/) [still](/en/post/still/) planned [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [bath](/en/post/bath/) [later](/en/post/later/).
+- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [hotel](/en/post/hotel/) [room](/en/post/room/) had [a](/en/post/a/) luxurious [bath](/en/post/bath/) [with](/en/post/with/) [a](/en/post/a/) spa-like [experience](/en/post/experience/).
 
 ## Synonyms
 -澡
--Soak
+-[Soak](/en/post/soak/)
 -清洗
 -Hydrotherapy
--Relaxation session
+-Relaxation [session](/en/post/session/)
 - Bathing ritual

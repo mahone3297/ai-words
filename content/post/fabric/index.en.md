@@ -7,41 +7,41 @@ description = '[ˈfæbrik] n.织物，纺织品；结构'
 keywords = ['ai words', 'fabric']
 +++
 
-# fabric
+# [fabric](/en/post/fabric/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈfæbrɪk/
 
 ## Definitions
-### Noun (n)
-- A cloth material made by weaving, knitting, or felting fibers, typically from wool, cotton, silk, or synthetic yarns: "The dress was made from a beautiful floral fabric."
-- The underlying structure or framework of something, often metaphorically: "The fabric of society."
-- An intricate network or system formed by interconnected parts: "A fabric of lies."
+### [Noun](/en/post/noun/) (n)
+- [A](/en/post/a/) [cloth](/en/post/cloth/) [material](/en/post/material/) made [by](/en/post/by/) weaving, knitting, [or](/en/post/or/) felting fibers, typically [from](/en/post/from/) [wool](/en/post/wool/), [cotton](/en/post/cotton/), [silk](/en/post/silk/), [or](/en/post/or/) [synthetic](/en/post/synthetic/) yarns: "[The](/en/post/the/) [dress](/en/post/dress/) was made [from](/en/post/from/) [a](/en/post/a/) [beautiful](/en/post/beautiful/) floral [fabric](/en/post/fabric/)."
+- [The](/en/post/the/) underlying [structure](/en/post/structure/) [or](/en/post/or/) [framework](/en/post/framework/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) metaphorically: "[The](/en/post/the/) [fabric](/en/post/fabric/) [of](/en/post/of/) [society](/en/post/society/)."
+- An intricate [network](/en/post/network/) [or](/en/post/or/) [system](/en/post/system/) formed [by](/en/post/by/) interconnected parts: "[A](/en/post/a/) [fabric](/en/post/fabric/) [of](/en/post/of/) lies."
 
-Example Sentences:
-- *The decorator chose a rich velvet fabric for the curtains.*
-- *His actions threatened to tear apart the very fabric of our community.*
+[Example](/en/post/example/) Sentences:
+- *[The](/en/post/the/) decorator chose [a](/en/post/a/) [rich](/en/post/rich/) [velvet](/en/post/velvet/) [fabric](/en/post/fabric/) [for](/en/post/for/) [the](/en/post/the/) curtains.*
+- *[His](/en/post/his/) actions threatened [to](/en/post/to/) [tear](/en/post/tear/) [apart](/en/post/apart/) [the](/en/post/the/) [very](/en/post/very/) [fabric](/en/post/fabric/) [of](/en/post/of/) [our](/en/post/our/) [community](/en/post/community/).*
 
-### Verb (v)
-- To create or manufacture (something) by weaving, knitting, or sewing: "She fabricates intricate tapestries."
-- (figuratively) To make up, construct, or invent, often with deceptive intent: "They fabricated a story to cover their mistake."
+### [Verb](/en/post/verb/) (v)
+- [To](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [manufacture](/en/post/manufacture/) ([something](/en/post/something/)) [by](/en/post/by/) weaving, knitting, [or](/en/post/or/) sewing: "[She](/en/post/she/) fabricates intricate tapestries."
+- (figuratively) [To](/en/post/to/) [make](/en/post/make/) [up](/en/post/up/), [construct](/en/post/construct/), [or](/en/post/or/) [invent](/en/post/invent/), [often](/en/post/often/) [with](/en/post/with/) deceptive intent: "[They](/en/post/they/) fabricated [a](/en/post/a/) [story](/en/post/story/) [to](/en/post/to/) [cover](/en/post/cover/) [their](/en/post/their/) [mistake](/en/post/mistake/)."
 
-Example Sentence:
-- *The artisan fabrics new designs inspired by nature.*
+[Example](/en/post/example/) [Sentence](/en/post/sentence/):
+- *[The](/en/post/the/) artisan fabrics [new](/en/post/new/) designs inspired [by](/en/post/by/) [nature](/en/post/nature/).*
 
 ## Phrases
-- "The fabric of life": Refers to the interconnected elements that make up existence or society.
-- "Off the fabric": A phrase indicating something that's not genuine or original; derived or copied.
+- "[The](/en/post/the/) [fabric](/en/post/fabric/) [of](/en/post/of/) [life](/en/post/life/)": Refers [to](/en/post/to/) [the](/en/post/the/) interconnected elements [that](/en/post/that/) [make](/en/post/make/) [up](/en/post/up/) [existence](/en/post/existence/) [or](/en/post/or/) [society](/en/post/society/).
+- "[Off](/en/post/off/) [the](/en/post/the/) [fabric](/en/post/fabric/)": [A](/en/post/a/) [phrase](/en/post/phrase/) indicating [something](/en/post/something/) that's [not](/en/post/not/) [genuine](/en/post/genuine/) [or](/en/post/or/) [original](/en/post/original/); derived [or](/en/post/or/) copied.
 
 ## Synonyms
-- Material
-- Textile
-- Cloth
-- Substance
-- Weave
-- Framework
-- Structure
-- Network
-- Manufacture
-- Construct
-- Invent (when used as a verb)
+- [Material](/en/post/material/)
+- [Textile](/en/post/textile/)
+- [Cloth](/en/post/cloth/)
+- [Substance](/en/post/substance/)
+- [Weave](/en/post/weave/)
+- [Framework](/en/post/framework/)
+- [Structure](/en/post/structure/)
+- [Network](/en/post/network/)
+- [Manufacture](/en/post/manufacture/)
+- [Construct](/en/post/construct/)
+- [Invent](/en/post/invent/) ([when](/en/post/when/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/))

@@ -11,20 +11,20 @@ keywords = ['ai words', 'mislead']
 /mɪsˈliːd/
 
 ## 释义
-- **动词**: 引导（某人）误入歧途；误导。例如: "The misleading advertisement mislead consumers into buying the product."
-- **名词**: 引导错误的行为或信息。例如: "There were several misleads in the investigation that led to a wrong suspect."
+- **动词**: 引导（某人）误入歧途；误导。例如: "[The](/post/the/) misleading [advertisement](/post/advertisement/) [mislead](/post/mislead/) consumers [into](/post/into/) buying [the](/post/the/) [product](/post/product/)."
+- **名词**: 引导错误的行为或信息。例如: "[There](/post/there/) were [several](/post/several/) misleads [in](/post/in/) [the](/post/the/) [investigation](/post/investigation/) [that](/post/that/) led [to](/post/to/) [a](/post/a/) [wrong](/post/wrong/) [suspect](/post/suspect/)."
 
 ## 短语
-- "Mislead someone into something" 意为误导某人去做某事。
-- "To be misled by misinformation" 表示被错误信息误导。
+- "[Mislead](/post/mislead/) [someone](/post/someone/) [into](/post/into/) [something](/post/something/)" 意为误导某人去做某事。
+- "[To](/post/to/) [be](/post/be/) misled [by](/post/by/) misinformation" 表示被错误信息误导。
 
 ## 例句
-- 动词: "The teacher warned us not to be misled by superficial appearances."
-- 名词: "The company's false claims were a mislead that cost many people their savings."
+- 动词: "[The](/post/the/) [teacher](/post/teacher/) warned [us](/post/us/) [not](/post/not/) [to](/post/to/) [be](/post/be/) misled [by](/post/by/) [superficial](/post/superficial/) appearances."
+- 名词: "[The](/post/the/) company's [false](/post/false/) claims were [a](/post/a/) [mislead](/post/mislead/) [that](/post/that/) [cost](/post/cost/) [many](/post/many/) [people](/post/people/) [their](/post/their/) savings."
 
 ## 同义词
-- Deceive
-- Fool
-- Trick
+- [Deceive](/post/deceive/)
+- [Fool](/post/fool/)
+- [Trick](/post/trick/)
 - Delude
 - Misinform

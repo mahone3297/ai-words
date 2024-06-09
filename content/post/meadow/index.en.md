@@ -7,31 +7,31 @@ description = '[ˈmedəu] n.草地，牧草地'
 keywords = ['ai words', 'meadow']
 +++
 
-## Word: Meadow
+## [Word](/en/post/word/): [Meadow](/en/post/meadow/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈmedoʊ/
 
 ## Definitions
-- **Noun**: An area of grassland, typically found near a river or in a low-lying area, which is often treeless and used for pasture or hay production.
-  - Example Sentence: "The cows grazed peacefully in the lush green meadow."
+- **[Noun](/en/post/noun/)**: An [area](/en/post/area/) [of](/en/post/of/) grassland, typically [found](/en/post/found/) [near](/en/post/near/) [a](/en/post/a/) [river](/en/post/river/) [or](/en/post/or/) [in](/en/post/in/) [a](/en/post/a/) low-lying [area](/en/post/area/), [which](/en/post/which/) is [often](/en/post/often/) treeless [and](/en/post/and/) [used](/en/post/used/) [for](/en/post/for/) pasture [or](/en/post/or/) [hay](/en/post/hay/) [production](/en/post/production/).
+  - [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[The](/en/post/the/) cows grazed peacefully [in](/en/post/in/) [the](/en/post/the/) lush [green](/en/post/green/) [meadow](/en/post/meadow/)."
   
 ## Phrases
-- "A field of dreams": This metaphorical phrase can refer to a meadow as a place of potential or promise, like in the film where a baseball diamond appears in a cornfield.
-- "Rolling meadows": This describes vast, undulating expanses of grassland that stretch across the landscape.
-- "Wildflower meadow": A natural habitat characterized by a variety of wildflowers, often maintained for their beauty and ecological benefits.
+- "[A](/en/post/a/) [field](/en/post/field/) [of](/en/post/of/) dreams": [This](/en/post/this/) metaphorical [phrase](/en/post/phrase/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [meadow](/en/post/meadow/) [as](/en/post/as/) [a](/en/post/a/) [place](/en/post/place/) [of](/en/post/of/) [potential](/en/post/potential/) [or](/en/post/or/) [promise](/en/post/promise/), [like](/en/post/like/) [in](/en/post/in/) [the](/en/post/the/) [film](/en/post/film/) [where](/en/post/where/) [a](/en/post/a/) baseball [diamond](/en/post/diamond/) appears [in](/en/post/in/) [a](/en/post/a/) cornfield.
+- "Rolling meadows": [This](/en/post/this/) describes [vast](/en/post/vast/), undulating expanses [of](/en/post/of/) grassland [that](/en/post/that/) [stretch](/en/post/stretch/) [across](/en/post/across/) [the](/en/post/the/) landscape.
+- "Wildflower [meadow](/en/post/meadow/)": [A](/en/post/a/) [natural](/en/post/natural/) habitat characterized [by](/en/post/by/) [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) wildflowers, [often](/en/post/often/) maintained [for](/en/post/for/) [their](/en/post/their/) [beauty](/en/post/beauty/) [and](/en/post/and/) ecological benefits.
 
-## Example Sentences
-- **Noun**: "The picnic was set up amidst the flowery meadow, with children running and playing under the sun."
-- "In the spring, the meadow comes alive with a kaleidoscope of blooming wildflowers."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [picnic](/en/post/picnic/) was [set](/en/post/set/) [up](/en/post/up/) amidst [the](/en/post/the/) flowery [meadow](/en/post/meadow/), [with](/en/post/with/) children running [and](/en/post/and/) playing [under](/en/post/under/) [the](/en/post/the/) [sun](/en/post/sun/)."
+- "[In](/en/post/in/) [the](/en/post/the/) [spring](/en/post/spring/), [the](/en/post/the/) [meadow](/en/post/meadow/) comes [alive](/en/post/alive/) [with](/en/post/with/) [a](/en/post/a/) kaleidoscope [of](/en/post/of/) blooming wildflowers."
 
 ## Synonyms
 - Grassland
-- Field
+- [Field](/en/post/field/)
 - Prairie
 - Pasture
 - Lea
 - Heath
 - Downs
-- Plain
-- Green
+- [Plain](/en/post/plain/)
+- [Green](/en/post/green/)

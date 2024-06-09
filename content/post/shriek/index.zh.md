@@ -11,20 +11,20 @@ keywords = ['ai words', 'shriek']
 /ʃriːk/
 
 ## 释义
-- **动词**: 发出尖锐刺耳的叫声；大声尖叫。例如: "She shrieked in terror when she saw the snake."
-- **名词**: 尖锐刺耳的叫声；尖叫。例如: "The child let out a shrill shriek of delight."
+- **动词**: 发出尖锐刺耳的叫声；大声尖叫。例如: "[She](/post/she/) shrieked [in](/post/in/) [terror](/post/terror/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [the](/post/the/) [snake](/post/snake/)."
+- **名词**: 尖锐刺耳的叫声；尖叫。例如: "[The](/post/the/) [child](/post/child/) [let](/post/let/) [out](/post/out/) [a](/post/a/) shrill [shriek](/post/shriek/) [of](/post/of/) [delight](/post/delight/)."
 
 ## 短语
-- "shriek with fear" 意为因恐惧而尖叫。
-- "in a shriek" 表示以尖叫声的方式。
+- "[shriek](/post/shriek/) [with](/post/with/) [fear](/post/fear/)" 意为因恐惧而尖叫。
+- "[in](/post/in/) [a](/post/a/) [shriek](/post/shriek/)" 表示以尖叫声的方式。
 
 ## 例句
-- 动词: "The girl shrieked when the fireworks exploded nearby."
-- 名词: "The sound of the siren was a loud, piercing shriek."
+- 动词: "[The](/post/the/) [girl](/post/girl/) shrieked [when](/post/when/) [the](/post/the/) fireworks exploded [nearby](/post/nearby/)."
+- 名词: "[The](/post/the/) [sound](/post/sound/) [of](/post/of/) [the](/post/the/) siren was [a](/post/a/) [loud](/post/loud/), piercing [shriek](/post/shriek/)."
 
 ## 同义词
-- Scream
-- Yell
-- Cry out
+- [Scream](/post/scream/)
+- [Yell](/post/yell/)
+- [Cry](/post/cry/) [out](/post/out/)
 - Screech
 - Howl

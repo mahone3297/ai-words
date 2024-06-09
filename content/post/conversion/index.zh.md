@@ -12,25 +12,25 @@ keywords = ['ai words', 'conversion']
 
 ## 释义
 - **名词**: 
-    - 转换；转变：从一种形式、状态、货币或价值变为另一种。例如: "The conversion of pounds to dollars."
-    - 转变过程：指事物或观念从一种形式或状态转变为另一种的过程。例如: "The conversion from analog to digital signals."
-    - 宗教皈依：指一个人改变宗教信仰的行为。例如: "His conversion to Christianity was a life-changing event."
+    - 转换；转变：从一种形式、状态、货币或价值变为另一种。例如: "[The](/post/the/) [conversion](/post/conversion/) [of](/post/of/) pounds [to](/post/to/) dollars."
+    - 转变过程：指事物或观念从一种形式或状态转变为另一种的过程。例如: "[The](/post/the/) [conversion](/post/conversion/) [from](/post/from/) analog [to](/post/to/) [digital](/post/digital/) signals."
+    - 宗教皈依：指一个人改变宗教信仰的行为。例如: "[His](/post/his/) [conversion](/post/conversion/) [to](/post/to/) Christianity was [a](/post/a/) life-changing [event](/post/event/)."
 
 - **动词**:
-    - 转换；转变：使某物变成另一物。例如: "We need to convert the file format for compatibility."
-    - 说服（某人）皈依：在宗教意义上，使某人接受新的信仰。例如: "Missionaries try to convert people to their religion."
+    - 转换；转变：使某物变成另一物。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [convert](/post/convert/) [the](/post/the/) [file](/post/file/) format [for](/post/for/) compatibility."
+    - 说服（某人）皈依：在宗教意义上，使某人接受新的信仰。例如: "Missionaries [try](/post/try/) [to](/post/to/) [convert](/post/convert/) [people](/post/people/) [to](/post/to/) [their](/post/their/) [religion](/post/religion/)."
 
 ## 短语
-- "Conversion rate" 指的是将潜在客户转化为实际购买者的比率。
-- "Currency conversion" 指货币之间的兑换。
+- "[Conversion](/post/conversion/) [rate](/post/rate/)" 指的是将潜在客户转化为实际购买者的比率。
+- "Currency [conversion](/post/conversion/)" 指货币之间的兑换。
 
 ## 例句
-- 名词: "The conversion of energy from one form to another is a fundamental principle in physics."
-- 动词: "She successfully converted the PDF file into a Word document."
+- 名词: "[The](/post/the/) [conversion](/post/conversion/) [of](/post/of/) [energy](/post/energy/) [from](/post/from/) [one](/post/one/) [form](/post/form/) [to](/post/to/) [another](/post/another/) is [a](/post/a/) [fundamental](/post/fundamental/) [principle](/post/principle/) [in](/post/in/) [physics](/post/physics/)."
+- 动词: "[She](/post/she/) [successfully](/post/successfully/) converted [the](/post/the/) PDF [file](/post/file/) [into](/post/into/) [a](/post/a/) [Word](/post/word/) [document](/post/document/)."
 
 ## 同义词
-- Transformation
+- [Transformation](/post/transformation/)
 - Alteration
 - Changeover
-- Switch
+- [Switch](/post/switch/)
 - Transmutation

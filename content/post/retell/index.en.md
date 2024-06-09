@@ -7,31 +7,31 @@ description = '[ˈriːˈtel] vt.再讲，重述，复述'
 keywords = ['ai words', 'retell']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈrɛtɛl/
 
 ## Definitions
-- **Verb**: To recount or repeat a story, event, or information after hearing it originally. It can also mean to rephrase or adapt the content. For example: "She retold the story in her own words."
-- **Noun**: A retelling, which is a restatement or reproduction of a narrative or account. For example: "The book contains several retellings of classic fairy tales."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) recount [or](/en/post/or/) [repeat](/en/post/repeat/) [a](/en/post/a/) [story](/en/post/story/), [event](/en/post/event/), [or](/en/post/or/) [information](/en/post/information/) [after](/en/post/after/) hearing [it](/en/post/it/) originally. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) rephrase [or](/en/post/or/) [adapt](/en/post/adapt/) [the](/en/post/the/) [content](/en/post/content/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) retold [the](/en/post/the/) [story](/en/post/story/) [in](/en/post/in/) [her](/en/post/her/) [own](/en/post/own/) words."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) retelling, [which](/en/post/which/) is [a](/en/post/a/) restatement [or](/en/post/or/) reproduction [of](/en/post/of/) [a](/en/post/a/) narrative [or](/en/post/or/) [account](/en/post/account/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) contains [several](/en/post/several/) retellings [of](/en/post/of/) classic fairy tales."
 
 ## Phrases
-- "Retell a tale" means to narrate a story again.
-- "He retold the legend with vivid detail."
-- "She gave a retelling of the day's events to her friends."
+- "[Retell](/en/post/retell/) [a](/en/post/a/) [tale](/en/post/tale/)" [means](/en/post/means/) [to](/en/post/to/) narrate [a](/en/post/a/) [story](/en/post/story/) [again](/en/post/again/).
+- "[He](/en/post/he/) retold [the](/en/post/the/) [legend](/en/post/legend/) [with](/en/post/with/) [vivid](/en/post/vivid/) [detail](/en/post/detail/)."
+- "[She](/en/post/she/) gave [a](/en/post/a/) retelling [of](/en/post/of/) [the](/en/post/the/) day's events [to](/en/post/to/) [her](/en/post/her/) friends."
 
-## Example Sentences
-- **Verb**: "After listening to the lecture, he retold the key points to his classmates."
-- **Noun**: "The movie was a visual retelling of the original novel."
-- **Adjective**: "Her retelling of the adventure had a magical touch."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) listening [to](/en/post/to/) [the](/en/post/the/) [lecture](/en/post/lecture/), [he](/en/post/he/) retold [the](/en/post/the/) [key](/en/post/key/) points [to](/en/post/to/) [his](/en/post/his/) classmates."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [movie](/en/post/movie/) was [a](/en/post/a/) [visual](/en/post/visual/) retelling [of](/en/post/of/) [the](/en/post/the/) [original](/en/post/original/) [novel](/en/post/novel/)."
+- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) retelling [of](/en/post/of/) [the](/en/post/the/) [adventure](/en/post/adventure/) had [a](/en/post/a/) magical [touch](/en/post/touch/)."
 
 ## Synonyms
 - Recount
-- Reproduce
+- [Reproduce](/en/post/reproduce/)
 - Reiterate
-- Relate
+- [Relate](/en/post/relate/)
 - Recapitulate
 
 ## Antonyms
-- Invent (as in creating a story from scratch)
-- Misrepresent (as in altering the original content)
-- Paraphrase (a slightly different wording, not necessarily a complete retelling)
+- [Invent](/en/post/invent/) ([as](/en/post/as/) [in](/en/post/in/) creating [a](/en/post/a/) [story](/en/post/story/) [from](/en/post/from/) [scratch](/en/post/scratch/))
+- Misrepresent ([as](/en/post/as/) [in](/en/post/in/) altering [the](/en/post/the/) [original](/en/post/original/) [content](/en/post/content/))
+- Paraphrase ([a](/en/post/a/) [slightly](/en/post/slightly/) [different](/en/post/different/) wording, [not](/en/post/not/) [necessarily](/en/post/necessarily/) [a](/en/post/a/) [complete](/en/post/complete/) retelling)

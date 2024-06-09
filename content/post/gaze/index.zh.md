@@ -11,20 +11,20 @@ keywords = ['ai words', 'gaze']
 /ɡeɪz/
 
 ## 释义
-- **名词**: 长时间专注地看，凝视。例如: "Her eyes were fixed in a curious gaze upon him."
-- **动词**: 目不转睛地看，盯着看。例如: "He gazed at the stars for hours."
+- **名词**: 长时间专注地看，凝视。例如: "[Her](/post/her/) eyes were fixed [in](/post/in/) [a](/post/a/) [curious](/post/curious/) [gaze](/post/gaze/) [upon](/post/upon/) [him](/post/him/)."
+- **动词**: 目不转睛地看，盯着看。例如: "[He](/post/he/) gazed [at](/post/at/) [the](/post/the/) stars [for](/post/for/) hours."
 
 ## 短语
-- "gaze upon" 意味着注视，盯着看。例如: "She gazed upon the beautiful painting."
-- "in a trance-like gaze" 表示出神地看。例如: "He sat there with a blank, trance-like gaze."
+- "[gaze](/post/gaze/) [upon](/post/upon/)" 意味着注视，盯着看。例如: "[She](/post/she/) gazed [upon](/post/upon/) [the](/post/the/) [beautiful](/post/beautiful/) [painting](/post/painting/)."
+- "[in](/post/in/) [a](/post/a/) trance-like [gaze](/post/gaze/)" 表示出神地看。例如: "[He](/post/he/) sat [there](/post/there/) [with](/post/with/) [a](/post/a/) [blank](/post/blank/), trance-like [gaze](/post/gaze/)."
 
 ## 例句
-- 名词: "His intense gaze made her feel uncomfortable."
-- 动词: "She gazed at the sunset, lost in thought."
+- 名词: "[His](/post/his/) [intense](/post/intense/) [gaze](/post/gaze/) made [her](/post/her/) [feel](/post/feel/) [uncomfortable](/post/uncomfortable/)."
+- 动词: "[She](/post/she/) gazed [at](/post/at/) [the](/post/the/) [sunset](/post/sunset/), lost [in](/post/in/) [thought](/post/thought/)."
 
 ## 同义词
-- stare
-- look
+- [stare](/post/stare/)
+- [look](/post/look/)
 - behold
-- fix one's eyes on
+- [fix](/post/fix/) one's eyes [on](/post/on/)
 - peer

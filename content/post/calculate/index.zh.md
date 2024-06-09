@@ -11,20 +11,20 @@ keywords = ['ai words', 'calculate']
 /ˈkælkjuleɪt/
 
 ## 释义
-- **动词**: 计算，估算。例如: "Please calculate the total cost of the items."
-- **名词**: 计算过程，计算结果。例如: "The calculate showed that the project would take six months."
+- **动词**: 计算，估算。例如: "[Please](/post/please/) [calculate](/post/calculate/) [the](/post/the/) [total](/post/total/) [cost](/post/cost/) [of](/post/of/) [the](/post/the/) items."
+- **名词**: 计算过程，计算结果。例如: "[The](/post/the/) [calculate](/post/calculate/) showed [that](/post/that/) [the](/post/the/) [project](/post/project/) [would](/post/would/) [take](/post/take/) [six](/post/six/) months."
 
 ## 短语
-- "Calculate the risk" 意味着评估风险。
-- "To calculate something precisely" 表示精确计算某事。
+- "[Calculate](/post/calculate/) [the](/post/the/) [risk](/post/risk/)" 意味着评估风险。
+- "[To](/post/to/) [calculate](/post/calculate/) [something](/post/something/) precisely" 表示精确计算某事。
 
 ## 例句
-- 动词: "I need to calculate how much paint I'll need for the walls."
-- 名词: "The calculate was based on an average income of $50,000 per year."
+- 动词: "I [need](/post/need/) [to](/post/to/) [calculate](/post/calculate/) [how](/post/how/) [much](/post/much/) [paint](/post/paint/) I'll [need](/post/need/) [for](/post/for/) [the](/post/the/) walls."
+- 名词: "[The](/post/the/) [calculate](/post/calculate/) was based [on](/post/on/) an [average](/post/average/) [income](/post/income/) [of](/post/of/) $50,000 [per](/post/per/) [year](/post/year/)."
 
 ## 同义词
-- Compute
-- Figure out
-- Estimate
-- Determine
+- [Compute](/post/compute/)
+- [Figure](/post/figure/) [out](/post/out/)
+- [Estimate](/post/estimate/)
+- [Determine](/post/determine/)
 - Crunch numbers

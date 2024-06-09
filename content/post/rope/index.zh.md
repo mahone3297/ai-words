@@ -11,20 +11,20 @@ keywords = ['ai words', 'rope']
 /roʊp/
 
 ## 释义
-- **名词 (n)**: 一种由纤维、绳索或金属线编织而成的粗厚长条，用于牵引、绑扎或悬挂等。例如: "He used a strong rope to tie up the packages."
-- **动词 (v)**: 用绳子捆绑或拉紧。例如: "She carefully roped the tent to the ground to secure it."
+- **名词 (n)**: 一种由纤维、绳索或金属线编织而成的粗厚长条，用于牵引、绑扎或悬挂等。例如: "[He](/post/he/) [used](/post/used/) [a](/post/a/) [strong](/post/strong/) [rope](/post/rope/) [to](/post/to/) [tie](/post/tie/) [up](/post/up/) [the](/post/the/) packages."
+- **动词 (v)**: 用绳子捆绑或拉紧。例如: "[She](/post/she/) carefully roped [the](/post/the/) [tent](/post/tent/) [to](/post/to/) [the](/post/the/) [ground](/post/ground/) [to](/post/to/) [secure](/post/secure/) [it](/post/it/)."
 
 ## 短语
-- "tie up with ropes" 意思是用绳子捆绑。
-- "rope in" 意为吸引或说服某人加入一个活动或计划。例如: "They managed to rope in several volunteers for the event."
+- "[tie](/post/tie/) [up](/post/up/) [with](/post/with/) ropes" 意思是用绳子捆绑。
+- "[rope](/post/rope/) [in](/post/in/)" 意为吸引或说服某人加入一个活动或计划。例如: "[They](/post/they/) managed [to](/post/to/) [rope](/post/rope/) [in](/post/in/) [several](/post/several/) volunteers [for](/post/for/) [the](/post/the/) [event](/post/event/)."
 
 ## 例句
-- 名词: "The cowboy skillfully lassoed the calf with a long rope."
-- 动词: "The rescue team quickly roped the stranded climber to safety."
+- 名词: "[The](/post/the/) cowboy skillfully lassoed [the](/post/the/) calf [with](/post/with/) [a](/post/a/) [long](/post/long/) [rope](/post/rope/)."
+- 动词: "[The](/post/the/) [rescue](/post/rescue/) [team](/post/team/) [quickly](/post/quickly/) roped [the](/post/the/) stranded climber [to](/post/to/) [safety](/post/safety/)."
 
 ## 同义词
-- Cord
-- String
-- Line
+- [Cord](/post/cord/)
+- [String](/post/string/)
+- [Line](/post/line/)
 - Twine
-- Chain (在某些情况下，尤其是指牢固的连接时)
+- [Chain](/post/chain/) (在某些情况下，尤其是指牢固的连接时)

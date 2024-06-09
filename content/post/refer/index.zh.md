@@ -12,22 +12,22 @@ keywords = ['ai words', 'refer']
 
 ## 释义
 - **动词**:
-  - **指涉, 引用**: 提到或涉及（某事或某人），如 "The book refers to several historical events."
-  - **咨询, 查阅**: 查找或咨询（资料、信息等）。例如: "I'll have to refer to my notes for the answer."
-  - **推荐, 指派**: 将（病人、客户等）介绍给他人，如 "The doctor referred me to a specialist."
+  - **指涉, 引用**: 提到或涉及（某事或某人），如 "[The](/post/the/) [book](/post/book/) refers [to](/post/to/) [several](/post/several/) [historical](/post/historical/) events."
+  - **咨询, 查阅**: 查找或咨询（资料、信息等）。例如: "I'll [have](/post/have/) [to](/post/to/) [refer](/post/refer/) [to](/post/to/) [my](/post/my/) notes [for](/post/for/) [the](/post/the/) [answer](/post/answer/)."
+  - **推荐, 指派**: 将（病人、客户等）介绍给他人，如 "[The](/post/the/) [doctor](/post/doctor/) referred [me](/post/me/) [to](/post/to/) [a](/post/a/) [specialist](/post/specialist/)."
 
 ## 短语
-- "refer to something" 意为提及或参考某事物。
-- "refer someone to someone else" 意为将某人推荐或转介给另一个人。
+- "[refer](/post/refer/) [to](/post/to/) [something](/post/something/)" 意为提及或参考某事物。
+- "[refer](/post/refer/) [someone](/post/someone/) [to](/post/to/) [someone](/post/someone/) [else](/post/else/)" 意为将某人推荐或转介给另一个人。
 
 ## 例句
-- 动词（指涉）: "In his speech, he frequently referred to the importance of teamwork."
-- 动词（咨询）: "When in doubt, always refer back to the original source."
-- 动词（推荐）: "The dentist referred me to an orthodontist for further treatment."
+- 动词（指涉）: "[In](/post/in/) [his](/post/his/) [speech](/post/speech/), [he](/post/he/) [frequently](/post/frequently/) referred [to](/post/to/) [the](/post/the/) [importance](/post/importance/) [of](/post/of/) teamwork."
+- 动词（咨询）: "[When](/post/when/) [in](/post/in/) [doubt](/post/doubt/), [always](/post/always/) [refer](/post/refer/) [back](/post/back/) [to](/post/to/) [the](/post/the/) [original](/post/original/) [source](/post/source/)."
+- 动词（推荐）: "[The](/post/the/) dentist referred [me](/post/me/) [to](/post/to/) an orthodontist [for](/post/for/) [further](/post/further/) [treatment](/post/treatment/)."
 
 ## 同义词
-- mention
+- [mention](/post/mention/)
 - cite
-- consult
-- direct
-- recommend
+- [consult](/post/consult/)
+- [direct](/post/direct/)
+- [recommend](/post/recommend/)

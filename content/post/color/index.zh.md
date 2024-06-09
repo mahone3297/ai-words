@@ -12,25 +12,25 @@ keywords = ['ai words', 'color']
 
 ## 释义
 - **名词 n**:
-  - 色彩，颜色：The color of the sky can be various shades of blue.
-  - (皮肤)肤色：People come in all different colors.
-  - 情绪，气氛：The event had an air of excitement and color.
+  - 色彩，颜色：[The](/post/the/) [color](/post/color/) [of](/post/of/) [the](/post/the/) [sky](/post/sky/) [can](/post/can/) [be](/post/be/) [various](/post/various/) shades [of](/post/of/) [blue](/post/blue/).
+  - (皮肤)肤色：[People](/post/people/) [come](/post/come/) [in](/post/in/) [all](/post/all/) [different](/post/different/) colors.
+  - 情绪，气氛：[The](/post/the/) [event](/post/event/) had an [air](/post/air/) [of](/post/of/) excitement [and](/post/and/) [color](/post/color/).
 
 - **形容词 adj**:
-  - 有颜色的，有色的：The dress comes in several colorful designs.
-  - 具有某种特征的：The story was full of color and detail.
+  - 有颜色的，有色的：[The](/post/the/) [dress](/post/dress/) comes [in](/post/in/) [several](/post/several/) colorful designs.
+  - 具有某种特征的：[The](/post/the/) [story](/post/story/) was [full](/post/full/) [of](/post/of/) [color](/post/color/) [and](/post/and/) [detail](/post/detail/).
 
 ## 短语
-- "In color" 表示彩色的，如 "The old movie is now available in color."
-- "Colorful language" 指生动或粗俗的措辞。
+- "[In](/post/in/) [color](/post/color/)" 表示彩色的，如 "[The](/post/the/) [old](/post/old/) [movie](/post/movie/) is [now](/post/now/) [available](/post/available/) [in](/post/in/) [color](/post/color/)."
+- "Colorful [language](/post/language/)" 指生动或粗俗的措辞。
 
 ## 例句
-- 名词: "The artist used a rich palette of colors in her painting."
-- 形容词: "The festival was celebrated with colorful parades and costumes."
+- 名词: "[The](/post/the/) [artist](/post/artist/) [used](/post/used/) [a](/post/a/) [rich](/post/rich/) palette [of](/post/of/) colors [in](/post/in/) [her](/post/her/) [painting](/post/painting/)."
+- 形容词: "[The](/post/the/) [festival](/post/festival/) was celebrated [with](/post/with/) colorful parades [and](/post/and/) costumes."
 
 ## 同义词
 - hue
 - tint
-- shade
+- [shade](/post/shade/)
 - pigment
 - chroma

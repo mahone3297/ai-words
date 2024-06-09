@@ -7,37 +7,37 @@ description = '[səbˈməːdʒ] vt.浸没 vi.潜入水中'
 keywords = ['ai words', 'submerge']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /subˈmɜːrɡ/
 
 ## Definitions
-### Verb
-- **Verb**: To immerse completely in a liquid, such as water, or to bury or cover something under a liquid. "The diver submersed herself in the deep ocean."
-- **Verb**: To absorb or absorb oneself in an activity, emotion, or situation. "She submerged herself in her work, ignoring the outside world."
+### [Verb](/en/post/verb/)
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) immerse [completely](/en/post/completely/) [in](/en/post/in/) [a](/en/post/a/) [liquid](/en/post/liquid/), [such](/en/post/such/) [as](/en/post/as/) [water](/en/post/water/), [or](/en/post/or/) [to](/en/post/to/) [bury](/en/post/bury/) [or](/en/post/or/) [cover](/en/post/cover/) [something](/en/post/something/) [under](/en/post/under/) [a](/en/post/a/) [liquid](/en/post/liquid/). "[The](/en/post/the/) diver submersed [herself](/en/post/herself/) [in](/en/post/in/) [the](/en/post/the/) [deep](/en/post/deep/) [ocean](/en/post/ocean/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [absorb](/en/post/absorb/) [or](/en/post/or/) [absorb](/en/post/absorb/) [oneself](/en/post/oneself/) [in](/en/post/in/) an [activity](/en/post/activity/), [emotion](/en/post/emotion/), [or](/en/post/or/) [situation](/en/post/situation/). "[She](/en/post/she/) submerged [herself](/en/post/herself/) [in](/en/post/in/) [her](/en/post/her/) [work](/en/post/work/), ignoring [the](/en/post/the/) [outside](/en/post/outside/) [world](/en/post/world/)."
 
 ## Phrases
-- "Submerge underwater" means to go beneath the surface of a body of water.
-- "Submerged car" refers to a vehicle that is fully or partially covered by water.
-- "Submerge oneself in thought" means to become deeply absorbed in one's thoughts.
+- "[Submerge](/en/post/submerge/) underwater" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [beneath](/en/post/beneath/) [the](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [a](/en/post/a/) [body](/en/post/body/) [of](/en/post/of/) [water](/en/post/water/).
+- "Submerged [car](/en/post/car/)" refers [to](/en/post/to/) [a](/en/post/a/) [vehicle](/en/post/vehicle/) [that](/en/post/that/) is fully [or](/en/post/or/) [partially](/en/post/partially/) covered [by](/en/post/by/) [water](/en/post/water/).
+- "[Submerge](/en/post/submerge/) [oneself](/en/post/oneself/) [in](/en/post/in/) [thought](/en/post/thought/)" [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) deeply absorbed [in](/en/post/in/) one's thoughts.
 
-## Example Sentences
-- **Verb (immersion)**: "The submarine submersed itself to explore the ocean floor."
-- **Verb (absorption)**: "After a long day, she liked to submerge herself in a good book."
-- **Phrasal verb**: "The hiker had to submerge themselves in the icy river to cross."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/) (immersion)**: "[The](/en/post/the/) [submarine](/en/post/submarine/) submersed [itself](/en/post/itself/) [to](/en/post/to/) [explore](/en/post/explore/) [the](/en/post/the/) [ocean](/en/post/ocean/) [floor](/en/post/floor/)."
+- **[Verb](/en/post/verb/) (absorption)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [day](/en/post/day/), [she](/en/post/she/) liked [to](/en/post/to/) [submerge](/en/post/submerge/) [herself](/en/post/herself/) [in](/en/post/in/) [a](/en/post/a/) [good](/en/post/good/) [book](/en/post/book/)."
+- **Phrasal [verb](/en/post/verb/)**: "[The](/en/post/the/) hiker had [to](/en/post/to/) [submerge](/en/post/submerge/) [themselves](/en/post/themselves/) [in](/en/post/in/) [the](/en/post/the/) icy [river](/en/post/river/) [to](/en/post/to/) [cross](/en/post/cross/)."
 
 ## Synonyms
-- Drown
+- [Drown](/en/post/drown/)
 - Immerse
-- Sink
-- Penetrate
-- Plunge
+- [Sink](/en/post/sink/)
+- [Penetrate](/en/post/penetrate/)
+- [Plunge](/en/post/plunge/)
 
 ## Antonyms
-- Surface
-- Emerge
-- Rise
-- Float
-- Expose
+- [Surface](/en/post/surface/)
+- [Emerge](/en/post/emerge/)
+- [Rise](/en/post/rise/)
+- [Float](/en/post/float/)
+- [Expose](/en/post/expose/)
 
-## Usage
-In sentences, "submerge" is often used to describe physical immersion or the act of becoming deeply involved in something. It can also be used metaphorically to convey the idea of being absorbed in a task or emotion.
+## [Usage](/en/post/usage/)
+[In](/en/post/in/) sentences, "[submerge](/en/post/submerge/)" is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [physical](/en/post/physical/) immersion [or](/en/post/or/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) becoming deeply involved [in](/en/post/in/) [something](/en/post/something/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [convey](/en/post/convey/) [the](/en/post/the/) [idea](/en/post/idea/) [of](/en/post/of/) [being](/en/post/being/) absorbed [in](/en/post/in/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [emotion](/en/post/emotion/).

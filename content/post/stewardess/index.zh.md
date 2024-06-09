@@ -11,20 +11,20 @@ keywords = ['ai words', 'stewardess']
 /stuːˈɑːrdɛs/
 
 ## 释义
-- **名词 (n)**: 女乘务员，通常指在飞机上负责乘客服务和安全的女性工作人员。例如: "The stewardess demonstrated how to use the safety equipment."
+- **名词 (n)**: 女乘务员，通常指在飞机上负责乘客服务和安全的女性工作人员。例如: "[The](/post/the/) [stewardess](/post/stewardess/) demonstrated [how](/post/how/) [to](/post/to/) [use](/post/use/) [the](/post/the/) [safety](/post/safety/) [equipment](/post/equipment/)."
 - **名词 (n)**: 在某些场合下，也指火车、轮船或其他交通工具上的女服务员。
 
 ## 短语
-- "Stewardess service" 指的是由空姐提供的服务。
-- "In-flight stewardess" 特指在飞行中工作的空姐。
+- "[Stewardess](/post/stewardess/) [service](/post/service/)" 指的是由空姐提供的服务。
+- "In-flight [stewardess](/post/stewardess/)" 特指在飞行中工作的空姐。
 
 ## 例句
-- "The stewardess was very friendly and attentive throughout the flight."
-- "She aspired to become an international stewardess to travel the world."
+- "[The](/post/the/) [stewardess](/post/stewardess/) was [very](/post/very/) [friendly](/post/friendly/) [and](/post/and/) [attentive](/post/attentive/) [throughout](/post/throughout/) [the](/post/the/) [flight](/post/flight/)."
+- "[She](/post/she/) aspired [to](/post/to/) [become](/post/become/) an [international](/post/international/) [stewardess](/post/stewardess/) [to](/post/to/) [travel](/post/travel/) [the](/post/the/) [world](/post/world/)."
 
 ## 同义词
-- Flight attendant
-- Air hostess
-- Cabin crew
+- [Flight](/post/flight/) attendant
+- [Air](/post/air/) [hostess](/post/hostess/)
+- [Cabin](/post/cabin/) [crew](/post/crew/)
 - Attendant
-- Hostess
+- [Hostess](/post/hostess/)

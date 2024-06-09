@@ -7,28 +7,28 @@ description = '[ˈnjuːsns] n.讨厌的东西'
 keywords = ['ai words', 'nuisance']
 +++
 
-## Word: Nuisance
+## [Word](/en/post/word/): [Nuisance](/en/post/nuisance/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈnjuːsns/
 
 ## Definitions
-- **Noun**: A person or thing causing inconvenience, annoyance, or discomfort, especially one that is difficult to get rid of or avoid. For example: "The noisy neighbors are a real nuisance."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [thing](/en/post/thing/) causing inconvenience, annoyance, [or](/en/post/or/) discomfort, [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is [difficult](/en/post/difficult/) [to](/en/post/to/) [get](/en/post/get/) [rid](/en/post/rid/) [of](/en/post/of/) [or](/en/post/or/) [avoid](/en/post/avoid/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [noisy](/en/post/noisy/) neighbors are [a](/en/post/a/) [real](/en/post/real/) [nuisance](/en/post/nuisance/)."
   
-  > _"The constant barking of the neighbor's dog has become quite the nuisance."_
+  > _"[The](/en/post/the/) [constant](/en/post/constant/) barking [of](/en/post/of/) [the](/en/post/the/) neighbor's [dog](/en/post/dog/) has [become](/en/post/become/) [quite](/en/post/quite/) [the](/en/post/the/) [nuisance](/en/post/nuisance/)."_
   
-- **Verb (usu. in passive form)**: To cause inconvenience or annoyance to someone. For example: "The construction work is nuisanced by frequent power outages."
+- **[Verb](/en/post/verb/) (usu. [in](/en/post/in/) [passive](/en/post/passive/) [form](/en/post/form/))**: [To](/en/post/to/) [cause](/en/post/cause/) inconvenience [or](/en/post/or/) annoyance [to](/en/post/to/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [construction](/en/post/construction/) [work](/en/post/work/) is nuisanced [by](/en/post/by/) [frequent](/en/post/frequent/) [power](/en/post/power/) outages."
   
-  > _"My sleep is being continually nuisanced by the bright streetlights outside my bedroom window."_
+  > _"[My](/en/post/my/) [sleep](/en/post/sleep/) is [being](/en/post/being/) continually nuisanced [by](/en/post/by/) [the](/en/post/the/) [bright](/en/post/bright/) streetlights [outside](/en/post/outside/) [my](/en/post/my/) bedroom [window](/en/post/window/)."_
 
 ## Phrases
-- "Public nuisance": An activity or condition that disturbs the public peace or causes offense, danger, or damage to the community.
-- "A pain in the neck": An informal expression often used to describe a person who is considered a nuisance or irritation.
-- "To abate a nuisance": To take action to stop or remove something that is causing a nuisance.
+- "[Public](/en/post/public/) [nuisance](/en/post/nuisance/)": An [activity](/en/post/activity/) [or](/en/post/or/) [condition](/en/post/condition/) [that](/en/post/that/) disturbs [the](/en/post/the/) [public](/en/post/public/) [peace](/en/post/peace/) [or](/en/post/or/) causes offense, [danger](/en/post/danger/), [or](/en/post/or/) [damage](/en/post/damage/) [to](/en/post/to/) [the](/en/post/the/) [community](/en/post/community/).
+- "[A](/en/post/a/) [pain](/en/post/pain/) [in](/en/post/in/) [the](/en/post/the/) [neck](/en/post/neck/)": An informal [expression](/en/post/expression/) [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is considered [a](/en/post/a/) [nuisance](/en/post/nuisance/) [or](/en/post/or/) irritation.
+- "[To](/en/post/to/) abate [a](/en/post/a/) [nuisance](/en/post/nuisance/)": [To](/en/post/to/) [take](/en/post/take/) [action](/en/post/action/) [to](/en/post/to/) [stop](/en/post/stop/) [or](/en/post/or/) [remove](/en/post/remove/) [something](/en/post/something/) [that](/en/post/that/) is causing [a](/en/post/a/) [nuisance](/en/post/nuisance/).
 
-## Example Sentences
-- **Noun**: "The leaky faucet was such a nuisance that it kept me up all night."
-- **Verb**: "The traffic jam during rush hour really nuisances my daily commute."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) leaky faucet was [such](/en/post/such/) [a](/en/post/a/) [nuisance](/en/post/nuisance/) [that](/en/post/that/) [it](/en/post/it/) kept [me](/en/post/me/) [up](/en/post/up/) [all](/en/post/all/) [night](/en/post/night/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [traffic](/en/post/traffic/) [jam](/en/post/jam/) [during](/en/post/during/) [rush](/en/post/rush/) [hour](/en/post/hour/) [really](/en/post/really/) nuisances [my](/en/post/my/) [daily](/en/post/daily/) commute."
 
 ## Synonyms
 - Annoyance
@@ -39,5 +39,5 @@ keywords = ['ai words', 'nuisance']
 - Pest
 - Intrusion
 - Inconvenience
-- bother
-- trouble
+- [bother](/en/post/bother/)
+- [trouble](/en/post/trouble/)

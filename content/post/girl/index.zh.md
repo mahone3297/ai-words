@@ -11,20 +11,20 @@ keywords = ['ai words', 'girl']
 /ɡɜːrl/
 
 ## 释义
-- **名词 (n)**: 女孩，年轻的未婚女子。例如: "The little girl was playing in the park."
-- **形容词 (adj)**: 女性的，少女般的。例如: "She still has a girl-next-door charm."
+- **名词 (n)**: 女孩，年轻的未婚女子。例如: "[The](/post/the/) [little](/post/little/) [girl](/post/girl/) was playing [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **形容词 (adj)**: 女性的，少女般的。例如: "[She](/post/she/) [still](/post/still/) has [a](/post/a/) girl-next-door charm."
 
 ## 短语
-- "Girl power" 表示女性的力量或自信。
-- "A girl's best friend" 通常指的是钻石，象征珍贵的友谊。
+- "[Girl](/post/girl/) [power](/post/power/)" 表示女性的力量或自信。
+- "[A](/post/a/) girl's [best](/post/best/) [friend](/post/friend/)" 通常指的是钻石，象征珍贵的友谊。
 
 ## 例句
-- 名词: "My sister just had a baby girl."
-- 形容词: "The girl band showed off their girl power on stage."
+- 名词: "[My](/post/my/) [sister](/post/sister/) [just](/post/just/) had [a](/post/a/) [baby](/post/baby/) [girl](/post/girl/)."
+- 形容词: "[The](/post/the/) [girl](/post/girl/) [band](/post/band/) showed [off](/post/off/) [their](/post/their/) [girl](/post/girl/) [power](/post/power/) [on](/post/on/) [stage](/post/stage/)."
 
 ## 同义词
-- Female
-- Woman
-- Lady
+- [Female](/post/female/)
+- [Woman](/post/woman/)
+- [Lady](/post/lady/)
 - Maiden
 - Gal

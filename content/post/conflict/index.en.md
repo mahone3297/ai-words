@@ -7,26 +7,26 @@ description = '[ˈkɔnflikt] n.争论；冲突；斗争'
 keywords = ['ai words', 'conflict']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈkɑːnflɪkt/
 
 ## Definitions
-- **Noun**: A disagreement or clash between people, groups, or principles, often involving opposing views or actions. For example: "The team's conflict over strategy led to a loss."
-- **Verb**: To come into opposition or disagreement with; to clash. For example: "Their opinions conflicted on the issue."
-- **Adjective**: Characterized by or causing disagreement or strife. For example: "A conflict-resolution workshop."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) disagreement [or](/en/post/or/) clash [between](/en/post/between/) [people](/en/post/people/), groups, [or](/en/post/or/) principles, [often](/en/post/often/) involving opposing views [or](/en/post/or/) actions. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) team's [conflict](/en/post/conflict/) [over](/en/post/over/) [strategy](/en/post/strategy/) led [to](/en/post/to/) [a](/en/post/a/) [loss](/en/post/loss/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [come](/en/post/come/) [into](/en/post/into/) opposition [or](/en/post/or/) disagreement [with](/en/post/with/); [to](/en/post/to/) clash. [For](/en/post/for/) [example](/en/post/example/): "[Their](/en/post/their/) opinions conflicted [on](/en/post/on/) [the](/en/post/the/) [issue](/en/post/issue/)."
+- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) causing disagreement [or](/en/post/or/) strife. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) conflict-resolution [workshop](/en/post/workshop/)."
 
 ## Phrases
-- "Conflict of interest" refers to a situation where a person has competing loyalties or obligations.
-- "Avoiding conflict" means steering clear of situations that might lead to disagreements.
-- "Peaceful resolution of conflict" refers to finding a solution without violence.
+- "[Conflict](/en/post/conflict/) [of](/en/post/of/) [interest](/en/post/interest/)" refers [to](/en/post/to/) [a](/en/post/a/) [situation](/en/post/situation/) [where](/en/post/where/) [a](/en/post/a/) [person](/en/post/person/) has competing loyalties [or](/en/post/or/) obligations.
+- "Avoiding [conflict](/en/post/conflict/)" [means](/en/post/means/) steering [clear](/en/post/clear/) [of](/en/post/of/) situations [that](/en/post/that/) [might](/en/post/might/) [lead](/en/post/lead/) [to](/en/post/to/) disagreements.
+- "[Peaceful](/en/post/peaceful/) [resolution](/en/post/resolution/) [of](/en/post/of/) [conflict](/en/post/conflict/)" refers [to](/en/post/to/) [finding](/en/post/finding/) [a](/en/post/a/) [solution](/en/post/solution/) [without](/en/post/without/) [violence](/en/post/violence/).
 
-## Example Sentences
-- **Noun**: "The company's management conflict was widely discussed in the media."
-- **Verb**: "Their personal lives seemed to conflict with their professional goals."
-- **Adjective**: "Her decision-making process was marked by a conflict of values."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's [management](/en/post/management/) [conflict](/en/post/conflict/) was [widely](/en/post/widely/) discussed [in](/en/post/in/) [the](/en/post/the/) media."
+- **[Verb](/en/post/verb/)**: "[Their](/en/post/their/) [personal](/en/post/personal/) lives seemed [to](/en/post/to/) [conflict](/en/post/conflict/) [with](/en/post/with/) [their](/en/post/their/) [professional](/en/post/professional/) goals."
+- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) decision-making [process](/en/post/process/) was marked [by](/en/post/by/) [a](/en/post/a/) [conflict](/en/post/conflict/) [of](/en/post/of/) values."
 
 ## Synonyms
-- Dispute
+- [Dispute](/en/post/dispute/)
 - Clash
 - Strife
 - Tension

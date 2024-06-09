@@ -11,20 +11,20 @@ keywords = ['ai words', 'heroic']
 /hɪˈrəʊɪk/
 
 ## 释义
-- **形容词**: 具有英雄气概的；英勇的；非凡的。例如: "His heroic actions saved many lives."
-- **名词**: 英雄；勇士。例如: "The novel tells the story of a heroic knight."
+- **形容词**: 具有英雄气概的；英勇的；非凡的。例如: "[His](/post/his/) [heroic](/post/heroic/) actions saved [many](/post/many/) lives."
+- **名词**: 英雄；勇士。例如: "[The](/post/the/) [novel](/post/novel/) tells [the](/post/the/) [story](/post/story/) [of](/post/of/) [a](/post/a/) [heroic](/post/heroic/) knight."
 
 ## 短语
-- "heroic deeds" 指的是英勇的行为或事迹。
-- "in a heroic manner" 表示以英勇的方式。
+- "[heroic](/post/heroic/) deeds" 指的是英勇的行为或事迹。
+- "[in](/post/in/) [a](/post/a/) [heroic](/post/heroic/) [manner](/post/manner/)" 表示以英勇的方式。
 
 ## 例句
-- 形容词: "The firefighter displayed extraordinary bravery, performing a heroic rescue."
-- 名词: "He became a national hero after his selfless act."
+- 形容词: "[The](/post/the/) firefighter displayed [extraordinary](/post/extraordinary/) bravery, performing [a](/post/a/) [heroic](/post/heroic/) [rescue](/post/rescue/)."
+- 名词: "[He](/post/he/) became [a](/post/a/) [national](/post/national/) [hero](/post/hero/) [after](/post/after/) [his](/post/his/) selfless [act](/post/act/)."
 
 ## 同义词
 - Courageous
 - Valiant
-- Brave
+- [Brave](/post/brave/)
 - Gallant
 - Fearless

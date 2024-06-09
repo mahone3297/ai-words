@@ -11,20 +11,20 @@ keywords = ['ai words', 'formal']
 /fərˈməl/
 
 ## 释义
-- **形容词**: 符合正式场合的；有礼节的；正规的。例如: "They attended a formal dinner party."
-- **副词**: 正式地；依照规定。例如: "The speech was delivered formally."
+- **形容词**: 符合正式场合的；有礼节的；正规的。例如: "[They](/post/they/) attended [a](/post/a/) [formal](/post/formal/) [dinner](/post/dinner/) [party](/post/party/)."
+- **副词**: 正式地；依照规定。例如: "[The](/post/the/) [speech](/post/speech/) was delivered formally."
 
 ## 短语
-- "formal dress" 指正式的礼服或晚装。
-- "formal occasion" 指正式的场合或活动。
+- "[formal](/post/formal/) [dress](/post/dress/)" 指正式的礼服或晚装。
+- "[formal](/post/formal/) [occasion](/post/occasion/)" 指正式的场合或活动。
 
 ## 例句
-- 形容词: "She wore a beautiful formal gown to the charity ball."
-- 副词: "The students addressed their teachers formally in class."
+- 形容词: "[She](/post/she/) wore [a](/post/a/) [beautiful](/post/beautiful/) [formal](/post/formal/) [gown](/post/gown/) [to](/post/to/) [the](/post/the/) [charity](/post/charity/) [ball](/post/ball/)."
+- 副词: "[The](/post/the/) students addressed [their](/post/their/) teachers formally [in](/post/in/) [class](/post/class/)."
 
 ## 同义词
-- Official
+- [Official](/post/official/)
 - Formality
-- Rigid
-- Conventional
-- Stiff
+- [Rigid](/post/rigid/)
+- [Conventional](/post/conventional/)
+- [Stiff](/post/stiff/)

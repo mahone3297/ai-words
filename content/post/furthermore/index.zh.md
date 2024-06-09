@@ -11,17 +11,17 @@ keywords = ['ai words', 'furthermore']
 /fərˈfurthermoʊ/
 
 ## 释义
-- **连词**: 表示添加更多的信息，意为“此外”、“而且”。例如: "The project was challenging, furthermore, it required extensive research."
+- **连词**: 表示添加更多的信息，意为“此外”、“而且”。例如: "[The](/post/the/) [project](/post/project/) was challenging, [furthermore](/post/furthermore/), [it](/post/it/) required [extensive](/post/extensive/) [research](/post/research/)."
 
 ## 短语
-- "Furthermore, there are other factors to consider." 意为“除此之外，还有其他因素需要考虑。”
+- "[Furthermore](/post/furthermore/), [there](/post/there/) are [other](/post/other/) factors [to](/post/to/) [consider](/post/consider/)." 意为“除此之外，还有其他因素需要考虑。”
 
 ## 例句
-- "The assignment was already difficult, furthermore, the deadline was unexpectedly moved up."
+- "[The](/post/the/) [assignment](/post/assignment/) was [already](/post/already/) [difficult](/post/difficult/), [furthermore](/post/furthermore/), [the](/post/the/) deadline was unexpectedly moved [up](/post/up/)."
 
 ## 同义词
-- Moreover
+- [Moreover](/post/moreover/)
 - Additionally
-- Besides
-- In addition
-- Also
+- [Besides](/post/besides/)
+- [In](/post/in/) [addition](/post/addition/)
+- [Also](/post/also/)

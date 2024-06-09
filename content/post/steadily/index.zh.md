@@ -11,21 +11,21 @@ keywords = ['ai words', 'steadily']
 /stiːdli/
 
 ## 释义
-- **副词**: 稳定地，持续地，有规律地。例如: "The stock market has been rising steadily over the past year."
-- **形容词**: 稳定的，不变的。例如: "He has a steady job with good prospects."
+- **副词**: 稳定地，持续地，有规律地。例如: "[The](/post/the/) [stock](/post/stock/) [market](/post/market/) has been rising [steadily](/post/steadily/) [over](/post/over/) [the](/post/the/) [past](/post/past/) [year](/post/year/)."
+- **形容词**: 稳定的，不变的。例如: "[He](/post/he/) has [a](/post/a/) [steady](/post/steady/) [job](/post/job/) [with](/post/with/) [good](/post/good/) prospects."
 
 ## 短语
-- "steady growth" 指的是稳定增长。
-- "steady progress" 意味着持续的进步。
-- "in a steady manner" 表示以稳定的方式。
+- "[steady](/post/steady/) [growth](/post/growth/)" 指的是稳定增长。
+- "[steady](/post/steady/) [progress](/post/progress/)" 意味着持续的进步。
+- "[in](/post/in/) [a](/post/a/) [steady](/post/steady/) [manner](/post/manner/)" 表示以稳定的方式。
 
 ## 例句
-- 副词: "She works steadily from morning till evening without taking a break."
-- 形容词: "He's a steady player and rarely makes mistakes."
+- 副词: "[She](/post/she/) works [steadily](/post/steadily/) [from](/post/from/) [morning](/post/morning/) [till](/post/till/) [evening](/post/evening/) [without](/post/without/) taking [a](/post/a/) [break](/post/break/)."
+- 形容词: "He's [a](/post/a/) [steady](/post/steady/) [player](/post/player/) [and](/post/and/) [rarely](/post/rarely/) makes mistakes."
 
 ## 同义词
 - Constantly
-- Regularly
+- [Regularly](/post/regularly/)
 - Unwaveringly
 - Steadfastly
 - Consistently

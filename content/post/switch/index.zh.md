@@ -11,27 +11,27 @@ keywords = ['ai words', 'switch']
 /swɪtʃ/
 
 ## 释义
-- **名词**: 1. 开关，转换器。例如: "Please turn off the light switch."
-          2. 转变，替换。例如: "They decided to switch from coffee to tea."
+- **名词**: 1. 开关，转换器。例如: "[Please](/post/please/) [turn](/post/turn/) [off](/post/off/) [the](/post/the/) [light](/post/light/) [switch](/post/switch/)."
+          2. 转变，替换。例如: "[They](/post/they/) decided [to](/post/to/) [switch](/post/switch/) [from](/post/from/) [coffee](/post/coffee/) [to](/post/to/) [tea](/post/tea/)."
 
-- **动词**: 1. 切换，转换。例如: "Switch channels on your TV."
-          2. 调换，替换。例如: "I need to switch my shirt; it's stained."
+- **动词**: 1. 切换，转换。例如: "[Switch](/post/switch/) channels [on](/post/on/) [your](/post/your/) TV."
+          2. 调换，替换。例如: "I [need](/post/need/) [to](/post/to/) [switch](/post/switch/) [my](/post/my/) [shirt](/post/shirt/); it's stained."
 
-- **介词**: 在（某个位置或状态）之间转换。例如: "She can switch between French and English effortlessly."
+- **介词**: 在（某个位置或状态）之间转换。例如: "[She](/post/she/) [can](/post/can/) [switch](/post/switch/) [between](/post/between/) French [and](/post/and/) English effortlessly."
 
 ## 短语
-- "switch on" 打开，启动。例如: "Can you switch on the fan?"
-- "switch off" 关闭，停止。例如: "Remember to switch off the lights when you leave."
-- "switch gears" 改变话题或方向。例如: "Let's switch gears and talk about something else."
+- "[switch](/post/switch/) [on](/post/on/)" 打开，启动。例如: "[Can](/post/can/) [you](/post/you/) [switch](/post/switch/) [on](/post/on/) [the](/post/the/) [fan](/post/fan/)?"
+- "[switch](/post/switch/) [off](/post/off/)" 关闭，停止。例如: "[Remember](/post/remember/) [to](/post/to/) [switch](/post/switch/) [off](/post/off/) [the](/post/the/) lights [when](/post/when/) [you](/post/you/) [leave](/post/leave/)."
+- "[switch](/post/switch/) gears" 改变话题或方向。例如: "Let's [switch](/post/switch/) gears [and](/post/and/) [talk](/post/talk/) [about](/post/about/) [something](/post/something/) [else](/post/else/)."
 
 ## 例句
-- 名词: "The light switch is located by the door."
-- 动词: "He switched the radio to a classical music station."
-- 介词: "She easily switches between her professional and casual personas."
+- 名词: "[The](/post/the/) [light](/post/light/) [switch](/post/switch/) is located [by](/post/by/) [the](/post/the/) [door](/post/door/)."
+- 动词: "[He](/post/he/) switched [the](/post/the/) [radio](/post/radio/) [to](/post/to/) [a](/post/a/) [classical](/post/classical/) [music](/post/music/) [station](/post/station/)."
+- 介词: "[She](/post/she/) [easily](/post/easily/) switches [between](/post/between/) [her](/post/her/) [professional](/post/professional/) [and](/post/and/) [casual](/post/casual/) personas."
 
 ## 同义词
-- Change
-- Alter
+- [Change](/post/change/)
+- [Alter](/post/alter/)
 - Toggle
-- Shift
-- Convert
+- [Shift](/post/shift/)
+- [Convert](/post/convert/)

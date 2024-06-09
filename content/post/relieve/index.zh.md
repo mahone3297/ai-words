@@ -12,24 +12,24 @@ keywords = ['ai words', 'relieve']
 
 ## 释义
 - **动词**:
-  - 解除，减轻（痛苦、压力等）：例如 "The medicine relieved her headache."
-  - 宽慰，使安心：例如 "His arrival relieved our anxiety."
-  - 轮换，替换（某人）：例如 "I was relieved from duty by a fresh team."
+  - 解除，减轻（痛苦、压力等）：例如 "[The](/post/the/) [medicine](/post/medicine/) relieved [her](/post/her/) [headache](/post/headache/)."
+  - 宽慰，使安心：例如 "[His](/post/his/) [arrival](/post/arrival/) relieved [our](/post/our/) [anxiety](/post/anxiety/)."
+  - 轮换，替换（某人）：例如 "I was relieved [from](/post/from/) [duty](/post/duty/) [by](/post/by/) [a](/post/a/) [fresh](/post/fresh/) [team](/post/team/)."
   
 - **名词**:
-  - 缓解，宽慰：例如 "The relief of knowing he was safe was immense."
+  - 缓解，宽慰：例如 "[The](/post/the/) [relief](/post/relief/) [of](/post/of/) knowing [he](/post/he/) was [safe](/post/safe/) was [immense](/post/immense/)."
   
 ## 短语
-- "Relief efforts" 指的是救援行动或援助工作。
-- "In relief" 可以表达如释重负的心情，例如 "She sighed in relief when she found her lost keys."
+- "[Relief](/post/relief/) efforts" 指的是救援行动或援助工作。
+- "[In](/post/in/) [relief](/post/relief/)" 可以表达如释重负的心情，例如 "[She](/post/she/) sighed [in](/post/in/) [relief](/post/relief/) [when](/post/when/) [she](/post/she/) [found](/post/found/) [her](/post/her/) lost keys."
 
 ## 例句
-- 动词: "The doctor's visit provided much-needed relief from his chronic pain."
-- 名词: "The refugees felt immense relief when they reached the safety of the camp."
+- 动词: "[The](/post/the/) doctor's [visit](/post/visit/) [provided](/post/provided/) much-needed [relief](/post/relief/) [from](/post/from/) [his](/post/his/) chronic [pain](/post/pain/)."
+- 名词: "[The](/post/the/) refugees felt [immense](/post/immense/) [relief](/post/relief/) [when](/post/when/) [they](/post/they/) reached [the](/post/the/) [safety](/post/safety/) [of](/post/of/) [the](/post/the/) [camp](/post/camp/)."
 
 ## 同义词
 - Alleviate
-- Ease
-- Comfort
+- [Ease](/post/ease/)
+- [Comfort](/post/comfort/)
 - Assuage
 - Palliate

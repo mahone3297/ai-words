@@ -11,20 +11,20 @@ keywords = ['ai words', 'hasten']
 /həˈstɛn/
 
 ## 释义
-- **动词**: 加速；催促。例如: "He hastened his pace to catch the train."
-- **形容词**: 迅速的，急迫的。例如: "She made a hasten decision due to time constraints."
+- **动词**: 加速；催促。例如: "[He](/post/he/) hastened [his](/post/his/) [pace](/post/pace/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [train](/post/train/)."
+- **形容词**: 迅速的，急迫的。例如: "[She](/post/she/) made [a](/post/a/) [hasten](/post/hasten/) [decision](/post/decision/) [due](/post/due/) [to](/post/to/) [time](/post/time/) constraints."
 
 ## 短语
-- "Hasten the process" 加速进程。
-- "Hasten to do something" 急忙去做某事。
+- "[Hasten](/post/hasten/) [the](/post/the/) [process](/post/process/)" 加速进程。
+- "[Hasten](/post/hasten/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" 急忙去做某事。
 
 ## 例句
-- 动词: "Seeing the rain, he hastened to get inside."
-- 形容词: "The hasten decision led to unexpected consequences."
+- 动词: "Seeing [the](/post/the/) [rain](/post/rain/), [he](/post/he/) hastened [to](/post/to/) [get](/post/get/) [inside](/post/inside/)."
+- 形容词: "[The](/post/the/) [hasten](/post/hasten/) [decision](/post/decision/) led [to](/post/to/) [unexpected](/post/unexpected/) consequences."
 
 ## 同义词
-- Speed up
-- Accelerate
-- Hurry
-- Rush
-- Quicken
+- [Speed](/post/speed/) [up](/post/up/)
+- [Accelerate](/post/accelerate/)
+- [Hurry](/post/hurry/)
+- [Rush](/post/rush/)
+- [Quicken](/post/quicken/)

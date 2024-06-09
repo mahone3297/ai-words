@@ -12,20 +12,20 @@ keywords = ['ai words', 'embarrass']
 
 ## 释义
 - **动词**:
-  - 使尴尬，使难堪。例如: "She felt embarrassed when she spilled coffee on her dress."
-  - 使困窘，使局促不安。例如: "The unexpected question embarrassed the speaker."
+  - 使尴尬，使难堪。例如: "[She](/post/she/) felt embarrassed [when](/post/when/) [she](/post/she/) spilled [coffee](/post/coffee/) [on](/post/on/) [her](/post/her/) [dress](/post/dress/)."
+  - 使困窘，使局促不安。例如: "[The](/post/the/) [unexpected](/post/unexpected/) [question](/post/question/) embarrassed [the](/post/the/) [speaker](/post/speaker/)."
 
 ## 短语
-- "embarrass someone into doing something" 让某人因为尴尬而做某事。例如: "The teacher embarrassed him into apologizing."
-- "embarrassing situation" 尴尬的情况。例如: "She found herself in an embarrassing situation when her zipper broke."
+- "[embarrass](/post/embarrass/) [someone](/post/someone/) [into](/post/into/) doing [something](/post/something/)" 让某人因为尴尬而做某事。例如: "[The](/post/the/) [teacher](/post/teacher/) embarrassed [him](/post/him/) [into](/post/into/) apologizing."
+- "embarrassing [situation](/post/situation/)" 尴尬的情况。例如: "[She](/post/she/) [found](/post/found/) [herself](/post/herself/) [in](/post/in/) an embarrassing [situation](/post/situation/) [when](/post/when/) [her](/post/her/) zipper broke."
 
 ## 例句
-- "His constant teasing embarrassed his younger sister."
-- "She tried not to show how embarrassed she was by the mistake."
+- "[His](/post/his/) [constant](/post/constant/) teasing embarrassed [his](/post/his/) younger [sister](/post/sister/)."
+- "[She](/post/she/) tried [not](/post/not/) [to](/post/to/) [show](/post/show/) [how](/post/how/) embarrassed [she](/post/she/) was [by](/post/by/) [the](/post/the/) [mistake](/post/mistake/)."
 
 ## 同义词
-- Awkward
+- [Awkward](/post/awkward/)
 - Inconvenient
-- Uncomfortable
+- [Uncomfortable](/post/uncomfortable/)
 - Self-conscious
 - Mortify

@@ -11,20 +11,20 @@ keywords = ['ai words', 'nuisance']
 /ˈnjuːsns/
 
 ## 释义
-- **名词**: 不便之处，讨厌的人或事，麻烦。例如: "The constant noise from the construction site is a nuisance."
-- **动词**: 使讨厌，打扰。例如: "His loud music was nuisancing the neighbors."
+- **名词**: 不便之处，讨厌的人或事，麻烦。例如: "[The](/post/the/) [constant](/post/constant/) [noise](/post/noise/) [from](/post/from/) [the](/post/the/) [construction](/post/construction/) [site](/post/site/) is [a](/post/a/) [nuisance](/post/nuisance/)."
+- **动词**: 使讨厌，打扰。例如: "[His](/post/his/) [loud](/post/loud/) [music](/post/music/) was nuisancing [the](/post/the/) neighbors."
 
 ## 短语
-- "nuisance neighbor" 指的是制造麻烦或不便的邻居。
-- "public nuisance" 泛指对公众造成不便或危害的行为。
+- "[nuisance](/post/nuisance/) neighbor" 指的是制造麻烦或不便的邻居。
+- "[public](/post/public/) [nuisance](/post/nuisance/)" 泛指对公众造成不便或危害的行为。
 
 ## 例句
-- 名词: "The city council is taking measures to deal with the nuisance of litter in the park."
-- 动词: "His habit of leaving dirty dishes in the sink is really nuisancing me."
+- 名词: "[The](/post/the/) [city](/post/city/) [council](/post/council/) is taking measures [to](/post/to/) [deal](/post/deal/) [with](/post/with/) [the](/post/the/) [nuisance](/post/nuisance/) [of](/post/of/) litter [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- 动词: "[His](/post/his/) [habit](/post/habit/) [of](/post/of/) leaving [dirty](/post/dirty/) dishes [in](/post/in/) [the](/post/the/) [sink](/post/sink/) is [really](/post/really/) nuisancing [me](/post/me/)."
 
 ## 同义词
 - annoyance
-- bother
+- [bother](/post/bother/)
 - irritation
 - aggravation
 - disturbance

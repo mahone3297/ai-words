@@ -11,22 +11,22 @@ keywords = ['ai words', 'doubt']
 /ˈdaʊt/
 
 ## 释义
-- **名词**: 疑惑，不确定，怀疑。例如: "She had doubts about the decision."
-- **动词**: 怀疑，不相信。例如: "I doubt the truth of his statement."
-- **形容词**: 怀疑的，不确定的。例如: "a doubtful expression on her face"
+- **名词**: 疑惑，不确定，怀疑。例如: "[She](/post/she/) had doubts [about](/post/about/) [the](/post/the/) [decision](/post/decision/)."
+- **动词**: 怀疑，不相信。例如: "I [doubt](/post/doubt/) [the](/post/the/) [truth](/post/truth/) [of](/post/of/) [his](/post/his/) [statement](/post/statement/)."
+- **形容词**: 怀疑的，不确定的。例如: "[a](/post/a/) [doubtful](/post/doubtful/) [expression](/post/expression/) [on](/post/on/) [her](/post/her/) [face](/post/face/)"
 
 ## 短语
-- "cast doubt on something" 表示对某事产生怀疑。
-- "in doubt" 表示有疑问，未确定。例如: "The result of the match is still in doubt."
+- "[cast](/post/cast/) [doubt](/post/doubt/) [on](/post/on/) [something](/post/something/)" 表示对某事产生怀疑。
+- "[in](/post/in/) [doubt](/post/doubt/)" 表示有疑问，未确定。例如: "[The](/post/the/) [result](/post/result/) [of](/post/of/) [the](/post/the/) [match](/post/match/) is [still](/post/still/) [in](/post/in/) [doubt](/post/doubt/)."
 
 ## 例句
-- 名词: "Her doubts grew stronger as more evidence emerged."
-- 动词: "I seriously doubt that he'll come to the party."
-- 形容词: "There were many doubtful points in his argument."
+- 名词: "[Her](/post/her/) doubts grew stronger [as](/post/as/) [more](/post/more/) [evidence](/post/evidence/) emerged."
+- 动词: "I [seriously](/post/seriously/) [doubt](/post/doubt/) [that](/post/that/) he'll [come](/post/come/) [to](/post/to/) [the](/post/the/) [party](/post/party/)."
+- 形容词: "[There](/post/there/) were [many](/post/many/) [doubtful](/post/doubtful/) points [in](/post/in/) [his](/post/his/) [argument](/post/argument/)."
 
 ## 同义词
-- Question
-- Suspect
+- [Question](/post/question/)
+- [Suspect](/post/suspect/)
 - Uncertainty
 - Skepticism
 - Disbelief

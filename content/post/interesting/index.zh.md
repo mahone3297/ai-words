@@ -11,16 +11,16 @@ keywords = ['ai words', 'interesting']
 /ˈɪntrəstɪŋ/
 
 ## 释义
-- **形容词**: 引起兴趣的，有意思的，有吸引力的。例如: "The movie was so interesting that we lost track of time."
-- **动词**: 使感兴趣，引起好奇心。例如: "Her story interested us all."
+- **形容词**: 引起兴趣的，有意思的，有吸引力的。例如: "[The](/post/the/) [movie](/post/movie/) was [so](/post/so/) [interesting](/post/interesting/) [that](/post/that/) [we](/post/we/) lost [track](/post/track/) [of](/post/of/) [time](/post/time/)."
+- **动词**: 使感兴趣，引起好奇心。例如: "[Her](/post/her/) [story](/post/story/) interested [us](/post/us/) [all](/post/all/)."
 
 ## 短语
-- "an interesting fact" 有趣的一个事实
-- "to become interested in something" 对某事产生兴趣
+- "an [interesting](/post/interesting/) [fact](/post/fact/)" 有趣的一个事实
+- "[to](/post/to/) [become](/post/become/) interested [in](/post/in/) [something](/post/something/)" 对某事产生兴趣
 
 ## 例句
-- 形容词: "I found the lecture on ancient history very interesting."
-- 动词: "The new book immediately interested her with its unique plot."
+- 形容词: "I [found](/post/found/) [the](/post/the/) [lecture](/post/lecture/) [on](/post/on/) [ancient](/post/ancient/) [history](/post/history/) [very](/post/very/) [interesting](/post/interesting/)."
+- 动词: "[The](/post/the/) [new](/post/new/) [book](/post/book/) [immediately](/post/immediately/) interested [her](/post/her/) [with](/post/with/) [its](/post/its/) [unique](/post/unique/) [plot](/post/plot/)."
 
 ## 同义词
 - Fascinating

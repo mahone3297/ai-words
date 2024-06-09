@@ -7,45 +7,45 @@ description = '[ˈbɔtl] n.瓶，酒瓶；一瓶'
 keywords = ['ai words', 'bottle']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /bəˈtɑːl/
 
 ## Definitions
-### Noun
-- **A container made of glass, plastic, or other material, with a neck and a stopper or lid, used for holding liquids.**
-- **A unit of quantity for a certain amount of a liquid, typically measured by capacity.**
-- **An old-fashioned term for a person, often used affectionately or humorously.**
+### [Noun](/en/post/noun/)
+- **[A](/en/post/a/) [container](/en/post/container/) made [of](/en/post/of/) [glass](/en/post/glass/), [plastic](/en/post/plastic/), [or](/en/post/or/) [other](/en/post/other/) [material](/en/post/material/), [with](/en/post/with/) [a](/en/post/a/) [neck](/en/post/neck/) [and](/en/post/and/) [a](/en/post/a/) stopper [or](/en/post/or/) [lid](/en/post/lid/), [used](/en/post/used/) [for](/en/post/for/) holding liquids.**
+- **[A](/en/post/a/) [unit](/en/post/unit/) [of](/en/post/of/) [quantity](/en/post/quantity/) [for](/en/post/for/) [a](/en/post/a/) [certain](/en/post/certain/) [amount](/en/post/amount/) [of](/en/post/of/) [a](/en/post/a/) [liquid](/en/post/liquid/), typically measured [by](/en/post/by/) [capacity](/en/post/capacity/).**
+- **An old-fashioned [term](/en/post/term/) [for](/en/post/for/) [a](/en/post/a/) [person](/en/post/person/), [often](/en/post/often/) [used](/en/post/used/) affectionately [or](/en/post/or/) humorously.**
 
-### Verb
-- **To transfer a liquid from one container to another, especially by pouring.**
-- **To serve (a drink) in a bottle.**
-- **To express or communicate a message or idea in a concise form, as in a software update.**
+### [Verb](/en/post/verb/)
+- **[To](/en/post/to/) [transfer](/en/post/transfer/) [a](/en/post/a/) [liquid](/en/post/liquid/) [from](/en/post/from/) [one](/en/post/one/) [container](/en/post/container/) [to](/en/post/to/) [another](/en/post/another/), [especially](/en/post/especially/) [by](/en/post/by/) pouring.**
+- **[To](/en/post/to/) [serve](/en/post/serve/) ([a](/en/post/a/) [drink](/en/post/drink/)) [in](/en/post/in/) [a](/en/post/a/) [bottle](/en/post/bottle/).**
+- **[To](/en/post/to/) [express](/en/post/express/) [or](/en/post/or/) [communicate](/en/post/communicate/) [a](/en/post/a/) [message](/en/post/message/) [or](/en/post/or/) [idea](/en/post/idea/) [in](/en/post/in/) [a](/en/post/a/) concise [form](/en/post/form/), [as](/en/post/as/) [in](/en/post/in/) [a](/en/post/a/) software update.**
 
-### Adjective
-- **In the shape of a bottle, having a cylindrical body and a neck.**
-- **Related to alcohol or bottles, especially alcoholic beverages.**
+### [Adjective](/en/post/adjective/)
+- **[In](/en/post/in/) [the](/en/post/the/) [shape](/en/post/shape/) [of](/en/post/of/) [a](/en/post/a/) [bottle](/en/post/bottle/), having [a](/en/post/a/) cylindrical [body](/en/post/body/) [and](/en/post/and/) [a](/en/post/a/) [neck](/en/post/neck/).**
+- **Related [to](/en/post/to/) [alcohol](/en/post/alcohol/) [or](/en/post/or/) bottles, [especially](/en/post/especially/) alcoholic beverages.**
 
-### Noun (plural)
-- **Bottles, the plural form of the noun.**
+### [Noun](/en/post/noun/) ([plural](/en/post/plural/))
+- **Bottles, [the](/en/post/the/) [plural](/en/post/plural/) [form](/en/post/form/) [of](/en/post/of/) [the](/en/post/the/) [noun](/en/post/noun/).**
 
 ## Phrases
-- "Pour a bottle of wine" or "Fill a bottle"
-- "Keep a spare bottle on hand"
-- "Recycle the empty bottle"
-- "The bottle cap popped off"
-- "A bottle of water"
+- "[Pour](/en/post/pour/) [a](/en/post/a/) [bottle](/en/post/bottle/) [of](/en/post/of/) [wine](/en/post/wine/)" [or](/en/post/or/) "[Fill](/en/post/fill/) [a](/en/post/a/) [bottle](/en/post/bottle/)"
+- "[Keep](/en/post/keep/) [a](/en/post/a/) [spare](/en/post/spare/) [bottle](/en/post/bottle/) [on](/en/post/on/) [hand](/en/post/hand/)"
+- "Recycle [the](/en/post/the/) [empty](/en/post/empty/) [bottle](/en/post/bottle/)"
+- "[The](/en/post/the/) [bottle](/en/post/bottle/) [cap](/en/post/cap/) popped [off](/en/post/off/)"
+- "[A](/en/post/a/) [bottle](/en/post/bottle/) [of](/en/post/of/) [water](/en/post/water/)"
 
-## Example Sentences
-- **Noun**: "She unscrewed the bottle and took a sip of water."
-- **Verb**: "The bartender filled each customer's glass from a large bottle of whiskey."
-- **Adjective**: "The antique shop had a collection of beautifully decorated glass bottles."
-- **Plural**: "She bought several bottles of shampoo at the store."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) unscrewed [the](/en/post/the/) [bottle](/en/post/bottle/) [and](/en/post/and/) took [a](/en/post/a/) sip [of](/en/post/of/) [water](/en/post/water/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) bartender filled [each](/en/post/each/) customer's [glass](/en/post/glass/) [from](/en/post/from/) [a](/en/post/a/) [large](/en/post/large/) [bottle](/en/post/bottle/) [of](/en/post/of/) whiskey."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) antique [shop](/en/post/shop/) had [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) beautifully decorated [glass](/en/post/glass/) bottles."
+- **[Plural](/en/post/plural/)**: "[She](/en/post/she/) bought [several](/en/post/several/) bottles [of](/en/post/of/) [shampoo](/en/post/shampoo/) [at](/en/post/at/) [the](/en/post/the/) [store](/en/post/store/)."
 
 ## Synonyms
 - Flask
 - Jug
 - Cask
 - Vial
-- Flask (for a smaller, portable version)
-- Container
--酒精瓶 (alcoholic beverage bottle, Chinese)
+- Flask ([for](/en/post/for/) [a](/en/post/a/) smaller, [portable](/en/post/portable/) [version](/en/post/version/))
+- [Container](/en/post/container/)
+-酒精瓶 (alcoholic beverage [bottle](/en/post/bottle/), Chinese)

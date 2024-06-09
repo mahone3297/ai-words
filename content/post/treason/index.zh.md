@@ -11,16 +11,16 @@ keywords = ['ai words', 'treason']
 /tɹiˈzən/
 
 ## 释义
-- **名词**: 反叛；背叛；叛国罪。例如: "He was accused of high treason against the king."
-- **名词**: 不忠；违反誓言或义务。例如: "Her betrayal was considered an act of treason."
+- **名词**: 反叛；背叛；叛国罪。例如: "[He](/post/he/) was accused [of](/post/of/) [high](/post/high/) [treason](/post/treason/) [against](/post/against/) [the](/post/the/) [king](/post/king/)."
+- **名词**: 不忠；违反誓言或义务。例如: "[Her](/post/her/) betrayal was considered an [act](/post/act/) [of](/post/of/) [treason](/post/treason/)."
 
 ## 短语
-- "commit treason" 意为犯下叛国罪。
-- "traitor to one's country" 指的是叛国者。
+- "[commit](/post/commit/) [treason](/post/treason/)" 意为犯下叛国罪。
+- "[traitor](/post/traitor/) [to](/post/to/) one's [country](/post/country/)" 指的是叛国者。
 
 ## 例句
-- "The accused was found guilty of treason and sentenced to life imprisonment."
-- "In some countries, speaking against the government can be considered an act of treason."
+- "[The](/post/the/) accused was [found](/post/found/) [guilty](/post/guilty/) [of](/post/of/) [treason](/post/treason/) [and](/post/and/) sentenced [to](/post/to/) [life](/post/life/) imprisonment."
+- "[In](/post/in/) [some](/post/some/) countries, speaking [against](/post/against/) [the](/post/the/) [government](/post/government/) [can](/post/can/) [be](/post/be/) considered an [act](/post/act/) [of](/post/of/) [treason](/post/treason/)."
 
 ## 同义词
 - Betrayal

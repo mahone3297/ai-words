@@ -12,25 +12,25 @@ keywords = ['ai words', 'share']
 
 ## 释义
 - **名词**:
-  - 分享，股份；部分： "I have a share in the company."
-  - 一份，份额： "Each child gets an equal share of the cake."
+  - 分享，股份；部分： "I [have](/post/have/) [a](/post/a/) [share](/post/share/) [in](/post/in/) [the](/post/the/) [company](/post/company/)."
+  - 一份，份额： "[Each](/post/each/) [child](/post/child/) gets an [equal](/post/equal/) [share](/post/share/) [of](/post/of/) [the](/post/the/) [cake](/post/cake/)."
 
 - **动词**:
-  - 分享，共用： "We shared a room during the trip."
-  - 分担，承担： "She shared the responsibilities with her teammates."
+  - 分享，共用： "[We](/post/we/) shared [a](/post/a/) [room](/post/room/) [during](/post/during/) [the](/post/the/) [trip](/post/trip/)."
+  - 分担，承担： "[She](/post/she/) shared [the](/post/the/) responsibilities [with](/post/with/) [her](/post/her/) teammates."
 
 ## 短语
-- "Share something with someone" 意味着与某人共同拥有或体验某事。
-- "Market share" 指在某一行业中一家公司所占的销售或利润比例。
-- "Share price" 是股票在证券交易所的价格。
+- "[Share](/post/share/) [something](/post/something/) [with](/post/with/) [someone](/post/someone/)" 意味着与某人共同拥有或体验某事。
+- "[Market](/post/market/) [share](/post/share/)" 指在某一行业中一家公司所占的销售或利润比例。
+- "[Share](/post/share/) [price](/post/price/)" 是股票在证券交易所的价格。
 
 ## 例句
-- 名词: "They divided the inheritance equally, giving each sibling an equal share."
-- 动词: "She shared her thoughts on the book during the discussion."
+- 名词: "[They](/post/they/) divided [the](/post/the/) inheritance equally, giving [each](/post/each/) sibling an [equal](/post/equal/) [share](/post/share/)."
+- 动词: "[She](/post/she/) shared [her](/post/her/) thoughts [on](/post/on/) [the](/post/the/) [book](/post/book/) [during](/post/during/) [the](/post/the/) [discussion](/post/discussion/)."
 
 ## 同义词
-- Portion
+- [Portion](/post/portion/)
 - Chunk
-- Part
+- [Part](/post/part/)
 - Contribution
-- Divide
+- [Divide](/post/divide/)

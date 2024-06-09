@@ -11,21 +11,21 @@ keywords = ['ai words', 'ask']
 /æsk/
 
 ## 释义
-- **动词**: 请求；询问。例如: "I asked her for a favor." 或 "He asked about her well-being."
-- **名词**: 问题；请求。例如: "The teacher asked several difficult questions." 或 "They made numerous asks during the meeting."
+- **动词**: 请求；询问。例如: "I asked [her](/post/her/) [for](/post/for/) [a](/post/a/) favor." 或 "[He](/post/he/) asked [about](/post/about/) [her](/post/her/) well-being."
+- **名词**: 问题；请求。例如: "[The](/post/the/) [teacher](/post/teacher/) asked [several](/post/several/) [difficult](/post/difficult/) questions." 或 "[They](/post/they/) made [numerous](/post/numerous/) asks [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
 
 ## 短语
-- "Ask for help" 请求帮助。
-- "Ask around" 四处打听。
-- "Ask out" 邀请（某人）约会。
+- "[Ask](/post/ask/) [for](/post/for/) [help](/post/help/)" 请求帮助。
+- "[Ask](/post/ask/) [around](/post/around/)" 四处打听。
+- "[Ask](/post/ask/) [out](/post/out/)" 邀请（某人）约会。
 
 ## 例句
-- 动词: "She asked him to pass the salt."
-- 名词: "The journalist's question was an awkward ask."
+- 动词: "[She](/post/she/) asked [him](/post/him/) [to](/post/to/) [pass](/post/pass/) [the](/post/the/) [salt](/post/salt/)."
+- 名词: "[The](/post/the/) journalist's [question](/post/question/) was an [awkward](/post/awkward/) [ask](/post/ask/)."
 
 ## 同义词
-- Inquire
-- Request
+- [Inquire](/post/inquire/)
+- [Request](/post/request/)
 - Query
-- Question
-- Seek
+- [Question](/post/question/)
+- [Seek](/post/seek/)

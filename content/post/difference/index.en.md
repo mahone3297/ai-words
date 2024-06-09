@@ -7,40 +7,40 @@ description = '[ˈdifərəns] n.差别；差；分歧'
 keywords = ['ai words', 'difference']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /dɪˈfrəns/
 
 ## Definitions
-### Noun
-1. The quality or state of being different; dissimilarity. (adj): The **difference** between two numbers is 5.
-2. A distinguishing characteristic or feature. (n): Each person has their own unique **differences**.
+### [Noun](/en/post/noun/)
+1. [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [different](/en/post/different/); dissimilarity. (adj): [The](/en/post/the/) **[difference](/en/post/difference/)** [between](/en/post/between/) [two](/en/post/two/) numbers is 5.
+2. [A](/en/post/a/) distinguishing [characteristic](/en/post/characteristic/) [or](/en/post/or/) [feature](/en/post/feature/). (n): [Each](/en/post/each/) [person](/en/post/person/) has [their](/en/post/their/) [own](/en/post/own/) [unique](/en/post/unique/) **differences**.
 
-### Verb
-1. To perceive or regard as differing from something else. (v): It's important to understand the **difference** between fact and opinion.
-2. To note or point out the disparities between. (v): He could easily **distinguish** the difference in their voices.
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [perceive](/en/post/perceive/) [or](/en/post/or/) [regard](/en/post/regard/) [as](/en/post/as/) differing [from](/en/post/from/) [something](/en/post/something/) [else](/en/post/else/). (v): It's [important](/en/post/important/) [to](/en/post/to/) [understand](/en/post/understand/) [the](/en/post/the/) **[difference](/en/post/difference/)** [between](/en/post/between/) [fact](/en/post/fact/) [and](/en/post/and/) [opinion](/en/post/opinion/).
+2. [To](/en/post/to/) [note](/en/post/note/) [or](/en/post/or/) [point](/en/post/point/) [out](/en/post/out/) [the](/en/post/the/) disparities [between](/en/post/between/). (v): [He](/en/post/he/) [could](/en/post/could/) [easily](/en/post/easily/) **[distinguish](/en/post/distinguish/)** [the](/en/post/the/) [difference](/en/post/difference/) [in](/en/post/in/) [their](/en/post/their/) voices.
 
-### Adjective
-1. Not the same; unlike. (adj): These two colors have a significant **different** hue.
-2. Individual; distinct. (adj): Every child has their own **different** learning style.
+### [Adjective](/en/post/adjective/)
+1. [Not](/en/post/not/) [the](/en/post/the/) [same](/en/post/same/); [unlike](/en/post/unlike/). (adj): [These](/en/post/these/) [two](/en/post/two/) colors [have](/en/post/have/) [a](/en/post/a/) [significant](/en/post/significant/) **[different](/en/post/different/)** hue.
+2. [Individual](/en/post/individual/); [distinct](/en/post/distinct/). (adj): [Every](/en/post/every/) [child](/en/post/child/) has [their](/en/post/their/) [own](/en/post/own/) **[different](/en/post/different/)** [learning](/en/post/learning/) [style](/en/post/style/).
 
-### Adverb
-1. In a manner indicating diversity or disparity. (adv): She explained the process **differently** than her teacher.
+### [Adverb](/en/post/adverb/)
+1. [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) indicating diversity [or](/en/post/or/) disparity. (adv): [She](/en/post/she/) explained [the](/en/post/the/) [process](/en/post/process/) **differently** [than](/en/post/than/) [her](/en/post/her/) [teacher](/en/post/teacher/).
 
 ## Phrases
-- "There's no difference" means something is indistinguishable or identical.
-- "Difference in opinion" refers to a disagreement on a matter.
-- "Make a difference" suggests having a significant impact.
+- "There's [no](/en/post/no/) [difference](/en/post/difference/)" [means](/en/post/means/) [something](/en/post/something/) is indistinguishable [or](/en/post/or/) [identical](/en/post/identical/).
+- "[Difference](/en/post/difference/) [in](/en/post/in/) [opinion](/en/post/opinion/)" refers [to](/en/post/to/) [a](/en/post/a/) disagreement [on](/en/post/on/) [a](/en/post/a/) [matter](/en/post/matter/).
+- "[Make](/en/post/make/) [a](/en/post/a/) [difference](/en/post/difference/)" suggests having [a](/en/post/a/) [significant](/en/post/significant/) [impact](/en/post/impact/).
 
-## Example Sentences
-- **Noun**: The students were asked to identify the **difference** between a hypothesis and a theory.
-- **Verb**: His perspective on life completely **differed** from his siblings'.
-- **Adjective**: The twins' personalities were **distinctly** different.
-- **Adverb**: She presented her ideas **differently** than her peers, which caught the teacher's attention.
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) students were asked [to](/en/post/to/) [identify](/en/post/identify/) [the](/en/post/the/) **[difference](/en/post/difference/)** [between](/en/post/between/) [a](/en/post/a/) hypothesis [and](/en/post/and/) [a](/en/post/a/) [theory](/en/post/theory/).
+- **[Verb](/en/post/verb/)**: [His](/en/post/his/) [perspective](/en/post/perspective/) [on](/en/post/on/) [life](/en/post/life/) [completely](/en/post/completely/) **differed** [from](/en/post/from/) [his](/en/post/his/) siblings'.
+- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) twins' personalities were **distinctly** [different](/en/post/different/).
+- **[Adverb](/en/post/adverb/)**: [She](/en/post/she/) presented [her](/en/post/her/) ideas **differently** [than](/en/post/than/) [her](/en/post/her/) peers, [which](/en/post/which/) caught [the](/en/post/the/) teacher's [attention](/en/post/attention/).
 
 ## Synonyms
-- Contrast
-- Variation
+- [Contrast](/en/post/contrast/)
+- [Variation](/en/post/variation/)
 - Divergence
 - Disparity
 - Dissimilarity
-- Distinction
+- [Distinction](/en/post/distinction/)

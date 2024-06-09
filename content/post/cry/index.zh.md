@@ -11,20 +11,20 @@ keywords = ['ai words', 'cry']
 /kaɪ/
 
 ## 释义
-- **动词**: 哭泣；叫喊。例如: "The baby was crying because it was hungry."
-- **名词**: 哭声；叫声。例如: "I heard a faint cry in the distance."
+- **动词**: 哭泣；叫喊。例如: "[The](/post/the/) [baby](/post/baby/) was crying [because](/post/because/) [it](/post/it/) was [hungry](/post/hungry/)."
+- **名词**: 哭声；叫声。例如: "I heard [a](/post/a/) [faint](/post/faint/) [cry](/post/cry/) [in](/post/in/) [the](/post/the/) [distance](/post/distance/)."
 
 ## 短语
-- "to cry out" 大声呼喊或哭泣。例如: "She cried out for help when she saw the intruder."
-- "to cry one's eyes out" 哭得很厉害。例如: "After the breakup, she cried her eyes out all night."
+- "[to](/post/to/) [cry](/post/cry/) [out](/post/out/)" 大声呼喊或哭泣。例如: "[She](/post/she/) cried [out](/post/out/) [for](/post/for/) [help](/post/help/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [the](/post/the/) intruder."
+- "[to](/post/to/) [cry](/post/cry/) one's eyes [out](/post/out/)" 哭得很厉害。例如: "[After](/post/after/) [the](/post/the/) breakup, [she](/post/she/) cried [her](/post/her/) eyes [out](/post/out/) [all](/post/all/) [night](/post/night/)."
 
 ## 例句
-- 动词: "The child was crying because he had fallen and hurt his knee."
-- 名词: "Their cries for help could be heard from the other side of the street."
+- 动词: "[The](/post/the/) [child](/post/child/) was crying [because](/post/because/) [he](/post/he/) had fallen [and](/post/and/) [hurt](/post/hurt/) [his](/post/his/) [knee](/post/knee/)."
+- 名词: "[Their](/post/their/) cries [for](/post/for/) [help](/post/help/) [could](/post/could/) [be](/post/be/) heard [from](/post/from/) [the](/post/the/) [other](/post/other/) [side](/post/side/) [of](/post/of/) [the](/post/the/) [street](/post/street/)."
 
 ## 同义词
-- weep
-- sob
-- shed tears
+- [weep](/post/weep/)
+- [sob](/post/sob/)
+- [shed](/post/shed/) tears
 - bawl
 - wail

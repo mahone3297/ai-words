@@ -11,20 +11,20 @@ keywords = ['ai words', 'ready']
 /ˈredi/
 
 ## 释义
-- **形容词**: 准备好的，就绪的。例如: "The guests are ready for the dinner party."
-- **动词**: 使准备好，预备。例如: "She is readying herself for the presentation."
+- **形容词**: 准备好的，就绪的。例如: "[The](/post/the/) guests are [ready](/post/ready/) [for](/post/for/) [the](/post/the/) [dinner](/post/dinner/) [party](/post/party/)."
+- **动词**: 使准备好，预备。例如: "[She](/post/she/) is readying [herself](/post/herself/) [for](/post/for/) [the](/post/the/) presentation."
 
 ## 短语
-- "Be ready for something" 意味着为某事做好准备。
-- "Get ready" 常用来提示即将发生的事情，如"Get ready, the movie is about to start."
+- "[Be](/post/be/) [ready](/post/ready/) [for](/post/for/) [something](/post/something/)" 意味着为某事做好准备。
+- "[Get](/post/get/) [ready](/post/ready/)" 常用来提示即将发生的事情，如"[Get](/post/get/) [ready](/post/ready/), [the](/post/the/) [movie](/post/movie/) is [about](/post/about/) [to](/post/to/) [start](/post/start/)."
 
 ## 例句
-- 形容词: "The children are all ready and waiting in the car."
-- 动词: "Please ready your passports before we board the plane."
+- 形容词: "[The](/post/the/) children are [all](/post/all/) [ready](/post/ready/) [and](/post/and/) waiting [in](/post/in/) [the](/post/the/) [car](/post/car/)."
+- 动词: "[Please](/post/please/) [ready](/post/ready/) [your](/post/your/) passports [before](/post/before/) [we](/post/we/) [board](/post/board/) [the](/post/the/) [plane](/post/plane/)."
 
 ## 同义词
 - Prepared
-- Set
+- [Set](/post/set/)
 - Awaiting
 - Primed
-- Attentive
+- [Attentive](/post/attentive/)

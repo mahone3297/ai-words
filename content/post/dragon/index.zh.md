@@ -21,16 +21,16 @@ keywords = ['ai words', 'dragon']
    2. 极端的；严厉的；凶猛的。
 
 ## 短语
-- "Dragon boat" 龙舟，一种传统的中国船，常在端午节时举行比赛。
-- "Chinese dragon" 中国的龙，象征着权力、威严和好运。
+- "[Dragon](/post/dragon/) [boat](/post/boat/)" 龙舟，一种传统的中国船，常在端午节时举行比赛。
+- "Chinese [dragon](/post/dragon/)" 中国的龙，象征着权力、威严和好运。
 
 ## 例句
-- 名词: "In Chinese mythology, the dragon is a symbol of power and prosperity."
-- 形容词: "Her temper was so dragon-like that nobody dared to cross her."
+- 名词: "[In](/post/in/) Chinese mythology, [the](/post/the/) [dragon](/post/dragon/) is [a](/post/a/) [symbol](/post/symbol/) [of](/post/of/) [power](/post/power/) [and](/post/and/) [prosperity](/post/prosperity/)."
+- 形容词: "[Her](/post/her/) [temper](/post/temper/) was [so](/post/so/) dragon-like [that](/post/that/) [nobody](/post/nobody/) dared [to](/post/to/) [cross](/post/cross/) [her](/post/her/)."
 
 ## 同义词
 - serpent
 - monster
 - wyvern
-- brute
+- [brute](/post/brute/)
 - ogre

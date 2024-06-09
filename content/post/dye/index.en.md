@@ -7,27 +7,27 @@ description = '[dai] vt.染 n.染料；染色'
 keywords = ['ai words', 'dye']
 +++
 
-## Word: Dye
+## [Word](/en/post/word/): [Dye](/en/post/dye/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /daɪ/
 
 ## Definitions
-- **Noun (n)**: A substance used to add color to fabrics, hair, food, or other materials. For example: "She bought a natural dye to color her woolen scarf."
-- **Verb (v)**: To change the color of something using a dye. For example: "She dyed her hair red for the event."
+- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [substance](/en/post/substance/) [used](/en/post/used/) [to](/en/post/to/) [add](/en/post/add/) [color](/en/post/color/) [to](/en/post/to/) fabrics, [hair](/en/post/hair/), [food](/en/post/food/), [or](/en/post/or/) [other](/en/post/other/) materials. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) bought [a](/en/post/a/) [natural](/en/post/natural/) [dye](/en/post/dye/) [to](/en/post/to/) [color](/en/post/color/) [her](/en/post/her/) woolen [scarf](/en/post/scarf/)."
+- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [change](/en/post/change/) [the](/en/post/the/) [color](/en/post/color/) [of](/en/post/of/) [something](/en/post/something/) using [a](/en/post/a/) [dye](/en/post/dye/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) dyed [her](/en/post/her/) [hair](/en/post/hair/) [red](/en/post/red/) [for](/en/post/for/) [the](/en/post/the/) [event](/en/post/event/)."
   
   > _Phrasal Verb_:
-  > - **Dye something in/with**: To immerse or treat something with a dye to change its color. Example: "She dyed the fabric in a deep blue dye."
-  > - **Dye something out**: To remove the original color from something by dyeing it a different color. Example: "She dyed out the stains on her blouse."
+  > - **[Dye](/en/post/dye/) [something](/en/post/something/) [in](/en/post/in/)/[with](/en/post/with/)**: [To](/en/post/to/) immerse [or](/en/post/or/) [treat](/en/post/treat/) [something](/en/post/something/) [with](/en/post/with/) [a](/en/post/a/) [dye](/en/post/dye/) [to](/en/post/to/) [change](/en/post/change/) [its](/en/post/its/) [color](/en/post/color/). [Example](/en/post/example/): "[She](/en/post/she/) dyed [the](/en/post/the/) [fabric](/en/post/fabric/) [in](/en/post/in/) [a](/en/post/a/) [deep](/en/post/deep/) [blue](/en/post/blue/) [dye](/en/post/dye/)."
+  > - **[Dye](/en/post/dye/) [something](/en/post/something/) [out](/en/post/out/)**: [To](/en/post/to/) [remove](/en/post/remove/) [the](/en/post/the/) [original](/en/post/original/) [color](/en/post/color/) [from](/en/post/from/) [something](/en/post/something/) [by](/en/post/by/) dyeing [it](/en/post/it/) [a](/en/post/a/) [different](/en/post/different/) [color](/en/post/color/). [Example](/en/post/example/): "[She](/en/post/she/) dyed [out](/en/post/out/) [the](/en/post/the/) stains [on](/en/post/on/) [her](/en/post/her/) blouse."
 
 ## Phrases
-- "To dye one's hair" refers to changing the color of one's hair using dye.
-- "All the colors of the rainbow" might refer to a wide variety of dyes available.
-- "A dye job" colloquially refers to the act of coloring hair or any material with dye.
+- "[To](/en/post/to/) [dye](/en/post/dye/) one's [hair](/en/post/hair/)" refers [to](/en/post/to/) changing [the](/en/post/the/) [color](/en/post/color/) [of](/en/post/of/) one's [hair](/en/post/hair/) using [dye](/en/post/dye/).
+- "[All](/en/post/all/) [the](/en/post/the/) colors [of](/en/post/of/) [the](/en/post/the/) [rainbow](/en/post/rainbow/)" [might](/en/post/might/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [wide](/en/post/wide/) [variety](/en/post/variety/) [of](/en/post/of/) dyes [available](/en/post/available/).
+- "[A](/en/post/a/) [dye](/en/post/dye/) [job](/en/post/job/)" colloquially refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) coloring [hair](/en/post/hair/) [or](/en/post/or/) [any](/en/post/any/) [material](/en/post/material/) [with](/en/post/with/) [dye](/en/post/dye/).
 
-## Example Sentences
-- **Noun**: "The ancient art of using plant-based dyes to create vibrant textiles has been revived."
-- **Verb**: "He decided to dye his white shirt black so that he could wear it to the concert."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [art](/en/post/art/) [of](/en/post/of/) using plant-based dyes [to](/en/post/to/) [create](/en/post/create/) vibrant textiles has been revived."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) decided [to](/en/post/to/) [dye](/en/post/dye/) [his](/en/post/his/) [white](/en/post/white/) [shirt](/en/post/shirt/) [black](/en/post/black/) [so](/en/post/so/) [that](/en/post/that/) [he](/en/post/he/) [could](/en/post/could/) [wear](/en/post/wear/) [it](/en/post/it/) [to](/en/post/to/) [the](/en/post/the/) [concert](/en/post/concert/)."
 
 ## Synonyms
 - Coloring
@@ -35,12 +35,12 @@ keywords = ['ai words', 'dye']
 - Pigment
 - Hue
 - Colorant
-- Stain
-- Dyestuff (for noun use)
-- Color (as a verb) 
+- [Stain](/en/post/stain/)
+- Dyestuff ([for](/en/post/for/) [noun](/en/post/noun/) [use](/en/post/use/))
+- [Color](/en/post/color/) ([as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)) 
 
-For the verb form, alternative verbs include:
+[For](/en/post/for/) [the](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/), [alternative](/en/post/alternative/) verbs [include](/en/post/include/):
 - Colorize
 - Tinge
-- Stain
-- Bleach (when referring to lightening hair or fabrics)
+- [Stain](/en/post/stain/)
+- Bleach ([when](/en/post/when/) referring [to](/en/post/to/) lightening [hair](/en/post/hair/) [or](/en/post/or/) fabrics)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'separately']
 /seprəˈteɪdli/
 
 ## 释义
-- **副词**: 分开地，各自独立地。例如: "They live separately from their parents."
-- **形容词**: 单独的，分开的。例如: "The items were packed separately."
+- **副词**: 分开地，各自独立地。例如: "[They](/post/they/) [live](/post/live/) [separately](/post/separately/) [from](/post/from/) [their](/post/their/) parents."
+- **形容词**: 单独的，分开的。例如: "[The](/post/the/) items were packed [separately](/post/separately/)."
 
 ## 短语
-- "Do something separately" 意为分别做某事。
-- "Live life separately" 意味着各自过自己的生活。
+- "[Do](/post/do/) [something](/post/something/) [separately](/post/separately/)" 意为分别做某事。
+- "[Live](/post/live/) [life](/post/life/) [separately](/post/separately/)" 意味着各自过自己的生活。
 
 ## 例句
-- 副词: "The children eat their meals separately in their own rooms."
-- 形容词: "Each item in the package was wrapped separately."
+- 副词: "[The](/post/the/) children [eat](/post/eat/) [their](/post/their/) meals [separately](/post/separately/) [in](/post/in/) [their](/post/their/) [own](/post/own/) rooms."
+- 形容词: "[Each](/post/each/) [item](/post/item/) [in](/post/in/) [the](/post/the/) [package](/post/package/) was wrapped [separately](/post/separately/)."
 
 ## 同义词
 - Individually
-- Apart
+- [Apart](/post/apart/)
 - Disjointedly
 - Distinctly
 - Separably

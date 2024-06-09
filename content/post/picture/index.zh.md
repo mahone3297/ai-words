@@ -11,22 +11,22 @@ keywords = ['ai words', 'picture']
 /pɪktʃər/
 
 ## 释义
-- **名词**: 1. 图片，图像。例如: "She hung a beautiful picture on the wall."
-          2. 影片，电影。例如: "We watched an action picture at the cinema."
-          3. 描述，描绘。例如: "His story painted a vivid picture of life in the countryside."
-- **动词**: 描述，描绘（事件、情况等）。例如: "The journalist tried to picture the scene for her readers."
+- **名词**: 1. 图片，图像。例如: "[She](/post/she/) hung [a](/post/a/) [beautiful](/post/beautiful/) [picture](/post/picture/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/)."
+          2. 影片，电影。例如: "[We](/post/we/) watched an [action](/post/action/) [picture](/post/picture/) [at](/post/at/) [the](/post/the/) [cinema](/post/cinema/)."
+          3. 描述，描绘。例如: "[His](/post/his/) [story](/post/story/) painted [a](/post/a/) [vivid](/post/vivid/) [picture](/post/picture/) [of](/post/of/) [life](/post/life/) [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/)."
+- **动词**: 描述，描绘（事件、情况等）。例如: "[The](/post/the/) [journalist](/post/journalist/) tried [to](/post/to/) [picture](/post/picture/) [the](/post/the/) [scene](/post/scene/) [for](/post/for/) [her](/post/her/) readers."
 
 ## 短语
-- "A picture is worth a thousand words" 意思是一幅图胜过千言万语。
-- "Paint a picture" 指详细描述或构想一个场景。
+- "[A](/post/a/) [picture](/post/picture/) is [worth](/post/worth/) [a](/post/a/) [thousand](/post/thousand/) words" 意思是一幅图胜过千言万语。
+- "[Paint](/post/paint/) [a](/post/a/) [picture](/post/picture/)" 指详细描述或构想一个场景。
 
 ## 例句
-- 名词: "The children drew pictures of their families in art class."
-- 动词: "The author beautifully pictures the struggles of the main character."
+- 名词: "[The](/post/the/) children drew pictures [of](/post/of/) [their](/post/their/) families [in](/post/in/) [art](/post/art/) [class](/post/class/)."
+- 动词: "[The](/post/the/) [author](/post/author/) beautifully pictures [the](/post/the/) struggles [of](/post/of/) [the](/post/the/) [main](/post/main/) [character](/post/character/)."
 
 ## 同义词
-- Image
+- [Image](/post/image/)
 - Photo
-- Photograph
-- Sketch
-- Portrait
+- [Photograph](/post/photograph/)
+- [Sketch](/post/sketch/)
+- [Portrait](/post/portrait/)

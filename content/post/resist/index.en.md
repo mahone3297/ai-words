@@ -7,37 +7,37 @@ description = '[riˈzist] vt.&vi.抵抗，抵制'
 keywords = ['ai words', 'resist']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /rɪˈzɪst/
 
 ## Definitions
-### Noun
-- A **resistance** is the act or ability to oppose or withstand something, often force or influence. Example: "The new policy faced strong resistance from some employees."
-- A **resistor** is an electronic component that opposes the flow of electric current. Example: "In a circuit, the resistor limits the current's passage."
+### [Noun](/en/post/noun/)
+- [A](/en/post/a/) **[resistance](/en/post/resistance/)** is [the](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [ability](/en/post/ability/) [to](/en/post/to/) [oppose](/en/post/oppose/) [or](/en/post/or/) [withstand](/en/post/withstand/) [something](/en/post/something/), [often](/en/post/often/) [force](/en/post/force/) [or](/en/post/or/) [influence](/en/post/influence/). [Example](/en/post/example/): "[The](/en/post/the/) [new](/en/post/new/) [policy](/en/post/policy/) faced [strong](/en/post/strong/) [resistance](/en/post/resistance/) [from](/en/post/from/) [some](/en/post/some/) employees."
+- [A](/en/post/a/) **resistor** is an [electronic](/en/post/electronic/) [component](/en/post/component/) [that](/en/post/that/) opposes [the](/en/post/the/) [flow](/en/post/flow/) [of](/en/post/of/) [electric](/en/post/electric/) [current](/en/post/current/). [Example](/en/post/example/): "[In](/en/post/in/) [a](/en/post/a/) [circuit](/en/post/circuit/), [the](/en/post/the/) resistor limits [the](/en/post/the/) current's [passage](/en/post/passage/)."
 
-### Verb
-- **To resist** means to oppose, withstand, or refuse to comply with something. Example: "She refused to resist her curiosity and opened the forbidden book."
-- **To be resistant** (adj) describes something that is hard to change or affect. Example: "The material is highly resistant to water damage."
+### [Verb](/en/post/verb/)
+- **[To](/en/post/to/) [resist](/en/post/resist/)** [means](/en/post/means/) [to](/en/post/to/) [oppose](/en/post/oppose/), [withstand](/en/post/withstand/), [or](/en/post/or/) [refuse](/en/post/refuse/) [to](/en/post/to/) comply [with](/en/post/with/) [something](/en/post/something/). [Example](/en/post/example/): "[She](/en/post/she/) refused [to](/en/post/to/) [resist](/en/post/resist/) [her](/en/post/her/) [curiosity](/en/post/curiosity/) [and](/en/post/and/) opened [the](/en/post/the/) forbidden [book](/en/post/book/)."
+- **[To](/en/post/to/) [be](/en/post/be/) [resistant](/en/post/resistant/)** (adj) describes [something](/en/post/something/) [that](/en/post/that/) is [hard](/en/post/hard/) [to](/en/post/to/) [change](/en/post/change/) [or](/en/post/or/) [affect](/en/post/affect/). [Example](/en/post/example/): "[The](/en/post/the/) [material](/en/post/material/) is [highly](/en/post/highly/) [resistant](/en/post/resistant/) [to](/en/post/to/) [water](/en/post/water/) [damage](/en/post/damage/)."
 
-### Adjective
-- **Resistant** refers to something that can withstand or oppose force or influence. Example: "Antibiotics are resistant to certain bacteria."
+### [Adjective](/en/post/adjective/)
+- **[Resistant](/en/post/resistant/)** refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) [can](/en/post/can/) [withstand](/en/post/withstand/) [or](/en/post/or/) [oppose](/en/post/oppose/) [force](/en/post/force/) [or](/en/post/or/) [influence](/en/post/influence/). [Example](/en/post/example/): "Antibiotics are [resistant](/en/post/resistant/) [to](/en/post/to/) [certain](/en/post/certain/) [bacteria](/en/post/bacteria/)."
 
 ## Phrases
-- "Resistance is futile" implies that opposition is pointless.
-- "Be resistant to peer pressure" advises someone to withstand the influence of others.
-- "A virus can become resistant to medication" means it becomes less susceptible to treatment.
+- "[Resistance](/en/post/resistance/) is futile" implies [that](/en/post/that/) opposition is pointless.
+- "[Be](/en/post/be/) [resistant](/en/post/resistant/) [to](/en/post/to/) peer [pressure](/en/post/pressure/)" advises [someone](/en/post/someone/) [to](/en/post/to/) [withstand](/en/post/withstand/) [the](/en/post/the/) [influence](/en/post/influence/) [of](/en/post/of/) others.
+- "[A](/en/post/a/) virus [can](/en/post/can/) [become](/en/post/become/) [resistant](/en/post/resistant/) [to](/en/post/to/) medication" [means](/en/post/means/) [it](/en/post/it/) becomes [less](/en/post/less/) susceptible [to](/en/post/to/) [treatment](/en/post/treatment/).
 
-## Example Sentences
-- **Noun**: "The soldiers had to overcome enemy resistance to advance."
-- **Verb**: "He tried to resist the temptation to eat dessert."
-- **Adjective**: "The plants were bred to be resistant to pests."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) soldiers had [to](/en/post/to/) [overcome](/en/post/overcome/) [enemy](/en/post/enemy/) [resistance](/en/post/resistance/) [to](/en/post/to/) [advance](/en/post/advance/)."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) tried [to](/en/post/to/) [resist](/en/post/resist/) [the](/en/post/the/) [temptation](/en/post/temptation/) [to](/en/post/to/) [eat](/en/post/eat/) dessert."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) plants were bred [to](/en/post/to/) [be](/en/post/be/) [resistant](/en/post/resistant/) [to](/en/post/to/) pests."
 
 ## Synonyms
-- Oppose
-- Withstand
+- [Oppose](/en/post/oppose/)
+- [Withstand](/en/post/withstand/)
 - Refrain
 - Obstruct
 - Counteract
 -抵制
-- Hold back
-- Stand up to
+- [Hold](/en/post/hold/) [back](/en/post/back/)
+- [Stand](/en/post/stand/) [up](/en/post/up/) [to](/en/post/to/)

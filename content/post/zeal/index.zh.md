@@ -11,20 +11,20 @@ keywords = ['ai words', 'zeal']
 /ziːl/
 
 ## 释义
-- **名词**: 热情，热心，热忱。例如: "She showed great zeal in her work."
-- **形容词**: 热心的，充满激情的。例如: "He is a zealous supporter of the project."
+- **名词**: 热情，热心，热忱。例如: "[She](/post/she/) showed [great](/post/great/) [zeal](/post/zeal/) [in](/post/in/) [her](/post/her/) [work](/post/work/)."
+- **形容词**: 热心的，充满激情的。例如: "[He](/post/he/) is [a](/post/a/) [zealous](/post/zealous/) supporter [of](/post/of/) [the](/post/the/) [project](/post/project/)."
 
 ## 短语
-- "With great zeal" 表示非常热情地。
-- "Zealous about something" 意味着对某事非常投入或热衷。
+- "[With](/post/with/) [great](/post/great/) [zeal](/post/zeal/)" 表示非常热情地。
+- "[Zealous](/post/zealous/) [about](/post/about/) [something](/post/something/)" 意味着对某事非常投入或热衷。
 
 ## 例句
-- 名词: "His zeal for learning never fades."
-- 形容词: "The new employee is zealous and eager to learn."
+- 名词: "[His](/post/his/) [zeal](/post/zeal/) [for](/post/for/) [learning](/post/learning/) [never](/post/never/) fades."
+- 形容词: "[The](/post/the/) [new](/post/new/) [employee](/post/employee/) is [zealous](/post/zealous/) [and](/post/and/) [eager](/post/eager/) [to](/post/to/) [learn](/post/learn/)."
 
 ## 同义词
-- Enthusiasm
+- [Enthusiasm](/post/enthusiasm/)
 - Ardor
-- Passion
+- [Passion](/post/passion/)
 - Devotion
 - Vigor

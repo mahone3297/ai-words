@@ -11,20 +11,20 @@ keywords = ['ai words', 'visible']
 /ˈvɪzəbl/
 
 ## 释义
-- **形容词**: 可见的，能看见的。例如: "The visible spectrum includes light we can see."
-- **名词**: （尤指光谱中的）可见部分。例如: "The sun emits light in the visible range."
+- **形容词**: 可见的，能看见的。例如: "[The](/post/the/) [visible](/post/visible/) spectrum includes [light](/post/light/) [we](/post/we/) [can](/post/can/) [see](/post/see/)."
+- **名词**: （尤指光谱中的）可见部分。例如: "[The](/post/the/) [sun](/post/sun/) emits [light](/post/light/) [in](/post/in/) [the](/post/the/) [visible](/post/visible/) [range](/post/range/)."
 
 ## 短语
-- "visible light" 指人眼可以看见的光线。
-- "invisible to the naked eye" 意味着不能被肉眼看到的。
+- "[visible](/post/visible/) [light](/post/light/)" 指人眼可以看见的光线。
+- "[invisible](/post/invisible/) [to](/post/to/) [the](/post/the/) [naked](/post/naked/) [eye](/post/eye/)" 意味着不能被肉眼看到的。
 
 ## 例句
-- 形容词: "The moon is clearly visible in the night sky tonight."
-- 名词: "Ultraviolet light is not within the visible part of the electromagnetic spectrum."
+- 形容词: "[The](/post/the/) [moon](/post/moon/) is [clearly](/post/clearly/) [visible](/post/visible/) [in](/post/in/) [the](/post/the/) [night](/post/night/) [sky](/post/sky/) [tonight](/post/tonight/)."
+- 名词: "Ultraviolet [light](/post/light/) is [not](/post/not/) [within](/post/within/) [the](/post/the/) [visible](/post/visible/) [part](/post/part/) [of](/post/of/) [the](/post/the/) electromagnetic spectrum."
 
 ## 同义词
-- apparent
+- [apparent](/post/apparent/)
 - discernible
 - perceivable
-- noticeable
-- evident
+- [noticeable](/post/noticeable/)
+- [evident](/post/evident/)

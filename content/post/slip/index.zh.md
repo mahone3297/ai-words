@@ -12,41 +12,41 @@ keywords = ['ai words', 'slip']
 
 ## 释义
 - **名词**:
-   - 1. 滑倒；失足：An accident caused by one's feet slipping on a wet floor.
-   - 2. 舒适的室内拖鞋：A loose, soft shoe worn indoors.
-   - 3. 错误；遗漏：A mistake in writing or speaking.
-   - 4. (女性的)无带内衣：A woman's undergarment that is a sleeveless dress-like garment.
+   - 1. 滑倒；失足：An [accident](/post/accident/) caused [by](/post/by/) one's feet slipping [on](/post/on/) [a](/post/a/) [wet](/post/wet/) [floor](/post/floor/).
+   - 2. 舒适的室内拖鞋：[A](/post/a/) [loose](/post/loose/), [soft](/post/soft/) [shoe](/post/shoe/) worn [indoors](/post/indoors/).
+   - 3. 错误；遗漏：[A](/post/a/) [mistake](/post/mistake/) [in](/post/in/) [writing](/post/writing/) [or](/post/or/) speaking.
+   - 4. (女性的)无带内衣：[A](/post/a/) woman's undergarment [that](/post/that/) is [a](/post/a/) sleeveless dress-like garment.
 
 - **动词**:
-   - 1. 滑落；溜走：To move downward smoothly and with little resistance, as if by sliding.
-   - 2. 忽略；错过：To fail to notice or remember something; overlook.
+   - 1. 滑落；溜走：[To](/post/to/) [move](/post/move/) [downward](/post/downward/) [smoothly](/post/smoothly/) [and](/post/and/) [with](/post/with/) [little](/post/little/) [resistance](/post/resistance/), [as](/post/as/) [if](/post/if/) [by](/post/by/) sliding.
+   - 2. 忽略；错过：[To](/post/to/) [fail](/post/fail/) [to](/post/to/) [notice](/post/notice/) [or](/post/or/) [remember](/post/remember/) [something](/post/something/); [overlook](/post/overlook/).
 
 - **形容词**:
-   - 1. 不小心的；轻率的：Done without care or attention; careless.
-   - 2. 滑的；滑腻的：Having a smooth surface that allows easy sliding; slippery.
+   - 1. 不小心的；轻率的：Done [without](/post/without/) [care](/post/care/) [or](/post/or/) [attention](/post/attention/); [careless](/post/careless/).
+   - 2. 滑的；滑腻的：Having [a](/post/a/) [smooth](/post/smooth/) [surface](/post/surface/) [that](/post/that/) allows [easy](/post/easy/) sliding; [slippery](/post/slippery/).
 
 ## 短语
-- "on the slip" 表示在滑倒的边缘。
-- "slip away" 意为悄悄溜走。
-- "slip of the tongue" 指口误。
+- "[on](/post/on/) [the](/post/the/) [slip](/post/slip/)" 表示在滑倒的边缘。
+- "[slip](/post/slip/) [away](/post/away/)" 意为悄悄溜走。
+- "[slip](/post/slip/) [of](/post/of/) [the](/post/the/) [tongue](/post/tongue/)" 指口误。
 
 ## 例句
-- 名词: "He almost had a slip on the icy sidewalk."
-- 动词: "The thief slipped away from the police."
-- 形容词: "She wore a silk dress that felt slipperily smooth."
+- 名词: "[He](/post/he/) [almost](/post/almost/) had [a](/post/a/) [slip](/post/slip/) [on](/post/on/) [the](/post/the/) icy sidewalk."
+- 动词: "[The](/post/the/) [thief](/post/thief/) slipped [away](/post/away/) [from](/post/from/) [the](/post/the/) [police](/post/police/)."
+- 形容词: "[She](/post/she/) wore [a](/post/a/) [silk](/post/silk/) [dress](/post/dress/) [that](/post/that/) felt slipperily [smooth](/post/smooth/)."
 
 ## 同义词
-- Noun:
+- [Noun](/post/noun/):
   - Misstep
   - Oversight
   - Mishap
 
-- Verb:
-  - Slide
+- [Verb](/post/verb/):
+  - [Slide](/post/slide/)
   - Elope
-  - Escape
+  - [Escape](/post/escape/)
 
-- Adjective:
+- [Adjective](/post/adjective/):
   - Negligent
-  - Careless
+  - [Careless](/post/careless/)
   - Unwary

@@ -7,40 +7,40 @@ description = '[teil] n.故事，传说'
 keywords = ['ai words', 'tale']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /tel/
 
 ## Definitions
-- **Noun**: A story or narrative, often fictional, usually with a moral or lesson. [**Etymology**: From Old French *tale*]
-- **Verb**: To tell or relate a story; recount. [**Etymology**: From Old French *teler*, to tell]
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [story](/en/post/story/) [or](/en/post/or/) narrative, [often](/en/post/often/) fictional, [usually](/en/post/usually/) [with](/en/post/with/) [a](/en/post/a/) [moral](/en/post/moral/) [or](/en/post/or/) [lesson](/en/post/lesson/). [**Etymology**: [From](/en/post/from/) [Old](/en/post/old/) French *[tale](/en/post/tale/)*]
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [tell](/en/post/tell/) [or](/en/post/or/) [relate](/en/post/relate/) [a](/en/post/a/) [story](/en/post/story/); recount. [**Etymology**: [From](/en/post/from/) [Old](/en/post/old/) French *teler*, [to](/en/post/to/) [tell](/en/post/tell/)]
 
 ## Phrases
-- "A bedtime tale" refers to a story told before sleep.
-- "Tale of a lifetime" signifies a long and eventful story.
-- "Tall tales" are exaggerated or fantastic stories.
+- "[A](/en/post/a/) bedtime [tale](/en/post/tale/)" refers [to](/en/post/to/) [a](/en/post/a/) [story](/en/post/story/) told [before](/en/post/before/) [sleep](/en/post/sleep/).
+- "[Tale](/en/post/tale/) [of](/en/post/of/) [a](/en/post/a/) [lifetime](/en/post/lifetime/)" signifies [a](/en/post/a/) [long](/en/post/long/) [and](/en/post/and/) eventful [story](/en/post/story/).
+- "[Tall](/en/post/tall/) tales" are exaggerated [or](/en/post/or/) fantastic stories.
 
-## Example Sentences
-- **Noun**: "She spun a fascinating tale of her travels in Africa."
-- **Verb**: "He regaled the children with a tale of adventure."
-- "Her favorite hobby is listening to folktales from different cultures."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) spun [a](/en/post/a/) fascinating [tale](/en/post/tale/) [of](/en/post/of/) [her](/en/post/her/) travels [in](/en/post/in/) [Africa](/en/post/africa/)."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) regaled [the](/en/post/the/) children [with](/en/post/with/) [a](/en/post/a/) [tale](/en/post/tale/) [of](/en/post/of/) [adventure](/en/post/adventure/)."
+- "[Her](/en/post/her/) favorite [hobby](/en/post/hobby/) is listening [to](/en/post/to/) folktales [from](/en/post/from/) [different](/en/post/different/) cultures."
 
 ## Synonyms
 - Narrative
-- Story
-- Fable
-- Legend
-- Account
+- [Story](/en/post/story/)
+- [Fable](/en/post/fable/)
+- [Legend](/en/post/legend/)
+- [Account](/en/post/account/)
 
 ## Antonyms
-- Fact
-- Reality
-- Truth
+- [Fact](/en/post/fact/)
+- [Reality](/en/post/reality/)
+- [Truth](/en/post/truth/)
 
-## Usage
-### Noun
-- The children gathered around to hear their grandmother's bedtime tale.
-- He had a knack for spinning thrilling tales that captivated his audience.
+## [Usage](/en/post/usage/)
+### [Noun](/en/post/noun/)
+- [The](/en/post/the/) children gathered [around](/en/post/around/) [to](/en/post/to/) [hear](/en/post/hear/) [their](/en/post/their/) grandmother's bedtime [tale](/en/post/tale/).
+- [He](/en/post/he/) had [a](/en/post/a/) knack [for](/en/post/for/) spinning thrilling tales [that](/en/post/that/) captivated [his](/en/post/his/) [audience](/en/post/audience/).
 
-### Verb
-- She decided to share her tale of survival after a near-miss accident.
-- He began to tale the history of the old castle, painting a vivid picture with his words.
+### [Verb](/en/post/verb/)
+- [She](/en/post/she/) decided [to](/en/post/to/) [share](/en/post/share/) [her](/en/post/her/) [tale](/en/post/tale/) [of](/en/post/of/) survival [after](/en/post/after/) [a](/en/post/a/) near-miss [accident](/en/post/accident/).
+- [He](/en/post/he/) began [to](/en/post/to/) [tale](/en/post/tale/) [the](/en/post/the/) [history](/en/post/history/) [of](/en/post/of/) [the](/en/post/the/) [old](/en/post/old/) [castle](/en/post/castle/), [painting](/en/post/painting/) [a](/en/post/a/) [vivid](/en/post/vivid/) [picture](/en/post/picture/) [with](/en/post/with/) [his](/en/post/his/) words.

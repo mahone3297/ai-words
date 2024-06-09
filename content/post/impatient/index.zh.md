@@ -11,20 +11,20 @@ keywords = ['ai words', 'impatient']
 /ɪmˈpeɪʃnt/
 
 ## 释义
-- **形容词**: 缺乏耐心的；急躁的。例如: "He became impatient waiting for the bus."
-- **副词**: 不耐烦地。例如: "She answered him impatiently."
+- **形容词**: 缺乏耐心的；急躁的。例如: "[He](/post/he/) became [impatient](/post/impatient/) waiting [for](/post/for/) [the](/post/the/) [bus](/post/bus/)."
+- **副词**: 不耐烦地。例如: "[She](/post/she/) answered [him](/post/him/) impatiently."
 
 ## 短语
-- "get impatient" 表示变得不耐烦。
-- "be impatient with sb." 意味着对某人失去耐心。
+- "[get](/post/get/) [impatient](/post/impatient/)" 表示变得不耐烦。
+- "[be](/post/be/) [impatient](/post/impatient/) [with](/post/with/) sb." 意味着对某人失去耐心。
 
 ## 例句
-- 形容词: "She was so impatient that she couldn't wait any longer."
-- 副词: "He listened impatiently to her long story."
+- 形容词: "[She](/post/she/) was [so](/post/so/) [impatient](/post/impatient/) [that](/post/that/) [she](/post/she/) couldn't [wait](/post/wait/) [any](/post/any/) longer."
+- 副词: "[He](/post/he/) listened impatiently [to](/post/to/) [her](/post/her/) [long](/post/long/) [story](/post/story/)."
 
 ## 同义词
 - Impetuous
-- Restless
-- Hasty
+- [Restless](/post/restless/)
+- [Hasty](/post/hasty/)
 - Fidgety
-- Nervous
+- [Nervous](/post/nervous/)

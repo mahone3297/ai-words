@@ -11,22 +11,22 @@ keywords = ['ai words', 'normal']
 /ˈnɔːrml/
 
 ## 释义
-- **形容词**: 符合常规的，标准的，正常的。例如: "It's normal to feel tired after a long day of work."
-- **名词**: 正常状态，常态。例如: "During weekdays, the city has a normal routine."
-- **副词**: 通常，一般情况下。例如: "In most cases, the package arrives within normal delivery time."
+- **形容词**: 符合常规的，标准的，正常的。例如: "It's [normal](/post/normal/) [to](/post/to/) [feel](/post/feel/) [tired](/post/tired/) [after](/post/after/) [a](/post/a/) [long](/post/long/) [day](/post/day/) [of](/post/of/) [work](/post/work/)."
+- **名词**: 正常状态，常态。例如: "[During](/post/during/) weekdays, [the](/post/the/) [city](/post/city/) has [a](/post/a/) [normal](/post/normal/) [routine](/post/routine/)."
+- **副词**: 通常，一般情况下。例如: "[In](/post/in/) [most](/post/most/) cases, [the](/post/the/) [package](/post/package/) arrives [within](/post/within/) [normal](/post/normal/) [delivery](/post/delivery/) [time](/post/time/)."
 
 ## 短语
-- "Within the normal range" 意为在正常范围内。
-- "Abnormal behavior" 与 normal 形成对比，指的是不寻常的行为。
+- "[Within](/post/within/) [the](/post/the/) [normal](/post/normal/) [range](/post/range/)" 意为在正常范围内。
+- "[Abnormal](/post/abnormal/) [behavior](/post/behavior/)" 与 [normal](/post/normal/) 形成对比，指的是不寻常的行为。
 
 ## 例句
-- 形容词: "The child's development is right on track, which is completely normal for his age."
-- 名词: "After the storm, life returned to normal in the affected areas."
-- 副词: "She usually arrives at the office at the normal time of 9 am."
+- 形容词: "[The](/post/the/) child's [development](/post/development/) is [right](/post/right/) [on](/post/on/) [track](/post/track/), [which](/post/which/) is [completely](/post/completely/) [normal](/post/normal/) [for](/post/for/) [his](/post/his/) [age](/post/age/)."
+- 名词: "[After](/post/after/) [the](/post/the/) [storm](/post/storm/), [life](/post/life/) returned [to](/post/to/) [normal](/post/normal/) [in](/post/in/) [the](/post/the/) affected areas."
+- 副词: "[She](/post/she/) [usually](/post/usually/) arrives [at](/post/at/) [the](/post/the/) [office](/post/office/) [at](/post/at/) [the](/post/the/) [normal](/post/normal/) [time](/post/time/) [of](/post/of/) 9 am."
 
 ## 同义词
-- Typical
-- Usual
-- Average
-- Common
-- Standard
+- [Typical](/post/typical/)
+- [Usual](/post/usual/)
+- [Average](/post/average/)
+- [Common](/post/common/)
+- [Standard](/post/standard/)

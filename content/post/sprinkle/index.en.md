@@ -7,41 +7,41 @@ description = '[ˈspriŋkl] n.洒，撒；小雨'
 keywords = ['ai words', 'sprinkle']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /sprɪŋkəl/
 
 ## Definitions
-### Noun
-- **Sprinkling**: A light, scattered application of a substance, often water or flour, typically for decoration or as a topping. For example: "The cake was adorned with a sprinkling of sugar."
-- **Sprinkler**: A device that sprays water in a fine mist for watering plants or cooling purposes. For example: "The garden needed a good sprinkling after the hot day."
+### [Noun](/en/post/noun/)
+- **Sprinkling**: [A](/en/post/a/) [light](/en/post/light/), scattered [application](/en/post/application/) [of](/en/post/of/) [a](/en/post/a/) [substance](/en/post/substance/), [often](/en/post/often/) [water](/en/post/water/) [or](/en/post/or/) [flour](/en/post/flour/), typically [for](/en/post/for/) decoration [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) topping. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [cake](/en/post/cake/) was adorned [with](/en/post/with/) [a](/en/post/a/) sprinkling [of](/en/post/of/) [sugar](/en/post/sugar/)."
+- **Sprinkler**: [A](/en/post/a/) [device](/en/post/device/) [that](/en/post/that/) sprays [water](/en/post/water/) [in](/en/post/in/) [a](/en/post/a/) [fine](/en/post/fine/) [mist](/en/post/mist/) [for](/en/post/for/) watering plants [or](/en/post/or/) cooling purposes. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) needed [a](/en/post/a/) [good](/en/post/good/) sprinkling [after](/en/post/after/) [the](/en/post/the/) [hot](/en/post/hot/) [day](/en/post/day/)."
 
-### Verb
-- **To sprinkle**: To scatter or lightly dust a surface with a small amount of something, usually dry. For example: "She sprinkled cinnamon on top of the pancakes."
-- **To sprinkle with**: To apply a light coating of a substance. For example: "He sprinkled the bread with sesame seeds before baking."
+### [Verb](/en/post/verb/)
+- **[To](/en/post/to/) [sprinkle](/en/post/sprinkle/)**: [To](/en/post/to/) [scatter](/en/post/scatter/) [or](/en/post/or/) [lightly](/en/post/lightly/) [dust](/en/post/dust/) [a](/en/post/a/) [surface](/en/post/surface/) [with](/en/post/with/) [a](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [of](/en/post/of/) [something](/en/post/something/), [usually](/en/post/usually/) [dry](/en/post/dry/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sprinkled cinnamon [on](/en/post/on/) [top](/en/post/top/) [of](/en/post/of/) [the](/en/post/the/) pancakes."
+- **[To](/en/post/to/) [sprinkle](/en/post/sprinkle/) [with](/en/post/with/)**: [To](/en/post/to/) [apply](/en/post/apply/) [a](/en/post/a/) [light](/en/post/light/) coating [of](/en/post/of/) [a](/en/post/a/) [substance](/en/post/substance/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) sprinkled [the](/en/post/the/) [bread](/en/post/bread/) [with](/en/post/with/) sesame seeds [before](/en/post/before/) baking."
 
-### Adjective
-- **Sprinkled**: Describing something covered or decorated with a scattered amount of a substance. For example: "The grass was sprinkled with dandelions."
+### [Adjective](/en/post/adjective/)
+- **Sprinkled**: Describing [something](/en/post/something/) covered [or](/en/post/or/) decorated [with](/en/post/with/) [a](/en/post/a/) scattered [amount](/en/post/amount/) [of](/en/post/of/) [a](/en/post/a/) [substance](/en/post/substance/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [grass](/en/post/grass/) was sprinkled [with](/en/post/with/) dandelions."
 
 ## Phrases
-- "Sprinkle something with..." suggests applying a light coating of a particular ingredient.
-- "A light sprinkle of..." indicates a small amount of a substance.
-- "Sprinkled frosting" is a common dessert description.
+- "[Sprinkle](/en/post/sprinkle/) [something](/en/post/something/) [with](/en/post/with/)..." suggests applying [a](/en/post/a/) [light](/en/post/light/) coating [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) ingredient.
+- "[A](/en/post/a/) [light](/en/post/light/) [sprinkle](/en/post/sprinkle/) [of](/en/post/of/)..." indicates [a](/en/post/a/) [small](/en/post/small/) [amount](/en/post/amount/) [of](/en/post/of/) [a](/en/post/a/) [substance](/en/post/substance/).
+- "Sprinkled frosting" is [a](/en/post/a/) [common](/en/post/common/) dessert [description](/en/post/description/).
 
-## Example Sentences
-- **Noun**: "The children were playing in the sprinkler on a hot summer day."
-- **Verb**: "She sprinkled some flour on the countertop before rolling out the dough."
-- **Adjective**: "The table was beautifully set, with a sprinkled layer of flowers."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were playing [in](/en/post/in/) [the](/en/post/the/) sprinkler [on](/en/post/on/) [a](/en/post/a/) [hot](/en/post/hot/) [summer](/en/post/summer/) [day](/en/post/day/)."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) sprinkled [some](/en/post/some/) [flour](/en/post/flour/) [on](/en/post/on/) [the](/en/post/the/) countertop [before](/en/post/before/) rolling [out](/en/post/out/) [the](/en/post/the/) dough."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [table](/en/post/table/) was beautifully [set](/en/post/set/), [with](/en/post/with/) [a](/en/post/a/) sprinkled [layer](/en/post/layer/) [of](/en/post/of/) flowers."
 
 ## Synonyms
-- Scatter
-- Dust
+- [Scatter](/en/post/scatter/)
+- [Dust](/en/post/dust/)
 - Scatterings
 - Dapple
-- Lightly cover
-- Scatter with
+- [Lightly](/en/post/lightly/) [cover](/en/post/cover/)
+- [Scatter](/en/post/scatter/) [with](/en/post/with/)
 
 ## Antonyms
-- Heap
-- Pour
-- Coat heavily
-- Spray (in large quantities)
+- [Heap](/en/post/heap/)
+- [Pour](/en/post/pour/)
+- [Coat](/en/post/coat/) [heavily](/en/post/heavily/)
+- [Spray](/en/post/spray/) ([in](/en/post/in/) [large](/en/post/large/) quantities)

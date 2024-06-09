@@ -11,19 +11,19 @@ keywords = ['ai words', 'evil']
 /ˈiːvəl/
 
 ## 释义
-- **形容词**: 恶的，邪恶的，不道德的。例如: "The villain had an evil plan to rob the bank."
-- **名词**: 邪恶，罪恶，不道德的行为。例如: "They discussed the existence of evil in the world."
+- **形容词**: 恶的，邪恶的，不道德的。例如: "[The](/post/the/) villain had an [evil](/post/evil/) [plan](/post/plan/) [to](/post/to/) [rob](/post/rob/) [the](/post/the/) [bank](/post/bank/)."
+- **名词**: 邪恶，罪恶，不道德的行为。例如: "[They](/post/they/) discussed [the](/post/the/) [existence](/post/existence/) [of](/post/of/) [evil](/post/evil/) [in](/post/in/) [the](/post/the/) [world](/post/world/)."
 
 ## 短语
-- "evil deeds" 指邪恶的行为或坏事。
-- "the power of evil" 指邪恶的力量或势力。
+- "[evil](/post/evil/) deeds" 指邪恶的行为或坏事。
+- "[the](/post/the/) [power](/post/power/) [of](/post/of/) [evil](/post/evil/)" 指邪恶的力量或势力。
 
 ## 例句
-- 形容词: "His evil smile sent shivers down my spine."
-- 名词: "Many religious beliefs center around the battle between good and evil."
+- 形容词: "[His](/post/his/) [evil](/post/evil/) [smile](/post/smile/) sent shivers [down](/post/down/) [my](/post/my/) spine."
+- 名词: "[Many](/post/many/) [religious](/post/religious/) beliefs center [around](/post/around/) [the](/post/the/) [battle](/post/battle/) [between](/post/between/) [good](/post/good/) [and](/post/and/) [evil](/post/evil/)."
 
 ## 同义词
-- wicked
+- [wicked](/post/wicked/)
 - malevolent
 - nefarious
 - sinister

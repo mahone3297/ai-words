@@ -7,23 +7,23 @@ description = '[ˈvizjuəl] a.看的；看得见的'
 keywords = ['ai words', 'visual']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈvaɪʒuəl/
 
 ## Definitions
-- **Adjective**: Relating to the sense of sight or vision; pertaining to what can be seen. For example: "The visual arts include painting and sculpture."
-- **Noun**: A visual representation or display, such as an image or graphic. For example: "The presentation included many visual aids."
-- **Adverb**: In a visual manner; by using sight. For example: "She explained the concept visually."
+- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [sight](/en/post/sight/) [or](/en/post/or/) [vision](/en/post/vision/); pertaining [to](/en/post/to/) [what](/en/post/what/) [can](/en/post/can/) [be](/en/post/be/) seen. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [visual](/en/post/visual/) arts [include](/en/post/include/) [painting](/en/post/painting/) [and](/en/post/and/) sculpture."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [visual](/en/post/visual/) representation [or](/en/post/or/) [display](/en/post/display/), [such](/en/post/such/) [as](/en/post/as/) an [image](/en/post/image/) [or](/en/post/or/) graphic. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) presentation included [many](/en/post/many/) [visual](/en/post/visual/) aids."
+- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [visual](/en/post/visual/) [manner](/en/post/manner/); [by](/en/post/by/) using [sight](/en/post/sight/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) explained [the](/en/post/the/) [concept](/en/post/concept/) visually."
 
 ## Phrases
-- "Visual perception" refers to how we interpret what we see.
-- "A visual memory" is one based on remembering images.
-- "Visual communication" involves conveying ideas through visuals.
+- "[Visual](/en/post/visual/) perception" refers [to](/en/post/to/) [how](/en/post/how/) [we](/en/post/we/) [interpret](/en/post/interpret/) [what](/en/post/what/) [we](/en/post/we/) [see](/en/post/see/).
+- "[A](/en/post/a/) [visual](/en/post/visual/) [memory](/en/post/memory/)" is [one](/en/post/one/) based [on](/en/post/on/) remembering images.
+- "[Visual](/en/post/visual/) [communication](/en/post/communication/)" involves conveying ideas [through](/en/post/through/) visuals.
 
-## Example Sentences
-- **Adjective**: "The blind artist had an incredible ability to create stunning visual art."
-- **Noun**: "The students were given a visual tour of the museum."
-- **Adverb**: "He demonstrated the process visually, making it easier to understand."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [blind](/en/post/blind/) [artist](/en/post/artist/) had an incredible [ability](/en/post/ability/) [to](/en/post/to/) [create](/en/post/create/) stunning [visual](/en/post/visual/) [art](/en/post/art/)."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) students were given [a](/en/post/a/) [visual](/en/post/visual/) [tour](/en/post/tour/) [of](/en/post/of/) [the](/en/post/the/) [museum](/en/post/museum/)."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) demonstrated [the](/en/post/the/) [process](/en/post/process/) visually, making [it](/en/post/it/) easier [to](/en/post/to/) [understand](/en/post/understand/)."
 
 ## Synonyms
 - Sight-related
@@ -37,6 +37,6 @@ keywords = ['ai words', 'visual']
 ## Antonyms
 - Auditory
 - Tactile
-- Sensory (referring to other senses)
+- Sensory (referring [to](/en/post/to/) [other](/en/post/other/) senses)
 - Non-visual
-- Abstract
+- [Abstract](/en/post/abstract/)

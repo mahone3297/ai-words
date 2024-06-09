@@ -12,26 +12,26 @@ keywords = ['ai words', 'sole']
 
 ## 释义
 - **名词**:
-   - 人的脚底，尤指鞋或靴的底部。例如: "The sole of my shoe is worn out."
-   - （鱼或其他动物的）腹足，底部。例如: "The sole of the fish has delicate flesh."
-   - 唯一的，仅有的。例如: "She is the sole survivor of the accident."
-   - （某些组织或群体的）核心，精髓。例如: "The company's sole purpose is to provide excellent customer service."
+   - 人的脚底，尤指鞋或靴的底部。例如: "[The](/post/the/) [sole](/post/sole/) [of](/post/of/) [my](/post/my/) [shoe](/post/shoe/) is worn [out](/post/out/)."
+   - （鱼或其他动物的）腹足，底部。例如: "[The](/post/the/) [sole](/post/sole/) [of](/post/of/) [the](/post/the/) [fish](/post/fish/) has [delicate](/post/delicate/) [flesh](/post/flesh/)."
+   - 唯一的，仅有的。例如: "[She](/post/she/) is [the](/post/the/) [sole](/post/sole/) survivor [of](/post/of/) [the](/post/the/) [accident](/post/accident/)."
+   - （某些组织或群体的）核心，精髓。例如: "[The](/post/the/) company's [sole](/post/sole/) [purpose](/post/purpose/) is [to](/post/to/) [provide](/post/provide/) [excellent](/post/excellent/) [customer](/post/customer/) [service](/post/service/)."
 
 - **形容词**:
-   - 独一无二的，仅有的。例如: "This is my sole copy of the manuscript."
-   - 单独的，孤独的。例如: "He felt like a sole survivor in the deserted city."
+   - 独一无二的，仅有的。例如: "[This](/post/this/) is [my](/post/my/) [sole](/post/sole/) [copy](/post/copy/) [of](/post/of/) [the](/post/the/) manuscript."
+   - 单独的，孤独的。例如: "[He](/post/he/) felt [like](/post/like/) [a](/post/a/) [sole](/post/sole/) survivor [in](/post/in/) [the](/post/the/) deserted [city](/post/city/)."
 
 ## 短语
-- "Sole proprietorship" 指个体经营的企业。
-- "The sole focus" 表示唯一关注点或目标。
+- "[Sole](/post/sole/) proprietorship" 指个体经营的企业。
+- "[The](/post/the/) [sole](/post/sole/) [focus](/post/focus/)" 表示唯一关注点或目标。
 
 ## 例句
-- 名词: "He put on a new pair of shoes with comfortable soles."
-- 形容词: "She is the sole heir to her grandfather's fortune."
+- 名词: "[He](/post/he/) [put](/post/put/) [on](/post/on/) [a](/post/a/) [new](/post/new/) [pair](/post/pair/) [of](/post/of/) shoes [with](/post/with/) [comfortable](/post/comfortable/) soles."
+- 形容词: "[She](/post/she/) is [the](/post/the/) [sole](/post/sole/) [heir](/post/heir/) [to](/post/to/) [her](/post/her/) grandfather's [fortune](/post/fortune/)."
 
 ## 同义词
-- Only
-- Unique
+- [Only](/post/only/)
+- [Unique](/post/unique/)
 - Unmatched
 - Exclusive
-- Single
+- [Single](/post/single/)

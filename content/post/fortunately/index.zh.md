@@ -14,12 +14,12 @@ keywords = ['ai words', 'fortunately']
 - **副词**: 幸运地，幸亏，适巧。表示情况或结果比预期的好。
 
 ## 短语
-- "Fortunately, it didn't rain on our picnic."
-- "Fortunately for him, he found a job quickly."
+- "[Fortunately](/post/fortunately/), [it](/post/it/) didn't [rain](/post/rain/) [on](/post/on/) [our](/post/our/) [picnic](/post/picnic/)."
+- "[Fortunately](/post/fortunately/) [for](/post/for/) [him](/post/him/), [he](/post/he/) [found](/post/found/) [a](/post/a/) [job](/post/job/) [quickly](/post/quickly/)."
 
 ## 例句
-- "Fortunately, we arrived just in time for the concert."
-- "It was fortunate that she had a backup plan."
+- "[Fortunately](/post/fortunately/), [we](/post/we/) arrived [just](/post/just/) [in](/post/in/) [time](/post/time/) [for](/post/for/) [the](/post/the/) [concert](/post/concert/)."
+- "[It](/post/it/) was [fortunate](/post/fortunate/) [that](/post/that/) [she](/post/she/) had [a](/post/a/) backup [plan](/post/plan/)."
 
 ## 同义词
 - Thankfully

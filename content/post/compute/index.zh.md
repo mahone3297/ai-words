@@ -11,21 +11,21 @@ keywords = ['ai words', 'compute']
 /comˈpjuːt/
 
 ## 释义
-- **动词**: 运算；计算。例如: "The computer computes the sum of these numbers quickly."
-- **名词**: 计算机；电脑。例如: "She uses her laptop computer for work."
+- **动词**: 运算；计算。例如: "[The](/post/the/) [computer](/post/computer/) computes [the](/post/the/) [sum](/post/sum/) [of](/post/of/) [these](/post/these/) numbers [quickly](/post/quickly/)."
+- **名词**: 计算机；电脑。例如: "[She](/post/she/) uses [her](/post/her/) laptop [computer](/post/computer/) [for](/post/for/) [work](/post/work/)."
 
 ## 短语
-- "To compute something" 表示计算某个事物。
-- "Computer science" 指的是计算机科学领域。
+- "[To](/post/to/) [compute](/post/compute/) [something](/post/something/)" 表示计算某个事物。
+- "[Computer](/post/computer/) [science](/post/science/)" 指的是计算机科学领域。
 - "Computational thinking" 是指解决问题的计算思维方式。
 
 ## 例句
-- 动词: "The program computes the distance between two points in seconds."
-- 名词: "He's an expert in artificial intelligence, working in the field of computer science."
+- 动词: "[The](/post/the/) [program](/post/program/) computes [the](/post/the/) [distance](/post/distance/) [between](/post/between/) [two](/post/two/) points [in](/post/in/) seconds."
+- 名词: "He's an [expert](/post/expert/) [in](/post/in/) [artificial](/post/artificial/) [intelligence](/post/intelligence/), working [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [computer](/post/computer/) [science](/post/science/)."
 
 ## 同义词
-- Calculate
-- Estimate
-- Figure
+- [Calculate](/post/calculate/)
+- [Estimate](/post/estimate/)
+- [Figure](/post/figure/)
 - Crunch numbers
-- Process
+- [Process](/post/process/)

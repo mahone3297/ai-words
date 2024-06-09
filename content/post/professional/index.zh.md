@@ -11,21 +11,21 @@ keywords = ['ai words', 'professional']
 /prəˈfeʃənl/
 
 ## 释义
-- **形容词**: 专业的；符合职业标准的；熟练的。例如: "She has a very professional attitude towards her work."
-- **名词**: 专业人士；专家。例如: "He is a professional football player."
+- **形容词**: 专业的；符合职业标准的；熟练的。例如: "[She](/post/she/) has [a](/post/a/) [very](/post/very/) [professional](/post/professional/) [attitude](/post/attitude/) towards [her](/post/her/) [work](/post/work/)."
+- **名词**: 专业人士；专家。例如: "[He](/post/he/) is [a](/post/a/) [professional](/post/professional/) [football](/post/football/) [player](/post/player/)."
 
 ## 短语
-- "professional standards" 专业标准
-- "professional ethics" 职业道德
-- "work professionally" 专业地工作
+- "[professional](/post/professional/) standards" 专业标准
+- "[professional](/post/professional/) ethics" 职业道德
+- "[work](/post/work/) professionally" 专业地工作
 
 ## 例句
-- 形容词: "The design of the website looks very professional."
-- 名词: "The doctors and nurses in the hospital are all professionals."
+- 形容词: "[The](/post/the/) [design](/post/design/) [of](/post/of/) [the](/post/the/) website looks [very](/post/very/) [professional](/post/professional/)."
+- 名词: "[The](/post/the/) doctors [and](/post/and/) nurses [in](/post/in/) [the](/post/the/) [hospital](/post/hospital/) are [all](/post/all/) professionals."
 
 ## 同义词
-- Expert
-- Specialist
-- Skilled
+- [Expert](/post/expert/)
+- [Specialist](/post/specialist/)
+- [Skilled](/post/skilled/)
 - Seasoned
-- Competent
+- [Competent](/post/competent/)

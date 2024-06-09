@@ -11,20 +11,20 @@ keywords = ['ai words', 'chop']
 /chɒp/
 
 ## 释义
-- **动词**: 用刀用力切，剁。例如: "He chopped the wood into small pieces."
-- **名词**: 切下的部分，剁碎的食物。例如: "She served a delicious dish with fresh vegetable chops."
+- **动词**: 用刀用力切，剁。例如: "[He](/post/he/) chopped [the](/post/the/) [wood](/post/wood/) [into](/post/into/) [small](/post/small/) pieces."
+- **名词**: 切下的部分，剁碎的食物。例如: "[She](/post/she/) served [a](/post/a/) [delicious](/post/delicious/) [dish](/post/dish/) [with](/post/with/) [fresh](/post/fresh/) [vegetable](/post/vegetable/) chops."
 
 ## 短语
-- "Chop down" 意为砍倒（树木）。
-- "Chop up" 意为切碎，剁细。例如: "Chop the onion and garlic before sautéing them."
+- "[Chop](/post/chop/) [down](/post/down/)" 意为砍倒（树木）。
+- "[Chop](/post/chop/) [up](/post/up/)" 意为切碎，剁细。例如: "[Chop](/post/chop/) [the](/post/the/) [onion](/post/onion/) [and](/post/and/) garlic [before](/post/before/) sautéing [them](/post/them/)."
 
 ## 例句
-- 动词: "The chef skillfully chopped the carrots into uniform pieces."
-- 名词: "The baby enjoyed eating the pork chops for dinner."
+- 动词: "[The](/post/the/) chef skillfully chopped [the](/post/the/) carrots [into](/post/into/) [uniform](/post/uniform/) pieces."
+- 名词: "[The](/post/the/) [baby](/post/baby/) enjoyed eating [the](/post/the/) [pork](/post/pork/) chops [for](/post/for/) [dinner](/post/dinner/)."
 
 ## 同义词
-- Cut
-- Slice
+- [Cut](/post/cut/)
+- [Slice](/post/slice/)
 - Dice
 - Mince
 - Hack

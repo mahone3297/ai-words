@@ -11,21 +11,21 @@ keywords = ['ai words', 'ratio']
 /ˈreɪʃoʊ/
 
 ## 释义
-- **名词**: 比率，比例，比率关系。例如: "The ratio of boys to girls in the class is 3:2."
-- **名词**: 等比，等差，常用于数学和科学中。例如: "The speed and distance have a direct ratio."
+- **名词**: 比率，比例，比率关系。例如: "[The](/post/the/) [ratio](/post/ratio/) [of](/post/of/) boys [to](/post/to/) girls [in](/post/in/) [the](/post/the/) [class](/post/class/) is 3:2."
+- **名词**: 等比，等差，常用于数学和科学中。例如: "[The](/post/the/) [speed](/post/speed/) [and](/post/and/) [distance](/post/distance/) [have](/post/have/) [a](/post/a/) [direct](/post/direct/) [ratio](/post/ratio/)."
 
 ## 短语
-- "Weight-to-height ratio" 体重与身高的比例。
-- "Profit margin ratio" 利润率。
-- "Interest rate ratio" 利息率。
+- "Weight-to-height [ratio](/post/ratio/)" 体重与身高的比例。
+- "[Profit](/post/profit/) [margin](/post/margin/) [ratio](/post/ratio/)" 利润率。
+- "[Interest](/post/interest/) [rate](/post/rate/) [ratio](/post/ratio/)" 利息率。
 
 ## 例句
-- 名词: "The ratio of water to flour in this recipe is 2:1."
-- 名词: "The company's revenue growth ratio has been steady over the past five years."
+- 名词: "[The](/post/the/) [ratio](/post/ratio/) [of](/post/of/) [water](/post/water/) [to](/post/to/) [flour](/post/flour/) [in](/post/in/) [this](/post/this/) recipe is 2:1."
+- 名词: "[The](/post/the/) company's revenue [growth](/post/growth/) [ratio](/post/ratio/) has been [steady](/post/steady/) [over](/post/over/) [the](/post/the/) [past](/post/past/) [five](/post/five/) years."
 
 ## 同义词
-- Proportion
-- Comparison
-- Rate
-- Balance
-- Comparative measure
+- [Proportion](/post/proportion/)
+- [Comparison](/post/comparison/)
+- [Rate](/post/rate/)
+- [Balance](/post/balance/)
+- [Comparative](/post/comparative/) [measure](/post/measure/)

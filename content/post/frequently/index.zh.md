@@ -14,17 +14,17 @@ keywords = ['ai words', 'frequently']
 - **副词**: 频繁地，经常，常常。表示动作发生的频率很高。
 
 ## 短语
-- "frequently asked questions" (FAQ) 常见问题
-- "frequent flyers" 经常乘坐飞机的旅客
+- "[frequently](/post/frequently/) asked questions" (FAQ) 常见问题
+- "[frequent](/post/frequent/) flyers" 经常乘坐飞机的旅客
 
 ## 例句
-- "I visit my parents frequently, about once a month."（我经常去看望父母，大约每个月一次。）
-- "The restaurant is frequented by celebrities."（这家餐厅经常有名人光顾。）
-- "This machine needs maintenance frequently due to heavy usage."（由于使用频繁，这台机器需要经常保养。）
+- "I [visit](/post/visit/) [my](/post/my/) parents [frequently](/post/frequently/), [about](/post/about/) [once](/post/once/) [a](/post/a/) [month](/post/month/)."（我经常去看望父母，大约每个月一次。）
+- "[The](/post/the/) [restaurant](/post/restaurant/) is frequented [by](/post/by/) celebrities."（这家餐厅经常有名人光顾。）
+- "[This](/post/this/) [machine](/post/machine/) needs [maintenance](/post/maintenance/) [frequently](/post/frequently/) [due](/post/due/) [to](/post/to/) [heavy](/post/heavy/) [usage](/post/usage/)."（由于使用频繁，这台机器需要经常保养。）
 
 ## 同义词
-- often
-- regularly
-- commonly
-- repeatedly
+- [often](/post/often/)
+- [regularly](/post/regularly/)
+- [commonly](/post/commonly/)
+- [repeatedly](/post/repeatedly/)
 - continually

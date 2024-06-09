@@ -16,12 +16,12 @@ keywords = ['ai words', 'materialism']
    - **物质主义**: 过分关注物质财富和享受的生活态度或价值观。
 
 ## 短语
-- "Materialist philosophy" 指的是唯物主义哲学。
-- "Consumer materialism" 指消费者对物质商品的过度追求。
+- "Materialist [philosophy](/post/philosophy/)" 指的是唯物主义哲学。
+- "Consumer [materialism](/post/materialism/)" 指消费者对物质商品的过度追求。
 
 ## 例句
-- 名词: "Marx's theory is based on materialism, emphasizing the importance of economic conditions in shaping society."
-- 名词: "In today's world, some people criticize the rise of materialism for leading to a decline in spiritual values."
+- 名词: "Marx's [theory](/post/theory/) is based [on](/post/on/) [materialism](/post/materialism/), emphasizing [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [economic](/post/economic/) conditions [in](/post/in/) shaping [society](/post/society/)."
+- 名词: "[In](/post/in/) today's [world](/post/world/), [some](/post/some/) [people](/post/people/) [criticize](/post/criticize/) [the](/post/the/) [rise](/post/rise/) [of](/post/of/) [materialism](/post/materialism/) [for](/post/for/) [leading](/post/leading/) [to](/post/to/) [a](/post/a/) decline [in](/post/in/) [spiritual](/post/spiritual/) values."
 
 ## 同义词
 - Physicalism

@@ -12,22 +12,22 @@ keywords = ['ai words', 'area']
 
 ## 释义
 - **名词**:
-   - 地区；区域：例如 "The city has several distinct cultural areas."
-   - 面积；地域：例如 "The house has a large living area."
-   - 场所；领域：例如 "The company's sales area is expanding."
+   - 地区；区域：例如 "[The](/post/the/) [city](/post/city/) has [several](/post/several/) [distinct](/post/distinct/) cultural areas."
+   - 面积；地域：例如 "[The](/post/the/) [house](/post/house/) has [a](/post/a/) [large](/post/large/) [living](/post/living/) [area](/post/area/)."
+   - 场所；领域：例如 "[The](/post/the/) company's sales [area](/post/area/) is expanding."
 
 ## 短语
-- "Area of expertise" 意为专业领域。
-- "Living area" 指居住区域，如客厅。
-- "Urban area" 表示城市地区。
+- "[Area](/post/area/) [of](/post/of/) expertise" 意为专业领域。
+- "[Living](/post/living/) [area](/post/area/)" 指居住区域，如客厅。
+- "Urban [area](/post/area/)" 表示城市地区。
 
 ## 例句
-- 名词: "The Amazon rainforest is a vast and biodiverse area."
-- 名词: "We need to calculate the area of this triangle to find its surface."
+- 名词: "[The](/post/the/) Amazon rainforest is [a](/post/a/) [vast](/post/vast/) [and](/post/and/) biodiverse [area](/post/area/)."
+- 名词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [calculate](/post/calculate/) [the](/post/the/) [area](/post/area/) [of](/post/of/) [this](/post/this/) [triangle](/post/triangle/) [to](/post/to/) [find](/post/find/) [its](/post/its/) [surface](/post/surface/)."
 
 ## 同义词
-- Region
-- Territory
+- [Region](/post/region/)
+- [Territory](/post/territory/)
 - Locale
 - Domain
-- Zone
+- [Zone](/post/zone/)

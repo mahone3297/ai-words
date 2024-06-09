@@ -7,32 +7,32 @@ description = '[ˈdik∫ənəri] n.词典，字典'
 keywords = ['ai words', 'dictionary']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /dɪkˈtʃəri/
 
 ## Definitions
-- **Noun**: A reference work containing words, their meanings, and often also their pronunciation, etymology, and other information. For example: "The dictionary is a fundamental tool for language learners."
-- **Verb**: To look up the meaning of a word in a dictionary. For example: "I had to dictionary the word to understand its correct usage."
-- **Noun (collective)**: A collection of words or expressions, often grouped by meaning or alphabetically. For example: "The dictionary is organized by subject matter."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [reference](/en/post/reference/) [work](/en/post/work/) containing words, [their](/en/post/their/) meanings, [and](/en/post/and/) [often](/en/post/often/) [also](/en/post/also/) [their](/en/post/their/) [pronunciation](/en/post/pronunciation/), etymology, [and](/en/post/and/) [other](/en/post/other/) [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [dictionary](/en/post/dictionary/) is [a](/en/post/a/) [fundamental](/en/post/fundamental/) [tool](/en/post/tool/) [for](/en/post/for/) [language](/en/post/language/) learners."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [look](/en/post/look/) [up](/en/post/up/) [the](/en/post/the/) [meaning](/en/post/meaning/) [of](/en/post/of/) [a](/en/post/a/) [word](/en/post/word/) [in](/en/post/in/) [a](/en/post/a/) [dictionary](/en/post/dictionary/). [For](/en/post/for/) [example](/en/post/example/): "I had [to](/en/post/to/) [dictionary](/en/post/dictionary/) [the](/en/post/the/) [word](/en/post/word/) [to](/en/post/to/) [understand](/en/post/understand/) [its](/en/post/its/) [correct](/en/post/correct/) [usage](/en/post/usage/)."
+- **[Noun](/en/post/noun/) ([collective](/en/post/collective/))**: [A](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) words [or](/en/post/or/) expressions, [often](/en/post/often/) grouped [by](/en/post/by/) [meaning](/en/post/meaning/) [or](/en/post/or/) alphabetically. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [dictionary](/en/post/dictionary/) is organized [by](/en/post/by/) [subject](/en/post/subject/) [matter](/en/post/matter/)."
 
 ## Phrases
-- "Consult a dictionary" suggests looking up information in a reference book.
-- "The dictionary defines 'ambivalent' as having mixed feelings."
-- "A pocket dictionary is convenient for on-the-go use."
+- "[Consult](/en/post/consult/) [a](/en/post/a/) [dictionary](/en/post/dictionary/)" suggests looking [up](/en/post/up/) [information](/en/post/information/) [in](/en/post/in/) [a](/en/post/a/) [reference](/en/post/reference/) [book](/en/post/book/).
+- "[The](/en/post/the/) [dictionary](/en/post/dictionary/) defines 'ambivalent' [as](/en/post/as/) having mixed feelings."
+- "[A](/en/post/a/) [pocket](/en/post/pocket/) [dictionary](/en/post/dictionary/) is [convenient](/en/post/convenient/) [for](/en/post/for/) on-the-go [use](/en/post/use/)."
 
-## Example Sentences
-- **Noun**: "She referred to the dictionary to check the spelling of the word."
-- **Verb**: "Students are encouraged to dictionary unfamiliar vocabulary during reading assignments."
-- **Noun (collective)**: "The online dictionary has a vast array of synonyms and antonyms."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) referred [to](/en/post/to/) [the](/en/post/the/) [dictionary](/en/post/dictionary/) [to](/en/post/to/) [check](/en/post/check/) [the](/en/post/the/) [spelling](/en/post/spelling/) [of](/en/post/of/) [the](/en/post/the/) [word](/en/post/word/)."
+- **[Verb](/en/post/verb/)**: "Students are encouraged [to](/en/post/to/) [dictionary](/en/post/dictionary/) unfamiliar [vocabulary](/en/post/vocabulary/) [during](/en/post/during/) [reading](/en/post/reading/) assignments."
+- **[Noun](/en/post/noun/) ([collective](/en/post/collective/))**: "[The](/en/post/the/) online [dictionary](/en/post/dictionary/) has [a](/en/post/a/) [vast](/en/post/vast/) array [of](/en/post/of/) synonyms [and](/en/post/and/) antonyms."
 
 ## Synonyms
 - Lexicon
 - Glossary
-- Reference work
+- [Reference](/en/post/reference/) [work](/en/post/work/)
 - Terminology
-- Vocabulary list
-- Dictionary entry
-- Dictionary lookup
+- [Vocabulary](/en/post/vocabulary/) [list](/en/post/list/)
+- [Dictionary](/en/post/dictionary/) [entry](/en/post/entry/)
+- [Dictionary](/en/post/dictionary/) lookup
 
 ## Etymology
-The word "dictionary" comes from the Latin "dictionarium," which originally referred to a collection of oral definitions or a teacher's instructions. It evolved over time to include written compilations of words and their meanings.
+[The](/en/post/the/) [word](/en/post/word/) "[dictionary](/en/post/dictionary/)" comes [from](/en/post/from/) [the](/en/post/the/) Latin "dictionarium," [which](/en/post/which/) originally referred [to](/en/post/to/) [a](/en/post/a/) [collection](/en/post/collection/) [of](/en/post/of/) [oral](/en/post/oral/) definitions [or](/en/post/or/) [a](/en/post/a/) teacher's instructions. [It](/en/post/it/) evolved [over](/en/post/over/) [time](/en/post/time/) [to](/en/post/to/) [include](/en/post/include/) written compilations [of](/en/post/of/) words [and](/en/post/and/) [their](/en/post/their/) meanings.

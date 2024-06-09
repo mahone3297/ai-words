@@ -11,20 +11,20 @@ keywords = ['ai words', 'concerning']
 /kənˈsɜːrnɪŋ/
 
 ## 释义
-- **介词**: 关于，就...而言，涉及。例如: "I have some questions concerning your proposal."
-- **动词**: 使担忧，牵涉到。例如: "The news concerning the project worried everyone."
+- **介词**: 关于，就...而言，涉及。例如: "I [have](/post/have/) [some](/post/some/) questions [concerning](/post/concerning/) [your](/post/your/) [proposal](/post/proposal/)."
+- **动词**: 使担忧，牵涉到。例如: "[The](/post/the/) [news](/post/news/) [concerning](/post/concerning/) [the](/post/the/) [project](/post/project/) worried [everyone](/post/everyone/)."
 
 ## 短语
-- "Concerning the matter" 意为关于此事。
-- "Not concerning you" 表示不关你的事。
+- "[Concerning](/post/concerning/) [the](/post/the/) [matter](/post/matter/)" 意为关于此事。
+- "[Not](/post/not/) [concerning](/post/concerning/) [you](/post/you/)" 表示不关你的事。
 
 ## 例句
-- 介词: "We need to discuss the budget concerning the upcoming event."
-- 动词: "The letter concerns your account balance."
+- 介词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) budget [concerning](/post/concerning/) [the](/post/the/) upcoming [event](/post/event/)."
+- 动词: "[The](/post/the/) [letter](/post/letter/) concerns [your](/post/your/) [account](/post/account/) [balance](/post/balance/)."
 
 ## 同义词
-- About
-- Regarding
-- With respect to
-- In relation to
-- Pertaining to
+- [About](/post/about/)
+- [Regarding](/post/regarding/)
+- [With](/post/with/) [respect](/post/respect/) [to](/post/to/)
+- [In](/post/in/) [relation](/post/relation/) [to](/post/to/)
+- Pertaining [to](/post/to/)

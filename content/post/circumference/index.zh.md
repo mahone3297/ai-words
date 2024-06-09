@@ -11,20 +11,20 @@ keywords = ['ai words', 'circumference']
 /ˈsɜːr.kɪm.fəns/
 
 ## 释义
-- **名词**: 圆的周长；周围的长度。例如: "The circumference of the circle is 20 meters."
-- **名词**: 范围；界限。例如: "The circumference of her knowledge was vast."
+- **名词**: 圆的周长；周围的长度。例如: "[The](/post/the/) [circumference](/post/circumference/) [of](/post/of/) [the](/post/the/) [circle](/post/circle/) is 20 meters."
+- **名词**: 范围；界限。例如: "[The](/post/the/) [circumference](/post/circumference/) [of](/post/of/) [her](/post/her/) [knowledge](/post/knowledge/) was [vast](/post/vast/)."
 
 ## 短语
-- "Calculate the circumference" 计算周长。
-- "Within a certain circumference" 在一定的范围内。
+- "[Calculate](/post/calculate/) [the](/post/the/) [circumference](/post/circumference/)" 计算周长。
+- "[Within](/post/within/) [a](/post/a/) [certain](/post/certain/) [circumference](/post/circumference/)" 在一定的范围内。
 
 ## 例句
-- 名词: "To find the area of a circle, you need to know its radius or circumference."
-- 名词: "The circumference of the Earth is approximately 40,075 kilometers."
+- 名词: "[To](/post/to/) [find](/post/find/) [the](/post/the/) [area](/post/area/) [of](/post/of/) [a](/post/a/) [circle](/post/circle/), [you](/post/you/) [need](/post/need/) [to](/post/to/) [know](/post/know/) [its](/post/its/) [radius](/post/radius/) [or](/post/or/) [circumference](/post/circumference/)."
+- 名词: "[The](/post/the/) [circumference](/post/circumference/) [of](/post/of/) [the](/post/the/) [Earth](/post/earth/) is [approximately](/post/approximately/) 40,075 kilometers."
 
 ## 同义词
 - Perimeter
-- Boundary
-- Edge
-- Orbit
-- Circuit
+- [Boundary](/post/boundary/)
+- [Edge](/post/edge/)
+- [Orbit](/post/orbit/)
+- [Circuit](/post/circuit/)

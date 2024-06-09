@@ -12,24 +12,24 @@ keywords = ['ai words', 'leader']
 
 ## 释义
 - **名词 n**:
-    - 领导者；领袖：A person who leads a group, organization, or country.
-    - 指挥者；队长：The conductor of a musical group or the captain of a sports team.
+    - 领导者；领袖：[A](/post/a/) [person](/post/person/) [who](/post/who/) leads [a](/post/a/) [group](/post/group/), [organization](/post/organization/), [or](/post/or/) [country](/post/country/).
+    - 指挥者；队长：[The](/post/the/) [conductor](/post/conductor/) [of](/post/of/) [a](/post/a/) [musical](/post/musical/) [group](/post/group/) [or](/post/or/) [the](/post/the/) [captain](/post/captain/) [of](/post/of/) [a](/post/a/) sports [team](/post/team/).
 
 - **形容词 adj**:
-    - 领先的；首要的：Being in the first place or ahead of others; prominent.
+    - 领先的；首要的：[Being](/post/being/) [in](/post/in/) [the](/post/the/) [first](/post/first/) [place](/post/place/) [or](/post/or/) [ahead](/post/ahead/) [of](/post/of/) others; [prominent](/post/prominent/).
 
 ## 短语
-- "team leader" 团队的负责人或队长。
-- "political leader" 政治领袖或政党领导人。
-- "market leader" 在市场中占据主导地位的公司或产品。
+- "[team](/post/team/) [leader](/post/leader/)" 团队的负责人或队长。
+- "[political](/post/political/) [leader](/post/leader/)" 政治领袖或政党领导人。
+- "[market](/post/market/) [leader](/post/leader/)" 在市场中占据主导地位的公司或产品。
 
 ## 例句
-- 名词: "The company's new CEO is an inspiring leader with a vision for the future."
-- 形容词: "Our product has been the market leader for several years."
+- 名词: "[The](/post/the/) company's [new](/post/new/) CEO is an inspiring [leader](/post/leader/) [with](/post/with/) [a](/post/a/) [vision](/post/vision/) [for](/post/for/) [the](/post/the/) [future](/post/future/)."
+- 形容词: "[Our](/post/our/) [product](/post/product/) has been [the](/post/the/) [market](/post/market/) [leader](/post/leader/) [for](/post/for/) [several](/post/several/) years."
 
 ## 同义词
-- Chief
-- Director
+- [Chief](/post/chief/)
+- [Director](/post/director/)
 - Manager
-- Commander
-- Ruler
+- [Commander](/post/commander/)
+- [Ruler](/post/ruler/)

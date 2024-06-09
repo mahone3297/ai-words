@@ -7,33 +7,33 @@ description = '[ˈæktə] n.男演员；演剧的人'
 keywords = ['ai words', 'actor']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈæktər/
 
 ## Definitions
-### Noun
-- **A person who performs in plays, films, or television**: An actor portrays characters on stage or screen. Example: "He is a renowned actor known for his Shakespearean roles."
-- **A person who assumes a role or part in a particular activity or situation**: She played the role of a mentor to the new employees. Example: "The team leader acted as a mediator during the conflict."
+### [Noun](/en/post/noun/)
+- **[A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) performs [in](/en/post/in/) plays, films, [or](/en/post/or/) [television](/en/post/television/)**: An [actor](/en/post/actor/) portrays characters [on](/en/post/on/) [stage](/en/post/stage/) [or](/en/post/or/) [screen](/en/post/screen/). [Example](/en/post/example/): "[He](/en/post/he/) is [a](/en/post/a/) renowned [actor](/en/post/actor/) known [for](/en/post/for/) [his](/en/post/his/) Shakespearean roles."
+- **[A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) assumes [a](/en/post/a/) [role](/en/post/role/) [or](/en/post/or/) [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/) [or](/en/post/or/) [situation](/en/post/situation/)**: [She](/en/post/she/) played [the](/en/post/the/) [role](/en/post/role/) [of](/en/post/of/) [a](/en/post/a/) mentor [to](/en/post/to/) [the](/en/post/the/) [new](/en/post/new/) employees. [Example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) [leader](/en/post/leader/) acted [as](/en/post/as/) [a](/en/post/a/) mediator [during](/en/post/during/) [the](/en/post/the/) [conflict](/en/post/conflict/)."
 
-### Verb
-- To perform in a play, movie, or television show: He will be acting in the upcoming production. Example: "She has been acting professionally since her childhood."
-- To assume a role or part in a situation: He quickly acted out a solution to the problem. Example: "He acted calmly under pressure."
+### [Verb](/en/post/verb/)
+- [To](/en/post/to/) [perform](/en/post/perform/) [in](/en/post/in/) [a](/en/post/a/) [play](/en/post/play/), [movie](/en/post/movie/), [or](/en/post/or/) [television](/en/post/television/) [show](/en/post/show/): [He](/en/post/he/) [will](/en/post/will/) [be](/en/post/be/) acting [in](/en/post/in/) [the](/en/post/the/) upcoming [production](/en/post/production/). [Example](/en/post/example/): "[She](/en/post/she/) has been acting professionally [since](/en/post/since/) [her](/en/post/her/) [childhood](/en/post/childhood/)."
+- [To](/en/post/to/) [assume](/en/post/assume/) [a](/en/post/a/) [role](/en/post/role/) [or](/en/post/or/) [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [situation](/en/post/situation/): [He](/en/post/he/) [quickly](/en/post/quickly/) acted [out](/en/post/out/) [a](/en/post/a/) [solution](/en/post/solution/) [to](/en/post/to/) [the](/en/post/the/) [problem](/en/post/problem/). [Example](/en/post/example/): "[He](/en/post/he/) acted calmly [under](/en/post/under/) [pressure](/en/post/pressure/)."
 
 ## Phrases
-- "Acting skills" refers to one's ability to portray different characters.
-- "Lead actor" is the main performer in a production.
-- "Method acting" is a technique where actors fully immerse themselves in their roles.
+- "Acting skills" refers [to](/en/post/to/) one's [ability](/en/post/ability/) [to](/en/post/to/) portray [different](/en/post/different/) characters.
+- "[Lead](/en/post/lead/) [actor](/en/post/actor/)" is [the](/en/post/the/) [main](/en/post/main/) performer [in](/en/post/in/) [a](/en/post/a/) [production](/en/post/production/).
+- "[Method](/en/post/method/) acting" is [a](/en/post/a/) [technique](/en/post/technique/) [where](/en/post/where/) actors fully immerse [themselves](/en/post/themselves/) [in](/en/post/in/) [their](/en/post/their/) roles.
 
-## Example Sentences
-- **Noun**: "The actor received critical acclaim for his portrayal of the troubled detective."
-- **Verb**: "After years of training, he finally got his big break as an actor."
-- **As a verb**: "She was an excellent actor, convincing everyone she was truly the character she played."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [actor](/en/post/actor/) received [critical](/en/post/critical/) acclaim [for](/en/post/for/) [his](/en/post/his/) portrayal [of](/en/post/of/) [the](/en/post/the/) troubled detective."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) [training](/en/post/training/), [he](/en/post/he/) [finally](/en/post/finally/) got [his](/en/post/his/) [big](/en/post/big/) [break](/en/post/break/) [as](/en/post/as/) an [actor](/en/post/actor/)."
+- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[She](/en/post/she/) was an [excellent](/en/post/excellent/) [actor](/en/post/actor/), convincing [everyone](/en/post/everyone/) [she](/en/post/she/) was [truly](/en/post/truly/) [the](/en/post/the/) [character](/en/post/character/) [she](/en/post/she/) played."
 
 ## Synonyms
 - Performer
-- Star
-- Player
+- [Star](/en/post/star/)
+- [Player](/en/post/player/)
 - Portrayer
-- Talent
+- [Talent](/en/post/talent/)
 - Thespian
-- Player (in sports or games)
+- [Player](/en/post/player/) ([in](/en/post/in/) sports [or](/en/post/or/) games)

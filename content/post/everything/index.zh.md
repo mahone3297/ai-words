@@ -11,20 +11,20 @@ keywords = ['ai words', 'everything']
 /ˈɛvriθɪŋ/
 
 ## 释义
-- **代词**: 所有事物，一切，任何东西。例如: "I need everything for the project." 
-- **名词**: 用于强调全部情况，常与不定冠词"a"连用，表示“所有的一切”。例如: "There was a time when everything seemed possible."
+- **代词**: 所有事物，一切，任何东西。例如: "I [need](/post/need/) [everything](/post/everything/) [for](/post/for/) [the](/post/the/) [project](/post/project/)." 
+- **名词**: 用于强调全部情况，常与不定冠词"[a](/post/a/)"连用，表示“所有的一切”。例如: "[There](/post/there/) was [a](/post/a/) [time](/post/time/) [when](/post/when/) [everything](/post/everything/) seemed [possible](/post/possible/)."
 
 ## 短语
-- "Everything but the kitchen sink" 意味着包括除特定事物外的所有东西。
-- "Is there everything you need?" 询问对方是否需要的所有东西都准备好了。
+- "[Everything](/post/everything/) [but](/post/but/) [the](/post/the/) [kitchen](/post/kitchen/) [sink](/post/sink/)" 意味着包括除特定事物外的所有东西。
+- "Is [there](/post/there/) [everything](/post/everything/) [you](/post/you/) [need](/post/need/)?" 询问对方是否需要的所有东西都准备好了。
 
 ## 例句
-- 代词: "I love everything about this city."
-- 名词: "She wanted to buy a new dress, but couldn't find one that suited her taste—there wasn't a single thing she liked in the store, everything was wrong."
+- 代词: "I [love](/post/love/) [everything](/post/everything/) [about](/post/about/) [this](/post/this/) [city](/post/city/)."
+- 名词: "[She](/post/she/) wanted [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) [dress](/post/dress/), [but](/post/but/) couldn't [find](/post/find/) [one](/post/one/) [that](/post/that/) suited [her](/post/her/) [taste](/post/taste/)—[there](/post/there/) wasn't [a](/post/a/) [single](/post/single/) [thing](/post/thing/) [she](/post/she/) liked [in](/post/in/) [the](/post/the/) [store](/post/store/), [everything](/post/everything/) was [wrong](/post/wrong/)."
 
 ## 同义词
-- All
-- Every
-- All things
-- The whole thing
-- The entirety
+- [All](/post/all/)
+- [Every](/post/every/)
+- [All](/post/all/) things
+- [The](/post/the/) [whole](/post/whole/) [thing](/post/thing/)
+- [The](/post/the/) entirety

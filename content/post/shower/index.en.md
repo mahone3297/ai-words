@@ -7,36 +7,36 @@ description = '[ˈ∫auə] n.阵雨；(一)阵；淋浴'
 keywords = ['ai words', 'shower']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈʃəʊər/
 
 ## Definitions
-### Noun
-- **A noun referring to the act**: A supply of water that falls from the sky in liquid form, often as precipitation. Example: "The rain shower lasted all morning."
-- **A noun referring to a room or facility**: A place with a shower installed for personal hygiene. Example: "After the workout, I went to take a quick shower."
-- **A noun referring to a device**: A fixture in a bathroom that supplies water for washing oneself. Example: "The hotel had modern showers with multiple settings."
+### [Noun](/en/post/noun/)
+- **[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/)**: [A](/en/post/a/) [supply](/en/post/supply/) [of](/en/post/of/) [water](/en/post/water/) [that](/en/post/that/) falls [from](/en/post/from/) [the](/en/post/the/) [sky](/en/post/sky/) [in](/en/post/in/) [liquid](/en/post/liquid/) [form](/en/post/form/), [often](/en/post/often/) [as](/en/post/as/) precipitation. [Example](/en/post/example/): "[The](/en/post/the/) [rain](/en/post/rain/) [shower](/en/post/shower/) lasted [all](/en/post/all/) [morning](/en/post/morning/)."
+- **[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [room](/en/post/room/) [or](/en/post/or/) [facility](/en/post/facility/)**: [A](/en/post/a/) [place](/en/post/place/) [with](/en/post/with/) [a](/en/post/a/) [shower](/en/post/shower/) installed [for](/en/post/for/) [personal](/en/post/personal/) hygiene. [Example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) workout, I went [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [quick](/en/post/quick/) [shower](/en/post/shower/)."
+- **[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [device](/en/post/device/)**: [A](/en/post/a/) fixture [in](/en/post/in/) [a](/en/post/a/) [bathroom](/en/post/bathroom/) [that](/en/post/that/) supplies [water](/en/post/water/) [for](/en/post/for/) washing [oneself](/en/post/oneself/). [Example](/en/post/example/): "[The](/en/post/the/) [hotel](/en/post/hotel/) had [modern](/en/post/modern/) showers [with](/en/post/with/) [multiple](/en/post/multiple/) settings."
 
-### Verb
-- **To verb**: To bathe or clean oneself by using water from a shower. Example: "She likes to shower in the morning to start her day fresh."
-- **To verb (figurative)**: To provide or give a sudden, intense experience or release. Example: "The project manager showered the team with praise after their successful completion."
+### [Verb](/en/post/verb/)
+- **[To](/en/post/to/) [verb](/en/post/verb/)**: [To](/en/post/to/) [bathe](/en/post/bathe/) [or](/en/post/or/) [clean](/en/post/clean/) [oneself](/en/post/oneself/) [by](/en/post/by/) using [water](/en/post/water/) [from](/en/post/from/) [a](/en/post/a/) [shower](/en/post/shower/). [Example](/en/post/example/): "[She](/en/post/she/) likes [to](/en/post/to/) [shower](/en/post/shower/) [in](/en/post/in/) [the](/en/post/the/) [morning](/en/post/morning/) [to](/en/post/to/) [start](/en/post/start/) [her](/en/post/her/) [day](/en/post/day/) [fresh](/en/post/fresh/)."
+- **[To](/en/post/to/) [verb](/en/post/verb/) (figurative)**: [To](/en/post/to/) [provide](/en/post/provide/) [or](/en/post/or/) [give](/en/post/give/) [a](/en/post/a/) [sudden](/en/post/sudden/), [intense](/en/post/intense/) [experience](/en/post/experience/) [or](/en/post/or/) [release](/en/post/release/). [Example](/en/post/example/): "[The](/en/post/the/) [project](/en/post/project/) manager showered [the](/en/post/the/) [team](/en/post/team/) [with](/en/post/with/) [praise](/en/post/praise/) [after](/en/post/after/) [their](/en/post/their/) [successful](/en/post/successful/) completion."
 
-### Adjective
-- **Describing something that is sudden or intense**: Characterizing a sudden or abundant supply of something. Example: "The shower of ideas was unexpected."
-- **Describing a feeling or emotion**: Intense and overwhelming, often positive. Example: "The concert was a shower of happiness for the fans."
+### [Adjective](/en/post/adjective/)
+- **Describing [something](/en/post/something/) [that](/en/post/that/) is [sudden](/en/post/sudden/) [or](/en/post/or/) [intense](/en/post/intense/)**: Characterizing [a](/en/post/a/) [sudden](/en/post/sudden/) [or](/en/post/or/) [abundant](/en/post/abundant/) [supply](/en/post/supply/) [of](/en/post/of/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [shower](/en/post/shower/) [of](/en/post/of/) ideas was [unexpected](/en/post/unexpected/)."
+- **Describing [a](/en/post/a/) [feeling](/en/post/feeling/) [or](/en/post/or/) [emotion](/en/post/emotion/)**: [Intense](/en/post/intense/) [and](/en/post/and/) overwhelming, [often](/en/post/often/) [positive](/en/post/positive/). [Example](/en/post/example/): "[The](/en/post/the/) [concert](/en/post/concert/) was [a](/en/post/a/) [shower](/en/post/shower/) [of](/en/post/of/) [happiness](/en/post/happiness/) [for](/en/post/for/) [the](/en/post/the/) fans."
 
 ## Phrases
-- "Take a shower" means to bathe using a shower.
-- "Showerhead" refers to the nozzle from which water comes out in a shower.
-- "Shower gel" or "shampoo" are products used during a shower.
+- "[Take](/en/post/take/) [a](/en/post/a/) [shower](/en/post/shower/)" [means](/en/post/means/) [to](/en/post/to/) [bathe](/en/post/bathe/) using [a](/en/post/a/) [shower](/en/post/shower/).
+- "Showerhead" refers [to](/en/post/to/) [the](/en/post/the/) nozzle [from](/en/post/from/) [which](/en/post/which/) [water](/en/post/water/) comes [out](/en/post/out/) [in](/en/post/in/) [a](/en/post/a/) [shower](/en/post/shower/).
+- "[Shower](/en/post/shower/) gel" [or](/en/post/or/) "[shampoo](/en/post/shampoo/)" are products [used](/en/post/used/) [during](/en/post/during/) [a](/en/post/a/) [shower](/en/post/shower/).
 
-## Example Sentences
-- **Noun**: "The children were playing in the rain shower outside."
-- **Verb**: "After the long hike, she decided to take a quick shower."
-- **Adjective**: "The party was a shower of laughter and joy."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were playing [in](/en/post/in/) [the](/en/post/the/) [rain](/en/post/rain/) [shower](/en/post/shower/) [outside](/en/post/outside/)."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) hike, [she](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [quick](/en/post/quick/) [shower](/en/post/shower/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [party](/en/post/party/) was [a](/en/post/a/) [shower](/en/post/shower/) [of](/en/post/of/) [laughter](/en/post/laughter/) [and](/en/post/and/) [joy](/en/post/joy/)."
 
 ## Synonyms
-- Bath
-- Wash
+- [Bath](/en/post/bath/)
+- [Wash](/en/post/wash/)
 - Cleanse
 - Deluge
-- Sprinkle (for a light shower)
+- [Sprinkle](/en/post/sprinkle/) ([for](/en/post/for/) [a](/en/post/a/) [light](/en/post/light/) [shower](/en/post/shower/))

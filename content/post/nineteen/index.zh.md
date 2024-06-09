@@ -11,17 +11,17 @@ keywords = ['ai words', 'nineteen']
 /naɪnˈtiːn/
 
 ## 释义
-- **数词**: 表示数字19，十九。例如: "There are nineteen students in this class."
+- **数词**: 表示数字19，十九。例如: "[There](/post/there/) are [nineteen](/post/nineteen/) students [in](/post/in/) [this](/post/this/) [class](/post/class/)."
 
 ## 短语
-- "Nineteen years old" 表示一个人19岁。
-- "The nineteenth century" 指的是19世纪。
+- "[Nineteen](/post/nineteen/) years [old](/post/old/)" 表示一个人19岁。
+- "[The](/post/the/) nineteenth [century](/post/century/)" 指的是19世纪。
 
 ## 例句
-- "She turned nineteen on her last birthday."
-- "It was the nineteenth time he had won the race."
+- "[She](/post/she/) turned [nineteen](/post/nineteen/) [on](/post/on/) [her](/post/her/) [last](/post/last/) [birthday](/post/birthday/)."
+- "[It](/post/it/) was [the](/post/the/) nineteenth [time](/post/time/) [he](/post/he/) had won [the](/post/the/) [race](/post/race/)."
 
 ## 同义词
 - Nineteenth (序数词形式)
-- One more than eighteen
-- Less than twenty
+- [One](/post/one/) [more](/post/more/) [than](/post/than/) [eighteen](/post/eighteen/)
+- [Less](/post/less/) [than](/post/than/) [twenty](/post/twenty/)

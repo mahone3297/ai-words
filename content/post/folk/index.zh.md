@@ -12,20 +12,20 @@ keywords = ['ai words', 'folk']
 
 ## 释义
 - **名词**:
-  - 人们，民族，百姓。例如: "The folk in this region have their own unique traditions."
-  - 民间音乐，民俗音乐。例如: "She plays traditional folk songs on her guitar."
+  - 人们，民族，百姓。例如: "[The](/post/the/) [folk](/post/folk/) [in](/post/in/) [this](/post/this/) [region](/post/region/) [have](/post/have/) [their](/post/their/) [own](/post/own/) [unique](/post/unique/) traditions."
+  - 民间音乐，民俗音乐。例如: "[She](/post/she/) plays [traditional](/post/traditional/) [folk](/post/folk/) songs [on](/post/on/) [her](/post/her/) guitar."
 
 ## 短语
 - "Folklore" 民俗，民间传说。
-- "Folk music" 民间音乐。
+- "[Folk](/post/folk/) [music](/post/music/)" 民间音乐。
 
 ## 例句
-- 名词: "The festival celebrates the folk art of various cultures."
-- 名词: "The folk song has been passed down through generations orally."
+- 名词: "[The](/post/the/) [festival](/post/festival/) celebrates [the](/post/the/) [folk](/post/folk/) [art](/post/art/) [of](/post/of/) [various](/post/various/) cultures."
+- 名词: "[The](/post/the/) [folk](/post/folk/) [song](/post/song/) has been passed [down](/post/down/) [through](/post/through/) generations orally."
 
 ## 同义词
-- People
-- Community
-- Tribe
-- Nation
+- [People](/post/people/)
+- [Community](/post/community/)
+- [Tribe](/post/tribe/)
+- [Nation](/post/nation/)
 - peasantry (侧重农村平民)

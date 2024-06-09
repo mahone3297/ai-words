@@ -7,48 +7,48 @@ description = '[plɑːstik] a.可塑的 n.塑料'
 keywords = ['ai words', 'plastic']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /plæstɪk/
 
 ## Definitions
-### Noun
-1. **Material made from polymer resins that can be molded or shaped into various forms and then hardened, often for various purposes such as containers, packaging, or household items.** Example: "The table was made of plastic."
-2. **A synthetic substance having similar properties to natural rubber or certain types of glass, used for molding or forming.** Example: "Plastic surgery can reshape body parts."
-3. **A general term for imitative or artificial qualities, often suggesting a cheap or disposable nature.** Example: "The event had a very plastic atmosphere."
-4. **An imitation of something genuine or authentic.** Example: "A plastic imitation of a vintage guitar."
+### [Noun](/en/post/noun/)
+1. **[Material](/en/post/material/) made [from](/en/post/from/) polymer resins [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) molded [or](/en/post/or/) shaped [into](/en/post/into/) [various](/en/post/various/) forms [and](/en/post/and/) [then](/en/post/then/) hardened, [often](/en/post/often/) [for](/en/post/for/) [various](/en/post/various/) purposes [such](/en/post/such/) [as](/en/post/as/) containers, packaging, [or](/en/post/or/) [household](/en/post/household/) items.** [Example](/en/post/example/): "[The](/en/post/the/) [table](/en/post/table/) was made [of](/en/post/of/) [plastic](/en/post/plastic/)."
+2. **[A](/en/post/a/) [synthetic](/en/post/synthetic/) [substance](/en/post/substance/) having [similar](/en/post/similar/) properties [to](/en/post/to/) [natural](/en/post/natural/) [rubber](/en/post/rubber/) [or](/en/post/or/) [certain](/en/post/certain/) types [of](/en/post/of/) [glass](/en/post/glass/), [used](/en/post/used/) [for](/en/post/for/) molding [or](/en/post/or/) forming.** [Example](/en/post/example/): "[Plastic](/en/post/plastic/) [surgery](/en/post/surgery/) [can](/en/post/can/) reshape [body](/en/post/body/) parts."
+3. **[A](/en/post/a/) [general](/en/post/general/) [term](/en/post/term/) [for](/en/post/for/) imitative [or](/en/post/or/) [artificial](/en/post/artificial/) qualities, [often](/en/post/often/) suggesting [a](/en/post/a/) [cheap](/en/post/cheap/) [or](/en/post/or/) disposable [nature](/en/post/nature/).** [Example](/en/post/example/): "[The](/en/post/the/) [event](/en/post/event/) had [a](/en/post/a/) [very](/en/post/very/) [plastic](/en/post/plastic/) [atmosphere](/en/post/atmosphere/)."
+4. **An imitation [of](/en/post/of/) [something](/en/post/something/) [genuine](/en/post/genuine/) [or](/en/post/or/) authentic.** [Example](/en/post/example/): "[A](/en/post/a/) [plastic](/en/post/plastic/) imitation [of](/en/post/of/) [a](/en/post/a/) vintage guitar."
 
-### Verb
-1. **To form or shape (a material) using plasticity.** Example: "The artist is skilled in shaping plastic clay."
-2. **To use or employ plastic materials or methods.** Example: "They are using plastic techniques to create the set."
+### [Verb](/en/post/verb/)
+1. **[To](/en/post/to/) [form](/en/post/form/) [or](/en/post/or/) [shape](/en/post/shape/) ([a](/en/post/a/) [material](/en/post/material/)) using plasticity.** [Example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) is [skilled](/en/post/skilled/) [in](/en/post/in/) shaping [plastic](/en/post/plastic/) [clay](/en/post/clay/)."
+2. **[To](/en/post/to/) [use](/en/post/use/) [or](/en/post/or/) [employ](/en/post/employ/) [plastic](/en/post/plastic/) materials [or](/en/post/or/) methods.** [Example](/en/post/example/): "[They](/en/post/they/) are using [plastic](/en/post/plastic/) techniques [to](/en/post/to/) [create](/en/post/create/) [the](/en/post/the/) [set](/en/post/set/)."
 
-### Adjective
-1. **Capable of being easily molded or shaped.** Example: "Plasticine is a moldable plastic material."
-2. **Not solid or durable; fragile or brittle.** Example: "The vase feels quite plastic."
-3. **Artificially pleasant or insincere.** Example: "Her smile was overly plastic."
+### [Adjective](/en/post/adjective/)
+1. **[Capable](/en/post/capable/) [of](/en/post/of/) [being](/en/post/being/) [easily](/en/post/easily/) molded [or](/en/post/or/) shaped.** [Example](/en/post/example/): "Plasticine is [a](/en/post/a/) moldable [plastic](/en/post/plastic/) [material](/en/post/material/)."
+2. **[Not](/en/post/not/) [solid](/en/post/solid/) [or](/en/post/or/) [durable](/en/post/durable/); fragile [or](/en/post/or/) [brittle](/en/post/brittle/).** [Example](/en/post/example/): "[The](/en/post/the/) [vase](/en/post/vase/) feels [quite](/en/post/quite/) [plastic](/en/post/plastic/)."
+3. **Artificially [pleasant](/en/post/pleasant/) [or](/en/post/or/) insincere.** [Example](/en/post/example/): "[Her](/en/post/her/) [smile](/en/post/smile/) was overly [plastic](/en/post/plastic/)."
 
-### Adverb
-*Very rare, not commonly used as an adverb.*
+### [Adverb](/en/post/adverb/)
+*[Very](/en/post/very/) [rare](/en/post/rare/), [not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/) [as](/en/post/as/) an [adverb](/en/post/adverb/).*
 
 ## Phrases
-- "Made of plastic"
-- "Use plastic wrap to seal the container"
-- "Plastic surgery results"
-- "A plastic smile"
-- "A synthetic alternative"
+- "Made [of](/en/post/of/) [plastic](/en/post/plastic/)"
+- "[Use](/en/post/use/) [plastic](/en/post/plastic/) [wrap](/en/post/wrap/) [to](/en/post/to/) [seal](/en/post/seal/) [the](/en/post/the/) [container](/en/post/container/)"
+- "[Plastic](/en/post/plastic/) [surgery](/en/post/surgery/) results"
+- "[A](/en/post/a/) [plastic](/en/post/plastic/) [smile](/en/post/smile/)"
+- "[A](/en/post/a/) [synthetic](/en/post/synthetic/) [alternative](/en/post/alternative/)"
 
-## Example Sentences
-- **Noun**: "She discarded the plastic bottle in the recycling bin."
-- **Verb**: "The architect designed the house with a plastic sense of minimalism."
-- **Adjective**: "The surface of the chair felt cold and plastic to the touch."
-- **Adjective (as a modifier for smile)**: "Her face wore a plastic expression throughout the interview."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) discarded [the](/en/post/the/) [plastic](/en/post/plastic/) [bottle](/en/post/bottle/) [in](/en/post/in/) [the](/en/post/the/) recycling bin."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) architect designed [the](/en/post/the/) [house](/en/post/house/) [with](/en/post/with/) [a](/en/post/a/) [plastic](/en/post/plastic/) [sense](/en/post/sense/) [of](/en/post/of/) minimalism."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [surface](/en/post/surface/) [of](/en/post/of/) [the](/en/post/the/) [chair](/en/post/chair/) felt [cold](/en/post/cold/) [and](/en/post/and/) [plastic](/en/post/plastic/) [to](/en/post/to/) [the](/en/post/the/) [touch](/en/post/touch/)."
+- **[Adjective](/en/post/adjective/) ([as](/en/post/as/) [a](/en/post/a/) modifier [for](/en/post/for/) [smile](/en/post/smile/))**: "[Her](/en/post/her/) [face](/en/post/face/) wore [a](/en/post/a/) [plastic](/en/post/plastic/) [expression](/en/post/expression/) [throughout](/en/post/throughout/) [the](/en/post/the/) [interview](/en/post/interview/)."
 
 ## Synonyms
-- Synthetic
+- [Synthetic](/en/post/synthetic/)
 - Vinyl
-- Flexible
+- [Flexible](/en/post/flexible/)
 - Moldable
 - Resilient
-- Artificial
+- [Artificial](/en/post/artificial/)
 - Unnatural
 - Disposable
-- Faux (for imitation)
+- Faux ([for](/en/post/for/) imitation)

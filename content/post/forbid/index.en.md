@@ -7,36 +7,36 @@ description = '[fəˈbid] vt.禁止，不许；阻止'
 keywords = ['ai words', 'forbid']
 +++
 
-## Pronunciation
-/for·bid/
+## [Pronunciation](/en/post/pronunciation/)
+/[for](/en/post/for/)·bid/
 
 ## Definitions
-- **Verb (v)**: To not allow; to prohibit or bar something from happening or being done. It can also mean to instruct or order someone not to do something. 
+- **[Verb](/en/post/verb/) (v)**: [To](/en/post/to/) [not](/en/post/not/) [allow](/en/post/allow/); [to](/en/post/to/) [prohibit](/en/post/prohibit/) [or](/en/post/or/) [bar](/en/post/bar/) [something](/en/post/something/) [from](/en/post/from/) happening [or](/en/post/or/) [being](/en/post/being/) done. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) instruct [or](/en/post/or/) [order](/en/post/order/) [someone](/en/post/someone/) [not](/en/post/not/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/). 
 
-  > **Example sentence**: The school principal forbids students from using their mobile phones during class hours.
+  > **[Example](/en/post/example/) [sentence](/en/post/sentence/)**: [The](/en/post/the/) [school](/en/post/school/) [principal](/en/post/principal/) forbids students [from](/en/post/from/) using [their](/en/post/their/) [mobile](/en/post/mobile/) phones [during](/en/post/during/) [class](/en/post/class/) hours.
   > 
-  > _Phrasal usage_: "I must forbid myself from eating too much chocolate."
+  > _Phrasal usage_: "I [must](/en/post/must/) [forbid](/en/post/forbid/) [myself](/en/post/myself/) [from](/en/post/from/) eating [too](/en/post/too/) [much](/en/post/much/) [chocolate](/en/post/chocolate/)."
   
-- **Noun (n)**: The act of forbidding; prohibition or a command against something.
+- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) forbidding; prohibition [or](/en/post/or/) [a](/en/post/a/) [command](/en/post/command/) [against](/en/post/against/) [something](/en/post/something/).
 
-  > **Example sentence**: Breaking his father's forbid was the last thing on his mind.
+  > **[Example](/en/post/example/) [sentence](/en/post/sentence/)**: Breaking [his](/en/post/his/) father's [forbid](/en/post/forbid/) was [the](/en/post/the/) [last](/en/post/last/) [thing](/en/post/thing/) [on](/en/post/on/) [his](/en/post/his/) [mind](/en/post/mind/).
 
 ## Phrases
-- "To forbid something to someone": To not allow someone to have, do, or go somewhere.
-  > Example: "The parents forbade their child from staying out late."
-- "Forbid that": Expressing a strong wish or hope that something should not happen.
-  > Example: "I forbid that such behavior continue in my presence."
+- "[To](/en/post/to/) [forbid](/en/post/forbid/) [something](/en/post/something/) [to](/en/post/to/) [someone](/en/post/someone/)": [To](/en/post/to/) [not](/en/post/not/) [allow](/en/post/allow/) [someone](/en/post/someone/) [to](/en/post/to/) [have](/en/post/have/), [do](/en/post/do/), [or](/en/post/or/) [go](/en/post/go/) [somewhere](/en/post/somewhere/).
+  > [Example](/en/post/example/): "[The](/en/post/the/) parents forbade [their](/en/post/their/) [child](/en/post/child/) [from](/en/post/from/) staying [out](/en/post/out/) [late](/en/post/late/)."
+- "[Forbid](/en/post/forbid/) [that](/en/post/that/)": Expressing [a](/en/post/a/) [strong](/en/post/strong/) [wish](/en/post/wish/) [or](/en/post/or/) [hope](/en/post/hope/) [that](/en/post/that/) [something](/en/post/something/) [should](/en/post/should/) [not](/en/post/not/) [happen](/en/post/happen/).
+  > [Example](/en/post/example/): "I [forbid](/en/post/forbid/) [that](/en/post/that/) [such](/en/post/such/) [behavior](/en/post/behavior/) [continue](/en/post/continue/) [in](/en/post/in/) [my](/en/post/my/) [presence](/en/post/presence/)."
 
-## Example Sentences
-- **Verb**: "The teacher forbade cheating on the exam."
-- **Noun**: "Disobeying the forbid would lead to severe consequences."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) forbade cheating [on](/en/post/on/) [the](/en/post/the/) [exam](/en/post/exam/)."
+- **[Noun](/en/post/noun/)**: "Disobeying [the](/en/post/the/) [forbid](/en/post/forbid/) [would](/en/post/would/) [lead](/en/post/lead/) [to](/en/post/to/) [severe](/en/post/severe/) consequences."
 
 ## Synonyms
-- Prohibit
-- Bar
-- Restrict
+- [Prohibit](/en/post/prohibit/)
+- [Bar](/en/post/bar/)
+- [Restrict](/en/post/restrict/)
 - Hinder
-- Deny
+- [Deny](/en/post/deny/)
 - Dissuade
 - Preclude
 - Enjoin

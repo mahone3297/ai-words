@@ -7,46 +7,46 @@ description = '[ˈei∫ə] n.亚洲'
 keywords = ['ai words', 'asia']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈeɪʒə/
 
 ## Definitions
-### Noun
-1. A continent in Eastern Asia, stretching from Siberia in the north to Indonesia in the south, and including countries such as China, India, Japan, and Russia.
-2. (plural) The general region or area of this continent, often used as a cultural or geographical term.
+### [Noun](/en/post/noun/)
+1. [A](/en/post/a/) [continent](/en/post/continent/) [in](/en/post/in/) [Eastern](/en/post/eastern/) [Asia](/en/post/asia/), stretching [from](/en/post/from/) Siberia [in](/en/post/in/) [the](/en/post/the/) [north](/en/post/north/) [to](/en/post/to/) Indonesia [in](/en/post/in/) [the](/en/post/the/) [south](/en/post/south/), [and](/en/post/and/) including countries [such](/en/post/such/) [as](/en/post/as/) [China](/en/post/china/), India, Japan, [and](/en/post/and/) Russia.
+2. ([plural](/en/post/plural/)) [The](/en/post/the/) [general](/en/post/general/) [region](/en/post/region/) [or](/en/post/or/) [area](/en/post/area/) [of](/en/post/of/) [this](/en/post/this/) [continent](/en/post/continent/), [often](/en/post/often/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) cultural [or](/en/post/or/) geographical [term](/en/post/term/).
 
-### Verb
-1. To refer or relate to Asia or its people, cultures, or geography.
-2. To acknowledge or recognize someone from Asia.
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [refer](/en/post/refer/) [or](/en/post/or/) [relate](/en/post/relate/) [to](/en/post/to/) [Asia](/en/post/asia/) [or](/en/post/or/) [its](/en/post/its/) [people](/en/post/people/), cultures, [or](/en/post/or/) [geography](/en/post/geography/).
+2. [To](/en/post/to/) acknowledge [or](/en/post/or/) [recognize](/en/post/recognize/) [someone](/en/post/someone/) [from](/en/post/from/) [Asia](/en/post/asia/).
 
-### Adjective
-1. Relating to or characteristic of Asia or its inhabitants.
-2. Designating or originating from the Asian continent.
+### [Adjective](/en/post/adjective/)
+1. Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [Asia](/en/post/asia/) [or](/en/post/or/) [its](/en/post/its/) inhabitants.
+2. Designating [or](/en/post/or/) originating [from](/en/post/from/) [the](/en/post/the/) [Asian](/en/post/asian/) [continent](/en/post/continent/).
 
 ## Phrases
-- "Connect with Asia" implies engaging with the culture or economy.
-- "Explore the diverse Asian cuisines" highlights the variety of food.
-- "Asian fusion" describes a blend of Asian styles in art, fashion, or cuisine.
+- "[Connect](/en/post/connect/) [with](/en/post/with/) [Asia](/en/post/asia/)" implies engaging [with](/en/post/with/) [the](/en/post/the/) [culture](/en/post/culture/) [or](/en/post/or/) [economy](/en/post/economy/).
+- "[Explore](/en/post/explore/) [the](/en/post/the/) [diverse](/en/post/diverse/) [Asian](/en/post/asian/) cuisines" highlights [the](/en/post/the/) [variety](/en/post/variety/) [of](/en/post/of/) [food](/en/post/food/).
+- "[Asian](/en/post/asian/) fusion" describes [a](/en/post/a/) [blend](/en/post/blend/) [of](/en/post/of/) [Asian](/en/post/asian/) styles [in](/en/post/in/) [art](/en/post/art/), [fashion](/en/post/fashion/), [or](/en/post/or/) cuisine.
 
-## Example Sentences
-- **Noun**: "The ancient civilization of Mesopotamia was located in Western Asia."
-- **Verb**: "She decided to study Asian languages during her travels."
-- **Adjective**: "The intricate design has an Asian influence."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) [civilization](/en/post/civilization/) [of](/en/post/of/) Mesopotamia was located [in](/en/post/in/) [Western](/en/post/western/) [Asia](/en/post/asia/)."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [study](/en/post/study/) [Asian](/en/post/asian/) languages [during](/en/post/during/) [her](/en/post/her/) travels."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) intricate [design](/en/post/design/) has an [Asian](/en/post/asian/) [influence](/en/post/influence/)."
 
 ## Synonyms
-- Eastern
-- Oriental
+- [Eastern](/en/post/eastern/)
+- [Oriental](/en/post/oriental/)
 - Asianic
-- Far Eastern
+- [Far](/en/post/far/) [Eastern](/en/post/eastern/)
 - Southeastern
 - Northeastern
 
 ## Antonyms
-- Western
+- [Western](/en/post/western/)
 - European
-- American
-- Australian
-- African
+- [American](/en/post/american/)
+- [Australian](/en/post/australian/)
+- [African](/en/post/african/)
 
 ## Etymology
-The word "Asia" comes from the Ancient Greek Ἀσία (Ásía), which was derived from the name of the river Axios (today's Aswan). It was later applied to the landmass by the Greeks as they explored and mapped the known world.
+[The](/en/post/the/) [word](/en/post/word/) "[Asia](/en/post/asia/)" comes [from](/en/post/from/) [the](/en/post/the/) [Ancient](/en/post/ancient/) Greek Ἀσία (Ásía), [which](/en/post/which/) was derived [from](/en/post/from/) [the](/en/post/the/) [name](/en/post/name/) [of](/en/post/of/) [the](/en/post/the/) [river](/en/post/river/) Axios (today's Aswan). [It](/en/post/it/) was [later](/en/post/later/) applied [to](/en/post/to/) [the](/en/post/the/) landmass [by](/en/post/by/) [the](/en/post/the/) Greeks [as](/en/post/as/) [they](/en/post/they/) explored [and](/en/post/and/) mapped [the](/en/post/the/) known [world](/en/post/world/).

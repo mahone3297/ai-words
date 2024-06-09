@@ -7,29 +7,29 @@ description = '[ˈʌðəwaiz] ad.另外；要不然'
 keywords = ['ai words', 'otherwise']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈʌðərwɪz/
 
 ## Definitions
-- **Adverb**: In different circumstances; if not; else. It can be used to introduce a contrasting statement. For example: "If it rains, we'll stay inside; otherwise, we'll go for a walk."
+- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [different](/en/post/different/) circumstances; [if](/en/post/if/) [not](/en/post/not/); [else](/en/post/else/). [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) [a](/en/post/a/) contrasting [statement](/en/post/statement/). [For](/en/post/for/) [example](/en/post/example/): "[If](/en/post/if/) [it](/en/post/it/) rains, we'll [stay](/en/post/stay/) [inside](/en/post/inside/); [otherwise](/en/post/otherwise/), we'll [go](/en/post/go/) [for](/en/post/for/) [a](/en/post/a/) [walk](/en/post/walk/)."
   
-  - **Conjunction**: Introducing an alternative case or condition; if not. For instance: "I would have gone, but otherwise I was too busy."
+  - **[Conjunction](/en/post/conjunction/)**: Introducing an [alternative](/en/post/alternative/) [case](/en/post/case/) [or](/en/post/or/) [condition](/en/post/condition/); [if](/en/post/if/) [not](/en/post/not/). [For](/en/post/for/) [instance](/en/post/instance/): "I [would](/en/post/would/) [have](/en/post/have/) gone, [but](/en/post/but/) [otherwise](/en/post/otherwise/) I was [too](/en/post/too/) [busy](/en/post/busy/)."
 
 ## Phrases
-- "Otherwise stated": Means expressed differently or in other words.
-- "Otherwise known as": Used to introduce an alternative name or designation. E.g., "Her stage name, otherwise known as her pseudonym, is 'Luna'."
-- "If not otherwise specified": This phrase is often used to indicate that the default rules apply unless explicitly mentioned otherwise.
+- "[Otherwise](/en/post/otherwise/) stated": [Means](/en/post/means/) expressed differently [or](/en/post/or/) [in](/en/post/in/) [other](/en/post/other/) words.
+- "[Otherwise](/en/post/otherwise/) known [as](/en/post/as/)": [Used](/en/post/used/) [to](/en/post/to/) [introduce](/en/post/introduce/) an [alternative](/en/post/alternative/) [name](/en/post/name/) [or](/en/post/or/) designation. E.g., "[Her](/en/post/her/) [stage](/en/post/stage/) [name](/en/post/name/), [otherwise](/en/post/otherwise/) known [as](/en/post/as/) [her](/en/post/her/) pseudonym, is 'Luna'."
+- "[If](/en/post/if/) [not](/en/post/not/) [otherwise](/en/post/otherwise/) specified": [This](/en/post/this/) [phrase](/en/post/phrase/) is [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [the](/en/post/the/) default rules [apply](/en/post/apply/) [unless](/en/post/unless/) explicitly mentioned [otherwise](/en/post/otherwise/).
 
-## Example Sentences
-- **Adverb**: "You'll need a coat if it's cold outside; otherwise, a sweater will do."
-- **Conjunction**: "She could have attended the conference, but otherwise she had pressing business to attend to."
+## [Example](/en/post/example/) Sentences
+- **[Adverb](/en/post/adverb/)**: "You'll [need](/en/post/need/) [a](/en/post/a/) [coat](/en/post/coat/) [if](/en/post/if/) it's [cold](/en/post/cold/) [outside](/en/post/outside/); [otherwise](/en/post/otherwise/), [a](/en/post/a/) [sweater](/en/post/sweater/) [will](/en/post/will/) [do](/en/post/do/)."
+- **[Conjunction](/en/post/conjunction/)**: "[She](/en/post/she/) [could](/en/post/could/) [have](/en/post/have/) attended [the](/en/post/the/) [conference](/en/post/conference/), [but](/en/post/but/) [otherwise](/en/post/otherwise/) [she](/en/post/she/) had pressing [business](/en/post/business/) [to](/en/post/to/) [attend](/en/post/attend/) [to](/en/post/to/)."
 
 ## Synonyms
-- Else
+- [Else](/en/post/else/)
 - Alternatively
-- Otherwise than
-- In other cases
-- If not
-- Conversely
+- [Otherwise](/en/post/otherwise/) [than](/en/post/than/)
+- [In](/en/post/in/) [other](/en/post/other/) cases
+- [If](/en/post/if/) [not](/en/post/not/)
+- [Conversely](/en/post/conversely/)
 - Differently
-- Under other circumstances
+- [Under](/en/post/under/) [other](/en/post/other/) circumstances

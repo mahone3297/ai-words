@@ -12,21 +12,21 @@ keywords = ['ai words', 'government']
 
 ## 释义
 - **名词 (n)**: 
-    - 政府；行政管理机构。例如: "The government has announced new policies to tackle inflation."
-    - 统治；管理。例如: "They believe in self-government in their communities."
+    - 政府；行政管理机构。例如: "[The](/post/the/) [government](/post/government/) has announced [new](/post/new/) policies [to](/post/to/) tackle inflation."
+    - 统治；管理。例如: "[They](/post/they/) [believe](/post/believe/) [in](/post/in/) self-government [in](/post/in/) [their](/post/their/) communities."
 
 ## 短语
-- "central government" 中央政府
-- "local government" 地方政府
-- "government official" 政府官员
+- "[central](/post/central/) [government](/post/government/)" 中央政府
+- "[local](/post/local/) [government](/post/government/)" 地方政府
+- "[government](/post/government/) [official](/post/official/)" 政府官员
 
 ## 例句
-- 名词: "The government is working on improving public healthcare services."
-- 名词: "The local government has introduced new recycling initiatives."
+- 名词: "[The](/post/the/) [government](/post/government/) is working [on](/post/on/) improving [public](/post/public/) healthcare services."
+- 名词: "[The](/post/the/) [local](/post/local/) [government](/post/government/) has introduced [new](/post/new/) recycling initiatives."
 
 ## 同义词
-- administration
+- [administration](/post/administration/)
 - regime
 - governance
-- authority
-- ruling body
+- [authority](/post/authority/)
+- ruling [body](/post/body/)

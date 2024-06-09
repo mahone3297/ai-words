@@ -11,21 +11,21 @@ keywords = ['ai words', 'proposal']
 /prəˈpəʊz(ə)l/
 
 ## 释义
-- **名词**: 提议，建议，提案。例如: "He made a proposal to increase the company's productivity."
-- **动词**: 提出（建议或计划）。例如: "She proposed a new marketing strategy."
+- **名词**: 提议，建议，提案。例如: "[He](/post/he/) made [a](/post/a/) [proposal](/post/proposal/) [to](/post/to/) [increase](/post/increase/) [the](/post/the/) company's productivity."
+- **动词**: 提出（建议或计划）。例如: "[She](/post/she/) proposed [a](/post/a/) [new](/post/new/) marketing [strategy](/post/strategy/)."
 
 ## 短语
-- "Business proposal" 商业提案，通常是指公司或个人提出的经营计划。
-- "Marriage proposal" 求婚，即请求与某人结婚。
-- "Propose a toast" 提议为某事干杯。
+- "[Business](/post/business/) [proposal](/post/proposal/)" 商业提案，通常是指公司或个人提出的经营计划。
+- "[Marriage](/post/marriage/) [proposal](/post/proposal/)" 求婚，即请求与某人结婚。
+- "[Propose](/post/propose/) [a](/post/a/) [toast](/post/toast/)" 提议为某事干杯。
 
 ## 例句
-- 名词: "The board is reviewing his project proposal."
-- 动词: "She proposed a solution to the problem during the meeting."
+- 名词: "[The](/post/the/) [board](/post/board/) is reviewing [his](/post/his/) [project](/post/project/) [proposal](/post/proposal/)."
+- 动词: "[She](/post/she/) proposed [a](/post/a/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/) [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
 
 ## 同义词
-- Suggestion
-- Plan
-- Idea
-- Recommendation
-- Offer
+- [Suggestion](/post/suggestion/)
+- [Plan](/post/plan/)
+- [Idea](/post/idea/)
+- [Recommendation](/post/recommendation/)
+- [Offer](/post/offer/)

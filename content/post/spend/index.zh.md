@@ -8,25 +8,25 @@ keywords = ['ai words', 'spend']
 +++
 
 ## 读音
-/spend/  
+/[spend](/post/spend/)/  
 
 ## 释义
 - **动词**:
-1. 花费（时间、金钱等）。例如: "I spent $100 on new books."  
-2. 度过（时间）。例如: "We spent the weekend at the beach."
+1. 花费（时间、金钱等）。例如: "I spent $100 [on](/post/on/) [new](/post/new/) books."  
+2. 度过（时间）。例如: "[We](/post/we/) spent [the](/post/the/) [weekend](/post/weekend/) [at](/post/at/) [the](/post/the/) [beach](/post/beach/)."
 
 ## 短语
-- "Spend time with sb" 意为与某人共度时光。例如: "I love spending time with my family."
-- "Spend money on sth" 指在某物上消费金钱。例如: "She decided to spend money on a new laptop."
+- "[Spend](/post/spend/) [time](/post/time/) [with](/post/with/) sb" 意为与某人共度时光。例如: "I [love](/post/love/) spending [time](/post/time/) [with](/post/with/) [my](/post/my/) [family](/post/family/)."
+- "[Spend](/post/spend/) [money](/post/money/) [on](/post/on/) sth" 指在某物上消费金钱。例如: "[She](/post/she/) decided [to](/post/to/) [spend](/post/spend/) [money](/post/money/) [on](/post/on/) [a](/post/a/) [new](/post/new/) laptop."
 
 ## 例句
-- "He spends his evenings reading novels."
-- "She plans to spend a month traveling in Europe."
-- "Don't spend too much time worrying about it."
+- "[He](/post/he/) spends [his](/post/his/) evenings [reading](/post/reading/) novels."
+- "[She](/post/she/) plans [to](/post/to/) [spend](/post/spend/) [a](/post/a/) [month](/post/month/) traveling [in](/post/in/) Europe."
+- "Don't [spend](/post/spend/) [too](/post/too/) [much](/post/much/) [time](/post/time/) worrying [about](/post/about/) [it](/post/it/)."
 
 ## 同义词
 - Expend
-- Use up
-- Devote
+- [Use](/post/use/) [up](/post/up/)
+- [Devote](/post/devote/)
 - Allocate
-- Invest
+- [Invest](/post/invest/)

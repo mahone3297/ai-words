@@ -11,21 +11,21 @@ keywords = ['ai words', 'representative']
 /ˌrɛprɪˈzɛntətɪv/
 
 ## 释义
-- **名词 (n)**: 代表；代理人。例如: "She is a representative of the company's sales department."
-- **形容词 (adj)**: 典型的；有代表性的。例如: "This study has a representative sample of the population."
+- **名词 (n)**: 代表；代理人。例如: "[She](/post/she/) is [a](/post/a/) [representative](/post/representative/) [of](/post/of/) [the](/post/the/) company's sales [department](/post/department/)."
+- **形容词 (adj)**: 典型的；有代表性的。例如: "[This](/post/this/) [study](/post/study/) has [a](/post/a/) [representative](/post/representative/) [sample](/post/sample/) [of](/post/of/) [the](/post/the/) [population](/post/population/)."
 
 ## 短语
-- "political representative" 政治代表
-- "sales representative" 销售代表
-- "be representative of" 表明…的特征或性质。例如: "The survey is representative of the views of young people in the region."
+- "[political](/post/political/) [representative](/post/representative/)" 政治代表
+- "sales [representative](/post/representative/)" 销售代表
+- "[be](/post/be/) [representative](/post/representative/) [of](/post/of/)" 表明…的特征或性质。例如: "[The](/post/the/) [survey](/post/survey/) is [representative](/post/representative/) [of](/post/of/) [the](/post/the/) views [of](/post/of/) [young](/post/young/) [people](/post/people/) [in](/post/in/) [the](/post/the/) [region](/post/region/)."
 
 ## 例句
-- 名词: "Our company will send a representative to discuss the contract with you."
-- 形容词: "This artwork is representative of the artist's style."
+- 名词: "[Our](/post/our/) [company](/post/company/) [will](/post/will/) [send](/post/send/) [a](/post/a/) [representative](/post/representative/) [to](/post/to/) [discuss](/post/discuss/) [the](/post/the/) [contract](/post/contract/) [with](/post/with/) [you](/post/you/)."
+- 形容词: "[This](/post/this/) artwork is [representative](/post/representative/) [of](/post/of/) [the](/post/the/) artist's [style](/post/style/)."
 
 ## 同义词
 - Delegate
-- Agent
+- [Agent](/post/agent/)
 - Proxy
 - Epitome
 -典型例子

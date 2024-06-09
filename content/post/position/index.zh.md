@@ -12,24 +12,24 @@ keywords = ['ai words', 'position']
 
 ## 释义
 - **名词**:
-  1. 地位或角色：如 "He holds a high position in the company."
-  2. 姿势或姿态：如 "She stood in a yoga position."
-  3. 位置或地点：如 "The chair is in its usual position."
+  1. 地位或角色：如 "[He](/post/he/) holds [a](/post/a/) [high](/post/high/) [position](/post/position/) [in](/post/in/) [the](/post/the/) [company](/post/company/)."
+  2. 姿势或姿态：如 "[She](/post/she/) stood [in](/post/in/) [a](/post/a/) yoga [position](/post/position/)."
+  3. 位置或地点：如 "[The](/post/the/) [chair](/post/chair/) is [in](/post/in/) [its](/post/its/) [usual](/post/usual/) [position](/post/position/)."
 
 - **动词**:
-  放置或定位：如 "Position the book on the shelf."
+  放置或定位：如 "[Position](/post/position/) [the](/post/the/) [book](/post/book/) [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/)."
 
 ## 短语
-- "In a good position" 表示处于有利的状态或位置。
-- "Take a position" 意为采取立场或开始工作。
+- "[In](/post/in/) [a](/post/a/) [good](/post/good/) [position](/post/position/)" 表示处于有利的状态或位置。
+- "[Take](/post/take/) [a](/post/a/) [position](/post/position/)" 意为采取立场或开始工作。
 
 ## 例句
-- 名词: "She was offered a position as a senior manager."
-- 动词: "He carefully positioned the painting on the wall."
+- 名词: "[She](/post/she/) was offered [a](/post/a/) [position](/post/position/) [as](/post/as/) [a](/post/a/) [senior](/post/senior/) manager."
+- 动词: "[He](/post/he/) carefully positioned [the](/post/the/) [painting](/post/painting/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/)."
 
 ## 同义词
-- Role
-- Status
-- Location
-- Spot
+- [Role](/post/role/)
+- [Status](/post/status/)
+- [Location](/post/location/)
+- [Spot](/post/spot/)
 - Placement

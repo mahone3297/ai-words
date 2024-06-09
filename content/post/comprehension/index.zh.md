@@ -11,20 +11,20 @@ keywords = ['ai words', 'comprehension']
 /ˌkɑːmprɪˈhenshən/
 
 ## 释义
-- **名词**: 理解；领悟；解读。例如: "She has a good comprehension of the complex theory."
-- **动词**: 理解；领会。例如: "Can you comprehend what I'm trying to explain?"
+- **名词**: 理解；领悟；解读。例如: "[She](/post/she/) has [a](/post/a/) [good](/post/good/) [comprehension](/post/comprehension/) [of](/post/of/) [the](/post/the/) [complex](/post/complex/) [theory](/post/theory/)."
+- **动词**: 理解；领会。例如: "[Can](/post/can/) [you](/post/you/) comprehend [what](/post/what/) I'm trying [to](/post/to/) [explain](/post/explain/)?"
 
 ## 短语
-- "Comprehension test" 是用来评估阅读理解能力的测试。
-- "Comprehensive understanding" 指全面深入的理解。
+- "[Comprehension](/post/comprehension/) [test](/post/test/)" 是用来评估阅读理解能力的测试。
+- "[Comprehensive](/post/comprehensive/) [understanding](/post/understanding/)" 指全面深入的理解。
 
 ## 例句
-- 名词: "The students were given a reading comprehension quiz after finishing the chapter."
-- 动词: "To fully comprehend the text, you need to read it several times."
+- 名词: "[The](/post/the/) students were given [a](/post/a/) [reading](/post/reading/) [comprehension](/post/comprehension/) [quiz](/post/quiz/) [after](/post/after/) finishing [the](/post/the/) [chapter](/post/chapter/)."
+- 动词: "[To](/post/to/) fully comprehend [the](/post/the/) [text](/post/text/), [you](/post/you/) [need](/post/need/) [to](/post/to/) [read](/post/read/) [it](/post/it/) [several](/post/several/) times."
 
 ## 同义词
-- Understanding
-- Grasp
-- Interpretation
+- [Understanding](/post/understanding/)
+- [Grasp](/post/grasp/)
+- [Interpretation](/post/interpretation/)
 - Perception
-- Comprehension ability
+- [Comprehension](/post/comprehension/) [ability](/post/ability/)

@@ -7,30 +7,30 @@ description = '[ˈmedl] n.奖章，勋章，纪念章'
 keywords = ['ai words', 'medal']
 +++
 
-## Word: Medal
+## [Word](/en/post/word/): [Medal](/en/post/medal/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈmedl/
 
 ## Definitions
-- **Noun (n)**: A small, usually metal object that is given as an award for achievement, bravery, or service, often worn suspended from a ribbon or chain around the neck or pinned onto clothing. Example: "She received a gold medal for her exceptional performance in the Olympics."
+- **[Noun](/en/post/noun/) (n)**: [A](/en/post/a/) [small](/en/post/small/), [usually](/en/post/usually/) [metal](/en/post/metal/) [object](/en/post/object/) [that](/en/post/that/) is given [as](/en/post/as/) an [award](/en/post/award/) [for](/en/post/for/) [achievement](/en/post/achievement/), bravery, [or](/en/post/or/) [service](/en/post/service/), [often](/en/post/often/) worn suspended [from](/en/post/from/) [a](/en/post/a/) [ribbon](/en/post/ribbon/) [or](/en/post/or/) [chain](/en/post/chain/) [around](/en/post/around/) [the](/en/post/the/) [neck](/en/post/neck/) [or](/en/post/or/) pinned [onto](/en/post/onto/) [clothing](/en/post/clothing/). [Example](/en/post/example/): "[She](/en/post/she/) received [a](/en/post/a/) [gold](/en/post/gold/) [medal](/en/post/medal/) [for](/en/post/for/) [her](/en/post/her/) exceptional [performance](/en/post/performance/) [in](/en/post/in/) [the](/en/post/the/) Olympics."
 
 ### Phrases
-- "Win a medal": To be awarded a medal for one's performance or achievements. Example: "She trained hard every day with the hope of winning a medal at the championships."
-- "Medal ceremony": A formal event where medals are presented to the winners or recipients. Example: "The Olympic Games' most anticipated moments are the medal ceremonies."
-- "Medal of Honor": The highest military decoration awarded by the United States government for acts of valor in combat.
+- "[Win](/en/post/win/) [a](/en/post/a/) [medal](/en/post/medal/)": [To](/en/post/to/) [be](/en/post/be/) awarded [a](/en/post/a/) [medal](/en/post/medal/) [for](/en/post/for/) one's [performance](/en/post/performance/) [or](/en/post/or/) achievements. [Example](/en/post/example/): "[She](/en/post/she/) trained [hard](/en/post/hard/) [every](/en/post/every/) [day](/en/post/day/) [with](/en/post/with/) [the](/en/post/the/) [hope](/en/post/hope/) [of](/en/post/of/) winning [a](/en/post/a/) [medal](/en/post/medal/) [at](/en/post/at/) [the](/en/post/the/) championships."
+- "[Medal](/en/post/medal/) [ceremony](/en/post/ceremony/)": [A](/en/post/a/) [formal](/en/post/formal/) [event](/en/post/event/) [where](/en/post/where/) medals are presented [to](/en/post/to/) [the](/en/post/the/) winners [or](/en/post/or/) recipients. [Example](/en/post/example/): "[The](/en/post/the/) Olympic Games' [most](/en/post/most/) anticipated moments are [the](/en/post/the/) [medal](/en/post/medal/) ceremonies."
+- "[Medal](/en/post/medal/) [of](/en/post/of/) Honor": [The](/en/post/the/) highest [military](/en/post/military/) decoration awarded [by](/en/post/by/) [the](/en/post/the/) United States [government](/en/post/government/) [for](/en/post/for/) acts [of](/en/post/of/) valor [in](/en/post/in/) combat.
 
-## Example Sentences
-- **Noun**: "The veteran proudly displayed his collection of medals from his time in the service."
-- "After years of dedication, he finally got to stand on the podium and receive his well-deserved gold medal."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [veteran](/en/post/veteran/) proudly displayed [his](/en/post/his/) [collection](/en/post/collection/) [of](/en/post/of/) medals [from](/en/post/from/) [his](/en/post/his/) [time](/en/post/time/) [in](/en/post/in/) [the](/en/post/the/) [service](/en/post/service/)."
+- "[After](/en/post/after/) years [of](/en/post/of/) dedication, [he](/en/post/he/) [finally](/en/post/finally/) got [to](/en/post/to/) [stand](/en/post/stand/) [on](/en/post/on/) [the](/en/post/the/) podium [and](/en/post/and/) [receive](/en/post/receive/) [his](/en/post/his/) well-deserved [gold](/en/post/gold/) [medal](/en/post/medal/)."
 
 ## Synonyms
-- Award
+- [Award](/en/post/award/)
 - Decoration
-- Prize
+- [Prize](/en/post/prize/)
 - Accolade
 - Citation
-- Ribbon
+- [Ribbon](/en/post/ribbon/)
 - Trophy
-- Badge of honor
+- Badge [of](/en/post/of/) honor
 - Commemorative plaque

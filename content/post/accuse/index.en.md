@@ -7,30 +7,30 @@ description = '[əˈkjuːz] vt.指责；归咎于'
 keywords = ['ai words', 'accuse']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /əˈkjuːz/
 
 ## Definitions
-### Noun
-1. **Charge or blame:** The act of making a formal or informal accusation against someone, claiming they have committed a wrong or crime. Example: "The defendant was accused of theft."
-2. **Imputation:** An unfair or unjust statement made against someone, often with intent to harm their reputation. Example: "She felt unfairly accused of being unprofessional."
+### [Noun](/en/post/noun/)
+1. **[Charge](/en/post/charge/) [or](/en/post/or/) [blame](/en/post/blame/):** [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) making [a](/en/post/a/) [formal](/en/post/formal/) [or](/en/post/or/) informal accusation [against](/en/post/against/) [someone](/en/post/someone/), claiming [they](/en/post/they/) [have](/en/post/have/) committed [a](/en/post/a/) [wrong](/en/post/wrong/) [or](/en/post/or/) [crime](/en/post/crime/). [Example](/en/post/example/): "[The](/en/post/the/) defendant was accused [of](/en/post/of/) theft."
+2. **Imputation:** An [unfair](/en/post/unfair/) [or](/en/post/or/) [unjust](/en/post/unjust/) [statement](/en/post/statement/) made [against](/en/post/against/) [someone](/en/post/someone/), [often](/en/post/often/) [with](/en/post/with/) intent [to](/en/post/to/) [harm](/en/post/harm/) [their](/en/post/their/) [reputation](/en/post/reputation/). [Example](/en/post/example/): "[She](/en/post/she/) felt unfairly accused [of](/en/post/of/) [being](/en/post/being/) unprofessional."
 
-### Verb
-1. **To bring a charge against:** To make a formal accusation or claim that someone has committed a crime or acted wrongly. Example: "The police accused him of driving under the influence."
-2. **To point fingers at:** To imply guilt without providing evidence. Example: "The children were accusing each other of taking the cookies."
+### [Verb](/en/post/verb/)
+1. **[To](/en/post/to/) [bring](/en/post/bring/) [a](/en/post/a/) [charge](/en/post/charge/) [against](/en/post/against/):** [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [formal](/en/post/formal/) accusation [or](/en/post/or/) [claim](/en/post/claim/) [that](/en/post/that/) [someone](/en/post/someone/) has committed [a](/en/post/a/) [crime](/en/post/crime/) [or](/en/post/or/) acted wrongly. [Example](/en/post/example/): "[The](/en/post/the/) [police](/en/post/police/) accused [him](/en/post/him/) [of](/en/post/of/) driving [under](/en/post/under/) [the](/en/post/the/) [influence](/en/post/influence/)."
+2. **[To](/en/post/to/) [point](/en/post/point/) fingers [at](/en/post/at/):** [To](/en/post/to/) [imply](/en/post/imply/) guilt [without](/en/post/without/) providing [evidence](/en/post/evidence/). [Example](/en/post/example/): "[The](/en/post/the/) children were accusing [each](/en/post/each/) [other](/en/post/other/) [of](/en/post/of/) taking [the](/en/post/the/) cookies."
 
-### Adjective
-1. **Imputed:** Characterized by or involving an accusation or imputation. Example: "The accused's lawyers argued that the case was based on imputed motives."
+### [Adjective](/en/post/adjective/)
+1. **Imputed:** Characterized [by](/en/post/by/) [or](/en/post/or/) involving an accusation [or](/en/post/or/) imputation. [Example](/en/post/example/): "[The](/en/post/the/) accused's lawyers argued [that](/en/post/that/) [the](/en/post/the/) [case](/en/post/case/) was based [on](/en/post/on/) imputed motives."
 
 ## Phrases
-- "Accuse someone of something" means to claim they did a particular action or committed a fault.
-- "Be accused of" indicates when someone is formally charged or believed to have done something wrong.
-- "Throwing accusations" refers to making allegations without evidence.
+- "[Accuse](/en/post/accuse/) [someone](/en/post/someone/) [of](/en/post/of/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [claim](/en/post/claim/) [they](/en/post/they/) did [a](/en/post/a/) [particular](/en/post/particular/) [action](/en/post/action/) [or](/en/post/or/) committed [a](/en/post/a/) [fault](/en/post/fault/).
+- "[Be](/en/post/be/) accused [of](/en/post/of/)" indicates [when](/en/post/when/) [someone](/en/post/someone/) is formally charged [or](/en/post/or/) believed [to](/en/post/to/) [have](/en/post/have/) done [something](/en/post/something/) [wrong](/en/post/wrong/).
+- "Throwing accusations" refers [to](/en/post/to/) making allegations [without](/en/post/without/) [evidence](/en/post/evidence/).
 
-## Example Sentences
-- **Noun**: "The lawyer presented evidence to support his client's innocence after being accused of murder."
-- **Verb**: "The teacher accused the student of cheating on the exam."
-- **Adjective**: "The accused maintained their innocence throughout the trial."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [lawyer](/en/post/lawyer/) presented [evidence](/en/post/evidence/) [to](/en/post/to/) [support](/en/post/support/) [his](/en/post/his/) client's innocence [after](/en/post/after/) [being](/en/post/being/) accused [of](/en/post/of/) [murder](/en/post/murder/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) accused [the](/en/post/the/) [student](/en/post/student/) [of](/en/post/of/) cheating [on](/en/post/on/) [the](/en/post/the/) [exam](/en/post/exam/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) accused maintained [their](/en/post/their/) innocence [throughout](/en/post/throughout/) [the](/en/post/the/) [trial](/en/post/trial/)."
 
 ## Synonyms
-- Accuse, blame, censure, condemn, level an accusation, allege, claim, insinuate, suggest, hint
+- [Accuse](/en/post/accuse/), [blame](/en/post/blame/), censure, [condemn](/en/post/condemn/), [level](/en/post/level/) an accusation, allege, [claim](/en/post/claim/), insinuate, [suggest](/en/post/suggest/), [hint](/en/post/hint/)

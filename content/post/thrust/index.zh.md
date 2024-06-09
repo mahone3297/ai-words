@@ -12,27 +12,27 @@ keywords = ['ai words', 'thrust']
 
 ## 释义
 - **名词**: 
-   - 力量的猛然推动；推力。例如: "The engine produced a mighty thrust that sent the rocket into space."
-   - 信任；信赖。例如: "She placed her complete trust in his judgment."
-   - 刺击动作；猛刺。例如: "The knight delivered a powerful thrust with his sword."
+   - 力量的猛然推动；推力。例如: "[The](/post/the/) [engine](/post/engine/) produced [a](/post/a/) mighty [thrust](/post/thrust/) [that](/post/that/) sent [the](/post/the/) [rocket](/post/rocket/) [into](/post/into/) [space](/post/space/)."
+   - 信任；信赖。例如: "[She](/post/she/) placed [her](/post/her/) [complete](/post/complete/) [trust](/post/trust/) [in](/post/in/) [his](/post/his/) judgment."
+   - 刺击动作；猛刺。例如: "[The](/post/the/) knight delivered [a](/post/a/) [powerful](/post/powerful/) [thrust](/post/thrust/) [with](/post/with/) [his](/post/his/) [sword](/post/sword/)."
 
 - **动词**:
-   - 推；用力插入。例如: "He thrust the key into the lock."
-   - 强加；强迫。例如: "The idea was thrust upon us without any discussion."
-   - 突然提出或引入。例如: "The topic was thrust into the conversation unexpectedly."
+   - 推；用力插入。例如: "[He](/post/he/) [thrust](/post/thrust/) [the](/post/the/) [key](/post/key/) [into](/post/into/) [the](/post/the/) [lock](/post/lock/)."
+   - 强加；强迫。例如: "[The](/post/the/) [idea](/post/idea/) was [thrust](/post/thrust/) [upon](/post/upon/) [us](/post/us/) [without](/post/without/) [any](/post/any/) [discussion](/post/discussion/)."
+   - 突然提出或引入。例如: "[The](/post/the/) [topic](/post/topic/) was [thrust](/post/thrust/) [into](/post/into/) [the](/post/the/) [conversation](/post/conversation/) unexpectedly."
 
 ## 短语
-- "Thrust forward" 意为向前推或推进。
-- "Thrust into" 意为突然使处于（某种情况）或强加于。例如: "She was thrust into the public eye when she won the competition."
+- "[Thrust](/post/thrust/) [forward](/post/forward/)" 意为向前推或推进。
+- "[Thrust](/post/thrust/) [into](/post/into/)" 意为突然使处于（某种情况）或强加于。例如: "[She](/post/she/) was [thrust](/post/thrust/) [into](/post/into/) [the](/post/the/) [public](/post/public/) [eye](/post/eye/) [when](/post/when/) [she](/post/she/) won [the](/post/the/) [competition](/post/competition/)."
 
 ## 例句
-- 名词: "The plane's engines generated an incredible amount of thrust for takeoff."
-- 动词: "He thrust his way through the crowded hallway."
-- 感叹词: (不常见作为感叹词使用，但在某些情境下可表达突然或强烈的意思) "Thrust! We need to move quickly!"
+- 名词: "[The](/post/the/) plane's engines generated an incredible [amount](/post/amount/) [of](/post/of/) [thrust](/post/thrust/) [for](/post/for/) takeoff."
+- 动词: "[He](/post/he/) [thrust](/post/thrust/) [his](/post/his/) [way](/post/way/) [through](/post/through/) [the](/post/the/) crowded hallway."
+- 感叹词: (不常见作为感叹词使用，但在某些情境下可表达突然或强烈的意思) "[Thrust](/post/thrust/)! [We](/post/we/) [need](/post/need/) [to](/post/to/) [move](/post/move/) [quickly](/post/quickly/)!"
 
 ## 同义词
-- Push
+- [Push](/post/push/)
 - Impel
-- Force
-- Jam
+- [Force](/post/force/)
+- [Jam](/post/jam/)
 - Poke

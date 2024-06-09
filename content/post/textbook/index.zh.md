@@ -11,18 +11,18 @@ keywords = ['ai words', 'textbook']
 /ˈtekstboʊk/
 
 ## 释义
-- **名词 (n)**: 一种正式的教科书，通常在学校里使用，包含特定主题的详细信息和练习。例如: "I need to buy a new textbook for my history class."
+- **名词 (n)**: 一种正式的教科书，通常在学校里使用，包含特定主题的详细信息和练习。例如: "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [new](/post/new/) [textbook](/post/textbook/) [for](/post/for/) [my](/post/my/) [history](/post/history/) [class](/post/class/)."
   
 ## 短语
-- "Follow the textbook" 意味着按照书中的指导进行学习。
-- "Open your textbooks" 是教师在课堂上让学生准备上课的指示。
+- "[Follow](/post/follow/) [the](/post/the/) [textbook](/post/textbook/)" 意味着按照书中的指导进行学习。
+- "[Open](/post/open/) [your](/post/your/) textbooks" 是教师在课堂上让学生准备上课的指示。
 
 ## 例句
-- 名词: "The students were asked to read Chapter 3 in their chemistry textbooks."
+- 名词: "[The](/post/the/) students were asked [to](/post/to/) [read](/post/read/) [Chapter](/post/chapter/) 3 [in](/post/in/) [their](/post/their/) [chemistry](/post/chemistry/) textbooks."
 
 ## 同义词
 - Coursebook
-- Study guide
-- Manual
-- Reference book
+- [Study](/post/study/) [guide](/post/guide/)
+- [Manual](/post/manual/)
+- [Reference](/post/reference/) [book](/post/book/)
 - Workbook

@@ -11,20 +11,20 @@ keywords = ['ai words', 'misunderstand']
 /mɪˈstænd/ 
 
 ## 释义
-- **动词**: 误会，误解。例如: "I think there's been a misunderstanding about my intentions."
-- **名词**: 误会，误解。例如: "We had a serious misunderstanding about the project."
+- **动词**: 误会，误解。例如: "I [think](/post/think/) there's been [a](/post/a/) misunderstanding [about](/post/about/) [my](/post/my/) intentions."
+- **名词**: 误会，误解。例如: "[We](/post/we/) had [a](/post/a/) [serious](/post/serious/) misunderstanding [about](/post/about/) [the](/post/the/) [project](/post/project/)."
 
 ## 短语
-- "to misunderstand someone" 意为误解某人。
-- "clear up a misunderstanding" 意为消除误会。
+- "[to](/post/to/) [misunderstand](/post/misunderstand/) [someone](/post/someone/)" 意为误解某人。
+- "[clear](/post/clear/) [up](/post/up/) [a](/post/a/) misunderstanding" 意为消除误会。
 
 ## 例句
-- 动词: "She misunderstood his intentions and got upset."
-- 名词: "Let's talk to resolve this misunderstanding."
+- 动词: "[She](/post/she/) misunderstood [his](/post/his/) intentions [and](/post/and/) got [upset](/post/upset/)."
+- 名词: "Let's [talk](/post/talk/) [to](/post/to/) [resolve](/post/resolve/) [this](/post/this/) misunderstanding."
 
 ## 同义词
 - misconstrue
 - misinterpret
 - misunderstandings
-- confusion
-- error
+- [confusion](/post/confusion/)
+- [error](/post/error/)

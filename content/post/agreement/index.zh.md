@@ -12,21 +12,21 @@ keywords = ['ai words', 'agreement']
 
 ## 释义
 - **名词 n**:
-    - 协议，约定：双方或多方就某些事项达成的共识。例如: "We signed a rental agreement for the apartment."
-    - 一致，同意：意见或观点的一致。例如: "There was general agreement on the need for change."
+    - 协议，约定：双方或多方就某些事项达成的共识。例如: "[We](/post/we/) signed [a](/post/a/) rental [agreement](/post/agreement/) [for](/post/for/) [the](/post/the/) [apartment](/post/apartment/)."
+    - 一致，同意：意见或观点的一致。例如: "[There](/post/there/) was [general](/post/general/) [agreement](/post/agreement/) [on](/post/on/) [the](/post/the/) [need](/post/need/) [for](/post/for/) [change](/post/change/)."
 
 ## 短语
-- "come to an agreement" 意为达成一致意见。
-- "in agreement with" 表示与...一致或同意...的观点。
-- "agreement clause" 是合同中的协议条款。
+- "[come](/post/come/) [to](/post/to/) an [agreement](/post/agreement/)" 意为达成一致意见。
+- "[in](/post/in/) [agreement](/post/agreement/) [with](/post/with/)" 表示与...一致或同意...的观点。
+- "[agreement](/post/agreement/) clause" 是合同中的协议条款。
 
 ## 例句
-- 名词: "The contract contains several important agreement clauses."
-- 形容词（用作定语）: "Their views were in complete agreement on the issue."
+- 名词: "[The](/post/the/) [contract](/post/contract/) contains [several](/post/several/) [important](/post/important/) [agreement](/post/agreement/) clauses."
+- 形容词（用作定语）: "[Their](/post/their/) views were [in](/post/in/) [complete](/post/complete/) [agreement](/post/agreement/) [on](/post/on/) [the](/post/the/) [issue](/post/issue/)."
 
 ## 同义词
-- Contract
-- Treaty
+- [Contract](/post/contract/)
+- [Treaty](/post/treaty/)
 - Pact
-- Understanding
-- Consent
+- [Understanding](/post/understanding/)
+- [Consent](/post/consent/)

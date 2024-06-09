@@ -11,20 +11,20 @@ keywords = ['ai words', 'different']
 /dɪˈfɜːrənt/
 
 ## 释义
-- **形容词**: 不同的，有区别的。例如: "The two paintings have different styles."
-- **名词**: 差异，不同之处。例如: "There are significant differences between the two versions."
+- **形容词**: 不同的，有区别的。例如: "[The](/post/the/) [two](/post/two/) paintings [have](/post/have/) [different](/post/different/) styles."
+- **名词**: 差异，不同之处。例如: "[There](/post/there/) are [significant](/post/significant/) differences [between](/post/between/) [the](/post/the/) [two](/post/two/) versions."
 
 ## 短语
-- "Different from" 表示与...不同。例如: "This dress is different from the one I wore yesterday."
-- "Different to"（主要在英式英语中使用）也表示与...不同。例如: "Their approach is different to ours."
+- "[Different](/post/different/) [from](/post/from/)" 表示与...不同。例如: "[This](/post/this/) [dress](/post/dress/) is [different](/post/different/) [from](/post/from/) [the](/post/the/) [one](/post/one/) I wore [yesterday](/post/yesterday/)."
+- "[Different](/post/different/) [to](/post/to/)"（主要在英式英语中使用）也表示与...不同。例如: "[Their](/post/their/) [approach](/post/approach/) is [different](/post/different/) [to](/post/to/) [ours](/post/ours/)."
 
 ## 例句
-- 形容词: "Each culture has its own different traditions and customs."
-- 名词: "Can you point out the differences between these two documents?"
+- 形容词: "[Each](/post/each/) [culture](/post/culture/) has [its](/post/its/) [own](/post/own/) [different](/post/different/) traditions [and](/post/and/) customs."
+- 名词: "[Can](/post/can/) [you](/post/you/) [point](/post/point/) [out](/post/out/) [the](/post/the/) differences [between](/post/between/) [these](/post/these/) [two](/post/two/) documents?"
 
 ## 同义词
-- Distinct
-- Various
-- Unique
-- Unlike
+- [Distinct](/post/distinct/)
+- [Various](/post/various/)
+- [Unique](/post/unique/)
+- [Unlike](/post/unlike/)
 - Divergent

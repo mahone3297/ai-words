@@ -7,33 +7,33 @@ description = '[ˈinstəns] n.例子，实例，事例'
 keywords = ['ai words', 'instance']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈɪnstəns/
 
 ## Definitions
-- **Noun**: A particular case or occurrence of something; an example or illustration. For example: "This is just one instance of how the system fails."
-  - In computing, it can refer to a specific occurrence of a running program or process. For example: "The application needs to be restarted after every instance."
-- **Verb**: (formal) To cite or give an example or instance of something. For example: "The professor instanced several cases of plagiarism in his lecture."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [particular](/en/post/particular/) [case](/en/post/case/) [or](/en/post/or/) [occurrence](/en/post/occurrence/) [of](/en/post/of/) [something](/en/post/something/); an [example](/en/post/example/) [or](/en/post/or/) [illustration](/en/post/illustration/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) is [just](/en/post/just/) [one](/en/post/one/) [instance](/en/post/instance/) [of](/en/post/of/) [how](/en/post/how/) [the](/en/post/the/) [system](/en/post/system/) fails."
+  - [In](/en/post/in/) computing, [it](/en/post/it/) [can](/en/post/can/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [occurrence](/en/post/occurrence/) [of](/en/post/of/) [a](/en/post/a/) running [program](/en/post/program/) [or](/en/post/or/) [process](/en/post/process/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [application](/en/post/application/) needs [to](/en/post/to/) [be](/en/post/be/) restarted [after](/en/post/after/) [every](/en/post/every/) [instance](/en/post/instance/)."
+- **[Verb](/en/post/verb/)**: ([formal](/en/post/formal/)) [To](/en/post/to/) cite [or](/en/post/or/) [give](/en/post/give/) an [example](/en/post/example/) [or](/en/post/or/) [instance](/en/post/instance/) [of](/en/post/of/) [something](/en/post/something/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [professor](/en/post/professor/) instanced [several](/en/post/several/) cases [of](/en/post/of/) plagiarism [in](/en/post/in/) [his](/en/post/his/) [lecture](/en/post/lecture/)."
 
 ## Phrases
-- "In this instance" is used to refer to a particular situation being discussed. 
-- "Instance variable" in programming refers to a variable that belongs to an object rather than the class as a whole.
-- "On no instance" suggests that something should not happen under any circumstances.
+- "[In](/en/post/in/) [this](/en/post/this/) [instance](/en/post/instance/)" is [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/) [being](/en/post/being/) discussed. 
+- "[Instance](/en/post/instance/) [variable](/en/post/variable/)" [in](/en/post/in/) programming refers [to](/en/post/to/) [a](/en/post/a/) [variable](/en/post/variable/) [that](/en/post/that/) belongs [to](/en/post/to/) an [object](/en/post/object/) [rather](/en/post/rather/) [than](/en/post/than/) [the](/en/post/the/) [class](/en/post/class/) [as](/en/post/as/) [a](/en/post/a/) [whole](/en/post/whole/).
+- "[On](/en/post/on/) [no](/en/post/no/) [instance](/en/post/instance/)" suggests [that](/en/post/that/) [something](/en/post/something/) [should](/en/post/should/) [not](/en/post/not/) [happen](/en/post/happen/) [under](/en/post/under/) [any](/en/post/any/) circumstances.
 
-## Example Sentences
-- **Noun**: "There have been multiple instances of fraud reported in the company."
-- **Verb**: "She instanced her own experience to prove that hard work pays off."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[There](/en/post/there/) [have](/en/post/have/) been [multiple](/en/post/multiple/) instances [of](/en/post/of/) fraud reported [in](/en/post/in/) [the](/en/post/the/) [company](/en/post/company/)."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) instanced [her](/en/post/her/) [own](/en/post/own/) [experience](/en/post/experience/) [to](/en/post/to/) [prove](/en/post/prove/) [that](/en/post/that/) [hard](/en/post/hard/) [work](/en/post/work/) pays [off](/en/post/off/)."
 
 ## Synonyms
-- Example
-- Case
-- Occurrence
-- Instance of
-- Illustration
-- Sample
+- [Example](/en/post/example/)
+- [Case](/en/post/case/)
+- [Occurrence](/en/post/occurrence/)
+- [Instance](/en/post/instance/) [of](/en/post/of/)
+- [Illustration](/en/post/illustration/)
+- [Sample](/en/post/sample/)
 - Demonstration
-- Specific case
-- Event
+- [Specific](/en/post/specific/) [case](/en/post/case/)
+- [Event](/en/post/event/)
 - Episode
 
-(As a verb, synonyms may include 'cite', 'mention', 'reference', 'quote', 'allude to')
+([As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/), synonyms [may](/en/post/may/) [include](/en/post/include/) 'cite', '[mention](/en/post/mention/)', '[reference](/en/post/reference/)', '[quote](/en/post/quote/)', 'allude [to](/en/post/to/)')

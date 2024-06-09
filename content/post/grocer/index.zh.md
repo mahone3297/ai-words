@@ -11,20 +11,20 @@ keywords = ['ai words', 'grocer']
 /ˈɡrəʊsər/
 
 ## 释义
-- **名词**: 一个售卖食品和日常用品的小商人，尤指杂货店老板或员工。例如: "The grocer stocks a variety of fruits and vegetables in his store."
-- **名词**: 杂货店。例如: "I need to visit the grocer to buy some milk."
+- **名词**: 一个售卖食品和日常用品的小商人，尤指杂货店老板或员工。例如: "[The](/post/the/) [grocer](/post/grocer/) stocks [a](/post/a/) [variety](/post/variety/) [of](/post/of/) fruits [and](/post/and/) vegetables [in](/post/in/) [his](/post/his/) [store](/post/store/)."
+- **名词**: 杂货店。例如: "I [need](/post/need/) [to](/post/to/) [visit](/post/visit/) [the](/post/the/) [grocer](/post/grocer/) [to](/post/to/) [buy](/post/buy/) [some](/post/some/) [milk](/post/milk/)."
 
 ## 短语
-- "local grocer" 指的是附近的杂货店。
-- "grocery shopping" 意为购买杂货的行为。
+- "[local](/post/local/) [grocer](/post/grocer/)" 指的是附近的杂货店。
+- "[grocery](/post/grocery/) [shopping](/post/shopping/)" 意为购买杂货的行为。
 
 ## 例句
-- "The friendly grocer always has fresh produce delivered daily."
-- "I'm going to the grocer's to pick up some bread and cheese."
+- "[The](/post/the/) [friendly](/post/friendly/) [grocer](/post/grocer/) [always](/post/always/) has [fresh](/post/fresh/) [produce](/post/produce/) delivered [daily](/post/daily/)."
+- "I'm going [to](/post/to/) [the](/post/the/) grocer's [to](/post/to/) [pick](/post/pick/) [up](/post/up/) [some](/post/some/) [bread](/post/bread/) [and](/post/and/) [cheese](/post/cheese/)."
 
 ## 同义词
-- supermarket
-- market
-- food store
-- convenience store
+- [supermarket](/post/supermarket/)
+- [market](/post/market/)
+- [food](/post/food/) [store](/post/store/)
+- [convenience](/post/convenience/) [store](/post/store/)
 - bodega

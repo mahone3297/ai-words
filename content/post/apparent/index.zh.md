@@ -11,20 +11,20 @@ keywords = ['ai words', 'apparent']
 /appərənt/
 
 ## 释义
-- **形容词**: 显然的，明显的，表面上的。例如: "The problem is apparent to everyone."
-- **名词**: 明显的事物，显而易见的事实。例如: "There were several apparent errors in the report."
+- **形容词**: 显然的，明显的，表面上的。例如: "[The](/post/the/) [problem](/post/problem/) is [apparent](/post/apparent/) [to](/post/to/) [everyone](/post/everyone/)."
+- **名词**: 明显的事物，显而易见的事实。例如: "[There](/post/there/) were [several](/post/several/) [apparent](/post/apparent/) errors [in](/post/in/) [the](/post/the/) [report](/post/report/)."
 
 ## 短语
-- "apparent cause" 表示明显的原因。
-- "apparent success" 指看起来的成功。
+- "[apparent](/post/apparent/) [cause](/post/cause/)" 表示明显的原因。
+- "[apparent](/post/apparent/) [success](/post/success/)" 指看起来的成功。
 
 ## 例句
-- 形容词: "The solution to the puzzle was apparent once we looked at it from a different angle."
-- 名词: "His apparent confidence hid his nervousness."
+- 形容词: "[The](/post/the/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [puzzle](/post/puzzle/) was [apparent](/post/apparent/) [once](/post/once/) [we](/post/we/) looked [at](/post/at/) [it](/post/it/) [from](/post/from/) [a](/post/a/) [different](/post/different/) [angle](/post/angle/)."
+- 名词: "[His](/post/his/) [apparent](/post/apparent/) [confidence](/post/confidence/) hid [his](/post/his/) nervousness."
 
 ## 同义词
-- Obvious
-- Evident
+- [Obvious](/post/obvious/)
+- [Evident](/post/evident/)
 - Manifest
 - Seemingly
-- Apparent to all
+- [Apparent](/post/apparent/) [to](/post/to/) [all](/post/all/)

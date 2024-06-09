@@ -7,30 +7,30 @@ description = '[rein] n.缰绳 vi.驾驭，控制'
 keywords = ['ai words', 'rein']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /rɪn/
 
 ## Definitions
-- **Noun**: 1. A strap or cord attached to a horse's harness, used to guide and control its movement. 2. The authority or power to regulate or control something, often metaphorically. 3. (pl.) The reins of government, control over a country's affairs.
-- **Verb**: 1. To guide or direct (a horse) by pulling on the reins. 2. To exercise control or supervision over something or someone. 3. (figurative) To bring back or restrict something that had become loose or uncontrolled.
+- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [strap](/en/post/strap/) [or](/en/post/or/) [cord](/en/post/cord/) attached [to](/en/post/to/) [a](/en/post/a/) horse's [harness](/en/post/harness/), [used](/en/post/used/) [to](/en/post/to/) [guide](/en/post/guide/) [and](/en/post/and/) [control](/en/post/control/) [its](/en/post/its/) [movement](/en/post/movement/). 2. [The](/en/post/the/) [authority](/en/post/authority/) [or](/en/post/or/) [power](/en/post/power/) [to](/en/post/to/) [regulate](/en/post/regulate/) [or](/en/post/or/) [control](/en/post/control/) [something](/en/post/something/), [often](/en/post/often/) metaphorically. 3. (pl.) [The](/en/post/the/) reins [of](/en/post/of/) [government](/en/post/government/), [control](/en/post/control/) [over](/en/post/over/) [a](/en/post/a/) country's affairs.
+- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [guide](/en/post/guide/) [or](/en/post/or/) [direct](/en/post/direct/) ([a](/en/post/a/) [horse](/en/post/horse/)) [by](/en/post/by/) pulling [on](/en/post/on/) [the](/en/post/the/) reins. 2. [To](/en/post/to/) [exercise](/en/post/exercise/) [control](/en/post/control/) [or](/en/post/or/) supervision [over](/en/post/over/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). 3. (figurative) [To](/en/post/to/) [bring](/en/post/bring/) [back](/en/post/back/) [or](/en/post/or/) [restrict](/en/post/restrict/) [something](/en/post/something/) [that](/en/post/that/) had [become](/en/post/become/) [loose](/en/post/loose/) [or](/en/post/or/) uncontrolled.
 
 ## Phrases
-- "Rein in" means to control or restrict someone's actions or behavior.
-- "Take the reins" signifies assuming control or responsibility.
-- "Reins of authority" refers to the power or control in a particular situation.
+- "[Rein](/en/post/rein/) [in](/en/post/in/)" [means](/en/post/means/) [to](/en/post/to/) [control](/en/post/control/) [or](/en/post/or/) [restrict](/en/post/restrict/) someone's actions [or](/en/post/or/) [behavior](/en/post/behavior/).
+- "[Take](/en/post/take/) [the](/en/post/the/) reins" signifies assuming [control](/en/post/control/) [or](/en/post/or/) [responsibility](/en/post/responsibility/).
+- "Reins [of](/en/post/of/) [authority](/en/post/authority/)" refers [to](/en/post/to/) [the](/en/post/the/) [power](/en/post/power/) [or](/en/post/or/) [control](/en/post/control/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [situation](/en/post/situation/).
 
-## Example Sentences
-- **Noun**: "The rider skillfully held the reins to guide the horse through the obstacle course."
-- **Verb**: "It was time for the manager to take the reins and implement new strategies."
-- **Figurative**: "The government needs to rein in their spending to avoid inflation."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [rider](/en/post/rider/) skillfully held [the](/en/post/the/) reins [to](/en/post/to/) [guide](/en/post/guide/) [the](/en/post/the/) [horse](/en/post/horse/) [through](/en/post/through/) [the](/en/post/the/) [obstacle](/en/post/obstacle/) [course](/en/post/course/)."
+- **[Verb](/en/post/verb/)**: "[It](/en/post/it/) was [time](/en/post/time/) [for](/en/post/for/) [the](/en/post/the/) manager [to](/en/post/to/) [take](/en/post/take/) [the](/en/post/the/) reins [and](/en/post/and/) implement [new](/en/post/new/) strategies."
+- **Figurative**: "[The](/en/post/the/) [government](/en/post/government/) needs [to](/en/post/to/) [rein](/en/post/rein/) [in](/en/post/in/) [their](/en/post/their/) spending [to](/en/post/to/) [avoid](/en/post/avoid/) inflation."
 
 ## Synonyms
-- Harness
-- Guidance
-- Control
-- Regulation
+- [Harness](/en/post/harness/)
+- [Guidance](/en/post/guidance/)
+- [Control](/en/post/control/)
+- [Regulation](/en/post/regulation/)
 - Supervision
-- Restraint
+- [Restraint](/en/post/restraint/)
 - leash
 - bridle
-- guidance system
+- [guidance](/en/post/guidance/) [system](/en/post/system/)

@@ -11,19 +11,19 @@ keywords = ['ai words', 'into']
 /ˈɪntuː/
 
 ## 释义
-- **介词**: 进入；变成；转化为。例如: "He dove into the pool."，"The project transformed her into a leader."
+- **介词**: 进入；变成；转化为。例如: "[He](/post/he/) dove [into](/post/into/) [the](/post/the/) [pool](/post/pool/)."，"[The](/post/the/) [project](/post/project/) transformed [her](/post/her/) [into](/post/into/) [a](/post/a/) [leader](/post/leader/)."
 
 ## 短语
-- "get into trouble" 进入困境或惹上麻烦。
-- "transform into something" 变成或转变为另一种状态或形式。
+- "[get](/post/get/) [into](/post/into/) [trouble](/post/trouble/)" 进入困境或惹上麻烦。
+- "[transform](/post/transform/) [into](/post/into/) [something](/post/something/)" 变成或转变为另一种状态或形式。
 
 ## 例句
-- "She jumped into the car and drove off quickly."
-- "His hard work and dedication turned him into a successful businessman."
+- "[She](/post/she/) jumped [into](/post/into/) [the](/post/the/) [car](/post/car/) [and](/post/and/) drove [off](/post/off/) [quickly](/post/quickly/)."
+- "[His](/post/his/) [hard](/post/hard/) [work](/post/work/) [and](/post/and/) dedication turned [him](/post/him/) [into](/post/into/) [a](/post/a/) [successful](/post/successful/) businessman."
 
 ## 同义词
-- enter
-- penetrate
-- go into
-- become
-- transform to
+- [enter](/post/enter/)
+- [penetrate](/post/penetrate/)
+- [go](/post/go/) [into](/post/into/)
+- [become](/post/become/)
+- [transform](/post/transform/) [to](/post/to/)

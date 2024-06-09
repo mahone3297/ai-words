@@ -7,30 +7,30 @@ description = '[ˈæfrikə] n.非洲'
 keywords = ['ai words', 'africa']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈæfrɪkə/
 
 ## Definitions
-- **Noun**: A continent located in the western part of the Eastern Hemisphere, south of Europe, west of Asia, and surrounded by the Atlantic Ocean to the west and the Indian Ocean to the east. It is the second largest continent in both area and population. [1]
-- **Adjective**: Relating to or characteristic of Africa; African. [2]
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [continent](/en/post/continent/) located [in](/en/post/in/) [the](/en/post/the/) [western](/en/post/western/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [Eastern](/en/post/eastern/) Hemisphere, [south](/en/post/south/) [of](/en/post/of/) Europe, [west](/en/post/west/) [of](/en/post/of/) [Asia](/en/post/asia/), [and](/en/post/and/) surrounded [by](/en/post/by/) [the](/en/post/the/) [Atlantic](/en/post/atlantic/) [Ocean](/en/post/ocean/) [to](/en/post/to/) [the](/en/post/the/) [west](/en/post/west/) [and](/en/post/and/) [the](/en/post/the/) Indian [Ocean](/en/post/ocean/) [to](/en/post/to/) [the](/en/post/the/) [east](/en/post/east/). [It](/en/post/it/) is [the](/en/post/the/) [second](/en/post/second/) largest [continent](/en/post/continent/) [in](/en/post/in/) [both](/en/post/both/) [area](/en/post/area/) [and](/en/post/and/) [population](/en/post/population/). [1]
+- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) [characteristic](/en/post/characteristic/) [of](/en/post/of/) [Africa](/en/post/africa/); [African](/en/post/african/). [2]
 
 ## Phrases
-- "Africa's wildlife" refers to the diverse range of animals found on the continent.
-- "African culture" encompasses the rich traditions, languages, and customs of various African nations.
-- "The Dark Continent" is a historical term sometimes used to describe Africa, particularly in the context of its underdevelopment and colonial past.
+- "Africa's wildlife" refers [to](/en/post/to/) [the](/en/post/the/) [diverse](/en/post/diverse/) [range](/en/post/range/) [of](/en/post/of/) animals [found](/en/post/found/) [on](/en/post/on/) [the](/en/post/the/) [continent](/en/post/continent/).
+- "[African](/en/post/african/) [culture](/en/post/culture/)" encompasses [the](/en/post/the/) [rich](/en/post/rich/) traditions, languages, [and](/en/post/and/) customs [of](/en/post/of/) [various](/en/post/various/) [African](/en/post/african/) nations.
+- "[The](/en/post/the/) [Dark](/en/post/dark/) [Continent](/en/post/continent/)" is [a](/en/post/a/) [historical](/en/post/historical/) [term](/en/post/term/) [sometimes](/en/post/sometimes/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [Africa](/en/post/africa/), [particularly](/en/post/particularly/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [its](/en/post/its/) underdevelopment [and](/en/post/and/) colonial [past](/en/post/past/).
 
-## Example Sentences
-- **Noun**: "Africa is home to the Great Barrier Reef, one of the world's most biodiverse ecosystems."
-- **Adjective**: "The African sunset painted the sky with a vibrant array of colors."
-- "She decided to volunteer in an African village to gain firsthand experience of the local culture."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[Africa](/en/post/africa/) is [home](/en/post/home/) [to](/en/post/to/) [the](/en/post/the/) [Great](/en/post/great/) [Barrier](/en/post/barrier/) Reef, [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) world's [most](/en/post/most/) biodiverse ecosystems."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [African](/en/post/african/) [sunset](/en/post/sunset/) painted [the](/en/post/the/) [sky](/en/post/sky/) [with](/en/post/with/) [a](/en/post/a/) vibrant array [of](/en/post/of/) colors."
+- "[She](/en/post/she/) decided [to](/en/post/to/) volunteer [in](/en/post/in/) an [African](/en/post/african/) [village](/en/post/village/) [to](/en/post/to/) [gain](/en/post/gain/) firsthand [experience](/en/post/experience/) [of](/en/post/of/) [the](/en/post/the/) [local](/en/post/local/) [culture](/en/post/culture/)."
 
 ## Synonyms
 - Sub-Saharan
-- Black
+- [Black](/en/post/black/)
 - Pan-African
 - Afro
-- The Bantu
+- [The](/en/post/the/) Bantu
 
 ## References
-1. <https://www.merriam-webster.com/dictionary/Africa>
-2. <https://www.oxfordlearnersdictionaries.com/us/definition/english/african>
+1. <https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[Africa](/en/post/africa/)>
+2. <https://www.oxfordlearnersdictionaries.com/[us](/en/post/us/)/[definition](/en/post/definition/)/english/[african](/en/post/african/)>

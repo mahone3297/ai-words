@@ -15,11 +15,11 @@ keywords = ['ai words', 'Wednesday']
 
 ## 短语
 - "Midweek" 指的是工作周的中间阶段，通常包括星期二和星期三。
-- "Hump day" 是非正式说法，指星期三，意味着一周过半。
+- "Hump [day](/post/day/)" 是非正式说法，指星期三，意味着一周过半。
 
 ## 例句
-- "We have a team meeting every Wednesday afternoon."
-- "I usually do my grocery shopping on a Wednesday evening."
+- "[We](/post/we/) [have](/post/have/) [a](/post/a/) [team](/post/team/) [meeting](/post/meeting/) [every](/post/every/) Wednesday [afternoon](/post/afternoon/)."
+- "I [usually](/post/usually/) [do](/post/do/) [my](/post/my/) [grocery](/post/grocery/) [shopping](/post/shopping/) [on](/post/on/) [a](/post/a/) Wednesday [evening](/post/evening/)."
 
 ## 同义词
 - 星期三

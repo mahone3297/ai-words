@@ -11,23 +11,23 @@ keywords = ['ai words', 'money']
 /ˈmʌni/
 
 ## 释义
-- **名词**: 货币；钱；资金。例如: "I need some money to buy groceries."
-- **名词**: 财富；财产。例如: "He has a lot of money invested in stocks."
-- **名词**: (非正式)薪水。例如: "She's saving up her money for a vacation."
+- **名词**: 货币；钱；资金。例如: "I [need](/post/need/) [some](/post/some/) [money](/post/money/) [to](/post/to/) [buy](/post/buy/) groceries."
+- **名词**: 财富；财产。例如: "[He](/post/he/) has [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [money](/post/money/) invested [in](/post/in/) stocks."
+- **名词**: (非正式)薪水。例如: "She's [saving](/post/saving/) [up](/post/up/) [her](/post/her/) [money](/post/money/) [for](/post/for/) [a](/post/a/) [vacation](/post/vacation/)."
 
 ## 短语
-- "Money talks" 意味着财富能影响决策或结果。
-- "Time is money" 强调时间的价值，浪费时间等于浪费金钱。
-- "Pay money out" 指支付金钱。
+- "[Money](/post/money/) talks" 意味着财富能影响决策或结果。
+- "[Time](/post/time/) is [money](/post/money/)" 强调时间的价值，浪费时间等于浪费金钱。
+- "[Pay](/post/pay/) [money](/post/money/) [out](/post/out/)" 指支付金钱。
 
 ## 例句
-- 名词: "Can you lend me some money until payday?"
-- 名词: "She's using her money to support local charities."
-- 名词: "The company pays its employees good money for their work."
+- 名词: "[Can](/post/can/) [you](/post/you/) [lend](/post/lend/) [me](/post/me/) [some](/post/some/) [money](/post/money/) [until](/post/until/) payday?"
+- 名词: "She's using [her](/post/her/) [money](/post/money/) [to](/post/to/) [support](/post/support/) [local](/post/local/) charities."
+- 名词: "[The](/post/the/) [company](/post/company/) pays [its](/post/its/) employees [good](/post/good/) [money](/post/money/) [for](/post/for/) [their](/post/their/) [work](/post/work/)."
 
 ## 同义词
-- Cash
+- [Cash](/post/cash/)
 - Currency
 - Funds
-- Wealth
+- [Wealth](/post/wealth/)
 - Dosh (非正式)

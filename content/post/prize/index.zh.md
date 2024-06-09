@@ -11,23 +11,23 @@ keywords = ['ai words', 'prize']
 /praɪz/
 
 ## 释义
-- **名词**: 奖励，奖品，奖金。例如: "The winner received a gold medal as a prize."
-- **动词**: 把...视为珍贵，珍视。例如: "She prizes her collection of antique dolls."
-- **形容词**: 有价值的，值得的。例如: "That painting is a real prize possession."
+- **名词**: 奖励，奖品，奖金。例如: "[The](/post/the/) [winner](/post/winner/) received [a](/post/a/) [gold](/post/gold/) [medal](/post/medal/) [as](/post/as/) [a](/post/a/) [prize](/post/prize/)."
+- **动词**: 把...视为珍贵，珍视。例如: "[She](/post/she/) prizes [her](/post/her/) [collection](/post/collection/) [of](/post/of/) antique dolls."
+- **形容词**: 有价值的，值得的。例如: "[That](/post/that/) [painting](/post/painting/) is [a](/post/a/) [real](/post/real/) [prize](/post/prize/) [possession](/post/possession/)."
 
 ## 短语
-- "Win a prize" 意为赢得奖项。
-- "As a prize for..." 表示作为对...的奖励。
-- "Priceless prize" 指无价之宝。
+- "[Win](/post/win/) [a](/post/a/) [prize](/post/prize/)" 意为赢得奖项。
+- "[As](/post/as/) [a](/post/a/) [prize](/post/prize/) [for](/post/for/)..." 表示作为对...的奖励。
+- "Priceless [prize](/post/prize/)" 指无价之宝。
 
 ## 例句
-- 名词: "The school holds an annual science fair with various prizes for the winners."
-- 动词: "She prizes her time spent with family above all else."
-- 形容词: "The ancient vase was a prize find from the archaeological dig."
+- 名词: "[The](/post/the/) [school](/post/school/) holds an [annual](/post/annual/) [science](/post/science/) [fair](/post/fair/) [with](/post/with/) [various](/post/various/) prizes [for](/post/for/) [the](/post/the/) winners."
+- 动词: "[She](/post/she/) prizes [her](/post/her/) [time](/post/time/) spent [with](/post/with/) [family](/post/family/) [above](/post/above/) [all](/post/all/) [else](/post/else/)."
+- 形容词: "[The](/post/the/) [ancient](/post/ancient/) [vase](/post/vase/) was [a](/post/a/) [prize](/post/prize/) [find](/post/find/) [from](/post/from/) [the](/post/the/) archaeological [dig](/post/dig/)."
 
 ## 同义词
-- Reward
+- [Reward](/post/reward/)
 - Honor
-- Distinction
-- Award
+- [Distinction](/post/distinction/)
+- [Award](/post/award/)
 - Trophies

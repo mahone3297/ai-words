@@ -7,42 +7,42 @@ description = '[ˈvaiələnt] a.猛烈的；狂暴的'
 keywords = ['ai words', 'violent']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /vɪˈlənt/
 
 ## Definitions
-### Noun
-- **violent**: 1. adjective - characterized by force, intensity, or roughness; causing harm or strong emotion: "a violent storm" "violent protests"
-- 2. noun - a person who uses or is prone to using violence: "a violent criminal"
+### [Noun](/en/post/noun/)
+- **[violent](/en/post/violent/)**: 1. [adjective](/en/post/adjective/) - characterized [by](/en/post/by/) [force](/en/post/force/), [intensity](/en/post/intensity/), [or](/en/post/or/) roughness; causing [harm](/en/post/harm/) [or](/en/post/or/) [strong](/en/post/strong/) [emotion](/en/post/emotion/): "[a](/en/post/a/) [violent](/en/post/violent/) [storm](/en/post/storm/)" "[violent](/en/post/violent/) protests"
+- 2. [noun](/en/post/noun/) - [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) uses [or](/en/post/or/) is prone [to](/en/post/to/) using [violence](/en/post/violence/): "[a](/en/post/a/) [violent](/en/post/violent/) [criminal](/en/post/criminal/)"
 
-### Verb
-- **to be violent**: to act with extreme force or aggression: "The protesters were violently dispersed by the police."
-- **to use violence**: to inflict physical harm on someone: "He tried to defend himself from the violent attacker."
+### [Verb](/en/post/verb/)
+- **[to](/en/post/to/) [be](/en/post/be/) [violent](/en/post/violent/)**: [to](/en/post/to/) [act](/en/post/act/) [with](/en/post/with/) [extreme](/en/post/extreme/) [force](/en/post/force/) [or](/en/post/or/) aggression: "[The](/en/post/the/) protesters were violently dispersed [by](/en/post/by/) [the](/en/post/the/) [police](/en/post/police/)."
+- **[to](/en/post/to/) [use](/en/post/use/) [violence](/en/post/violence/)**: [to](/en/post/to/) inflict [physical](/en/post/physical/) [harm](/en/post/harm/) [on](/en/post/on/) [someone](/en/post/someone/): "[He](/en/post/he/) tried [to](/en/post/to/) [defend](/en/post/defend/) [himself](/en/post/himself/) [from](/en/post/from/) [the](/en/post/the/) [violent](/en/post/violent/) attacker."
 
-### Adjective
-- **violently**: in a violent manner or to a great degree: "She was violently shaken by the earthquake."
+### [Adjective](/en/post/adjective/)
+- **violently**: [in](/en/post/in/) [a](/en/post/a/) [violent](/en/post/violent/) [manner](/en/post/manner/) [or](/en/post/or/) [to](/en/post/to/) [a](/en/post/a/) [great](/en/post/great/) [degree](/en/post/degree/): "[She](/en/post/she/) was violently shaken [by](/en/post/by/) [the](/en/post/the/) [earthquake](/en/post/earthquake/)."
 
 ## Phrases
-- "A violent struggle ensued."
-- "He reacted violently to the news."
-- "The movie depicted a violent scene."
+- "[A](/en/post/a/) [violent](/en/post/violent/) [struggle](/en/post/struggle/) ensued."
+- "[He](/en/post/he/) reacted violently [to](/en/post/to/) [the](/en/post/the/) [news](/en/post/news/)."
+- "[The](/en/post/the/) [movie](/en/post/movie/) depicted [a](/en/post/a/) [violent](/en/post/violent/) [scene](/en/post/scene/)."
 
-## Example Sentences
-- **Noun**: "The city has experienced a recent surge in violent crime."
-- **Verb**: "He was arrested for violently attacking his neighbor."
-- **Adverb**: "She woke up violently from her nightmare."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [city](/en/post/city/) has experienced [a](/en/post/a/) [recent](/en/post/recent/) surge [in](/en/post/in/) [violent](/en/post/violent/) [crime](/en/post/crime/)."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was arrested [for](/en/post/for/) violently attacking [his](/en/post/his/) neighbor."
+- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) woke [up](/en/post/up/) violently [from](/en/post/from/) [her](/en/post/her/) nightmare."
 
 ## Synonyms
-- Aggressive
-- Fierce
+- [Aggressive](/en/post/aggressive/)
+- [Fierce](/en/post/fierce/)
 - Forceful
 - Rampant
-- Hostile
-- Intense
+- [Hostile](/en/post/hostile/)
+- [Intense](/en/post/intense/)
 
 ## Antonyms
-- Peaceful
-- Calm
-- Gentle
+- [Peaceful](/en/post/peaceful/)
+- [Calm](/en/post/calm/)
+- [Gentle](/en/post/gentle/)
 - Non-violent
 - Harmless

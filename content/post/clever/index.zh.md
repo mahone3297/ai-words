@@ -11,20 +11,20 @@ keywords = ['ai words', 'clever']
 /ˈklɛvər/
 
 ## 释义
-- **形容词**: 聪明的，机灵的，有才智的。例如: "She's a clever girl who always finds solutions to problems."
-- **名词**: 聪明的人，机灵鬼。例如: "The little boy is known as a real clever in his class."
+- **形容词**: 聪明的，机灵的，有才智的。例如: "She's [a](/post/a/) [clever](/post/clever/) [girl](/post/girl/) [who](/post/who/) [always](/post/always/) finds solutions [to](/post/to/) problems."
+- **名词**: 聪明的人，机灵鬼。例如: "[The](/post/the/) [little](/post/little/) [boy](/post/boy/) is known [as](/post/as/) [a](/post/a/) [real](/post/real/) [clever](/post/clever/) [in](/post/in/) [his](/post/his/) [class](/post/class/)."
 
 ## 短语
-- "a clever trick" 意为一个聪明的把戏。
-- "a clever mind" 指聪明的头脑。
+- "[a](/post/a/) [clever](/post/clever/) [trick](/post/trick/)" 意为一个聪明的把戏。
+- "[a](/post/a/) [clever](/post/clever/) [mind](/post/mind/)" 指聪明的头脑。
 
 ## 例句
-- 形容词: "The inventor came up with a clever way to save energy."
-- 名词: "He's such a clever guy, always finding shortcuts."
+- 形容词: "[The](/post/the/) [inventor](/post/inventor/) came [up](/post/up/) [with](/post/with/) [a](/post/a/) [clever](/post/clever/) [way](/post/way/) [to](/post/to/) [save](/post/save/) [energy](/post/energy/)."
+- 名词: "He's [such](/post/such/) [a](/post/a/) [clever](/post/clever/) guy, [always](/post/always/) [finding](/post/finding/) shortcuts."
 
 ## 同义词
-- Smart
-- Bright
-- Intelligent
+- [Smart](/post/smart/)
+- [Bright](/post/bright/)
+- [Intelligent](/post/intelligent/)
 - Astute
 - Sharp-witted

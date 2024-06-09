@@ -11,22 +11,22 @@ keywords = ['ai words', 'rough']
 /ˈrʌf/
 
 ## 释义
-- **形容词**: 粗糙的，不平滑的。例如: "The surface of the wood was rough and uneven."
-- **副词**: 大概地，粗略地。例如: "He estimated the distance roughly."
-- **动词**: 使粗糙，弄糙。例如: "The storm roughed up the coastline."
+- **形容词**: 粗糙的，不平滑的。例如: "[The](/post/the/) [surface](/post/surface/) [of](/post/of/) [the](/post/the/) [wood](/post/wood/) was [rough](/post/rough/) [and](/post/and/) uneven."
+- **副词**: 大概地，粗略地。例如: "[He](/post/he/) estimated [the](/post/the/) [distance](/post/distance/) [roughly](/post/roughly/)."
+- **动词**: 使粗糙，弄糙。例如: "[The](/post/the/) [storm](/post/storm/) roughed [up](/post/up/) [the](/post/the/) coastline."
 
 ## 短语
-- "Rough it" 意味着过简朴或艰苦的生活，通常在户外。
-- "Rough draft" 指初步的草稿或计划。
+- "[Rough](/post/rough/) [it](/post/it/)" 意味着过简朴或艰苦的生活，通常在户外。
+- "[Rough](/post/rough/) [draft](/post/draft/)" 指初步的草稿或计划。
 
 ## 例句
-- 形容词: "The texture of the fabric felt rough against her skin."
-- 副词: "He quickly sketched out the design roughly on paper."
-- 动词: "The storm roughed the sailors, making their journey more difficult."
+- 形容词: "[The](/post/the/) texture [of](/post/of/) [the](/post/the/) [fabric](/post/fabric/) felt [rough](/post/rough/) [against](/post/against/) [her](/post/her/) [skin](/post/skin/)."
+- 副词: "[He](/post/he/) [quickly](/post/quickly/) sketched [out](/post/out/) [the](/post/the/) [design](/post/design/) [roughly](/post/roughly/) [on](/post/on/) [paper](/post/paper/)."
+- 动词: "[The](/post/the/) [storm](/post/storm/) roughed [the](/post/the/) sailors, making [their](/post/their/) [journey](/post/journey/) [more](/post/more/) [difficult](/post/difficult/)."
 
 ## 同义词
-- Coarse
+- [Coarse](/post/coarse/)
 - Jagged
 - Uneven
-- Harsh
+- [Harsh](/post/harsh/)
 - Abrasive

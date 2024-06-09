@@ -7,39 +7,39 @@ description = '[ɔːtəˈmei∫ən] n.自动，自动化'
 keywords = ['ai words', 'automation']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /əˈtuːməʃn/
 
 ## Definitions
-### Noun
-**Automation** refers to the use of technology to perform tasks that would normally require human intervention, often with minimal or no direct supervision. It encompasses the process of designing, implementing, and operating systems that can automate various activities.
+### [Noun](/en/post/noun/)
+**[Automation](/en/post/automation/)** refers [to](/en/post/to/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) [technology](/en/post/technology/) [to](/en/post/to/) [perform](/en/post/perform/) tasks [that](/en/post/that/) [would](/en/post/would/) [normally](/en/post/normally/) [require](/en/post/require/) [human](/en/post/human/) intervention, [often](/en/post/often/) [with](/en/post/with/) minimal [or](/en/post/or/) [no](/en/post/no/) [direct](/en/post/direct/) supervision. [It](/en/post/it/) encompasses [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) designing, implementing, [and](/en/post/and/) operating systems [that](/en/post/that/) [can](/en/post/can/) automate [various](/en/post/various/) activities.
 
-### Verb
-To *automate* is to design, implement, or make automatic, typically through the use of machinery, software, or processes.
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) *automate* is [to](/en/post/to/) [design](/en/post/design/), implement, [or](/en/post/or/) [make](/en/post/make/) [automatic](/en/post/automatic/), typically [through](/en/post/through/) [the](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) machinery, software, [or](/en/post/or/) processes.
 
-### Adjective
-An adjective used to describe a system, process, or task that has been automated.
+### [Adjective](/en/post/adjective/)
+An [adjective](/en/post/adjective/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [system](/en/post/system/), [process](/en/post/process/), [or](/en/post/or/) [task](/en/post/task/) [that](/en/post/that/) has been automated.
 
-### Adverb
-Not applicable for "automation."
+### [Adverb](/en/post/adverb/)
+[Not](/en/post/not/) [applicable](/en/post/applicable/) [for](/en/post/for/) "[automation](/en/post/automation/)."
 
 ## Phrases
-- "Automating a task" means to convert a manual process into a machine-driven one.
-- "Full automation" refers to complete reliance on machines or systems without human intervention.
-- "Robotic automation" is the application of robotics for automating processes.
+- "Automating [a](/en/post/a/) [task](/en/post/task/)" [means](/en/post/means/) [to](/en/post/to/) [convert](/en/post/convert/) [a](/en/post/a/) [manual](/en/post/manual/) [process](/en/post/process/) [into](/en/post/into/) [a](/en/post/a/) machine-driven [one](/en/post/one/).
+- "[Full](/en/post/full/) [automation](/en/post/automation/)" refers [to](/en/post/to/) [complete](/en/post/complete/) [reliance](/en/post/reliance/) [on](/en/post/on/) machines [or](/en/post/or/) systems [without](/en/post/without/) [human](/en/post/human/) intervention.
+- "Robotic [automation](/en/post/automation/)" is [the](/en/post/the/) [application](/en/post/application/) [of](/en/post/of/) robotics [for](/en/post/for/) automating processes.
 
-## Example Sentences
-- **Noun**: "The factory has implemented state-of-the-art automation to increase efficiency."
-- **Verb**: "They are automating their inventory management system to reduce errors."
-- **Adjective**: "The self-driving cars showcase remarkable levels of automation in transportation."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [factory](/en/post/factory/) has implemented state-of-the-art [automation](/en/post/automation/) [to](/en/post/to/) [increase](/en/post/increase/) [efficiency](/en/post/efficiency/)."
+- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) are automating [their](/en/post/their/) inventory [management](/en/post/management/) [system](/en/post/system/) [to](/en/post/to/) [reduce](/en/post/reduce/) errors."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) self-driving cars showcase [remarkable](/en/post/remarkable/) levels [of](/en/post/of/) [automation](/en/post/automation/) [in](/en/post/in/) [transportation](/en/post/transportation/)."
 
 ## Synonyms
-- Automation: 
+- [Automation](/en/post/automation/): 
   - Computerization
   - mechanization
   - digitalization
-  - process automation
-  - robotic process automation
+  - [process](/en/post/process/) [automation](/en/post/automation/)
+  - robotic [process](/en/post/process/) [automation](/en/post/automation/)
 - Automate: 
   - mechanize
   - streamline
@@ -47,6 +47,6 @@ Not applicable for "automation."
   - automate tasks
 
 ## Antonyms
-- Manual labor
-- Human intervention
-- Unattended (when referring to lack of automation)
+- [Manual](/en/post/manual/) labor
+- [Human](/en/post/human/) intervention
+- Unattended ([when](/en/post/when/) referring [to](/en/post/to/) [lack](/en/post/lack/) [of](/en/post/of/) [automation](/en/post/automation/))

@@ -11,21 +11,21 @@ keywords = ['ai words', 'automobile']
 /ˌɔːtəˈmoʊbiːl/
 
 ## 释义
-- **名词** (n): 一种通常由内燃机驱动的四轮交通工具，用于个人或商业运输。例如: "She just bought a new automobile for her daily commute."
-- **形容词** (adj): 与汽车或机动车辆相关的。例如: "The automobile industry is a major contributor to the country's economy."
+- **名词** (n): 一种通常由内燃机驱动的四轮交通工具，用于个人或商业运输。例如: "[She](/post/she/) [just](/post/just/) bought [a](/post/a/) [new](/post/new/) [automobile](/post/automobile/) [for](/post/for/) [her](/post/her/) [daily](/post/daily/) commute."
+- **形容词** (adj): 与汽车或机动车辆相关的。例如: "[The](/post/the/) [automobile](/post/automobile/) [industry](/post/industry/) is [a](/post/a/) [major](/post/major/) contributor [to](/post/to/) [the](/post/the/) country's [economy](/post/economy/)."
 
 ## 短语
-- "Automotive industry" 指的是制造和销售汽车的行业。
-- "Automobile parts" 包括汽车的所有组件，如引擎、轮胎等。
-- "Self-driving automobile" 指的是自动驾驶汽车。
+- "Automotive [industry](/post/industry/)" 指的是制造和销售汽车的行业。
+- "[Automobile](/post/automobile/) parts" 包括汽车的所有组件，如引擎、轮胎等。
+- "Self-driving [automobile](/post/automobile/)" 指的是自动驾驶汽车。
 
 ## 例句
-- 名词: "He spent all weekend detailing his classic automobile."
-- 形容词: "The automobile repair shop specializes in fixing high-end vehicles."
+- 名词: "[He](/post/he/) spent [all](/post/all/) [weekend](/post/weekend/) detailing [his](/post/his/) classic [automobile](/post/automobile/)."
+- 形容词: "[The](/post/the/) [automobile](/post/automobile/) [repair](/post/repair/) [shop](/post/shop/) specializes [in](/post/in/) fixing high-end vehicles."
 
 ## 同义词
-- Car
-- Vehicle
+- [Car](/post/car/)
+- [Vehicle](/post/vehicle/)
 - Motorcar
-- Auto
+- [Auto](/post/auto/)
 - Sedan (特指轿车)

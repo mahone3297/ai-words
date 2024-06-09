@@ -11,23 +11,23 @@ keywords = ['ai words', 'smile']
 /smaɪl/
 
 ## 释义
-- **名词**: 人脸上的快乐或友善的表情，通常表示高兴或满意。例如: "She had a beautiful smile on her face."
-- **动词**: 以微笑的方式表达愉快或友善。例如: "He smiled when he saw his friend approaching."
-- **形容词**: 形容事物带有笑容或令人愉悦的。例如: "The baby has a smile that lights up the room."
+- **名词**: 人脸上的快乐或友善的表情，通常表示高兴或满意。例如: "[She](/post/she/) had [a](/post/a/) [beautiful](/post/beautiful/) [smile](/post/smile/) [on](/post/on/) [her](/post/her/) [face](/post/face/)."
+- **动词**: 以微笑的方式表达愉快或友善。例如: "[He](/post/he/) smiled [when](/post/when/) [he](/post/he/) [saw](/post/saw/) [his](/post/his/) [friend](/post/friend/) approaching."
+- **形容词**: 形容事物带有笑容或令人愉悦的。例如: "[The](/post/the/) [baby](/post/baby/) has [a](/post/a/) [smile](/post/smile/) [that](/post/that/) lights [up](/post/up/) [the](/post/the/) [room](/post/room/)."
 
 ## 短语
-- "Smile back" 回以微笑。
-- "A smile is contagious" 笑容具有传染力。
-- "To smile through tears" 泪水中带着微笑。
+- "[Smile](/post/smile/) [back](/post/back/)" 回以微笑。
+- "[A](/post/a/) [smile](/post/smile/) is contagious" 笑容具有传染力。
+- "[To](/post/to/) [smile](/post/smile/) [through](/post/through/) tears" 泪水中带着微笑。
 
 ## 例句
-- 名词: "Her smile was so infectious that it made everyone feel happy."
-- 动词: "He smiled warmly as he greeted his old friend."
-- 形容词: "The customer service representative was very smile and helpful."
+- 名词: "[Her](/post/her/) [smile](/post/smile/) was [so](/post/so/) infectious [that](/post/that/) [it](/post/it/) made [everyone](/post/everyone/) [feel](/post/feel/) [happy](/post/happy/)."
+- 动词: "[He](/post/he/) smiled warmly [as](/post/as/) [he](/post/he/) greeted [his](/post/his/) [old](/post/old/) [friend](/post/friend/)."
+- 形容词: "[The](/post/the/) [customer](/post/customer/) [service](/post/service/) [representative](/post/representative/) was [very](/post/very/) [smile](/post/smile/) [and](/post/and/) [helpful](/post/helpful/)."
 
 ## 同义词
 - Grin
 - Chuckle
-- Beam
+- [Beam](/post/beam/)
 - Giggle
 - smirk

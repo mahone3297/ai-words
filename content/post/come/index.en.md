@@ -7,39 +7,39 @@ description = '[kʌm] vi.来，来到；出现'
 keywords = ['ai words', 'come']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kʌm/
 
 ## Definitions
-- **Verb**: (v) To move towards a place or person; to arrive or go somewhere; to come back after being away. Also used metaphorically for ideas, feelings, or events. For example: "She comes from a small town." "The solution came to him suddenly."
-- **Infinitive**: To come
+- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [move](/en/post/move/) towards [a](/en/post/a/) [place](/en/post/place/) [or](/en/post/or/) [person](/en/post/person/); [to](/en/post/to/) [arrive](/en/post/arrive/) [or](/en/post/or/) [go](/en/post/go/) [somewhere](/en/post/somewhere/); [to](/en/post/to/) [come](/en/post/come/) [back](/en/post/back/) [after](/en/post/after/) [being](/en/post/being/) [away](/en/post/away/). [Also](/en/post/also/) [used](/en/post/used/) metaphorically [for](/en/post/for/) ideas, feelings, [or](/en/post/or/) events. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) comes [from](/en/post/from/) [a](/en/post/a/) [small](/en/post/small/) [town](/en/post/town/)." "[The](/en/post/the/) [solution](/en/post/solution/) came [to](/en/post/to/) [him](/en/post/him/) [suddenly](/en/post/suddenly/)."
+- **Infinitive**: [To](/en/post/to/) [come](/en/post/come/)
 - **Gerund**: Coming
 
 ## Phrases
-- "Come in" (invitation to enter)
-- "Come on" (encouragement or request to move or do something)
-- "I'll be right there; just a moment" (indicating that someone is coming soon)
-- "The future is uncertain, but it's coming" (anticipating a change or event)
+- "[Come](/en/post/come/) [in](/en/post/in/)" ([invitation](/en/post/invitation/) [to](/en/post/to/) [enter](/en/post/enter/))
+- "[Come](/en/post/come/) [on](/en/post/on/)" (encouragement [or](/en/post/or/) [request](/en/post/request/) [to](/en/post/to/) [move](/en/post/move/) [or](/en/post/or/) [do](/en/post/do/) [something](/en/post/something/))
+- "I'll [be](/en/post/be/) [right](/en/post/right/) [there](/en/post/there/); [just](/en/post/just/) [a](/en/post/a/) [moment](/en/post/moment/)" (indicating [that](/en/post/that/) [someone](/en/post/someone/) is coming [soon](/en/post/soon/))
+- "[The](/en/post/the/) [future](/en/post/future/) is [uncertain](/en/post/uncertain/), [but](/en/post/but/) it's coming" (anticipating [a](/en/post/a/) [change](/en/post/change/) [or](/en/post/or/) [event](/en/post/event/))
 
-## Example Sentences
-- **Regular usage**: "He comes home from work every evening."
-- **Progressive form**: "She is coming along well in her studies."
-- **Imperative**: "Please come to the meeting tomorrow."
+## [Example](/en/post/example/) Sentences
+- **[Regular](/en/post/regular/) [usage](/en/post/usage/)**: "[He](/en/post/he/) comes [home](/en/post/home/) [from](/en/post/from/) [work](/en/post/work/) [every](/en/post/every/) [evening](/en/post/evening/)."
+- **[Progressive](/en/post/progressive/) [form](/en/post/form/)**: "[She](/en/post/she/) is coming [along](/en/post/along/) [well](/en/post/well/) [in](/en/post/in/) [her](/en/post/her/) studies."
+- **Imperative**: "[Please](/en/post/please/) [come](/en/post/come/) [to](/en/post/to/) [the](/en/post/the/) [meeting](/en/post/meeting/) [tomorrow](/en/post/tomorrow/)."
 
 ## Synonyms
-- Arrive
-- Appear
-- Reach
-- Get to
-- Approach
-- Head over
-- Move towards
-- Turn up
-- Present oneself
+- [Arrive](/en/post/arrive/)
+- [Appear](/en/post/appear/)
+- [Reach](/en/post/reach/)
+- [Get](/en/post/get/) [to](/en/post/to/)
+- [Approach](/en/post/approach/)
+- [Head](/en/post/head/) [over](/en/post/over/)
+- [Move](/en/post/move/) towards
+- [Turn](/en/post/turn/) [up](/en/post/up/)
+- [Present](/en/post/present/) [oneself](/en/post/oneself/)
 
 ## Antonyms
-- Depart
-- Leave
-- Go away
-- Retire
-- Withdraw
+- [Depart](/en/post/depart/)
+- [Leave](/en/post/leave/)
+- [Go](/en/post/go/) [away](/en/post/away/)
+- [Retire](/en/post/retire/)
+- [Withdraw](/en/post/withdraw/)

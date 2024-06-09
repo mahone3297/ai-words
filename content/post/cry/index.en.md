@@ -7,37 +7,37 @@ description = '[krai] vi.哭，哭泣；叫喊'
 keywords = ['ai words', 'cry']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kraɪ/
 
 ## Definitions
-- **Noun**: 1. A loud, emotional expression of grief, pain, or strong feeling; a sob or wail. 2. A tearful outburst or shedding of tears, often in response to an emotional stimulus. 3. A shout or cry of alarm or warning. 4. (figurative) A public demonstration of support or disapproval.
-- **Verb**: 1. To emit a loud, emotional sound, typically in response to intense emotion. 2. To express sorrow, grief, or lamentation. 3. To call out or beckon someone, often loudly. 4. To make a vocal protest or complaint.
+- **[Noun](/en/post/noun/)**: 1. [A](/en/post/a/) [loud](/en/post/loud/), [emotional](/en/post/emotional/) [expression](/en/post/expression/) [of](/en/post/of/) grief, [pain](/en/post/pain/), [or](/en/post/or/) [strong](/en/post/strong/) [feeling](/en/post/feeling/); [a](/en/post/a/) [sob](/en/post/sob/) [or](/en/post/or/) wail. 2. [A](/en/post/a/) tearful outburst [or](/en/post/or/) shedding [of](/en/post/of/) tears, [often](/en/post/often/) [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) an [emotional](/en/post/emotional/) stimulus. 3. [A](/en/post/a/) [shout](/en/post/shout/) [or](/en/post/or/) [cry](/en/post/cry/) [of](/en/post/of/) [alarm](/en/post/alarm/) [or](/en/post/or/) warning. 4. (figurative) [A](/en/post/a/) [public](/en/post/public/) demonstration [of](/en/post/of/) [support](/en/post/support/) [or](/en/post/or/) disapproval.
+- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [emit](/en/post/emit/) [a](/en/post/a/) [loud](/en/post/loud/), [emotional](/en/post/emotional/) [sound](/en/post/sound/), typically [in](/en/post/in/) [response](/en/post/response/) [to](/en/post/to/) [intense](/en/post/intense/) [emotion](/en/post/emotion/). 2. [To](/en/post/to/) [express](/en/post/express/) [sorrow](/en/post/sorrow/), grief, [or](/en/post/or/) lamentation. 3. [To](/en/post/to/) [call](/en/post/call/) [out](/en/post/out/) [or](/en/post/or/) beckon [someone](/en/post/someone/), [often](/en/post/often/) loudly. 4. [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) vocal [protest](/en/post/protest/) [or](/en/post/or/) [complaint](/en/post/complaint/).
 
 ## Phrases
-- "Cry out for help" indicates a strong need for assistance.
-- "Cry oneself to sleep" means to fall asleep after crying from sadness or emotional exhaustion.
-- "Cry wolf" (idiom) warns of a false alarm or a repeated claim that is not credible.
+- "[Cry](/en/post/cry/) [out](/en/post/out/) [for](/en/post/for/) [help](/en/post/help/)" indicates [a](/en/post/a/) [strong](/en/post/strong/) [need](/en/post/need/) [for](/en/post/for/) assistance.
+- "[Cry](/en/post/cry/) [oneself](/en/post/oneself/) [to](/en/post/to/) [sleep](/en/post/sleep/)" [means](/en/post/means/) [to](/en/post/to/) [fall](/en/post/fall/) [asleep](/en/post/asleep/) [after](/en/post/after/) crying [from](/en/post/from/) [sadness](/en/post/sadness/) [or](/en/post/or/) [emotional](/en/post/emotional/) exhaustion.
+- "[Cry](/en/post/cry/) [wolf](/en/post/wolf/)" ([idiom](/en/post/idiom/)) warns [of](/en/post/of/) [a](/en/post/a/) [false](/en/post/false/) [alarm](/en/post/alarm/) [or](/en/post/or/) [a](/en/post/a/) repeated [claim](/en/post/claim/) [that](/en/post/that/) is [not](/en/post/not/) credible.
 
-## Example Sentences
-- **Noun**: "She couldn't hold back her tears when she heard the sad news."
-- **Verb**: "The baby cried all night, keeping the parents awake."
-- **Interjection**: "Oh no! The baby just started crying."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) couldn't [hold](/en/post/hold/) [back](/en/post/back/) [her](/en/post/her/) tears [when](/en/post/when/) [she](/en/post/she/) heard [the](/en/post/the/) [sad](/en/post/sad/) [news](/en/post/news/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [baby](/en/post/baby/) cried [all](/en/post/all/) [night](/en/post/night/), keeping [the](/en/post/the/) parents [awake](/en/post/awake/)."
+- **Interjection**: "[Oh](/en/post/oh/) [no](/en/post/no/)! [The](/en/post/the/) [baby](/en/post/baby/) [just](/en/post/just/) started crying."
 
 ## Synonyms
-- Sob
-- Weep
-- Groan
-- Sigh
+- [Sob](/en/post/sob/)
+- [Weep](/en/post/weep/)
+- [Groan](/en/post/groan/)
+- [Sigh](/en/post/sigh/)
 - Wail
 - Lament
-- Protest
-- Complain
+- [Protest](/en/post/protest/)
+- [Complain](/en/post/complain/)
 
 ## Antonyms
-- Laugh
-- Smile
-- Whisper
-- Whisper
-- Cheer
-- Silence
+- [Laugh](/en/post/laugh/)
+- [Smile](/en/post/smile/)
+- [Whisper](/en/post/whisper/)
+- [Whisper](/en/post/whisper/)
+- [Cheer](/en/post/cheer/)
+- [Silence](/en/post/silence/)

@@ -11,21 +11,21 @@ keywords = ['ai words', 'career']
 /kəˈrɪər/
 
 ## 释义
-- **名词**: 个人的职业生涯；专业或商业活动的过程；终身的工作。例如: "She has a successful career in medicine."
-- **名词**: 某一特定领域的事业或职业。例如: "He pursued a career in law."
+- **名词**: 个人的职业生涯；专业或商业活动的过程；终身的工作。例如: "[She](/post/she/) has [a](/post/a/) [successful](/post/successful/) [career](/post/career/) [in](/post/in/) [medicine](/post/medicine/)."
+- **名词**: 某一特定领域的事业或职业。例如: "[He](/post/he/) pursued [a](/post/a/) [career](/post/career/) [in](/post/in/) [law](/post/law/)."
 
 ## 短语
-- "Take off in one's career" 意为在职业生涯中取得成功或快速发展。
-- "Career change" 指改变职业或行业。
-- "Career guidance" 提供关于选择或发展职业的建议。
+- "[Take](/post/take/) [off](/post/off/) [in](/post/in/) one's [career](/post/career/)" 意为在职业生涯中取得成功或快速发展。
+- "[Career](/post/career/) [change](/post/change/)" 指改变职业或行业。
+- "[Career](/post/career/) [guidance](/post/guidance/)" 提供关于选择或发展职业的建议。
 
 ## 例句
-- 名词: "After graduating, he started his career as a software engineer."
-- 名词: "She took a break from her career to raise her children."
+- 名词: "[After](/post/after/) graduating, [he](/post/he/) started [his](/post/his/) [career](/post/career/) [as](/post/as/) [a](/post/a/) software [engineer](/post/engineer/)."
+- 名词: "[She](/post/she/) took [a](/post/a/) [break](/post/break/) [from](/post/from/) [her](/post/her/) [career](/post/career/) [to](/post/to/) [raise](/post/raise/) [her](/post/her/) children."
 
 ## 同义词
-- Occupation
-- Profession
-- Job
-- Work
+- [Occupation](/post/occupation/)
+- [Profession](/post/profession/)
+- [Job](/post/job/)
+- [Work](/post/work/)
 - Vocation

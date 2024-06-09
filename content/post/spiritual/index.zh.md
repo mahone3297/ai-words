@@ -11,19 +11,19 @@ keywords = ['ai words', 'spiritual']
 /ˈspɪrɪʃuəl/
 
 ## 释义
-- **形容词**: 与精神、心灵或宗教有关的。例如: "She has a strong spiritual belief."
-- **名词**: 指灵性或宗教上的事物。例如: "The spiritual leader guided the community in prayer."
+- **形容词**: 与精神、心灵或宗教有关的。例如: "[She](/post/she/) has [a](/post/a/) [strong](/post/strong/) [spiritual](/post/spiritual/) [belief](/post/belief/)."
+- **名词**: 指灵性或宗教上的事物。例如: "[The](/post/the/) [spiritual](/post/spiritual/) [leader](/post/leader/) guided [the](/post/the/) [community](/post/community/) [in](/post/in/) [prayer](/post/prayer/)."
 
 ## 短语
-- "Spiritual well-being" 指精神健康或内心的安宁。
-- "Spiritual practices" 包括冥想、祈祷等提升灵性的方式。
+- "[Spiritual](/post/spiritual/) well-being" 指精神健康或内心的安宁。
+- "[Spiritual](/post/spiritual/) practices" 包括冥想、祈祷等提升灵性的方式。
 
 ## 例句
-- 形容词: "The retreat was designed to promote spiritual growth and self-discovery."
-- 名词: "The church choir sang a beautiful spiritual song during the service."
+- 形容词: "[The](/post/the/) [retreat](/post/retreat/) was designed [to](/post/to/) [promote](/post/promote/) [spiritual](/post/spiritual/) [growth](/post/growth/) [and](/post/and/) self-discovery."
+- 名词: "[The](/post/the/) [church](/post/church/) choir sang [a](/post/a/) [beautiful](/post/beautiful/) [spiritual](/post/spiritual/) [song](/post/song/) [during](/post/during/) [the](/post/the/) [service](/post/service/)."
 
 ## 同义词
-- Religious
+- [Religious](/post/religious/)
 - Soulful
 - Mystical
 - Esoteric

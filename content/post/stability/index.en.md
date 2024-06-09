@@ -7,31 +7,31 @@ description = '[stəˈbiliti] n.稳定，稳定性，巩固'
 keywords = ['ai words', 'stability']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /stəˈbɪləti/
 
 ## Definitions
-- **Noun**: The state or quality of being stable, firm, or not liable to change, especially in position, direction, or condition. For example: "The ship's stability is crucial for safe navigation."
-- **Adjective**: Characterized by steadiness, constancy, or reliability. For example: "A stable economy encourages investment."
-- **Verb**: To make stable or secure; to establish stability. For example: "The government implemented measures to stabilize the currency."
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [stable](/en/post/stable/), [firm](/en/post/firm/), [or](/en/post/or/) [not](/en/post/not/) [liable](/en/post/liable/) [to](/en/post/to/) [change](/en/post/change/), [especially](/en/post/especially/) [in](/en/post/in/) [position](/en/post/position/), [direction](/en/post/direction/), [or](/en/post/or/) [condition](/en/post/condition/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) ship's [stability](/en/post/stability/) is crucial [for](/en/post/for/) [safe](/en/post/safe/) [navigation](/en/post/navigation/)."
+- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) steadiness, constancy, [or](/en/post/or/) [reliability](/en/post/reliability/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) [stable](/en/post/stable/) [economy](/en/post/economy/) encourages [investment](/en/post/investment/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [stable](/en/post/stable/) [or](/en/post/or/) [secure](/en/post/secure/); [to](/en/post/to/) [establish](/en/post/establish/) [stability](/en/post/stability/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [government](/en/post/government/) implemented measures [to](/en/post/to/) stabilize [the](/en/post/the/) currency."
 
 ## Phrases
-- "Maintain stability" means to keep something steady or unchanging.
-- "Financial stability" refers to a sound economic situation.
-- "Operational stability" is the ability of a system to function consistently without errors.
+- "[Maintain](/en/post/maintain/) [stability](/en/post/stability/)" [means](/en/post/means/) [to](/en/post/to/) [keep](/en/post/keep/) [something](/en/post/something/) [steady](/en/post/steady/) [or](/en/post/or/) unchanging.
+- "[Financial](/en/post/financial/) [stability](/en/post/stability/)" refers [to](/en/post/to/) [a](/en/post/a/) [sound](/en/post/sound/) [economic](/en/post/economic/) [situation](/en/post/situation/).
+- "[Operational](/en/post/operational/) [stability](/en/post/stability/)" is [the](/en/post/the/) [ability](/en/post/ability/) [of](/en/post/of/) [a](/en/post/a/) [system](/en/post/system/) [to](/en/post/to/) [function](/en/post/function/) consistently [without](/en/post/without/) errors.
 
-## Example Sentences
-- **Noun**: "The company's stability has been a key factor in its long-term success."
-- **Adjective**: "She appreciates the stability of her routine."
-- **Verb**: "The government worked to stabilize the market after the economic crisis."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) company's [stability](/en/post/stability/) has been [a](/en/post/a/) [key](/en/post/key/) [factor](/en/post/factor/) [in](/en/post/in/) [its](/en/post/its/) long-term [success](/en/post/success/)."
+- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) appreciates [the](/en/post/the/) [stability](/en/post/stability/) [of](/en/post/of/) [her](/en/post/her/) [routine](/en/post/routine/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [government](/en/post/government/) worked [to](/en/post/to/) stabilize [the](/en/post/the/) [market](/en/post/market/) [after](/en/post/after/) [the](/en/post/the/) [economic](/en/post/economic/) [crisis](/en/post/crisis/)."
 
 ## Synonyms
 - Steadiness
 - Firmness
-- Balance
+- [Balance](/en/post/balance/)
 - Consistency
-- Security
-- Reliability
+- [Security](/en/post/security/)
+- [Reliability](/en/post/reliability/)
 - Solidity
 - Dependability
 - Durability
@@ -40,6 +40,6 @@ keywords = ['ai words', 'stability']
 - Instability
 - Unsteadiness
 - Volatility
-- Instability (noun)
+- Instability ([noun](/en/post/noun/))
 - Fluctuation
 - Turbulence

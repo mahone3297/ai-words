@@ -7,38 +7,38 @@ description = '[əˈkjuːt] a.尖的，锐的；敏锐的'
 keywords = ['ai words', 'acute']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈæktuː/
 
 ## Definitions
-- **Adjective**: 1. Severe or intense; sharp. For example: "The pain was so acute that he couldn't bear it anymore."
-   - **Noun**: 1. (Medicine) A severe or sudden illness or condition. For example: "She was diagnosed with an acute case of influenza."
-   - **Adverb**: 1. In a sharp or pointed manner. For example: "His observation was acute and insightful."
+- **[Adjective](/en/post/adjective/)**: 1. [Severe](/en/post/severe/) [or](/en/post/or/) [intense](/en/post/intense/); [sharp](/en/post/sharp/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [pain](/en/post/pain/) was [so](/en/post/so/) [acute](/en/post/acute/) [that](/en/post/that/) [he](/en/post/he/) couldn't [bear](/en/post/bear/) [it](/en/post/it/) anymore."
+   - **[Noun](/en/post/noun/)**: 1. ([Medicine](/en/post/medicine/)) [A](/en/post/a/) [severe](/en/post/severe/) [or](/en/post/or/) [sudden](/en/post/sudden/) [illness](/en/post/illness/) [or](/en/post/or/) [condition](/en/post/condition/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) was diagnosed [with](/en/post/with/) an [acute](/en/post/acute/) [case](/en/post/case/) [of](/en/post/of/) influenza."
+   - **[Adverb](/en/post/adverb/)**: 1. [In](/en/post/in/) [a](/en/post/a/) [sharp](/en/post/sharp/) [or](/en/post/or/) pointed [manner](/en/post/manner/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [observation](/en/post/observation/) was [acute](/en/post/acute/) [and](/en/post/and/) insightful."
 
 ## Phrases
-- "Acute problem" refers to a severe or pressing issue.
-- "Acute sense" implies heightened awareness or perception.
-- "Acute angle" describes a small angle between two lines or rays.
+- "[Acute](/en/post/acute/) [problem](/en/post/problem/)" refers [to](/en/post/to/) [a](/en/post/a/) [severe](/en/post/severe/) [or](/en/post/or/) pressing [issue](/en/post/issue/).
+- "[Acute](/en/post/acute/) [sense](/en/post/sense/)" implies heightened awareness [or](/en/post/or/) perception.
+- "[Acute](/en/post/acute/) [angle](/en/post/angle/)" describes [a](/en/post/a/) [small](/en/post/small/) [angle](/en/post/angle/) [between](/en/post/between/) [two](/en/post/two/) lines [or](/en/post/or/) rays.
 
-## Example Sentences
-- **Adjective**: "The patient's symptoms were extremely acute, requiring immediate medical attention."
-- **Noun**: "After the accident, he developed an acute memory loss."
-- **Adverb**: "Her analysis was particularly acute, uncovering details others had overlooked."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) patient's symptoms were [extremely](/en/post/extremely/) [acute](/en/post/acute/), requiring [immediate](/en/post/immediate/) [medical](/en/post/medical/) [attention](/en/post/attention/)."
+- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) [the](/en/post/the/) [accident](/en/post/accident/), [he](/en/post/he/) developed an [acute](/en/post/acute/) [memory](/en/post/memory/) [loss](/en/post/loss/)."
+- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) [analysis](/en/post/analysis/) was [particularly](/en/post/particularly/) [acute](/en/post/acute/), uncovering details others had overlooked."
 
 ## Synonyms
-- Severe
-- Intense
-- Sharp
-- Sudden
+- [Severe](/en/post/severe/)
+- [Intense](/en/post/intense/)
+- [Sharp](/en/post/sharp/)
+- [Sudden](/en/post/sudden/)
 - Prolonged
-- Critical
-- Noticeable
+- [Critical](/en/post/critical/)
+- [Noticeable](/en/post/noticeable/)
 - Perceptive
 
 ## Antonyms
-- Mild
-- Gentle
+- [Mild](/en/post/mild/)
+- [Gentle](/en/post/gentle/)
 - Subtle
 - Chronic
-- Indifferent
+- [Indifferent](/en/post/indifferent/)
 - Insensitive

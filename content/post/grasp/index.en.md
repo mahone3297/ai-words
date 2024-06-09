@@ -7,30 +7,30 @@ description = '[grɑːsp] vt.抓紧；掌握 n.抓'
 keywords = ['ai words', 'grasp']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ɡræsp/
 
 ## Definitions
-- **Noun**: The act of seizing and holding something firmly with one's hand or claws. For example: "She has a strong grasp on the handle."
-- **Verb**: 
-  - **To seize and hold**: To take hold of something firmly, typically using one's fingers or hands. For example: "The child grasped the toy tightly."
-  - **To understand**: To gain a thorough understanding or mastery of a concept, skill, or situation. For example: "He finally grasped the complex mathematical theorem."
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) seizing [and](/en/post/and/) holding [something](/en/post/something/) firmly [with](/en/post/with/) one's [hand](/en/post/hand/) [or](/en/post/or/) claws. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has [a](/en/post/a/) [strong](/en/post/strong/) [grasp](/en/post/grasp/) [on](/en/post/on/) [the](/en/post/the/) [handle](/en/post/handle/)."
+- **[Verb](/en/post/verb/)**: 
+  - **[To](/en/post/to/) [seize](/en/post/seize/) [and](/en/post/and/) [hold](/en/post/hold/)**: [To](/en/post/to/) [take](/en/post/take/) [hold](/en/post/hold/) [of](/en/post/of/) [something](/en/post/something/) firmly, typically using one's fingers [or](/en/post/or/) hands. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) grasped [the](/en/post/the/) [toy](/en/post/toy/) tightly."
+  - **[To](/en/post/to/) [understand](/en/post/understand/)**: [To](/en/post/to/) [gain](/en/post/gain/) [a](/en/post/a/) [thorough](/en/post/thorough/) [understanding](/en/post/understanding/) [or](/en/post/or/) mastery [of](/en/post/of/) [a](/en/post/a/) [concept](/en/post/concept/), [skill](/en/post/skill/), [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) [finally](/en/post/finally/) grasped [the](/en/post/the/) [complex](/en/post/complex/) [mathematical](/en/post/mathematical/) theorem."
   
 ## Phrases
-- "A good grasp": This implies a solid understanding or command of a subject matter.
-- "To be within one's grasp": This means something is achievable or attainable.
-- "Grasp the nettle": This idiomatic expression means to confront a difficult issue or problem courageously.
+- "[A](/en/post/a/) [good](/en/post/good/) [grasp](/en/post/grasp/)": [This](/en/post/this/) implies [a](/en/post/a/) [solid](/en/post/solid/) [understanding](/en/post/understanding/) [or](/en/post/or/) [command](/en/post/command/) [of](/en/post/of/) [a](/en/post/a/) [subject](/en/post/subject/) [matter](/en/post/matter/).
+- "[To](/en/post/to/) [be](/en/post/be/) [within](/en/post/within/) one's [grasp](/en/post/grasp/)": [This](/en/post/this/) [means](/en/post/means/) [something](/en/post/something/) is achievable [or](/en/post/or/) attainable.
+- "[Grasp](/en/post/grasp/) [the](/en/post/the/) nettle": [This](/en/post/this/) idiomatic [expression](/en/post/expression/) [means](/en/post/means/) [to](/en/post/to/) confront [a](/en/post/a/) [difficult](/en/post/difficult/) [issue](/en/post/issue/) [or](/en/post/or/) [problem](/en/post/problem/) courageously.
 
-## Example Sentences
-- **Noun**: "His firm grasp on the rope helped him climb up the mountain."
-- **Verb**: 
-  - "She grasped the opportunity with both hands."
-  - "It took him some time, but eventually, he grasped the intricacies of the language."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[His](/en/post/his/) [firm](/en/post/firm/) [grasp](/en/post/grasp/) [on](/en/post/on/) [the](/en/post/the/) [rope](/en/post/rope/) helped [him](/en/post/him/) [climb](/en/post/climb/) [up](/en/post/up/) [the](/en/post/the/) [mountain](/en/post/mountain/)."
+- **[Verb](/en/post/verb/)**: 
+  - "[She](/en/post/she/) grasped [the](/en/post/the/) [opportunity](/en/post/opportunity/) [with](/en/post/with/) [both](/en/post/both/) hands."
+  - "[It](/en/post/it/) took [him](/en/post/him/) [some](/en/post/some/) [time](/en/post/time/), [but](/en/post/but/) [eventually](/en/post/eventually/), [he](/en/post/he/) grasped [the](/en/post/the/) intricacies [of](/en/post/of/) [the](/en/post/the/) [language](/en/post/language/)."
 
 ## Synonyms
-- Hold (noun)
-- Comprehension (noun, in the sense of understanding)
-- Seize (verb)
-- Understand (verb)
-- Grasp at (idiom, meaning to try to seize or catch something)
-- Get a grip on (idiom, meaning to start to understand or control something)
+- [Hold](/en/post/hold/) ([noun](/en/post/noun/))
+- [Comprehension](/en/post/comprehension/) ([noun](/en/post/noun/), [in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) [understanding](/en/post/understanding/))
+- [Seize](/en/post/seize/) ([verb](/en/post/verb/))
+- [Understand](/en/post/understand/) ([verb](/en/post/verb/))
+- [Grasp](/en/post/grasp/) [at](/en/post/at/) ([idiom](/en/post/idiom/), [meaning](/en/post/meaning/) [to](/en/post/to/) [try](/en/post/try/) [to](/en/post/to/) [seize](/en/post/seize/) [or](/en/post/or/) [catch](/en/post/catch/) [something](/en/post/something/))
+- [Get](/en/post/get/) [a](/en/post/a/) [grip](/en/post/grip/) [on](/en/post/on/) ([idiom](/en/post/idiom/), [meaning](/en/post/meaning/) [to](/en/post/to/) [start](/en/post/start/) [to](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [control](/en/post/control/) [something](/en/post/something/))

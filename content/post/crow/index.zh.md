@@ -11,16 +11,16 @@ keywords = ['ai words', 'crow']
 /krəʊ/
 
 ## 释义
-- **名词**: 乌鸦，一种黑色的大鸟，以其叫声闻名。例如: "A group of crows is called a 'murder'."
-- **动词**: (尤指公鸡)啼鸣。例如: "The rooster crows every morning at dawn."
+- **名词**: 乌鸦，一种黑色的大鸟，以其叫声闻名。例如: "[A](/post/a/) [group](/post/group/) [of](/post/of/) crows is called [a](/post/a/) '[murder](/post/murder/)'."
+- **动词**: (尤指公鸡)啼鸣。例如: "[The](/post/the/) rooster crows [every](/post/every/) [morning](/post/morning/) [at](/post/at/) [dawn](/post/dawn/)."
 
 ## 短语
-- "As the saying goes, 'A crow in the hand is worth two in the bush.'" 这是一句谚语，意为"得到的东西比预期的要好"。
-- "Crow about something" 意味着炫耀或自夸某事。
+- "[As](/post/as/) [the](/post/the/) saying goes, '[A](/post/a/) [crow](/post/crow/) [in](/post/in/) [the](/post/the/) [hand](/post/hand/) is [worth](/post/worth/) [two](/post/two/) [in](/post/in/) [the](/post/the/) [bush](/post/bush/).'" 这是一句谚语，意为"得到的东西比预期的要好"。
+- "[Crow](/post/crow/) [about](/post/about/) [something](/post/something/)" 意味着炫耀或自夸某事。
 
 ## 例句
-- 名词: "The crow perched on the branch, watching the field below."
-- 动词: "The rooster crowed loudly, signaling the start of a new day."
+- 名词: "[The](/post/the/) [crow](/post/crow/) perched [on](/post/on/) [the](/post/the/) [branch](/post/branch/), watching [the](/post/the/) [field](/post/field/) [below](/post/below/)."
+- 动词: "[The](/post/the/) rooster crowed loudly, signaling [the](/post/the/) [start](/post/start/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [day](/post/day/)."
 
 ## 同义词
 - Raven

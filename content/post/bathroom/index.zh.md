@@ -14,16 +14,16 @@ keywords = ['ai words', 'bathroom']
 - **名词**: 一个设有浴缸、淋浴、洗手盆和厕所的房间，通常在住宅或公共设施中供个人清洁使用。
 
 ## 短语
-- "bathroom break" 指从活动中暂时离开去上厕所或洗漱。
-- "guest bathroom" 专为客人准备的卫生间，通常与主人居住区域分开。
+- "[bathroom](/post/bathroom/) [break](/post/break/)" 指从活动中暂时离开去上厕所或洗漱。
+- "[guest](/post/guest/) [bathroom](/post/bathroom/)" 专为客人准备的卫生间，通常与主人居住区域分开。
 
 ## 例句
-- "I need to go to the bathroom before we leave the restaurant."
-- "The guest bathroom is down the hall on the left."
+- "I [need](/post/need/) [to](/post/to/) [go](/post/go/) [to](/post/to/) [the](/post/the/) [bathroom](/post/bathroom/) [before](/post/before/) [we](/post/we/) [leave](/post/leave/) [the](/post/the/) [restaurant](/post/restaurant/)."
+- "[The](/post/the/) [guest](/post/guest/) [bathroom](/post/bathroom/) is [down](/post/down/) [the](/post/the/) [hall](/post/hall/) [on](/post/on/) [the](/post/the/) [left](/post/left/)."
 
 ## 同义词
 - Washroom
 - Restroom
-- Toilet
-- Lavatory
-- Powder room
+- [Toilet](/post/toilet/)
+- [Lavatory](/post/lavatory/)
+- [Powder](/post/powder/) [room](/post/room/)

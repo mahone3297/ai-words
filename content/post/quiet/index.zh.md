@@ -11,22 +11,22 @@ keywords = ['ai words', 'quiet']
 /ˈkwaɪət/
 
 ## 释义
-- **形容词**: 安静的，寂静的。例如: "The library was quiet, allowing visitors to concentrate on their reading."
-- **副词**: 安静地，平和地。例如: "She whispered quietly so as not to disturb others."
-- **名词**: 安静的时间或状态。例如: "He enjoyed moments of quiet after a busy day."
+- **形容词**: 安静的，寂静的。例如: "[The](/post/the/) [library](/post/library/) was [quiet](/post/quiet/), allowing visitors [to](/post/to/) [concentrate](/post/concentrate/) [on](/post/on/) [their](/post/their/) [reading](/post/reading/)."
+- **副词**: 安静地，平和地。例如: "[She](/post/she/) whispered quietly [so](/post/so/) [as](/post/as/) [not](/post/not/) [to](/post/to/) [disturb](/post/disturb/) others."
+- **名词**: 安静的时间或状态。例如: "[He](/post/he/) enjoyed moments [of](/post/of/) [quiet](/post/quiet/) [after](/post/after/) [a](/post/a/) [busy](/post/busy/) [day](/post/day/)."
 
 ## 短语
-- "Keep quiet" 意味着保持沉默，不要出声。
-- "Be quiet" 是用来告诉某人停止说话或制造噪音。
+- "[Keep](/post/keep/) [quiet](/post/quiet/)" 意味着保持沉默，不要出声。
+- "[Be](/post/be/) [quiet](/post/quiet/)" 是用来告诉某人停止说话或制造噪音。
 
 ## 例句
-- 形容词: "The countryside was so quiet that you could hear the birds singing."
-- 副词: "He spoke quietly to avoid drawing attention to himself."
-- 名词: "She cherished her weekends, which provided much-needed quiet."
+- 形容词: "[The](/post/the/) [countryside](/post/countryside/) was [so](/post/so/) [quiet](/post/quiet/) [that](/post/that/) [you](/post/you/) [could](/post/could/) [hear](/post/hear/) [the](/post/the/) birds singing."
+- 副词: "[He](/post/he/) spoke quietly [to](/post/to/) [avoid](/post/avoid/) [drawing](/post/drawing/) [attention](/post/attention/) [to](/post/to/) [himself](/post/himself/)."
+- 名词: "[She](/post/she/) cherished [her](/post/her/) weekends, [which](/post/which/) [provided](/post/provided/) much-needed [quiet](/post/quiet/)."
 
 ## 同义词
-- Silent
-- Calm
-- Still
-- Peaceful
+- [Silent](/post/silent/)
+- [Calm](/post/calm/)
+- [Still](/post/still/)
+- [Peaceful](/post/peaceful/)
 - Hushed

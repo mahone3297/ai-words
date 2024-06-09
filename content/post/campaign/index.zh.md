@@ -11,21 +11,21 @@ keywords = ['ai words', 'campaign']
 /ˈkæm.pən/
 
 ## 释义
-- **名词**: 一场有组织的宣传活动，通常是为了推广产品、服务、政治候选人或社会问题。例如: "The company launched a new advertising campaign."
-- **动词**: 进行宣传或争取支持的活动。例如: "He is campaigning for the upcoming election."
+- **名词**: 一场有组织的宣传活动，通常是为了推广产品、服务、政治候选人或社会问题。例如: "[The](/post/the/) [company](/post/company/) launched [a](/post/a/) [new](/post/new/) advertising [campaign](/post/campaign/)."
+- **动词**: 进行宣传或争取支持的活动。例如: "[He](/post/he/) is campaigning [for](/post/for/) [the](/post/the/) upcoming [election](/post/election/)."
 
 ## 短语
-- "Political campaign" 政治竞选活动。
-- "Public awareness campaign" 公众意识宣传活动。
-- "Media campaign" 媒体宣传运动。
+- "[Political](/post/political/) [campaign](/post/campaign/)" 政治竞选活动。
+- "[Public](/post/public/) awareness [campaign](/post/campaign/)" 公众意识宣传活动。
+- "Media [campaign](/post/campaign/)" 媒体宣传运动。
 
 ## 例句
-- 名词: "The environmental group is running a campaign to reduce plastic waste."
-- 动词: "She is campaigning tirelessly to raise funds for cancer research."
+- 名词: "[The](/post/the/) environmental [group](/post/group/) is running [a](/post/a/) [campaign](/post/campaign/) [to](/post/to/) [reduce](/post/reduce/) [plastic](/post/plastic/) [waste](/post/waste/)."
+- 动词: "[She](/post/she/) is campaigning tirelessly [to](/post/to/) [raise](/post/raise/) funds [for](/post/for/) [cancer](/post/cancer/) [research](/post/research/)."
 
 ## 同义词
-- Effort
-- Drive
+- [Effort](/post/effort/)
+- [Drive](/post/drive/)
 - Initiative
 - Promotion
-- Push
+- [Push](/post/push/)

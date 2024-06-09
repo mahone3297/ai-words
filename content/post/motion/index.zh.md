@@ -11,24 +11,24 @@ keywords = ['ai words', 'motion']
 /məˈʃ(ə)n/
 
 ## 释义
-- **名词 (n)**: 物体或人的移动或动作；运动。例如: "The smooth motion of the waves."
-- **名词**: 提议，动议。例如: "The motion to increase funding was passed."
-- **动词 (v)**: 提出（提议或动议）。例如: "She motioned for him to come closer."
-- **名词**: 情绪或情感的表现。例如: "A motion of sadness crossed her face."
+- **名词 (n)**: 物体或人的移动或动作；运动。例如: "[The](/post/the/) [smooth](/post/smooth/) [motion](/post/motion/) [of](/post/of/) [the](/post/the/) waves."
+- **名词**: 提议，动议。例如: "[The](/post/the/) [motion](/post/motion/) [to](/post/to/) [increase](/post/increase/) funding was passed."
+- **动词 (v)**: 提出（提议或动议）。例如: "[She](/post/she/) motioned [for](/post/for/) [him](/post/him/) [to](/post/to/) [come](/post/come/) closer."
+- **名词**: 情绪或情感的表现。例如: "[A](/post/a/) [motion](/post/motion/) [of](/post/of/) [sadness](/post/sadness/) crossed [her](/post/her/) [face](/post/face/)."
 
 ## 短语
-- "In motion" 表示在行动或移动中。
-- "Motion picture" 或 "movie" 指电影。
-- "Motion sensor" 是一种能感知运动的设备。
+- "[In](/post/in/) [motion](/post/motion/)" 表示在行动或移动中。
+- "[Motion](/post/motion/) [picture](/post/picture/)" 或 "[movie](/post/movie/)" 指电影。
+- "[Motion](/post/motion/) sensor" 是一种能感知运动的设备。
 
 ## 例句
-- 名词: "The dancer's fluid motions were mesmerizing."
-- 动词: "He motioned to the waiter for another drink."
-- 名词: "The council discussed several motions before voting on them."
+- 名词: "[The](/post/the/) dancer's [fluid](/post/fluid/) motions were mesmerizing."
+- 动词: "[He](/post/he/) motioned [to](/post/to/) [the](/post/the/) [waiter](/post/waiter/) [for](/post/for/) [another](/post/another/) [drink](/post/drink/)."
+- 名词: "[The](/post/the/) [council](/post/council/) discussed [several](/post/several/) motions [before](/post/before/) voting [on](/post/on/) [them](/post/them/)."
 
 ## 同义词
-- Movement
-- Action
-- Shift
+- [Movement](/post/movement/)
+- [Action](/post/action/)
+- [Shift](/post/shift/)
 - Alteration
-- Proposal
+- [Proposal](/post/proposal/)

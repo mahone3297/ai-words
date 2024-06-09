@@ -7,32 +7,32 @@ description = 'v.aux.可能；可以，祝'
 keywords = ['ai words', 'may']
 +++
 
-## Word: May
+## [Word](/en/post/word/): [May](/en/post/may/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /meɪ/
 
 ## Definitions
-- **Modal Verb**: Expressing possibility or permission. For example:
-  - Possibility: "It may rain tomorrow."
-  - Permission: "You may use my pen."
+- **Modal [Verb](/en/post/verb/)**: Expressing [possibility](/en/post/possibility/) [or](/en/post/or/) [permission](/en/post/permission/). [For](/en/post/for/) [example](/en/post/example/):
+  - [Possibility](/en/post/possibility/): "[It](/en/post/it/) [may](/en/post/may/) [rain](/en/post/rain/) [tomorrow](/en/post/tomorrow/)."
+  - [Permission](/en/post/permission/): "[You](/en/post/you/) [may](/en/post/may/) [use](/en/post/use/) [my](/en/post/my/) [pen](/en/post/pen/)."
 
-- **Noun (month)**: The fifth month of the year, coming between April and June. For example: "The flowers bloom beautifully in May."
+- **[Noun](/en/post/noun/) ([month](/en/post/month/))**: [The](/en/post/the/) [fifth](/en/post/fifth/) [month](/en/post/month/) [of](/en/post/of/) [the](/en/post/the/) [year](/en/post/year/), coming [between](/en/post/between/) [April](/en/post/april/) [and](/en/post/and/) June. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) flowers [bloom](/en/post/bloom/) beautifully [in](/en/post/in/) [May](/en/post/may/)."
 
-- **Proper Noun (honorific title)**: In certain contexts, 'May' can be used as a form of address for a female given name, such as "Lady May."
+- **[Proper](/en/post/proper/) [Noun](/en/post/noun/) (honorific [title](/en/post/title/))**: [In](/en/post/in/) [certain](/en/post/certain/) contexts, '[May](/en/post/may/)' [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [address](/en/post/address/) [for](/en/post/for/) [a](/en/post/a/) [female](/en/post/female/) given [name](/en/post/name/), [such](/en/post/such/) [as](/en/post/as/) "[Lady](/en/post/lady/) [May](/en/post/may/)."
 
 ## Phrases
-- **May I**: A polite way to ask for permission. For instance, "May I borrow your book?"
-- **In May**: Referring to the month of May. Example: "We're planning our vacation in May."
-- **As may be**: An expression used to indicate that something could happen depending on circumstances. Example: "We'll proceed as may be necessary."
+- **[May](/en/post/may/) I**: [A](/en/post/a/) [polite](/en/post/polite/) [way](/en/post/way/) [to](/en/post/to/) [ask](/en/post/ask/) [for](/en/post/for/) [permission](/en/post/permission/). [For](/en/post/for/) [instance](/en/post/instance/), "[May](/en/post/may/) I [borrow](/en/post/borrow/) [your](/en/post/your/) [book](/en/post/book/)?"
+- **[In](/en/post/in/) [May](/en/post/may/)**: Referring [to](/en/post/to/) [the](/en/post/the/) [month](/en/post/month/) [of](/en/post/of/) [May](/en/post/may/). [Example](/en/post/example/): "We're planning [our](/en/post/our/) [vacation](/en/post/vacation/) [in](/en/post/in/) [May](/en/post/may/)."
+- **[As](/en/post/as/) [may](/en/post/may/) [be](/en/post/be/)**: An [expression](/en/post/expression/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) [could](/en/post/could/) [happen](/en/post/happen/) depending [on](/en/post/on/) circumstances. [Example](/en/post/example/): "We'll [proceed](/en/post/proceed/) [as](/en/post/as/) [may](/en/post/may/) [be](/en/post/be/) [necessary](/en/post/necessary/)."
 
-## Example Sentences
-- **Modal Verb (possibility)**: "There may be traffic jams during rush hour."
-- **Modal Verb (permission)**: "May I have a glass of water, please?"
-- **Noun (month)**: "The wedding will take place on the second Sunday of May."
+## [Example](/en/post/example/) Sentences
+- **Modal [Verb](/en/post/verb/) ([possibility](/en/post/possibility/))**: "[There](/en/post/there/) [may](/en/post/may/) [be](/en/post/be/) [traffic](/en/post/traffic/) jams [during](/en/post/during/) [rush](/en/post/rush/) [hour](/en/post/hour/)."
+- **Modal [Verb](/en/post/verb/) ([permission](/en/post/permission/))**: "[May](/en/post/may/) I [have](/en/post/have/) [a](/en/post/a/) [glass](/en/post/glass/) [of](/en/post/of/) [water](/en/post/water/), [please](/en/post/please/)?"
+- **[Noun](/en/post/noun/) ([month](/en/post/month/))**: "[The](/en/post/the/) [wedding](/en/post/wedding/) [will](/en/post/will/) [take](/en/post/take/) [place](/en/post/place/) [on](/en/post/on/) [the](/en/post/the/) [second](/en/post/second/) Sunday [of](/en/post/of/) [May](/en/post/may/)."
 
 ## Synonyms
-- (for modal sense) Perhaps, possibly, perchance, potentially, can (in some cases of permission)
-- (for the month)五月 (Wǔyuè in Chinese), mai (in Italian), mai (in French)
+- ([for](/en/post/for/) modal [sense](/en/post/sense/)) [Perhaps](/en/post/perhaps/), [possibly](/en/post/possibly/), perchance, potentially, [can](/en/post/can/) ([in](/en/post/in/) [some](/en/post/some/) cases [of](/en/post/of/) [permission](/en/post/permission/))
+- ([for](/en/post/for/) [the](/en/post/the/) [month](/en/post/month/))五月 (Wǔyuè [in](/en/post/in/) Chinese), mai ([in](/en/post/in/) Italian), mai ([in](/en/post/in/) French)
 
-Note: Synonyms for the modal verb sense of "may" often convey degrees of possibility or politeness in granting permission, while synonyms for the month of May refer to its equivalent in other languages.
+[Note](/en/post/note/): Synonyms [for](/en/post/for/) [the](/en/post/the/) modal [verb](/en/post/verb/) [sense](/en/post/sense/) [of](/en/post/of/) "[may](/en/post/may/)" [often](/en/post/often/) [convey](/en/post/convey/) degrees [of](/en/post/of/) [possibility](/en/post/possibility/) [or](/en/post/or/) politeness [in](/en/post/in/) granting [permission](/en/post/permission/), [while](/en/post/while/) synonyms [for](/en/post/for/) [the](/en/post/the/) [month](/en/post/month/) [of](/en/post/of/) [May](/en/post/may/) [refer](/en/post/refer/) [to](/en/post/to/) [its](/en/post/its/) [equivalent](/en/post/equivalent/) [in](/en/post/in/) [other](/en/post/other/) languages.

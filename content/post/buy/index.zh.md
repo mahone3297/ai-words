@@ -11,20 +11,20 @@ keywords = ['ai words', 'buy']
 /baɪ/
 
 ## 释义
-- **动词**: 购买，购得。例如: "I bought a new laptop yesterday."
-- **名词**: (在某些表达中)购买行为或所购之物。例如: "She's saving up for a big buy."
+- **动词**: 购买，购得。例如: "I bought [a](/post/a/) [new](/post/new/) laptop [yesterday](/post/yesterday/)."
+- **名词**: (在某些表达中)购买行为或所购之物。例如: "She's [saving](/post/saving/) [up](/post/up/) [for](/post/for/) [a](/post/a/) [big](/post/big/) [buy](/post/buy/)."
 
 ## 短语
-- "Buy something for someone" 给某人买东西。例如: "I'll buy you a coffee."
-- "Buy into an idea" 接受或相信一个观点。例如: "Many people have bought into the concept of sustainable living."
+- "[Buy](/post/buy/) [something](/post/something/) [for](/post/for/) [someone](/post/someone/)" 给某人买东西。例如: "I'll [buy](/post/buy/) [you](/post/you/) [a](/post/a/) [coffee](/post/coffee/)."
+- "[Buy](/post/buy/) [into](/post/into/) an [idea](/post/idea/)" 接受或相信一个观点。例如: "[Many](/post/many/) [people](/post/people/) [have](/post/have/) bought [into](/post/into/) [the](/post/the/) [concept](/post/concept/) [of](/post/of/) sustainable [living](/post/living/)."
 
 ## 例句
-- 动词: "I'm going to buy some groceries after work."
-- 名词: "His latest buy is a vintage car."
+- 动词: "I'm going [to](/post/to/) [buy](/post/buy/) [some](/post/some/) groceries [after](/post/after/) [work](/post/work/)."
+- 名词: "[His](/post/his/) latest [buy](/post/buy/) is [a](/post/a/) vintage [car](/post/car/)."
 
 ## 同义词
-- Purchase
-- Acquire
-- Obtain
-- Get
-- Secure
+- [Purchase](/post/purchase/)
+- [Acquire](/post/acquire/)
+- [Obtain](/post/obtain/)
+- [Get](/post/get/)
+- [Secure](/post/secure/)

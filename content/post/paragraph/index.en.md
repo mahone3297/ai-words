@@ -7,32 +7,32 @@ description = '[ˈpærəgrɑːf] n.(文章的)段，节'
 keywords = ['ai words', 'paragraph']
 +++
 
-## Word: Paragraph
+## [Word](/en/post/word/): [Paragraph](/en/post/paragraph/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈpærəɡræf/
 
 ## Definitions
-- **Noun**: A section of text consisting of one or more sentences that develop a particular theme or idea, usually separated from other such sections by a blank line or indentation. It forms a unit within a written composition. For example: "The first paragraph of the essay outlined the main argument."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [section](/en/post/section/) [of](/en/post/of/) [text](/en/post/text/) consisting [of](/en/post/of/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) sentences [that](/en/post/that/) [develop](/en/post/develop/) [a](/en/post/a/) [particular](/en/post/particular/) theme [or](/en/post/or/) [idea](/en/post/idea/), [usually](/en/post/usually/) separated [from](/en/post/from/) [other](/en/post/other/) [such](/en/post/such/) sections [by](/en/post/by/) [a](/en/post/a/) [blank](/en/post/blank/) [line](/en/post/line/) [or](/en/post/or/) indentation. [It](/en/post/it/) forms [a](/en/post/a/) [unit](/en/post/unit/) [within](/en/post/within/) [a](/en/post/a/) written [composition](/en/post/composition/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [first](/en/post/first/) [paragraph](/en/post/paragraph/) [of](/en/post/of/) [the](/en/post/the/) [essay](/en/post/essay/) outlined [the](/en/post/the/) [main](/en/post/main/) [argument](/en/post/argument/)."
 
-  > Example sentence: In her letter, Jane wrote a heartfelt paragraph expressing her gratitude.
+  > [Example](/en/post/example/) [sentence](/en/post/sentence/): [In](/en/post/in/) [her](/en/post/her/) [letter](/en/post/letter/), Jane wrote [a](/en/post/a/) heartfelt [paragraph](/en/post/paragraph/) expressing [her](/en/post/her/) [gratitude](/en/post/gratitude/).
 
-- **Verb (non-standard usage)**: To write or arrange something in paragraphs. For example: "The author paragraphed the story effectively to make it easy to read."
+- **[Verb](/en/post/verb/) (non-standard [usage](/en/post/usage/))**: [To](/en/post/to/) [write](/en/post/write/) [or](/en/post/or/) [arrange](/en/post/arrange/) [something](/en/post/something/) [in](/en/post/in/) paragraphs. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [author](/en/post/author/) paragraphed [the](/en/post/the/) [story](/en/post/story/) effectively [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) [easy](/en/post/easy/) [to](/en/post/to/) [read](/en/post/read/)."
 
-  > Example sentence: After editing, he decided to paragraph his thoughts more clearly to improve readability.
+  > [Example](/en/post/example/) [sentence](/en/post/sentence/): [After](/en/post/after/) editing, [he](/en/post/he/) decided [to](/en/post/to/) [paragraph](/en/post/paragraph/) [his](/en/post/his/) thoughts [more](/en/post/more/) [clearly](/en/post/clearly/) [to](/en/post/to/) [improve](/en/post/improve/) readability.
 
 ## Phrases
-- "Paragraph break": A space between paragraphs, often indicated by a line skip or indentation, which signals a shift in topic or thought.
-- "Introductory paragraph": The opening paragraph of a piece of writing, typically introducing the main topic or thesis statement.
-- "Supporting paragraphs": The paragraphs in a piece of writing that provide evidence, explanation, or examples to back up the central idea introduced in the introductory paragraph.
+- "[Paragraph](/en/post/paragraph/) [break](/en/post/break/)": [A](/en/post/a/) [space](/en/post/space/) [between](/en/post/between/) paragraphs, [often](/en/post/often/) indicated [by](/en/post/by/) [a](/en/post/a/) [line](/en/post/line/) skip [or](/en/post/or/) indentation, [which](/en/post/which/) signals [a](/en/post/a/) [shift](/en/post/shift/) [in](/en/post/in/) [topic](/en/post/topic/) [or](/en/post/or/) [thought](/en/post/thought/).
+- "Introductory [paragraph](/en/post/paragraph/)": [The](/en/post/the/) [opening](/en/post/opening/) [paragraph](/en/post/paragraph/) [of](/en/post/of/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [writing](/en/post/writing/), typically introducing [the](/en/post/the/) [main](/en/post/main/) [topic](/en/post/topic/) [or](/en/post/or/) thesis [statement](/en/post/statement/).
+- "Supporting paragraphs": [The](/en/post/the/) paragraphs [in](/en/post/in/) [a](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [writing](/en/post/writing/) [that](/en/post/that/) [provide](/en/post/provide/) [evidence](/en/post/evidence/), [explanation](/en/post/explanation/), [or](/en/post/or/) examples [to](/en/post/to/) [back](/en/post/back/) [up](/en/post/up/) [the](/en/post/the/) [central](/en/post/central/) [idea](/en/post/idea/) introduced [in](/en/post/in/) [the](/en/post/the/) introductory [paragraph](/en/post/paragraph/).
 
-## Example Sentences
-- **Noun**: "Each paragraph in the contract contained specific details about the agreement terms."
-- **Verb**: "The writer needed to paragraph his lengthy email to make it easier on the reader's eyes."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[Each](/en/post/each/) [paragraph](/en/post/paragraph/) [in](/en/post/in/) [the](/en/post/the/) [contract](/en/post/contract/) contained [specific](/en/post/specific/) details [about](/en/post/about/) [the](/en/post/the/) [agreement](/en/post/agreement/) terms."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [writer](/en/post/writer/) needed [to](/en/post/to/) [paragraph](/en/post/paragraph/) [his](/en/post/his/) lengthy email [to](/en/post/to/) [make](/en/post/make/) [it](/en/post/it/) easier [on](/en/post/on/) [the](/en/post/the/) reader's eyes."
 
 ## Synonyms
-- Section
-- Passage
+- [Section](/en/post/section/)
+- [Passage](/en/post/passage/)
 - Segment
-- Division (of text)
-- Clause (in a literary context)
+- [Division](/en/post/division/) ([of](/en/post/of/) [text](/en/post/text/))
+- Clause ([in](/en/post/in/) [a](/en/post/a/) [literary](/en/post/literary/) context)

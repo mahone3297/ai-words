@@ -11,20 +11,20 @@ keywords = ['ai words', 'determination']
 /dɪˌtɜːrmɪˈneɪʃn/
 
 ## 释义
-- **名词**: 决心，决定，确定性。例如: "She showed great determination in overcoming her illness."
-- **动词**: 决定，确定。例如: "The outcome was determined by the judges."
+- **名词**: 决心，决定，确定性。例如: "[She](/post/she/) showed [great](/post/great/) [determination](/post/determination/) [in](/post/in/) overcoming [her](/post/her/) [illness](/post/illness/)."
+- **动词**: 决定，确定。例如: "[The](/post/the/) [outcome](/post/outcome/) was determined [by](/post/by/) [the](/post/the/) judges."
 
 ## 短语
-- "make a determination" 做出决定。
-- "determination of fate" 命运的决定。
+- "[make](/post/make/) [a](/post/a/) [determination](/post/determination/)" 做出决定。
+- "[determination](/post/determination/) [of](/post/of/) [fate](/post/fate/)" 命运的决定。
 
 ## 例句
-- 名词: "His strong determination inspired others to work harder."
-- 动词: "The doctor determined that the patient needed surgery."
+- 名词: "[His](/post/his/) [strong](/post/strong/) [determination](/post/determination/) inspired others [to](/post/to/) [work](/post/work/) harder."
+- 动词: "[The](/post/the/) [doctor](/post/doctor/) determined [that](/post/that/) [the](/post/the/) [patient](/post/patient/) needed [surgery](/post/surgery/)."
 
 ## 同义词
-- Resolution
+- [Resolution](/post/resolution/)
 -毅力
-- Resolve
+- [Resolve](/post/resolve/)
 - Firmness
-- Decision
+- [Decision](/post/decision/)

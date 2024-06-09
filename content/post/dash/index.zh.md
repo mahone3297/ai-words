@@ -11,22 +11,22 @@ keywords = ['ai words', 'dash']
 /dæʃ/
 
 ## 释义
-- **名词**: 符号 “-”，用于连接或中断单词、短语，或者表示省略、间隔或强调。例如: "There's a dash in the middle of the word 're-enter'."
-- **动词**: 急速移动或冲向。例如: "He dashed across the street to catch the bus."
-- **形容词**: 迅速的，短暂的。例如: "A dash of rain fell from the sky."
+- **名词**: 符号 “-”，用于连接或中断单词、短语，或者表示省略、间隔或强调。例如: "There's [a](/post/a/) [dash](/post/dash/) [in](/post/in/) [the](/post/the/) [middle](/post/middle/) [of](/post/of/) [the](/post/the/) [word](/post/word/) 're-enter'."
+- **动词**: 急速移动或冲向。例如: "[He](/post/he/) dashed [across](/post/across/) [the](/post/the/) [street](/post/street/) [to](/post/to/) [catch](/post/catch/) [the](/post/the/) [bus](/post/bus/)."
+- **形容词**: 迅速的，短暂的。例如: "[A](/post/a/) [dash](/post/dash/) [of](/post/of/) [rain](/post/rain/) fell [from](/post/from/) [the](/post/the/) [sky](/post/sky/)."
 
 ## 短语
-- "make a dash for something" 意为迅速冲向某物。
-- "a dash of humor" 表示一点幽默感。
+- "[make](/post/make/) [a](/post/a/) [dash](/post/dash/) [for](/post/for/) [something](/post/something/)" 意为迅速冲向某物。
+- "[a](/post/a/) [dash](/post/dash/) [of](/post/of/) humor" 表示一点幽默感。
 
 ## 例句
-- 名词: "The date on her passport was written with a dash between the day and the year."
-- 动词: "She dashed out of the room when she heard the doorbell."
-- 形容词: "He added a dash of salt to enhance the flavor."
+- 名词: "[The](/post/the/) [date](/post/date/) [on](/post/on/) [her](/post/her/) [passport](/post/passport/) was written [with](/post/with/) [a](/post/a/) [dash](/post/dash/) [between](/post/between/) [the](/post/the/) [day](/post/day/) [and](/post/and/) [the](/post/the/) [year](/post/year/)."
+- 动词: "[She](/post/she/) dashed [out](/post/out/) [of](/post/of/) [the](/post/the/) [room](/post/room/) [when](/post/when/) [she](/post/she/) heard [the](/post/the/) doorbell."
+- 形容词: "[He](/post/he/) added [a](/post/a/) [dash](/post/dash/) [of](/post/of/) [salt](/post/salt/) [to](/post/to/) enhance [the](/post/the/) flavor."
 
 ## 同义词
 - Hyphen (-)
-- Stroke
-- Burst
-- Rapid
-- Swift
+- [Stroke](/post/stroke/)
+- [Burst](/post/burst/)
+- [Rapid](/post/rapid/)
+- [Swift](/post/swift/)

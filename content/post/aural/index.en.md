@@ -7,23 +7,23 @@ description = '[ˈɔːrəl] a.耳的，听觉的'
 keywords = ['ai words', 'aural']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈɔːrəl/
 
 ## Definitions
-- **Adjective**: Relating to the sense of hearing or sound. For example: "The aural experience was immersive."
-- **Noun**: Pertaining to the ear or auditory perception. For example: "Audiobooks provide an aural learning experience."
-- **Pronoun**: (rarely used) Referring to the ears or auditory senses. For example: "She adjusted her aural focus on the concert."
+- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) hearing [or](/en/post/or/) [sound](/en/post/sound/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [aural](/en/post/aural/) [experience](/en/post/experience/) was immersive."
+- **[Noun](/en/post/noun/)**: Pertaining [to](/en/post/to/) [the](/en/post/the/) [ear](/en/post/ear/) [or](/en/post/or/) auditory perception. [For](/en/post/for/) [example](/en/post/example/): "Audiobooks [provide](/en/post/provide/) an [aural](/en/post/aural/) [learning](/en/post/learning/) [experience](/en/post/experience/)."
+- **[Pronoun](/en/post/pronoun/)**: ([rarely](/en/post/rarely/) [used](/en/post/used/)) Referring [to](/en/post/to/) [the](/en/post/the/) ears [or](/en/post/or/) auditory senses. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) adjusted [her](/en/post/her/) [aural](/en/post/aural/) [focus](/en/post/focus/) [on](/en/post/on/) [the](/en/post/the/) [concert](/en/post/concert/)."
 
 ## Phrases
-- "Aural feedback" refers to the sound heard by the listener.
-- "Aural training" is the process of improving one's ability to perceive and distinguish sounds.
-- "Aural memory" is the capacity to remember sounds without visual cues.
+- "[Aural](/en/post/aural/) [feedback](/en/post/feedback/)" refers [to](/en/post/to/) [the](/en/post/the/) [sound](/en/post/sound/) heard [by](/en/post/by/) [the](/en/post/the/) [listener](/en/post/listener/).
+- "[Aural](/en/post/aural/) [training](/en/post/training/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) improving one's [ability](/en/post/ability/) [to](/en/post/to/) [perceive](/en/post/perceive/) [and](/en/post/and/) [distinguish](/en/post/distinguish/) sounds.
+- "[Aural](/en/post/aural/) [memory](/en/post/memory/)" is [the](/en/post/the/) [capacity](/en/post/capacity/) [to](/en/post/to/) [remember](/en/post/remember/) sounds [without](/en/post/without/) [visual](/en/post/visual/) cues.
 
-## Example Sentences
-- **Adjective**: "The aural design of the concert hall was impressive."
-- **Noun**: "She underwent a thorough aural examination at the clinic."
-- **Pronoun**: "He adjusted his headphones to ensure optimal aural comfort."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [aural](/en/post/aural/) [design](/en/post/design/) [of](/en/post/of/) [the](/en/post/the/) [concert](/en/post/concert/) [hall](/en/post/hall/) was [impressive](/en/post/impressive/)."
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) underwent [a](/en/post/a/) [thorough](/en/post/thorough/) [aural](/en/post/aural/) [examination](/en/post/examination/) [at](/en/post/at/) [the](/en/post/the/) clinic."
+- **[Pronoun](/en/post/pronoun/)**: "[He](/en/post/he/) adjusted [his](/en/post/his/) headphones [to](/en/post/to/) [ensure](/en/post/ensure/) optimal [aural](/en/post/aural/) [comfort](/en/post/comfort/)."
 
 ## Synonyms
 - Auditory
@@ -32,4 +32,4 @@ keywords = ['ai words', 'aural']
 - Ear-related
 - Sonic
 
-## Note: The use of "aural" as a pronoun is not common, but it can be found in some technical contexts or poetic language where it refers to the ears or auditory senses. In everyday conversation, it is more likely to be used as an adjective or noun.
+## [Note](/en/post/note/): [The](/en/post/the/) [use](/en/post/use/) [of](/en/post/of/) "[aural](/en/post/aural/)" [as](/en/post/as/) [a](/en/post/a/) [pronoun](/en/post/pronoun/) is [not](/en/post/not/) [common](/en/post/common/), [but](/en/post/but/) [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [found](/en/post/found/) [in](/en/post/in/) [some](/en/post/some/) [technical](/en/post/technical/) contexts [or](/en/post/or/) poetic [language](/en/post/language/) [where](/en/post/where/) [it](/en/post/it/) refers [to](/en/post/to/) [the](/en/post/the/) ears [or](/en/post/or/) auditory senses. [In](/en/post/in/) [everyday](/en/post/everyday/) [conversation](/en/post/conversation/), [it](/en/post/it/) is [more](/en/post/more/) [likely](/en/post/likely/) [to](/en/post/to/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) an [adjective](/en/post/adjective/) [or](/en/post/or/) [noun](/en/post/noun/).

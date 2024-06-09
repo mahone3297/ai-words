@@ -11,20 +11,20 @@ keywords = ['ai words', 'aside']
 /əˈsaɪd/
 
 ## 释义
-- **介词**: 在...旁边；在...的侧面。例如: "She sat down beside me, putting her bag aside."
-- **副词**: 到一边去；撇开。例如: "Let's put this issue aside for now and focus on something else."
+- **介词**: 在...旁边；在...的侧面。例如: "[She](/post/she/) sat [down](/post/down/) [beside](/post/beside/) [me](/post/me/), putting [her](/post/her/) [bag](/post/bag/) [aside](/post/aside/)."
+- **副词**: 到一边去；撇开。例如: "Let's [put](/post/put/) [this](/post/this/) [issue](/post/issue/) [aside](/post/aside/) [for](/post/for/) [now](/post/now/) [and](/post/and/) [focus](/post/focus/) [on](/post/on/) [something](/post/something/) [else](/post/else/)."
 
 ## 短语
-- "Set something aside" 意为把某物放在一边，留待以后使用或处理。
-- "Aside from" 表示除了...之外。例如: "Aside from the noise, the hotel was quite pleasant."
+- "[Set](/post/set/) [something](/post/something/) [aside](/post/aside/)" 意为把某物放在一边，留待以后使用或处理。
+- "[Aside](/post/aside/) [from](/post/from/)" 表示除了...之外。例如: "[Aside](/post/aside/) [from](/post/from/) [the](/post/the/) [noise](/post/noise/), [the](/post/the/) [hotel](/post/hotel/) was [quite](/post/quite/) [pleasant](/post/pleasant/)."
 
 ## 例句
-- 介词: "The book is placed aside the bed for bedtime reading."
-- 副词: "We need to put our differences aside and work together."
+- 介词: "[The](/post/the/) [book](/post/book/) is placed [aside](/post/aside/) [the](/post/the/) [bed](/post/bed/) [for](/post/for/) bedtime [reading](/post/reading/)."
+- 副词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [put](/post/put/) [our](/post/our/) differences [aside](/post/aside/) [and](/post/and/) [work](/post/work/) [together](/post/together/)."
 
 ## 同义词
-- Next to
-- Beside
+- [Next](/post/next/) [to](/post/to/)
+- [Beside](/post/beside/)
 - Alongside
-- In addition to
-- Apart from
+- [In](/post/in/) [addition](/post/addition/) [to](/post/to/)
+- [Apart](/post/apart/) [from](/post/from/)

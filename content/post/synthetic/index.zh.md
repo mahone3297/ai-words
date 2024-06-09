@@ -11,19 +11,19 @@ keywords = ['ai words', 'synthetic']
 /sɪnθətɪk/
 
 ## 释义
-- **形容词**: 人造的，非自然的；合成的。例如: "This fabric is synthetic, not made from natural fibers."
-- **名词**: 合成物，合成材料。例如: "The synthetic rubber used in car tires has excellent durability."
+- **形容词**: 人造的，非自然的；合成的。例如: "[This](/post/this/) [fabric](/post/fabric/) is [synthetic](/post/synthetic/), [not](/post/not/) made [from](/post/from/) [natural](/post/natural/) fibers."
+- **名词**: 合成物，合成材料。例如: "[The](/post/the/) [synthetic](/post/synthetic/) [rubber](/post/rubber/) [used](/post/used/) [in](/post/in/) [car](/post/car/) tires has [excellent](/post/excellent/) durability."
 
 ## 短语
-- "synthetic fiber" 人造纤维，指由化学方法制成的纤维。
-- "synthetic oil" 合成机油，用于汽车引擎的一种高性能润滑剂。
+- "[synthetic](/post/synthetic/) fiber" 人造纤维，指由化学方法制成的纤维。
+- "[synthetic](/post/synthetic/) [oil](/post/oil/)" 合成机油，用于汽车引擎的一种高性能润滑剂。
 
 ## 例句
-- 形容词: "The new running shoes have a lightweight and breathable synthetic upper."
-- 名词: "The lab is researching new types of synthetic polymers for use in medical applications."
+- 形容词: "[The](/post/the/) [new](/post/new/) running shoes [have](/post/have/) [a](/post/a/) lightweight [and](/post/and/) breathable [synthetic](/post/synthetic/) [upper](/post/upper/)."
+- 名词: "[The](/post/the/) [lab](/post/lab/) is researching [new](/post/new/) types [of](/post/of/) [synthetic](/post/synthetic/) polymers [for](/post/for/) [use](/post/use/) [in](/post/in/) [medical](/post/medical/) applications."
 
 ## 同义词
-- Artificial
+- [Artificial](/post/artificial/)
 - Man-made
 - Fabricated
 - Engineered

@@ -7,32 +7,32 @@ description = '[ˈpredʒudis] n.偏见，成见'
 keywords = ['ai words', 'prejudice']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /preˈdʒeɪ.əns/
 
 ## Definitions
-### Noun
-1. **Prejudice** (noun): An unfair or unreasonable opinion or feeling, especially one that is based on stereotypes or preconceived ideas, often leading to discrimination or bias against a particular group.
-   - Definition (formal): An adverse judgment or opinion formed beforehand, without proper grounds.
-   - Definition (informal): A preconceived idea or bias that affects one's thinking or actions.
+### [Noun](/en/post/noun/)
+1. **[Prejudice](/en/post/prejudice/)** ([noun](/en/post/noun/)): An [unfair](/en/post/unfair/) [or](/en/post/or/) unreasonable [opinion](/en/post/opinion/) [or](/en/post/or/) [feeling](/en/post/feeling/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is based [on](/en/post/on/) stereotypes [or](/en/post/or/) preconceived ideas, [often](/en/post/often/) [leading](/en/post/leading/) [to](/en/post/to/) discrimination [or](/en/post/or/) bias [against](/en/post/against/) [a](/en/post/a/) [particular](/en/post/particular/) [group](/en/post/group/).
+   - [Definition](/en/post/definition/) ([formal](/en/post/formal/)): An adverse judgment [or](/en/post/or/) [opinion](/en/post/opinion/) formed beforehand, [without](/en/post/without/) [proper](/en/post/proper/) grounds.
+   - [Definition](/en/post/definition/) (informal): [A](/en/post/a/) preconceived [idea](/en/post/idea/) [or](/en/post/or/) bias [that](/en/post/that/) affects one's thinking [or](/en/post/or/) actions.
 
-### Verb
-1. **Prejudge** (verb): To form an opinion or make a decision about something or someone before having all the facts or without proper consideration.
-   - Example: "People shouldn't prejudge a book by its cover."
+### [Verb](/en/post/verb/)
+1. **Prejudge** ([verb](/en/post/verb/)): [To](/en/post/to/) [form](/en/post/form/) an [opinion](/en/post/opinion/) [or](/en/post/or/) [make](/en/post/make/) [a](/en/post/a/) [decision](/en/post/decision/) [about](/en/post/about/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [before](/en/post/before/) having [all](/en/post/all/) [the](/en/post/the/) facts [or](/en/post/or/) [without](/en/post/without/) [proper](/en/post/proper/) [consideration](/en/post/consideration/).
+   - [Example](/en/post/example/): "[People](/en/post/people/) shouldn't prejudge [a](/en/post/a/) [book](/en/post/book/) [by](/en/post/by/) [its](/en/post/its/) [cover](/en/post/cover/)."
 
-### Adjective
-1. **Prejudiced** (adjective): Having or showing an unfair or one-sided opinion or attitude.
-   - Example: "Her remarks were clearly prejudiced against people from different backgrounds."
+### [Adjective](/en/post/adjective/)
+1. **Prejudiced** ([adjective](/en/post/adjective/)): Having [or](/en/post/or/) showing an [unfair](/en/post/unfair/) [or](/en/post/or/) one-sided [opinion](/en/post/opinion/) [or](/en/post/or/) [attitude](/en/post/attitude/).
+   - [Example](/en/post/example/): "[Her](/en/post/her/) remarks were [clearly](/en/post/clearly/) prejudiced [against](/en/post/against/) [people](/en/post/people/) [from](/en/post/from/) [different](/en/post/different/) backgrounds."
 
 ## Phrases
-- "Lack of prejudice" implies fairness and objectivity.
-- "Unconscious prejudice" refers to biases that people may not be aware of.
-- "Overcoming prejudice" is the act of overcoming one's biases.
+- "[Lack](/en/post/lack/) [of](/en/post/of/) [prejudice](/en/post/prejudice/)" implies fairness [and](/en/post/and/) objectivity.
+- "[Unconscious](/en/post/unconscious/) [prejudice](/en/post/prejudice/)" refers [to](/en/post/to/) biases [that](/en/post/that/) [people](/en/post/people/) [may](/en/post/may/) [not](/en/post/not/) [be](/en/post/be/) [aware](/en/post/aware/) [of](/en/post/of/).
+- "Overcoming [prejudice](/en/post/prejudice/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) overcoming one's biases.
 
-## Example Sentences
-- **Noun**: "She was surprised by how little prejudice people held against her despite her unusual appearance."
-- **Verb**: "It's important not to prejudge someone based on their past mistakes."
-- **Adjective**: "The company strives to create a prejudice-free workplace."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was surprised [by](/en/post/by/) [how](/en/post/how/) [little](/en/post/little/) [prejudice](/en/post/prejudice/) [people](/en/post/people/) held [against](/en/post/against/) [her](/en/post/her/) [despite](/en/post/despite/) [her](/en/post/her/) [unusual](/en/post/unusual/) [appearance](/en/post/appearance/)."
+- **[Verb](/en/post/verb/)**: "It's [important](/en/post/important/) [not](/en/post/not/) [to](/en/post/to/) prejudge [someone](/en/post/someone/) based [on](/en/post/on/) [their](/en/post/their/) [past](/en/post/past/) mistakes."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [company](/en/post/company/) strives [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) prejudice-free workplace."
 
 ## Synonyms
 - Bias
@@ -44,7 +44,7 @@ keywords = ['ai words', 'prejudice']
 - Prejudiced views
 
 ## Antonyms
-- Objective
+- [Objective](/en/post/objective/)
 - Fair-minded
 - Unprejudiced
 - unbiased

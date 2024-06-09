@@ -11,22 +11,22 @@ keywords = ['ai words', 'pilot']
 /ˈpaɪlət/
 
 ## 释义
-- **名词 (n)**: 飞行员；驾驶飞机的人。例如: "The pilot landed the plane safely in bad weather."
-- **名词**: 指导者，领航员。例如: "The mountain climbing team had an experienced pilot to guide them."
-- **名词**: (电视或广播的)试播节目。例如: "The network is airing a pilot for a new sitcom next week."
-- **动词 (v)**: 驾驶(飞机、船只等)。例如: "He was trained to pilot fighter jets."
+- **名词 (n)**: 飞行员；驾驶飞机的人。例如: "[The](/post/the/) [pilot](/post/pilot/) landed [the](/post/the/) [plane](/post/plane/) [safely](/post/safely/) [in](/post/in/) [bad](/post/bad/) [weather](/post/weather/)."
+- **名词**: 指导者，领航员。例如: "[The](/post/the/) [mountain](/post/mountain/) climbing [team](/post/team/) had an experienced [pilot](/post/pilot/) [to](/post/to/) [guide](/post/guide/) [them](/post/them/)."
+- **名词**: (电视或广播的)试播节目。例如: "[The](/post/the/) [network](/post/network/) is airing [a](/post/a/) [pilot](/post/pilot/) [for](/post/for/) [a](/post/a/) [new](/post/new/) sitcom [next](/post/next/) [week](/post/week/)."
+- **动词 (v)**: 驾驶(飞机、船只等)。例如: "[He](/post/he/) was trained [to](/post/to/) [pilot](/post/pilot/) fighter jets."
 
 ## 短语
-- "pilot project" 指的是试验性的项目或计划。
-- "TV pilot" 是指电视节目的试播集。
+- "[pilot](/post/pilot/) [project](/post/project/)" 指的是试验性的项目或计划。
+- "TV [pilot](/post/pilot/)" 是指电视节目的试播集。
 
 ## 例句
-- 名词: "The pilot communicated with air traffic control before taking off."
-- 动词: "She was chosen to pilot the new spacecraft on its maiden voyage."
+- 名词: "[The](/post/the/) [pilot](/post/pilot/) communicated [with](/post/with/) [air](/post/air/) [traffic](/post/traffic/) [control](/post/control/) [before](/post/before/) taking [off](/post/off/)."
+- 动词: "[She](/post/she/) was chosen [to](/post/to/) [pilot](/post/pilot/) [the](/post/the/) [new](/post/new/) [spacecraft](/post/spacecraft/) [on](/post/on/) [its](/post/its/) maiden [voyage](/post/voyage/)."
 
 ## 同义词
 - Aviator
-- Captain
+- [Captain](/post/captain/)
 - Skipper
-- Guide
-- Commander
+- [Guide](/post/guide/)
+- [Commander](/post/commander/)

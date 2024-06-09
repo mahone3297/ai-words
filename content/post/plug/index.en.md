@@ -7,40 +7,40 @@ description = '[plʌg] n.塞子；插头 vt.塞'
 keywords = ['ai words', 'plug']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /plʌɡ/
 
 ## Definitions
-### Noun
-- A device with one or more prongs or sockets designed to be inserted into a socket or outlet for connecting an electrical appliance or device to a power source.
-- (informal) An advertisement or public promotion, especially a paid one, for a product or service.
-- A person who promotes or supports something enthusiastically.
-- (US, informal) A protruding part of a hole or container that prevents something from fitting properly.
+### [Noun](/en/post/noun/)
+- [A](/en/post/a/) [device](/en/post/device/) [with](/en/post/with/) [one](/en/post/one/) [or](/en/post/or/) [more](/en/post/more/) prongs [or](/en/post/or/) sockets designed [to](/en/post/to/) [be](/en/post/be/) inserted [into](/en/post/into/) [a](/en/post/a/) socket [or](/en/post/or/) [outlet](/en/post/outlet/) [for](/en/post/for/) connecting an [electrical](/en/post/electrical/) [appliance](/en/post/appliance/) [or](/en/post/or/) [device](/en/post/device/) [to](/en/post/to/) [a](/en/post/a/) [power](/en/post/power/) [source](/en/post/source/).
+- (informal) An [advertisement](/en/post/advertisement/) [or](/en/post/or/) [public](/en/post/public/) promotion, [especially](/en/post/especially/) [a](/en/post/a/) paid [one](/en/post/one/), [for](/en/post/for/) [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/).
+- [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) promotes [or](/en/post/or/) supports [something](/en/post/something/) enthusiastically.
+- ([US](/en/post/us/), informal) [A](/en/post/a/) protruding [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [hole](/en/post/hole/) [or](/en/post/or/) [container](/en/post/container/) [that](/en/post/that/) prevents [something](/en/post/something/) [from](/en/post/from/) fitting [properly](/en/post/properly/).
 
-### Verb
-- To connect (an electrical appliance) to a power source using a plug.
-- To endorse or recommend a product or service through advertising or by word of mouth.
-- To make a concerted effort to promote or support something.
+### [Verb](/en/post/verb/)
+- [To](/en/post/to/) [connect](/en/post/connect/) (an [electrical](/en/post/electrical/) [appliance](/en/post/appliance/)) [to](/en/post/to/) [a](/en/post/a/) [power](/en/post/power/) [source](/en/post/source/) using [a](/en/post/a/) [plug](/en/post/plug/).
+- [To](/en/post/to/) endorse [or](/en/post/or/) [recommend](/en/post/recommend/) [a](/en/post/a/) [product](/en/post/product/) [or](/en/post/or/) [service](/en/post/service/) [through](/en/post/through/) advertising [or](/en/post/or/) [by](/en/post/by/) [word](/en/post/word/) [of](/en/post/of/) [mouth](/en/post/mouth/).
+- [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) concerted [effort](/en/post/effort/) [to](/en/post/to/) [promote](/en/post/promote/) [or](/en/post/or/) [support](/en/post/support/) [something](/en/post/something/).
 
-### Adjective
-- Designed to be inserted into a socket or outlet.
-- Intended to attract attention or generate interest.
+### [Adjective](/en/post/adjective/)
+- Designed [to](/en/post/to/) [be](/en/post/be/) inserted [into](/en/post/into/) [a](/en/post/a/) socket [or](/en/post/or/) [outlet](/en/post/outlet/).
+- Intended [to](/en/post/to/) [attract](/en/post/attract/) [attention](/en/post/attention/) [or](/en/post/or/) [generate](/en/post/generate/) [interest](/en/post/interest/).
 
 ## Phrases
-- "Plug in" or "plug something in" refers to connecting an appliance to a power source.
-- "Plug for" or "a plug about" denotes an advertisement or endorsement.
-- "Sell like a plug" means to be very persuasive or effective in promoting something.
+- "[Plug](/en/post/plug/) [in](/en/post/in/)" [or](/en/post/or/) "[plug](/en/post/plug/) [something](/en/post/something/) [in](/en/post/in/)" refers [to](/en/post/to/) connecting an [appliance](/en/post/appliance/) [to](/en/post/to/) [a](/en/post/a/) [power](/en/post/power/) [source](/en/post/source/).
+- "[Plug](/en/post/plug/) [for](/en/post/for/)" [or](/en/post/or/) "[a](/en/post/a/) [plug](/en/post/plug/) [about](/en/post/about/)" denotes an [advertisement](/en/post/advertisement/) [or](/en/post/or/) endorsement.
+- "[Sell](/en/post/sell/) [like](/en/post/like/) [a](/en/post/a/) [plug](/en/post/plug/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [very](/en/post/very/) persuasive [or](/en/post/or/) [effective](/en/post/effective/) [in](/en/post/in/) promoting [something](/en/post/something/).
 
-## Example Sentences
-- **Noun**: "I need to find a flathead screwdriver to unplug the old lamp."
-- **Verb**: "The company hired a celebrity to plug their new smartphone during the commercial break."
-- **Adjective**: "The promotional plug for the concert sold out all tickets within hours."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "I [need](/en/post/need/) [to](/en/post/to/) [find](/en/post/find/) [a](/en/post/a/) flathead screwdriver [to](/en/post/to/) unplug [the](/en/post/the/) [old](/en/post/old/) [lamp](/en/post/lamp/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [company](/en/post/company/) hired [a](/en/post/a/) celebrity [to](/en/post/to/) [plug](/en/post/plug/) [their](/en/post/their/) [new](/en/post/new/) smartphone [during](/en/post/during/) [the](/en/post/the/) [commercial](/en/post/commercial/) [break](/en/post/break/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) promotional [plug](/en/post/plug/) [for](/en/post/for/) [the](/en/post/the/) [concert](/en/post/concert/) sold [out](/en/post/out/) [all](/en/post/all/) tickets [within](/en/post/within/) hours."
 
 ## Synonyms
 - Adapter
 - Connector
-- Promotional material
+- Promotional [material](/en/post/material/)
 - Endorsement
 - Pusher (informal)
 - Advocate
-- Pitcher (in sales)
+- Pitcher ([in](/en/post/in/) sales)

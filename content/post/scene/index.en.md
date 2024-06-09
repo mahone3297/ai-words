@@ -7,34 +7,34 @@ description = '[siːn] n.发生地点；道具'
 keywords = ['ai words', 'scene']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /siːn/
 
 ## Definitions
-### Noun
-1. A particular part or aspect of a situation or event, often with a specific location or setting: *The movie's opening scene shows the protagonist arriving in a bustling city.*
-2. The visual representation of a place, event, or action in a work of art, literature, or film: *The painting captured the peaceful scene of a countryside.* 
-3. A short episode or sequence within a play, movie, or television show: *The dramatic scene between the two characters was highly anticipated.*
+### [Noun](/en/post/noun/)
+1. [A](/en/post/a/) [particular](/en/post/particular/) [part](/en/post/part/) [or](/en/post/or/) [aspect](/en/post/aspect/) [of](/en/post/of/) [a](/en/post/a/) [situation](/en/post/situation/) [or](/en/post/or/) [event](/en/post/event/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [specific](/en/post/specific/) [location](/en/post/location/) [or](/en/post/or/) [setting](/en/post/setting/): *[The](/en/post/the/) movie's [opening](/en/post/opening/) [scene](/en/post/scene/) shows [the](/en/post/the/) protagonist arriving [in](/en/post/in/) [a](/en/post/a/) bustling [city](/en/post/city/).*
+2. [The](/en/post/the/) [visual](/en/post/visual/) representation [of](/en/post/of/) [a](/en/post/a/) [place](/en/post/place/), [event](/en/post/event/), [or](/en/post/or/) [action](/en/post/action/) [in](/en/post/in/) [a](/en/post/a/) [work](/en/post/work/) [of](/en/post/of/) [art](/en/post/art/), [literature](/en/post/literature/), [or](/en/post/or/) [film](/en/post/film/): *[The](/en/post/the/) [painting](/en/post/painting/) captured [the](/en/post/the/) [peaceful](/en/post/peaceful/) [scene](/en/post/scene/) [of](/en/post/of/) [a](/en/post/a/) [countryside](/en/post/countryside/).* 
+3. [A](/en/post/a/) [short](/en/post/short/) episode [or](/en/post/or/) [sequence](/en/post/sequence/) [within](/en/post/within/) [a](/en/post/a/) [play](/en/post/play/), [movie](/en/post/movie/), [or](/en/post/or/) [television](/en/post/television/) [show](/en/post/show/): *[The](/en/post/the/) [dramatic](/en/post/dramatic/) [scene](/en/post/scene/) [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) characters was [highly](/en/post/highly/) anticipated.*
 
-### Verb
-1. To depict or portray a scene in a work of art or literature: *The artist skillfully scene the stormy night in his painting.*
-2. To set the stage or establish the atmosphere for a particular event or situation: *The director wanted to scene the audience for the emotional climax of the play.*
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) depict [or](/en/post/or/) portray [a](/en/post/a/) [scene](/en/post/scene/) [in](/en/post/in/) [a](/en/post/a/) [work](/en/post/work/) [of](/en/post/of/) [art](/en/post/art/) [or](/en/post/or/) [literature](/en/post/literature/): *[The](/en/post/the/) [artist](/en/post/artist/) skillfully [scene](/en/post/scene/) [the](/en/post/the/) [stormy](/en/post/stormy/) [night](/en/post/night/) [in](/en/post/in/) [his](/en/post/his/) [painting](/en/post/painting/).*
+2. [To](/en/post/to/) [set](/en/post/set/) [the](/en/post/the/) [stage](/en/post/stage/) [or](/en/post/or/) [establish](/en/post/establish/) [the](/en/post/the/) [atmosphere](/en/post/atmosphere/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [event](/en/post/event/) [or](/en/post/or/) [situation](/en/post/situation/): *[The](/en/post/the/) [director](/en/post/director/) wanted [to](/en/post/to/) [scene](/en/post/scene/) [the](/en/post/the/) [audience](/en/post/audience/) [for](/en/post/for/) [the](/en/post/the/) [emotional](/en/post/emotional/) climax [of](/en/post/of/) [the](/en/post/the/) [play](/en/post/play/).*
 
 ## Phrases
-- "Set the scene" means to create or prepare the environment for something.
-- "Scene stealer" refers to someone who attracts a lot of attention in a particular scene.
-- "A still life scene" is a depiction of objects arranged in a composition, typically in a painting.
+- "[Set](/en/post/set/) [the](/en/post/the/) [scene](/en/post/scene/)" [means](/en/post/means/) [to](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [prepare](/en/post/prepare/) [the](/en/post/the/) [environment](/en/post/environment/) [for](/en/post/for/) [something](/en/post/something/).
+- "[Scene](/en/post/scene/) stealer" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) attracts [a](/en/post/a/) [lot](/en/post/lot/) [of](/en/post/of/) [attention](/en/post/attention/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [scene](/en/post/scene/).
+- "[A](/en/post/a/) [still](/en/post/still/) [life](/en/post/life/) [scene](/en/post/scene/)" is [a](/en/post/a/) depiction [of](/en/post/of/) objects arranged [in](/en/post/in/) [a](/en/post/a/) [composition](/en/post/composition/), typically [in](/en/post/in/) [a](/en/post/a/) [painting](/en/post/painting/).
 
-## Example Sentences
-- **Noun**: "The children were playing in the park, creating their own little scene of joy."
-- **Verb**: "The author skillfully scene the aftermath of the explosion in her novel."
-- **Verb (transitive)**: "She wanted to scene the crime scene for the detectives."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were playing [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/), creating [their](/en/post/their/) [own](/en/post/own/) [little](/en/post/little/) [scene](/en/post/scene/) [of](/en/post/of/) [joy](/en/post/joy/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [author](/en/post/author/) skillfully [scene](/en/post/scene/) [the](/en/post/the/) aftermath [of](/en/post/of/) [the](/en/post/the/) [explosion](/en/post/explosion/) [in](/en/post/in/) [her](/en/post/her/) [novel](/en/post/novel/)."
+- **[Verb](/en/post/verb/) (transitive)**: "[She](/en/post/she/) wanted [to](/en/post/to/) [scene](/en/post/scene/) [the](/en/post/the/) [crime](/en/post/crime/) [scene](/en/post/scene/) [for](/en/post/for/) [the](/en/post/the/) detectives."
 
 ## Synonyms
-- View
-- Scenery
-- Layout
-- Display
+- [View](/en/post/view/)
+- [Scenery](/en/post/scenery/)
+- [Layout](/en/post/layout/)
+- [Display](/en/post/display/)
 - Representation
-- Stage
-- Layout (as in arranging elements)
+- [Stage](/en/post/stage/)
+- [Layout](/en/post/layout/) ([as](/en/post/as/) [in](/en/post/in/) arranging elements)

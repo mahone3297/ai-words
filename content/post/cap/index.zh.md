@@ -21,23 +21,23 @@ keywords = ['ai words', 'cap']
   - 控制；限制：在某些上下文中，意味着控制或限制事物的发展或增长。
 
 ## 短语
-- "cap off" 结束；完成：圆满地结束一个时期或事件。
-- "cap the limit" 达到上限：达到允许的最大值或限制。
-- "cap one's hand"（俚语）打败某人：在竞争或辩论中胜过对方。
+- "[cap](/post/cap/) [off](/post/off/)" 结束；完成：圆满地结束一个时期或事件。
+- "[cap](/post/cap/) [the](/post/the/) [limit](/post/limit/)" 达到上限：达到允许的最大值或限制。
+- "[cap](/post/cap/) one's [hand](/post/hand/)"（俚语）打败某人：在竞争或辩论中胜过对方。
 
 ## 例句
-- 名词: "He wore a tweed cap to keep his head warm."
-- 动词: "The team captain capped his arm with the team emblem."
-- 感叹词（非标准用法，但在某些地区口语中使用）: "Cap off the night with a goodnight song."
+- 名词: "[He](/post/he/) wore [a](/post/a/) tweed [cap](/post/cap/) [to](/post/to/) [keep](/post/keep/) [his](/post/his/) [head](/post/head/) [warm](/post/warm/)."
+- 动词: "[The](/post/the/) [team](/post/team/) [captain](/post/captain/) capped [his](/post/his/) [arm](/post/arm/) [with](/post/with/) [the](/post/the/) [team](/post/team/) emblem."
+- 感叹词（非标准用法，但在某些地区口语中使用）: "[Cap](/post/cap/) [off](/post/off/) [the](/post/the/) [night](/post/night/) [with](/post/with/) [a](/post/a/) goodnight [song](/post/song/)."
 
 ## 同义词
 - **名词**:
-  - hat
+  - [hat](/post/hat/)
   - derby
   - beret
-  - lid
+  - [lid](/post/lid/)
 
 - **动词**:
-  - top
-  - limit
-  - cover
+  - [top](/post/top/)
+  - [limit](/post/limit/)
+  - [cover](/post/cover/)

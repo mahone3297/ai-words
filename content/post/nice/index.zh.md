@@ -11,20 +11,20 @@ keywords = ['ai words', 'nice']
 /nais/
 
 ## 释义
-- **形容词**: 好的，令人愉快的，友善的。例如: "She has a nice personality."
-- **副词**: 漂亮地，恰当地。例如: "He played the piano nicely."
+- **形容词**: 好的，令人愉快的，友善的。例如: "[She](/post/she/) has [a](/post/a/) [nice](/post/nice/) personality."
+- **副词**: 漂亮地，恰当地。例如: "[He](/post/he/) played [the](/post/the/) [piano](/post/piano/) nicely."
 
 ## 短语
-- "Nice to meet you" 用于初次见面时的问候。
-- "Have a nice day" 是一种常见的告别语或祝福语。
+- "[Nice](/post/nice/) [to](/post/to/) [meet](/post/meet/) [you](/post/you/)" 用于初次见面时的问候。
+- "[Have](/post/have/) [a](/post/a/) [nice](/post/nice/) [day](/post/day/)" 是一种常见的告别语或祝福语。
 
 ## 例句
-- 形容词: "The weather is nice today, let's go for a walk."
-- 副词: "She sang the song nicely, impressing the audience."
+- 形容词: "[The](/post/the/) [weather](/post/weather/) is [nice](/post/nice/) [today](/post/today/), let's [go](/post/go/) [for](/post/for/) [a](/post/a/) [walk](/post/walk/)."
+- 副词: "[She](/post/she/) sang [the](/post/the/) [song](/post/song/) nicely, impressing [the](/post/the/) [audience](/post/audience/)."
 
 ## 同义词
-- Pleasant
-- Friendly
-- Kind
+- [Pleasant](/post/pleasant/)
+- [Friendly](/post/friendly/)
+- [Kind](/post/kind/)
 - Agreeable
 - Amiable

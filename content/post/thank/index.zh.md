@@ -11,21 +11,21 @@ keywords = ['ai words', 'thank']
 /θæŋk/
 
 ## 释义
-- **动词**: 表达感激之情；感谢。例如: "I thanked her for her help."
-- **名词**: 表达感谢的行为或言语。例如: "He sent a thank-you note for the gift."
+- **动词**: 表达感激之情；感谢。例如: "I thanked [her](/post/her/) [for](/post/for/) [her](/post/her/) [help](/post/help/)."
+- **名词**: 表达感谢的行为或言语。例如: "[He](/post/he/) sent [a](/post/a/) thank-you [note](/post/note/) [for](/post/for/) [the](/post/the/) [gift](/post/gift/)."
 
 ## 短语
-- "Thank you" 是最常见的表达感谢的方式。
-- "Many thanks" 或 "Thanks a lot" 表示深深的感激。
-- "Thank goodness" 用来表达对某种情况的庆幸或感激。
+- "[Thank](/post/thank/) [you](/post/you/)" 是最常见的表达感谢的方式。
+- "[Many](/post/many/) thanks" 或 "Thanks [a](/post/a/) [lot](/post/lot/)" 表示深深的感激。
+- "[Thank](/post/thank/) [goodness](/post/goodness/)" 用来表达对某种情况的庆幸或感激。
 
 ## 例句
-- 动词: "After the concert, he thanked the audience for their support."
-- 名词: "She received several thank-you cards for organizing the event."
+- 动词: "[After](/post/after/) [the](/post/the/) [concert](/post/concert/), [he](/post/he/) thanked [the](/post/the/) [audience](/post/audience/) [for](/post/for/) [their](/post/their/) [support](/post/support/)."
+- 名词: "[She](/post/she/) received [several](/post/several/) thank-you cards [for](/post/for/) organizing [the](/post/the/) [event](/post/event/)."
 
 ## 同义词
-- Appreciate
-- Express gratitude
+- [Appreciate](/post/appreciate/)
+- [Express](/post/express/) [gratitude](/post/gratitude/)
 - Acknowledge
-- Give thanks
-- Be grateful for
+- [Give](/post/give/) thanks
+- [Be](/post/be/) [grateful](/post/grateful/) [for](/post/for/)

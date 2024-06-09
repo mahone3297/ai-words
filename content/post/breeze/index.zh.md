@@ -11,21 +11,21 @@ keywords = ['ai words', 'breeze']
 /briːz/
 
 ## 释义
-- **名词**: 轻微的风；微风。例如: "A gentle breeze blew through the open window."
-- **动词**: 形容轻松、毫不费力地完成。例如: "She breezed through the exam."
+- **名词**: 轻微的风；微风。例如: "[A](/post/a/) [gentle](/post/gentle/) [breeze](/post/breeze/) blew [through](/post/through/) [the](/post/the/) [open](/post/open/) [window](/post/window/)."
+- **动词**: 形容轻松、毫不费力地完成。例如: "[She](/post/she/) breezed [through](/post/through/) [the](/post/the/) [exam](/post/exam/)."
 
 ## 短语
-- "catch a breeze" 意为感受到微风。
-- "in the breeze" 指在风中或随风飘动。
-- "make light work of something" 意为轻而易举地完成某事，与"breeze"动词用法相关。
+- "[catch](/post/catch/) [a](/post/a/) [breeze](/post/breeze/)" 意为感受到微风。
+- "[in](/post/in/) [the](/post/the/) [breeze](/post/breeze/)" 指在风中或随风飘动。
+- "[make](/post/make/) [light](/post/light/) [work](/post/work/) [of](/post/of/) [something](/post/something/)" 意为轻而易举地完成某事，与"[breeze](/post/breeze/)"动词用法相关。
 
 ## 例句
-- 名词: "The cool breeze made our picnic more enjoyable."
-- 动词: "She breezed through her presentation, answering all questions effortlessly."
+- 名词: "[The](/post/the/) [cool](/post/cool/) [breeze](/post/breeze/) made [our](/post/our/) [picnic](/post/picnic/) [more](/post/more/) enjoyable."
+- 动词: "[She](/post/she/) breezed [through](/post/through/) [her](/post/her/) presentation, answering [all](/post/all/) questions effortlessly."
 
 ## 同义词
-- Wind
+- [Wind](/post/wind/)
 - Zephyr
 - Gust
 - Waft
-- Air current
+- [Air](/post/air/) [current](/post/current/)

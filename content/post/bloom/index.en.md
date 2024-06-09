@@ -7,33 +7,33 @@ description = '[bluːm] n.花；开花，开花期'
 keywords = ['ai words', 'bloom']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /bluːm/
 
 ## Definitions
-### Noun
-1. A flower in full bloom, especially one that is attractive or vibrant. For example: "The garden was filled with colorful blooms this spring."
-2. The state or period when something develops or flourishes, often used metaphorically. For example: "Her career really began to bloom after she received the award."
-3. (Informal) A feeling of happiness or excitement. For example: "After winning the lottery, she was on cloud nine, her face blooming with joy."
+### [Noun](/en/post/noun/)
+1. [A](/en/post/a/) [flower](/en/post/flower/) [in](/en/post/in/) [full](/en/post/full/) [bloom](/en/post/bloom/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) is [attractive](/en/post/attractive/) [or](/en/post/or/) vibrant. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [garden](/en/post/garden/) was filled [with](/en/post/with/) colorful blooms [this](/en/post/this/) [spring](/en/post/spring/)."
+2. [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [period](/en/post/period/) [when](/en/post/when/) [something](/en/post/something/) develops [or](/en/post/or/) flourishes, [often](/en/post/often/) [used](/en/post/used/) metaphorically. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [career](/en/post/career/) [really](/en/post/really/) began [to](/en/post/to/) [bloom](/en/post/bloom/) [after](/en/post/after/) [she](/en/post/she/) received [the](/en/post/the/) [award](/en/post/award/)."
+3. (Informal) [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) [happiness](/en/post/happiness/) [or](/en/post/or/) excitement. [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) winning [the](/en/post/the/) lottery, [she](/en/post/she/) was [on](/en/post/on/) [cloud](/en/post/cloud/) [nine](/en/post/nine/), [her](/en/post/her/) [face](/en/post/face/) blooming [with](/en/post/with/) [joy](/en/post/joy/)."
 
-### Verb
-1. To come into full growth or development, as a plant. For example: "The plants have begun to bloom after a few weeks of rain."
-2. (Informal) To improve or progress in a positive way. For example: "With practice, her skills began to bloom."
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [come](/en/post/come/) [into](/en/post/into/) [full](/en/post/full/) [growth](/en/post/growth/) [or](/en/post/or/) [development](/en/post/development/), [as](/en/post/as/) [a](/en/post/a/) [plant](/en/post/plant/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) plants [have](/en/post/have/) begun [to](/en/post/to/) [bloom](/en/post/bloom/) [after](/en/post/after/) [a](/en/post/a/) [few](/en/post/few/) weeks [of](/en/post/of/) [rain](/en/post/rain/)."
+2. (Informal) [To](/en/post/to/) [improve](/en/post/improve/) [or](/en/post/or/) [progress](/en/post/progress/) [in](/en/post/in/) [a](/en/post/a/) [positive](/en/post/positive/) [way](/en/post/way/). [For](/en/post/for/) [example](/en/post/example/): "[With](/en/post/with/) [practice](/en/post/practice/), [her](/en/post/her/) skills began [to](/en/post/to/) [bloom](/en/post/bloom/)."
 
 ## Phrases
-- "Bloom into something" means to develop or mature into a better state.
-- "A flower's bloom" refers to its stage of fullness.
-- "Bloom out" can be used to describe something becoming increasingly popular or successful.
+- "[Bloom](/en/post/bloom/) [into](/en/post/into/) [something](/en/post/something/)" [means](/en/post/means/) [to](/en/post/to/) [develop](/en/post/develop/) [or](/en/post/or/) [mature](/en/post/mature/) [into](/en/post/into/) [a](/en/post/a/) [better](/en/post/better/) [state](/en/post/state/).
+- "[A](/en/post/a/) flower's [bloom](/en/post/bloom/)" refers [to](/en/post/to/) [its](/en/post/its/) [stage](/en/post/stage/) [of](/en/post/of/) fullness.
+- "[Bloom](/en/post/bloom/) [out](/en/post/out/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [something](/en/post/something/) becoming [increasingly](/en/post/increasingly/) [popular](/en/post/popular/) [or](/en/post/or/) [successful](/en/post/successful/).
 
-## Example Sentences
-- **Noun**: "The cherry blossoms were in full bloom, painting the park a picturesque scene."
-- **Verb**: "After overcoming her fears, she bloomed as a public speaker."
-- **Metaphorical**: "His confidence began to bloom after he won the competition."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [cherry](/en/post/cherry/) blossoms were [in](/en/post/in/) [full](/en/post/full/) [bloom](/en/post/bloom/), [painting](/en/post/painting/) [the](/en/post/the/) [park](/en/post/park/) [a](/en/post/a/) picturesque [scene](/en/post/scene/)."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) overcoming [her](/en/post/her/) fears, [she](/en/post/she/) bloomed [as](/en/post/as/) [a](/en/post/a/) [public](/en/post/public/) [speaker](/en/post/speaker/)."
+- **Metaphorical**: "[His](/en/post/his/) [confidence](/en/post/confidence/) began [to](/en/post/to/) [bloom](/en/post/bloom/) [after](/en/post/after/) [he](/en/post/he/) won [the](/en/post/the/) [competition](/en/post/competition/)."
 
 ## Synonyms
-- Blossom
-- Flourish
-- Thrive
-- Develop
+- [Blossom](/en/post/blossom/)
+- [Flourish](/en/post/flourish/)
+- [Thrive](/en/post/thrive/)
+- [Develop](/en/post/develop/)
 - Prosper
-- Come into full force
+- [Come](/en/post/come/) [into](/en/post/into/) [full](/en/post/full/) [force](/en/post/force/)

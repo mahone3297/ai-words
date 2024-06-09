@@ -11,21 +11,21 @@ keywords = ['ai words', 'pleasant']
 /ˈpleznt/
 
 ## 释义
-- **形容词**: 愉快的，令人愉悦的。例如: "The weather was pleasantly warm for an autumn day."
-- **副词**: 愉快地，和蔼可亲地。例如: "He greeted us pleasantly."
+- **形容词**: 愉快的，令人愉悦的。例如: "[The](/post/the/) [weather](/post/weather/) was pleasantly [warm](/post/warm/) [for](/post/for/) an [autumn](/post/autumn/) [day](/post/day/)."
+- **副词**: 愉快地，和蔼可亲地。例如: "[He](/post/he/) greeted [us](/post/us/) pleasantly."
 
 ## 短语
-- "pleasant company" 意为愉快的陪伴。
-- "a pleasant surprise" 指的是意想不到的好事或好消息。
-- "pleasant conversation" 指的是轻松愉快的交谈。
+- "[pleasant](/post/pleasant/) [company](/post/company/)" 意为愉快的陪伴。
+- "[a](/post/a/) [pleasant](/post/pleasant/) [surprise](/post/surprise/)" 指的是意想不到的好事或好消息。
+- "[pleasant](/post/pleasant/) [conversation](/post/conversation/)" 指的是轻松愉快的交谈。
 
 ## 例句
-- 形容词: "The park was filled with the pleasant smell of blooming flowers."
-- 副词: "She answered my questions pleasantly, making me feel at ease."
+- 形容词: "[The](/post/the/) [park](/post/park/) was filled [with](/post/with/) [the](/post/the/) [pleasant](/post/pleasant/) [smell](/post/smell/) [of](/post/of/) blooming flowers."
+- 副词: "[She](/post/she/) answered [my](/post/my/) questions pleasantly, making [me](/post/me/) [feel](/post/feel/) [at](/post/at/) [ease](/post/ease/)."
 
 ## 同义词
 - Enjoyable
 - Agreeable
-- Friendly
+- [Friendly](/post/friendly/)
 - Amiable
-- Nice
+- [Nice](/post/nice/)

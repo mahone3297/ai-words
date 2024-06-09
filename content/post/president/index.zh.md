@@ -11,21 +11,21 @@ keywords = ['ai words', 'president']
 /prɪˈzɪdənt/
 
 ## 释义
-- **名词 (n)**: 一个国家、组织或公司的最高领导者。例如: "The president of the United States is the head of the government."
-- **形容词 (adj)**: 与总统职位相关的。例如: "The president's office is on the top floor."
+- **名词 (n)**: 一个国家、组织或公司的最高领导者。例如: "[The](/post/the/) [president](/post/president/) [of](/post/of/) [the](/post/the/) United States is [the](/post/the/) [head](/post/head/) [of](/post/of/) [the](/post/the/) [government](/post/government/)."
+- **形容词 (adj)**: 与总统职位相关的。例如: "[The](/post/the/) president's [office](/post/office/) is [on](/post/on/) [the](/post/the/) [top](/post/top/) [floor](/post/floor/)."
 
 ## 短语
-- "The President of the country" 指国家的总统。
-- "Inauguration of the President" 指总统就职典礼。
-- "Executive Order" 是美国总统发布的行政命令。
+- "[The](/post/the/) [President](/post/president/) [of](/post/of/) [the](/post/the/) [country](/post/country/)" 指国家的总统。
+- "Inauguration [of](/post/of/) [the](/post/the/) [President](/post/president/)" 指总统就职典礼。
+- "[Executive](/post/executive/) [Order](/post/order/)" 是美国总统发布的行政命令。
 
 ## 例句
-- 名词: "Joe Biden was inaugurated as the 46th president of the United States."
-- 形容词: "The president's speech addressed important national issues."
+- 名词: "Joe Biden was inaugurated [as](/post/as/) [the](/post/the/) 46th [president](/post/president/) [of](/post/of/) [the](/post/the/) United States."
+- 形容词: "[The](/post/the/) president's [speech](/post/speech/) addressed [important](/post/important/) [national](/post/national/) issues."
 
 ## 同义词
-- Chief Executive
+- [Chief](/post/chief/) [Executive](/post/executive/)
 - Commander-in-Chief
-- Leader
-- Head of State
-- Director (在某些组织中)
+- [Leader](/post/leader/)
+- [Head](/post/head/) [of](/post/of/) [State](/post/state/)
+- [Director](/post/director/) (在某些组织中)

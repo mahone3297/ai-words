@@ -11,23 +11,23 @@ keywords = ['ai words', 'multiple']
 /mʌltɪpl/
 
 ## 释义
-- **形容词**: 多个的，复数的；几倍的。例如: "This book has multiple copies available." 
-- **名词**: 倍数；倍量。例如: "The number 10 is a multiple of 5."
-- **数词**: 乘数。在数学中，表示一个数的倍数。例如: "2, 4, 6, and 8 are all multiples of 2."
+- **形容词**: 多个的，复数的；几倍的。例如: "[This](/post/this/) [book](/post/book/) has [multiple](/post/multiple/) copies [available](/post/available/)." 
+- **名词**: 倍数；倍量。例如: "[The](/post/the/) [number](/post/number/) 10 is [a](/post/a/) [multiple](/post/multiple/) [of](/post/of/) 5."
+- **数词**: 乘数。在数学中，表示一个数的倍数。例如: "2, 4, 6, [and](/post/and/) 8 are [all](/post/all/) multiples [of](/post/of/) 2."
 
 ## 短语
-- "Multiple choice" 多项选择题。
-- "Multiple factors" 多个因素。
-- "Multiple of a number" 一个数的倍数。
+- "[Multiple](/post/multiple/) [choice](/post/choice/)" 多项选择题。
+- "[Multiple](/post/multiple/) factors" 多个因素。
+- "[Multiple](/post/multiple/) [of](/post/of/) [a](/post/a/) [number](/post/number/)" 一个数的倍数。
 
 ## 例句
-- 形容词: "There are multiple solutions to this problem."
-- 名词: "The product is sold in multiples of ten."
-- 数词: "3 is a multiple of 3 and also a multiple of 9."
+- 形容词: "[There](/post/there/) are [multiple](/post/multiple/) solutions [to](/post/to/) [this](/post/this/) [problem](/post/problem/)."
+- 名词: "[The](/post/the/) [product](/post/product/) is sold [in](/post/in/) multiples [of](/post/of/) [ten](/post/ten/)."
+- 数词: "3 is [a](/post/a/) [multiple](/post/multiple/) [of](/post/of/) 3 [and](/post/and/) [also](/post/also/) [a](/post/a/) [multiple](/post/multiple/) [of](/post/of/) 9."
 
 ## 同义词
-- Several
-- Many
-- Numerous
-- Various
-- Diverse
+- [Several](/post/several/)
+- [Many](/post/many/)
+- [Numerous](/post/numerous/)
+- [Various](/post/various/)
+- [Diverse](/post/diverse/)

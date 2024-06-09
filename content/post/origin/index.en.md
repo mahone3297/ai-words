@@ -7,37 +7,37 @@ description = '[ˈɔridʒin] n.起源，由来；出身'
 keywords = ['ai words', 'origin']
 +++
 
-## Word: Origin
+## [Word](/en/post/word/): [Origin](/en/post/origin/)
 
-### Pronunciation
+### [Pronunciation](/en/post/pronunciation/)
 /ˈôrəjn/
 
 ### Definitions
-- **Noun**: The point or place where something begins, arises, or is derived; the starting point or source. For example: "The origin of the river can be traced back to the mountains."
-  - In mathematics, it refers to the starting point of a coordinate system, usually (0,0).
-  - In genetics, it can mean the ancestral or genetic source of something, such as the origin of a particular trait or species.
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [point](/en/post/point/) [or](/en/post/or/) [place](/en/post/place/) [where](/en/post/where/) [something](/en/post/something/) begins, arises, [or](/en/post/or/) is derived; [the](/en/post/the/) starting [point](/en/post/point/) [or](/en/post/or/) [source](/en/post/source/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [origin](/en/post/origin/) [of](/en/post/of/) [the](/en/post/the/) [river](/en/post/river/) [can](/en/post/can/) [be](/en/post/be/) traced [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) mountains."
+  - [In](/en/post/in/) [mathematics](/en/post/mathematics/), [it](/en/post/it/) refers [to](/en/post/to/) [the](/en/post/the/) starting [point](/en/post/point/) [of](/en/post/of/) [a](/en/post/a/) [coordinate](/en/post/coordinate/) [system](/en/post/system/), [usually](/en/post/usually/) (0,0).
+  - [In](/en/post/in/) genetics, [it](/en/post/it/) [can](/en/post/can/) [mean](/en/post/mean/) [the](/en/post/the/) ancestral [or](/en/post/or/) genetic [source](/en/post/source/) [of](/en/post/of/) [something](/en/post/something/), [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) [origin](/en/post/origin/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) trait [or](/en/post/or/) species.
   
-- **Verb**: (originate) To begin, start, or have its roots in a particular place, time, or situation. For example: "The tradition originated from ancient times."
-  - It can also mean to create or invent something, e.g., "The company originated the concept of online shopping."
+- **[Verb](/en/post/verb/)**: (originate) [To](/en/post/to/) [begin](/en/post/begin/), [start](/en/post/start/), [or](/en/post/or/) [have](/en/post/have/) [its](/en/post/its/) roots [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/), [time](/en/post/time/), [or](/en/post/or/) [situation](/en/post/situation/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [tradition](/en/post/tradition/) originated [from](/en/post/from/) [ancient](/en/post/ancient/) times."
+  - [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) [to](/en/post/to/) [create](/en/post/create/) [or](/en/post/or/) [invent](/en/post/invent/) [something](/en/post/something/), e.g., "[The](/en/post/the/) [company](/en/post/company/) originated [the](/en/post/the/) [concept](/en/post/concept/) [of](/en/post/of/) online [shopping](/en/post/shopping/)."
 
 ### Phrases
-- "Place of origin" refers to the location where something or someone comes from originally.
-- "Origin story" typically refers to the background or beginning narrative of a character, organization, or idea.
-- "Originate from" means to come from or be produced by a specific source.
+- "[Place](/en/post/place/) [of](/en/post/of/) [origin](/en/post/origin/)" refers [to](/en/post/to/) [the](/en/post/the/) [location](/en/post/location/) [where](/en/post/where/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) comes [from](/en/post/from/) originally.
+- "[Origin](/en/post/origin/) [story](/en/post/story/)" typically refers [to](/en/post/to/) [the](/en/post/the/) [background](/en/post/background/) [or](/en/post/or/) [beginning](/en/post/beginning/) narrative [of](/en/post/of/) [a](/en/post/a/) [character](/en/post/character/), [organization](/en/post/organization/), [or](/en/post/or/) [idea](/en/post/idea/).
+- "Originate [from](/en/post/from/)" [means](/en/post/means/) [to](/en/post/to/) [come](/en/post/come/) [from](/en/post/from/) [or](/en/post/or/) [be](/en/post/be/) produced [by](/en/post/by/) [a](/en/post/a/) [specific](/en/post/specific/) [source](/en/post/source/).
 
-### Example Sentences
-- **Noun**: "The origins of this festival date back to the medieval era."
-- **Verb**: "The modern Olympic Games originated in Athens, Greece, in 1896."
+### [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) origins [of](/en/post/of/) [this](/en/post/this/) [festival](/en/post/festival/) [date](/en/post/date/) [back](/en/post/back/) [to](/en/post/to/) [the](/en/post/the/) medieval [era](/en/post/era/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [modern](/en/post/modern/) Olympic Games originated [in](/en/post/in/) Athens, Greece, [in](/en/post/in/) 1896."
 
 ### Synonyms
-- Source
-- Beginning
-- Start
+- [Source](/en/post/source/)
+- [Beginning](/en/post/beginning/)
+- [Start](/en/post/start/)
 - Birthplace
 - Derivation
 - Genesis
-- Foundation
-- Root
-- Background
+- [Foundation](/en/post/foundation/)
+- [Root](/en/post/root/)
+- [Background](/en/post/background/)
 - Ancestry
 - Inception

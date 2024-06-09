@@ -11,20 +11,20 @@ keywords = ['ai words', 'reduction']
 /riːˈdʌkʃən/
 
 ## 释义
-- **名词**: 减少，减小，压缩。例如: "The company announced a reduction in staff due to financial difficulties."
-- **动词**: 减少，降低。例如: "They plan to reduce their carbon emissions by 50% over the next decade."
+- **名词**: 减少，减小，压缩。例如: "[The](/post/the/) [company](/post/company/) announced [a](/post/a/) [reduction](/post/reduction/) [in](/post/in/) [staff](/post/staff/) [due](/post/due/) [to](/post/to/) [financial](/post/financial/) difficulties."
+- **动词**: 减少，降低。例如: "[They](/post/they/) [plan](/post/plan/) [to](/post/to/) [reduce](/post/reduce/) [their](/post/their/) [carbon](/post/carbon/) emissions [by](/post/by/) 50% [over](/post/over/) [the](/post/the/) [next](/post/next/) [decade](/post/decade/)."
 
 ## 短语
-- "cost reduction" 成本削减
-- "size reduction" 缩小尺寸
-- "reduction process" 减少过程
+- "[cost](/post/cost/) [reduction](/post/reduction/)" 成本削减
+- "[size](/post/size/) [reduction](/post/reduction/)" 缩小尺寸
+- "[reduction](/post/reduction/) [process](/post/process/)" 减少过程
 
 ## 例句
-- 名词: "The diet aims at a significant reduction of sugar intake."
-- 动词: "The government is working on reducing traffic congestion in the city."
+- 名词: "[The](/post/the/) diet aims [at](/post/at/) [a](/post/a/) [significant](/post/significant/) [reduction](/post/reduction/) [of](/post/of/) [sugar](/post/sugar/) intake."
+- 动词: "[The](/post/the/) [government](/post/government/) is working [on](/post/on/) reducing [traffic](/post/traffic/) congestion [in](/post/in/) [the](/post/the/) [city](/post/city/)."
 
 ## 同义词
-- Decrease
+- [Decrease](/post/decrease/)
 - Diminution
 - Lessening
 - Minimization

@@ -11,20 +11,20 @@ keywords = ['ai words', 'ignore']
 /ɪɡˈnɔːr/
 
 ## 释义
-- **动词**: 忽视，不理会，不予关注。例如: "I chose to ignore his rude comments."
-- **名词**: 忽视的行为或决定。例如: "Her request was met with silence, an implicit ignore."
+- **动词**: 忽视，不理会，不予关注。例如: "I chose [to](/post/to/) [ignore](/post/ignore/) [his](/post/his/) [rude](/post/rude/) comments."
+- **名词**: 忽视的行为或决定。例如: "[Her](/post/her/) [request](/post/request/) was met [with](/post/with/) [silence](/post/silence/), an implicit [ignore](/post/ignore/)."
 
 ## 短语
-- "To turn a blind eye to something" 意味着故意忽略某事。
-- "Ignore the noise and focus on the task" 意思是忽略干扰，专心做事。
+- "[To](/post/to/) [turn](/post/turn/) [a](/post/a/) [blind](/post/blind/) [eye](/post/eye/) [to](/post/to/) [something](/post/something/)" 意味着故意忽略某事。
+- "[Ignore](/post/ignore/) [the](/post/the/) [noise](/post/noise/) [and](/post/and/) [focus](/post/focus/) [on](/post/on/) [the](/post/the/) [task](/post/task/)" 意思是忽略干扰，专心做事。
 
 ## 例句
-- 动词: "Despite the warning signs, he chose to ignore the danger."
-- 名词: "Her complaint was completely ignored by the management."
+- 动词: "[Despite](/post/despite/) [the](/post/the/) warning signs, [he](/post/he/) chose [to](/post/to/) [ignore](/post/ignore/) [the](/post/the/) [danger](/post/danger/)."
+- 名词: "[Her](/post/her/) [complaint](/post/complaint/) was [completely](/post/completely/) ignored [by](/post/by/) [the](/post/the/) [management](/post/management/)."
 
 ## 同义词
 - Disregard
-- Overlook
-- Pay no attention to
-- Ignore completely
-- Tune out
+- [Overlook](/post/overlook/)
+- [Pay](/post/pay/) [no](/post/no/) [attention](/post/attention/) [to](/post/to/)
+- [Ignore](/post/ignore/) [completely](/post/completely/)
+- [Tune](/post/tune/) [out](/post/out/)

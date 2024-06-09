@@ -7,41 +7,41 @@ description = '[pəˈfɔːm] vt.履行，执行；演出'
 keywords = ['ai words', 'perform']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /prəˈfɔrm/
 
 ## Definitions
-### Noun
-- **Performance**: The act of executing or displaying a skill, task, or show. For example: "The orchestra's performance was a stunning display of musical talent."
-- **Execution**: The carrying out of a plan or task. For example: "The project's successful execution was praised by all."
-- **Show**: An exhibition or demonstration of something, often a public event. For example: "The theater put on a fantastic performance of Shakespeare's play."
+### [Noun](/en/post/noun/)
+- **[Performance](/en/post/performance/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) executing [or](/en/post/or/) displaying [a](/en/post/a/) [skill](/en/post/skill/), [task](/en/post/task/), [or](/en/post/or/) [show](/en/post/show/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) orchestra's [performance](/en/post/performance/) was [a](/en/post/a/) stunning [display](/en/post/display/) [of](/en/post/of/) [musical](/en/post/musical/) [talent](/en/post/talent/)."
+- **Execution**: [The](/en/post/the/) carrying [out](/en/post/out/) [of](/en/post/of/) [a](/en/post/a/) [plan](/en/post/plan/) [or](/en/post/or/) [task](/en/post/task/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) project's [successful](/en/post/successful/) execution was praised [by](/en/post/by/) [all](/en/post/all/)."
+- **[Show](/en/post/show/)**: An [exhibition](/en/post/exhibition/) [or](/en/post/or/) demonstration [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [a](/en/post/a/) [public](/en/post/public/) [event](/en/post/event/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) theater [put](/en/post/put/) [on](/en/post/on/) [a](/en/post/a/) fantastic [performance](/en/post/performance/) [of](/en/post/of/) Shakespeare's [play](/en/post/play/)."
 
-### Verb
-- **To perform**: To carry out or execute a task, skill, or activity; to act or display a skill. For example: "The artist performed a magic trick flawlessly."
-- **To execute**: To carry out (a task or order) with precision or according to plan. For example: "The team executed their strategy perfectly."
-- **To present**: To give or show something, often in a public or formal setting. For example: "The students will perform their research presentations next week."
+### [Verb](/en/post/verb/)
+- **[To](/en/post/to/) [perform](/en/post/perform/)**: [To](/en/post/to/) [carry](/en/post/carry/) [out](/en/post/out/) [or](/en/post/or/) [execute](/en/post/execute/) [a](/en/post/a/) [task](/en/post/task/), [skill](/en/post/skill/), [or](/en/post/or/) [activity](/en/post/activity/); [to](/en/post/to/) [act](/en/post/act/) [or](/en/post/or/) [display](/en/post/display/) [a](/en/post/a/) [skill](/en/post/skill/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [artist](/en/post/artist/) performed [a](/en/post/a/) [magic](/en/post/magic/) [trick](/en/post/trick/) flawlessly."
+- **[To](/en/post/to/) [execute](/en/post/execute/)**: [To](/en/post/to/) [carry](/en/post/carry/) [out](/en/post/out/) ([a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [order](/en/post/order/)) [with](/en/post/with/) [precision](/en/post/precision/) [or](/en/post/or/) according [to](/en/post/to/) [plan](/en/post/plan/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) executed [their](/en/post/their/) [strategy](/en/post/strategy/) [perfectly](/en/post/perfectly/)."
+- **[To](/en/post/to/) [present](/en/post/present/)**: [To](/en/post/to/) [give](/en/post/give/) [or](/en/post/or/) [show](/en/post/show/) [something](/en/post/something/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [public](/en/post/public/) [or](/en/post/or/) [formal](/en/post/formal/) [setting](/en/post/setting/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) students [will](/en/post/will/) [perform](/en/post/perform/) [their](/en/post/their/) [research](/en/post/research/) presentations [next](/en/post/next/) [week](/en/post/week/)."
 
-### Adjective
-- **Performant**: Characterized by skillful or effective execution. For example: "The performant dancer commanded the stage."
-- **Perforated**: Having small holes or punctures, especially in a material like paper. For example: "The sheet of paper had several perforations for easy tearing."
+### [Adjective](/en/post/adjective/)
+- **Performant**: Characterized [by](/en/post/by/) [skillful](/en/post/skillful/) [or](/en/post/or/) [effective](/en/post/effective/) execution. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) performant dancer commanded [the](/en/post/the/) [stage](/en/post/stage/)."
+- **Perforated**: Having [small](/en/post/small/) holes [or](/en/post/or/) punctures, [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [material](/en/post/material/) [like](/en/post/like/) [paper](/en/post/paper/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [sheet](/en/post/sheet/) [of](/en/post/of/) [paper](/en/post/paper/) had [several](/en/post/several/) perforations [for](/en/post/for/) [easy](/en/post/easy/) tearing."
 
 ## Phrases
-- "Perform a task" means to complete or carry out a specific job.
-- "Performance art" refers to a form of creative expression that involves live performance.
-- "Perform under pressure" means to excel while facing challenging circumstances.
+- "[Perform](/en/post/perform/) [a](/en/post/a/) [task](/en/post/task/)" [means](/en/post/means/) [to](/en/post/to/) [complete](/en/post/complete/) [or](/en/post/or/) [carry](/en/post/carry/) [out](/en/post/out/) [a](/en/post/a/) [specific](/en/post/specific/) [job](/en/post/job/).
+- "[Performance](/en/post/performance/) [art](/en/post/art/)" refers [to](/en/post/to/) [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [creative](/en/post/creative/) [expression](/en/post/expression/) [that](/en/post/that/) involves [live](/en/post/live/) [performance](/en/post/performance/).
+- "[Perform](/en/post/perform/) [under](/en/post/under/) [pressure](/en/post/pressure/)" [means](/en/post/means/) [to](/en/post/to/) excel [while](/en/post/while/) facing challenging circumstances.
 
-## Example Sentences
-- **Noun**: "The concert was a memorable performance filled with emotional highs."
-- **Verb**: "She performed her duties with dedication and efficiency."
-- **Adjective**: "The performant athlete consistently sets records in their sport."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [concert](/en/post/concert/) was [a](/en/post/a/) memorable [performance](/en/post/performance/) filled [with](/en/post/with/) [emotional](/en/post/emotional/) highs."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) performed [her](/en/post/her/) duties [with](/en/post/with/) dedication [and](/en/post/and/) [efficiency](/en/post/efficiency/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) performant [athlete](/en/post/athlete/) consistently sets records [in](/en/post/in/) [their](/en/post/their/) [sport](/en/post/sport/)."
 
 ## Synonyms
-- Execute
-- Carry out
-- Present
-- Display
-- Accomplish
-- Exhibit
-- Show off
-- Render
-- Achieve
+- [Execute](/en/post/execute/)
+- [Carry](/en/post/carry/) [out](/en/post/out/)
+- [Present](/en/post/present/)
+- [Display](/en/post/display/)
+- [Accomplish](/en/post/accomplish/)
+- [Exhibit](/en/post/exhibit/)
+- [Show](/en/post/show/) [off](/en/post/off/)
+- [Render](/en/post/render/)
+- [Achieve](/en/post/achieve/)

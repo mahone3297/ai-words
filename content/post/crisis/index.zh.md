@@ -12,20 +12,20 @@ keywords = ['ai words', 'crisis']
 
 ## 释义
 - **名词**:
-  - 关键时刻；危急关头。例如: "The company is facing a financial crisis."
-  - 决策点；转折点。例如: "Their relationship reached a crisis point."
+  - 关键时刻；危急关头。例如: "[The](/post/the/) [company](/post/company/) is facing [a](/post/a/) [financial](/post/financial/) [crisis](/post/crisis/)."
+  - 决策点；转折点。例如: "[Their](/post/their/) [relationship](/post/relationship/) reached [a](/post/a/) [crisis](/post/crisis/) [point](/post/point/)."
 
 ## 短语
-- "Crisis management" 意为危机处理或危机管理。
-- "Public health crisis" 指公共卫生危机。
+- "[Crisis](/post/crisis/) [management](/post/management/)" 意为危机处理或危机管理。
+- "[Public](/post/public/) [health](/post/health/) [crisis](/post/crisis/)" 指公共卫生危机。
 
 ## 例句
-- "The government must act quickly to resolve the economic crisis."
-- "During the pandemic, hospitals were under immense pressure due to the medical crisis."
+- "[The](/post/the/) [government](/post/government/) [must](/post/must/) [act](/post/act/) [quickly](/post/quickly/) [to](/post/to/) [resolve](/post/resolve/) [the](/post/the/) [economic](/post/economic/) [crisis](/post/crisis/)."
+- "[During](/post/during/) [the](/post/the/) pandemic, hospitals were [under](/post/under/) [immense](/post/immense/) [pressure](/post/pressure/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [medical](/post/medical/) [crisis](/post/crisis/)."
 
 ## 同义词
-- Emergency
+- [Emergency](/post/emergency/)
 - Calamity
-- Disaster
+- [Disaster](/post/disaster/)
 - Predicament
 - Dilemma

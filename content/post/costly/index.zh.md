@@ -11,20 +11,20 @@ keywords = ['ai words', 'costly']
 /ˈkɔːstli/
 
 ## 释义
-- **形容词**: 昂贵的，代价高的。例如: "The new car was too costly for his budget."
-- **副词**: 费钱地，代价高地。例如: "They had to perform the operation costly due to the lack of insurance."
+- **形容词**: 昂贵的，代价高的。例如: "[The](/post/the/) [new](/post/new/) [car](/post/car/) was [too](/post/too/) [costly](/post/costly/) [for](/post/for/) [his](/post/his/) budget."
+- **副词**: 费钱地，代价高地。例如: "[They](/post/they/) had [to](/post/to/) [perform](/post/perform/) [the](/post/the/) [operation](/post/operation/) [costly](/post/costly/) [due](/post/due/) [to](/post/to/) [the](/post/the/) [lack](/post/lack/) [of](/post/of/) [insurance](/post/insurance/)."
 
 ## 短语
-- "Costly mistake" 意为代价高昂的错误。
-- "Costly materials" 指昂贵的材料。
+- "[Costly](/post/costly/) [mistake](/post/mistake/)" 意为代价高昂的错误。
+- "[Costly](/post/costly/) materials" 指昂贵的材料。
 
 ## 例句
-- 形容词: "The diamond necklace was a costly gift for her birthday."
-- 副词: "The company's decision to expand proved costly in terms of financial losses."
+- 形容词: "[The](/post/the/) [diamond](/post/diamond/) [necklace](/post/necklace/) was [a](/post/a/) [costly](/post/costly/) [gift](/post/gift/) [for](/post/for/) [her](/post/her/) [birthday](/post/birthday/)."
+- 副词: "[The](/post/the/) company's [decision](/post/decision/) [to](/post/to/) [expand](/post/expand/) proved [costly](/post/costly/) [in](/post/in/) terms [of](/post/of/) [financial](/post/financial/) losses."
 
 ## 同义词
-- Expensive
+- [Expensive](/post/expensive/)
 - Pricy
-- Inexpensive
+- [Inexpensive](/post/inexpensive/)
 - High-priced
-- Dear
+- [Dear](/post/dear/)

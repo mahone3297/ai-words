@@ -7,43 +7,43 @@ description = '[ˈlæŋgwidʒ] n.语言，语言课程'
 keywords = ['ai words', 'language']
 +++
 
-## Word: Language
+## [Word](/en/post/word/): [Language](/en/post/language/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈlæŋgwɪdʒ/
 
 ## Definitions
-- **Noun**: A system of communication consisting of sounds, words, and grammar used by humans, with different systems serving as the primary means of communication within different societies or cultures. For example: "She speaks three languages fluently."
-  - _Also used metaphorically_: "Mathematics is often described as the universal language of science."
-- **Verb**: To use a particular language or to communicate in it. For example: "The child began to language at an early age."
-- _As a mass noun_: The ability to communicate or express oneself through speech or writing. For example: "Poetry is a powerful language of emotion."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [system](/en/post/system/) [of](/en/post/of/) [communication](/en/post/communication/) consisting [of](/en/post/of/) sounds, words, [and](/en/post/and/) [grammar](/en/post/grammar/) [used](/en/post/used/) [by](/en/post/by/) humans, [with](/en/post/with/) [different](/en/post/different/) systems serving [as](/en/post/as/) [the](/en/post/the/) [primary](/en/post/primary/) [means](/en/post/means/) [of](/en/post/of/) [communication](/en/post/communication/) [within](/en/post/within/) [different](/en/post/different/) societies [or](/en/post/or/) cultures. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) speaks [three](/en/post/three/) languages fluently."
+  - _Also [used](/en/post/used/) metaphorically_: "[Mathematics](/en/post/mathematics/) is [often](/en/post/often/) described [as](/en/post/as/) [the](/en/post/the/) [universal](/en/post/universal/) [language](/en/post/language/) [of](/en/post/of/) [science](/en/post/science/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [use](/en/post/use/) [a](/en/post/a/) [particular](/en/post/particular/) [language](/en/post/language/) [or](/en/post/or/) [to](/en/post/to/) [communicate](/en/post/communicate/) [in](/en/post/in/) [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) began [to](/en/post/to/) [language](/en/post/language/) [at](/en/post/at/) an [early](/en/post/early/) [age](/en/post/age/)."
+- _As [a](/en/post/a/) [mass](/en/post/mass/) noun_: [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [communicate](/en/post/communicate/) [or](/en/post/or/) [express](/en/post/express/) [oneself](/en/post/oneself/) [through](/en/post/through/) [speech](/en/post/speech/) [or](/en/post/or/) [writing](/en/post/writing/). [For](/en/post/for/) [example](/en/post/example/): "[Poetry](/en/post/poetry/) is [a](/en/post/a/) [powerful](/en/post/powerful/) [language](/en/post/language/) [of](/en/post/of/) [emotion](/en/post/emotion/)."
 
 ## Phrases
-- "Language barrier": Difficulty in communication due to speaking different languages.
-- "Learn a language": To acquire the skills to speak or understand a new language.
-- "Mother tongue / native language": The first language one learns and the language spoken in one's home country or community.
+- "[Language](/en/post/language/) [barrier](/en/post/barrier/)": [Difficulty](/en/post/difficulty/) [in](/en/post/in/) [communication](/en/post/communication/) [due](/en/post/due/) [to](/en/post/to/) speaking [different](/en/post/different/) languages.
+- "[Learn](/en/post/learn/) [a](/en/post/a/) [language](/en/post/language/)": [To](/en/post/to/) [acquire](/en/post/acquire/) [the](/en/post/the/) skills [to](/en/post/to/) [speak](/en/post/speak/) [or](/en/post/or/) [understand](/en/post/understand/) [a](/en/post/a/) [new](/en/post/new/) [language](/en/post/language/).
+- "[Mother](/en/post/mother/) [tongue](/en/post/tongue/) / [native](/en/post/native/) [language](/en/post/language/)": [The](/en/post/the/) [first](/en/post/first/) [language](/en/post/language/) [one](/en/post/one/) learns [and](/en/post/and/) [the](/en/post/the/) [language](/en/post/language/) spoken [in](/en/post/in/) one's [home](/en/post/home/) [country](/en/post/country/) [or](/en/post/or/) [community](/en/post/community/).
 
-## Example Sentences
-- **Noun**: "English is my second language, but I'm working hard to improve my proficiency."
-- **Verb**: "They language differently in formal settings compared to informal ones."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "English is [my](/en/post/my/) [second](/en/post/second/) [language](/en/post/language/), [but](/en/post/but/) I'm working [hard](/en/post/hard/) [to](/en/post/to/) [improve](/en/post/improve/) [my](/en/post/my/) proficiency."
+- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) [language](/en/post/language/) differently [in](/en/post/in/) [formal](/en/post/formal/) settings compared [to](/en/post/to/) informal ones."
   
 ## Synonyms
-- Tongue
-- Speech
+- [Tongue](/en/post/tongue/)
+- [Speech](/en/post/speech/)
 - Vernacular
-- Dialect
-- Idiom
-- Communication system
-- Linguistic system
-- Means of expression
+- [Dialect](/en/post/dialect/)
+- [Idiom](/en/post/idiom/)
+- [Communication](/en/post/communication/) [system](/en/post/system/)
+- Linguistic [system](/en/post/system/)
+- [Means](/en/post/means/) [of](/en/post/of/) [expression](/en/post/expression/)
 
-## Phrases using 'language'
-- "In plain language": To express something in simple terms that are easy to understand.
-- "Lost for words / at a loss for language": Unable to find the right words to express oneself.
-- "Body language": Nonverbal communication expressed through physical behavior, posture, and gestures. 
+## Phrases using '[language](/en/post/language/)'
+- "[In](/en/post/in/) [plain](/en/post/plain/) [language](/en/post/language/)": [To](/en/post/to/) [express](/en/post/express/) [something](/en/post/something/) [in](/en/post/in/) [simple](/en/post/simple/) terms [that](/en/post/that/) are [easy](/en/post/easy/) [to](/en/post/to/) [understand](/en/post/understand/).
+- "Lost [for](/en/post/for/) words / [at](/en/post/at/) [a](/en/post/a/) [loss](/en/post/loss/) [for](/en/post/for/) [language](/en/post/language/)": [Unable](/en/post/unable/) [to](/en/post/to/) [find](/en/post/find/) [the](/en/post/the/) [right](/en/post/right/) words [to](/en/post/to/) [express](/en/post/express/) [oneself](/en/post/oneself/).
+- "[Body](/en/post/body/) [language](/en/post/language/)": Nonverbal [communication](/en/post/communication/) expressed [through](/en/post/through/) [physical](/en/post/physical/) [behavior](/en/post/behavior/), posture, [and](/en/post/and/) gestures. 
 
 ## Antonyms
-- Silence (in the context of verbal language)
-- Illiteracy (in the context of written language) 
+- [Silence](/en/post/silence/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) verbal [language](/en/post/language/))
+- Illiteracy ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) written [language](/en/post/language/)) 
 
-Note: The verb form of "language" is less commonly used than the noun form and typically refers to a more abstract or theoretical use of language rather than everyday communication.
+[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) [form](/en/post/form/) [of](/en/post/of/) "[language](/en/post/language/)" is [less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/) [than](/en/post/than/) [the](/en/post/the/) [noun](/en/post/noun/) [form](/en/post/form/) [and](/en/post/and/) typically refers [to](/en/post/to/) [a](/en/post/a/) [more](/en/post/more/) [abstract](/en/post/abstract/) [or](/en/post/or/) [theoretical](/en/post/theoretical/) [use](/en/post/use/) [of](/en/post/of/) [language](/en/post/language/) [rather](/en/post/rather/) [than](/en/post/than/) [everyday](/en/post/everyday/) [communication](/en/post/communication/).

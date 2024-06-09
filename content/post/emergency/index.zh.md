@@ -11,20 +11,20 @@ keywords = ['ai words', 'emergency']
 /ɪˈmɜːdʒənsi/
 
 ## 释义
-- **名词**: 紧急情况；突发事件。例如: "We need to act quickly in case of an emergency."
-- **形容词**: 紧急的；急迫的。例如: "There is an emergency exit sign on the wall."
+- **名词**: 紧急情况；突发事件。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [act](/post/act/) [quickly](/post/quickly/) [in](/post/in/) [case](/post/case/) [of](/post/of/) an [emergency](/post/emergency/)."
+- **形容词**: 紧急的；急迫的。例如: "[There](/post/there/) is an [emergency](/post/emergency/) [exit](/post/exit/) [sign](/post/sign/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/)."
 
 ## 短语
-- "Emergency services" 指的是如消防、警察和医疗服务等在紧急情况下提供帮助的机构。
-- "Emergency room" 或 "ER" 是医院中的急诊室。
+- "[Emergency](/post/emergency/) services" 指的是如消防、警察和医疗服务等在紧急情况下提供帮助的机构。
+- "[Emergency](/post/emergency/) [room](/post/room/)" 或 "ER" 是医院中的急诊室。
 
 ## 例句
-- 名词: "In case of emergency, break the glass and press the button."
-- 形容词: "The hospital has special procedures for handling emergency cases."
+- 名词: "[In](/post/in/) [case](/post/case/) [of](/post/of/) [emergency](/post/emergency/), [break](/post/break/) [the](/post/the/) [glass](/post/glass/) [and](/post/and/) [press](/post/press/) [the](/post/the/) [button](/post/button/)."
+- 形容词: "[The](/post/the/) [hospital](/post/hospital/) has [special](/post/special/) procedures [for](/post/for/) handling [emergency](/post/emergency/) cases."
 
 ## 同义词
-- Crisis
+- [Crisis](/post/crisis/)
 - Urgency
-- Emergency situation
-- Critical situation
-- Immediate need
+- [Emergency](/post/emergency/) [situation](/post/situation/)
+- [Critical](/post/critical/) [situation](/post/situation/)
+- [Immediate](/post/immediate/) [need](/post/need/)

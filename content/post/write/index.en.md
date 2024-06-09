@@ -7,50 +7,50 @@ description = '[rait] vt.书写；写 vi.写'
 keywords = ['ai words', 'write']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /rɪt/
 
 ## Definitions
-### Noun
-A **noun** (v., to write; n., written work) refers to:
-1. The act of putting words on a page or screen, expressing thoughts, ideas, or information. For example: "She spent hours writing a novel."
-2. A piece of writing, especially one created by an author. For example: "The journal entry was a record of her daily thoughts."
-3. A skill or profession related to creating written content. For example: "Writing is his primary source of income."
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) **[noun](/en/post/noun/)** (v., [to](/en/post/to/) [write](/en/post/write/); n., written [work](/en/post/work/)) refers [to](/en/post/to/):
+1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) putting words [on](/en/post/on/) [a](/en/post/a/) [page](/en/post/page/) [or](/en/post/or/) [screen](/en/post/screen/), expressing thoughts, ideas, [or](/en/post/or/) [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spent hours [writing](/en/post/writing/) [a](/en/post/a/) [novel](/en/post/novel/)."
+2. [A](/en/post/a/) [piece](/en/post/piece/) [of](/en/post/of/) [writing](/en/post/writing/), [especially](/en/post/especially/) [one](/en/post/one/) created [by](/en/post/by/) an [author](/en/post/author/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [journal](/en/post/journal/) [entry](/en/post/entry/) was [a](/en/post/a/) [record](/en/post/record/) [of](/en/post/of/) [her](/en/post/her/) [daily](/en/post/daily/) thoughts."
+3. [A](/en/post/a/) [skill](/en/post/skill/) [or](/en/post/or/) [profession](/en/post/profession/) related [to](/en/post/to/) creating written [content](/en/post/content/). [For](/en/post/for/) [example](/en/post/example/): "[Writing](/en/post/writing/) is [his](/en/post/his/) [primary](/en/post/primary/) [source](/en/post/source/) [of](/en/post/of/) [income](/en/post/income/)."
 
-### Verb
-A **verb** (write) means:
-1. To produce or compose text using a pen, pencil, keyboard, or other means. For example: "He writes poetry every evening."
-2. To express or communicate thoughts or ideas through written words. For example: "She wrote a heartfelt letter to her friend."
-3. To inscribe or put down one's signature. For example: "Please sign the contract here, I'll write your name."
+### [Verb](/en/post/verb/)
+[A](/en/post/a/) **[verb](/en/post/verb/)** ([write](/en/post/write/)) [means](/en/post/means/):
+1. [To](/en/post/to/) [produce](/en/post/produce/) [or](/en/post/or/) [compose](/en/post/compose/) [text](/en/post/text/) using [a](/en/post/a/) [pen](/en/post/pen/), [pencil](/en/post/pencil/), [keyboard](/en/post/keyboard/), [or](/en/post/or/) [other](/en/post/other/) [means](/en/post/means/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) writes [poetry](/en/post/poetry/) [every](/en/post/every/) [evening](/en/post/evening/)."
+2. [To](/en/post/to/) [express](/en/post/express/) [or](/en/post/or/) [communicate](/en/post/communicate/) thoughts [or](/en/post/or/) ideas [through](/en/post/through/) written words. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) wrote [a](/en/post/a/) heartfelt [letter](/en/post/letter/) [to](/en/post/to/) [her](/en/post/her/) [friend](/en/post/friend/)."
+3. [To](/en/post/to/) inscribe [or](/en/post/or/) [put](/en/post/put/) [down](/en/post/down/) one's [signature](/en/post/signature/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [sign](/en/post/sign/) [the](/en/post/the/) [contract](/en/post/contract/) [here](/en/post/here/), I'll [write](/en/post/write/) [your](/en/post/your/) [name](/en/post/name/)."
 
-### Adjective
-An **adjective** (written) describes something that has been written or expressed in written form. For example: "The handwritten note was illegible."
+### [Adjective](/en/post/adjective/)
+An **[adjective](/en/post/adjective/)** (written) describes [something](/en/post/something/) [that](/en/post/that/) has been written [or](/en/post/or/) expressed [in](/en/post/in/) written [form](/en/post/form/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) handwritten [note](/en/post/note/) was illegible."
 
-### Adverb
-An **adverb** (wrìtely) can modify a verb to describe how something is written. For example: "She writes neatly."
+### [Adverb](/en/post/adverb/)
+An **[adverb](/en/post/adverb/)** (wrìtely) [can](/en/post/can/) [modify](/en/post/modify/) [a](/en/post/a/) [verb](/en/post/verb/) [to](/en/post/to/) [describe](/en/post/describe/) [how](/en/post/how/) [something](/en/post/something/) is written. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) writes neatly."
 
 ## Phrases
-- "Put pen to paper" means to start writing.
-- "Get it in writing" emphasizes the importance of having something in written form.
-- "Writing on the wall" suggests a warning or prediction is imminent.
+- "[Put](/en/post/put/) [pen](/en/post/pen/) [to](/en/post/to/) [paper](/en/post/paper/)" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) [writing](/en/post/writing/).
+- "[Get](/en/post/get/) [it](/en/post/it/) [in](/en/post/in/) [writing](/en/post/writing/)" emphasizes [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) having [something](/en/post/something/) [in](/en/post/in/) written [form](/en/post/form/).
+- "[Writing](/en/post/writing/) [on](/en/post/on/) [the](/en/post/the/) [wall](/en/post/wall/)" suggests [a](/en/post/a/) warning [or](/en/post/or/) prediction is imminent.
 
-## Example Sentences
-- **Noun**: "The poet's latest collection is a compilation of his written works."
-- **Verb**: "After months of research, he sat down to write his thesis."
-- **Adjective**: "Her written instructions were clear and concise."
-- **Adverb**: "He writes with great care, ensuring every word is well-written."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) poet's latest [collection](/en/post/collection/) is [a](/en/post/a/) compilation [of](/en/post/of/) [his](/en/post/his/) written works."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [research](/en/post/research/), [he](/en/post/he/) sat [down](/en/post/down/) [to](/en/post/to/) [write](/en/post/write/) [his](/en/post/his/) thesis."
+- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) written instructions were [clear](/en/post/clear/) [and](/en/post/and/) concise."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) writes [with](/en/post/with/) [great](/en/post/great/) [care](/en/post/care/), ensuring [every](/en/post/every/) [word](/en/post/word/) is well-written."
 
 ## Synonyms
-- Compose
-- Draft
+- [Compose](/en/post/compose/)
+- [Draft](/en/post/draft/)
 - Inscribe
-- Pen
-- Express
-- Communicate
+- [Pen](/en/post/pen/)
+- [Express](/en/post/express/)
+- [Communicate](/en/post/communicate/)
 - Transcribe
-- Record
+- [Record](/en/post/record/)
 - Notate
 
 ---
 
-Note: The pronunciation guide uses the International Phonetic Alphabet (IPA). If you need help with IPA symbols, please let me know.
+[Note](/en/post/note/): [The](/en/post/the/) [pronunciation](/en/post/pronunciation/) [guide](/en/post/guide/) uses [the](/en/post/the/) [International](/en/post/international/) Phonetic [Alphabet](/en/post/alphabet/) (IPA). [If](/en/post/if/) [you](/en/post/you/) [need](/en/post/need/) [help](/en/post/help/) [with](/en/post/with/) IPA symbols, [please](/en/post/please/) [let](/en/post/let/) [me](/en/post/me/) [know](/en/post/know/).

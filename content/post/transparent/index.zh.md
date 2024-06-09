@@ -17,17 +17,17 @@ keywords = ['ai words', 'transparent']
     - 3. 不做掩饰的；坦率的：如透明的政治意图。
 
 ## 短语
-- "transparent material" 指的是能透过光线的材料。
-- "transparent policy" 指的是公开且容易理解的政策。
+- "[transparent](/post/transparent/) [material](/post/material/)" 指的是能透过光线的材料。
+- "[transparent](/post/transparent/) [policy](/post/policy/)" 指的是公开且容易理解的政策。
 
 ## 例句
-- 形容词: "The glass is transparent, so we can see through it."
-- "Her explanation was transparent, leaving no room for confusion."
-- "Their intentions were anything but transparent."
+- 形容词: "[The](/post/the/) [glass](/post/glass/) is [transparent](/post/transparent/), [so](/post/so/) [we](/post/we/) [can](/post/can/) [see](/post/see/) [through](/post/through/) [it](/post/it/)."
+- "[Her](/post/her/) [explanation](/post/explanation/) was [transparent](/post/transparent/), leaving [no](/post/no/) [room](/post/room/) [for](/post/for/) [confusion](/post/confusion/)."
+- "[Their](/post/their/) intentions were [anything](/post/anything/) [but](/post/but/) [transparent](/post/transparent/)."
 
 ## 同义词
 - See-through
-- Clear
+- [Clear](/post/clear/)
 - Opaque (反义词)
 - Lucid
 - Candid

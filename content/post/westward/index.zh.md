@@ -11,19 +11,19 @@ keywords = ['ai words', 'westward']
 /westwərd/
 
 ## 释义
-- **副词**: 向西，朝西。指方向或动作朝向西方。例如: "The sun sets westward in the evening."
-- **形容词**: 西方的，朝西的。描述位置或事物与西方的关系。例如: "The westward part of the country has a colder climate."
+- **副词**: 向西，朝西。指方向或动作朝向西方。例如: "[The](/post/the/) [sun](/post/sun/) sets [westward](/post/westward/) [in](/post/in/) [the](/post/the/) [evening](/post/evening/)."
+- **形容词**: 西方的，朝西的。描述位置或事物与西方的关系。例如: "[The](/post/the/) [westward](/post/westward/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [country](/post/country/) has [a](/post/a/) colder [climate](/post/climate/)."
 
 ## 短语
-- "Go westward" 意为向西行进。
-- "Westward expansion" 指的是向西的扩张或发展。
+- "[Go](/post/go/) [westward](/post/westward/)" 意为向西行进。
+- "[Westward](/post/westward/) [expansion](/post/expansion/)" 指的是向西的扩张或发展。
 
 ## 例句
-- 副词: "The train was heading westward towards California."
-- 形容词: "The westward wind brought cool air from the ocean."
+- 副词: "[The](/post/the/) [train](/post/train/) was [heading](/post/heading/) [westward](/post/westward/) towards California."
+- 形容词: "[The](/post/the/) [westward](/post/westward/) [wind](/post/wind/) brought [cool](/post/cool/) [air](/post/air/) [from](/post/from/) [the](/post/the/) [ocean](/post/ocean/)."
 
 ## 同义词
-- Western
-- Towards the west
-- In a westerly direction
-- To the west
+- [Western](/post/western/)
+- Towards [the](/post/the/) [west](/post/west/)
+- [In](/post/in/) [a](/post/a/) westerly [direction](/post/direction/)
+- [To](/post/to/) [the](/post/the/) [west](/post/west/)

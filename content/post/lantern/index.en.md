@@ -7,36 +7,36 @@ description = '[ˈlæntən] n.提灯，灯笼'
 keywords = ['ai words', 'lantern']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈlæntərn/
 
 ## Definitions
-- **Noun**: A portable light source often made of metal or glass, with a protective enclosure for a flame or light bulb, typically used outdoors or in areas without electricity. For example: "She lit the lantern to guide us through the dark forest."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [portable](/en/post/portable/) [light](/en/post/light/) [source](/en/post/source/) [often](/en/post/often/) made [of](/en/post/of/) [metal](/en/post/metal/) [or](/en/post/or/) [glass](/en/post/glass/), [with](/en/post/with/) [a](/en/post/a/) [protective](/en/post/protective/) enclosure [for](/en/post/for/) [a](/en/post/a/) [flame](/en/post/flame/) [or](/en/post/or/) [light](/en/post/light/) [bulb](/en/post/bulb/), typically [used](/en/post/used/) [outdoors](/en/post/outdoors/) [or](/en/post/or/) [in](/en/post/in/) areas [without](/en/post/without/) [electricity](/en/post/electricity/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) lit [the](/en/post/the/) [lantern](/en/post/lantern/) [to](/en/post/to/) [guide](/en/post/guide/) [us](/en/post/us/) [through](/en/post/through/) [the](/en/post/the/) [dark](/en/post/dark/) [forest](/en/post/forest/)."
 
 ### Phrases
-- "Hang up your lantern" implies sharing knowledge or making one's ideas visible and clear to others.
-- "A guiding light like a lantern" metaphorically refers to something that provides guidance or direction in difficult situations.
-- "Lantern jaw" describes a person with a sharply defined, angular jawline resembling the shape of a hanging lantern.
+- "[Hang](/en/post/hang/) [up](/en/post/up/) [your](/en/post/your/) [lantern](/en/post/lantern/)" implies sharing [knowledge](/en/post/knowledge/) [or](/en/post/or/) making one's ideas [visible](/en/post/visible/) [and](/en/post/and/) [clear](/en/post/clear/) [to](/en/post/to/) others.
+- "[A](/en/post/a/) guiding [light](/en/post/light/) [like](/en/post/like/) [a](/en/post/a/) [lantern](/en/post/lantern/)" metaphorically refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) provides [guidance](/en/post/guidance/) [or](/en/post/or/) [direction](/en/post/direction/) [in](/en/post/in/) [difficult](/en/post/difficult/) situations.
+- "[Lantern](/en/post/lantern/) [jaw](/en/post/jaw/)" describes [a](/en/post/a/) [person](/en/post/person/) [with](/en/post/with/) [a](/en/post/a/) [sharply](/en/post/sharply/) defined, angular jawline resembling [the](/en/post/the/) [shape](/en/post/shape/) [of](/en/post/of/) [a](/en/post/a/) hanging [lantern](/en/post/lantern/).
 
-## Example Sentences
-- **Noun**: "During the camping trip, we relied on our battery-powered lanterns for light at night."
-- "The old lighthouse had a giant lantern that rotated to warn ships of the rocky shore."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[During](/en/post/during/) [the](/en/post/the/) camping [trip](/en/post/trip/), [we](/en/post/we/) relied [on](/en/post/on/) [our](/en/post/our/) battery-powered lanterns [for](/en/post/for/) [light](/en/post/light/) [at](/en/post/at/) [night](/en/post/night/)."
+- "[The](/en/post/the/) [old](/en/post/old/) lighthouse had [a](/en/post/a/) [giant](/en/post/giant/) [lantern](/en/post/lantern/) [that](/en/post/that/) rotated [to](/en/post/to/) [warn](/en/post/warn/) ships [of](/en/post/of/) [the](/en/post/the/) rocky [shore](/en/post/shore/)."
 
 ## Synonyms
-- Light
-- Lamp
-- Torch
+- [Light](/en/post/light/)
+- [Lamp](/en/post/lamp/)
+- [Torch](/en/post/torch/)
 - Luminary
 - Candelabra
-- Hurricane lamp
+- Hurricane [lamp](/en/post/lamp/)
 - Farol (Spanish)
 - Lanterne (French) 
 
 ## Derived forms & Phrasal Verbs
-- **Verb**: Lanternize - to equip or provide with lanterns; not commonly used.
-  - Example: "The city council decided to lanternize all the parks for added safety during evening events."
+- **[Verb](/en/post/verb/)**: Lanternize - [to](/en/post/to/) [equip](/en/post/equip/) [or](/en/post/or/) [provide](/en/post/provide/) [with](/en/post/with/) lanterns; [not](/en/post/not/) [commonly](/en/post/commonly/) [used](/en/post/used/).
+  - [Example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) [council](/en/post/council/) decided [to](/en/post/to/) lanternize [all](/en/post/all/) [the](/en/post/the/) parks [for](/en/post/for/) added [safety](/en/post/safety/) [during](/en/post/during/) [evening](/en/post/evening/) events."
   
-- **Adjective**: Lantern-like - resembling a lantern in form or function.
-  - Example: "The fireflies' glow was lantern-like in the pitch-black woods." 
+- **[Adjective](/en/post/adjective/)**: Lantern-like - resembling [a](/en/post/a/) [lantern](/en/post/lantern/) [in](/en/post/in/) [form](/en/post/form/) [or](/en/post/or/) [function](/en/post/function/).
+  - [Example](/en/post/example/): "[The](/en/post/the/) fireflies' [glow](/en/post/glow/) was lantern-like [in](/en/post/in/) [the](/en/post/the/) pitch-black woods." 
 
-Note: There isn't a typical verb form associated with "lantern" in the same way that "hello" can be used as a verb. However, it can be used metaphorically or creatively in certain contexts, as seen in the derived verb form "lanternize."
+[Note](/en/post/note/): [There](/en/post/there/) isn't [a](/en/post/a/) [typical](/en/post/typical/) [verb](/en/post/verb/) [form](/en/post/form/) associated [with](/en/post/with/) "[lantern](/en/post/lantern/)" [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [way](/en/post/way/) [that](/en/post/that/) "[hello](/en/post/hello/)" [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/). [However](/en/post/however/), [it](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [or](/en/post/or/) creatively [in](/en/post/in/) [certain](/en/post/certain/) contexts, [as](/en/post/as/) seen [in](/en/post/in/) [the](/en/post/the/) derived [verb](/en/post/verb/) [form](/en/post/form/) "lanternize."

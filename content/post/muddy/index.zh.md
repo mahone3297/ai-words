@@ -11,19 +11,19 @@ keywords = ['ai words', 'muddy']
 /ˈmʌdi/
 
 ## 释义
-- **形容词**: 泥泞的；含糊不清的；混乱的。例如: "The road was muddy after the rain." 或 "His explanation was so muddy that nobody could understand it."
-- **名词**: 泥浆；浑水。例如: "The children were playing in the muddy puddles."
+- **形容词**: 泥泞的；含糊不清的；混乱的。例如: "[The](/post/the/) [road](/post/road/) was [muddy](/post/muddy/) [after](/post/after/) [the](/post/the/) [rain](/post/rain/)." 或 "[His](/post/his/) [explanation](/post/explanation/) was [so](/post/so/) [muddy](/post/muddy/) [that](/post/that/) [nobody](/post/nobody/) [could](/post/could/) [understand](/post/understand/) [it](/post/it/)."
+- **名词**: 泥浆；浑水。例如: "[The](/post/the/) children were playing [in](/post/in/) [the](/post/the/) [muddy](/post/muddy/) puddles."
 
 ## 短语
-- "Muddy waters" 比喻情况复杂或难以理解的事物。
-- "Muddy thinking" 指思维混乱或不清晰。
+- "[Muddy](/post/muddy/) waters" 比喻情况复杂或难以理解的事物。
+- "[Muddy](/post/muddy/) thinking" 指思维混乱或不清晰。
 
 ## 例句
-- 形容词: "After the storm, the ground became extremely muddy, making it difficult to walk."
-- 名词: "The dog came back with muddy paws, tracking dirt all over the floor."
+- 形容词: "[After](/post/after/) [the](/post/the/) [storm](/post/storm/), [the](/post/the/) [ground](/post/ground/) became [extremely](/post/extremely/) [muddy](/post/muddy/), making [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [walk](/post/walk/)."
+- 名词: "[The](/post/the/) [dog](/post/dog/) came [back](/post/back/) [with](/post/with/) [muddy](/post/muddy/) paws, tracking [dirt](/post/dirt/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [floor](/post/floor/)."
 
 ## 同义词
-- Dirty
+- [Dirty](/post/dirty/)
 - Messy
 - Unclear
 - Confusing

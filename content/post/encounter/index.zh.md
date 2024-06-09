@@ -11,20 +11,20 @@ keywords = ['ai words', 'encounter']
 /ɪnˈkʌntər/
 
 ## 释义
-- **名词**: 不期而遇，遭遇。例如: "They had an unexpected encounter with a wild animal."
-- **动词**: 遇到，遭遇。例如: "She encountered several problems while working on the project."
+- **名词**: 不期而遇，遭遇。例如: "[They](/post/they/) had an [unexpected](/post/unexpected/) [encounter](/post/encounter/) [with](/post/with/) [a](/post/a/) [wild](/post/wild/) [animal](/post/animal/)."
+- **动词**: 遇到，遭遇。例如: "[She](/post/she/) encountered [several](/post/several/) problems [while](/post/while/) working [on](/post/on/) [the](/post/the/) [project](/post/project/)."
 
 ## 短语
-- "Encounter problems" 遇到问题。
-- "An encounter with someone" 与某人的相遇或交锋。
+- "[Encounter](/post/encounter/) problems" 遇到问题。
+- "An [encounter](/post/encounter/) [with](/post/with/) [someone](/post/someone/)" 与某人的相遇或交锋。
 
 ## 例句
-- 名词: "His first encounter with the city was overwhelming."
-- 动词: "She encountered many challenges during her travels."
+- 名词: "[His](/post/his/) [first](/post/first/) [encounter](/post/encounter/) [with](/post/with/) [the](/post/the/) [city](/post/city/) was overwhelming."
+- 动词: "[She](/post/she/) encountered [many](/post/many/) challenges [during](/post/during/) [her](/post/her/) travels."
 
 ## 同义词
-- Meet
-- Run into
-- Come across
-- Experience
-- Face
+- [Meet](/post/meet/)
+- [Run](/post/run/) [into](/post/into/)
+- [Come](/post/come/) [across](/post/across/)
+- [Experience](/post/experience/)
+- [Face](/post/face/)

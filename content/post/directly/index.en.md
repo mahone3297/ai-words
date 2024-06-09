@@ -7,28 +7,28 @@ description = '[diˈrektli] ad.直接地；立即'
 keywords = ['ai words', 'directly']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /dɪˈrektli/
 
 ## Definitions
-### Adverb
-- **Refers to**: Acting or done straightaway; without delay or intervention. For example: "He answered the question directly."
-- **Used to modify**: Verbs, adjectives, or other adverbs, expressing a manner or degree of action. For example: "She spoke directly to the issue."
-- **Denotes**: A specific direction or path. For example: "The road runs directly to the city center."
+### [Adverb](/en/post/adverb/)
+- **Refers [to](/en/post/to/)**: Acting [or](/en/post/or/) done straightaway; [without](/en/post/without/) [delay](/en/post/delay/) [or](/en/post/or/) intervention. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) answered [the](/en/post/the/) [question](/en/post/question/) [directly](/en/post/directly/)."
+- **[Used](/en/post/used/) [to](/en/post/to/) [modify](/en/post/modify/)**: Verbs, adjectives, [or](/en/post/or/) [other](/en/post/other/) adverbs, expressing [a](/en/post/a/) [manner](/en/post/manner/) [or](/en/post/or/) [degree](/en/post/degree/) [of](/en/post/of/) [action](/en/post/action/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke [directly](/en/post/directly/) [to](/en/post/to/) [the](/en/post/the/) [issue](/en/post/issue/)."
+- **Denotes**: [A](/en/post/a/) [specific](/en/post/specific/) [direction](/en/post/direction/) [or](/en/post/or/) [path](/en/post/path/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [road](/en/post/road/) runs [directly](/en/post/directly/) [to](/en/post/to/) [the](/en/post/the/) [city](/en/post/city/) center."
 
 ## Phrases
-- "Speak directly to the point"
-- "Answered the question directly"
-- "He looked her directly in the eye"
+- "[Speak](/en/post/speak/) [directly](/en/post/directly/) [to](/en/post/to/) [the](/en/post/the/) [point](/en/post/point/)"
+- "Answered [the](/en/post/the/) [question](/en/post/question/) [directly](/en/post/directly/)"
+- "[He](/en/post/he/) looked [her](/en/post/her/) [directly](/en/post/directly/) [in](/en/post/in/) [the](/en/post/the/) [eye](/en/post/eye/)"
 
-## Example Sentences
-- "Please address your concerns directly to the manager."
-- "She danced directly under the spotlight."
-- "He listened directly to what his customers wanted."
+## [Example](/en/post/example/) Sentences
+- "[Please](/en/post/please/) [address](/en/post/address/) [your](/en/post/your/) concerns [directly](/en/post/directly/) [to](/en/post/to/) [the](/en/post/the/) manager."
+- "[She](/en/post/she/) danced [directly](/en/post/directly/) [under](/en/post/under/) [the](/en/post/the/) spotlight."
+- "[He](/en/post/he/) listened [directly](/en/post/directly/) [to](/en/post/to/) [what](/en/post/what/) [his](/en/post/his/) customers wanted."
 
 ## Synonyms
-- Immediately
+- [Immediately](/en/post/immediately/)
 - Straightforwardly
-- Clearly
+- [Clearly](/en/post/clearly/)
 - Unambiguously
-- Without hesitation
+- [Without](/en/post/without/) hesitation

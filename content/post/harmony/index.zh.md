@@ -12,21 +12,21 @@ keywords = ['ai words', 'harmony']
 
 ## 释义
 - **名词 n**:
-  - 和谐，和睦，协调。例如: "The different colors in the painting work in perfect harmony."
-  - 协调一致，融洽。例如: "There is a great harmony among the members of the team."
-  - 和声，和音。例如: "The choir created a beautiful harmony during the performance."
+  - 和谐，和睦，协调。例如: "[The](/post/the/) [different](/post/different/) colors [in](/post/in/) [the](/post/the/) [painting](/post/painting/) [work](/post/work/) [in](/post/in/) [perfect](/post/perfect/) [harmony](/post/harmony/)."
+  - 协调一致，融洽。例如: "[There](/post/there/) is [a](/post/a/) [great](/post/great/) [harmony](/post/harmony/) [among](/post/among/) [the](/post/the/) members [of](/post/of/) [the](/post/the/) [team](/post/team/)."
+  - 和声，和音。例如: "[The](/post/the/) choir created [a](/post/a/) [beautiful](/post/beautiful/) [harmony](/post/harmony/) [during](/post/during/) [the](/post/the/) [performance](/post/performance/)."
 
 ## 短语
-- "In harmony with" 意为与...协调一致。例如: "Their ideas were in harmony with the goals of the project."
-- "Harmony of colors" 指颜色的和谐搭配。
+- "[In](/post/in/) [harmony](/post/harmony/) [with](/post/with/)" 意为与...协调一致。例如: "[Their](/post/their/) ideas were [in](/post/in/) [harmony](/post/harmony/) [with](/post/with/) [the](/post/the/) goals [of](/post/of/) [the](/post/the/) [project](/post/project/)."
+- "[Harmony](/post/harmony/) [of](/post/of/) colors" 指颜色的和谐搭配。
 
 ## 例句
-- 名词: "The design of the garden was carefully planned to create a sense of harmony and tranquility."
-- 动词（引申义）: "Their voices harmonized perfectly, creating a mesmerizing melody."
+- 名词: "[The](/post/the/) [design](/post/design/) [of](/post/of/) [the](/post/the/) [garden](/post/garden/) was carefully planned [to](/post/to/) [create](/post/create/) [a](/post/a/) [sense](/post/sense/) [of](/post/of/) [harmony](/post/harmony/) [and](/post/and/) tranquility."
+- 动词（引申义）: "[Their](/post/their/) voices harmonized [perfectly](/post/perfectly/), creating [a](/post/a/) mesmerizing melody."
 
 ## 同义词
-- Agreement
+- [Agreement](/post/agreement/)
 - Consonance
-- Accord
+- [Accord](/post/accord/)
 - Unison
-- Balance
+- [Balance](/post/balance/)

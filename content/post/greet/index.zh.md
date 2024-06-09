@@ -11,20 +11,20 @@ keywords = ['ai words', 'greet']
 /griːt/
 
 ## 释义
-- **动词**: 向某人问候或打招呼。例如: "He greeted her with a smile."
-- **名词**: 问候的行为或表达问候的话语。例如: "They exchanged friendly greetings."
+- **动词**: 向某人问候或打招呼。例如: "[He](/post/he/) greeted [her](/post/her/) [with](/post/with/) [a](/post/a/) [smile](/post/smile/)."
+- **名词**: 问候的行为或表达问候的话语。例如: "[They](/post/they/) exchanged [friendly](/post/friendly/) greetings."
 
 ## 短语
-- "Greet someone warmly" 热情地问候某人。
-- "Greet the day" 意味着以积极的态度迎接新的一天。
+- "[Greet](/post/greet/) [someone](/post/someone/) warmly" 热情地问候某人。
+- "[Greet](/post/greet/) [the](/post/the/) [day](/post/day/)" 意味着以积极的态度迎接新的一天。
 
 ## 例句
-- 动词: "She greeted him with a hug when he arrived."
-- 名词: "The receptionist's job is to greet guests as they enter."
+- 动词: "[She](/post/she/) greeted [him](/post/him/) [with](/post/with/) [a](/post/a/) hug [when](/post/when/) [he](/post/he/) arrived."
+- 名词: "[The](/post/the/) receptionist's [job](/post/job/) is [to](/post/to/) [greet](/post/greet/) guests [as](/post/as/) [they](/post/they/) [enter](/post/enter/)."
 
 ## 同义词
-- Welcome
-- Salute
+- [Welcome](/post/welcome/)
+- [Salute](/post/salute/)
 - Hail
 - Acknowledge
-- Bid farewell (反义词)
+- Bid [farewell](/post/farewell/) (反义词)

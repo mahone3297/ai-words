@@ -11,20 +11,20 @@ keywords = ['ai words', 'toward(s)']
 /təˈwɔːrdz/ (美国英语通常省略's: /təˈwɔːrd/)
 
 ## 释义
-- **介词**: 指向；朝向；对着。例如: "She walked toward the door."
-- **副词**: 向前；朝着目标前进。例如: "We're making progress toward our goal."
+- **介词**: 指向；朝向；对着。例如: "[She](/post/she/) walked toward [the](/post/the/) [door](/post/door/)."
+- **副词**: 向前；朝着目标前进。例如: "We're making [progress](/post/progress/) toward [our](/post/our/) [goal](/post/goal/)."
 
 ## 短语
-- "move toward something" 表示向某物移动。
-- "toward the end of" 在…的末尾，接近…。例如: "Toward the end of the year, we usually plan for the next one."
+- "[move](/post/move/) toward [something](/post/something/)" 表示向某物移动。
+- "toward [the](/post/the/) [end](/post/end/) [of](/post/of/)" 在…的末尾，接近…。例如: "Toward [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [year](/post/year/), [we](/post/we/) [usually](/post/usually/) [plan](/post/plan/) [for](/post/for/) [the](/post/the/) [next](/post/next/) [one](/post/one/)."
 
 ## 例句
-- 介词: "The sun is setting toward the west."
-- 副词: "He started running toward the finish line."
+- 介词: "[The](/post/the/) [sun](/post/sun/) is [setting](/post/setting/) toward [the](/post/the/) [west](/post/west/)."
+- 副词: "[He](/post/he/) started running toward [the](/post/the/) [finish](/post/finish/) [line](/post/line/)."
 
 ## 同义词
 - Towards
-- In the direction of
-- Aimed at
-- Directed to
-- Heading for
+- [In](/post/in/) [the](/post/the/) [direction](/post/direction/) [of](/post/of/)
+- Aimed [at](/post/at/)
+- Directed [to](/post/to/)
+- [Heading](/post/heading/) [for](/post/for/)

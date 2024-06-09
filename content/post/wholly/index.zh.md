@@ -11,20 +11,20 @@ keywords = ['ai words', 'wholly']
 /ˈhəʊlɪ/
 
 ## 释义
-- **副词**: 完全地，全部地，整个地。例如: "He accepted the proposal wholly."
-- **形容词**: 完整的，全部的。例如: "The company is wholly owned by one person."
+- **副词**: 完全地，全部地，整个地。例如: "[He](/post/he/) accepted [the](/post/the/) [proposal](/post/proposal/) [wholly](/post/wholly/)."
+- **形容词**: 完整的，全部的。例如: "[The](/post/the/) [company](/post/company/) is [wholly](/post/wholly/) owned [by](/post/by/) [one](/post/one/) [person](/post/person/)."
 
 ## 短语
-- "Wholly devoted" 意为完全投入的，一心一意的。
-- "Wholly new" 表示全新的，前所未有的。
+- "[Wholly](/post/wholly/) devoted" 意为完全投入的，一心一意的。
+- "[Wholly](/post/wholly/) [new](/post/new/)" 表示全新的，前所未有的。
 
 ## 例句
-- 副词: "She was wholly convinced by his argument."
-- 形容词: "This is a wholly different situation than we expected."
+- 副词: "[She](/post/she/) was [wholly](/post/wholly/) convinced [by](/post/by/) [his](/post/his/) [argument](/post/argument/)."
+- 形容词: "[This](/post/this/) is [a](/post/a/) [wholly](/post/wholly/) [different](/post/different/) [situation](/post/situation/) [than](/post/than/) [we](/post/we/) expected."
 
 ## 同义词
 - Entirely
-- Completely
-- Absolutely
+- [Completely](/post/completely/)
+- [Absolutely](/post/absolutely/)
 - Utterly
-- In full measure
+- [In](/post/in/) [full](/post/full/) [measure](/post/measure/)

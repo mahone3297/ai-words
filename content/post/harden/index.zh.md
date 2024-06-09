@@ -11,20 +11,20 @@ keywords = ['ai words', 'harden']
 /hɑːrdən/
 
 ## 释义
-- **动词**: 变硬；变坚固。例如: "The metal will harden when it cools down."
-- **动词**: （使）变得坚定；（使）变坚强。例如: "The experience hardened her resolve."
+- **动词**: 变硬；变坚固。例如: "[The](/post/the/) [metal](/post/metal/) [will](/post/will/) [harden](/post/harden/) [when](/post/when/) [it](/post/it/) cools [down](/post/down/)."
+- **动词**: （使）变得坚定；（使）变坚强。例如: "[The](/post/the/) [experience](/post/experience/) hardened [her](/post/her/) [resolve](/post/resolve/)."
 
 ## 短语
-- "harden up" 意味着变得更强壮或更有抵抗力。
-- "to harden one's heart" 意味着变得冷酷无情或不为所动。
+- "[harden](/post/harden/) [up](/post/up/)" 意味着变得更强壮或更有抵抗力。
+- "[to](/post/to/) [harden](/post/harden/) one's [heart](/post/heart/)" 意味着变得冷酷无情或不为所动。
 
 ## 例句
-- 动词: "The clay will harden if you leave it in the sun."
-- 动词: "Years of struggle had hardened him, making him less susceptible to emotional pain."
+- 动词: "[The](/post/the/) [clay](/post/clay/) [will](/post/will/) [harden](/post/harden/) [if](/post/if/) [you](/post/you/) [leave](/post/leave/) [it](/post/it/) [in](/post/in/) [the](/post/the/) [sun](/post/sun/)."
+- 动词: "Years [of](/post/of/) [struggle](/post/struggle/) had hardened [him](/post/him/), making [him](/post/him/) [less](/post/less/) susceptible [to](/post/to/) [emotional](/post/emotional/) [pain](/post/pain/)."
 
 ## 同义词
 - toughen
-- strengthen
+- [strengthen](/post/strengthen/)
 - fortify
 - solidify
-- become more resilient
+- [become](/post/become/) [more](/post/more/) resilient

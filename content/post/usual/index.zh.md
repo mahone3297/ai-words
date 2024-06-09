@@ -11,20 +11,20 @@ keywords = ['ai words', 'usual']
 /ˈjuːʒuəl/
 
 ## 释义
-- **形容词**: 常见的，通常的，习惯性的。例如: "It's usual for him to arrive late."
-- **名词**: 通常的事物或情况。例如: "The usual suspects were present at the meeting."
+- **形容词**: 常见的，通常的，习惯性的。例如: "It's [usual](/post/usual/) [for](/post/for/) [him](/post/him/) [to](/post/to/) [arrive](/post/arrive/) [late](/post/late/)."
+- **名词**: 通常的事物或情况。例如: "[The](/post/the/) [usual](/post/usual/) suspects were [present](/post/present/) [at](/post/at/) [the](/post/the/) [meeting](/post/meeting/)."
 
 ## 短语
-- "as usual" 意为像往常一样，照例。例如: "She arrived at work early, as usual."
-- "the usual routine" 指日常的常规活动。例如: "I followed my usual morning routine before heading to work."
+- "[as](/post/as/) [usual](/post/usual/)" 意为像往常一样，照例。例如: "[She](/post/she/) arrived [at](/post/at/) [work](/post/work/) [early](/post/early/), [as](/post/as/) [usual](/post/usual/)."
+- "[the](/post/the/) [usual](/post/usual/) [routine](/post/routine/)" 指日常的常规活动。例如: "I followed [my](/post/my/) [usual](/post/usual/) [morning](/post/morning/) [routine](/post/routine/) [before](/post/before/) [heading](/post/heading/) [to](/post/to/) [work](/post/work/)."
 
 ## 例句
-- 形容词: "We ordered our usual drinks at the café."
-- 名词: "There were no surprises; it was just the usual."
+- 形容词: "[We](/post/we/) ordered [our](/post/our/) [usual](/post/usual/) drinks [at](/post/at/) [the](/post/the/) café."
+- 名词: "[There](/post/there/) were [no](/post/no/) surprises; [it](/post/it/) was [just](/post/just/) [the](/post/the/) [usual](/post/usual/)."
 
 ## 同义词
-- common
-- standard
-- typical
-- ordinary
-- normal
+- [common](/post/common/)
+- [standard](/post/standard/)
+- [typical](/post/typical/)
+- [ordinary](/post/ordinary/)
+- [normal](/post/normal/)

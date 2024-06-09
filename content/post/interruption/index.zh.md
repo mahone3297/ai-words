@@ -11,20 +11,20 @@ keywords = ['ai words', 'interruption']
 /intərˈrʌpʃən/
 
 ## 释义
-- **名词**: 中断；打扰；干扰。例如: "There was an interruption in the power supply."
-- **动词**: 打断；中断。例如: "He interruption my speech with his questions."
+- **名词**: 中断；打扰；干扰。例如: "[There](/post/there/) was an [interruption](/post/interruption/) [in](/post/in/) [the](/post/the/) [power](/post/power/) [supply](/post/supply/)."
+- **动词**: 打断；中断。例如: "[He](/post/he/) [interruption](/post/interruption/) [my](/post/my/) [speech](/post/speech/) [with](/post/with/) [his](/post/his/) questions."
 
 ## 短语
-- "interruption of service" 指服务中断。
-- "interrupt one's work" 意味着打断某人的工作。
+- "[interruption](/post/interruption/) [of](/post/of/) [service](/post/service/)" 指服务中断。
+- "[interrupt](/post/interrupt/) one's [work](/post/work/)" 意味着打断某人的工作。
 
 ## 例句
-- 名词: "The constant interruptions made it difficult to focus on the task."
-- 动词: "Sorry, I didn't mean to interruption your conversation."
+- 名词: "[The](/post/the/) [constant](/post/constant/) interruptions made [it](/post/it/) [difficult](/post/difficult/) [to](/post/to/) [focus](/post/focus/) [on](/post/on/) [the](/post/the/) [task](/post/task/)."
+- 动词: "[Sorry](/post/sorry/), I didn't [mean](/post/mean/) [to](/post/to/) [interruption](/post/interruption/) [your](/post/your/) [conversation](/post/conversation/)."
 
 ## 同义词
-- Break
+- [Break](/post/break/)
 - Disturbance
 - Disruption
-- Halt
-- Interference
+- [Halt](/post/halt/)
+- [Interference](/post/interference/)

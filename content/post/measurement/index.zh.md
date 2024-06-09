@@ -11,20 +11,20 @@ keywords = ['ai words', 'measurement']
 /meˈtrɪsm/
 
 ## 释义
-- **名词**: 测量；度量；衡量。例如: "The measurement of the room was 10 feet by 12 feet."
-- **动词**: 测量；测定。例如: "He measured the distance between two points with a tape measure."
+- **名词**: 测量；度量；衡量。例如: "[The](/post/the/) [measurement](/post/measurement/) [of](/post/of/) [the](/post/the/) [room](/post/room/) was 10 feet [by](/post/by/) 12 feet."
+- **动词**: 测量；测定。例如: "[He](/post/he/) measured [the](/post/the/) [distance](/post/distance/) [between](/post/between/) [two](/post/two/) points [with](/post/with/) [a](/post/a/) [tape](/post/tape/) [measure](/post/measure/)."
 
 ## 短语
-- "take measurements" 意为测量尺寸或大小。
-- "measurement standards" 指的是测量的标准或基准。
+- "[take](/post/take/) measurements" 意为测量尺寸或大小。
+- "[measurement](/post/measurement/) standards" 指的是测量的标准或基准。
 
 ## 例句
-- 名词: "The chef needs accurate measurements for the recipe."
-- 动词: "She carefully measured out the ingredients for the cake."
+- 名词: "[The](/post/the/) chef needs [accurate](/post/accurate/) measurements [for](/post/for/) [the](/post/the/) recipe."
+- 动词: "[She](/post/she/) carefully measured [out](/post/out/) [the](/post/the/) ingredients [for](/post/for/) [the](/post/the/) [cake](/post/cake/)."
 
 ## 同义词
 - assessment
-- gauge
+- [gauge](/post/gauge/)
 - appraisal
-- calculation
+- [calculation](/post/calculation/)
 - estimation

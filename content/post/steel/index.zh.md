@@ -11,22 +11,22 @@ keywords = ['ai words', 'steel']
 /stiːl/
 
 ## 释义
-- **名词**: 1. 钢，一种铁和碳的合金，常用于制造工具、建筑材料等。例如: "Steel is widely used in construction due to its strength."
-- **名词**: 2. (常作复数)钢铁工业，钢铁生产。例如: "The steel industry has been a major contributor to the country's economy."
-- **动词**: 偷窃，非法获取。例如: "He was caught trying to steel a valuable painting from the museum."
+- **名词**: 1. 钢，一种铁和碳的合金，常用于制造工具、建筑材料等。例如: "[Steel](/post/steel/) is [widely](/post/widely/) [used](/post/used/) [in](/post/in/) [construction](/post/construction/) [due](/post/due/) [to](/post/to/) [its](/post/its/) [strength](/post/strength/)."
+- **名词**: 2. (常作复数)钢铁工业，钢铁生产。例如: "[The](/post/the/) [steel](/post/steel/) [industry](/post/industry/) has been [a](/post/a/) [major](/post/major/) contributor [to](/post/to/) [the](/post/the/) country's [economy](/post/economy/)."
+- **动词**: 偷窃，非法获取。例如: "[He](/post/he/) was caught trying [to](/post/to/) [steel](/post/steel/) [a](/post/a/) [valuable](/post/valuable/) [painting](/post/painting/) [from](/post/from/) [the](/post/the/) [museum](/post/museum/)."
 
 ## 短语
-- "steal someone's thunder" 意为抢了别人的风头或功劳。
-- "steel oneself" 意味着使自己坚强起来，准备面对困难。
+- "[steal](/post/steal/) someone's [thunder](/post/thunder/)" 意为抢了别人的风头或功劳。
+- "[steel](/post/steel/) [oneself](/post/oneself/)" 意味着使自己坚强起来，准备面对困难。
 
 ## 例句
-- 名词: "The bridge is made of high-quality steel, ensuring its durability."
-- 名词: "The steelworks employ thousands of workers in the region."
-- 动词: "She tried to steel herself for the difficult conversation with her boss.
+- 名词: "[The](/post/the/) [bridge](/post/bridge/) is made [of](/post/of/) high-quality [steel](/post/steel/), ensuring [its](/post/its/) durability."
+- 名词: "[The](/post/the/) steelworks [employ](/post/employ/) thousands [of](/post/of/) workers [in](/post/in/) [the](/post/the/) [region](/post/region/)."
+- 动词: "[She](/post/she/) tried [to](/post/to/) [steel](/post/steel/) [herself](/post/herself/) [for](/post/for/) [the](/post/the/) [difficult](/post/difficult/) [conversation](/post/conversation/) [with](/post/with/) [her](/post/her/) [boss](/post/boss/).
 
 ## 同义词
-- Metal
-- Iron alloy
-- Rob
+- [Metal](/post/metal/)
+- [Iron](/post/iron/) [alloy](/post/alloy/)
+- [Rob](/post/rob/)
 - Purloin
 - Pillage

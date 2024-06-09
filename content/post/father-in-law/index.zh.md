@@ -12,14 +12,14 @@ keywords = ['ai words', 'father-in-law']
 
 ## 释义
 - **名词**:
-   - 父亲的岳父或母亲的公公。例如: "My husband's father is my father-in-law."
+   - 父亲的岳父或母亲的公公。例如: "[My](/post/my/) husband's [father](/post/father/) is [my](/post/my/) [father-in-law](/post/father-in-law/)."
 
 ## 短语
-- "have a good relationship with one's father-in-law" 表示与岳父或公公关系良好。
+- "[have](/post/have/) [a](/post/a/) [good](/post/good/) [relationship](/post/relationship/) [with](/post/with/) one's [father-in-law](/post/father-in-law/)" 表示与岳父或公公关系良好。
 
 ## 例句
-- "I'm meeting my father-in-law for lunch today."
-- "She's always nervous around her father-in-law."
+- "I'm [meeting](/post/meeting/) [my](/post/my/) [father-in-law](/post/father-in-law/) [for](/post/for/) [lunch](/post/lunch/) [today](/post/today/)."
+- "She's [always](/post/always/) [nervous](/post/nervous/) [around](/post/around/) [her](/post/her/) [father-in-law](/post/father-in-law/)."
 
 ## 同义词
 - 岳父

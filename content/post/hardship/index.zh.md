@@ -11,21 +11,21 @@ keywords = ['ai words', 'hardship']
 /hɑːrdʃɪp/
 
 ## 释义
-- **名词**: 困苦，艰难，困厄。指生活中的困难或挑战。例如: "They had to endure many hardships during the war."
-- **形容词**: （罕见用法）艰苦的，艰难的。例如: "The hardship of the journey made them stronger."
+- **名词**: 困苦，艰难，困厄。指生活中的困难或挑战。例如: "[They](/post/they/) had [to](/post/to/) [endure](/post/endure/) [many](/post/many/) hardships [during](/post/during/) [the](/post/the/) [war](/post/war/)."
+- **形容词**: （罕见用法）艰苦的，艰难的。例如: "[The](/post/the/) [hardship](/post/hardship/) [of](/post/of/) [the](/post/the/) [journey](/post/journey/) made [them](/post/them/) stronger."
 
 ## 短语
-- "Financial hardship" 指经济困难。
-- "Endure hardships" 意味着忍受艰难困苦。
-- "Hardship allowance" 是指为在艰苦条件下工作的人提供的额外补贴。
+- "[Financial](/post/financial/) [hardship](/post/hardship/)" 指经济困难。
+- "[Endure](/post/endure/) hardships" 意味着忍受艰难困苦。
+- "[Hardship](/post/hardship/) allowance" 是指为在艰苦条件下工作的人提供的额外补贴。
 
 ## 例句
-- 名词: "The refugees faced numerous hardships in their new country."
-- 形容词: "The soldiers were trained to survive in harsh and hardship conditions."
+- 名词: "[The](/post/the/) refugees faced [numerous](/post/numerous/) hardships [in](/post/in/) [their](/post/their/) [new](/post/new/) [country](/post/country/)."
+- 形容词: "[The](/post/the/) soldiers were trained [to](/post/to/) [survive](/post/survive/) [in](/post/in/) [harsh](/post/harsh/) [and](/post/and/) [hardship](/post/hardship/) conditions."
 
 ## 同义词
 - Difficulties
 - Struggles
 - Suffering
 - Adversity
-- Trial
+- [Trial](/post/trial/)

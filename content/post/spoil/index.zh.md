@@ -12,23 +12,23 @@ keywords = ['ai words', 'spoil']
 
 ## 释义
 - **动词**:
-    - 破坏，毁掉。例如: "Don't spoil the surprise; it's a secret!"
-    - 宠坏（尤指孩子）。例如: "Too much indulgence can spoil a child."
+    - 破坏，毁掉。例如: "Don't [spoil](/post/spoil/) [the](/post/the/) [surprise](/post/surprise/); it's [a](/post/a/) [secret](/post/secret/)!"
+    - 宠坏（尤指孩子）。例如: "[Too](/post/too/) [much](/post/much/) indulgence [can](/post/can/) [spoil](/post/spoil/) [a](/post/a/) [child](/post/child/)."
 - **名词**:
-    - （食物等）变质，腐败。例如: "Check the expiration date before eating; you don't want to eat spoiled food."
-    - （事件或活动中的）不速之客，扫兴的人或事。例如: "The rain was a real spoiler for our picnic."
+    - （食物等）变质，腐败。例如: "[Check](/post/check/) [the](/post/the/) expiration [date](/post/date/) [before](/post/before/) eating; [you](/post/you/) don't [want](/post/want/) [to](/post/to/) [eat](/post/eat/) spoiled [food](/post/food/)."
+    - （事件或活动中的）不速之客，扫兴的人或事。例如: "[The](/post/the/) [rain](/post/rain/) was [a](/post/a/) [real](/post/real/) spoiler [for](/post/for/) [our](/post/our/) [picnic](/post/picnic/)."
 
 ## 短语
-- "spoil someone's fun" 意为破坏某人的乐趣。
-- "spoil for something" 表示非常渴望做某事。例如: "He was spoiled for choice with so many options."
+- "[spoil](/post/spoil/) someone's [fun](/post/fun/)" 意为破坏某人的乐趣。
+- "[spoil](/post/spoil/) [for](/post/for/) [something](/post/something/)" 表示非常渴望做某事。例如: "[He](/post/he/) was spoiled [for](/post/for/) [choice](/post/choice/) [with](/post/with/) [so](/post/so/) [many](/post/many/) options."
 
 ## 例句
-- 动词: "Please don't spoil the ending of the movie for me."
-- 名词: "The smell indicated that the milk had spoiled."
+- 动词: "[Please](/post/please/) don't [spoil](/post/spoil/) [the](/post/the/) [ending](/post/ending/) [of](/post/of/) [the](/post/the/) [movie](/post/movie/) [for](/post/for/) [me](/post/me/)."
+- 名词: "[The](/post/the/) [smell](/post/smell/) indicated [that](/post/that/) [the](/post/the/) [milk](/post/milk/) had spoiled."
 
 ## 同义词
-- Ruin
-- Damage
-- Wreck
-- Harm
-- Destroy
+- [Ruin](/post/ruin/)
+- [Damage](/post/damage/)
+- [Wreck](/post/wreck/)
+- [Harm](/post/harm/)
+- [Destroy](/post/destroy/)

@@ -11,21 +11,21 @@ keywords = ['ai words', 'strengthen']
 /strenθən/
 
 ## 释义
-- **动词**: 增强；加强。例如: "Regular exercise can strengthen your muscles."
-- **名词**: 加强；增强（的动作或过程）。例如: "The company's efforts to strengthen its financial position."
+- **动词**: 增强；加强。例如: "[Regular](/post/regular/) [exercise](/post/exercise/) [can](/post/can/) [strengthen](/post/strengthen/) [your](/post/your/) muscles."
+- **名词**: 加强；增强（的动作或过程）。例如: "[The](/post/the/) company's efforts [to](/post/to/) [strengthen](/post/strengthen/) [its](/post/its/) [financial](/post/financial/) [position](/post/position/)."
 
 ## 短语
-- "strengthen one's resolve" 坚定决心。
-- "strengthen the bond" 加固或增进关系。
-- "strengthen the immune system" 提高免疫力。
+- "[strengthen](/post/strengthen/) one's [resolve](/post/resolve/)" 坚定决心。
+- "[strengthen](/post/strengthen/) [the](/post/the/) [bond](/post/bond/)" 加固或增进关系。
+- "[strengthen](/post/strengthen/) [the](/post/the/) immune [system](/post/system/)" 提高免疫力。
 
 ## 例句
-- 动词: "He has been working out to strengthen his arms."
-- 名词: "The policy was designed to strengthen the economy."
+- 动词: "[He](/post/he/) has been working [out](/post/out/) [to](/post/to/) [strengthen](/post/strengthen/) [his](/post/his/) arms."
+- 名词: "[The](/post/the/) [policy](/post/policy/) was designed [to](/post/to/) [strengthen](/post/strengthen/) [the](/post/the/) [economy](/post/economy/)."
 
 ## 同义词
 - fortify
-- reinforce
+- [reinforce](/post/reinforce/)
 - boost
-- amplify
+- [amplify](/post/amplify/)
 - enhance

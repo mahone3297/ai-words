@@ -12,24 +12,24 @@ keywords = ['ai words', 'approve']
 
 ## 释义
 - **动词**:
-1. 批准，赞成。例如: "The boss approved the new project plan."
-2. 同意，认可。例如: "I need your approval before I can make any changes."
-3. 确认，证实。例如: "The document has been approved and signed by all parties."
+1. 批准，赞成。例如: "[The](/post/the/) [boss](/post/boss/) approved [the](/post/the/) [new](/post/new/) [project](/post/project/) [plan](/post/plan/)."
+2. 同意，认可。例如: "I [need](/post/need/) [your](/post/your/) [approval](/post/approval/) [before](/post/before/) I [can](/post/can/) [make](/post/make/) [any](/post/any/) changes."
+3. 确认，证实。例如: "[The](/post/the/) [document](/post/document/) has been approved [and](/post/and/) signed [by](/post/by/) [all](/post/all/) parties."
 
 - **名词**:
-批准，同意。例如: "We're waiting for the official approval from the government."
+批准，同意。例如: "We're waiting [for](/post/for/) [the](/post/the/) [official](/post/official/) [approval](/post/approval/) [from](/post/from/) [the](/post/the/) [government](/post/government/)."
 
 ## 短语
-- "to give one's approval" 意为给予同意或批准。
-- "await approval" 表示等待批准或认可。
+- "[to](/post/to/) [give](/post/give/) one's [approval](/post/approval/)" 意为给予同意或批准。
+- "[await](/post/await/) [approval](/post/approval/)" 表示等待批准或认可。
 
 ## 例句
-- 动词: "The manager approved the expense report without any issues."
-- 名词: "Their proposal received widespread approval from the public."
+- 动词: "[The](/post/the/) manager approved [the](/post/the/) [expense](/post/expense/) [report](/post/report/) [without](/post/without/) [any](/post/any/) issues."
+- 名词: "[Their](/post/their/) [proposal](/post/proposal/) received [widespread](/post/widespread/) [approval](/post/approval/) [from](/post/from/) [the](/post/the/) [public](/post/public/)."
 
 ## 同义词
-- consent
+- [consent](/post/consent/)
 - endorse
 - sanction
 - ratify
-- confirm
+- [confirm](/post/confirm/)

@@ -7,26 +7,26 @@ description = '[imˈbærəs] vt.使窘迫，使为难'
 keywords = ['ai words', 'embarrass']
 +++
 
-## Word: Embarrass
+## [Word](/en/post/word/): [Embarrass](/en/post/embarrass/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ɪmˈbærəs/
 
 ## Definitions
-- **Verb**: (v) To cause (someone) to feel self-conscious, awkward, or ashamed; to disconcert or discomfort by causing a loss of poise or composure. Example: "Her clumsiness embarrassed her in front of the entire class."
-- **Noun**: (n) A feeling of self-consciousness, shame, or awkwardness; a state of being disconcerted or uncomfortable due to a socially unacceptable situation or because of something one has done. Example: "His public speaking phobia often leads to embarrassment."
+- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [cause](/en/post/cause/) ([someone](/en/post/someone/)) [to](/en/post/to/) [feel](/en/post/feel/) self-conscious, [awkward](/en/post/awkward/), [or](/en/post/or/) [ashamed](/en/post/ashamed/); [to](/en/post/to/) disconcert [or](/en/post/or/) discomfort [by](/en/post/by/) causing [a](/en/post/a/) [loss](/en/post/loss/) [of](/en/post/of/) poise [or](/en/post/or/) composure. [Example](/en/post/example/): "[Her](/en/post/her/) clumsiness embarrassed [her](/en/post/her/) [in](/en/post/in/) [front](/en/post/front/) [of](/en/post/of/) [the](/en/post/the/) [entire](/en/post/entire/) [class](/en/post/class/)."
+- **[Noun](/en/post/noun/)**: (n) [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) self-consciousness, [shame](/en/post/shame/), [or](/en/post/or/) awkwardness; [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) disconcerted [or](/en/post/or/) [uncomfortable](/en/post/uncomfortable/) [due](/en/post/due/) [to](/en/post/to/) [a](/en/post/a/) socially unacceptable [situation](/en/post/situation/) [or](/en/post/or/) [because](/en/post/because/) [of](/en/post/of/) [something](/en/post/something/) [one](/en/post/one/) has done. [Example](/en/post/example/): "[His](/en/post/his/) [public](/en/post/public/) speaking phobia [often](/en/post/often/) leads [to](/en/post/to/) embarrassment."
 
 ## Phrases
-- "To be embarrassed about something": To feel shame or unease regarding a particular event or action.
-- "Embarrassment of riches": An idiom meaning an overabundance or surplus that can be overwhelming or lead to indecision.
-- "Embarrass oneself": To do something that causes one to lose face or become the subject of ridicule.
+- "[To](/en/post/to/) [be](/en/post/be/) embarrassed [about](/en/post/about/) [something](/en/post/something/)": [To](/en/post/to/) [feel](/en/post/feel/) [shame](/en/post/shame/) [or](/en/post/or/) unease [regarding](/en/post/regarding/) [a](/en/post/a/) [particular](/en/post/particular/) [event](/en/post/event/) [or](/en/post/or/) [action](/en/post/action/).
+- "Embarrassment [of](/en/post/of/) riches": An [idiom](/en/post/idiom/) [meaning](/en/post/meaning/) an overabundance [or](/en/post/or/) surplus [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) overwhelming [or](/en/post/or/) [lead](/en/post/lead/) [to](/en/post/to/) indecision.
+- "[Embarrass](/en/post/embarrass/) [oneself](/en/post/oneself/)": [To](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) [that](/en/post/that/) causes [one](/en/post/one/) [to](/en/post/to/) [lose](/en/post/lose/) [face](/en/post/face/) [or](/en/post/or/) [become](/en/post/become/) [the](/en/post/the/) [subject](/en/post/subject/) [of](/en/post/of/) ridicule.
 
-## Example Sentences
-- **Verb**: "I accidentally spilled coffee on my shirt during the meeting, which really embarrassed me."
-- **Noun**: "The embarrassing moment haunted her every time she thought back on it."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/)**: "I accidentally spilled [coffee](/en/post/coffee/) [on](/en/post/on/) [my](/en/post/my/) [shirt](/en/post/shirt/) [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/), [which](/en/post/which/) [really](/en/post/really/) embarrassed [me](/en/post/me/)."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) embarrassing [moment](/en/post/moment/) haunted [her](/en/post/her/) [every](/en/post/every/) [time](/en/post/time/) [she](/en/post/she/) [thought](/en/post/thought/) [back](/en/post/back/) [on](/en/post/on/) [it](/en/post/it/)."
 
 ## Synonyms
-- Shame
+- [Shame](/en/post/shame/)
 - Humiliate
 - Awkwardness
 - Discomfit
@@ -34,5 +34,5 @@ keywords = ['ai words', 'embarrass']
 - Mortify
 - Chagrin
 - Self-consciousness
-- Confuse
+- [Confuse](/en/post/confuse/)
 - Discomfort

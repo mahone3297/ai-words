@@ -7,38 +7,38 @@ description = '[traib] n.部落，宗族'
 keywords = ['ai words', 'tribe']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /trɪb/
 
 ## Definitions
-### Noun
-A **tribe** is a group of people who share a common descent, culture, or language, often living together in a relatively isolated community and maintaining a distinct identity.
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) **[tribe](/en/post/tribe/)** is [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) [share](/en/post/share/) [a](/en/post/a/) [common](/en/post/common/) descent, [culture](/en/post/culture/), [or](/en/post/or/) [language](/en/post/language/), [often](/en/post/often/) [living](/en/post/living/) [together](/en/post/together/) [in](/en/post/in/) [a](/en/post/a/) [relatively](/en/post/relatively/) isolated [community](/en/post/community/) [and](/en/post/and/) maintaining [a](/en/post/a/) [distinct](/en/post/distinct/) identity.
 
-### Verb
-To **tribe** (as in "tribe together") can mean to affiliate or form a close-knit group, especially in terms of shared interests or beliefs.
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) **[tribe](/en/post/tribe/)** ([as](/en/post/as/) [in](/en/post/in/) "[tribe](/en/post/tribe/) [together](/en/post/together/)") [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) affiliate [or](/en/post/or/) [form](/en/post/form/) [a](/en/post/a/) close-knit [group](/en/post/group/), [especially](/en/post/especially/) [in](/en/post/in/) terms [of](/en/post/of/) shared interests [or](/en/post/or/) beliefs.
 
 ## Phrases
-- "Join the tribe" signifies becoming part of a particular community or movement.
-- "Born into a tribe" refers to being born into a specific cultural or familial group.
-- "Lose touch with one's tribe" means to become disconnected from one's cultural roots or community.
+- "[Join](/en/post/join/) [the](/en/post/the/) [tribe](/en/post/tribe/)" signifies becoming [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [community](/en/post/community/) [or](/en/post/or/) [movement](/en/post/movement/).
+- "[Born](/en/post/born/) [into](/en/post/into/) [a](/en/post/a/) [tribe](/en/post/tribe/)" refers [to](/en/post/to/) [being](/en/post/being/) [born](/en/post/born/) [into](/en/post/into/) [a](/en/post/a/) [specific](/en/post/specific/) cultural [or](/en/post/or/) familial [group](/en/post/group/).
+- "[Lose](/en/post/lose/) [touch](/en/post/touch/) [with](/en/post/with/) one's [tribe](/en/post/tribe/)" [means](/en/post/means/) [to](/en/post/to/) [become](/en/post/become/) disconnected [from](/en/post/from/) one's cultural roots [or](/en/post/or/) [community](/en/post/community/).
 
-## Example Sentences
-- **Noun**: "The indigenous tribe lived harmoniously in their ancestral land."
-- **Verb**: "They decided to tribe together and start a sustainable farming project."
-- **Implied Verb**: "Her children were raised to feel a strong connection to their tribe's traditions."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) indigenous [tribe](/en/post/tribe/) lived harmoniously [in](/en/post/in/) [their](/en/post/their/) ancestral [land](/en/post/land/)."
+- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [tribe](/en/post/tribe/) [together](/en/post/together/) [and](/en/post/and/) [start](/en/post/start/) [a](/en/post/a/) sustainable farming [project](/en/post/project/)."
+- **Implied [Verb](/en/post/verb/)**: "[Her](/en/post/her/) children were raised [to](/en/post/to/) [feel](/en/post/feel/) [a](/en/post/a/) [strong](/en/post/strong/) [connection](/en/post/connection/) [to](/en/post/to/) [their](/en/post/their/) tribe's traditions."
 
 ## Synonyms
 - Clan
-- Community
+- [Community](/en/post/community/)
 - Kinfolk
-- Group
-- Collective
+- [Group](/en/post/group/)
+- [Collective](/en/post/collective/)
 - Congregation
-- Band
+- [Band](/en/post/band/)
 
 ## Antonyms
 - Outsider
-- Individual
+- [Individual](/en/post/individual/)
 - Isolation
-- Separation
+- [Separation](/en/post/separation/)
 - Detachment

@@ -11,20 +11,20 @@ keywords = ['ai words', 'living-room']
 /ˈlɪvɪŋ ruːm/
 
 ## 释义
-- **名词**: 家中供日常休闲、娱乐或接待客人的房间，通常与起居室、客厅同义。例如: "The living-room has a comfortable sofa and a large TV."
-- **形容词**: 形容词用法较少，但可以指代活着的、有生命的。在"living-room"这个短语中，"living"作为形容词修饰"room"，表示这是家中充满生活气息的空间。
+- **名词**: 家中供日常休闲、娱乐或接待客人的房间，通常与起居室、客厅同义。例如: "[The](/post/the/) [living-room](/post/living-room/) has [a](/post/a/) [comfortable](/post/comfortable/) sofa [and](/post/and/) [a](/post/a/) [large](/post/large/) TV."
+- **形容词**: 形容词用法较少，但可以指代活着的、有生命的。在"[living-room](/post/living-room/)"这个短语中，"[living](/post/living/)"作为形容词修饰"[room](/post/room/)"，表示这是家中充满生活气息的空间。
 
 ## 短语
-- "The living-room furniture" 指客厅里的家具。
-- "Entertain guests in the living-room" 意为在客厅招待客人。
+- "[The](/post/the/) [living-room](/post/living-room/) [furniture](/post/furniture/)" 指客厅里的家具。
+- "[Entertain](/post/entertain/) guests [in](/post/in/) [the](/post/the/) [living-room](/post/living-room/)" 意为在客厅招待客人。
 
 ## 例句
-- 名词: "We decorated the living-room with new curtains and a rug."
-- 形容词: "The living plants add a touch of freshness to the living-room."
+- 名词: "[We](/post/we/) decorated [the](/post/the/) [living-room](/post/living-room/) [with](/post/with/) [new](/post/new/) curtains [and](/post/and/) [a](/post/a/) [rug](/post/rug/)."
+- 形容词: "[The](/post/the/) [living](/post/living/) plants [add](/post/add/) [a](/post/a/) [touch](/post/touch/) [of](/post/of/) freshness [to](/post/to/) [the](/post/the/) [living-room](/post/living-room/)."
 
 ## 同义词
 - Lounge
-- Sitting room
-- Family room
+- Sitting [room](/post/room/)
+- [Family](/post/family/) [room](/post/room/)
 - Parlor
-- Drawing room
+- [Drawing](/post/drawing/) [room](/post/room/)

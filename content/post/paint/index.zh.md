@@ -11,24 +11,24 @@ keywords = ['ai words', 'paint']
 /pəɪnt/
 
 ## 释义
-- **名词**: 1. 颜料，绘画颜料。例如: "She bought a tube of red paint for her art project."
-   2. 涂抹，绘画。例如: "The walls were freshly painted in a light blue color."
-   3. (电脑)画图程序。例如: "The kids love playing with the computer's paint program."
+- **名词**: 1. 颜料，绘画颜料。例如: "[She](/post/she/) bought [a](/post/a/) [tube](/post/tube/) [of](/post/of/) [red](/post/red/) [paint](/post/paint/) [for](/post/for/) [her](/post/her/) [art](/post/art/) [project](/post/project/)."
+   2. 涂抹，绘画。例如: "[The](/post/the/) walls were freshly painted [in](/post/in/) [a](/post/a/) [light](/post/light/) [blue](/post/blue/) [color](/post/color/)."
+   3. (电脑)画图程序。例如: "[The](/post/the/) kids [love](/post/love/) playing [with](/post/with/) [the](/post/the/) computer's [paint](/post/paint/) [program](/post/program/)."
 
-- **动词**: 1. 用颜料涂抹，涂色。例如: "He is painting a landscape on canvas."
-   2. 指出，强调。例如: "The teacher pointed out the main idea in the text."
-   3. 绘制图像。例如: "She paints beautiful portraits of her friends."
+- **动词**: 1. 用颜料涂抹，涂色。例如: "[He](/post/he/) is [painting](/post/painting/) [a](/post/a/) landscape [on](/post/on/) [canvas](/post/canvas/)."
+   2. 指出，强调。例如: "[The](/post/the/) [teacher](/post/teacher/) pointed [out](/post/out/) [the](/post/the/) [main](/post/main/) [idea](/post/idea/) [in](/post/in/) [the](/post/the/) [text](/post/text/)."
+   3. 绘制图像。例如: "[She](/post/she/) paints [beautiful](/post/beautiful/) portraits [of](/post/of/) [her](/post/her/) friends."
 
 ## 短语
-- "paint a picture" 意味着描述一个场景或情况。
-- "paint the town red" 表示尽情享乐，狂野狂欢。
+- "[paint](/post/paint/) [a](/post/a/) [picture](/post/picture/)" 意味着描述一个场景或情况。
+- "[paint](/post/paint/) [the](/post/the/) [town](/post/town/) [red](/post/red/)" 表示尽情享乐，狂野狂欢。
 
 ## 例句
-- 名词: "The artist mixed various paints to create a unique color."
-- 动词: "She spends every weekend painting in her studio."
-- 感叹词（用在某些固定表达中）: "Paint the house blue!"
+- 名词: "[The](/post/the/) [artist](/post/artist/) mixed [various](/post/various/) paints [to](/post/to/) [create](/post/create/) [a](/post/a/) [unique](/post/unique/) [color](/post/color/)."
+- 动词: "[She](/post/she/) spends [every](/post/every/) [weekend](/post/weekend/) [painting](/post/painting/) [in](/post/in/) [her](/post/her/) studio."
+- 感叹词（用在某些固定表达中）: "[Paint](/post/paint/) [the](/post/the/) [house](/post/house/) [blue](/post/blue/)!"
 
 ## 同义词
-- 颜料: pigment, dye
-- 涂抹: coat, color, decorate
-- 绘画: draw, sketch, illustrate
+- 颜料: pigment, [dye](/post/dye/)
+- 涂抹: [coat](/post/coat/), [color](/post/color/), [decorate](/post/decorate/)
+- 绘画: [draw](/post/draw/), [sketch](/post/sketch/), [illustrate](/post/illustrate/)

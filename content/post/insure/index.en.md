@@ -7,35 +7,35 @@ description = '[inˈ∫uə] vt.给…保险；确保'
 keywords = ['ai words', 'insure']
 +++
 
-## Word: Insure
+## [Word](/en/post/word/): [Insure](/en/post/insure/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ɪnˈʃʊr/
 
 ## Definitions
-- **Verb**: (v) To arrange insurance for something or someone against loss, damage, illness, death, or other specified risks; to protect financially by means of an insurance policy. For example: "She decided to insure her car against theft and accidents."
+- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [arrange](/en/post/arrange/) [insurance](/en/post/insurance/) [for](/en/post/for/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/) [against](/en/post/against/) [loss](/en/post/loss/), [damage](/en/post/damage/), [illness](/en/post/illness/), [death](/en/post/death/), [or](/en/post/or/) [other](/en/post/other/) specified risks; [to](/en/post/to/) [protect](/en/post/protect/) financially [by](/en/post/by/) [means](/en/post/means/) [of](/en/post/of/) an [insurance](/en/post/insurance/) [policy](/en/post/policy/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [insure](/en/post/insure/) [her](/en/post/her/) [car](/en/post/car/) [against](/en/post/against/) theft [and](/en/post/and/) accidents."
 
-Example Sentence: "I need to insure my new house against fire and flood damage."
+[Example](/en/post/example/) [Sentence](/en/post/sentence/): "I [need](/en/post/need/) [to](/en/post/to/) [insure](/en/post/insure/) [my](/en/post/my/) [new](/en/post/new/) [house](/en/post/house/) [against](/en/post/against/) [fire](/en/post/fire/) [and](/en/post/and/) [flood](/en/post/flood/) [damage](/en/post/damage/)."
 
-- **Verb**: (archaic or American English) To make certain or secure; guarantee. For instance: "By studying diligently, he insured his success on the exam."
+- **[Verb](/en/post/verb/)**: (archaic [or](/en/post/or/) [American](/en/post/american/) English) [To](/en/post/to/) [make](/en/post/make/) [certain](/en/post/certain/) [or](/en/post/or/) [secure](/en/post/secure/); [guarantee](/en/post/guarantee/). [For](/en/post/for/) [instance](/en/post/instance/): "[By](/en/post/by/) studying diligently, [he](/en/post/he/) insured [his](/en/post/his/) [success](/en/post/success/) [on](/en/post/on/) [the](/en/post/the/) [exam](/en/post/exam/)."
 
-Example Sentence: "They took every precaution to insure the safety of the guests."
+[Example](/en/post/example/) [Sentence](/en/post/sentence/): "[They](/en/post/they/) took [every](/en/post/every/) [precaution](/en/post/precaution/) [to](/en/post/to/) [insure](/en/post/insure/) [the](/en/post/the/) [safety](/en/post/safety/) [of](/en/post/of/) [the](/en/post/the/) guests."
 
 ## Phrases
-- "Insure against": This phrase is used when talking about taking out insurance coverage for specific risks. Example: "We're insuring against any potential liability issues."
+- "[Insure](/en/post/insure/) [against](/en/post/against/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [when](/en/post/when/) talking [about](/en/post/about/) taking [out](/en/post/out/) [insurance](/en/post/insurance/) coverage [for](/en/post/for/) [specific](/en/post/specific/) risks. [Example](/en/post/example/): "We're insuring [against](/en/post/against/) [any](/en/post/any/) [potential](/en/post/potential/) liability issues."
   
-- "To be fully insured": This means that all possible risks or losses have been covered by insurance policies. Example: "The company is fully insured against natural disasters."
+- "[To](/en/post/to/) [be](/en/post/be/) fully insured": [This](/en/post/this/) [means](/en/post/means/) [that](/en/post/that/) [all](/en/post/all/) [possible](/en/post/possible/) risks [or](/en/post/or/) losses [have](/en/post/have/) been covered [by](/en/post/by/) [insurance](/en/post/insurance/) policies. [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is fully insured [against](/en/post/against/) [natural](/en/post/natural/) disasters."
 
-## Example Sentences
-- **Verb (insurance)**: "Before traveling abroad, he made sure to insure his health for any unexpected medical emergencies."
-- **Verb (guarantee)**: "His tireless work ethic insured him a spot on the Olympic team."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/) ([insurance](/en/post/insurance/))**: "[Before](/en/post/before/) traveling [abroad](/en/post/abroad/), [he](/en/post/he/) made [sure](/en/post/sure/) [to](/en/post/to/) [insure](/en/post/insure/) [his](/en/post/his/) [health](/en/post/health/) [for](/en/post/for/) [any](/en/post/any/) [unexpected](/en/post/unexpected/) [medical](/en/post/medical/) emergencies."
+- **[Verb](/en/post/verb/) ([guarantee](/en/post/guarantee/))**: "[His](/en/post/his/) tireless [work](/en/post/work/) ethic insured [him](/en/post/him/) [a](/en/post/a/) [spot](/en/post/spot/) [on](/en/post/on/) [the](/en/post/the/) Olympic [team](/en/post/team/)."
 
 ## Synonyms
-- Ensure (in the sense of guaranteeing something)
-- Protect
-- Cover (with insurance)
+- [Ensure](/en/post/ensure/) ([in](/en/post/in/) [the](/en/post/the/) [sense](/en/post/sense/) [of](/en/post/of/) guaranteeing [something](/en/post/something/))
+- [Protect](/en/post/protect/)
+- [Cover](/en/post/cover/) ([with](/en/post/with/) [insurance](/en/post/insurance/))
 - Indemnify
-- Guarantee
-- Secure (against risk)
+- [Guarantee](/en/post/guarantee/)
+- [Secure](/en/post/secure/) ([against](/en/post/against/) [risk](/en/post/risk/))
 
-Note: The verb 'ensure' is often confused with 'insure', but while 'insure' generally relates to financial protection through insurance, 'ensure' typically means to make certain that something happens or is the case. In some cases, especially in American English, 'insure' may also be used to mean 'ensure'. However, this usage is considered non-standard by some and is more common in informal contexts.
+[Note](/en/post/note/): [The](/en/post/the/) [verb](/en/post/verb/) '[ensure](/en/post/ensure/)' is [often](/en/post/often/) confused [with](/en/post/with/) '[insure](/en/post/insure/)', [but](/en/post/but/) [while](/en/post/while/) '[insure](/en/post/insure/)' [generally](/en/post/generally/) relates [to](/en/post/to/) [financial](/en/post/financial/) [protection](/en/post/protection/) [through](/en/post/through/) [insurance](/en/post/insurance/), '[ensure](/en/post/ensure/)' typically [means](/en/post/means/) [to](/en/post/to/) [make](/en/post/make/) [certain](/en/post/certain/) [that](/en/post/that/) [something](/en/post/something/) happens [or](/en/post/or/) is [the](/en/post/the/) [case](/en/post/case/). [In](/en/post/in/) [some](/en/post/some/) cases, [especially](/en/post/especially/) [in](/en/post/in/) [American](/en/post/american/) English, '[insure](/en/post/insure/)' [may](/en/post/may/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) [to](/en/post/to/) [mean](/en/post/mean/) '[ensure](/en/post/ensure/)'. [However](/en/post/however/), [this](/en/post/this/) [usage](/en/post/usage/) is considered non-standard [by](/en/post/by/) [some](/en/post/some/) [and](/en/post/and/) is [more](/en/post/more/) [common](/en/post/common/) [in](/en/post/in/) informal contexts.

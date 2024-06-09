@@ -12,22 +12,22 @@ keywords = ['ai words', 'moment']
 
 ## 释义
 - **名词**:
-  - 瞬间，片刻。例如: "I'll be with you in a moment."
-  - 重要时刻，关键时刻。例如: "The moment of truth has arrived."
+  - 瞬间，片刻。例如: "I'll [be](/post/be/) [with](/post/with/) [you](/post/you/) [in](/post/in/) [a](/post/a/) [moment](/post/moment/)."
+  - 重要时刻，关键时刻。例如: "[The](/post/the/) [moment](/post/moment/) [of](/post/of/) [truth](/post/truth/) has arrived."
 - **形容词**:
-  - 关键的，决定性的。例如: "This is a momentous decision."
+  - 关键的，决定性的。例如: "[This](/post/this/) is [a](/post/a/) momentous [decision](/post/decision/)."
 
 ## 短语
-- "At this moment" 意为此刻，现在。
-- "In a moment" 意为一会儿，很快。
+- "[At](/post/at/) [this](/post/this/) [moment](/post/moment/)" 意为此刻，现在。
+- "[In](/post/in/) [a](/post/a/) [moment](/post/moment/)" 意为一会儿，很快。
 
 ## 例句
-- 名词: "Let's capture this happy moment in a photograph."
-- 形容词: "His speech was filled with momentous announcements."
+- 名词: "Let's [capture](/post/capture/) [this](/post/this/) [happy](/post/happy/) [moment](/post/moment/) [in](/post/in/) [a](/post/a/) [photograph](/post/photograph/)."
+- 形容词: "[His](/post/his/) [speech](/post/speech/) was filled [with](/post/with/) momentous announcements."
 
 ## 同义词
-- instant
-- second
-- brief period
-- fleeting time
-- decisive point
+- [instant](/post/instant/)
+- [second](/post/second/)
+- [brief](/post/brief/) [period](/post/period/)
+- fleeting [time](/post/time/)
+- decisive [point](/post/point/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'warmth']
 /wɔːrmθ/
 
 ## 释义
-- **名词**: 温暖；暖和。指温度适宜或情感上的亲切感。例如: "The warmth of the sun on my face was delightful." 
-- **形容词**: 温暖的；热情的。描述人的态度或气氛。例如: "He greeted us with genuine warmth."
+- **名词**: 温暖；暖和。指温度适宜或情感上的亲切感。例如: "[The](/post/the/) [warmth](/post/warmth/) [of](/post/of/) [the](/post/the/) [sun](/post/sun/) [on](/post/on/) [my](/post/my/) [face](/post/face/) was delightful." 
+- **形容词**: 温暖的；热情的。描述人的态度或气氛。例如: "[He](/post/he/) greeted [us](/post/us/) [with](/post/with/) [genuine](/post/genuine/) [warmth](/post/warmth/)."
 
 ## 短语
-- "Warmth of heart" 指内心的善良和热情。
-- "The warmth of a fire" 指火炉或火源带来的热量。
+- "[Warmth](/post/warmth/) [of](/post/of/) [heart](/post/heart/)" 指内心的善良和热情。
+- "[The](/post/the/) [warmth](/post/warmth/) [of](/post/of/) [a](/post/a/) [fire](/post/fire/)" 指火炉或火源带来的热量。
 
 ## 例句
-- 名词: "I felt the warmth of the room after stepping in from the cold."
-- 形容词: "Her hospitality was marked by warmth and generosity."
+- 名词: "I felt [the](/post/the/) [warmth](/post/warmth/) [of](/post/of/) [the](/post/the/) [room](/post/room/) [after](/post/after/) stepping [in](/post/in/) [from](/post/from/) [the](/post/the/) [cold](/post/cold/)."
+- 形容词: "[Her](/post/her/) hospitality was marked [by](/post/by/) [warmth](/post/warmth/) [and](/post/and/) generosity."
 
 ## 同义词
-- Heat
+- [Heat](/post/heat/)
 - Warmthy
 - Cordiality
 - Affectionate
-- Friendly
+- [Friendly](/post/friendly/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'previous']
 /ˈprɪviəs/
 
 ## 释义
-- **形容词**: 之前的，早先的，以前的。例如: "I need to review the previous year's financial reports."
-- **副词**: 事先，以前。例如: "She had visited the city on a previous occasion."
+- **形容词**: 之前的，早先的，以前的。例如: "I [need](/post/need/) [to](/post/to/) [review](/post/review/) [the](/post/the/) [previous](/post/previous/) year's [financial](/post/financial/) reports."
+- **副词**: 事先，以前。例如: "[She](/post/she/) had visited [the](/post/the/) [city](/post/city/) [on](/post/on/) [a](/post/a/) [previous](/post/previous/) [occasion](/post/occasion/)."
 
 ## 短语
-- "previous to" 意为在...之前。
-- "the previous day/week/month" 指的是前一天/周/月。
+- "[previous](/post/previous/) [to](/post/to/)" 意为在...之前。
+- "[the](/post/the/) [previous](/post/previous/) [day](/post/day/)/[week](/post/week/)/[month](/post/month/)" 指的是前一天/周/月。
 
 ## 例句
-- 形容词: "The previous tenant left the apartment in good condition."
-- 副词: "We discussed this issue in a previous meeting."
+- 形容词: "[The](/post/the/) [previous](/post/previous/) [tenant](/post/tenant/) [left](/post/left/) [the](/post/the/) [apartment](/post/apartment/) [in](/post/in/) [good](/post/good/) [condition](/post/condition/)."
+- 副词: "[We](/post/we/) discussed [this](/post/this/) [issue](/post/issue/) [in](/post/in/) [a](/post/a/) [previous](/post/previous/) [meeting](/post/meeting/)."
 
 ## 同义词
-- Former
+- [Former](/post/former/)
 - Earlier
-- Past
+- [Past](/post/past/)
 - Anterior
-- Preceding
+- [Preceding](/post/preceding/)

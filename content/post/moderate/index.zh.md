@@ -11,21 +11,21 @@ keywords = ['ai words', 'moderate']
 /ˈmɑːdərət/
 
 ## 释义
-- **形容词**: 温和的，适度的。例如: "The weather is moderate today, neither too hot nor too cold."
-- **动词**: 控制，缓和。例如: "He moderated his tone when he realized he was raising his voice."
-- **名词**: （政治）中庸派，温和派。例如: "The moderate candidate gained the most votes in the election."
+- **形容词**: 温和的，适度的。例如: "[The](/post/the/) [weather](/post/weather/) is [moderate](/post/moderate/) [today](/post/today/), [neither](/post/neither/) [too](/post/too/) [hot](/post/hot/) [nor](/post/nor/) [too](/post/too/) [cold](/post/cold/)."
+- **动词**: 控制，缓和。例如: "[He](/post/he/) moderated [his](/post/his/) [tone](/post/tone/) [when](/post/when/) [he](/post/he/) realized [he](/post/he/) was raising [his](/post/his/) [voice](/post/voice/)."
+- **名词**: （政治）中庸派，温和派。例如: "[The](/post/the/) [moderate](/post/moderate/) [candidate](/post/candidate/) gained [the](/post/the/) [most](/post/most/) votes [in](/post/in/) [the](/post/the/) [election](/post/election/)."
 
 ## 短语
-- "to keep something moderate" 保持适度，不走极端。
-- "moderate opinions" 中间立场的观点。
+- "[to](/post/to/) [keep](/post/keep/) [something](/post/something/) [moderate](/post/moderate/)" 保持适度，不走极端。
+- "[moderate](/post/moderate/) opinions" 中间立场的观点。
 
 ## 例句
-- 形容词: "Her lifestyle is very moderate, with a balanced diet and regular exercise."
-- 动词: "The moderator's role is to moderate the discussion and ensure all participants have a chance to speak."
-- 名词: "In the debate, the moderates proposed a compromise between the two opposing sides."
+- 形容词: "[Her](/post/her/) lifestyle is [very](/post/very/) [moderate](/post/moderate/), [with](/post/with/) [a](/post/a/) balanced diet [and](/post/and/) [regular](/post/regular/) [exercise](/post/exercise/)."
+- 动词: "[The](/post/the/) moderator's [role](/post/role/) is [to](/post/to/) [moderate](/post/moderate/) [the](/post/the/) [discussion](/post/discussion/) [and](/post/and/) [ensure](/post/ensure/) [all](/post/all/) participants [have](/post/have/) [a](/post/a/) [chance](/post/chance/) [to](/post/to/) [speak](/post/speak/)."
+- 名词: "[In](/post/in/) [the](/post/the/) [debate](/post/debate/), [the](/post/the/) moderates proposed [a](/post/a/) [compromise](/post/compromise/) [between](/post/between/) [the](/post/the/) [two](/post/two/) opposing sides."
 
 ## 同义词
-- Reasonable
+- [Reasonable](/post/reasonable/)
 - Temperate
 - Balanced
 - Moderate-minded

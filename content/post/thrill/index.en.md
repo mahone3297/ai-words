@@ -7,36 +7,36 @@ description = '[θril] n.一阵激动'
 keywords = ['ai words', 'thrill']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /θrɪl/
 
 ## Definitions
-### Noun
-- A strong feeling of excitement or pleasure derived from something new, thrilling, or dangerous.
-- A sudden rush of emotion or adrenaline.
-- An exciting event or experience.
+### [Noun](/en/post/noun/)
+- [A](/en/post/a/) [strong](/en/post/strong/) [feeling](/en/post/feeling/) [of](/en/post/of/) excitement [or](/en/post/or/) [pleasure](/en/post/pleasure/) derived [from](/en/post/from/) [something](/en/post/something/) [new](/en/post/new/), thrilling, [or](/en/post/or/) [dangerous](/en/post/dangerous/).
+- [A](/en/post/a/) [sudden](/en/post/sudden/) [rush](/en/post/rush/) [of](/en/post/of/) [emotion](/en/post/emotion/) [or](/en/post/or/) adrenaline.
+- An [exciting](/en/post/exciting/) [event](/en/post/event/) [or](/en/post/or/) [experience](/en/post/experience/).
 
-### Verb
-- To experience a thrill (usually from an activity or situation).
-- To arouse or give a thrill to (someone).
+### [Verb](/en/post/verb/)
+- [To](/en/post/to/) [experience](/en/post/experience/) [a](/en/post/a/) [thrill](/en/post/thrill/) ([usually](/en/post/usually/) [from](/en/post/from/) an [activity](/en/post/activity/) [or](/en/post/or/) [situation](/en/post/situation/)).
+- [To](/en/post/to/) [arouse](/en/post/arouse/) [or](/en/post/or/) [give](/en/post/give/) [a](/en/post/a/) [thrill](/en/post/thrill/) [to](/en/post/to/) ([someone](/en/post/someone/)).
 
-### Adjective
-- Causing or giving a thrill.
-- Exciting or stimulating.
+### [Adjective](/en/post/adjective/)
+- Causing [or](/en/post/or/) giving [a](/en/post/a/) [thrill](/en/post/thrill/).
+- [Exciting](/en/post/exciting/) [or](/en/post/or/) stimulating.
 
-### Adverb
-- Thrillingly, with excitement.
+### [Adverb](/en/post/adverb/)
+- Thrillingly, [with](/en/post/with/) excitement.
 
 ## Phrases
-- "Get a thrill from" refers to deriving enjoyment or excitement from something.
-- "A thrill ride" denotes an exciting or adventurous activity.
-- "She lived on a constant thrill" implies a life filled with excitement.
+- "[Get](/en/post/get/) [a](/en/post/a/) [thrill](/en/post/thrill/) [from](/en/post/from/)" refers [to](/en/post/to/) deriving enjoyment [or](/en/post/or/) excitement [from](/en/post/from/) [something](/en/post/something/).
+- "[A](/en/post/a/) [thrill](/en/post/thrill/) [ride](/en/post/ride/)" denotes an [exciting](/en/post/exciting/) [or](/en/post/or/) adventurous [activity](/en/post/activity/).
+- "[She](/en/post/she/) lived [on](/en/post/on/) [a](/en/post/a/) [constant](/en/post/constant/) [thrill](/en/post/thrill/)" implies [a](/en/post/a/) [life](/en/post/life/) filled [with](/en/post/with/) excitement.
 
-## Example Sentences
-- **Noun**: "The roller coaster provided a thrilling rush of adrenaline."
-- **Verb**: "He still gets a thrill every time he skydives."
-- **Adjective**: "The thriller movie kept the audience on the edge of their seats."
-- **Adverb**: "She danced thrillingly at the party."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [roller](/en/post/roller/) coaster [provided](/en/post/provided/) [a](/en/post/a/) thrilling [rush](/en/post/rush/) [of](/en/post/of/) adrenaline."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) [still](/en/post/still/) gets [a](/en/post/a/) [thrill](/en/post/thrill/) [every](/en/post/every/) [time](/en/post/time/) [he](/en/post/he/) skydives."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) thriller [movie](/en/post/movie/) kept [the](/en/post/the/) [audience](/en/post/audience/) [on](/en/post/on/) [the](/en/post/the/) [edge](/en/post/edge/) [of](/en/post/of/) [their](/en/post/their/) seats."
+- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) danced thrillingly [at](/en/post/at/) [the](/en/post/the/) [party](/en/post/party/)."
 
 ## Synonyms
 - Excitement

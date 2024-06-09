@@ -11,19 +11,19 @@ keywords = ['ai words', 'congratulation']
 /congrəˈtʃuːləʃ(ə)n/
 
 ## 释义
-- **名词**: 庆祝；祝贺。例如: "We sent them a card with our congratulations on their wedding."
-- **动词**: 祝贺；道贺。例如: "They congratulated her on her promotion."
+- **名词**: 庆祝；祝贺。例如: "[We](/post/we/) sent [them](/post/them/) [a](/post/a/) [card](/post/card/) [with](/post/with/) [our](/post/our/) congratulations [on](/post/on/) [their](/post/their/) [wedding](/post/wedding/)."
+- **动词**: 祝贺；道贺。例如: "[They](/post/they/) congratulated [her](/post/her/) [on](/post/on/) [her](/post/her/) promotion."
 
 ## 短语
-- "Congratulations on your success" 用来对别人的成就表示祝贺。
-- " Extend one's congratulations" 意为转达祝贺之意。
+- "Congratulations [on](/post/on/) [your](/post/your/) [success](/post/success/)" 用来对别人的成就表示祝贺。
+- " [Extend](/post/extend/) one's congratulations" 意为转达祝贺之意。
 
 ## 例句
-- 名词: "The team received congratulations from their fans after winning the championship."
-- 动词: "I congratulated him personally when he got the job."
+- 名词: "[The](/post/the/) [team](/post/team/) received congratulations [from](/post/from/) [their](/post/their/) fans [after](/post/after/) winning [the](/post/the/) championship."
+- 动词: "I congratulated [him](/post/him/) personally [when](/post/when/) [he](/post/he/) got [the](/post/the/) [job](/post/job/)."
 
 ## 同义词
-- Best wishes
+- [Best](/post/best/) wishes
 - Felicitations
 - Kudos
 - Compliments

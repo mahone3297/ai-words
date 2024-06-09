@@ -7,38 +7,38 @@ description = '[kəmˈpəunənt] n.组成部分；分；组件'
 keywords = ['ai words', 'component']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /həˈlɛm/
 
 ## Definitions
-### Noun
-A component or constituent part that makes up a whole, often having a specific function or role within a system, structure, or design.
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) [component](/en/post/component/) [or](/en/post/or/) constituent [part](/en/post/part/) [that](/en/post/that/) makes [up](/en/post/up/) [a](/en/post/a/) [whole](/en/post/whole/), [often](/en/post/often/) having [a](/en/post/a/) [specific](/en/post/specific/) [function](/en/post/function/) [or](/en/post/or/) [role](/en/post/role/) [within](/en/post/within/) [a](/en/post/a/) [system](/en/post/system/), [structure](/en/post/structure/), [or](/en/post/or/) [design](/en/post/design/).
 
-### Verb
-To form or constitute a part of something; to be a constituent element or ingredient.
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) [form](/en/post/form/) [or](/en/post/or/) constitute [a](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [something](/en/post/something/); [to](/en/post/to/) [be](/en/post/be/) [a](/en/post/a/) constituent [element](/en/post/element/) [or](/en/post/or/) ingredient.
 
-### Adjective
-Characterizing or describing a particular aspect or feature of something.
+### [Adjective](/en/post/adjective/)
+Characterizing [or](/en/post/or/) describing [a](/en/post/a/) [particular](/en/post/particular/) [aspect](/en/post/aspect/) [or](/en/post/or/) [feature](/en/post/feature/) [of](/en/post/of/) [something](/en/post/something/).
 
-### Adverb
-In a way that refers to the composition or makeup of something.
+### [Adverb](/en/post/adverb/)
+[In](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) refers [to](/en/post/to/) [the](/en/post/the/) [composition](/en/post/composition/) [or](/en/post/or/) makeup [of](/en/post/of/) [something](/en/post/something/).
 
 ## Phrases
-- "Form a component of" implies being one part among many.
-- "The key component" highlights a crucial part in a system.
-- "Design components" are various parts that come together to create a product.
+- "[Form](/en/post/form/) [a](/en/post/a/) [component](/en/post/component/) [of](/en/post/of/)" implies [being](/en/post/being/) [one](/en/post/one/) [part](/en/post/part/) [among](/en/post/among/) [many](/en/post/many/).
+- "[The](/en/post/the/) [key](/en/post/key/) [component](/en/post/component/)" highlights [a](/en/post/a/) crucial [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [system](/en/post/system/).
+- "[Design](/en/post/design/) components" are [various](/en/post/various/) parts [that](/en/post/that/) [come](/en/post/come/) [together](/en/post/together/) [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) [product](/en/post/product/).
 
-## Example Sentences
-- **Noun**: "The computer's hardware consists of several essential components."
-- **Verb**: "The new software update will integrate additional components for improved functionality."
-- **Adjective**: "Her recipe calls for a blend of spices as its main flavor component."
-- **Adverb**: "The project team carefully analyzed the structural components to ensure stability."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) computer's [hardware](/en/post/hardware/) consists [of](/en/post/of/) [several](/en/post/several/) [essential](/en/post/essential/) components."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) software update [will](/en/post/will/) integrate [additional](/en/post/additional/) components [for](/en/post/for/) improved functionality."
+- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) recipe calls [for](/en/post/for/) [a](/en/post/a/) [blend](/en/post/blend/) [of](/en/post/of/) spices [as](/en/post/as/) [its](/en/post/its/) [main](/en/post/main/) flavor [component](/en/post/component/)."
+- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [project](/en/post/project/) [team](/en/post/team/) carefully analyzed [the](/en/post/the/) [structural](/en/post/structural/) components [to](/en/post/to/) [ensure](/en/post/ensure/) [stability](/en/post/stability/)."
 
 ## Synonyms
-- Element
-- Piece
-- Part
+- [Element](/en/post/element/)
+- [Piece](/en/post/piece/)
+- [Part](/en/post/part/)
 - Constituent
 - Ingredient
-- Aspect
-- Feature
+- [Aspect](/en/post/aspect/)
+- [Feature](/en/post/feature/)

@@ -7,32 +7,32 @@ description = '[mægˈnifisnt] n.壮丽的；华丽的'
 keywords = ['ai words', 'magnificent']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˌmæɡ.nɪ.fɪ.sənt/
 
 ## Definitions
-- **Adjective**: Extremely impressive or beautiful; awe-inspiring. It often describes something that is very large, elaborate, or grand in appearance or quality.
+- **[Adjective](/en/post/adjective/)**: [Extremely](/en/post/extremely/) [impressive](/en/post/impressive/) [or](/en/post/or/) [beautiful](/en/post/beautiful/); awe-inspiring. [It](/en/post/it/) [often](/en/post/often/) describes [something](/en/post/something/) [that](/en/post/that/) is [very](/en/post/very/) [large](/en/post/large/), [elaborate](/en/post/elaborate/), [or](/en/post/or/) [grand](/en/post/grand/) [in](/en/post/in/) [appearance](/en/post/appearance/) [or](/en/post/or/) [quality](/en/post/quality/).
 
-Example sentences:
-- **Adjective**: The _magnificent_ architecture of the ancient temple left us all spellbound.
-- "The view from the mountaintop was truly _magnificent_, stretching out for miles across verdant valleys and glistening lakes."
+[Example](/en/post/example/) sentences:
+- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) _magnificent_ [architecture](/en/post/architecture/) [of](/en/post/of/) [the](/en/post/the/) [ancient](/en/post/ancient/) [temple](/en/post/temple/) [left](/en/post/left/) [us](/en/post/us/) [all](/en/post/all/) spellbound.
+- "[The](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) mountaintop was [truly](/en/post/truly/) _magnificent_, stretching [out](/en/post/out/) [for](/en/post/for/) miles [across](/en/post/across/) verdant valleys [and](/en/post/and/) glistening lakes."
 
 ## Phrases
-- "In all its magnificent glory": This phrase is used to emphasize how something is displayed at its most impressive or splendid state. Example: "The old castle stood in all its magnificent glory, dominating the landscape."
-- "A magnificent achievement": Describes a remarkable accomplishment or feat. Example: "Winning the gold medal was a magnificent achievement for the young athlete."
+- "[In](/en/post/in/) [all](/en/post/all/) [its](/en/post/its/) [magnificent](/en/post/magnificent/) [glory](/en/post/glory/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [how](/en/post/how/) [something](/en/post/something/) is displayed [at](/en/post/at/) [its](/en/post/its/) [most](/en/post/most/) [impressive](/en/post/impressive/) [or](/en/post/or/) [splendid](/en/post/splendid/) [state](/en/post/state/). [Example](/en/post/example/): "[The](/en/post/the/) [old](/en/post/old/) [castle](/en/post/castle/) stood [in](/en/post/in/) [all](/en/post/all/) [its](/en/post/its/) [magnificent](/en/post/magnificent/) [glory](/en/post/glory/), dominating [the](/en/post/the/) landscape."
+- "[A](/en/post/a/) [magnificent](/en/post/magnificent/) [achievement](/en/post/achievement/)": Describes [a](/en/post/a/) [remarkable](/en/post/remarkable/) accomplishment [or](/en/post/or/) feat. [Example](/en/post/example/): "Winning [the](/en/post/the/) [gold](/en/post/gold/) [medal](/en/post/medal/) was [a](/en/post/a/) [magnificent](/en/post/magnificent/) [achievement](/en/post/achievement/) [for](/en/post/for/) [the](/en/post/the/) [young](/en/post/young/) [athlete](/en/post/athlete/)."
 
-## Example Sentences
-- **Adjective**: "The sunset over the ocean was a magnificent display of colors blending into one another."
-- "Her performance on stage was nothing short of magnificent, receiving a standing ovation from the audience."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [sunset](/en/post/sunset/) [over](/en/post/over/) [the](/en/post/the/) [ocean](/en/post/ocean/) was [a](/en/post/a/) [magnificent](/en/post/magnificent/) [display](/en/post/display/) [of](/en/post/of/) colors blending [into](/en/post/into/) [one](/en/post/one/) [another](/en/post/another/)."
+- "[Her](/en/post/her/) [performance](/en/post/performance/) [on](/en/post/on/) [stage](/en/post/stage/) was [nothing](/en/post/nothing/) [short](/en/post/short/) [of](/en/post/of/) [magnificent](/en/post/magnificent/), receiving [a](/en/post/a/) standing ovation [from](/en/post/from/) [the](/en/post/the/) [audience](/en/post/audience/)."
 
 ## Synonyms
-- Splendid
-- Grand
+- [Splendid](/en/post/splendid/)
+- [Grand](/en/post/grand/)
 - Majestic
-- Glorious
-- Impressive
+- [Glorious](/en/post/glorious/)
+- [Impressive](/en/post/impressive/)
 - Stunning
 - Breathtaking
 - Exquisite
 - Spectacular
-- Awesome (in the traditional sense, meaning inspiring awe)
+- Awesome ([in](/en/post/in/) [the](/en/post/the/) [traditional](/en/post/traditional/) [sense](/en/post/sense/), [meaning](/en/post/meaning/) inspiring awe)

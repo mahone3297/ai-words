@@ -11,20 +11,20 @@ keywords = ['ai words', 'shout']
 /ʃaʊt/
 
 ## 释义
-- **动词**: 大声叫喊，呼喊。例如: "The child shouted for help when he fell into the river."
-- **名词**: 喊叫声，呼喊。例如: "His shout echoed through the canyon."
+- **动词**: 大声叫喊，呼喊。例如: "[The](/post/the/) [child](/post/child/) shouted [for](/post/for/) [help](/post/help/) [when](/post/when/) [he](/post/he/) fell [into](/post/into/) [the](/post/the/) [river](/post/river/)."
+- **名词**: 喊叫声，呼喊。例如: "[His](/post/his/) [shout](/post/shout/) echoed [through](/post/through/) [the](/post/the/) canyon."
 
 ## 短语
-- "Give a shout" 意味着发出声音或呼叫某人。
-- "Shout out" 通常指在公开场合大声说出某人的名字或表达感谢。
+- "[Give](/post/give/) [a](/post/a/) [shout](/post/shout/)" 意味着发出声音或呼叫某人。
+- "[Shout](/post/shout/) [out](/post/out/)" 通常指在公开场合大声说出某人的名字或表达感谢。
 
 ## 例句
-- 动词: "The football fans shouted their team's name in excitement."
-- 名词: "I heard a distant shout coming from the woods."
+- 动词: "[The](/post/the/) [football](/post/football/) fans shouted [their](/post/their/) team's [name](/post/name/) [in](/post/in/) excitement."
+- 名词: "I heard [a](/post/a/) [distant](/post/distant/) [shout](/post/shout/) coming [from](/post/from/) [the](/post/the/) woods."
 
 ## 同义词
-- Yell
-- Cry out
-- Scream
-- Shriek
+- [Yell](/post/yell/)
+- [Cry](/post/cry/) [out](/post/out/)
+- [Scream](/post/scream/)
+- [Shriek](/post/shriek/)
 - Hollar

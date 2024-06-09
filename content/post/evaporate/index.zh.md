@@ -11,20 +11,20 @@ keywords = ['ai words', 'evaporate']
 /ɪˈvæpəreɪt/
 
 ## 释义
-- **动词**: 蒸发，挥发；消失。例如: "The water evaporated quickly in the hot sun."
-- **动词**: （使）蒸发，（使）挥发。例如: "The solvent evaporates easily at room temperature."
+- **动词**: 蒸发，挥发；消失。例如: "[The](/post/the/) [water](/post/water/) evaporated [quickly](/post/quickly/) [in](/post/in/) [the](/post/the/) [hot](/post/hot/) [sun](/post/sun/)."
+- **动词**: （使）蒸发，（使）挥发。例如: "[The](/post/the/) solvent evaporates [easily](/post/easily/) [at](/post/at/) [room](/post/room/) [temperature](/post/temperature/)."
 
 ## 短语
-- "Evaporate completely" 完全蒸发。
-- "The liquid evaporates into gas" 液体蒸发成气体。
+- "[Evaporate](/post/evaporate/) [completely](/post/completely/)" 完全蒸发。
+- "[The](/post/the/) [liquid](/post/liquid/) evaporates [into](/post/into/) [gas](/post/gas/)" 液体蒸发成气体。
 
 ## 例句
-- "The sweat on my forehead evaporated in the heat." (我额头上的汗水在炎热中蒸发了。)
-- "The medicine will evaporate if you leave it open." (如果你把药瓶开着，药会挥发。)
+- "[The](/post/the/) [sweat](/post/sweat/) [on](/post/on/) [my](/post/my/) [forehead](/post/forehead/) evaporated [in](/post/in/) [the](/post/the/) [heat](/post/heat/)." (我额头上的汗水在炎热中蒸发了。)
+- "[The](/post/the/) [medicine](/post/medicine/) [will](/post/will/) [evaporate](/post/evaporate/) [if](/post/if/) [you](/post/you/) [leave](/post/leave/) [it](/post/it/) [open](/post/open/)." (如果你把药瓶开着，药会挥发。)
 
 ## 同义词
-- Vanish
+- [Vanish](/post/vanish/)
 - Dissipate
-- Disappear
-- Melt away
-- Turn into vapor
+- [Disappear](/post/disappear/)
+- [Melt](/post/melt/) [away](/post/away/)
+- [Turn](/post/turn/) [into](/post/into/) vapor

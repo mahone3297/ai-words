@@ -7,37 +7,37 @@ description = '[θik] a.厚的；密的；浓'
 keywords = ['ai words', 'thick']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /thɪk/
 
 ## Definitions
-- **Adjective**: 
-  - Having a large amount or concentration of matter, resulting in resistance to penetration or passage: "A thick forest."
-  - Dense or crowded: "The crowd was thick with excitement."
-  - Intense or strong: "A thick smell of smoke filled the air."
-- **Adverb**: 
-  - In a thick manner: "She spoke thickly due to a cold."
-  - With great density or mass: "The fog was thick around the lake."
+- **[Adjective](/en/post/adjective/)**: 
+  - Having [a](/en/post/a/) [large](/en/post/large/) [amount](/en/post/amount/) [or](/en/post/or/) [concentration](/en/post/concentration/) [of](/en/post/of/) [matter](/en/post/matter/), resulting [in](/en/post/in/) [resistance](/en/post/resistance/) [to](/en/post/to/) penetration [or](/en/post/or/) [passage](/en/post/passage/): "[A](/en/post/a/) [thick](/en/post/thick/) [forest](/en/post/forest/)."
+  - [Dense](/en/post/dense/) [or](/en/post/or/) crowded: "[The](/en/post/the/) [crowd](/en/post/crowd/) was [thick](/en/post/thick/) [with](/en/post/with/) excitement."
+  - [Intense](/en/post/intense/) [or](/en/post/or/) [strong](/en/post/strong/): "[A](/en/post/a/) [thick](/en/post/thick/) [smell](/en/post/smell/) [of](/en/post/of/) [smoke](/en/post/smoke/) filled [the](/en/post/the/) [air](/en/post/air/)."
+- **[Adverb](/en/post/adverb/)**: 
+  - [In](/en/post/in/) [a](/en/post/a/) [thick](/en/post/thick/) [manner](/en/post/manner/): "[She](/en/post/she/) spoke thickly [due](/en/post/due/) [to](/en/post/to/) [a](/en/post/a/) [cold](/en/post/cold/)."
+  - [With](/en/post/with/) [great](/en/post/great/) [density](/en/post/density/) [or](/en/post/or/) [mass](/en/post/mass/): "[The](/en/post/the/) [fog](/en/post/fog/) was [thick](/en/post/thick/) [around](/en/post/around/) [the](/en/post/the/) [lake](/en/post/lake/)."
 
 ## Phrases
-- "A thick layer of snow" describes a heavy accumulation.
-- "Thick fog made it difficult to see."
-- "Thick skin" refers to someone who is not easily offended.
+- "[A](/en/post/a/) [thick](/en/post/thick/) [layer](/en/post/layer/) [of](/en/post/of/) [snow](/en/post/snow/)" describes [a](/en/post/a/) [heavy](/en/post/heavy/) accumulation.
+- "[Thick](/en/post/thick/) [fog](/en/post/fog/) made [it](/en/post/it/) [difficult](/en/post/difficult/) [to](/en/post/to/) [see](/en/post/see/)."
+- "[Thick](/en/post/thick/) [skin](/en/post/skin/)" refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) is [not](/en/post/not/) [easily](/en/post/easily/) offended.
 
-## Example Sentences
-- **Adjective**: "The soup was thick and creamy."
-- **Adverb**: "He coughed thickly after inhaling the smoke."
-- "She had developed a thick accent after living abroad for years."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [soup](/en/post/soup/) was [thick](/en/post/thick/) [and](/en/post/and/) creamy."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) coughed thickly [after](/en/post/after/) inhaling [the](/en/post/the/) [smoke](/en/post/smoke/)."
+- "[She](/en/post/she/) had developed [a](/en/post/a/) [thick](/en/post/thick/) [accent](/en/post/accent/) [after](/en/post/after/) [living](/en/post/living/) [abroad](/en/post/abroad/) [for](/en/post/for/) years."
 
-## Synonyms (Adjective)
+## Synonyms ([Adjective](/en/post/adjective/))
 - Thickened
-- Dense
+- [Dense](/en/post/dense/)
 - Robust
 - Hearty
 - Bulky
-- Thick-skinned (referring to tolerance)
+- Thick-skinned (referring [to](/en/post/to/) [tolerance](/en/post/tolerance/))
 
-## Synonyms (Adverb)
+## Synonyms ([Adverb](/en/post/adverb/))
 - Thoroughly
 - Intensely
 - Profoundly
@@ -46,7 +46,7 @@ keywords = ['ai words', 'thick']
 - Coarsely
 
 ## Antonyms
-- Thin
+- [Thin](/en/post/thin/)
 - Sparse
-- Delicate
-- Thin-skinned (referring to sensitivity)
+- [Delicate](/en/post/delicate/)
+- Thin-skinned (referring [to](/en/post/to/) sensitivity)

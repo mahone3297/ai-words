@@ -7,33 +7,33 @@ description = '[ˈhedeik] n.头痛；头痛的事'
 keywords = ['ai words', 'headache']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈhedeɪk/
 
 ## Definitions
-- **Noun**: A pain or discomfort in the head, often recurring and caused by stress, muscle tension, sinusitis, eyestrain, or other factors. For example: "She had a splitting headache all day after staring at her computer screen for hours."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [pain](/en/post/pain/) [or](/en/post/or/) discomfort [in](/en/post/in/) [the](/en/post/the/) [head](/en/post/head/), [often](/en/post/often/) recurring [and](/en/post/and/) caused [by](/en/post/by/) [stress](/en/post/stress/), [muscle](/en/post/muscle/) tension, sinusitis, eyestrain, [or](/en/post/or/) [other](/en/post/other/) factors. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) had [a](/en/post/a/) splitting [headache](/en/post/headache/) [all](/en/post/all/) [day](/en/post/day/) [after](/en/post/after/) staring [at](/en/post/at/) [her](/en/post/her/) [computer](/en/post/computer/) [screen](/en/post/screen/) [for](/en/post/for/) hours."
 
-Example Sentence (Noun): 
-- "I can't go out tonight; I have a terrible headache."
+[Example](/en/post/example/) [Sentence](/en/post/sentence/) ([Noun](/en/post/noun/)): 
+- "I can't [go](/en/post/go/) [out](/en/post/out/) [tonight](/en/post/tonight/); I [have](/en/post/have/) [a](/en/post/a/) [terrible](/en/post/terrible/) [headache](/en/post/headache/)."
 
 ## Phrases
-- "Get a headache": To experience the onset of a headache.
-- "Headache remedy": A medicine or treatment that alleviates headaches.
-- "A headache-inducing situation": Referring to something that is likely to cause a headache, often used metaphorically for complex or frustrating circumstances.
+- "[Get](/en/post/get/) [a](/en/post/a/) [headache](/en/post/headache/)": [To](/en/post/to/) [experience](/en/post/experience/) [the](/en/post/the/) onset [of](/en/post/of/) [a](/en/post/a/) [headache](/en/post/headache/).
+- "[Headache](/en/post/headache/) [remedy](/en/post/remedy/)": [A](/en/post/a/) [medicine](/en/post/medicine/) [or](/en/post/or/) [treatment](/en/post/treatment/) [that](/en/post/that/) alleviates headaches.
+- "[A](/en/post/a/) headache-inducing [situation](/en/post/situation/)": Referring [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) is [likely](/en/post/likely/) [to](/en/post/to/) [cause](/en/post/cause/) [a](/en/post/a/) [headache](/en/post/headache/), [often](/en/post/often/) [used](/en/post/used/) metaphorically [for](/en/post/for/) [complex](/en/post/complex/) [or](/en/post/or/) frustrating circumstances.
   
-## Example Sentences
-- "The loud music was giving him a headache."
-- "Her mother recommended aspirin as a headache remedy."
+## [Example](/en/post/example/) Sentences
+- "[The](/en/post/the/) [loud](/en/post/loud/) [music](/en/post/music/) was giving [him](/en/post/him/) [a](/en/post/a/) [headache](/en/post/headache/)."
+- "[Her](/en/post/her/) [mother](/en/post/mother/) recommended aspirin [as](/en/post/as/) [a](/en/post/a/) [headache](/en/post/headache/) [remedy](/en/post/remedy/)."
 
 ## Synonyms
 - Migraine
-- Pain in the head
+- [Pain](/en/post/pain/) [in](/en/post/in/) [the](/en/post/the/) [head](/en/post/head/)
 - Cephalalgia
 - Neuralgia
-- Throbbing pain
-- Head pain
-- Sore head
-- Brain ache
+- Throbbing [pain](/en/post/pain/)
+- [Head](/en/post/head/) [pain](/en/post/pain/)
+- [Sore](/en/post/sore/) [head](/en/post/head/)
+- [Brain](/en/post/brain/) [ache](/en/post/ache/)
 
-## Note on Usage
-As a noun, 'headache' can also be used metaphorically to describe a difficult or annoying problem, situation, or person. For instance: "Dealing with the company's financial issues has become a real headache."
+## [Note](/en/post/note/) [on](/en/post/on/) [Usage](/en/post/usage/)
+[As](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), '[headache](/en/post/headache/)' [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) [difficult](/en/post/difficult/) [or](/en/post/or/) annoying [problem](/en/post/problem/), [situation](/en/post/situation/), [or](/en/post/or/) [person](/en/post/person/). [For](/en/post/for/) [instance](/en/post/instance/): "Dealing [with](/en/post/with/) [the](/en/post/the/) company's [financial](/en/post/financial/) issues has [become](/en/post/become/) [a](/en/post/a/) [real](/en/post/real/) [headache](/en/post/headache/)."

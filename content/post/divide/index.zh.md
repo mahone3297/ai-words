@@ -12,20 +12,20 @@ keywords = ['ai words', 'divide']
 
 ## 释义
 - **动词**:
-1. 划分；分开。例如: "We need to divide the cake equally among the children."
-2. 除（数）。例如: "Divide 10 by 2 and you get 5."
+1. 划分；分开。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [divide](/post/divide/) [the](/post/the/) [cake](/post/cake/) equally [among](/post/among/) [the](/post/the/) children."
+2. 除（数）。例如: "[Divide](/post/divide/) 10 [by](/post/by/) 2 [and](/post/and/) [you](/post/you/) [get](/post/get/) 5."
 
 ## 短语
-- "divide by" 表示除以。例如: "Divide the total by the number of participants."
-- "divide into" 表示分成若干部分。例如: "The class was divided into small groups for discussion."
+- "[divide](/post/divide/) [by](/post/by/)" 表示除以。例如: "[Divide](/post/divide/) [the](/post/the/) [total](/post/total/) [by](/post/by/) [the](/post/the/) [number](/post/number/) [of](/post/of/) participants."
+- "[divide](/post/divide/) [into](/post/into/)" 表示分成若干部分。例如: "[The](/post/the/) [class](/post/class/) was divided [into](/post/into/) [small](/post/small/) groups [for](/post/for/) [discussion](/post/discussion/)."
 
 ## 例句
-- 动词: "Let's divide the work between us so we can finish faster."
-- 数学用法: "Divide 45 by 9, and you'll get 5."
+- 动词: "Let's [divide](/post/divide/) [the](/post/the/) [work](/post/work/) [between](/post/between/) [us](/post/us/) [so](/post/so/) [we](/post/we/) [can](/post/can/) [finish](/post/finish/) faster."
+- 数学用法: "[Divide](/post/divide/) 45 [by](/post/by/) 9, [and](/post/and/) you'll [get](/post/get/) 5."
 
 ## 同义词
-- Split
-- Separate
+- [Split](/post/split/)
+- [Separate](/post/separate/)
 - Partition
-- Break up
-- Distribute
+- [Break](/post/break/) [up](/post/up/)
+- [Distribute](/post/distribute/)

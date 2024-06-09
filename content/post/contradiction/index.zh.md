@@ -11,20 +11,20 @@ keywords = ['ai words', 'contradiction']
 /ˌkɒntrəˈdɪkʃən/
 
 ## 释义
-- **名词**: 相矛盾；不一致；反驳。例如: "There is a contradiction between his words and actions."
-- **动词**: 与…相矛盾；反驳。例如: "Her statement contradicts what she said earlier."
+- **名词**: 相矛盾；不一致；反驳。例如: "[There](/post/there/) is [a](/post/a/) [contradiction](/post/contradiction/) [between](/post/between/) [his](/post/his/) words [and](/post/and/) actions."
+- **动词**: 与…相矛盾；反驳。例如: "[Her](/post/her/) [statement](/post/statement/) contradicts [what](/post/what/) [she](/post/she/) said earlier."
 
 ## 短语
 - "Self-contradiction" 指自我矛盾的情况。
-- "Contradict each other" 意味着两个或多个观点相互冲突。
+- "Contradict [each](/post/each/) [other](/post/other/)" 意味着两个或多个观点相互冲突。
 
 ## 例句
-- 名词: "The report contains several contradictions that need to be resolved."
-- 动词: "His new theory contradicts established scientific principles."
+- 名词: "[The](/post/the/) [report](/post/report/) contains [several](/post/several/) contradictions [that](/post/that/) [need](/post/need/) [to](/post/to/) [be](/post/be/) resolved."
+- 动词: "[His](/post/his/) [new](/post/new/) [theory](/post/theory/) contradicts established [scientific](/post/scientific/) principles."
 
 ## 同义词
 - Inconsistency
 - Disagreement
-- Conflict
+- [Conflict](/post/conflict/)
 - Contrariety
 - Oppositeness

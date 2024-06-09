@@ -11,20 +11,20 @@ keywords = ['ai words', 'thrive']
 /θraɪv/
 
 ## 释义
-- **动词**: 健康地成长，茁壮发展；繁荣，兴旺。例如: "The plants thrive in the sunny garden." 
-- **形容词**: 繁荣的，兴旺发达的。例如: "The business is thriving and expanding rapidly."
+- **动词**: 健康地成长，茁壮发展；繁荣，兴旺。例如: "[The](/post/the/) plants [thrive](/post/thrive/) [in](/post/in/) [the](/post/the/) [sunny](/post/sunny/) [garden](/post/garden/)." 
+- **形容词**: 繁荣的，兴旺发达的。例如: "[The](/post/the/) [business](/post/business/) is thriving [and](/post/and/) expanding [rapidly](/post/rapidly/)."
 
 ## 短语
-- "to thrive on something" 意为在某种情况下蓬勃发展。例如: "Children thrive on love and attention."
-- "to thrive despite challenges" 在困难中仍然茁壮成长。
+- "[to](/post/to/) [thrive](/post/thrive/) [on](/post/on/) [something](/post/something/)" 意为在某种情况下蓬勃发展。例如: "Children [thrive](/post/thrive/) [on](/post/on/) [love](/post/love/) [and](/post/and/) [attention](/post/attention/)."
+- "[to](/post/to/) [thrive](/post/thrive/) [despite](/post/despite/) challenges" 在困难中仍然茁壮成长。
 
 ## 例句
-- 动词: "The local economy has been thriving since the new factory opened."
-- 形容词: "This small town is known for its thriving arts scene."
+- 动词: "[The](/post/the/) [local](/post/local/) [economy](/post/economy/) has been thriving [since](/post/since/) [the](/post/the/) [new](/post/new/) [factory](/post/factory/) opened."
+- 形容词: "[This](/post/this/) [small](/post/small/) [town](/post/town/) is known [for](/post/for/) [its](/post/its/) thriving arts [scene](/post/scene/)."
 
 ## 同义词
-- flourish
+- [flourish](/post/flourish/)
 - prosper
-- blossom
-- grow well
-- succeed
+- [blossom](/post/blossom/)
+- [grow](/post/grow/) [well](/post/well/)
+- [succeed](/post/succeed/)

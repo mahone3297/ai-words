@@ -11,20 +11,20 @@ keywords = ['ai words', 'complicate']
 /ˈkɑːmplɪkeɪt/
 
 ## 释义
-- **动词**: 使复杂化；使变得困难。例如: "The new regulations only complicate the issue further."
-- **形容词**: 复杂的；难懂的。例如: "The problem has many complicate factors to consider."
+- **动词**: 使复杂化；使变得困难。例如: "[The](/post/the/) [new](/post/new/) regulations [only](/post/only/) [complicate](/post/complicate/) [the](/post/the/) [issue](/post/issue/) [further](/post/further/)."
+- **形容词**: 复杂的；难懂的。例如: "[The](/post/the/) [problem](/post/problem/) has [many](/post/many/) [complicate](/post/complicate/) factors [to](/post/to/) [consider](/post/consider/)."
 
 ## 短语
-- "To complicate matters" 意味着使情况变得更复杂。例如: "To complicate matters, it started raining just as we were about to leave."
-- "A complicated situation" 指的是一个有很多层面或难以处理的情况。
+- "[To](/post/to/) [complicate](/post/complicate/) matters" 意味着使情况变得更复杂。例如: "[To](/post/to/) [complicate](/post/complicate/) matters, [it](/post/it/) started raining [just](/post/just/) [as](/post/as/) [we](/post/we/) were [about](/post/about/) [to](/post/to/) [leave](/post/leave/)."
+- "[A](/post/a/) [complicated](/post/complicated/) [situation](/post/situation/)" 指的是一个有很多层面或难以处理的情况。
 
 ## 例句
-- 动词: "His injury has complicated his chances of playing in the final game."
-- 形容词: "The instructions for assembling the furniture were very complicate and confusing."
+- 动词: "[His](/post/his/) [injury](/post/injury/) has [complicated](/post/complicated/) [his](/post/his/) chances [of](/post/of/) playing [in](/post/in/) [the](/post/the/) [final](/post/final/) [game](/post/game/)."
+- 形容词: "[The](/post/the/) instructions [for](/post/for/) assembling [the](/post/the/) [furniture](/post/furniture/) were [very](/post/very/) [complicate](/post/complicate/) [and](/post/and/) confusing."
 
 ## 同义词
-- Complex
-- Difficult
+- [Complex](/post/complex/)
+- [Difficult](/post/difficult/)
 - Intricate
 - Puzzling
 - Challenging

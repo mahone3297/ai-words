@@ -11,19 +11,19 @@ keywords = ['ai words', 'unexpected']
 /ʌnɪkˈspɛktɪd/
 
 ## 释义
-- **形容词**: 意为未预料到的，出乎意料的。例如: "The unexpected arrival of her friend surprised her."
-- **副词**: 用于强调事情发生得非常突然或非预期。例如: "He finished the project unexpectedly early."
+- **形容词**: 意为未预料到的，出乎意料的。例如: "[The](/post/the/) [unexpected](/post/unexpected/) [arrival](/post/arrival/) [of](/post/of/) [her](/post/her/) [friend](/post/friend/) surprised [her](/post/her/)."
+- **副词**: 用于强调事情发生得非常突然或非预期。例如: "[He](/post/he/) finished [the](/post/the/) [project](/post/project/) unexpectedly [early](/post/early/)."
 
 ## 短语
-- "an unexpected turn of events" 意味着事情的发展超出了预料。
-- "receive an unexpected visitor" 指收到了没有预见到的客人。
+- "an [unexpected](/post/unexpected/) [turn](/post/turn/) [of](/post/of/) events" 意味着事情的发展超出了预料。
+- "[receive](/post/receive/) an [unexpected](/post/unexpected/) [visitor](/post/visitor/)" 指收到了没有预见到的客人。
 
 ## 例句
-- 形容词: "The unexpected news made him speechless for a moment."
-- 副词: "Her recovery from the illness was unexpectedly quick."
+- 形容词: "[The](/post/the/) [unexpected](/post/unexpected/) [news](/post/news/) made [him](/post/him/) speechless [for](/post/for/) [a](/post/a/) [moment](/post/moment/)."
+- 副词: "[Her](/post/her/) [recovery](/post/recovery/) [from](/post/from/) [the](/post/the/) [illness](/post/illness/) was unexpectedly [quick](/post/quick/)."
 
 ## 同义词
-- Surprising
+- [Surprising](/post/surprising/)
 - Unforeseen
 - Undexpectedly
 - Unpredicted

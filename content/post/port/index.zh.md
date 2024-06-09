@@ -21,16 +21,16 @@ keywords = ['ai words', 'port']
   - 面向：使某物面向或朝向某个方向。
 
 ## 短语
-- "Port of call"：访问的港口，航海途中停靠的地方。
-- "Port wine"：波特酒，一种甜型的加强葡萄酒。
-- "Port something around"：携带某物四处走动。
+- "[Port](/post/port/) [of](/post/of/) [call](/post/call/)"：访问的港口，航海途中停靠的地方。
+- "[Port](/post/port/) [wine](/post/wine/)"：波特酒，一种甜型的加强葡萄酒。
+- "[Port](/post/port/) [something](/post/something/) [around](/post/around/)"：携带某物四处走动。
 
 ## 例句
-- 名词: "Ships from all over the world dock at the busy port of Rotterdam."
-- 动词: "He ported his laptop from the desk to the couch."
-- 名词（酒）: "After dinner, they enjoyed a glass of vintage port."
+- 名词: "Ships [from](/post/from/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [world](/post/world/) [dock](/post/dock/) [at](/post/at/) [the](/post/the/) [busy](/post/busy/) [port](/post/port/) [of](/post/of/) Rotterdam."
+- 动词: "[He](/post/he/) ported [his](/post/his/) laptop [from](/post/from/) [the](/post/the/) [desk](/post/desk/) [to](/post/to/) [the](/post/the/) couch."
+- 名词（酒）: "[After](/post/after/) [dinner](/post/dinner/), [they](/post/they/) enjoyed [a](/post/a/) [glass](/post/glass/) [of](/post/of/) vintage [port](/post/port/)."
 
 ## 同义词
-- 港口：harbor, dock, haven
-- 携带：carry, tote, lug
-- （酒）波特酒：fortified wine, dessert wine
+- 港口：harbor, [dock](/post/dock/), haven
+- 携带：[carry](/post/carry/), tote, lug
+- （酒）波特酒：fortified [wine](/post/wine/), dessert [wine](/post/wine/)

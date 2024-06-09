@@ -7,26 +7,26 @@ description = '[ˈheitful] a.可恨的，可恶的'
 keywords = ['ai words', 'hateful']
 +++
 
-## Word: Hateful
+## [Word](/en/post/word/): [Hateful](/en/post/hateful/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈheɪtfl/
 
 ## Definitions
-- **Adjective**: Having or showing intense dislike or hostility; filled with hate. It can describe people, actions, or things that inspire strong negative emotions such as anger or aversion.
+- **[Adjective](/en/post/adjective/)**: Having [or](/en/post/or/) showing [intense](/en/post/intense/) [dislike](/en/post/dislike/) [or](/en/post/or/) hostility; filled [with](/en/post/with/) [hate](/en/post/hate/). [It](/en/post/it/) [can](/en/post/can/) [describe](/en/post/describe/) [people](/en/post/people/), actions, [or](/en/post/or/) things [that](/en/post/that/) [inspire](/en/post/inspire/) [strong](/en/post/strong/) [negative](/en/post/negative/) emotions [such](/en/post/such/) [as](/en/post/as/) [anger](/en/post/anger/) [or](/en/post/or/) aversion.
 
-Example sentences:
-- **Adjective**: "His hateful words deeply hurt her feelings."
-- "The dictator's hateful policies oppressed his own people."
-- "She found the movie's hateful portrayal of women offensive."
+[Example](/en/post/example/) sentences:
+- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [hateful](/en/post/hateful/) words deeply [hurt](/en/post/hurt/) [her](/en/post/her/) feelings."
+- "[The](/en/post/the/) dictator's [hateful](/en/post/hateful/) policies oppressed [his](/en/post/his/) [own](/en/post/own/) [people](/en/post/people/)."
+- "[She](/en/post/she/) [found](/en/post/found/) [the](/en/post/the/) movie's [hateful](/en/post/hateful/) portrayal [of](/en/post/of/) women offensive."
 
 ## Phrases
-- "Hatefully": This is an adverb form of "hateful", often used to describe how something was done with hate. Example: "He looked at her hatefully."
-- "A hateful glare": Describes an expression full of hatred. Example: "She shot him a hateful glare when he interrupted her."
+- "Hatefully": [This](/en/post/this/) is an [adverb](/en/post/adverb/) [form](/en/post/form/) [of](/en/post/of/) "[hateful](/en/post/hateful/)", [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [how](/en/post/how/) [something](/en/post/something/) was done [with](/en/post/with/) [hate](/en/post/hate/). [Example](/en/post/example/): "[He](/en/post/he/) looked [at](/en/post/at/) [her](/en/post/her/) hatefully."
+- "[A](/en/post/a/) [hateful](/en/post/hateful/) [glare](/en/post/glare/)": Describes an [expression](/en/post/expression/) [full](/en/post/full/) [of](/en/post/of/) [hatred](/en/post/hatred/). [Example](/en/post/example/): "[She](/en/post/she/) [shot](/en/post/shot/) [him](/en/post/him/) [a](/en/post/a/) [hateful](/en/post/hateful/) [glare](/en/post/glare/) [when](/en/post/when/) [he](/en/post/he/) interrupted [her](/en/post/her/)."
 
-## Example Sentences
-- **Adjective**: "His hateful comments sparked outrage among the community."
-- "Her hateful demeanor made it difficult for others to approach her."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[His](/en/post/his/) [hateful](/en/post/hateful/) comments sparked outrage [among](/en/post/among/) [the](/en/post/the/) [community](/en/post/community/)."
+- "[Her](/en/post/her/) [hateful](/en/post/hateful/) demeanor made [it](/en/post/it/) [difficult](/en/post/difficult/) [for](/en/post/for/) others [to](/en/post/to/) [approach](/en/post/approach/) [her](/en/post/her/)."
 
 ## Synonyms
 - Loathsome
@@ -38,4 +38,4 @@ Example sentences:
 - Obnoxious
 - Malicious
 - spiteful
-- Nasty
+- [Nasty](/en/post/nasty/)

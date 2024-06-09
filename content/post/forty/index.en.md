@@ -7,30 +7,30 @@ description = '[ˈfɔːti] num.四十，第四十'
 keywords = ['ai words', 'forty']
 +++
 
-## Word: Forty
+## [Word](/en/post/word/): [Forty](/en/post/forty/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈfɔːr.ti/
 
 ## Definitions
-**Numeral**: The cardinal number that is the product of ten and four; the number following thirty-nine and preceding forty-one.
+**Numeral**: [The](/en/post/the/) cardinal [number](/en/post/number/) [that](/en/post/that/) is [the](/en/post/the/) [product](/en/post/product/) [of](/en/post/of/) [ten](/en/post/ten/) [and](/en/post/and/) [four](/en/post/four/); [the](/en/post/the/) [number](/en/post/number/) [following](/en/post/following/) thirty-nine [and](/en/post/and/) [preceding](/en/post/preceding/) forty-one.
 
-Example Sentence: 
-- _They celebrated their fortieth wedding anniversary with a grand party._
-- _She scored forty points in the basketball game._
+[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
+- _They celebrated [their](/en/post/their/) fortieth [wedding](/en/post/wedding/) anniversary [with](/en/post/with/) [a](/en/post/a/) [grand](/en/post/grand/) [party](/en/post/party/)._
+- _She scored [forty](/en/post/forty/) points [in](/en/post/in/) [the](/en/post/the/) [basketball](/en/post/basketball/) [game](/en/post/game/)._
 
 ## Phrases
-- "Forty winks": A short sleep or nap, typically a brief period of rest.
-  Example: "After lunch, he likes to take forty winks before returning to work."
+- "[Forty](/en/post/forty/) winks": [A](/en/post/a/) [short](/en/post/short/) [sleep](/en/post/sleep/) [or](/en/post/or/) [nap](/en/post/nap/), typically [a](/en/post/a/) [brief](/en/post/brief/) [period](/en/post/period/) [of](/en/post/of/) [rest](/en/post/rest/).
+  [Example](/en/post/example/): "[After](/en/post/after/) [lunch](/en/post/lunch/), [he](/en/post/he/) likes [to](/en/post/to/) [take](/en/post/take/) [forty](/en/post/forty/) winks [before](/en/post/before/) returning [to](/en/post/to/) [work](/en/post/work/)."
 
-- "In one's forties": Refers to a person who is aged between forty and forty-nine.
-  Example: "She started her own business in her forties."
+- "[In](/en/post/in/) one's forties": Refers [to](/en/post/to/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is aged [between](/en/post/between/) [forty](/en/post/forty/) [and](/en/post/and/) forty-nine.
+  [Example](/en/post/example/): "[She](/en/post/she/) started [her](/en/post/her/) [own](/en/post/own/) [business](/en/post/business/) [in](/en/post/in/) [her](/en/post/her/) forties."
 
-- "Forty acres and a mule": An American colloquial expression referring to the promise (unfulfilled for most) of land and resources to African Americans after the Civil War.
+- "[Forty](/en/post/forty/) acres [and](/en/post/and/) [a](/en/post/a/) mule": An [American](/en/post/american/) colloquial [expression](/en/post/expression/) referring [to](/en/post/to/) [the](/en/post/the/) [promise](/en/post/promise/) (unfulfilled [for](/en/post/for/) [most](/en/post/most/)) [of](/en/post/of/) [land](/en/post/land/) [and](/en/post/and/) resources [to](/en/post/to/) [African](/en/post/african/) Americans [after](/en/post/after/) [the](/en/post/the/) [Civil](/en/post/civil/) [War](/en/post/war/).
 
 ## Synonyms
-- Fourty (archaic spelling)
-- Four dozen
+- Fourty (archaic [spelling](/en/post/spelling/))
+- [Four](/en/post/four/) [dozen](/en/post/dozen/)
 - Two-score
 
-Note: Unlike other parts of speech such as nouns, verbs, adjectives, etc., numerals do not have different forms or uses based on sentence context. They primarily serve to quantify things or denote numbers. In some cases, they might be used in idiomatic expressions or fixed phrases like the examples provided above.
+[Note](/en/post/note/): [Unlike](/en/post/unlike/) [other](/en/post/other/) parts [of](/en/post/of/) [speech](/en/post/speech/) [such](/en/post/such/) [as](/en/post/as/) nouns, verbs, adjectives, etc., numerals [do](/en/post/do/) [not](/en/post/not/) [have](/en/post/have/) [different](/en/post/different/) forms [or](/en/post/or/) uses based [on](/en/post/on/) [sentence](/en/post/sentence/) context. [They](/en/post/they/) [primarily](/en/post/primarily/) [serve](/en/post/serve/) [to](/en/post/to/) quantify things [or](/en/post/or/) denote numbers. [In](/en/post/in/) [some](/en/post/some/) cases, [they](/en/post/they/) [might](/en/post/might/) [be](/en/post/be/) [used](/en/post/used/) [in](/en/post/in/) idiomatic expressions [or](/en/post/or/) fixed phrases [like](/en/post/like/) [the](/en/post/the/) examples [provided](/en/post/provided/) [above](/en/post/above/).

@@ -7,29 +7,29 @@ description = '[riˌlaiəˈbiliti] n.可靠性'
 keywords = ['ai words', 'reliability']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /rɪˈlaɪəbɪləti/
 
 ## Definitions
-- **Noun**: The ability to be trusted or relied upon consistently; dependability. For example: "The car's high reliability is its main selling point."
-- **Adjective**: Characterized by trustworthiness, accuracy, or consistency. For example: "Her work has a high level of reliability."
-- **Verb**: To be dependable or trustworthy; to function consistently. For example: "This new software is highly reliable."
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [be](/en/post/be/) trusted [or](/en/post/or/) relied [upon](/en/post/upon/) consistently; dependability. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) car's [high](/en/post/high/) [reliability](/en/post/reliability/) is [its](/en/post/its/) [main](/en/post/main/) selling [point](/en/post/point/)."
+- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) trustworthiness, [accuracy](/en/post/accuracy/), [or](/en/post/or/) consistency. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [work](/en/post/work/) has [a](/en/post/a/) [high](/en/post/high/) [level](/en/post/level/) [of](/en/post/of/) [reliability](/en/post/reliability/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) dependable [or](/en/post/or/) trustworthy; [to](/en/post/to/) [function](/en/post/function/) consistently. [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) [new](/en/post/new/) software is [highly](/en/post/highly/) [reliable](/en/post/reliable/)."
 
 ## Phrases
-- "Reliability is key" emphasizes the importance of trustworthiness.
-- "Proven reliability" refers to something that has been consistently dependable over time.
-- "Achieving reliability" is the process of making something dependable.
+- "[Reliability](/en/post/reliability/) is [key](/en/post/key/)" emphasizes [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) trustworthiness.
+- "Proven [reliability](/en/post/reliability/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) has been consistently dependable [over](/en/post/over/) [time](/en/post/time/).
+- "Achieving [reliability](/en/post/reliability/)" is [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) making [something](/en/post/something/) dependable.
 
-## Example Sentences
-- **Noun**: "The company prides itself on its employees' high levels of reliability."
-- **Adjective**: "The server's reliability improved after regular maintenance."
-- **Verb**: "They've worked hard to increase the reliability of their manufacturing process."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) prides [itself](/en/post/itself/) [on](/en/post/on/) [its](/en/post/its/) employees' [high](/en/post/high/) levels [of](/en/post/of/) [reliability](/en/post/reliability/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) server's [reliability](/en/post/reliability/) improved [after](/en/post/after/) [regular](/en/post/regular/) [maintenance](/en/post/maintenance/)."
+- **[Verb](/en/post/verb/)**: "They've worked [hard](/en/post/hard/) [to](/en/post/to/) [increase](/en/post/increase/) [the](/en/post/the/) [reliability](/en/post/reliability/) [of](/en/post/of/) [their](/en/post/their/) manufacturing [process](/en/post/process/)."
 
 ## Synonyms
 - Trustworthiness
 - Dependability
 - Consistency
-- Reliability rating
+- [Reliability](/en/post/reliability/) rating
 - Robustness
 - Steadiness
 

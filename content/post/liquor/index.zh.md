@@ -11,20 +11,20 @@ keywords = ['ai words', 'liquor']
 /ˈlɪkər/
 
 ## 释义
-- **名词**: 酒精饮料，尤指烈性酒。例如: "He enjoys a glass of whiskey, his favorite liquor."
-- **动词**: 提供或出售酒精饮料。例如: "The bartender was busy liquoring up the patrons."
+- **名词**: 酒精饮料，尤指烈性酒。例如: "[He](/post/he/) enjoys [a](/post/a/) [glass](/post/glass/) [of](/post/of/) whiskey, [his](/post/his/) favorite [liquor](/post/liquor/)."
+- **动词**: 提供或出售酒精饮料。例如: "[The](/post/the/) bartender was [busy](/post/busy/) liquoring [up](/post/up/) [the](/post/the/) patrons."
 
 ## 短语
-- "Hard liquor" 指高浓度的烈性酒，如威士忌或伏特加。
+- "[Hard](/post/hard/) [liquor](/post/liquor/)" 指高浓度的烈性酒，如威士忌或伏特加。
 - "After-dinner liqueur" 是指餐后甜酒，通常用来助消化。
 
 ## 例句
-- 名词: "She keeps a well-stocked bar with various types of liquor for her guests."
-- 动词: "The restaurant is licensed to liquor and serves a variety of cocktails."
+- 名词: "[She](/post/she/) keeps [a](/post/a/) well-stocked [bar](/post/bar/) [with](/post/with/) [various](/post/various/) types [of](/post/of/) [liquor](/post/liquor/) [for](/post/for/) [her](/post/her/) guests."
+- 动词: "[The](/post/the/) [restaurant](/post/restaurant/) is licensed [to](/post/to/) [liquor](/post/liquor/) [and](/post/and/) serves [a](/post/a/) [variety](/post/variety/) [of](/post/of/) cocktails."
 
 ## 同义词
-- Alcohol
+- [Alcohol](/post/alcohol/)
 - spirits
 - beverage
-- drink
+- [drink](/post/drink/)
 - intoxicant

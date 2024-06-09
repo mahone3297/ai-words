@@ -11,21 +11,21 @@ keywords = ['ai words', 'heating']
 /ˈhiːtɪŋ/
 
 ## 释义
-- **名词**: 加热的过程或结果；暖气。例如: "We turned on the heating to warm up the house."
-- **动词**: 使变暖，加热。例如: "The oven is heating the food to the perfect temperature."
+- **名词**: 加热的过程或结果；暖气。例如: "[We](/post/we/) turned [on](/post/on/) [the](/post/the/) [heating](/post/heating/) [to](/post/to/) [warm](/post/warm/) [up](/post/up/) [the](/post/the/) [house](/post/house/)."
+- **动词**: 使变暖，加热。例如: "[The](/post/the/) [oven](/post/oven/) is [heating](/post/heating/) [the](/post/the/) [food](/post/food/) [to](/post/to/) [the](/post/the/) [perfect](/post/perfect/) [temperature](/post/temperature/)."
 
 ## 短语
-- "central heating" 中央供暖系统。
-- "heating system" 加热系统。
-- "electric heating" 电加热。
+- "[central](/post/central/) [heating](/post/heating/)" 中央供暖系统。
+- "[heating](/post/heating/) [system](/post/system/)" 加热系统。
+- "[electric](/post/electric/) [heating](/post/heating/)" 电加热。
 
 ## 例句
-- 名词: "The building has efficient central heating for the winter months."
-- 动词: "Let's heat up some soup for lunch."
+- 名词: "[The](/post/the/) [building](/post/building/) has [efficient](/post/efficient/) [central](/post/central/) [heating](/post/heating/) [for](/post/for/) [the](/post/the/) [winter](/post/winter/) months."
+- 动词: "Let's [heat](/post/heat/) [up](/post/up/) [some](/post/some/) [soup](/post/soup/) [for](/post/for/) [lunch](/post/lunch/)."
 
 ## 同义词
-- Warmth
+- [Warmth](/post/warmth/)
 - Thermalization
 - Warming
-- Boiler operation
-- Furnace use
+- Boiler [operation](/post/operation/)
+- [Furnace](/post/furnace/) [use](/post/use/)

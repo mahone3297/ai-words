@@ -15,15 +15,15 @@ keywords = ['ai words', 'Europe']
    - 欧洲，七大洲之一，位于亚洲西面，非洲北面，大部分地区位于北温带。
 
 ## 短语
-- "European Union" (欧盟) 欧洲各国的政治和经济联盟。
-- "Eastern Europe" (东欧) 欧洲大陆的东部地区。
-- "Western Europe" (西欧) 欧洲大陆的西部地区。
+- "European [Union](/post/union/)" (欧盟) 欧洲各国的政治和经济联盟。
+- "[Eastern](/post/eastern/) Europe" (东欧) 欧洲大陆的东部地区。
+- "[Western](/post/western/) Europe" (西欧) 欧洲大陆的西部地区。
 
 ## 例句
-- "France, Germany, and Italy are some of the key countries in Western Europe."
-- "The European Union has implemented common policies on trade and immigration."
+- "France, Germany, [and](/post/and/) Italy are [some](/post/some/) [of](/post/of/) [the](/post/the/) [key](/post/key/) countries [in](/post/in/) [Western](/post/western/) Europe."
+- "[The](/post/the/) European [Union](/post/union/) has implemented [common](/post/common/) policies [on](/post/on/) [trade](/post/trade/) [and](/post/and/) immigration."
 
 ## 同义词
-- continent (洲，大陆)
+- [continent](/post/continent/) (洲，大陆)
 - Europea
 - Eur (缩写形式)

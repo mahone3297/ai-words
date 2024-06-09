@@ -12,23 +12,23 @@ keywords = ['ai words', 'adventure']
 
 ## 释义
 - **名词**:
-  - 冒险；奇遇：一段充满不确定性和风险的经历或活动。例如: "She embarked on a thrilling adventure in the Amazon jungle."
-  - 刺激；刺激的事物：提供兴奋和冒险感的事物。例如: "The roller coaster was an adventure for the whole family."
+  - 冒险；奇遇：一段充满不确定性和风险的经历或活动。例如: "[She](/post/she/) embarked [on](/post/on/) [a](/post/a/) thrilling [adventure](/post/adventure/) [in](/post/in/) [the](/post/the/) Amazon [jungle](/post/jungle/)."
+  - 刺激；刺激的事物：提供兴奋和冒险感的事物。例如: "[The](/post/the/) [roller](/post/roller/) coaster was an [adventure](/post/adventure/) [for](/post/for/) [the](/post/the/) [whole](/post/whole/) [family](/post/family/)."
   
 - **动词**:
-  - 去冒险；尝试：承担风险或投身于可能有危险的事情。例如: "He decided to adventure into entrepreneurship despite the risks."
+  - 去冒险；尝试：承担风险或投身于可能有危险的事情。例如: "[He](/post/he/) decided [to](/post/to/) [adventure](/post/adventure/) [into](/post/into/) entrepreneurship [despite](/post/despite/) [the](/post/the/) risks."
 
 ## 短语
-- "Go on an adventure" 意为去冒险或探索未知的地方。
+- "[Go](/post/go/) [on](/post/on/) an [adventure](/post/adventure/)" 意为去冒险或探索未知的地方。
 - "Adventure-seeker" 描述热衷于冒险的人。
 
 ## 例句
-- 名词: "Their adventure to the lost city was filled with excitement and danger."
-- 动词: "She loves to adventure into new hobbies, always eager to learn something new."
+- 名词: "[Their](/post/their/) [adventure](/post/adventure/) [to](/post/to/) [the](/post/the/) lost [city](/post/city/) was filled [with](/post/with/) excitement [and](/post/and/) [danger](/post/danger/)."
+- 动词: "[She](/post/she/) loves [to](/post/to/) [adventure](/post/adventure/) [into](/post/into/) [new](/post/new/) hobbies, [always](/post/always/) [eager](/post/eager/) [to](/post/to/) [learn](/post/learn/) [something](/post/something/) [new](/post/new/)."
 
 ## 同义词
 - Expedition
-- Journey
-- Venture
-- Excursion
-- Experience
+- [Journey](/post/journey/)
+- [Venture](/post/venture/)
+- [Excursion](/post/excursion/)
+- [Experience](/post/experience/)

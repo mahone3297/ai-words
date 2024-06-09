@@ -7,25 +7,25 @@ description = '[diˈli∫əs] a.美味的，怡人的'
 keywords = ['ai words', 'delicious']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /dɪˈlɪʃəs/
 
 ## Definitions
-### Noun
-**Adjective**: Describing something that is extremely tasty, enjoyable, or appealing to the senses. For example: "The cake was so delicious that everyone wanted seconds."
+### [Noun](/en/post/noun/)
+**[Adjective](/en/post/adjective/)**: Describing [something](/en/post/something/) [that](/en/post/that/) is [extremely](/en/post/extremely/) tasty, enjoyable, [or](/en/post/or/) appealing [to](/en/post/to/) [the](/en/post/the/) senses. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [cake](/en/post/cake/) was [so](/en/post/so/) [delicious](/en/post/delicious/) [that](/en/post/that/) [everyone](/en/post/everyone/) wanted seconds."
 
-### Verb
-**Adverb**: Used to describe how something tastes or is perceived, often in the context of describing someone's enjoyment. For example: "She savored the delicious flavor of the chocolate truffle."
+### [Verb](/en/post/verb/)
+**[Adverb](/en/post/adverb/)**: [Used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [how](/en/post/how/) [something](/en/post/something/) tastes [or](/en/post/or/) is perceived, [often](/en/post/often/) [in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) describing someone's enjoyment. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) savored [the](/en/post/the/) [delicious](/en/post/delicious/) flavor [of](/en/post/of/) [the](/en/post/the/) [chocolate](/en/post/chocolate/) truffle."
 
 ## Phrases
-- "A delicious meal" refers to a very pleasing and appetizing food.
-- "Delicious aroma" describes the pleasant smell of something being cooked or baked.
-- "She has a knack for making delicious recipes."
+- "[A](/en/post/a/) [delicious](/en/post/delicious/) [meal](/en/post/meal/)" refers [to](/en/post/to/) [a](/en/post/a/) [very](/en/post/very/) pleasing [and](/en/post/and/) appetizing [food](/en/post/food/).
+- "[Delicious](/en/post/delicious/) aroma" describes [the](/en/post/the/) [pleasant](/en/post/pleasant/) [smell](/en/post/smell/) [of](/en/post/of/) [something](/en/post/something/) [being](/en/post/being/) cooked [or](/en/post/or/) baked.
+- "[She](/en/post/she/) has [a](/en/post/a/) knack [for](/en/post/for/) making [delicious](/en/post/delicious/) recipes."
 
-## Example Sentences
-- **Noun**: "The restaurant's signature dish was a delicious blend of flavors."
-- **Verb**: "He couldn't stop raving about the delicious pasta he had just eaten."
-- **Adverb**: "She took a deep breath, relishing the delicious scent of the freshly baked bread."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) restaurant's [signature](/en/post/signature/) [dish](/en/post/dish/) was [a](/en/post/a/) [delicious](/en/post/delicious/) [blend](/en/post/blend/) [of](/en/post/of/) flavors."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) couldn't [stop](/en/post/stop/) raving [about](/en/post/about/) [the](/en/post/the/) [delicious](/en/post/delicious/) pasta [he](/en/post/he/) had [just](/en/post/just/) eaten."
+- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) took [a](/en/post/a/) [deep](/en/post/deep/) [breath](/en/post/breath/), relishing [the](/en/post/the/) [delicious](/en/post/delicious/) [scent](/en/post/scent/) [of](/en/post/of/) [the](/en/post/the/) freshly baked [bread](/en/post/bread/)."
 
 ## Synonyms
 - Tasty
@@ -42,5 +42,5 @@ keywords = ['ai words', 'delicious']
 - Unappetizing
 - Bland
 - Disgusting
-- Unpleasant
+- [Unpleasant](/en/post/unpleasant/)
 - Unpalatable

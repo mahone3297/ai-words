@@ -7,34 +7,34 @@ description = '[ˈpɑːtli] ad.部分地，不完全地'
 keywords = ['ai words', 'partly']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /pərˈteɪli/
 
 ## Definitions
-- **Adverb**: To a limited extent or degree; not completely or fully. For example: "The weather was partly cloudy."
-- **Adjective**: Partially; not entirely. For example: "He was partly responsible for the mistake."
+- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [a](/en/post/a/) [limited](/en/post/limited/) [extent](/en/post/extent/) [or](/en/post/or/) [degree](/en/post/degree/); [not](/en/post/not/) [completely](/en/post/completely/) [or](/en/post/or/) fully. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [weather](/en/post/weather/) was [partly](/en/post/partly/) [cloudy](/en/post/cloudy/)."
+- **[Adjective](/en/post/adjective/)**: [Partially](/en/post/partially/); [not](/en/post/not/) entirely. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) was [partly](/en/post/partly/) [responsible](/en/post/responsible/) [for](/en/post/for/) [the](/en/post/the/) [mistake](/en/post/mistake/)."
 
 ## Phrases
-- "Partly due to" implies that something is caused by a partial factor.
-- "Partly cloudy skies" describe a mix of clear and overcast conditions.
-- "Partly agreed" indicates that only part of a proposal or statement has been accepted.
+- "[Partly](/en/post/partly/) [due](/en/post/due/) [to](/en/post/to/)" implies [that](/en/post/that/) [something](/en/post/something/) is caused [by](/en/post/by/) [a](/en/post/a/) [partial](/en/post/partial/) [factor](/en/post/factor/).
+- "[Partly](/en/post/partly/) [cloudy](/en/post/cloudy/) skies" [describe](/en/post/describe/) [a](/en/post/a/) [mix](/en/post/mix/) [of](/en/post/of/) [clear](/en/post/clear/) [and](/en/post/and/) overcast conditions.
+- "[Partly](/en/post/partly/) agreed" indicates [that](/en/post/that/) [only](/en/post/only/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [proposal](/en/post/proposal/) [or](/en/post/or/) [statement](/en/post/statement/) has been accepted.
 
-## Example Sentences
-- **Adverb**: "I managed to finish the project partly because of your help."
-- **Adjective**: "The team's success was partly attributed to their hard work."
-- "She felt partly relieved after learning the good news."
+## [Example](/en/post/example/) Sentences
+- **[Adverb](/en/post/adverb/)**: "I managed [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [partly](/en/post/partly/) [because](/en/post/because/) [of](/en/post/of/) [your](/en/post/your/) [help](/en/post/help/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) team's [success](/en/post/success/) was [partly](/en/post/partly/) attributed [to](/en/post/to/) [their](/en/post/their/) [hard](/en/post/hard/) [work](/en/post/work/)."
+- "[She](/en/post/she/) felt [partly](/en/post/partly/) relieved [after](/en/post/after/) [learning](/en/post/learning/) [the](/en/post/the/) [good](/en/post/good/) [news](/en/post/news/)."
 
 ## Synonyms
-- Partially
-- Slightly
+- [Partially](/en/post/partially/)
+- [Slightly](/en/post/slightly/)
 - Moderately
-- In part
-- To some extent
+- [In](/en/post/in/) [part](/en/post/part/)
+- [To](/en/post/to/) [some](/en/post/some/) [extent](/en/post/extent/)
 - Barely
 
 ## Antonyms
-- Completely
+- [Completely](/en/post/completely/)
 - Fully
 - Entirely
-- Absolutely
+- [Absolutely](/en/post/absolutely/)
 - Unconditionally

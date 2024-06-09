@@ -12,23 +12,23 @@ keywords = ['ai words', 'composition']
 
 ## 释义
 - **名词**: 
-   - 作品，创作：如音乐、文学或艺术作品。例如: "The composer's new composition is a masterpiece."
-   - 组成，构成：事物的组成部分或构造。例如: "The composition of the board has changed over the years."
-   - 作文，文章：在学习中写的论文或报告。例如: "Students are asked to write a composition on their summer vacation."
+   - 作品，创作：如音乐、文学或艺术作品。例如: "[The](/post/the/) composer's [new](/post/new/) [composition](/post/composition/) is [a](/post/a/) [masterpiece](/post/masterpiece/)."
+   - 组成，构成：事物的组成部分或构造。例如: "[The](/post/the/) [composition](/post/composition/) [of](/post/of/) [the](/post/the/) [board](/post/board/) has changed [over](/post/over/) [the](/post/the/) years."
+   - 作文，文章：在学习中写的论文或报告。例如: "Students are asked [to](/post/to/) [write](/post/write/) [a](/post/a/) [composition](/post/composition/) [on](/post/on/) [their](/post/their/) [summer](/post/summer/) [vacation](/post/vacation/)."
 
 ## 短语
-- "Music composition" 音乐创作
-- "Composition skills" 写作技巧
-- "Chemical composition" 化学组成
+- "[Music](/post/music/) [composition](/post/composition/)" 音乐创作
+- "[Composition](/post/composition/) skills" 写作技巧
+- "[Chemical](/post/chemical/) [composition](/post/composition/)" 化学组成
 
 ## 例句
-- 名词: "The art critic praised the composition and balance in the painting."
-- 名词: "Her composition for the orchestra was well received by the audience."
-- 名词: "The teacher marked the students' compositions based on grammar and creativity."
+- 名词: "[The](/post/the/) [art](/post/art/) [critic](/post/critic/) praised [the](/post/the/) [composition](/post/composition/) [and](/post/and/) [balance](/post/balance/) [in](/post/in/) [the](/post/the/) [painting](/post/painting/)."
+- 名词: "[Her](/post/her/) [composition](/post/composition/) [for](/post/for/) [the](/post/the/) [orchestra](/post/orchestra/) was [well](/post/well/) received [by](/post/by/) [the](/post/the/) [audience](/post/audience/)."
+- 名词: "[The](/post/the/) [teacher](/post/teacher/) marked [the](/post/the/) students' compositions based [on](/post/on/) [grammar](/post/grammar/) [and](/post/and/) creativity."
 
 ## 同义词
 - Creation
-- Work
-- Piece
+- [Work](/post/work/)
+- [Piece](/post/piece/)
 - Opus
-- Writing
+- [Writing](/post/writing/)

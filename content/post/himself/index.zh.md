@@ -11,27 +11,27 @@ keywords = ['ai words', 'himself']
 /hɪmˈself/
 
 ## 释义
-- **反身代词**: 表示他自己，强调主语自身的行为或特征。例如: "He did it himself."
-- **代词**: 强调宾语是主语本人。例如: "John cleaned his car himself."
+- **反身代词**: 表示他自己，强调主语自身的行为或特征。例如: "[He](/post/he/) did [it](/post/it/) [himself](/post/himself/)."
+- **代词**: 强调宾语是主语本人。例如: "John cleaned [his](/post/his/) [car](/post/car/) [himself](/post/himself/)."
 
 ## 短语
-- "by himself" 意味着他独自一人，没有别人的帮助。例如: "He learned to play the piano by himself."
-- "himself alone" 强调只有他一个人。例如: "It was Tom himself alone who made the decision."
+- "[by](/post/by/) [himself](/post/himself/)" 意味着他独自一人，没有别人的帮助。例如: "[He](/post/he/) [learned](/post/learned/) [to](/post/to/) [play](/post/play/) [the](/post/the/) [piano](/post/piano/) [by](/post/by/) [himself](/post/himself/)."
+- "[himself](/post/himself/) [alone](/post/alone/)" 强调只有他一个人。例如: "[It](/post/it/) was Tom [himself](/post/himself/) [alone](/post/alone/) [who](/post/who/) made [the](/post/the/) [decision](/post/decision/)."
 
 ## 例句
-- 反身代词: "John cooked dinner for himself and his family."
-- 代词: "The manager did the work himself to ensure its quality."
+- 反身代词: "John cooked [dinner](/post/dinner/) [for](/post/for/) [himself](/post/himself/) [and](/post/and/) [his](/post/his/) [family](/post/family/)."
+- 代词: "[The](/post/the/) manager did [the](/post/the/) [work](/post/work/) [himself](/post/himself/) [to](/post/to/) [ensure](/post/ensure/) [its](/post/its/) [quality](/post/quality/)."
 
 ## 同义词
-- himself: 
-  - self
+- [himself](/post/himself/): 
+  - [self](/post/self/)
   - personally
   - individually
 - 其他代词形式（男性）:
-  - himself
-  - himself alone
-  - on his own
+  - [himself](/post/himself/)
+  - [himself](/post/himself/) [alone](/post/alone/)
+  - [on](/post/on/) [his](/post/his/) [own](/post/own/)
 - 其他代词形式（中性/通用）:
-  - oneself
-  - themselves
-  - by oneself
+  - [oneself](/post/oneself/)
+  - [themselves](/post/themselves/)
+  - [by](/post/by/) [oneself](/post/oneself/)

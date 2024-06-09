@@ -7,40 +7,40 @@ description = '[ˈseifti] n.安全，保险'
 keywords = ['ai words', 'safety']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /səˈfaɪti/
 
 ## Definitions
-### Noun
-1. The state of being safe from harm or danger; security. [Definition source: Oxford](https://en.oxforddictionaries.com/definition/safety)
-2. The practice or condition of being protected from injury, risk, or harm. [Definition source: Merriam-Webster](https://www.merriam-webster.com/dictionary/safety)
+### [Noun](/en/post/noun/)
+1. [The](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [safe](/en/post/safe/) [from](/en/post/from/) [harm](/en/post/harm/) [or](/en/post/or/) [danger](/en/post/danger/); [security](/en/post/security/). [[Definition](/en/post/definition/) [source](/en/post/source/): Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[safety](/en/post/safety/))
+2. [The](/en/post/the/) [practice](/en/post/practice/) [or](/en/post/or/) [condition](/en/post/condition/) [of](/en/post/of/) [being](/en/post/being/) protected [from](/en/post/from/) [injury](/en/post/injury/), [risk](/en/post/risk/), [or](/en/post/or/) [harm](/en/post/harm/). [[Definition](/en/post/definition/) [source](/en/post/source/): Merriam-Webster](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[safety](/en/post/safety/))
 
-### Verb
-1. To ensure or maintain the safety of something or someone. [Definition source: Cambridge](https://dictionary.cambridge.org/dictionary/english/safety)
-2. To feel or be confident in the absence of risk or harm. [Definition source: Collins](https://www.collinsdictionary.com/dictionary/english/safe)
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [ensure](/en/post/ensure/) [or](/en/post/or/) [maintain](/en/post/maintain/) [the](/en/post/the/) [safety](/en/post/safety/) [of](/en/post/of/) [something](/en/post/something/) [or](/en/post/or/) [someone](/en/post/someone/). [[Definition](/en/post/definition/) [source](/en/post/source/): Cambridge](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[safety](/en/post/safety/))
+2. [To](/en/post/to/) [feel](/en/post/feel/) [or](/en/post/or/) [be](/en/post/be/) [confident](/en/post/confident/) [in](/en/post/in/) [the](/en/post/the/) [absence](/en/post/absence/) [of](/en/post/of/) [risk](/en/post/risk/) [or](/en/post/or/) [harm](/en/post/harm/). [[Definition](/en/post/definition/) [source](/en/post/source/): Collins](https://www.collinsdictionary.com/[dictionary](/en/post/dictionary/)/english/[safe](/en/post/safe/))
 
 ## Phrases
-- "Safety first"
-- "Safety measures"
-- "Emergency safety procedures"
-- "Public safety alert"
-- "Child safety guidelines"
+- "[Safety](/en/post/safety/) [first](/en/post/first/)"
+- "[Safety](/en/post/safety/) measures"
+- "[Emergency](/en/post/emergency/) [safety](/en/post/safety/) procedures"
+- "[Public](/en/post/public/) [safety](/en/post/safety/) alert"
+- "[Child](/en/post/child/) [safety](/en/post/safety/) guidelines"
 
-## Example Sentences
-- **Noun**: "The safety of the passengers was the top priority for the airline."
-- **Verb**: "It's important to safety check all electrical appliances before using them."
-- **Adjective**: "The child felt safe and secure in their new home."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [safety](/en/post/safety/) [of](/en/post/of/) [the](/en/post/the/) passengers was [the](/en/post/the/) [top](/en/post/top/) priority [for](/en/post/for/) [the](/en/post/the/) [airline](/en/post/airline/)."
+- **[Verb](/en/post/verb/)**: "It's [important](/en/post/important/) [to](/en/post/to/) [safety](/en/post/safety/) [check](/en/post/check/) [all](/en/post/all/) [electrical](/en/post/electrical/) appliances [before](/en/post/before/) using [them](/en/post/them/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [child](/en/post/child/) felt [safe](/en/post/safe/) [and](/en/post/and/) [secure](/en/post/secure/) [in](/en/post/in/) [their](/en/post/their/) [new](/en/post/new/) [home](/en/post/home/)."
 
 ## Synonyms
-- Security
+- [Security](/en/post/security/)
 - Assurance
-- Protection
+- [Protection](/en/post/protection/)
 - Safeguard
 - Preservation
 
 ## Antonyms
-- Risk
-- Hazard
-- Danger
+- [Risk](/en/post/risk/)
+- [Hazard](/en/post/hazard/)
+- [Danger](/en/post/danger/)
 - Vulnerability
-- Exposure
+- [Exposure](/en/post/exposure/)

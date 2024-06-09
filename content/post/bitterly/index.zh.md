@@ -11,20 +11,20 @@ keywords = ['ai words', 'bitterly']
 /bɪtəli/
 
 ## 释义
-- **副词**: 表示极度、痛苦或悲痛的方式。例如: "She cried bitterly after the breakup."
-- **形容词**: 有强烈的苦味。例如: "This coffee is bitterly cold."
+- **副词**: 表示极度、痛苦或悲痛的方式。例如: "[She](/post/she/) cried [bitterly](/post/bitterly/) [after](/post/after/) [the](/post/the/) breakup."
+- **形容词**: 有强烈的苦味。例如: "[This](/post/this/) [coffee](/post/coffee/) is [bitterly](/post/bitterly/) [cold](/post/cold/)."
 
 ## 短语
-- "bitterly disappointed" 表示极度失望。
-- "bitterly cold" 形容非常寒冷。
-- "bitterly regret" 表示深感后悔。
+- "[bitterly](/post/bitterly/) disappointed" 表示极度失望。
+- "[bitterly](/post/bitterly/) [cold](/post/cold/)" 形容非常寒冷。
+- "[bitterly](/post/bitterly/) [regret](/post/regret/)" 表示深感后悔。
 
 ## 例句
-- 副词: "He was bitterly disappointed when he failed the exam."
-- 形容词: "The winter was so bitterly cold that all the lakes froze over."
+- 副词: "[He](/post/he/) was [bitterly](/post/bitterly/) disappointed [when](/post/when/) [he](/post/he/) failed [the](/post/the/) [exam](/post/exam/)."
+- 形容词: "[The](/post/the/) [winter](/post/winter/) was [so](/post/so/) [bitterly](/post/bitterly/) [cold](/post/cold/) [that](/post/that/) [all](/post/all/) [the](/post/the/) lakes froze [over](/post/over/)."
 
 ## 同义词
-- severely
+- [severely](/post/severely/)
 - intensely
 - deeply
 - desperately

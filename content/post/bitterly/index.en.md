@@ -7,34 +7,34 @@ description = '[ˈbitəli] ad.苦苦地；悲痛地'
 keywords = ['ai words', 'bitterly']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /bɪˈlɪtli/
 
 ## Definitions
-### Adverb
-- **Pronunciation**: /bɪˈlɪtli/
-- **Meaning**: Expressing a strong degree of something, often with a sense of harshness or resentment. It can modify verbs, adjectives, or other adverbs to emphasize the intensity of an emotion.
+### [Adverb](/en/post/adverb/)
+- **[Pronunciation](/en/post/pronunciation/)**: /bɪˈlɪtli/
+- **[Meaning](/en/post/meaning/)**: Expressing [a](/en/post/a/) [strong](/en/post/strong/) [degree](/en/post/degree/) [of](/en/post/of/) [something](/en/post/something/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) harshness [or](/en/post/or/) resentment. [It](/en/post/it/) [can](/en/post/can/) [modify](/en/post/modify/) verbs, adjectives, [or](/en/post/or/) [other](/en/post/other/) adverbs [to](/en/post/to/) [emphasize](/en/post/emphasize/) [the](/en/post/the/) [intensity](/en/post/intensity/) [of](/en/post/of/) an [emotion](/en/post/emotion/).
 
 ## Phrases
-- "Bitterly cold" describes a very cold temperature.
-- "She felt bitterly disappointed."
-- "He regretted his decision bitterly."
+- "[Bitterly](/en/post/bitterly/) [cold](/en/post/cold/)" describes [a](/en/post/a/) [very](/en/post/very/) [cold](/en/post/cold/) [temperature](/en/post/temperature/).
+- "[She](/en/post/she/) felt [bitterly](/en/post/bitterly/) disappointed."
+- "[He](/en/post/he/) regretted [his](/en/post/his/) [decision](/en/post/decision/) [bitterly](/en/post/bitterly/)."
 
-## Example Sentences
-- **Adverb modifying a verb**: "She worked bitterly all day to finish the project."
-- **Adverb modifying an adjective**: "The defeat was bitterly felt by the fans."
-- **Adverb modifying another adverb**: "He apologized bitterly for his earlier behavior."
+## [Example](/en/post/example/) Sentences
+- **[Adverb](/en/post/adverb/) modifying [a](/en/post/a/) [verb](/en/post/verb/)**: "[She](/en/post/she/) worked [bitterly](/en/post/bitterly/) [all](/en/post/all/) [day](/en/post/day/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/)."
+- **[Adverb](/en/post/adverb/) modifying an [adjective](/en/post/adjective/)**: "[The](/en/post/the/) [defeat](/en/post/defeat/) was [bitterly](/en/post/bitterly/) felt [by](/en/post/by/) [the](/en/post/the/) fans."
+- **[Adverb](/en/post/adverb/) modifying [another](/en/post/another/) [adverb](/en/post/adverb/)**: "[He](/en/post/he/) apologized [bitterly](/en/post/bitterly/) [for](/en/post/for/) [his](/en/post/his/) earlier [behavior](/en/post/behavior/)."
 
 ## Synonyms
-- Severely
+- [Severely](/en/post/severely/)
 - Harshly
 - Acutely
 - Sardonically
-- With great resentment
+- [With](/en/post/with/) [great](/en/post/great/) resentment
 
 ## Antonyms
 - Sweetly
 - Tenderly
-- Gently
+- [Gently](/en/post/gently/)
 - Mildly
 - Indifferently

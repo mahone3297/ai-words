@@ -7,36 +7,36 @@ description = '[ˈinstiŋkt] n.本能；直觉；生性'
 keywords = ['ai words', 'instinct']
 +++
 
-# Instinct
+# [Instinct](/en/post/instinct/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈɪnstɪŋkt/
 
 ## Definitions
-- **Noun**: A natural or inherent aptitude, impulse, or inclination present in a living creature that guides its actions and behaviors without being learned through experience or conscious thought. For example: "The mother had an instinct to protect her young from danger."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [natural](/en/post/natural/) [or](/en/post/or/) inherent aptitude, impulse, [or](/en/post/or/) inclination [present](/en/post/present/) [in](/en/post/in/) [a](/en/post/a/) [living](/en/post/living/) [creature](/en/post/creature/) [that](/en/post/that/) guides [its](/en/post/its/) actions [and](/en/post/and/) behaviors [without](/en/post/without/) [being](/en/post/being/) [learned](/en/post/learned/) [through](/en/post/through/) [experience](/en/post/experience/) [or](/en/post/or/) [conscious](/en/post/conscious/) [thought](/en/post/thought/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [mother](/en/post/mother/) had an [instinct](/en/post/instinct/) [to](/en/post/to/) [protect](/en/post/protect/) [her](/en/post/her/) [young](/en/post/young/) [from](/en/post/from/) [danger](/en/post/danger/)."
   
-  > Example Sentence: "Animals rely on their instincts to survive in the wild."
+  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): "Animals [rely](/en/post/rely/) [on](/en/post/on/) [their](/en/post/their/) instincts [to](/en/post/to/) [survive](/en/post/survive/) [in](/en/post/in/) [the](/en/post/the/) [wild](/en/post/wild/)."
   
-- **Verb (less commonly used)**: To act or behave according to one's instinct. For example: "In dangerous situations, people often instinct to flee."
+- **[Verb](/en/post/verb/) ([less](/en/post/less/) [commonly](/en/post/commonly/) [used](/en/post/used/))**: [To](/en/post/to/) [act](/en/post/act/) [or](/en/post/or/) [behave](/en/post/behave/) according [to](/en/post/to/) one's [instinct](/en/post/instinct/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [dangerous](/en/post/dangerous/) situations, [people](/en/post/people/) [often](/en/post/often/) [instinct](/en/post/instinct/) [to](/en/post/to/) flee."
 
-> Example Sentence: "He instinctively knew which path to take in the forest."
+> [Example](/en/post/example/) [Sentence](/en/post/sentence/): "[He](/en/post/he/) instinctively knew [which](/en/post/which/) [path](/en/post/path/) [to](/en/post/to/) [take](/en/post/take/) [in](/en/post/in/) [the](/en/post/the/) [forest](/en/post/forest/)."
 
 ## Phrases
-- "Go with your gut instinct": This means to follow your intuition or natural feeling about something rather than logical reasoning.
-- "Animal instincts": Refers to the innate behaviors or tendencies observed in animals that are not influenced by learning or culture.
-- "Fight or flight instinct": The inherent response mechanism of either confronting or fleeing from perceived threats.
+- "[Go](/en/post/go/) [with](/en/post/with/) [your](/en/post/your/) gut [instinct](/en/post/instinct/)": [This](/en/post/this/) [means](/en/post/means/) [to](/en/post/to/) [follow](/en/post/follow/) [your](/en/post/your/) intuition [or](/en/post/or/) [natural](/en/post/natural/) [feeling](/en/post/feeling/) [about](/en/post/about/) [something](/en/post/something/) [rather](/en/post/rather/) [than](/en/post/than/) [logical](/en/post/logical/) reasoning.
+- "[Animal](/en/post/animal/) instincts": Refers [to](/en/post/to/) [the](/en/post/the/) innate behaviors [or](/en/post/or/) tendencies observed [in](/en/post/in/) animals [that](/en/post/that/) are [not](/en/post/not/) influenced [by](/en/post/by/) [learning](/en/post/learning/) [or](/en/post/or/) [culture](/en/post/culture/).
+- "[Fight](/en/post/fight/) [or](/en/post/or/) [flight](/en/post/flight/) [instinct](/en/post/instinct/)": [The](/en/post/the/) inherent [response](/en/post/response/) mechanism [of](/en/post/of/) [either](/en/post/either/) confronting [or](/en/post/or/) fleeing [from](/en/post/from/) perceived threats.
 
-## Example Sentences
-- **Noun**: "The bird migrated south following its migratory instinct."
-- **Verb**: "On seeing the fire, he immediately instinctively grabbed his child and ran out of the house."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [bird](/en/post/bird/) migrated [south](/en/post/south/) [following](/en/post/following/) [its](/en/post/its/) migratory [instinct](/en/post/instinct/)."
+- **[Verb](/en/post/verb/)**: "[On](/en/post/on/) seeing [the](/en/post/the/) [fire](/en/post/fire/), [he](/en/post/he/) [immediately](/en/post/immediately/) instinctively grabbed [his](/en/post/his/) [child](/en/post/child/) [and](/en/post/and/) ran [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [house](/en/post/house/)."
 
 ## Synonyms
-- Inborn tendency
-- Natural impulse
-- Innate ability
+- Inborn [tendency](/en/post/tendency/)
+- [Natural](/en/post/natural/) impulse
+- Innate [ability](/en/post/ability/)
 - Intuition
-- Gut feeling
+- Gut [feeling](/en/post/feeling/)
 - Impulse
 - Instigation
 - Reflex
-- Unconscious urge
+- [Unconscious](/en/post/unconscious/) [urge](/en/post/urge/)

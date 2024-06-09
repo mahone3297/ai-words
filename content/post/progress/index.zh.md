@@ -11,20 +11,20 @@ keywords = ['ai words', 'progress']
 /ˈprɑːɡrɛs/
 
 ## 释义
-- **名词**: 进步，发展；前进。例如: "The project is making good progress."
-- **动词**: 前进，进展。例如: "We need to progress with the plan as soon as possible."
+- **名词**: 进步，发展；前进。例如: "[The](/post/the/) [project](/post/project/) is making [good](/post/good/) [progress](/post/progress/)."
+- **动词**: 前进，进展。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [progress](/post/progress/) [with](/post/with/) [the](/post/the/) [plan](/post/plan/) [as](/post/as/) [soon](/post/soon/) [as](/post/as/) [possible](/post/possible/)."
 
 ## 短语
-- "in progress" 表示正在进行中。例如: "The construction work is still in progress."
-- "make progress" 意味着取得进步。例如: "She's making steady progress in her studies."
+- "[in](/post/in/) [progress](/post/progress/)" 表示正在进行中。例如: "[The](/post/the/) [construction](/post/construction/) [work](/post/work/) is [still](/post/still/) [in](/post/in/) [progress](/post/progress/)."
+- "[make](/post/make/) [progress](/post/progress/)" 意味着取得进步。例如: "She's making [steady](/post/steady/) [progress](/post/progress/) [in](/post/in/) [her](/post/her/) studies."
 
 ## 例句
-- 名词: "The company is proud of the technological progress it has made."
-- 动词: "The negotiations have progressed slowly but surely."
+- 名词: "[The](/post/the/) [company](/post/company/) is [proud](/post/proud/) [of](/post/of/) [the](/post/the/) technological [progress](/post/progress/) [it](/post/it/) has made."
+- 动词: "[The](/post/the/) negotiations [have](/post/have/) progressed [slowly](/post/slowly/) [but](/post/but/) [surely](/post/surely/)."
 
 ## 同义词
 - advancement
-- development
-- improvement
-- growth
-- evolution
+- [development](/post/development/)
+- [improvement](/post/improvement/)
+- [growth](/post/growth/)
+- [evolution](/post/evolution/)

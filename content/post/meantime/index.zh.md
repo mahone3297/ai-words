@@ -11,19 +11,19 @@ keywords = ['ai words', 'meantime']
 /meɪkˈtiːm/
 
 ## 释义
-- **副词**: 暂时；其间；与此同时。例如: "I'll be back soon, meantime, please stay here."
+- **副词**: 暂时；其间；与此同时。例如: "I'll [be](/post/be/) [back](/post/back/) [soon](/post/soon/), [meantime](/post/meantime/), [please](/post/please/) [stay](/post/stay/) [here](/post/here/)."
 
 ## 短语
-- "In the meantime" 表示在一段时间内或某个事件发生之前。例如: "We're waiting for the results, in the meantime, let's continue working."
-- "Meantime, not forever" 意味着这只是暂时的情况，并非永久如此。
+- "[In](/post/in/) [the](/post/the/) [meantime](/post/meantime/)" 表示在一段时间内或某个事件发生之前。例如: "We're waiting [for](/post/for/) [the](/post/the/) results, [in](/post/in/) [the](/post/the/) [meantime](/post/meantime/), let's [continue](/post/continue/) working."
+- "[Meantime](/post/meantime/), [not](/post/not/) [forever](/post/forever/)" 意味着这只是暂时的情况，并非永久如此。
 
 ## 例句
-- "I need to make a phone call, meantime, can you take care of the kids?"
-- "The repairman will arrive in an hour, meantime, we'll have some lunch."
+- "I [need](/post/need/) [to](/post/to/) [make](/post/make/) [a](/post/a/) [phone](/post/phone/) [call](/post/call/), [meantime](/post/meantime/), [can](/post/can/) [you](/post/you/) [take](/post/take/) [care](/post/care/) [of](/post/of/) [the](/post/the/) kids?"
+- "[The](/post/the/) repairman [will](/post/will/) [arrive](/post/arrive/) [in](/post/in/) an [hour](/post/hour/), [meantime](/post/meantime/), we'll [have](/post/have/) [some](/post/some/) [lunch](/post/lunch/)."
 
 ## 同义词
-- Meanwhile
-- In the interim
-- For the time being
+- [Meanwhile](/post/meanwhile/)
+- [In](/post/in/) [the](/post/the/) interim
+- [For](/post/for/) [the](/post/the/) [time](/post/time/) [being](/post/being/)
 - Temporarily
-- During that time
+- [During](/post/during/) [that](/post/that/) [time](/post/time/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'productive']
 /ˈprɑːdʌktɪv/
 
 ## 释义
-- **形容词**: 富有成效的；多产的；能产生大量结果或收益的。例如: "She is a very productive member of the team."
-- **名词**: 产量；生产力。例如: "The farm has seen an increase in its productive capacity."
+- **形容词**: 富有成效的；多产的；能产生大量结果或收益的。例如: "[She](/post/she/) is [a](/post/a/) [very](/post/very/) [productive](/post/productive/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [team](/post/team/)."
+- **名词**: 产量；生产力。例如: "[The](/post/the/) [farm](/post/farm/) has seen an [increase](/post/increase/) [in](/post/in/) [its](/post/its/) [productive](/post/productive/) [capacity](/post/capacity/)."
 
 ## 短语
-- "Be productive" 意味着有效地利用时间或资源来产生成果。
-- "Productive discussion" 指富有成果的讨论，能达成共识或解决问题。
+- "[Be](/post/be/) [productive](/post/productive/)" 意味着有效地利用时间或资源来产生成果。
+- "[Productive](/post/productive/) [discussion](/post/discussion/)" 指富有成果的讨论，能达成共识或解决问题。
 
 ## 例句
-- 形容词: "His new work schedule has made him much more productive."
-- 名词: "The company's main goal is to improve overall productivity."
+- 形容词: "[His](/post/his/) [new](/post/new/) [work](/post/work/) [schedule](/post/schedule/) has made [him](/post/him/) [much](/post/much/) [more](/post/more/) [productive](/post/productive/)."
+- 名词: "[The](/post/the/) company's [main](/post/main/) [goal](/post/goal/) is [to](/post/to/) [improve](/post/improve/) [overall](/post/overall/) productivity."
 
 ## 同义词
-- Fruitful
-- Efficient
+- [Fruitful](/post/fruitful/)
+- [Efficient](/post/efficient/)
 - Generative
 - Yielding
-- Effective
+- [Effective](/post/effective/)

@@ -15,18 +15,18 @@ keywords = ['ai words', 'pole']
 - **动词**: 在高杆跳中使用杆跳跃
 
 ## 短语
-- "north pole" 北极
-- "south pole" 南极
-- "pole vault" 高杆跳
+- "[north](/post/north/) [pole](/post/pole/)" 北极
+- "[south](/post/south/) [pole](/post/pole/)" 南极
+- "[pole](/post/pole/) vault" 高杆跳
 
 ## 例句
-- 名词: "He held a long pole to reach the high shelf."
-- 名词: "The Earth has a magnetic pole that attracts a compass needle."
-- 动词: "She pole-vaulted over the 4-meter mark."
+- 名词: "[He](/post/he/) held [a](/post/a/) [long](/post/long/) [pole](/post/pole/) [to](/post/to/) [reach](/post/reach/) [the](/post/the/) [high](/post/high/) [shelf](/post/shelf/)."
+- 名词: "[The](/post/the/) [Earth](/post/earth/) has [a](/post/a/) [magnetic](/post/magnetic/) [pole](/post/pole/) [that](/post/that/) attracts [a](/post/a/) [compass](/post/compass/) [needle](/post/needle/)."
+- 动词: "[She](/post/she/) pole-vaulted [over](/post/over/) [the](/post/the/) 4-meter [mark](/post/mark/)."
 
 ## 同义词
-- Stick
-- Staff
-- Bar
+- [Stick](/post/stick/)
+- [Staff](/post/staff/)
+- [Bar](/post/bar/)
 - Mast
-- Beam
+- [Beam](/post/beam/)

@@ -14,18 +14,18 @@ keywords = ['ai words', 'previously']
 - **副词**: 在前，以前，早先，事先。指时间上的先于某个特定时刻或事件。
 
 ## 短语
-- "previously mentioned" 意为先前提到的。
-- "previously unknown" 意为之前未知的。
-- "previously recorded" 意为预先录制的。
+- "[previously](/post/previously/) mentioned" 意为先前提到的。
+- "[previously](/post/previously/) [unknown](/post/unknown/)" 意为之前未知的。
+- "[previously](/post/previously/) recorded" 意为预先录制的。
 
 ## 例句
-- "I had visited the city previously on a business trip."
-- "This is a condition previously unseen in our patient population."
-- "The issue had been addressed in a previously published report."
+- "I had visited [the](/post/the/) [city](/post/city/) [previously](/post/previously/) [on](/post/on/) [a](/post/a/) [business](/post/business/) [trip](/post/trip/)."
+- "[This](/post/this/) is [a](/post/a/) [condition](/post/condition/) [previously](/post/previously/) unseen [in](/post/in/) [our](/post/our/) [patient](/post/patient/) [population](/post/population/)."
+- "[The](/post/the/) [issue](/post/issue/) had been addressed [in](/post/in/) [a](/post/a/) [previously](/post/previously/) published [report](/post/report/)."
 
 ## 同义词
 - Earlier
 - Beforehand
 - Formerly
-- In the past
-- Ahead of time
+- [In](/post/in/) [the](/post/the/) [past](/post/past/)
+- [Ahead](/post/ahead/) [of](/post/of/) [time](/post/time/)

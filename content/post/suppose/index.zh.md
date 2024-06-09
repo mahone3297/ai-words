@@ -12,22 +12,22 @@ keywords = ['ai words', 'suppose']
 
 ## 释义
 - **动词**:
-  - 假设，认为（常与that连用引导从句）。例如: "I suppose that he'll be late."
-  - 认为，料想（后面接不定式或从句）。例如: "I suppose to finish this project by next week."
-  - 允许，准许。例如: "Suppose we allow for some errors in the data?"
+  - 假设，认为（常与that连用引导从句）。例如: "I [suppose](/post/suppose/) [that](/post/that/) he'll [be](/post/be/) [late](/post/late/)."
+  - 认为，料想（后面接不定式或从句）。例如: "I [suppose](/post/suppose/) [to](/post/to/) [finish](/post/finish/) [this](/post/this/) [project](/post/project/) [by](/post/by/) [next](/post/next/) [week](/post/week/)."
+  - 允许，准许。例如: "[Suppose](/post/suppose/) [we](/post/we/) [allow](/post/allow/) [for](/post/for/) [some](/post/some/) errors [in](/post/in/) [the](/post/the/) [data](/post/data/)?"
 
 ## 短语
-- "Suppose (that)" 引导假设或推理的句子。
-- "Suppose so" 表示同意或默认。例如: "Do you think it will rain? — Well, suppose so."
+- "[Suppose](/post/suppose/) ([that](/post/that/))" 引导假设或推理的句子。
+- "[Suppose](/post/suppose/) [so](/post/so/)" 表示同意或默认。例如: "[Do](/post/do/) [you](/post/you/) [think](/post/think/) [it](/post/it/) [will](/post/will/) [rain](/post/rain/)? — [Well](/post/well/), [suppose](/post/suppose/) [so](/post/so/)."
 
 ## 例句
-- 动词（引导从句）: "Suppose it rains tomorrow, what would we do?"
-- 动词（后面接不定式）: "I suppose to meet her at the park."
-- 允许： "Suppose we take a break and grab a coffee?"
+- 动词（引导从句）: "[Suppose](/post/suppose/) [it](/post/it/) rains [tomorrow](/post/tomorrow/), [what](/post/what/) [would](/post/would/) [we](/post/we/) [do](/post/do/)?"
+- 动词（后面接不定式）: "I [suppose](/post/suppose/) [to](/post/to/) [meet](/post/meet/) [her](/post/her/) [at](/post/at/) [the](/post/the/) [park](/post/park/)."
+- 允许： "[Suppose](/post/suppose/) [we](/post/we/) [take](/post/take/) [a](/post/a/) [break](/post/break/) [and](/post/and/) grab [a](/post/a/) [coffee](/post/coffee/)?"
 
 ## 同义词
-- Assume
+- [Assume](/post/assume/)
 - Presume
-- Guess
-- Believe
-- Think
+- [Guess](/post/guess/)
+- [Believe](/post/believe/)
+- [Think](/post/think/)

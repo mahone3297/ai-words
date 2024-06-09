@@ -11,20 +11,20 @@ keywords = ['ai words', 'cure']
 /kjʊr/
 
 ## 释义
-- **动词**: 治疗；治愈。例如: "The doctor cured her of the illness."
-- **名词**: 治疗；疗法。例如: "There is a new cure for this disease."
+- **动词**: 治疗；治愈。例如: "[The](/post/the/) [doctor](/post/doctor/) cured [her](/post/her/) [of](/post/of/) [the](/post/the/) [illness](/post/illness/)."
+- **名词**: 治疗；疗法。例如: "[There](/post/there/) is [a](/post/a/) [new](/post/new/) [cure](/post/cure/) [for](/post/for/) [this](/post/this/) [disease](/post/disease/)."
 
 ## 短语
 - "cure-all" 指能治疗各种疾病的药物或方法。
-- "cure rate" 指某种治疗方法的成功率。
+- "[cure](/post/cure/) [rate](/post/rate/)" 指某种治疗方法的成功率。
 
 ## 例句
-- 动词: "The patient was cured after a course of antibiotics."
-- 名词: "The new cure shows promising results in clinical trials."
+- 动词: "[The](/post/the/) [patient](/post/patient/) was cured [after](/post/after/) [a](/post/a/) [course](/post/course/) [of](/post/of/) antibiotics."
+- 名词: "[The](/post/the/) [new](/post/new/) [cure](/post/cure/) shows [promising](/post/promising/) results [in](/post/in/) clinical trials."
 
 ## 同义词
-- treat
-- heal
-- remedy
+- [treat](/post/treat/)
+- [heal](/post/heal/)
+- [remedy](/post/remedy/)
 - alleviate
-- mend
+- [mend](/post/mend/)

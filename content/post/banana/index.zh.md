@@ -11,20 +11,20 @@ keywords = ['ai words', 'banana']
 /bəˈnɑːnə/
 
 ## 释义
-- **名词 (n)**: 一种长形的黄色水果，有软而甜的果肉和可剥离的皮。例如: "I love eating bananas for breakfast."
-- **形容词 (adj)**: 形容事物具有香蕉的形状或颜色。例如: "The baby wore a banana-yellow shirt."
+- **名词 (n)**: 一种长形的黄色水果，有软而甜的果肉和可剥离的皮。例如: "I [love](/post/love/) eating bananas [for](/post/for/) [breakfast](/post/breakfast/)."
+- **形容词 (adj)**: 形容事物具有香蕉的形状或颜色。例如: "[The](/post/the/) [baby](/post/baby/) wore [a](/post/a/) banana-yellow [shirt](/post/shirt/)."
 
 ## 短语
-- "Go bananas" 意为变得非常兴奋或疯狂。例如: "When they announced the free concert, everyone went bananas."
-- "Peel a banana" 指剥开香蕉皮。例如: "Before eating, remember to peel the banana first."
+- "[Go](/post/go/) bananas" 意为变得非常兴奋或疯狂。例如: "[When](/post/when/) [they](/post/they/) announced [the](/post/the/) [free](/post/free/) [concert](/post/concert/), [everyone](/post/everyone/) went bananas."
+- "[Peel](/post/peel/) [a](/post/a/) [banana](/post/banana/)" 指剥开香蕉皮。例如: "[Before](/post/before/) eating, [remember](/post/remember/) [to](/post/to/) [peel](/post/peel/) [the](/post/the/) [banana](/post/banana/) [first](/post/first/)."
 
 ## 例句
-- 名词: "The monkey happily ate the ripe banana."
-- 形容词: "She painted the walls in a banana shade of yellow."
+- 名词: "[The](/post/the/) [monkey](/post/monkey/) happily ate [the](/post/the/) [ripe](/post/ripe/) [banana](/post/banana/)."
+- 形容词: "[She](/post/she/) painted [the](/post/the/) walls [in](/post/in/) [a](/post/a/) [banana](/post/banana/) [shade](/post/shade/) [of](/post/of/) [yellow](/post/yellow/)."
 
 ## 同义词
 - Plantain
-- Curved fruit
-- Yellow fruit
-- Monkey fruit
+- Curved [fruit](/post/fruit/)
+- [Yellow](/post/yellow/) [fruit](/post/fruit/)
+- [Monkey](/post/monkey/) [fruit](/post/fruit/)
 - Banana-like

@@ -11,19 +11,19 @@ keywords = ['ai words', 'September']
 /sepˈtembər/
 
 ## 释义
-- **名词**: 一年中的第九个月。例如: "My birthday is in September."
-- **形容词**: 与九月有关的。例如: "September skies are often clear and blue."
+- **名词**: 一年中的第九个月。例如: "[My](/post/my/) [birthday](/post/birthday/) is [in](/post/in/) September."
+- **形容词**: 与九月有关的。例如: "September skies are [often](/post/often/) [clear](/post/clear/) [and](/post/and/) [blue](/post/blue/)."
 
 ## 短语
-- "Back to school in September" 指的是九月开学的时候。
-- "The September issue" 在时尚界特指杂志的九月刊，通常规模最大、内容最丰富。
+- "[Back](/post/back/) [to](/post/to/) [school](/post/school/) [in](/post/in/) September" 指的是九月开学的时候。
+- "[The](/post/the/) September [issue](/post/issue/)" 在时尚界特指杂志的九月刊，通常规模最大、内容最丰富。
 
 ## 例句
-- 名词: "We'll have our annual meeting in September."
-- 形容词: "The September sun was still warm during the day."
+- 名词: "We'll [have](/post/have/) [our](/post/our/) [annual](/post/annual/) [meeting](/post/meeting/) [in](/post/in/) September."
+- 形容词: "[The](/post/the/) September [sun](/post/sun/) was [still](/post/still/) [warm](/post/warm/) [during](/post/during/) [the](/post/the/) [day](/post/day/)."
 
 ## 同义词
-- Autumn month
-- Fall month
-- Month of September
-- Ninth month
+- [Autumn](/post/autumn/) [month](/post/month/)
+- [Fall](/post/fall/) [month](/post/month/)
+- [Month](/post/month/) [of](/post/of/) September
+- [Ninth](/post/ninth/) [month](/post/month/)

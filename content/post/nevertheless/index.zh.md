@@ -14,15 +14,15 @@ keywords = ['ai words', 'nevertheless']
 - **副词**: 尽管如此，然而，但是。用来表示转折，强调后文的内容与前文相反或出乎意料。
 
 ## 短语
-- "Nevertheless, he continued working on the project." 这句话表示尽管有困难或反对，但他还是继续工作。
+- "[Nevertheless](/post/nevertheless/), [he](/post/he/) continued working [on](/post/on/) [the](/post/the/) [project](/post/project/)." 这句话表示尽管有困难或反对，但他还是继续工作。
 
 ## 例句
-- "The weather was bad, nevertheless, we decided to go on the trip."
-- "She was tired, nevertheless, she stayed up late to finish her book."
+- "[The](/post/the/) [weather](/post/weather/) was [bad](/post/bad/), [nevertheless](/post/nevertheless/), [we](/post/we/) decided [to](/post/to/) [go](/post/go/) [on](/post/on/) [the](/post/the/) [trip](/post/trip/)."
+- "[She](/post/she/) was [tired](/post/tired/), [nevertheless](/post/nevertheless/), [she](/post/she/) stayed [up](/post/up/) [late](/post/late/) [to](/post/to/) [finish](/post/finish/) [her](/post/her/) [book](/post/book/)."
 
 ## 同义词
 - Nonetheless
-- However
-- Yet
-- In spite of that
-- Despite this
+- [However](/post/however/)
+- [Yet](/post/yet/)
+- [In](/post/in/) spite [of](/post/of/) [that](/post/that/)
+- [Despite](/post/despite/) [this](/post/this/)

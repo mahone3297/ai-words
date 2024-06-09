@@ -11,19 +11,19 @@ keywords = ['ai words', 'classmate']
 /klæsmeɪt/
 
 ## 释义
-- **名词 (n)**: 在学校或其他教育机构中与你同级的人，同学。例如: "Tom and Mary were classmates in high school."
-- **名词 (n)**: 与你一同参加某种课程或活动的人。例如: "We became good friends after being classmates in the cooking class."
+- **名词 (n)**: 在学校或其他教育机构中与你同级的人，同学。例如: "Tom [and](/post/and/) Mary were classmates [in](/post/in/) [high](/post/high/) [school](/post/school/)."
+- **名词 (n)**: 与你一同参加某种课程或活动的人。例如: "[We](/post/we/) became [good](/post/good/) friends [after](/post/after/) [being](/post/being/) classmates [in](/post/in/) [the](/post/the/) cooking [class](/post/class/)."
 
 ## 短语
-- "Classmate relationship" 指的是同学之间的关系。
-- "Meet up with old classmates" 意为与以前的同学相聚。
+- "[Classmate](/post/classmate/) [relationship](/post/relationship/)" 指的是同学之间的关系。
+- "[Meet](/post/meet/) [up](/post/up/) [with](/post/with/) [old](/post/old/) classmates" 意为与以前的同学相聚。
 
 ## 例句
-- 名词: "I still keep in touch with some of my college classmates."
-- 名词: "She greeted her former classmates warmly at the reunion."
+- 名词: "I [still](/post/still/) [keep](/post/keep/) [in](/post/in/) [touch](/post/touch/) [with](/post/with/) [some](/post/some/) [of](/post/of/) [my](/post/my/) [college](/post/college/) classmates."
+- 名词: "[She](/post/she/) greeted [her](/post/her/) [former](/post/former/) classmates warmly [at](/post/at/) [the](/post/the/) reunion."
 
 ## 同义词
-- Fellow student
+- [Fellow](/post/fellow/) [student](/post/student/)
 - Schoolmate
-- Colleague (in an educational context)
-- Companion (in studies)
+- [Colleague](/post/colleague/) ([in](/post/in/) an educational context)
+- [Companion](/post/companion/) ([in](/post/in/) studies)

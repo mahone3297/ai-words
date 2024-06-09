@@ -11,20 +11,20 @@ keywords = ['ai words', 'curious']
 /ˈkjʊriəs/
 
 ## 释义
-- **形容词**: 好奇的，求知欲强的。例如: "She was curious about the new invention."
-- **动词**: 显示好奇的行为或态度。例如: "The child curiously examined the unfamiliar object."
+- **形容词**: 好奇的，求知欲强的。例如: "[She](/post/she/) was [curious](/post/curious/) [about](/post/about/) [the](/post/the/) [new](/post/new/) [invention](/post/invention/)."
+- **动词**: 显示好奇的行为或态度。例如: "[The](/post/the/) [child](/post/child/) curiously examined [the](/post/the/) unfamiliar [object](/post/object/)."
 
 ## 短语
-- "curiosity killed the cat" 意味着过分的好奇心可能导致不好的结果。
-- "be curious about something" 表示对某事感到好奇。
+- "[curiosity](/post/curiosity/) killed [the](/post/the/) [cat](/post/cat/)" 意味着过分的好奇心可能导致不好的结果。
+- "[be](/post/be/) [curious](/post/curious/) [about](/post/about/) [something](/post/something/)" 表示对某事感到好奇。
 
 ## 例句
-- 形容词: "The child's curious mind led him to explore every corner of the museum."
-- 动词: "She couldn't help but be curious about his past."
+- 形容词: "[The](/post/the/) child's [curious](/post/curious/) [mind](/post/mind/) led [him](/post/him/) [to](/post/to/) [explore](/post/explore/) [every](/post/every/) [corner](/post/corner/) [of](/post/of/) [the](/post/the/) [museum](/post/museum/)."
+- 动词: "[She](/post/she/) couldn't [help](/post/help/) [but](/post/but/) [be](/post/be/) [curious](/post/curious/) [about](/post/about/) [his](/post/his/) [past](/post/past/)."
 
 ## 同义词
 - Inquisitive
 - Interested
 - Puzzled
-- Keen
+- [Keen](/post/keen/)
 - Enquiring

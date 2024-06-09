@@ -7,32 +7,32 @@ description = '[inˈhæbitənt] n.居民，住户'
 keywords = ['ai words', 'inhabitant']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 ɪnˈhæbɪtənt
 
 ## Definitions
-- **Noun**: A person or animal that lives or resides permanently in a particular place; a dweller or resident. For example: "The forest's inhabitants include various species of birds and mammals."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [or](/en/post/or/) [animal](/en/post/animal/) [that](/en/post/that/) lives [or](/en/post/or/) resides [permanently](/en/post/permanently/) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/); [a](/en/post/a/) dweller [or](/en/post/or/) [resident](/en/post/resident/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) forest's inhabitants [include](/en/post/include/) [various](/en/post/various/) species [of](/en/post/of/) birds [and](/en/post/and/) mammals."
 
-Example Sentences:
-- "The city has a large population of permanent inhabitants."
-- "As the island's only inhabitant, he felt quite isolated."
+[Example](/en/post/example/) Sentences:
+- "[The](/en/post/the/) [city](/en/post/city/) has [a](/en/post/a/) [large](/en/post/large/) [population](/en/post/population/) [of](/en/post/of/) [permanent](/en/post/permanent/) inhabitants."
+- "[As](/en/post/as/) [the](/en/post/the/) island's [only](/en/post/only/) [inhabitant](/en/post/inhabitant/), [he](/en/post/he/) felt [quite](/en/post/quite/) isolated."
 
 ## Phrases
-- "Native inhabitant": Refers to someone who was born or has lived in a place from birth.
-- "Inhabitant of the city": Denotes a person who lives within the specified urban area.
-- "Endangered inhabitants": This phrase might refer to species at risk within a specific ecosystem.
+- "[Native](/en/post/native/) [inhabitant](/en/post/inhabitant/)": Refers [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) was [born](/en/post/born/) [or](/en/post/or/) has lived [in](/en/post/in/) [a](/en/post/a/) [place](/en/post/place/) [from](/en/post/from/) [birth](/en/post/birth/).
+- "[Inhabitant](/en/post/inhabitant/) [of](/en/post/of/) [the](/en/post/the/) [city](/en/post/city/)": Denotes [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) lives [within](/en/post/within/) [the](/en/post/the/) specified urban [area](/en/post/area/).
+- "Endangered inhabitants": [This](/en/post/this/) [phrase](/en/post/phrase/) [might](/en/post/might/) [refer](/en/post/refer/) [to](/en/post/to/) species [at](/en/post/at/) [risk](/en/post/risk/) [within](/en/post/within/) [a](/en/post/a/) [specific](/en/post/specific/) ecosystem.
 
 ## Synonyms
-- Resident
+- [Resident](/en/post/resident/)
 - Occupant
-- Tenant
+- [Tenant](/en/post/tenant/)
 - Dweller
 - Settler
-- Inmate (in some contexts)
-- Residentiary (formal)
-- Aborigine (for indigenous inhabitants) 
+- Inmate ([in](/en/post/in/) [some](/en/post/some/) contexts)
+- Residentiary ([formal](/en/post/formal/))
+- Aborigine ([for](/en/post/for/) indigenous inhabitants) 
 
-## Usage in a Sentence
-- The new park will be designed to protect the habitat of the area's rarest inhabitants.
-- Researchers interviewed several long-time inhabitants of the village to understand their traditions better.
-- As inhabitants of this planet, we all share a responsibility to protect the environment.
+## [Usage](/en/post/usage/) [in](/en/post/in/) [a](/en/post/a/) [Sentence](/en/post/sentence/)
+- [The](/en/post/the/) [new](/en/post/new/) [park](/en/post/park/) [will](/en/post/will/) [be](/en/post/be/) designed [to](/en/post/to/) [protect](/en/post/protect/) [the](/en/post/the/) habitat [of](/en/post/of/) [the](/en/post/the/) area's rarest inhabitants.
+- Researchers interviewed [several](/en/post/several/) long-time inhabitants [of](/en/post/of/) [the](/en/post/the/) [village](/en/post/village/) [to](/en/post/to/) [understand](/en/post/understand/) [their](/en/post/their/) traditions [better](/en/post/better/).
+- [As](/en/post/as/) inhabitants [of](/en/post/of/) [this](/en/post/this/) [planet](/en/post/planet/), [we](/en/post/we/) [all](/en/post/all/) [share](/en/post/share/) [a](/en/post/a/) [responsibility](/en/post/responsibility/) [to](/en/post/to/) [protect](/en/post/protect/) [the](/en/post/the/) [environment](/en/post/environment/).

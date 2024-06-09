@@ -11,20 +11,20 @@ keywords = ['ai words', 'reasonable']
 /ˈriːznəbl/
 
 ## 释义
-- **形容词**: 合理的，公正的，通情达理的。例如: "She made a reasonable request for a raise."
-- **名词**: (常与the连用)理性，道理。例如: "The reasonable man adapts himself to the world."
+- **形容词**: 合理的，公正的，通情达理的。例如: "[She](/post/she/) made [a](/post/a/) [reasonable](/post/reasonable/) [request](/post/request/) [for](/post/for/) [a](/post/a/) [raise](/post/raise/)."
+- **名词**: (常与the连用)理性，道理。例如: "[The](/post/the/) [reasonable](/post/reasonable/) [man](/post/man/) adapts [himself](/post/himself/) [to](/post/to/) [the](/post/the/) [world](/post/world/)."
 
 ## 短语
-- "Act reasonably" 做出理智的行为。
-- "Within reason" 在合理的范围内。
+- "[Act](/post/act/) reasonably" 做出理智的行为。
+- "[Within](/post/within/) [reason](/post/reason/)" 在合理的范围内。
 
 ## 例句
-- 形容词: "His arguments were so reasonable that everyone agreed with him."
-- 名词: "The judge listened to both sides and made a decision based on the reasonable argument."
+- 形容词: "[His](/post/his/) arguments were [so](/post/so/) [reasonable](/post/reasonable/) [that](/post/that/) [everyone](/post/everyone/) agreed [with](/post/with/) [him](/post/him/)."
+- 名词: "[The](/post/the/) [judge](/post/judge/) listened [to](/post/to/) [both](/post/both/) sides [and](/post/and/) made [a](/post/a/) [decision](/post/decision/) based [on](/post/on/) [the](/post/the/) [reasonable](/post/reasonable/) [argument](/post/argument/)."
 
 ## 同义词
-- Rational
-- Sensible
+- [Rational](/post/rational/)
+- [Sensible](/post/sensible/)
 - Prudent
-- Fair
-- Just
+- [Fair](/post/fair/)
+- [Just](/post/just/)

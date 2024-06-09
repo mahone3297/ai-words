@@ -11,22 +11,22 @@ keywords = ['ai words', 'superior']
 /suːˈpɪriər/
 
 ## 释义
-- **形容词**: 更好的，优越的，高于（在地位、品质、能力等方面）。例如: "She has superior skills in painting."
-- **名词**: 上级，上司，优于他者的人。例如: "He works under the direct supervision of his superior."
-- **名词 (天主教)**: 修道院或教会团体的长官。例如: "The superior of the monastery is responsible for its spiritual life."
+- **形容词**: 更好的，优越的，高于（在地位、品质、能力等方面）。例如: "[She](/post/she/) has [superior](/post/superior/) skills [in](/post/in/) [painting](/post/painting/)."
+- **名词**: 上级，上司，优于他者的人。例如: "[He](/post/he/) works [under](/post/under/) [the](/post/the/) [direct](/post/direct/) supervision [of](/post/of/) [his](/post/his/) [superior](/post/superior/)."
+- **名词 (天主教)**: 修道院或教会团体的长官。例如: "[The](/post/the/) [superior](/post/superior/) [of](/post/of/) [the](/post/the/) monastery is [responsible](/post/responsible/) [for](/post/for/) [its](/post/its/) [spiritual](/post/spiritual/) [life](/post/life/)."
 
 ## 短语
-- "superior to" 比...更优秀，优于...。例如: "Her work is superior to mine in every aspect."
-- "his/her social superior" 指社会地位较高的人。
+- "[superior](/post/superior/) [to](/post/to/)" 比...更优秀，优于...。例如: "[Her](/post/her/) [work](/post/work/) is [superior](/post/superior/) [to](/post/to/) [mine](/post/mine/) [in](/post/in/) [every](/post/every/) [aspect](/post/aspect/)."
+- "[his](/post/his/)/[her](/post/her/) [social](/post/social/) [superior](/post/superior/)" 指社会地位较高的人。
 
 ## 例句
-- 形容词: "This new model has superior performance compared to its predecessor."
-- 名词: "She had to report her progress to her superior every week."
-- 天主教名词: "The superior led the daily prayers in the convent."
+- 形容词: "[This](/post/this/) [new](/post/new/) [model](/post/model/) has [superior](/post/superior/) [performance](/post/performance/) compared [to](/post/to/) [its](/post/its/) predecessor."
+- 名词: "[She](/post/she/) had [to](/post/to/) [report](/post/report/) [her](/post/her/) [progress](/post/progress/) [to](/post/to/) [her](/post/her/) [superior](/post/superior/) [every](/post/every/) [week](/post/week/)."
+- 天主教名词: "[The](/post/the/) [superior](/post/superior/) led [the](/post/the/) [daily](/post/daily/) prayers [in](/post/in/) [the](/post/the/) convent."
 
 ## 同义词
-- better
+- [better](/post/better/)
 - greater
 - higher
-- excellent
-- outstanding
+- [excellent](/post/excellent/)
+- [outstanding](/post/outstanding/)

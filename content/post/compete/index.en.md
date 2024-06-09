@@ -7,41 +7,41 @@ description = '[kəmˈpiːt] vi.比赛；竞争；对抗'
 keywords = ['ai words', 'compete']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kəmˈpi:t/
 
 ## Definitions
-### Noun
-1. The act of competing or the state of being in competition: *The race was a fierce competition between the two teams.*
-2. A contest or rivalry: *She entered the competition to showcase her talent.*
+### [Noun](/en/post/noun/)
+1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) competing [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [in](/en/post/in/) [competition](/en/post/competition/): *[The](/en/post/the/) [race](/en/post/race/) was [a](/en/post/a/) [fierce](/en/post/fierce/) [competition](/en/post/competition/) [between](/en/post/between/) [the](/en/post/the/) [two](/en/post/two/) teams.*
+2. [A](/en/post/a/) [contest](/en/post/contest/) [or](/en/post/or/) rivalry: *[She](/en/post/she/) entered [the](/en/post/the/) [competition](/en/post/competition/) [to](/en/post/to/) showcase [her](/en/post/her/) [talent](/en/post/talent/).*
 
-### Verb
-1. To engage in a contest or rivalry, usually for a prize or honor: *He will compete in the marathon next month.*
-2. To vie with (another) in a particular field or activity: *They compete for the top spot on the leaderboard.*
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [contest](/en/post/contest/) [or](/en/post/or/) rivalry, [usually](/en/post/usually/) [for](/en/post/for/) [a](/en/post/a/) [prize](/en/post/prize/) [or](/en/post/or/) honor: *[He](/en/post/he/) [will](/en/post/will/) [compete](/en/post/compete/) [in](/en/post/in/) [the](/en/post/the/) marathon [next](/en/post/next/) [month](/en/post/month/).*
+2. [To](/en/post/to/) vie [with](/en/post/with/) ([another](/en/post/another/)) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [field](/en/post/field/) [or](/en/post/or/) [activity](/en/post/activity/): *[They](/en/post/they/) [compete](/en/post/compete/) [for](/en/post/for/) [the](/en/post/the/) [top](/en/post/top/) [spot](/en/post/spot/) [on](/en/post/on/) [the](/en/post/the/) leaderboard.*
 
-### Adjective
-1. Designed for or involving competition: *A competitive sports event.*
-2. Having the quality of striving to be better than others: *His competitive nature drove him to excel.*
+### [Adjective](/en/post/adjective/)
+1. Designed [for](/en/post/for/) [or](/en/post/or/) involving [competition](/en/post/competition/): *[A](/en/post/a/) competitive sports [event](/en/post/event/).*
+2. Having [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) striving [to](/en/post/to/) [be](/en/post/be/) [better](/en/post/better/) [than](/en/post/than/) others: *[His](/en/post/his/) competitive [nature](/en/post/nature/) drove [him](/en/post/him/) [to](/en/post/to/) excel.*
 
-### Adverb
-1. In a competitive manner: *She competes fiercely in every game.*
+### [Adverb](/en/post/adverb/)
+1. [In](/en/post/in/) [a](/en/post/a/) competitive [manner](/en/post/manner/): *[She](/en/post/she/) competes fiercely [in](/en/post/in/) [every](/en/post/every/) [game](/en/post/game/).*
 
 ## Phrases
-- "Compete against" implies rivalry or opposition: *Teams will compete against each other in the championship.*
-- "Compete in" specifies the context of the competition: *Students compete in the science fair.*
-- "Competitive edge" refers to a superiority in a contest: *She had a competitive edge over her opponents.*
+- "[Compete](/en/post/compete/) [against](/en/post/against/)" implies rivalry [or](/en/post/or/) opposition: *Teams [will](/en/post/will/) [compete](/en/post/compete/) [against](/en/post/against/) [each](/en/post/each/) [other](/en/post/other/) [in](/en/post/in/) [the](/en/post/the/) championship.*
+- "[Compete](/en/post/compete/) [in](/en/post/in/)" specifies [the](/en/post/the/) context [of](/en/post/of/) [the](/en/post/the/) [competition](/en/post/competition/): *Students [compete](/en/post/compete/) [in](/en/post/in/) [the](/en/post/the/) [science](/en/post/science/) [fair](/en/post/fair/).*
+- "Competitive [edge](/en/post/edge/)" refers [to](/en/post/to/) [a](/en/post/a/) superiority [in](/en/post/in/) [a](/en/post/a/) [contest](/en/post/contest/): *[She](/en/post/she/) had [a](/en/post/a/) competitive [edge](/en/post/edge/) [over](/en/post/over/) [her](/en/post/her/) opponents.*
 
-## Example Sentences
-- **Noun**: "The company organized a friendly competition among its employees."
-- **Verb**: "After months of hard training, he'll finally compete in the marathon."
-- **Adjective**: "The new technology gives our company a competitive advantage."
-- **Adverb**: "He always competes vigorously in the annual charity auction."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [company](/en/post/company/) organized [a](/en/post/a/) [friendly](/en/post/friendly/) [competition](/en/post/competition/) [among](/en/post/among/) [its](/en/post/its/) employees."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [hard](/en/post/hard/) [training](/en/post/training/), he'll [finally](/en/post/finally/) [compete](/en/post/compete/) [in](/en/post/in/) [the](/en/post/the/) marathon."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [new](/en/post/new/) [technology](/en/post/technology/) gives [our](/en/post/our/) [company](/en/post/company/) [a](/en/post/a/) competitive [advantage](/en/post/advantage/)."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) [always](/en/post/always/) competes vigorously [in](/en/post/in/) [the](/en/post/the/) [annual](/en/post/annual/) [charity](/en/post/charity/) auction."
 
 ## Synonyms
-- Contest
+- [Contest](/en/post/contest/)
 - Rivalry
-- Battle
-- Struggle
+- [Battle](/en/post/battle/)
+- [Struggle](/en/post/struggle/)
 - Duel
-- Go head-to-head
-- Engage in strife
+- [Go](/en/post/go/) head-to-head
+- [Engage](/en/post/engage/) [in](/en/post/in/) strife

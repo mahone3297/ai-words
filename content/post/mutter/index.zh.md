@@ -11,20 +11,20 @@ keywords = ['ai words', 'mutter']
 /mʌtər/
 
 ## 释义
-- **动词**: 小声说话，咕哝。例如: "He muttered something under his breath."
-- **名词**: 咕哝声，喃喃自语。例如: "I could only catch a few words of her mutter."
+- **动词**: 小声说话，咕哝。例如: "[He](/post/he/) muttered [something](/post/something/) [under](/post/under/) [his](/post/his/) [breath](/post/breath/)."
+- **名词**: 咕哝声，喃喃自语。例如: "I [could](/post/could/) [only](/post/only/) [catch](/post/catch/) [a](/post/a/) [few](/post/few/) words [of](/post/of/) [her](/post/her/) [mutter](/post/mutter/)."
 
 ## 短语
-- "to mutter to oneself" 自言自语。
-- "mutter complaints" 嘀嘀咕咕地抱怨。
+- "[to](/post/to/) [mutter](/post/mutter/) [to](/post/to/) [oneself](/post/oneself/)" 自言自语。
+- "[mutter](/post/mutter/) complaints" 嘀嘀咕咕地抱怨。
 
 ## 例句
-- 动词: "She muttered something不满as she left the room."
-- 名词: "His mutter was barely audible in the noisy crowd."
+- 动词: "[She](/post/she/) muttered something不满as [she](/post/she/) [left](/post/left/) [the](/post/the/) [room](/post/room/)."
+- 名词: "[His](/post/his/) [mutter](/post/mutter/) was barely audible [in](/post/in/) [the](/post/the/) [noisy](/post/noisy/) [crowd](/post/crowd/)."
 
 ## 同义词
-- whisper
+- [whisper](/post/whisper/)
 - mumble
 - grumble
-- complain (in a low voice)
+- [complain](/post/complain/) ([in](/post/in/) [a](/post/a/) [low](/post/low/) [voice](/post/voice/))
 - mutterings

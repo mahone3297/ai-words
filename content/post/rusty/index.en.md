@@ -7,30 +7,30 @@ description = '[ˈrʌsti] a.生锈的；变迟钝的'
 keywords = ['ai words', 'rusty']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /rʌsti/
 
 ## Definitions
-### Noun
-**rusty** (adj): A term describing something that has an appearance or condition of being corroded, dull, or tarnished due to oxidation, typically of iron or steel. It can also be used metaphorically to describe a person's lack of skill or knowledge after a long period of disuse.
+### [Noun](/en/post/noun/)
+**[rusty](/en/post/rusty/)** (adj): [A](/en/post/a/) [term](/en/post/term/) describing [something](/en/post/something/) [that](/en/post/that/) has an [appearance](/en/post/appearance/) [or](/en/post/or/) [condition](/en/post/condition/) [of](/en/post/of/) [being](/en/post/being/) corroded, [dull](/en/post/dull/), [or](/en/post/or/) tarnished [due](/en/post/due/) [to](/en/post/to/) oxidation, typically [of](/en/post/of/) [iron](/en/post/iron/) [or](/en/post/or/) [steel](/en/post/steel/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [be](/en/post/be/) [used](/en/post/used/) metaphorically [to](/en/post/to/) [describe](/en/post/describe/) [a](/en/post/a/) person's [lack](/en/post/lack/) [of](/en/post/of/) [skill](/en/post/skill/) [or](/en/post/or/) [knowledge](/en/post/knowledge/) [after](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [period](/en/post/period/) [of](/en/post/of/) disuse.
 
-### Verb
-To be **rusty** (v): To become or become perceived as rusty, meaning to lose one's proficiency or familiarity with a skill or subject over time.
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) [be](/en/post/be/) **[rusty](/en/post/rusty/)** (v): [To](/en/post/to/) [become](/en/post/become/) [or](/en/post/or/) [become](/en/post/become/) perceived [as](/en/post/as/) [rusty](/en/post/rusty/), [meaning](/en/post/meaning/) [to](/en/post/to/) [lose](/en/post/lose/) one's proficiency [or](/en/post/or/) familiarity [with](/en/post/with/) [a](/en/post/a/) [skill](/en/post/skill/) [or](/en/post/or/) [subject](/en/post/subject/) [over](/en/post/over/) [time](/en/post/time/).
 
 ## Phrases
-- "Get rid of the rust" implies restoring something to its former condition or freshness.
-- "A rusty memory" refers to a forgotten or vague recollection.
-- "Rust never sleeps" is a metaphor suggesting that neglect or inaction leads to deterioration.
+- "[Get](/en/post/get/) [rid](/en/post/rid/) [of](/en/post/of/) [the](/en/post/the/) [rust](/en/post/rust/)" implies restoring [something](/en/post/something/) [to](/en/post/to/) [its](/en/post/its/) [former](/en/post/former/) [condition](/en/post/condition/) [or](/en/post/or/) freshness.
+- "[A](/en/post/a/) [rusty](/en/post/rusty/) [memory](/en/post/memory/)" refers [to](/en/post/to/) [a](/en/post/a/) forgotten [or](/en/post/or/) [vague](/en/post/vague/) recollection.
+- "[Rust](/en/post/rust/) [never](/en/post/never/) sleeps" is [a](/en/post/a/) metaphor suggesting [that](/en/post/that/) [neglect](/en/post/neglect/) [or](/en/post/or/) inaction leads [to](/en/post/to/) deterioration.
 
-## Example Sentences
-- **Noun**: "The old bicycle was covered in a layer of rusty chains."
-- **Verb**: "After months away from practice, she felt a bit rusty on the golf course."
-- **Adjective**: "Her knowledge of the language had become a bit rusty after years abroad."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [old](/en/post/old/) [bicycle](/en/post/bicycle/) was covered [in](/en/post/in/) [a](/en/post/a/) [layer](/en/post/layer/) [of](/en/post/of/) [rusty](/en/post/rusty/) chains."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [away](/en/post/away/) [from](/en/post/from/) [practice](/en/post/practice/), [she](/en/post/she/) felt [a](/en/post/a/) [bit](/en/post/bit/) [rusty](/en/post/rusty/) [on](/en/post/on/) [the](/en/post/the/) [golf](/en/post/golf/) [course](/en/post/course/)."
+- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [knowledge](/en/post/knowledge/) [of](/en/post/of/) [the](/en/post/the/) [language](/en/post/language/) had [become](/en/post/become/) [a](/en/post/a/) [bit](/en/post/bit/) [rusty](/en/post/rusty/) [after](/en/post/after/) years [abroad](/en/post/abroad/)."
 
 ## Synonyms
 - Corroded
-- Dull
-- Stale
+- [Dull](/en/post/dull/)
+- [Stale](/en/post/stale/)
 - Outdated
 - Inept
 - Unfamiliar
@@ -38,8 +38,8 @@ To be **rusty** (v): To become or become perceived as rusty, meaning to lose one
 
 ## Antonyms
 - Shiny
-- New
-- Sharp
-- Familiar
+- [New](/en/post/new/)
+- [Sharp](/en/post/sharp/)
+- [Familiar](/en/post/familiar/)
 - Proficient
-- Up-to-date
+- [Up-to-date](/en/post/up-to-date/)

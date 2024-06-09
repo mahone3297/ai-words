@@ -11,20 +11,20 @@ keywords = ['ai words', 'sympathize']
 /ˈsɪmpəθaɪz/
 
 ## 释义
-- **动词**: 表示同情、共鸣或理解他人的感受。例如: "She sympathized with her friend's loss."
-- **名词**: 同情或共鸣的行为。例如: "Their display of sympathy moved everyone present."
+- **动词**: 表示同情、共鸣或理解他人的感受。例如: "[She](/post/she/) sympathized [with](/post/with/) [her](/post/her/) friend's [loss](/post/loss/)."
+- **名词**: 同情或共鸣的行为。例如: "[Their](/post/their/) [display](/post/display/) [of](/post/of/) [sympathy](/post/sympathy/) moved [everyone](/post/everyone/) [present](/post/present/)."
 
 ## 短语
-- "sympathize with someone" 意为对某人的困境或痛苦表示理解和同情。
-- "extend one's sympathy" 是向某人表达同情或慰问。
+- "[sympathize](/post/sympathize/) [with](/post/with/) [someone](/post/someone/)" 意为对某人的困境或痛苦表示理解和同情。
+- "[extend](/post/extend/) one's [sympathy](/post/sympathy/)" 是向某人表达同情或慰问。
 
 ## 例句
-- 动词: "He really tried to sympathize with her after she failed the exam."
-- 名词: "The family appreciated all the sympathy they received during their difficult time."
+- 动词: "[He](/post/he/) [really](/post/really/) tried [to](/post/to/) [sympathize](/post/sympathize/) [with](/post/with/) [her](/post/her/) [after](/post/after/) [she](/post/she/) failed [the](/post/the/) [exam](/post/exam/)."
+- 名词: "[The](/post/the/) [family](/post/family/) appreciated [all](/post/all/) [the](/post/the/) [sympathy](/post/sympathy/) [they](/post/they/) received [during](/post/during/) [their](/post/their/) [difficult](/post/difficult/) [time](/post/time/)."
 
 ## 同义词
 - empathize
 - commiserate
-- relate to
-- feel for
+- [relate](/post/relate/) [to](/post/to/)
+- [feel](/post/feel/) [for](/post/for/)
 - console

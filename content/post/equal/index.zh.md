@@ -11,23 +11,23 @@ keywords = ['ai words', 'equal']
 /ˈiːkwəl/
 
 ## 释义
-- **形容词**: 相同的，等同的。例如: "The two sides of the balance are equal in weight."
-- **动词**: 使相等，比得上。例如: "Her talent equals that of any professional athlete."
-- **名词**: 平等的人，相等物。例如: "We should treat all people as equals."
+- **形容词**: 相同的，等同的。例如: "[The](/post/the/) [two](/post/two/) sides [of](/post/of/) [the](/post/the/) [balance](/post/balance/) are [equal](/post/equal/) [in](/post/in/) [weight](/post/weight/)."
+- **动词**: 使相等，比得上。例如: "[Her](/post/her/) [talent](/post/talent/) equals [that](/post/that/) [of](/post/of/) [any](/post/any/) [professional](/post/professional/) [athlete](/post/athlete/)."
+- **名词**: 平等的人，相等物。例如: "[We](/post/we/) [should](/post/should/) [treat](/post/treat/) [all](/post/all/) [people](/post/people/) [as](/post/as/) equals."
 
 ## 短语
-- "Equal rights" 意为平等的权利。
-- "Be equal to the task" 意为胜任某项任务。
-- "Equal opportunity" 指的是平等的机会。
+- "[Equal](/post/equal/) rights" 意为平等的权利。
+- "[Be](/post/be/) [equal](/post/equal/) [to](/post/to/) [the](/post/the/) [task](/post/task/)" 意为胜任某项任务。
+- "[Equal](/post/equal/) [opportunity](/post/opportunity/)" 指的是平等的机会。
 
 ## 例句
-- 形容词: "Men and women should have equal pay for equal work."
-- 动词: "His skills equal those of the best players in the league."
-- 名词: "Every citizen is an equal in the eyes of the law."
+- 形容词: "Men [and](/post/and/) women [should](/post/should/) [have](/post/have/) [equal](/post/equal/) [pay](/post/pay/) [for](/post/for/) [equal](/post/equal/) [work](/post/work/)."
+- 动词: "[His](/post/his/) skills [equal](/post/equal/) [those](/post/those/) [of](/post/of/) [the](/post/the/) [best](/post/best/) players [in](/post/in/) [the](/post/the/) [league](/post/league/)."
+- 名词: "[Every](/post/every/) [citizen](/post/citizen/) is an [equal](/post/equal/) [in](/post/in/) [the](/post/the/) eyes [of](/post/of/) [the](/post/the/) [law](/post/law/)."
 
 ## 同义词
-- Same
-- Identical
+- [Same](/post/same/)
+- [Identical](/post/identical/)
 - Comparable
-- Equivalent
+- [Equivalent](/post/equivalent/)
 - Parity

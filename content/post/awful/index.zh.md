@@ -11,19 +11,19 @@ keywords = ['ai words', 'awful']
 /ˈɔːfəl/
 
 ## 释义
-- **形容词**: 极其不愉快的，可怕的，令人敬畏的。例如: "I had an awful headache this morning."
-- **副词**: 非常，极其。例如: "He played awful badly in the match."
+- **形容词**: 极其不愉快的，可怕的，令人敬畏的。例如: "I had an [awful](/post/awful/) [headache](/post/headache/) [this](/post/this/) [morning](/post/morning/)."
+- **副词**: 非常，极其。例如: "[He](/post/he/) played [awful](/post/awful/) [badly](/post/badly/) [in](/post/in/) [the](/post/the/) [match](/post/match/)."
 
 ## 短语
-- "an awful lot" 意为非常多，例如: "She has an awful lot of work to do."
-- "awful nice" 在口语中表示非常友善或好，例如: "That was awful nice of you."
+- "an [awful](/post/awful/) [lot](/post/lot/)" 意为非常多，例如: "[She](/post/she/) has an [awful](/post/awful/) [lot](/post/lot/) [of](/post/of/) [work](/post/work/) [to](/post/to/) [do](/post/do/)."
+- "[awful](/post/awful/) [nice](/post/nice/)" 在口语中表示非常友善或好，例如: "[That](/post/that/) was [awful](/post/awful/) [nice](/post/nice/) [of](/post/of/) [you](/post/you/)."
 
 ## 例句
-- 形容词: "The storm last night was absolutely awful, with thunder and lightning everywhere."
-- 副词: "He sang so awful that everyone covered their ears."
+- 形容词: "[The](/post/the/) [storm](/post/storm/) [last](/post/last/) [night](/post/night/) was [absolutely](/post/absolutely/) [awful](/post/awful/), [with](/post/with/) [thunder](/post/thunder/) [and](/post/and/) [lightning](/post/lightning/) [everywhere](/post/everywhere/)."
+- 副词: "[He](/post/he/) sang [so](/post/so/) [awful](/post/awful/) [that](/post/that/) [everyone](/post/everyone/) covered [their](/post/their/) ears."
 
 ## 同义词
-- terrible
+- [terrible](/post/terrible/)
 - horrible
 - dreadful
 - fearfully

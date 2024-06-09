@@ -12,28 +12,28 @@ keywords = ['ai words', 'voice']
 
 ## 释义
 - **名词**:
-  - 人的声音，发音或音色。例如: "She has a beautiful singing voice."
-  - 发出的意见，观点或主张。例如: "Everyone should have a voice in the decision-making process."
+  - 人的声音，发音或音色。例如: "[She](/post/she/) has [a](/post/a/) [beautiful](/post/beautiful/) singing [voice](/post/voice/)."
+  - 发出的意见，观点或主张。例如: "[Everyone](/post/everyone/) [should](/post/should/) [have](/post/have/) [a](/post/a/) [voice](/post/voice/) [in](/post/in/) [the](/post/the/) decision-making [process](/post/process/)."
 
 - **动词**:
-  - 说出，表达（意见或感情）。例如: "He finally found the courage to voice his concerns."
-  - 给予（某人）发言权。例如: "The platform aims to give a voice to marginalized communities."
+  - 说出，表达（意见或感情）。例如: "[He](/post/he/) [finally](/post/finally/) [found](/post/found/) [the](/post/the/) [courage](/post/courage/) [to](/post/to/) [voice](/post/voice/) [his](/post/his/) concerns."
+  - 给予（某人）发言权。例如: "[The](/post/the/) [platform](/post/platform/) aims [to](/post/to/) [give](/post/give/) [a](/post/a/) [voice](/post/voice/) [to](/post/to/) marginalized communities."
 
 - **形容词**:
-  - 声音的，用声音表达的。例如: "A voice message was left on my answering machine."
+  - 声音的，用声音表达的。例如: "[A](/post/a/) [voice](/post/voice/) [message](/post/message/) was [left](/post/left/) [on](/post/on/) [my](/post/my/) answering [machine](/post/machine/)."
 
 ## 短语
-- "Use your voice" 意味着要表达你的看法或感受。
-- "In a voice vote" 指通过口头表决来做出决定。
+- "[Use](/post/use/) [your](/post/your/) [voice](/post/voice/)" 意味着要表达你的看法或感受。
+- "[In](/post/in/) [a](/post/a/) [voice](/post/voice/) [vote](/post/vote/)" 指通过口头表决来做出决定。
 
 ## 例句
-- 名词: "Her voice was so soothing that it instantly calmed me down."
-- 动词: "He decided to voice his disagreement with the proposal during the meeting."
-- 形容词: "The instructions were given in a voice recording."
+- 名词: "[Her](/post/her/) [voice](/post/voice/) was [so](/post/so/) soothing [that](/post/that/) [it](/post/it/) [instantly](/post/instantly/) calmed [me](/post/me/) [down](/post/down/)."
+- 动词: "[He](/post/he/) decided [to](/post/to/) [voice](/post/voice/) [his](/post/his/) disagreement [with](/post/with/) [the](/post/the/) [proposal](/post/proposal/) [during](/post/during/) [the](/post/the/) [meeting](/post/meeting/)."
+- 形容词: "[The](/post/the/) instructions were given [in](/post/in/) [a](/post/a/) [voice](/post/voice/) recording."
 
 ## 同义词
-- Sound
-- Tone
+- [Sound](/post/sound/)
+- [Tone](/post/tone/)
 - Utterance
-- Expression
+- [Expression](/post/expression/)
 - Opinions

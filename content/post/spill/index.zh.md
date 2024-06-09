@@ -12,25 +12,25 @@ keywords = ['ai words', 'spill']
 
 ## 释义
 - **动词**:
-  - 泄露；溢出：例如 "The glass spilled its contents onto the floor."
-  - 不小心倒出或洒出：例如 "Be careful not to spill the milk."
-  - 使流散；损失：例如 "The accident spilled oil into the ocean."
+  - 泄露；溢出：例如 "[The](/post/the/) [glass](/post/glass/) spilled [its](/post/its/) contents [onto](/post/onto/) [the](/post/the/) [floor](/post/floor/)."
+  - 不小心倒出或洒出：例如 "[Be](/post/be/) [careful](/post/careful/) [not](/post/not/) [to](/post/to/) [spill](/post/spill/) [the](/post/the/) [milk](/post/milk/)."
+  - 使流散；损失：例如 "[The](/post/the/) [accident](/post/accident/) spilled [oil](/post/oil/) [into](/post/into/) [the](/post/the/) [ocean](/post/ocean/)."
 
 - **名词**:
-  - 泄漏物；洒出的东西：例如 "There was a spill of water on the kitchen floor."
-  - 意外事故，尤其是导致液体泄漏的事故：例如 "The oil spill caused an environmental disaster."
+  - 泄漏物；洒出的东西：例如 "[There](/post/there/) was [a](/post/a/) [spill](/post/spill/) [of](/post/of/) [water](/post/water/) [on](/post/on/) [the](/post/the/) [kitchen](/post/kitchen/) [floor](/post/floor/)."
+  - 意外事故，尤其是导致液体泄漏的事故：例如 "[The](/post/the/) [oil](/post/oil/) [spill](/post/spill/) caused an environmental [disaster](/post/disaster/)."
 
 ## 短语
-- "spill the beans" 意为泄露秘密，说漏嘴：例如 "Don't spill the beans about the surprise party!"
-- "spill over" 意为溢出，蔓延：例如 "The crowd's excitement spilled over into the streets."
+- "[spill](/post/spill/) [the](/post/the/) beans" 意为泄露秘密，说漏嘴：例如 "Don't [spill](/post/spill/) [the](/post/the/) beans [about](/post/about/) [the](/post/the/) [surprise](/post/surprise/) [party](/post/party/)!"
+- "[spill](/post/spill/) [over](/post/over/)" 意为溢出，蔓延：例如 "[The](/post/the/) crowd's excitement spilled [over](/post/over/) [into](/post/into/) [the](/post/the/) streets."
 
 ## 例句
-- 动词: "He accidentally spilled his coffee on the tablecloth."
-- 名词: "She quickly cleaned up the spill before it stained the carpet."
+- 动词: "[He](/post/he/) accidentally spilled [his](/post/his/) [coffee](/post/coffee/) [on](/post/on/) [the](/post/the/) tablecloth."
+- 名词: "[She](/post/she/) [quickly](/post/quickly/) cleaned [up](/post/up/) [the](/post/the/) [spill](/post/spill/) [before](/post/before/) [it](/post/it/) stained [the](/post/the/) [carpet](/post/carpet/)."
 
 ## 同义词
-- pour out
+- [pour](/post/pour/) [out](/post/out/)
 - overflow
-- leak
+- [leak](/post/leak/)
 - dribble
-- shed
+- [shed](/post/shed/)

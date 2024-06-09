@@ -11,21 +11,21 @@ keywords = ['ai words', 'jail']
 /jeɪl/
 
 ## 释义
-- **名词 (n)**: 监狱，拘留所。一个关押犯人的地方。例如: "He was sent to jail for theft."
-- **动词 (v)**: 将某人关进监狱。例如: "The police jailed the suspect until further investigation."
+- **名词 (n)**: 监狱，拘留所。一个关押犯人的地方。例如: "[He](/post/he/) was sent [to](/post/to/) [jail](/post/jail/) [for](/post/for/) theft."
+- **动词 (v)**: 将某人关进监狱。例如: "[The](/post/the/) [police](/post/police/) jailed [the](/post/the/) [suspect](/post/suspect/) [until](/post/until/) [further](/post/further/) [investigation](/post/investigation/)."
 
 ## 短语
-- "break out of jail" 从监狱逃跑。
-- "do time in jail" 在监狱服刑。
-- "be behind bars" 被关在监狱里。
+- "[break](/post/break/) [out](/post/out/) [of](/post/of/) [jail](/post/jail/)" 从监狱逃跑。
+- "[do](/post/do/) [time](/post/time/) [in](/post/in/) [jail](/post/jail/)" 在监狱服刑。
+- "[be](/post/be/) [behind](/post/behind/) bars" 被关在监狱里。
 
 ## 例句
-- 名词: "The escaped prisoner was back in jail within hours."
-- 动词: "The judge sentenced him to six months in jail for drunk driving."
+- 名词: "[The](/post/the/) escaped [prisoner](/post/prisoner/) was [back](/post/back/) [in](/post/in/) [jail](/post/jail/) [within](/post/within/) hours."
+- 动词: "[The](/post/the/) [judge](/post/judge/) sentenced [him](/post/him/) [to](/post/to/) [six](/post/six/) months [in](/post/in/) [jail](/post/jail/) [for](/post/for/) [drunk](/post/drunk/) driving."
 
 ## 同义词
-- Prison
+- [Prison](/post/prison/)
 - Penitentiary
-- Correctional facility
+- Correctional [facility](/post/facility/)
 - Lockup
 - Gaol (主要在英式英语中使用)

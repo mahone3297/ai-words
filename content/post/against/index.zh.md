@@ -11,21 +11,21 @@ keywords = ['ai words', 'against']
 /əˈɡenst/
 
 ## 释义
-- **介词**: 表示相反的方向、对立面或抵抗。例如: "He ran against the wind."，"She argued against the proposal."
-- **副词**: 表示反对或违背。例如: "The team played against all odds."
+- **介词**: 表示相反的方向、对立面或抵抗。例如: "[He](/post/he/) ran [against](/post/against/) [the](/post/the/) [wind](/post/wind/)."，"[She](/post/she/) argued [against](/post/against/) [the](/post/the/) [proposal](/post/proposal/)."
+- **副词**: 表示反对或违背。例如: "[The](/post/the/) [team](/post/team/) played [against](/post/against/) [all](/post/all/) odds."
 
 ## 短语
-- "fight against" 与...作斗争
-- "struggle against" 努力克服或抵抗
-- "go against one's conscience" 违背良心
+- "[fight](/post/fight/) [against](/post/against/)" 与...作斗争
+- "[struggle](/post/struggle/) [against](/post/against/)" 努力克服或抵抗
+- "[go](/post/go/) [against](/post/against/) one's [conscience](/post/conscience/)" 违背良心
 
 ## 例句
-- 介词: "The current flows against the riverbank."
-- 副词: "Her decision went against the advice of her friends."
+- 介词: "[The](/post/the/) [current](/post/current/) flows [against](/post/against/) [the](/post/the/) riverbank."
+- 副词: "[Her](/post/her/) [decision](/post/decision/) went [against](/post/against/) [the](/post/the/) [advice](/post/advice/) [of](/post/of/) [her](/post/her/) friends."
 
 ## 同义词
-- Opposite
-- In opposition to
-- Contrary to
+- [Opposite](/post/opposite/)
+- [In](/post/in/) opposition [to](/post/to/)
+- [Contrary](/post/contrary/) [to](/post/to/)
 - Resisting
 - Defying

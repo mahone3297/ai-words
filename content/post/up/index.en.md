@@ -7,32 +7,32 @@ description = '[ʌp] ad.向上；起床，起来'
 keywords = ['ai words', 'up']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ʌp/
 
 ## Definitions
-- **Adverb**: In a position indicating direction or movement upwards. For example: "She climbed up the stairs."
-- **Verb**: To move upwards from a lower position. For example: "He stood up from his chair."
-- **Preposition**: Expressing direction or location relative to the ground. For example: "The book is on the table up there."
-- **Adjective**: Higher in position, above something else. For example: "The view from the top of the hill is up."
-- **Pronoun**: Referring to oneself or others in a vertical sense. For example: "She looked up at the sky."
+- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [position](/en/post/position/) indicating [direction](/en/post/direction/) [or](/en/post/or/) [movement](/en/post/movement/) [upwards](/en/post/upwards/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) climbed [up](/en/post/up/) [the](/en/post/the/) stairs."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [move](/en/post/move/) [upwards](/en/post/upwards/) [from](/en/post/from/) [a](/en/post/a/) [lower](/en/post/lower/) [position](/en/post/position/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) stood [up](/en/post/up/) [from](/en/post/from/) [his](/en/post/his/) [chair](/en/post/chair/)."
+- **[Preposition](/en/post/preposition/)**: Expressing [direction](/en/post/direction/) [or](/en/post/or/) [location](/en/post/location/) [relative](/en/post/relative/) [to](/en/post/to/) [the](/en/post/the/) [ground](/en/post/ground/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) is [on](/en/post/on/) [the](/en/post/the/) [table](/en/post/table/) [up](/en/post/up/) [there](/en/post/there/)."
+- **[Adjective](/en/post/adjective/)**: Higher [in](/en/post/in/) [position](/en/post/position/), [above](/en/post/above/) [something](/en/post/something/) [else](/en/post/else/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) [top](/en/post/top/) [of](/en/post/of/) [the](/en/post/the/) [hill](/en/post/hill/) is [up](/en/post/up/)."
+- **[Pronoun](/en/post/pronoun/)**: Referring [to](/en/post/to/) [oneself](/en/post/oneself/) [or](/en/post/or/) others [in](/en/post/in/) [a](/en/post/a/) [vertical](/en/post/vertical/) [sense](/en/post/sense/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) looked [up](/en/post/up/) [at](/en/post/at/) [the](/en/post/the/) [sky](/en/post/sky/)."
 
 ## Phrases
-- "Climb up" means to ascend or go upwards.
-- "Look up" means to raise one's eyes to see something above.
-- "Count up" is the act of increasing in number.
-- "Clean up" is to tidy or organize something, often after a mess.
+- "[Climb](/en/post/climb/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) ascend [or](/en/post/or/) [go](/en/post/go/) [upwards](/en/post/upwards/).
+- "[Look](/en/post/look/) [up](/en/post/up/)" [means](/en/post/means/) [to](/en/post/to/) [raise](/en/post/raise/) one's eyes [to](/en/post/to/) [see](/en/post/see/) [something](/en/post/something/) [above](/en/post/above/).
+- "[Count](/en/post/count/) [up](/en/post/up/)" is [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) increasing [in](/en/post/in/) [number](/en/post/number/).
+- "[Clean](/en/post/clean/) [up](/en/post/up/)" is [to](/en/post/to/) [tidy](/en/post/tidy/) [or](/en/post/or/) [organize](/en/post/organize/) [something](/en/post/something/), [often](/en/post/often/) [after](/en/post/after/) [a](/en/post/a/) [mess](/en/post/mess/).
 
-## Example Sentences
-- **Adverb**: "The children played tag, running up and down the hill."
-- **Verb**: "I stood up to reach the top shelf."
-- **Preposition**: "The bird perched on a branch up in the tree."
-- **Adjective**: "The view from the observatory was breathtakingly up."
-- **Pronoun**: "He looked up at the stars, wondering how high they were up."
+## [Example](/en/post/example/) Sentences
+- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) children played [tag](/en/post/tag/), running [up](/en/post/up/) [and](/en/post/and/) [down](/en/post/down/) [the](/en/post/the/) [hill](/en/post/hill/)."
+- **[Verb](/en/post/verb/)**: "I stood [up](/en/post/up/) [to](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) [top](/en/post/top/) [shelf](/en/post/shelf/)."
+- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) [bird](/en/post/bird/) perched [on](/en/post/on/) [a](/en/post/a/) [branch](/en/post/branch/) [up](/en/post/up/) [in](/en/post/in/) [the](/en/post/the/) [tree](/en/post/tree/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) observatory was breathtakingly [up](/en/post/up/)."
+- **[Pronoun](/en/post/pronoun/)**: "[He](/en/post/he/) looked [up](/en/post/up/) [at](/en/post/at/) [the](/en/post/the/) stars, wondering [how](/en/post/how/) [high](/en/post/high/) [they](/en/post/they/) were [up](/en/post/up/)."
 
 ## Synonyms
-- Upright
+- [Upright](/en/post/upright/)
 - Ascending
 - Higher
-- Upper
+- [Upper](/en/post/upper/)
 - Exaltation

@@ -11,20 +11,20 @@ keywords = ['ai words', 'toy']
 /toɪ/
 
 ## 释义
-- **名词 (n)**: 小孩玩的玩具，通常为小型可玩耍的物品。例如: "The little girl was playing with her favorite toy doll."
-- **动词 (v)**: 假装玩耍或不认真对待（某事）。例如: "He was just toying with the idea, not seriously considering it."
+- **名词 (n)**: 小孩玩的玩具，通常为小型可玩耍的物品。例如: "[The](/post/the/) [little](/post/little/) [girl](/post/girl/) was playing [with](/post/with/) [her](/post/her/) favorite [toy](/post/toy/) doll."
+- **动词 (v)**: 假装玩耍或不认真对待（某事）。例如: "[He](/post/he/) was [just](/post/just/) toying [with](/post/with/) [the](/post/the/) [idea](/post/idea/), [not](/post/not/) [seriously](/post/seriously/) considering [it](/post/it/)."
 
 ## 短语
-- "toy with something" 表示摆弄或玩弄某物，不认真对待。例如: "Don't toy with people's feelings."
-- "play with toys" 意味着用玩具进行游戏。例如: "The children were busy playing with their new toys."
+- "[toy](/post/toy/) [with](/post/with/) [something](/post/something/)" 表示摆弄或玩弄某物，不认真对待。例如: "Don't [toy](/post/toy/) [with](/post/with/) people's feelings."
+- "[play](/post/play/) [with](/post/with/) toys" 意味着用玩具进行游戏。例如: "[The](/post/the/) children were [busy](/post/busy/) playing [with](/post/with/) [their](/post/their/) [new](/post/new/) toys."
 
 ## 例句
-- 名词: "The boy found an old toy car in the attic."
-- 动词: "She was toying with her food, not really hungry."
+- 名词: "[The](/post/the/) [boy](/post/boy/) [found](/post/found/) an [old](/post/old/) [toy](/post/toy/) [car](/post/car/) [in](/post/in/) [the](/post/the/) attic."
+- 动词: "[She](/post/she/) was toying [with](/post/with/) [her](/post/her/) [food](/post/food/), [not](/post/not/) [really](/post/really/) [hungry](/post/hungry/)."
 
 ## 同义词
 - Plaything
-- Game
-- Pastime
-- Trifle
-- Joke
+- [Game](/post/game/)
+- [Pastime](/post/pastime/)
+- [Trifle](/post/trifle/)
+- [Joke](/post/joke/)

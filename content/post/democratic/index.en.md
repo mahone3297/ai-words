@@ -7,46 +7,46 @@ description = '[ˌdeməˈkrætik] a.民主的，民主政体的'
 keywords = ['ai words', 'democratic']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /dɪˈmɒkrətɪk/
 
 ## Definitions
-### Noun
-- A system of government in which power is held by the people, typically through elected representatives, and decisions are made by majority rule.
-- A system characterized by political equality, freedom of speech, and participation in decision-making.
+### [Noun](/en/post/noun/)
+- [A](/en/post/a/) [system](/en/post/system/) [of](/en/post/of/) [government](/en/post/government/) [in](/en/post/in/) [which](/en/post/which/) [power](/en/post/power/) is held [by](/en/post/by/) [the](/en/post/the/) [people](/en/post/people/), typically [through](/en/post/through/) elected representatives, [and](/en/post/and/) decisions are made [by](/en/post/by/) [majority](/en/post/majority/) [rule](/en/post/rule/).
+- [A](/en/post/a/) [system](/en/post/system/) characterized [by](/en/post/by/) [political](/en/post/political/) [equality](/en/post/equality/), [freedom](/en/post/freedom/) [of](/en/post/of/) [speech](/en/post/speech/), [and](/en/post/and/) participation [in](/en/post/in/) decision-making.
 
-### Verb
-- To govern or rule according to democratic principles.
-- To elect or choose democratically.
+### [Verb](/en/post/verb/)
+- [To](/en/post/to/) [govern](/en/post/govern/) [or](/en/post/or/) [rule](/en/post/rule/) according [to](/en/post/to/) [democratic](/en/post/democratic/) principles.
+- [To](/en/post/to/) [elect](/en/post/elect/) [or](/en/post/or/) [choose](/en/post/choose/) democratically.
 
-### Adjective
-- Relating to or based on the principles of democracy.
-- Governed by the will of the people, as expressed through elections or other forms of popular participation.
+### [Adjective](/en/post/adjective/)
+- Relating [to](/en/post/to/) [or](/en/post/or/) based [on](/en/post/on/) [the](/en/post/the/) principles [of](/en/post/of/) [democracy](/en/post/democracy/).
+- Governed [by](/en/post/by/) [the](/en/post/the/) [will](/en/post/will/) [of](/en/post/of/) [the](/en/post/the/) [people](/en/post/people/), [as](/en/post/as/) expressed [through](/en/post/through/) elections [or](/en/post/or/) [other](/en/post/other/) forms [of](/en/post/of/) [popular](/en/post/popular/) participation.
 
-### Adjective (as an attributive)
-- Designating a person who supports or advocates for democratic values or practices.
+### [Adjective](/en/post/adjective/) ([as](/en/post/as/) an attributive)
+- Designating [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) supports [or](/en/post/or/) advocates [for](/en/post/for/) [democratic](/en/post/democratic/) values [or](/en/post/or/) practices.
 
 ## Phrases
-- "Practice democratic values"
-- "Hold democratic elections"
-- "Promote democratic reforms"
-- "A democratic society"
-- "Participate in the democratic process"
+- "[Practice](/en/post/practice/) [democratic](/en/post/democratic/) values"
+- "[Hold](/en/post/hold/) [democratic](/en/post/democratic/) elections"
+- "[Promote](/en/post/promote/) [democratic](/en/post/democratic/) reforms"
+- "[A](/en/post/a/) [democratic](/en/post/democratic/) [society](/en/post/society/)"
+- "[Participate](/en/post/participate/) [in](/en/post/in/) [the](/en/post/the/) [democratic](/en/post/democratic/) [process](/en/post/process/)"
 
-## Example Sentences
-- **Noun**: "The country has a long history of democratic governance."
-- **Verb**: "The new president vowed to uphold democratic traditions."
-- **Adjective**: "The city's mayor is known for her democratic leadership style."
-- **Adjective (attributive)**: "The democratic candidate won the election with a significant margin."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [country](/en/post/country/) has [a](/en/post/a/) [long](/en/post/long/) [history](/en/post/history/) [of](/en/post/of/) [democratic](/en/post/democratic/) governance."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [new](/en/post/new/) [president](/en/post/president/) vowed [to](/en/post/to/) uphold [democratic](/en/post/democratic/) traditions."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) city's [mayor](/en/post/mayor/) is known [for](/en/post/for/) [her](/en/post/her/) [democratic](/en/post/democratic/) [leadership](/en/post/leadership/) [style](/en/post/style/)."
+- **[Adjective](/en/post/adjective/) (attributive)**: "[The](/en/post/the/) [democratic](/en/post/democratic/) [candidate](/en/post/candidate/) won [the](/en/post/the/) [election](/en/post/election/) [with](/en/post/with/) [a](/en/post/a/) [significant](/en/post/significant/) [margin](/en/post/margin/)."
 
 ## Synonyms
 - Democratical
-- Republican
+- [Republican](/en/post/republican/)
 - Populist
 - Civic
-- Representative
+- [Representative](/en/post/representative/)
 - Participatory
-- Popular sovereignty
+- [Popular](/en/post/popular/) sovereignty
 - Constitutional
 
 ## Antonyms

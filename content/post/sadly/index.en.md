@@ -7,21 +7,21 @@ description = '[ˈsædli] ad.悲痛地，悲哀地'
 keywords = ['ai words', 'sadly']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /sædli/
 
 ## Definitions
-- **Adverb**: Expressing sorrow, regret, or disappointment in the manner of something being done or said. It modifies a verb, adjective, or other adverb.
+- **[Adverb](/en/post/adverb/)**: Expressing [sorrow](/en/post/sorrow/), [regret](/en/post/regret/), [or](/en/post/or/) disappointment [in](/en/post/in/) [the](/en/post/the/) [manner](/en/post/manner/) [of](/en/post/of/) [something](/en/post/something/) [being](/en/post/being/) done [or](/en/post/or/) said. [It](/en/post/it/) modifies [a](/en/post/a/) [verb](/en/post/verb/), [adjective](/en/post/adjective/), [or](/en/post/or/) [other](/en/post/other/) [adverb](/en/post/adverb/).
 
 ## Phrases
-- "Sadly, he had to leave."
-- "She wept sadly after receiving the news."
-- "The news came sadly."
+- "[Sadly](/en/post/sadly/), [he](/en/post/he/) had [to](/en/post/to/) [leave](/en/post/leave/)."
+- "[She](/en/post/she/) wept [sadly](/en/post/sadly/) [after](/en/post/after/) receiving [the](/en/post/the/) [news](/en/post/news/)."
+- "[The](/en/post/the/) [news](/en/post/news/) came [sadly](/en/post/sadly/)."
 
-## Example Sentences
-- "He accepted the defeat with a heavy heart, sadly acknowledging his loss."
-- "Sadly, the concert was canceled due to unforeseen circumstances."
-- "She sighed sadly as she reminisced about the past."
+## [Example](/en/post/example/) Sentences
+- "[He](/en/post/he/) accepted [the](/en/post/the/) [defeat](/en/post/defeat/) [with](/en/post/with/) [a](/en/post/a/) [heavy](/en/post/heavy/) [heart](/en/post/heart/), [sadly](/en/post/sadly/) acknowledging [his](/en/post/his/) [loss](/en/post/loss/)."
+- "[Sadly](/en/post/sadly/), [the](/en/post/the/) [concert](/en/post/concert/) was canceled [due](/en/post/due/) [to](/en/post/to/) unforeseen circumstances."
+- "[She](/en/post/she/) sighed [sadly](/en/post/sadly/) [as](/en/post/as/) [she](/en/post/she/) reminisced [about](/en/post/about/) [the](/en/post/the/) [past](/en/post/past/)."
 
 ## Synonyms
 - Unhappily

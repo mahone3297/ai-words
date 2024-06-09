@@ -7,31 +7,31 @@ description = '[ˈlɑːdʒli] ad.大部分；大量地'
 keywords = ['ai words', 'largely']
 +++
 
-## Word: Largely
+## [Word](/en/post/word/): [Largely](/en/post/largely/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈlɑːdʒli/
 
 ## Definitions
-- **Adverb**: To a great extent; mainly; mostly. It's often used to indicate that something is true or valid for the most part but may have some exceptions.
+- **[Adverb](/en/post/adverb/)**: [To](/en/post/to/) [a](/en/post/a/) [great](/en/post/great/) [extent](/en/post/extent/); [mainly](/en/post/mainly/); [mostly](/en/post/mostly/). It's [often](/en/post/often/) [used](/en/post/used/) [to](/en/post/to/) [indicate](/en/post/indicate/) [that](/en/post/that/) [something](/en/post/something/) is [true](/en/post/true/) [or](/en/post/or/) [valid](/en/post/valid/) [for](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/) [but](/en/post/but/) [may](/en/post/may/) [have](/en/post/have/) [some](/en/post/some/) exceptions.
 
-Example sentence: _The project's success was largely due to her tireless efforts._
+[Example](/en/post/example/) [sentence](/en/post/sentence/): _The project's [success](/en/post/success/) was [largely](/en/post/largely/) [due](/en/post/due/) [to](/en/post/to/) [her](/en/post/her/) tireless efforts._
 
 ## Phrases
-- "Largely speaking": This phrase is used when giving a general statement that holds true for the majority of cases. Example: "Largely speaking, people tend to prefer sunny weather over rainy days."
-- "To a large extent": Means 'to a considerable degree.' Example: "His behavior has improved to a large extent since he started therapy."
+- "[Largely](/en/post/largely/) speaking": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [when](/en/post/when/) giving [a](/en/post/a/) [general](/en/post/general/) [statement](/en/post/statement/) [that](/en/post/that/) holds [true](/en/post/true/) [for](/en/post/for/) [the](/en/post/the/) [majority](/en/post/majority/) [of](/en/post/of/) cases. [Example](/en/post/example/): "[Largely](/en/post/largely/) speaking, [people](/en/post/people/) [tend](/en/post/tend/) [to](/en/post/to/) [prefer](/en/post/prefer/) [sunny](/en/post/sunny/) [weather](/en/post/weather/) [over](/en/post/over/) [rainy](/en/post/rainy/) days."
+- "[To](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [extent](/en/post/extent/)": [Means](/en/post/means/) '[to](/en/post/to/) [a](/en/post/a/) [considerable](/en/post/considerable/) [degree](/en/post/degree/).' [Example](/en/post/example/): "[His](/en/post/his/) [behavior](/en/post/behavior/) has improved [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [extent](/en/post/extent/) [since](/en/post/since/) [he](/en/post/he/) started therapy."
 
-## Example Sentences
-- _The company's profits have been largely unaffected by the recent economic downturn._
-- _The new policy will largely determine the future direction of the organization._
-- _Her work on climate change has been largely ignored by policymakers._
+## [Example](/en/post/example/) Sentences
+- _The company's profits [have](/en/post/have/) been [largely](/en/post/largely/) unaffected [by](/en/post/by/) [the](/en/post/the/) [recent](/en/post/recent/) [economic](/en/post/economic/) downturn._
+- _The [new](/en/post/new/) [policy](/en/post/policy/) [will](/en/post/will/) [largely](/en/post/largely/) [determine](/en/post/determine/) [the](/en/post/the/) [future](/en/post/future/) [direction](/en/post/direction/) [of](/en/post/of/) [the](/en/post/the/) [organization](/en/post/organization/)._
+- _Her [work](/en/post/work/) [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/) has been [largely](/en/post/largely/) ignored [by](/en/post/by/) policymakers._
 
 ## Synonyms
-- Mainly
-- Mostly
-- Primarily
+- [Mainly](/en/post/mainly/)
+- [Mostly](/en/post/mostly/)
+- [Primarily](/en/post/primarily/)
 - Predominantly
 - Chiefly
 - Essentially
-- For the most part
-- In the main
+- [For](/en/post/for/) [the](/en/post/the/) [most](/en/post/most/) [part](/en/post/part/)
+- [In](/en/post/in/) [the](/en/post/the/) [main](/en/post/main/)

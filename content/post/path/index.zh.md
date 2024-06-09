@@ -8,25 +8,25 @@ keywords = ['ai words', 'path']
 +++
 
 ## 读音
-/path/
+/[path](/post/path/)/
 
 ## 释义
 - **名词**:
-  路径，小路；途径，方法；生涯，人生道路。例如: "Follow the path through the woods."，"She found her own path to success."
+  路径，小路；途径，方法；生涯，人生道路。例如: "[Follow](/post/follow/) [the](/post/the/) [path](/post/path/) [through](/post/through/) [the](/post/the/) woods."，"[She](/post/she/) [found](/post/found/) [her](/post/her/) [own](/post/own/) [path](/post/path/) [to](/post/to/) [success](/post/success/)."
 - **动词**:
-  沿着路径行走。例如: "They pathed their way through the dense forest."
+  沿着路径行走。例如: "[They](/post/they/) pathed [their](/post/their/) [way](/post/way/) [through](/post/through/) [the](/post/the/) [dense](/post/dense/) [forest](/post/forest/)."
 
 ## 短语
-- "path of least resistance" 意为最容易或最不费力的方式。
-- "off the beaten path" 指偏远或不常去的地方。
+- "[path](/post/path/) [of](/post/of/) [least](/post/least/) [resistance](/post/resistance/)" 意为最容易或最不费力的方式。
+- "[off](/post/off/) [the](/post/the/) beaten [path](/post/path/)" 指偏远或不常去的地方。
 
 ## 例句
-- 名词: "The garden was hidden from sight, accessible only by a narrow path."
-- 动词: "The hiker carefully pathed along the steep mountain trail."
+- 名词: "[The](/post/the/) [garden](/post/garden/) was hidden [from](/post/from/) [sight](/post/sight/), accessible [only](/post/only/) [by](/post/by/) [a](/post/a/) [narrow](/post/narrow/) [path](/post/path/)."
+- 动词: "[The](/post/the/) hiker carefully pathed [along](/post/along/) [the](/post/the/) [steep](/post/steep/) [mountain](/post/mountain/) [trail](/post/trail/)."
 
 ## 同义词
-- track
-- route
-- way
-- course
-- journey
+- [track](/post/track/)
+- [route](/post/route/)
+- [way](/post/way/)
+- [course](/post/course/)
+- [journey](/post/journey/)

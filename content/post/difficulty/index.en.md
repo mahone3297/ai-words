@@ -7,42 +7,42 @@ description = '[ˈdifikəlti] a.困难；难事；困境'
 keywords = ['ai words', 'difficulty']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /dɪˈfɪkəlti/
 
 ## Definitions
-### Noun
-1. The state or quality of being difficult or hard to do, understand, or deal with: *She found the math problem quite a difficulty.*
-2. A troublesome or challenging situation: *The project posed numerous difficulties for the team.*
+### [Noun](/en/post/noun/)
+1. [The](/en/post/the/) [state](/en/post/state/) [or](/en/post/or/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [difficult](/en/post/difficult/) [or](/en/post/or/) [hard](/en/post/hard/) [to](/en/post/to/) [do](/en/post/do/), [understand](/en/post/understand/), [or](/en/post/or/) [deal](/en/post/deal/) [with](/en/post/with/): *[She](/en/post/she/) [found](/en/post/found/) [the](/en/post/the/) math [problem](/en/post/problem/) [quite](/en/post/quite/) [a](/en/post/a/) [difficulty](/en/post/difficulty/).*
+2. [A](/en/post/a/) [troublesome](/en/post/troublesome/) [or](/en/post/or/) challenging [situation](/en/post/situation/): *[The](/en/post/the/) [project](/en/post/project/) posed [numerous](/en/post/numerous/) difficulties [for](/en/post/for/) [the](/en/post/the/) [team](/en/post/team/).*
 
-### Verb
-1. To cause or experience difficulty: *He had difficulty completing the task on time.*
-2. To face or encounter challenges: *She didn't have difficulty persuading her boss.*
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [cause](/en/post/cause/) [or](/en/post/or/) [experience](/en/post/experience/) [difficulty](/en/post/difficulty/): *[He](/en/post/he/) had [difficulty](/en/post/difficulty/) completing [the](/en/post/the/) [task](/en/post/task/) [on](/en/post/on/) [time](/en/post/time/).*
+2. [To](/en/post/to/) [face](/en/post/face/) [or](/en/post/or/) [encounter](/en/post/encounter/) challenges: *[She](/en/post/she/) didn't [have](/en/post/have/) [difficulty](/en/post/difficulty/) persuading [her](/en/post/her/) [boss](/en/post/boss/).*
 
 ## Phrases
-- "Overcome a difficulty" means to successfully deal with a challenge.
-- "Have difficulty with something" indicates struggling or inefficiency in a particular area.
-- "No difficulty in doing" suggests ease or simplicity when performing an action.
+- "[Overcome](/en/post/overcome/) [a](/en/post/a/) [difficulty](/en/post/difficulty/)" [means](/en/post/means/) [to](/en/post/to/) [successfully](/en/post/successfully/) [deal](/en/post/deal/) [with](/en/post/with/) [a](/en/post/a/) [challenge](/en/post/challenge/).
+- "[Have](/en/post/have/) [difficulty](/en/post/difficulty/) [with](/en/post/with/) [something](/en/post/something/)" indicates struggling [or](/en/post/or/) inefficiency [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [area](/en/post/area/).
+- "[No](/en/post/no/) [difficulty](/en/post/difficulty/) [in](/en/post/in/) doing" suggests [ease](/en/post/ease/) [or](/en/post/or/) [simplicity](/en/post/simplicity/) [when](/en/post/when/) performing an [action](/en/post/action/).
 
-## Example Sentences
-- **Noun**: "The students encountered considerable difficulty solving the complex equation."
-- **Verb**: "After several attempts, he finally managed to difficulty his fear of public speaking."
-- **Adjective**: "The book's content was presented in a way that made it easy for readers to understand, without any difficulty."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) students encountered [considerable](/en/post/considerable/) [difficulty](/en/post/difficulty/) solving [the](/en/post/the/) [complex](/en/post/complex/) [equation](/en/post/equation/)."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [several](/en/post/several/) attempts, [he](/en/post/he/) [finally](/en/post/finally/) managed [to](/en/post/to/) [difficulty](/en/post/difficulty/) [his](/en/post/his/) [fear](/en/post/fear/) [of](/en/post/of/) [public](/en/post/public/) speaking."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) book's [content](/en/post/content/) was presented [in](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) made [it](/en/post/it/) [easy](/en/post/easy/) [for](/en/post/for/) readers [to](/en/post/to/) [understand](/en/post/understand/), [without](/en/post/without/) [any](/en/post/any/) [difficulty](/en/post/difficulty/)."
 
 ## Synonyms
-- Challenge
-- Hardship
-- Struggle
-- Barrier
-- Obstacle
-- Problem
+- [Challenge](/en/post/challenge/)
+- [Hardship](/en/post/hardship/)
+- [Struggle](/en/post/struggle/)
+- [Barrier](/en/post/barrier/)
+- [Obstacle](/en/post/obstacle/)
+- [Problem](/en/post/problem/)
 - Complication
 - Complexity
 
 ## Antonyms
-- Ease
-- Simplicity
+- [Ease](/en/post/ease/)
+- [Simplicity](/en/post/simplicity/)
 - Smoothness
-- Grace
-- Facility
+- [Grace](/en/post/grace/)
+- [Facility](/en/post/facility/)
 - Effortlessness

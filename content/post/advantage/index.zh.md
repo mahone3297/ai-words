@@ -11,20 +11,20 @@ keywords = ['ai words', 'advantage']
 /ədˈvɑːntɪdʒ/
 
 ## 释义
-- **名词**: 有利条件，优势。例如: "She had the advantage of a good education."
-- **动词**: 利用（机会或优势）。例如: "They decided to advantage the situation and make a profit."
+- **名词**: 有利条件，优势。例如: "[She](/post/she/) had [the](/post/the/) [advantage](/post/advantage/) [of](/post/of/) [a](/post/a/) [good](/post/good/) [education](/post/education/)."
+- **动词**: 利用（机会或优势）。例如: "[They](/post/they/) decided [to](/post/to/) [advantage](/post/advantage/) [the](/post/the/) [situation](/post/situation/) [and](/post/and/) [make](/post/make/) [a](/post/a/) [profit](/post/profit/)."
 
 ## 短语
-- "at an advantage" 表示处于有利地位。例如: "Being taller gives you an advantage in basketball."
-- "to have the upper hand" 意为占有优势。例如: "In the debate, he quickly gained the upper hand."
+- "[at](/post/at/) an [advantage](/post/advantage/)" 表示处于有利地位。例如: "[Being](/post/being/) taller gives [you](/post/you/) an [advantage](/post/advantage/) [in](/post/in/) [basketball](/post/basketball/)."
+- "[to](/post/to/) [have](/post/have/) [the](/post/the/) [upper](/post/upper/) [hand](/post/hand/)" 意为占有优势。例如: "[In](/post/in/) [the](/post/the/) [debate](/post/debate/), [he](/post/he/) [quickly](/post/quickly/) gained [the](/post/the/) [upper](/post/upper/) [hand](/post/hand/)."
 
 ## 例句
-- 名词: "The company's location is one of its main advantages."
-- 动词: "Knowing the language allowed him to advantage his job prospects."
+- 名词: "[The](/post/the/) company's [location](/post/location/) is [one](/post/one/) [of](/post/of/) [its](/post/its/) [main](/post/main/) advantages."
+- 动词: "Knowing [the](/post/the/) [language](/post/language/) allowed [him](/post/him/) [to](/post/to/) [advantage](/post/advantage/) [his](/post/his/) [job](/post/job/) prospects."
 
 ## 同义词
-- benefit
-- plus point
-- strength
-- edge
+- [benefit](/post/benefit/)
+- [plus](/post/plus/) [point](/post/point/)
+- [strength](/post/strength/)
+- [edge](/post/edge/)
 - superiority

@@ -15,12 +15,12 @@ keywords = ['ai words', 'December']
 
 ## 短语
 - "December holidays" 指的是十二月的假期，如圣诞节和新年。
-- "New Year's Eve in December" 指的是十二月三十一日，新年前夜。
+- "[New](/post/new/) Year's [Eve](/post/eve/) [in](/post/in/) December" 指的是十二月三十一日，新年前夜。
 
 ## 例句
-- "In December, the city is decorated with Christmas lights."
-- "We usually have a family gathering during the December holidays."
+- "[In](/post/in/) December, [the](/post/the/) [city](/post/city/) is decorated [with](/post/with/) Christmas lights."
+- "[We](/post/we/) [usually](/post/usually/) [have](/post/have/) [a](/post/a/) [family](/post/family/) gathering [during](/post/during/) [the](/post/the/) December holidays."
 
 ## 同义词
-- Twelfth month
-- The last month of the year
+- [Twelfth](/post/twelfth/) [month](/post/month/)
+- [The](/post/the/) [last](/post/last/) [month](/post/month/) [of](/post/of/) [the](/post/the/) [year](/post/year/)

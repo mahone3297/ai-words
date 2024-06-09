@@ -11,22 +11,22 @@ keywords = ['ai words', 'casual']
 /ˈkæʒuəl/
 
 ## 释义
-- **形容词**: 随便的，非正式的。例如: "She was wearing a casual dress for the weekend."
-- **名词**: 临时工，兼职工作者。例如: "He's been working as a casual at the warehouse."
-- **副词**: 偶然地，不经意地。例如: "We met quite casually at the coffee shop."
+- **形容词**: 随便的，非正式的。例如: "[She](/post/she/) was wearing [a](/post/a/) [casual](/post/casual/) [dress](/post/dress/) [for](/post/for/) [the](/post/the/) [weekend](/post/weekend/)."
+- **名词**: 临时工，兼职工作者。例如: "He's been working [as](/post/as/) [a](/post/a/) [casual](/post/casual/) [at](/post/at/) [the](/post/the/) warehouse."
+- **副词**: 偶然地，不经意地。例如: "[We](/post/we/) met [quite](/post/quite/) casually [at](/post/at/) [the](/post/the/) [coffee](/post/coffee/) [shop](/post/shop/)."
 
 ## 短语
-- "casual wear" 意为休闲装。
-- "casual encounter" 指偶然的相遇或邂逅。
+- "[casual](/post/casual/) [wear](/post/wear/)" 意为休闲装。
+- "[casual](/post/casual/) [encounter](/post/encounter/)" 指偶然的相遇或邂逅。
 
 ## 例句
-- 形容词: "He prefers to keep his style casual and comfortable."
-- 名词: "The company hires casual workers during peak season."
-- 副词: "I saw an old friend from school quite casually while running errands."
+- 形容词: "[He](/post/he/) prefers [to](/post/to/) [keep](/post/keep/) [his](/post/his/) [style](/post/style/) [casual](/post/casual/) [and](/post/and/) [comfortable](/post/comfortable/)."
+- 名词: "[The](/post/the/) [company](/post/company/) hires [casual](/post/casual/) workers [during](/post/during/) [peak](/post/peak/) [season](/post/season/)."
+- 副词: "I [saw](/post/saw/) an [old](/post/old/) [friend](/post/friend/) [from](/post/from/) [school](/post/school/) [quite](/post/quite/) casually [while](/post/while/) running errands."
 
 ## 同义词
 - Informal
 - Relaxed
 - Unofficial
-- Spontaneous
+- [Spontaneous](/post/spontaneous/)
 - Unplanned

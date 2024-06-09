@@ -12,27 +12,27 @@ keywords = ['ai words', 'sale']
 
 ## 释义
 - **名词**: 
-    - 销售；售卖："We have a sale on winter coats this week."
-    - 出售活动；打折促销："The store is having a big sale to clear out old stock."
-    - (股票、财产等的)交易："The company's sale to a private investor was finalized last month."
+    - 销售；售卖："[We](/post/we/) [have](/post/have/) [a](/post/a/) [sale](/post/sale/) [on](/post/on/) [winter](/post/winter/) coats [this](/post/this/) [week](/post/week/)."
+    - 出售活动；打折促销："[The](/post/the/) [store](/post/store/) is having [a](/post/a/) [big](/post/big/) [sale](/post/sale/) [to](/post/to/) [clear](/post/clear/) [out](/post/out/) [old](/post/old/) [stock](/post/stock/)."
+    - (股票、财产等的)交易："[The](/post/the/) company's [sale](/post/sale/) [to](/post/to/) [a](/post/a/) [private](/post/private/) investor was finalized [last](/post/last/) [month](/post/month/)."
 
 - **动词**:
-    - 卖；售出："The artist plans to sale her paintings at the gallery."
-    - 促销；推销："They're saleing new products aggressively."
+    - 卖；售出："[The](/post/the/) [artist](/post/artist/) plans [to](/post/to/) [sale](/post/sale/) [her](/post/her/) paintings [at](/post/at/) [the](/post/the/) [gallery](/post/gallery/)."
+    - 促销；推销："They're saleing [new](/post/new/) products aggressively."
 
 ## 短语
-- "On sale" 表示正在打折或特价销售。
-- "At a discount" 指以低于正常价格出售。
-- "Sale price" 是指促销时的商品价格。
+- "[On](/post/on/) [sale](/post/sale/)" 表示正在打折或特价销售。
+- "[At](/post/at/) [a](/post/a/) discount" 指以低于正常价格出售。
+- "[Sale](/post/sale/) [price](/post/price/)" 是指促销时的商品价格。
 
 ## 例句
-- 名词: "I bought a new sofa during the end-of-season sale."
-- 动词: "The car dealership is saleing their cars with 0% financing."
-- 交易: "The property was saleed to the highest bidder."
+- 名词: "I bought [a](/post/a/) [new](/post/new/) sofa [during](/post/during/) [the](/post/the/) end-of-season [sale](/post/sale/)."
+- 动词: "[The](/post/the/) [car](/post/car/) dealership is saleing [their](/post/their/) cars [with](/post/with/) 0% financing."
+- 交易: "[The](/post/the/) [property](/post/property/) was saleed [to](/post/to/) [the](/post/the/) highest bidder."
 
 ## 同义词
 - Discount
-- Offer
+- [Offer](/post/offer/)
 - Promotion
-- Bargain
-- Deal
+- [Bargain](/post/bargain/)
+- [Deal](/post/deal/)

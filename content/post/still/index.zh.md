@@ -11,22 +11,22 @@ keywords = ['ai words', 'still']
 /stɪl/
 
 ## 释义
-- **副词**: 表示仍然、还、依旧。例如: "It's still raining outside."
-- **形容词**: 静止的，不动的。例如: "The lake was so still that it reflected the trees perfectly."
-- **名词**: 静止的状态；平静。例如: "There was a strange stillness in the air before the storm."
+- **副词**: 表示仍然、还、依旧。例如: "It's [still](/post/still/) raining [outside](/post/outside/)."
+- **形容词**: 静止的，不动的。例如: "[The](/post/the/) [lake](/post/lake/) was [so](/post/so/) [still](/post/still/) [that](/post/that/) [it](/post/it/) reflected [the](/post/the/) trees [perfectly](/post/perfectly/)."
+- **名词**: 静止的状态；平静。例如: "[There](/post/there/) was [a](/post/a/) [strange](/post/strange/) stillness [in](/post/in/) [the](/post/the/) [air](/post/air/) [before](/post/before/) [the](/post/the/) [storm](/post/storm/)."
 
 ## 短语
-- "in stillness" 表示安静或静止的状态。
-- "be still" 常用于祈使句，意思是"安静下来"或"别动"。
+- "[in](/post/in/) stillness" 表示安静或静止的状态。
+- "[be](/post/be/) [still](/post/still/)" 常用于祈使句，意思是"安静下来"或"别动"。
 
 ## 例句
-- 副词: "Despite the late hour, the cafe was still crowded."
-- 形容词: "The child sat completely still while listening to the story."
-- 名词: "Enjoy the stillness of the early morning before the hustle and bustle begins."
+- 副词: "[Despite](/post/despite/) [the](/post/the/) [late](/post/late/) [hour](/post/hour/), [the](/post/the/) [cafe](/post/cafe/) was [still](/post/still/) crowded."
+- 形容词: "[The](/post/the/) [child](/post/child/) sat [completely](/post/completely/) [still](/post/still/) [while](/post/while/) listening [to](/post/to/) [the](/post/the/) [story](/post/story/)."
+- 名词: "[Enjoy](/post/enjoy/) [the](/post/the/) stillness [of](/post/of/) [the](/post/the/) [early](/post/early/) [morning](/post/morning/) [before](/post/before/) [the](/post/the/) hustle [and](/post/and/) bustle begins."
 
 ## 同义词
-- yet (副词)
+- [yet](/post/yet/) (副词)
 - motionless (形容词)
-- calm (形容词)
-- quiet (形容词)
+- [calm](/post/calm/) (形容词)
+- [quiet](/post/quiet/) (形容词)
 - serene (形容词)

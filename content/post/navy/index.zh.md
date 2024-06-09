@@ -11,18 +11,18 @@ keywords = ['ai words', 'navy']
 /ˈneɪvi/
 
 ## 释义
-- **名词**: 军事组织中的海军，一国的水上作战部队。例如: "The British Navy is one of the most powerful in the world."
+- **名词**: 军事组织中的海军，一国的水上作战部队。例如: "[The](/post/the/) British [Navy](/post/navy/) is [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [powerful](/post/powerful/) [in](/post/in/) [the](/post/the/) [world](/post/world/)."
 
 ## 短语
-- "naval forces" 指的是海军部队。
-- "naval base" 是海军的基地或港口。
-- "navy blue" 是一种深蓝色，常与海军制服的颜色相联。
+- "[naval](/post/naval/) forces" 指的是海军部队。
+- "[naval](/post/naval/) [base](/post/base/)" 是海军的基地或港口。
+- "[navy](/post/navy/) [blue](/post/blue/)" 是一种深蓝色，常与海军制服的颜色相联。
 
 ## 例句
-- "The navy plays a crucial role in protecting a nation's maritime interests."
-- "The new naval ship was launched with great ceremony."
-- "She wore a navy suit for her job interview."
+- "[The](/post/the/) [navy](/post/navy/) plays [a](/post/a/) crucial [role](/post/role/) [in](/post/in/) protecting [a](/post/a/) nation's maritime interests."
+- "[The](/post/the/) [new](/post/new/) [naval](/post/naval/) [ship](/post/ship/) was launched [with](/post/with/) [great](/post/great/) [ceremony](/post/ceremony/)."
+- "[She](/post/she/) wore [a](/post/a/) [navy](/post/navy/) [suit](/post/suit/) [for](/post/for/) [her](/post/her/) [job](/post/job/) [interview](/post/interview/)."
 
 ## 同义词
-- Navy can be synonymous with "naval forces" or "marine corps" in some contexts.
-- In terms of color, "dark blue" or "navy blue" can be similar to "navy."
+- [Navy](/post/navy/) [can](/post/can/) [be](/post/be/) synonymous [with](/post/with/) "[naval](/post/naval/) forces" [or](/post/or/) "[marine](/post/marine/) corps" [in](/post/in/) [some](/post/some/) contexts.
+- [In](/post/in/) terms [of](/post/of/) [color](/post/color/), "[dark](/post/dark/) [blue](/post/blue/)" [or](/post/or/) "[navy](/post/navy/) [blue](/post/blue/)" [can](/post/can/) [be](/post/be/) [similar](/post/similar/) [to](/post/to/) "[navy](/post/navy/)."

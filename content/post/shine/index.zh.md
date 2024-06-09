@@ -12,25 +12,25 @@ keywords = ['ai words', 'shine']
 
 ## 释义
 - **动词**:
-1. 发光，闪耀。例如: "The sun was shining brightly in the sky."
-2. （使）照耀，（使）发光。例如: "The flashlight shone its beam on the ground."
-3. 表现突出，出类拔萃。例如: "She really shone in her performance."
+1. 发光，闪耀。例如: "[The](/post/the/) [sun](/post/sun/) was shining brightly [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
+2. （使）照耀，（使）发光。例如: "[The](/post/the/) flashlight shone [its](/post/its/) [beam](/post/beam/) [on](/post/on/) [the](/post/the/) [ground](/post/ground/)."
+3. 表现突出，出类拔萃。例如: "[She](/post/she/) [really](/post/really/) shone [in](/post/in/) [her](/post/her/) [performance](/post/performance/)."
 
 - **名词**:
-1. 光芒，光泽。例如: "The surface had a smooth shine to it."
-2. 成功，辉煌。例如: "He had a great season and is enjoying the shine of his victory."
+1. 光芒，光泽。例如: "[The](/post/the/) [surface](/post/surface/) had [a](/post/a/) [smooth](/post/smooth/) [shine](/post/shine/) [to](/post/to/) [it](/post/it/)."
+2. 成功，辉煌。例如: "[He](/post/he/) had [a](/post/a/) [great](/post/great/) [season](/post/season/) [and](/post/and/) is enjoying [the](/post/the/) [shine](/post/shine/) [of](/post/of/) [his](/post/his/) [victory](/post/victory/)."
 
 ## 短语
-- "to shine through" 意为在困难中显现出来，突出。例如: "Her kindness shone through in the darkest moments."
-- "to shine in one's field" 表示在某个领域表现出色。例如: "He shines in the field of mathematics."
+- "[to](/post/to/) [shine](/post/shine/) [through](/post/through/)" 意为在困难中显现出来，突出。例如: "[Her](/post/her/) [kindness](/post/kindness/) shone [through](/post/through/) [in](/post/in/) [the](/post/the/) darkest moments."
+- "[to](/post/to/) [shine](/post/shine/) [in](/post/in/) one's [field](/post/field/)" 表示在某个领域表现出色。例如: "[He](/post/he/) shines [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [mathematics](/post/mathematics/)."
 
 ## 例句
-- 动词: "The diamonds on her necklace shone under the lights."
-- 名词: "The freshly waxed floor had a beautiful shine."
+- 动词: "[The](/post/the/) diamonds [on](/post/on/) [her](/post/her/) [necklace](/post/necklace/) shone [under](/post/under/) [the](/post/the/) lights."
+- 名词: "[The](/post/the/) freshly waxed [floor](/post/floor/) had [a](/post/a/) [beautiful](/post/beautiful/) [shine](/post/shine/)."
 
 ## 同义词
-- glow
-- glitter
+- [glow](/post/glow/)
+- [glitter](/post/glitter/)
 - shimmer
-- radiate
-- beam
+- [radiate](/post/radiate/)
+- [beam](/post/beam/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'some']
 /sʌm/
 
 ## 释义
-- **代词**: 一些，某些。指不特定的数量或部分。例如: "Some people prefer coffee in the morning."
-- **形容词**: 某个，某种。例如: "There is some doubt about the plan."
+- **代词**: 一些，某些。指不特定的数量或部分。例如: "[Some](/post/some/) [people](/post/people/) [prefer](/post/prefer/) [coffee](/post/coffee/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- **形容词**: 某个，某种。例如: "[There](/post/there/) is [some](/post/some/) [doubt](/post/doubt/) [about](/post/about/) [the](/post/the/) [plan](/post/plan/)."
 
 ## 短语
-- "Some of" 表示一部分。例如: "Some of the students have already finished the assignment."
-- "Some time" 表示一段时间。例如: "We'll meet again some time next week."
+- "[Some](/post/some/) [of](/post/of/)" 表示一部分。例如: "[Some](/post/some/) [of](/post/of/) [the](/post/the/) students [have](/post/have/) [already](/post/already/) finished [the](/post/the/) [assignment](/post/assignment/)."
+- "[Some](/post/some/) [time](/post/time/)" 表示一段时间。例如: "We'll [meet](/post/meet/) [again](/post/again/) [some](/post/some/) [time](/post/time/) [next](/post/next/) [week](/post/week/)."
 
 ## 例句
-- 代词: "Some students like to study in the library, while others prefer studying at home."
-- 形容词: "There are some interesting ideas in the book, but overall it's not very engaging."
+- 代词: "[Some](/post/some/) students [like](/post/like/) [to](/post/to/) [study](/post/study/) [in](/post/in/) [the](/post/the/) [library](/post/library/), [while](/post/while/) others [prefer](/post/prefer/) studying [at](/post/at/) [home](/post/home/)."
+- 形容词: "[There](/post/there/) are [some](/post/some/) [interesting](/post/interesting/) ideas [in](/post/in/) [the](/post/the/) [book](/post/book/), [but](/post/but/) [overall](/post/overall/) it's [not](/post/not/) [very](/post/very/) engaging."
 
 ## 同义词
-- A few
-- A certain amount
-- A bit
-- Several
-- Certain
+- [A](/post/a/) [few](/post/few/)
+- [A](/post/a/) [certain](/post/certain/) [amount](/post/amount/)
+- [A](/post/a/) [bit](/post/bit/)
+- [Several](/post/several/)
+- [Certain](/post/certain/)

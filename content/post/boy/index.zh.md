@@ -11,20 +11,20 @@ keywords = ['ai words', 'boy']
 /boɪ/
 
 ## 释义
-- **名词 (n)**: 男性儿童；小伙子。例如: "The little boy is playing soccer in the park."
-- **形容词 (adj)**: 指男性，常用于非正式场合。例如: "That's a boy's toy."
+- **名词 (n)**: 男性儿童；小伙子。例如: "[The](/post/the/) [little](/post/little/) [boy](/post/boy/) is playing [soccer](/post/soccer/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- **形容词 (adj)**: 指男性，常用于非正式场合。例如: "That's [a](/post/a/) boy's [toy](/post/toy/)."
 
 ## 短语
-- "Boy next door" 指住在隔壁的男孩，通常给人亲切、邻家的感觉。
-- "Boys will be boys" 用来表示男孩子们的淘气行为是天性使然。
+- "[Boy](/post/boy/) [next](/post/next/) [door](/post/door/)" 指住在隔壁的男孩，通常给人亲切、邻家的感觉。
+- "Boys [will](/post/will/) [be](/post/be/) boys" 用来表示男孩子们的淘气行为是天性使然。
 
 ## 例句
-- 名词: "The boy won first place in the spelling bee."
-- 形容词: "The boyish charm of the actor made him very popular with fans."
+- 名词: "[The](/post/the/) [boy](/post/boy/) won [first](/post/first/) [place](/post/place/) [in](/post/in/) [the](/post/the/) [spelling](/post/spelling/) [bee](/post/bee/)."
+- 形容词: "[The](/post/the/) boyish charm [of](/post/of/) [the](/post/the/) [actor](/post/actor/) made [him](/post/him/) [very](/post/very/) [popular](/post/popular/) [with](/post/with/) fans."
 
 ## 同义词
-- Child (名词时)
+- [Child](/post/child/) (名词时)
 - Lad
 - Guy
-- Youth
-- Son (在某些语境下）
+- [Youth](/post/youth/)
+- [Son](/post/son/) (在某些语境下）

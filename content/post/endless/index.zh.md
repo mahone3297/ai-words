@@ -11,20 +11,20 @@ keywords = ['ai words', 'endless']
 /ˈɛndləs/
 
 ## 释义
-- **形容词**: 没有尽头的；无尽的；无穷的。例如: "The movie had an endless supply of action scenes."
-- **名词**: 无尽；无穷。例如: "Her love for him was an endless source of inspiration."
+- **形容词**: 没有尽头的；无尽的；无穷的。例如: "[The](/post/the/) [movie](/post/movie/) had an [endless](/post/endless/) [supply](/post/supply/) [of](/post/of/) [action](/post/action/) scenes."
+- **名词**: 无尽；无穷。例如: "[Her](/post/her/) [love](/post/love/) [for](/post/for/) [him](/post/him/) was an [endless](/post/endless/) [source](/post/source/) [of](/post/of/) inspiration."
 
 ## 短语
-- "endless loop" 无限循环，通常在计算机编程中使用。
-- "endless possibilities" 无穷的可能性。
+- "[endless](/post/endless/) [loop](/post/loop/)" 无限循环，通常在计算机编程中使用。
+- "[endless](/post/endless/) possibilities" 无穷的可能性。
 
 ## 例句
-- 形容词: "The desert seemed to stretch out in an endless expanse."
-- 名词: "The conversation was filled with endless questions."
+- 形容词: "[The](/post/the/) [desert](/post/desert/) seemed [to](/post/to/) [stretch](/post/stretch/) [out](/post/out/) [in](/post/in/) an [endless](/post/endless/) expanse."
+- 名词: "[The](/post/the/) [conversation](/post/conversation/) was filled [with](/post/with/) [endless](/post/endless/) questions."
 
 ## 同义词
 - limitless
 - boundless
-- infinite
+- [infinite](/post/infinite/)
 - unending
 - interminable

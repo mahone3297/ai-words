@@ -11,19 +11,19 @@ keywords = ['ai words', 'nothing']
 /ˈnʌθɪŋ/
 
 ## 释义
-- **代词**: 没有东西；没有任何事物。例如: "There is nothing in the fridge."
-- **名词**: 无价值或无关紧要的事物。例如: "It's nothing to worry about."
+- **代词**: 没有东西；没有任何事物。例如: "[There](/post/there/) is [nothing](/post/nothing/) [in](/post/in/) [the](/post/the/) [fridge](/post/fridge/)."
+- **名词**: 无价值或无关紧要的事物。例如: "It's [nothing](/post/nothing/) [to](/post/to/) [worry](/post/worry/) [about](/post/about/)."
 
 ## 短语
-- "not amount to nothing" 意味着没有价值或不重要。
-- "make nothing of" 表示对某事轻描淡写，不把它当回事。
+- "[not](/post/not/) [amount](/post/amount/) [to](/post/to/) [nothing](/post/nothing/)" 意味着没有价值或不重要。
+- "[make](/post/make/) [nothing](/post/nothing/) [of](/post/of/)" 表示对某事轻描淡写，不把它当回事。
 
 ## 例句
-- 代词: "I asked her for help, but she could offer nothing."
-- 名词: "His efforts were reduced to nothing in the end."
+- 代词: "I asked [her](/post/her/) [for](/post/for/) [help](/post/help/), [but](/post/but/) [she](/post/she/) [could](/post/could/) [offer](/post/offer/) [nothing](/post/nothing/)."
+- 名词: "[His](/post/his/) efforts were reduced [to](/post/to/) [nothing](/post/nothing/) [in](/post/in/) [the](/post/the/) [end](/post/end/)."
 
 ## 同义词
-- None
+- [None](/post/none/)
 - Nada
 - Zilch
 - Nil

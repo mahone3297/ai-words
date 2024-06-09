@@ -11,20 +11,20 @@ keywords = ['ai words', 'fame']
 /feɪm/
 
 ## 释义
-- **名词 (n)**: 名声，声誉。例如: "She achieved great fame as a singer."
-- **动词 (v)**: 使著名，扬名。例如: "His discoveries fame him in the scientific community."
+- **名词 (n)**: 名声，声誉。例如: "[She](/post/she/) achieved [great](/post/great/) [fame](/post/fame/) [as](/post/as/) [a](/post/a/) [singer](/post/singer/)."
+- **动词 (v)**: 使著名，扬名。例如: "[His](/post/his/) discoveries [fame](/post/fame/) [him](/post/him/) [in](/post/in/) [the](/post/the/) [scientific](/post/scientific/) [community](/post/community/)."
 
 ## 短语
-- "Fame and fortune" 意为名利双收。
-- "To seek fame" 是追求名声的意思。
+- "[Fame](/post/fame/) [and](/post/and/) [fortune](/post/fortune/)" 意为名利双收。
+- "[To](/post/to/) [seek](/post/seek/) [fame](/post/fame/)" 是追求名声的意思。
 
 ## 例句
-- 名词: "Her fame spread quickly after her first album was released."
-- 动词: "His paintings fame him across the art world."
+- 名词: "[Her](/post/her/) [fame](/post/fame/) [spread](/post/spread/) [quickly](/post/quickly/) [after](/post/after/) [her](/post/her/) [first](/post/first/) album was released."
+- 动词: "[His](/post/his/) paintings [fame](/post/fame/) [him](/post/him/) [across](/post/across/) [the](/post/the/) [art](/post/art/) [world](/post/world/)."
 
 ## 同义词
 - Renown
 - Celebrity
 - Notoriety
-- Reputation
+- [Reputation](/post/reputation/)
 - Acclaim

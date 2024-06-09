@@ -11,17 +11,17 @@ keywords = ['ai words', 'naval']
 /ˈneɪvəl/
 
 ## 释义
-- **形容词**: 与海军或海军建筑相关的。例如: "The naval base is located on the coast."
-- **名词**: 海军，海军部队。例如: "He serves in the British naval force."
+- **形容词**: 与海军或海军建筑相关的。例如: "[The](/post/the/) [naval](/post/naval/) [base](/post/base/) is located [on](/post/on/) [the](/post/the/) [coast](/post/coast/)."
+- **名词**: 海军，海军部队。例如: "[He](/post/he/) serves [in](/post/in/) [the](/post/the/) British [naval](/post/naval/) [force](/post/force/)."
 
 ## 短语
-- "naval fleet" 指海军舰队。
-- "naval warfare" 指海战。
-- "naval officer" 是海军军官的意思。
+- "[naval](/post/naval/) [fleet](/post/fleet/)" 指海军舰队。
+- "[naval](/post/naval/) warfare" 指海战。
+- "[naval](/post/naval/) [officer](/post/officer/)" 是海军军官的意思。
 
 ## 例句
-- 形容词: "The naval academy trains future officers for the navy."
-- 名词: "The two countries held a joint naval exercise in the Pacific."
+- 形容词: "[The](/post/the/) [naval](/post/naval/) [academy](/post/academy/) trains [future](/post/future/) officers [for](/post/for/) [the](/post/the/) [navy](/post/navy/)."
+- 名词: "[The](/post/the/) [two](/post/two/) countries held [a](/post/a/) [joint](/post/joint/) [naval](/post/naval/) [exercise](/post/exercise/) [in](/post/in/) [the](/post/the/) [Pacific](/post/pacific/)."
 
 ## 同义词
 - Maritime

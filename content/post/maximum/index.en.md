@@ -7,30 +7,30 @@ description = '[ˈmæksiməm] n.最大量 a.最大的'
 keywords = ['ai words', 'maximum']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈmæk.sɪ.məm/
 
 ## Definitions
-- **Noun (n)**: The greatest quantity or amount possible, attainable, or allowed; the upper limit. For example: "The maximum speed limit on this road is 60 mph."
-- **Adjective (adj)**: Being the greatest or highest possible under specific conditions; most extreme. For example: "This is the maximum dosage recommended by the doctor."
+- **[Noun](/en/post/noun/) (n)**: [The](/en/post/the/) greatest [quantity](/en/post/quantity/) [or](/en/post/or/) [amount](/en/post/amount/) [possible](/en/post/possible/), attainable, [or](/en/post/or/) allowed; [the](/en/post/the/) [upper](/en/post/upper/) [limit](/en/post/limit/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [maximum](/en/post/maximum/) [speed](/en/post/speed/) [limit](/en/post/limit/) [on](/en/post/on/) [this](/en/post/this/) [road](/en/post/road/) is 60 mph."
+- **[Adjective](/en/post/adjective/) (adj)**: [Being](/en/post/being/) [the](/en/post/the/) greatest [or](/en/post/or/) highest [possible](/en/post/possible/) [under](/en/post/under/) [specific](/en/post/specific/) conditions; [most](/en/post/most/) [extreme](/en/post/extreme/). [For](/en/post/for/) [example](/en/post/example/): "[This](/en/post/this/) is [the](/en/post/the/) [maximum](/en/post/maximum/) dosage recommended [by](/en/post/by/) [the](/en/post/the/) [doctor](/en/post/doctor/)."
 
 ### Phrases
-- "Maximum capacity": The largest number of people or things that can be accommodated or dealt with.
-- "Maximum benefit": The greatest advantage or good that can be derived from something.
-- "At maximum efficiency": Operating at the highest level of effectiveness or productivity.
+- "[Maximum](/en/post/maximum/) [capacity](/en/post/capacity/)": [The](/en/post/the/) largest [number](/en/post/number/) [of](/en/post/of/) [people](/en/post/people/) [or](/en/post/or/) things [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) accommodated [or](/en/post/or/) dealt [with](/en/post/with/).
+- "[Maximum](/en/post/maximum/) [benefit](/en/post/benefit/)": [The](/en/post/the/) greatest [advantage](/en/post/advantage/) [or](/en/post/or/) [good](/en/post/good/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) derived [from](/en/post/from/) [something](/en/post/something/).
+- "[At](/en/post/at/) [maximum](/en/post/maximum/) [efficiency](/en/post/efficiency/)": Operating [at](/en/post/at/) [the](/en/post/the/) highest [level](/en/post/level/) [of](/en/post/of/) effectiveness [or](/en/post/or/) productivity.
 
-## Example Sentences
-- **Noun**: "We reached our fundraising goal, achieving the maximum donation possible."
-- **Adjective**: "The car's engine runs at maximum power when pushed to its limits."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[We](/en/post/we/) reached [our](/en/post/our/) fundraising [goal](/en/post/goal/), achieving [the](/en/post/the/) [maximum](/en/post/maximum/) donation [possible](/en/post/possible/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) car's [engine](/en/post/engine/) runs [at](/en/post/at/) [maximum](/en/post/maximum/) [power](/en/post/power/) [when](/en/post/when/) pushed [to](/en/post/to/) [its](/en/post/its/) limits."
 
 ## Synonyms
-- Utmost
-- Maximum extent
-- Limit
+- [Utmost](/en/post/utmost/)
+- [Maximum](/en/post/maximum/) [extent](/en/post/extent/)
+- [Limit](/en/post/limit/)
 - Apex
-- Peak
+- [Peak](/en/post/peak/)
 - Summit
-- Top
-- Upper limit
-- Highest point
+- [Top](/en/post/top/)
+- [Upper](/en/post/upper/) [limit](/en/post/limit/)
+- Highest [point](/en/post/point/)
 - Optimum

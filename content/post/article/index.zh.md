@@ -11,27 +11,27 @@ keywords = ['ai words', 'article']
 /ˈɑːrtɪkl/
 
 ## 释义
-- **名词 (n)**: 文章，论文；(报纸、杂志等中的)特写；(法律、条约等的)条款；冠词（a, an, the）。
-    - 例如: "She wrote an interesting article on climate change."
-    - 例如: "The contract contains several important articles."
-    - 例如: "In English, we use the definite article 'the' before singular countable nouns."
+- **名词 (n)**: 文章，论文；(报纸、杂志等中的)特写；(法律、条约等的)条款；冠词（[a](/post/a/), an, [the](/post/the/)）。
+    - 例如: "[She](/post/she/) wrote an [interesting](/post/interesting/) [article](/post/article/) [on](/post/on/) [climate](/post/climate/) [change](/post/change/)."
+    - 例如: "[The](/post/the/) [contract](/post/contract/) contains [several](/post/several/) [important](/post/important/) articles."
+    - 例如: "[In](/post/in/) English, [we](/post/we/) [use](/post/use/) [the](/post/the/) [definite](/post/definite/) [article](/post/article/) '[the](/post/the/)' [before](/post/before/) [singular](/post/singular/) countable nouns."
 
 - **形容词 (adj)**: 特定的，具体的；文章的；(商品)非必需品的。
-    - 例如: "We need to buy some new household articles."
-    - 例如: "This is an article of clothing that never goes out of style."
+    - 例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [some](/post/some/) [new](/post/new/) [household](/post/household/) articles."
+    - 例如: "[This](/post/this/) is an [article](/post/article/) [of](/post/of/) [clothing](/post/clothing/) [that](/post/that/) [never](/post/never/) goes [out](/post/out/) [of](/post/of/) [style](/post/style/)."
 
 ## 短语
-- "An article of faith" 指信仰的一个条目。
-- "Articles of incorporation" 在公司法中指的是公司章程。
-- "Articles of agreement" 指的是合同条款。
+- "An [article](/post/article/) [of](/post/of/) [faith](/post/faith/)" 指信仰的一个条目。
+- "Articles [of](/post/of/) incorporation" 在公司法中指的是公司章程。
+- "Articles [of](/post/of/) [agreement](/post/agreement/)" 指的是合同条款。
 
 ## 例句
-- 名词: "The magazine's latest article discusses the benefits of meditation."
-- 形容词: "The store sells a variety of articles for home decoration."
+- 名词: "[The](/post/the/) magazine's latest [article](/post/article/) discusses [the](/post/the/) benefits [of](/post/of/) meditation."
+- 形容词: "[The](/post/the/) [store](/post/store/) sells [a](/post/a/) [variety](/post/variety/) [of](/post/of/) articles [for](/post/for/) [home](/post/home/) decoration."
 
 ## 同义词
-- Piece
-- Composition
-- Writing
-- Essay
-- Item
+- [Piece](/post/piece/)
+- [Composition](/post/composition/)
+- [Writing](/post/writing/)
+- [Essay](/post/essay/)
+- [Item](/post/item/)

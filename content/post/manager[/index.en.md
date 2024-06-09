@@ -7,33 +7,33 @@ description = 'ˈmænidʒə] n.经理，管理人'
 keywords = ['ai words', 'manager[']
 +++
 
-## Word: Manager
+## [Word](/en/post/word/): Manager
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈmænɪdʒər/
 
 ## Definitions
-- **Noun**: A person who is responsible for controlling or administering all or part of a company or similar organization, or for running a business. They supervise employees, make decisions, and ensure that objectives are met efficiently. Example: "The store manager was praised for increasing sales last quarter."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [responsible](/en/post/responsible/) [for](/en/post/for/) controlling [or](/en/post/or/) administering [all](/en/post/all/) [or](/en/post/or/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [company](/en/post/company/) [or](/en/post/or/) [similar](/en/post/similar/) [organization](/en/post/organization/), [or](/en/post/or/) [for](/en/post/for/) running [a](/en/post/a/) [business](/en/post/business/). [They](/en/post/they/) supervise employees, [make](/en/post/make/) decisions, [and](/en/post/and/) [ensure](/en/post/ensure/) [that](/en/post/that/) objectives are met efficiently. [Example](/en/post/example/): "[The](/en/post/the/) [store](/en/post/store/) manager was praised [for](/en/post/for/) increasing sales [last](/en/post/last/) [quarter](/en/post/quarter/)."
 
-Example Sentence: "She was promoted to be the new project manager overseeing a team of 10 developers."
+[Example](/en/post/example/) [Sentence](/en/post/sentence/): "[She](/en/post/she/) was promoted [to](/en/post/to/) [be](/en/post/be/) [the](/en/post/the/) [new](/en/post/new/) [project](/en/post/project/) manager overseeing [a](/en/post/a/) [team](/en/post/team/) [of](/en/post/of/) 10 developers."
 
 Phrases:
-- "Middle manager": An employee whose role is between upper management and front-line staff.
-- "Managerial skills": The abilities required to plan, organize, direct, and control resources to achieve specific goals.
-- "Line manager": A direct supervisor who has immediate responsibility for managing other employees.
+- "[Middle](/en/post/middle/) manager": An [employee](/en/post/employee/) [whose](/en/post/whose/) [role](/en/post/role/) is [between](/en/post/between/) [upper](/en/post/upper/) [management](/en/post/management/) [and](/en/post/and/) front-line [staff](/en/post/staff/).
+- "Managerial skills": [The](/en/post/the/) abilities required [to](/en/post/to/) [plan](/en/post/plan/), [organize](/en/post/organize/), [direct](/en/post/direct/), [and](/en/post/and/) [control](/en/post/control/) resources [to](/en/post/to/) [achieve](/en/post/achieve/) [specific](/en/post/specific/) goals.
+- "[Line](/en/post/line/) manager": [A](/en/post/a/) [direct](/en/post/direct/) supervisor [who](/en/post/who/) has [immediate](/en/post/immediate/) [responsibility](/en/post/responsibility/) [for](/en/post/for/) managing [other](/en/post/other/) employees.
 
-## Example Sentences
-- **Noun**: "As a financial manager, he's responsible for preparing the annual budget."
-- "The restaurant manager interviewed several candidates for the position of head chef."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[As](/en/post/as/) [a](/en/post/a/) [financial](/en/post/financial/) manager, he's [responsible](/en/post/responsible/) [for](/en/post/for/) preparing [the](/en/post/the/) [annual](/en/post/annual/) budget."
+- "[The](/en/post/the/) [restaurant](/en/post/restaurant/) manager interviewed [several](/en/post/several/) candidates [for](/en/post/for/) [the](/en/post/the/) [position](/en/post/position/) [of](/en/post/of/) [head](/en/post/head/) chef."
 
 ## Synonyms
 - Supervisor
-- Director
+- [Director](/en/post/director/)
 - Administrator
-- Executive
+- [Executive](/en/post/executive/)
 - Controller
 - Coordinator
-- Leader
-- Head (of department)
-- Boss
+- [Leader](/en/post/leader/)
+- [Head](/en/post/head/) ([of](/en/post/of/) [department](/en/post/department/))
+- [Boss](/en/post/boss/)
 - Superintendent

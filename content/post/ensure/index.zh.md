@@ -12,21 +12,21 @@ keywords = ['ai words', 'ensure']
 
 ## 释义
 - **动词**:
-1. 确保；保证：确保某事发生或完成。例如: "Please ensure that all windows are closed before you leave."
-2. 使确信；使有把握：使某人对某事有信心。例如: "The safety measures ensure the workers' protection."
+1. 确保；保证：确保某事发生或完成。例如: "[Please](/post/please/) [ensure](/post/ensure/) [that](/post/that/) [all](/post/all/) windows are closed [before](/post/before/) [you](/post/you/) [leave](/post/leave/)."
+2. 使确信；使有把握：使某人对某事有信心。例如: "[The](/post/the/) [safety](/post/safety/) measures [ensure](/post/ensure/) [the](/post/the/) workers' [protection](/post/protection/)."
 
 ## 短语
-- "ensure against" 防止，避免：例如: "Make sure to ensure against any potential risks."
-- "ensure success" 确保成功：例如: "The preparation and planning will help ensure the project's success."
+- "[ensure](/post/ensure/) [against](/post/against/)" 防止，避免：例如: "[Make](/post/make/) [sure](/post/sure/) [to](/post/to/) [ensure](/post/ensure/) [against](/post/against/) [any](/post/any/) [potential](/post/potential/) risks."
+- "[ensure](/post/ensure/) [success](/post/success/)" 确保成功：例如: "[The](/post/the/) [preparation](/post/preparation/) [and](/post/and/) planning [will](/post/will/) [help](/post/help/) [ensure](/post/ensure/) [the](/post/the/) project's [success](/post/success/)."
 
 ## 例句
-- "The company has taken steps to ensure customer satisfaction."
-- "Before flying, double-check your luggage to ensure you haven't forgotten anything important."
-- "The insurance policy will ensure that you're financially covered in case of an accident."
+- "[The](/post/the/) [company](/post/company/) has taken steps [to](/post/to/) [ensure](/post/ensure/) [customer](/post/customer/) [satisfaction](/post/satisfaction/)."
+- "[Before](/post/before/) flying, double-check [your](/post/your/) [luggage](/post/luggage/) [to](/post/to/) [ensure](/post/ensure/) [you](/post/you/) haven't forgotten [anything](/post/anything/) [important](/post/important/)."
+- "[The](/post/the/) [insurance](/post/insurance/) [policy](/post/policy/) [will](/post/will/) [ensure](/post/ensure/) [that](/post/that/) you're financially covered [in](/post/in/) [case](/post/case/) [of](/post/of/) an [accident](/post/accident/)."
 
 ## 同义词
-- guarantee
-- assure
-- secure
-- make sure
-- confirm
+- [guarantee](/post/guarantee/)
+- [assure](/post/assure/)
+- [secure](/post/secure/)
+- [make](/post/make/) [sure](/post/sure/)
+- [confirm](/post/confirm/)

@@ -7,40 +7,40 @@ description = '[ˈsɔləm] a.庄严的；隆重的'
 keywords = ['ai words', 'solemn']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈsəʊləm/
 
 ## Definitions
-### Noun
-A solemn noun refers to a serious, grave, or solemn event, ceremony, or atmosphere. It can also describe a person who appears or behaves with grave dignity or seriousness.
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) [solemn](/en/post/solemn/) [noun](/en/post/noun/) refers [to](/en/post/to/) [a](/en/post/a/) [serious](/en/post/serious/), [grave](/en/post/grave/), [or](/en/post/or/) [solemn](/en/post/solemn/) [event](/en/post/event/), [ceremony](/en/post/ceremony/), [or](/en/post/or/) [atmosphere](/en/post/atmosphere/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [describe](/en/post/describe/) [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) appears [or](/en/post/or/) behaves [with](/en/post/with/) [grave](/en/post/grave/) dignity [or](/en/post/or/) seriousness.
 
-### Verb
-To solemnly (verb) means to perform or conduct something with great formality, gravity, or seriousness. It can also describe the act of expressing deep respect or sorrow.
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) solemnly ([verb](/en/post/verb/)) [means](/en/post/means/) [to](/en/post/to/) [perform](/en/post/perform/) [or](/en/post/or/) [conduct](/en/post/conduct/) [something](/en/post/something/) [with](/en/post/with/) [great](/en/post/great/) formality, [gravity](/en/post/gravity/), [or](/en/post/or/) seriousness. [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [describe](/en/post/describe/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) expressing [deep](/en/post/deep/) [respect](/en/post/respect/) [or](/en/post/or/) [sorrow](/en/post/sorrow/).
 
-### Adjective
-Solemn (adjective) describes something that is solemnly conducted, characterized by solemnity, or having a serious, grave, or formal quality.
+### [Adjective](/en/post/adjective/)
+[Solemn](/en/post/solemn/) ([adjective](/en/post/adjective/)) describes [something](/en/post/something/) [that](/en/post/that/) is solemnly conducted, characterized [by](/en/post/by/) solemnity, [or](/en/post/or/) having [a](/en/post/a/) [serious](/en/post/serious/), [grave](/en/post/grave/), [or](/en/post/or/) [formal](/en/post/formal/) [quality](/en/post/quality/).
 
-### Adverb
-Solemnly (adverb) modifies actions or expressions, indicating they are done with great seriousness or gravity.
+### [Adverb](/en/post/adverb/)
+Solemnly ([adverb](/en/post/adverb/)) modifies actions [or](/en/post/or/) expressions, indicating [they](/en/post/they/) are done [with](/en/post/with/) [great](/en/post/great/) seriousness [or](/en/post/or/) [gravity](/en/post/gravity/).
 
 ## Phrases
-- "A solemn vow" refers to a serious promise or commitment.
-- "A solemn ceremony" denotes a serious and dignified event, often with religious or memorial significance.
-- "Solemn silence" indicates a heavy or respectful quietness.
+- "[A](/en/post/a/) [solemn](/en/post/solemn/) vow" refers [to](/en/post/to/) [a](/en/post/a/) [serious](/en/post/serious/) [promise](/en/post/promise/) [or](/en/post/or/) commitment.
+- "[A](/en/post/a/) [solemn](/en/post/solemn/) [ceremony](/en/post/ceremony/)" denotes [a](/en/post/a/) [serious](/en/post/serious/) [and](/en/post/and/) dignified [event](/en/post/event/), [often](/en/post/often/) [with](/en/post/with/) [religious](/en/post/religious/) [or](/en/post/or/) [memorial](/en/post/memorial/) [significance](/en/post/significance/).
+- "[Solemn](/en/post/solemn/) [silence](/en/post/silence/)" indicates [a](/en/post/a/) [heavy](/en/post/heavy/) [or](/en/post/or/) [respectful](/en/post/respectful/) quietness.
 
-## Example Sentences
-- **Noun**: The funeral was a solemn affair, filled with grief and respect.
-- **Verb**: He solemnly swore never to forget their shared history.
-- **Adjective**: She wore a solemn expression as she listened to the eulogy.
-- **Adverb**: He entered the church solemnly, pausing to bow his head in prayer.
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [funeral](/en/post/funeral/) was [a](/en/post/a/) [solemn](/en/post/solemn/) [affair](/en/post/affair/), filled [with](/en/post/with/) grief [and](/en/post/and/) [respect](/en/post/respect/).
+- **[Verb](/en/post/verb/)**: [He](/en/post/he/) solemnly swore [never](/en/post/never/) [to](/en/post/to/) [forget](/en/post/forget/) [their](/en/post/their/) shared [history](/en/post/history/).
+- **[Adjective](/en/post/adjective/)**: [She](/en/post/she/) wore [a](/en/post/a/) [solemn](/en/post/solemn/) [expression](/en/post/expression/) [as](/en/post/as/) [she](/en/post/she/) listened [to](/en/post/to/) [the](/en/post/the/) eulogy.
+- **[Adverb](/en/post/adverb/)**: [He](/en/post/he/) entered [the](/en/post/the/) [church](/en/post/church/) solemnly, pausing [to](/en/post/to/) [bow](/en/post/bow/) [his](/en/post/his/) [head](/en/post/head/) [in](/en/post/in/) [prayer](/en/post/prayer/).
 
 ## Synonyms
-- Grave
+- [Grave](/en/post/grave/)
 - Solemnly
-- Formal
-- Respectful
+- [Formal](/en/post/formal/)
+- [Respectful](/en/post/respectful/)
 - Funereal
-- Sad
+- [Sad](/en/post/sad/)
 - Solemnity
 - Weighty
-- Earnest
+- [Earnest](/en/post/earnest/)

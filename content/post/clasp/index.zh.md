@@ -11,20 +11,20 @@ keywords = ['ai words', 'clasp']
 /klæsp/
 
 ## 释义
-- **名词**: 金属扣环或钩子，常用于连接或固定物品。例如: "The bracelet has a secure clasp that won't come undone easily."
-- **动词**: 紧紧抓住或合拢。例如: "She clasped her hands together in excitement."
+- **名词**: 金属扣环或钩子，常用于连接或固定物品。例如: "[The](/post/the/) bracelet has [a](/post/a/) [secure](/post/secure/) [clasp](/post/clasp/) [that](/post/that/) won't [come](/post/come/) undone [easily](/post/easily/)."
+- **动词**: 紧紧抓住或合拢。例如: "[She](/post/she/) clasped [her](/post/her/) hands [together](/post/together/) [in](/post/in/) excitement."
 
 ## 短语
-- "clasp someone's hand" 握手。
-- "clasp one's arms around someone" 拥抱某人。
+- "[clasp](/post/clasp/) someone's [hand](/post/hand/)" 握手。
+- "[clasp](/post/clasp/) one's arms [around](/post/around/) [someone](/post/someone/)" 拥抱某人。
 
 ## 例句
-- 名词: "The necklace had a delicate gold clasp that added elegance to the design."
-- 动词: "He clasped his fingers around the handle of the suitcase tightly."
+- 名词: "[The](/post/the/) [necklace](/post/necklace/) had [a](/post/a/) [delicate](/post/delicate/) [gold](/post/gold/) [clasp](/post/clasp/) [that](/post/that/) added elegance [to](/post/to/) [the](/post/the/) [design](/post/design/)."
+- 动词: "[He](/post/he/) clasped [his](/post/his/) fingers [around](/post/around/) [the](/post/the/) [handle](/post/handle/) [of](/post/of/) [the](/post/the/) suitcase tightly."
 
 ## 同义词
-- fasten
-- grip
-- hold
-- seize
-- embrace
+- [fasten](/post/fasten/)
+- [grip](/post/grip/)
+- [hold](/post/hold/)
+- [seize](/post/seize/)
+- [embrace](/post/embrace/)

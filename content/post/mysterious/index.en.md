@@ -7,30 +7,30 @@ description = '[misˈtiəriəs] a.神秘的；难以理解的'
 keywords = ['ai words', 'mysterious']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˌmɪstəˈriəs/
 
 ## Definitions
-- **Adjective**: Impenetrably secret or obscure; hard to understand or explain. It often describes something that has a sense of intrigue or unknown quality about it.
+- **[Adjective](/en/post/adjective/)**: Impenetrably [secret](/en/post/secret/) [or](/en/post/or/) obscure; [hard](/en/post/hard/) [to](/en/post/to/) [understand](/en/post/understand/) [or](/en/post/or/) [explain](/en/post/explain/). [It](/en/post/it/) [often](/en/post/often/) describes [something](/en/post/something/) [that](/en/post/that/) has [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) intrigue [or](/en/post/or/) [unknown](/en/post/unknown/) [quality](/en/post/quality/) [about](/en/post/about/) [it](/en/post/it/).
 
-  - _Example Sentence_: The old mansion had a mysterious air about it, with its overgrown gardens and boarded-up windows.
+  - _Example Sentence_: [The](/en/post/the/) [old](/en/post/old/) mansion had [a](/en/post/a/) [mysterious](/en/post/mysterious/) [air](/en/post/air/) [about](/en/post/about/) [it](/en/post/it/), [with](/en/post/with/) [its](/en/post/its/) overgrown gardens [and](/en/post/and/) boarded-up windows.
 
-- **Noun (Derived Form):** Something that is mysterious; a mystery. This usage is less common than the adjective form.
+- **[Noun](/en/post/noun/) (Derived [Form](/en/post/form/)):** [Something](/en/post/something/) [that](/en/post/that/) is [mysterious](/en/post/mysterious/); [a](/en/post/a/) [mystery](/en/post/mystery/). [This](/en/post/this/) [usage](/en/post/usage/) is [less](/en/post/less/) [common](/en/post/common/) [than](/en/post/than/) [the](/en/post/the/) [adjective](/en/post/adjective/) [form](/en/post/form/).
 
-  - _Example Sentence_: The unsolved crime remained a mysterious enigma for decades.
+  - _Example Sentence_: [The](/en/post/the/) unsolved [crime](/en/post/crime/) remained [a](/en/post/a/) [mysterious](/en/post/mysterious/) enigma [for](/en/post/for/) decades.
 
 ## Phrases
-- "Mysterious ways": Refers to the unpredictable or inexplicable methods by which things happen, especially when attributed to divine intervention.
+- "[Mysterious](/en/post/mysterious/) ways": Refers [to](/en/post/to/) [the](/en/post/the/) unpredictable [or](/en/post/or/) inexplicable methods [by](/en/post/by/) [which](/en/post/which/) things [happen](/en/post/happen/), [especially](/en/post/especially/) [when](/en/post/when/) attributed [to](/en/post/to/) divine intervention.
   
-  - _Example Sentence_: She believed that fate worked in mysterious ways.
+  - _Example Sentence_: [She](/en/post/she/) believed [that](/en/post/that/) [fate](/en/post/fate/) worked [in](/en/post/in/) [mysterious](/en/post/mysterious/) ways.
 
-- "The mysterious stranger": A trope in literature referring to an unfamiliar character who arrives unexpectedly and whose intentions or backstory are initially unclear.
+- "[The](/en/post/the/) [mysterious](/en/post/mysterious/) [stranger](/en/post/stranger/)": [A](/en/post/a/) trope [in](/en/post/in/) [literature](/en/post/literature/) referring [to](/en/post/to/) an unfamiliar [character](/en/post/character/) [who](/en/post/who/) arrives unexpectedly [and](/en/post/and/) [whose](/en/post/whose/) intentions [or](/en/post/or/) backstory are initially unclear.
 
-  - _Example Sentence_: The arrival of the mysterious stranger turned the peaceful village upside down.
+  - _Example Sentence_: [The](/en/post/the/) [arrival](/en/post/arrival/) [of](/en/post/of/) [the](/en/post/the/) [mysterious](/en/post/mysterious/) [stranger](/en/post/stranger/) turned [the](/en/post/the/) [peaceful](/en/post/peaceful/) [village](/en/post/village/) upside [down](/en/post/down/).
 
-## Example Sentences
-- _Adjective:_ There's something mysterious about the unopened letter left on the doorstep.
-- _Noun (Derived Form):_ The mysterious entity lurking in the forest sparked fear among the villagers.
+## [Example](/en/post/example/) Sentences
+- _Adjective:_ There's [something](/en/post/something/) [mysterious](/en/post/mysterious/) [about](/en/post/about/) [the](/en/post/the/) unopened [letter](/en/post/letter/) [left](/en/post/left/) [on](/en/post/on/) [the](/en/post/the/) doorstep.
+- _Noun (Derived [Form](/en/post/form/)):_ [The](/en/post/the/) [mysterious](/en/post/mysterious/) entity lurking [in](/en/post/in/) [the](/en/post/the/) [forest](/en/post/forest/) sparked [fear](/en/post/fear/) [among](/en/post/among/) [the](/en/post/the/) villagers.
 
 ## Synonyms
 - Enigmatic

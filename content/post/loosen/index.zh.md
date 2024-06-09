@@ -11,20 +11,20 @@ keywords = ['ai words', 'loosen']
 /ˈluːzn/
 
 ## 释义
-- **动词**: 使变得宽松；解开，放松。例如: "Loosen the knot before it becomes too tight."
-- **形容词**: 宽松的，不紧的。例如: "The collar of his shirt was loosen, so he adjusted it."
+- **动词**: 使变得宽松；解开，放松。例如: "[Loosen](/post/loosen/) [the](/post/the/) [knot](/post/knot/) [before](/post/before/) [it](/post/it/) becomes [too](/post/too/) [tight](/post/tight/)."
+- **形容词**: 宽松的，不紧的。例如: "[The](/post/the/) [collar](/post/collar/) [of](/post/of/) [his](/post/his/) [shirt](/post/shirt/) was [loosen](/post/loosen/), [so](/post/so/) [he](/post/he/) adjusted [it](/post/it/)."
 
 ## 短语
-- "loosen up" 意味着放松，不那么紧张。例如: "Before the performance, they did some stretches to loosen up."
-- "loosen one's grip" 表示放宽控制或减弱影响力。例如: "To improve creativity, the manager needs to loosen their grip on the team."
+- "[loosen](/post/loosen/) [up](/post/up/)" 意味着放松，不那么紧张。例如: "[Before](/post/before/) [the](/post/the/) [performance](/post/performance/), [they](/post/they/) did [some](/post/some/) stretches [to](/post/to/) [loosen](/post/loosen/) [up](/post/up/)."
+- "[loosen](/post/loosen/) one's [grip](/post/grip/)" 表示放宽控制或减弱影响力。例如: "[To](/post/to/) [improve](/post/improve/) creativity, [the](/post/the/) manager needs [to](/post/to/) [loosen](/post/loosen/) [their](/post/their/) [grip](/post/grip/) [on](/post/on/) [the](/post/the/) [team](/post/team/)."
 
 ## 例句
-- 动词: "Please loosen the screw with a wrench."
-- 形容词: "The newly designed dress has a loosen fit for added comfort."
+- 动词: "[Please](/post/please/) [loosen](/post/loosen/) [the](/post/the/) [screw](/post/screw/) [with](/post/with/) [a](/post/a/) wrench."
+- 形容词: "[The](/post/the/) [newly](/post/newly/) designed [dress](/post/dress/) has [a](/post/a/) [loosen](/post/loosen/) [fit](/post/fit/) [for](/post/for/) added [comfort](/post/comfort/)."
 
 ## 同义词
-- Relax
+- [Relax](/post/relax/)
 - Untighten
 - Unfasten
-- Ease up
-- Make more slack
+- [Ease](/post/ease/) [up](/post/up/)
+- [Make](/post/make/) [more](/post/more/) slack

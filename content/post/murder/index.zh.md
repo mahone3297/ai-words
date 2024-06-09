@@ -11,20 +11,20 @@ keywords = ['ai words', 'murder']
 /mɜːˈdər/
 
 ## 释义
-- **名词**: 故意非法杀害一个人，尤指有预谋的凶杀。例如: "The murderer was sentenced to life imprisonment."
-- **动词**: 杀害（某人），尤指非法地或蓄意地。例如: "He was murdered in his own home."
+- **名词**: 故意非法杀害一个人，尤指有预谋的凶杀。例如: "[The](/post/the/) [murderer](/post/murderer/) was sentenced [to](/post/to/) [life](/post/life/) imprisonment."
+- **动词**: 杀害（某人），尤指非法地或蓄意地。例如: "[He](/post/he/) was murdered [in](/post/in/) [his](/post/his/) [own](/post/own/) [home](/post/home/)."
 
 ## 短语
-- "Cold-blooded murder" 指冷静而有预谋的凶杀。
-- "Murder trial" 是指对被指控杀人的人进行的审判。
+- "Cold-blooded [murder](/post/murder/)" 指冷静而有预谋的凶杀。
+- "[Murder](/post/murder/) [trial](/post/trial/)" 是指对被指控杀人的人进行的审判。
 
 ## 例句
-- 名词: "The police are investigating a murder that took place last night."
-- 动词: "She was murdered by her jealous ex-partner."
+- 名词: "[The](/post/the/) [police](/post/police/) are investigating [a](/post/a/) [murder](/post/murder/) [that](/post/that/) took [place](/post/place/) [last](/post/last/) [night](/post/night/)."
+- 动词: "[She](/post/she/) was murdered [by](/post/by/) [her](/post/her/) [jealous](/post/jealous/) ex-partner."
 
 ## 同义词
-- Kill
+- [Kill](/post/kill/)
 - Assassinate
 - Homicide
 - Slay
-- Execute (in the context of illegal killing)
+- [Execute](/post/execute/) ([in](/post/in/) [the](/post/the/) context [of](/post/of/) [illegal](/post/illegal/) killing)

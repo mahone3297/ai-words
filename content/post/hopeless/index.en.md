@@ -7,30 +7,30 @@ description = '[ˈhəuplis] a.没有希望的，绝望的'
 keywords = ['ai words', 'hopeless']
 +++
 
-## Word: Hopeless
+## [Word](/en/post/word/): [Hopeless](/en/post/hopeless/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈhoʊpləs/
 
 ## Definitions
-- **Adjective**: Without hope; having no expectation of success or improvement. For example: "The situation seems hopeless, but we mustn't give up."
+- **[Adjective](/en/post/adjective/)**: [Without](/en/post/without/) [hope](/en/post/hope/); having [no](/en/post/no/) [expectation](/en/post/expectation/) [of](/en/post/of/) [success](/en/post/success/) [or](/en/post/or/) [improvement](/en/post/improvement/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [situation](/en/post/situation/) seems [hopeless](/en/post/hopeless/), [but](/en/post/but/) [we](/en/post/we/) mustn't [give](/en/post/give/) [up](/en/post/up/)."
 
-  > Example Sentence: After the storm destroyed their home, they felt utterly hopeless about rebuilding it.
+  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): [After](/en/post/after/) [the](/en/post/the/) [storm](/en/post/storm/) destroyed [their](/en/post/their/) [home](/en/post/home/), [they](/en/post/they/) felt utterly [hopeless](/en/post/hopeless/) [about](/en/post/about/) rebuilding [it](/en/post/it/).
 
-- **Adj (informal)**: So bad or difficult that nothing can be done to improve it. For example: "His performance was hopeless; he clearly hadn't practiced enough."
+- **Adj (informal)**: [So](/en/post/so/) [bad](/en/post/bad/) [or](/en/post/or/) [difficult](/en/post/difficult/) [that](/en/post/that/) [nothing](/en/post/nothing/) [can](/en/post/can/) [be](/en/post/be/) done [to](/en/post/to/) [improve](/en/post/improve/) [it](/en/post/it/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [performance](/en/post/performance/) was [hopeless](/en/post/hopeless/); [he](/en/post/he/) [clearly](/en/post/clearly/) hadn't practiced [enough](/en/post/enough/)."
 
-  > Example Sentence: The team's chances of winning were hopeless after losing their star player.
+  > [Example](/en/post/example/) [Sentence](/en/post/sentence/): [The](/en/post/the/) team's chances [of](/en/post/of/) winning were [hopeless](/en/post/hopeless/) [after](/en/post/after/) losing [their](/en/post/their/) [star](/en/post/star/) [player](/en/post/player/).
 
 ## Phrases
-- "Hopelessly lost": Describes someone who is so disoriented that they cannot find their way back.
-- "Hopelessly in love": Expresses strong affection towards someone with little chance of reciprocation or a successful outcome.
+- "Hopelessly lost": Describes [someone](/en/post/someone/) [who](/en/post/who/) is [so](/en/post/so/) disoriented [that](/en/post/that/) [they](/en/post/they/) cannot [find](/en/post/find/) [their](/en/post/their/) [way](/en/post/way/) [back](/en/post/back/).
+- "Hopelessly [in](/en/post/in/) [love](/en/post/love/)": Expresses [strong](/en/post/strong/) [affection](/en/post/affection/) towards [someone](/en/post/someone/) [with](/en/post/with/) [little](/en/post/little/) [chance](/en/post/chance/) [of](/en/post/of/) reciprocation [or](/en/post/or/) [a](/en/post/a/) [successful](/en/post/successful/) [outcome](/en/post/outcome/).
   
-## Example Sentences
-- **Adjective**: "The patient's condition had become hopeless, and the doctors decided to focus on palliative care."
-- **Informal Adjective**: "Their attempts to fix the old car were hopeless; it was beyond repair."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) patient's [condition](/en/post/condition/) had [become](/en/post/become/) [hopeless](/en/post/hopeless/), [and](/en/post/and/) [the](/en/post/the/) doctors decided [to](/en/post/to/) [focus](/en/post/focus/) [on](/en/post/on/) palliative [care](/en/post/care/)."
+- **Informal [Adjective](/en/post/adjective/)**: "[Their](/en/post/their/) attempts [to](/en/post/to/) [fix](/en/post/fix/) [the](/en/post/the/) [old](/en/post/old/) [car](/en/post/car/) were [hopeless](/en/post/hopeless/); [it](/en/post/it/) was [beyond](/en/post/beyond/) [repair](/en/post/repair/)."
 
 ## Synonyms
-- Desperate
+- [Desperate](/en/post/desperate/)
 - Futile
 - Bleak
 - Dire
@@ -38,4 +38,4 @@ keywords = ['ai words', 'hopeless']
 - Unsalvageable
 - Disheartening
 - Discouraging
-- In despair
+- [In](/en/post/in/) [despair](/en/post/despair/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'cordial']
 /ˈkɔːrdiəl/
 
 ## 释义
-- **形容词**: 热情的，亲切的，友好的。例如: "She received us with a cordial smile."
-- **名词**: 糖果，尤其是含有草药或香料的糖果。例如: "He offered her a cordial as a digestif after dinner."
+- **形容词**: 热情的，亲切的，友好的。例如: "[She](/post/she/) received [us](/post/us/) [with](/post/with/) [a](/post/a/) [cordial](/post/cordial/) [smile](/post/smile/)."
+- **名词**: 糖果，尤其是含有草药或香料的糖果。例如: "[He](/post/he/) offered [her](/post/her/) [a](/post/a/) [cordial](/post/cordial/) [as](/post/as/) [a](/post/a/) digestif [after](/post/after/) [dinner](/post/dinner/)."
 
 ## 短语
-- "cordial greeting" 表示热情的问候。
-- "a cordial relationship" 指关系融洽，友好相处。
+- "[cordial](/post/cordial/) [greeting](/post/greeting/)" 表示热情的问候。
+- "[a](/post/a/) [cordial](/post/cordial/) [relationship](/post/relationship/)" 指关系融洽，友好相处。
 
 ## 例句
-- 形容词: "The host greeted us with a cordial welcome."
-- 名词: "She enjoyed a cordial after her meal to soothe her throat."
+- 形容词: "[The](/post/the/) [host](/post/host/) greeted [us](/post/us/) [with](/post/with/) [a](/post/a/) [cordial](/post/cordial/) [welcome](/post/welcome/)."
+- 名词: "[She](/post/she/) enjoyed [a](/post/a/) [cordial](/post/cordial/) [after](/post/after/) [her](/post/her/) [meal](/post/meal/) [to](/post/to/) soothe [her](/post/her/) [throat](/post/throat/)."
 
 ## 同义词
-- Friendly
-- Warm
-- Generous
+- [Friendly](/post/friendly/)
+- [Warm](/post/warm/)
+- [Generous](/post/generous/)
 - Hospitable
 - Amiable

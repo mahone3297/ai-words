@@ -11,20 +11,20 @@ keywords = ['ai words', 'hasty']
 /hæsti/
 
 ## 释义
-- **形容词**: 迅速的，匆忙的，草率的。例如: "He made a hasty decision without considering all the options."
-- **副词**: 匆忙地，草率地。例如: "She left the house hasty, forgetting her keys."
+- **形容词**: 迅速的，匆忙的，草率的。例如: "[He](/post/he/) made [a](/post/a/) [hasty](/post/hasty/) [decision](/post/decision/) [without](/post/without/) considering [all](/post/all/) [the](/post/the/) options."
+- **副词**: 匆忙地，草率地。例如: "[She](/post/she/) [left](/post/left/) [the](/post/the/) [house](/post/house/) [hasty](/post/hasty/), forgetting [her](/post/her/) keys."
 
 ## 短语
-- "hasty retreat" 意为迅速撤退。
-- "hasty judgment" 指的是仓促的判断。
+- "[hasty](/post/hasty/) [retreat](/post/retreat/)" 意为迅速撤退。
+- "[hasty](/post/hasty/) judgment" 指的是仓促的判断。
 
 ## 例句
-- 形容词: "Due to his hasty nature, he often makes mistakes."
-- 副词: "She wrote the letter hasty and it was full of typos."
+- 形容词: "[Due](/post/due/) [to](/post/to/) [his](/post/his/) [hasty](/post/hasty/) [nature](/post/nature/), [he](/post/he/) [often](/post/often/) makes mistakes."
+- 副词: "[She](/post/she/) wrote [the](/post/the/) [letter](/post/letter/) [hasty](/post/hasty/) [and](/post/and/) [it](/post/it/) was [full](/post/full/) [of](/post/of/) typos."
 
 ## 同义词
 - Rushed
 - Impulsive
 - Haphazard
-- Swift
+- [Swift](/post/swift/)
 - Brusque

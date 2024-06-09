@@ -12,20 +12,20 @@ keywords = ['ai words', 'southern']
 
 ## 释义
 - **形容词**: 
-   - 位于或源自南方的；南部的。例如: "The southern states of the US have a distinct culture."
-   - 指方向或位置在下方的。例如: "The sun sets in the western sky, and rises in the eastern."
-   - 温和的，温暖的（指气候）。例如: "Southern Europe enjoys a Mediterranean climate."
+   - 位于或源自南方的；南部的。例如: "[The](/post/the/) [southern](/post/southern/) states [of](/post/of/) [the](/post/the/) [US](/post/us/) [have](/post/have/) [a](/post/a/) [distinct](/post/distinct/) [culture](/post/culture/)."
+   - 指方向或位置在下方的。例如: "[The](/post/the/) [sun](/post/sun/) sets [in](/post/in/) [the](/post/the/) [western](/post/western/) [sky](/post/sky/), [and](/post/and/) rises [in](/post/in/) [the](/post/the/) [eastern](/post/eastern/)."
+   - 温和的，温暖的（指气候）。例如: "[Southern](/post/southern/) Europe enjoys [a](/post/a/) Mediterranean [climate](/post/climate/)."
 
 ## 短语
-- "Southern hospitality" 指南方人的热情款待。
-- "Southern charm" 形容南方人特有的魅力和礼貌。
+- "[Southern](/post/southern/) hospitality" 指南方人的热情款待。
+- "[Southern](/post/southern/) charm" 形容南方人特有的魅力和礼貌。
 
 ## 例句
-- 形容词: "She comes from a small town in the southern part of the country."
-- "The southern coast is known for its beautiful beaches and warm weather."
+- 形容词: "[She](/post/she/) comes [from](/post/from/) [a](/post/a/) [small](/post/small/) [town](/post/town/) [in](/post/in/) [the](/post/the/) [southern](/post/southern/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [country](/post/country/)."
+- "[The](/post/the/) [southern](/post/southern/) [coast](/post/coast/) is known [for](/post/for/) [its](/post/its/) [beautiful](/post/beautiful/) beaches [and](/post/and/) [warm](/post/warm/) [weather](/post/weather/)."
 
 ## 同义词
-- Southern 可以用以下词汇替换，但具体含义可能略有不同：
+- [Southern](/post/southern/) 可以用以下词汇替换，但具体含义可能略有不同：
   - Southward
   - Southernly
   - Southeastern

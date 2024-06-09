@@ -14,17 +14,17 @@ keywords = ['ai words', 'sunlight']
 - **名词**: 太阳光；日光。指太阳发出的光线或者白天的光照。
 
 ## 短语
-- "bask in the sunlight" 意为在阳光下取暖或享受阳光。
-- "sunlight hours" 指日照时间，即一天中有阳光照射的时间。
+- "bask [in](/post/in/) [the](/post/the/) [sunlight](/post/sunlight/)" 意为在阳光下取暖或享受阳光。
+- "[sunlight](/post/sunlight/) hours" 指日照时间，即一天中有阳光照射的时间。
 
 ## 例句
-- "The plants need plenty of sunlight to grow."
-- "She sat in the window, enjoying the warmth of the sunlight."
-- "We have long sunlight hours in summer."
+- "[The](/post/the/) plants [need](/post/need/) [plenty](/post/plenty/) [of](/post/of/) [sunlight](/post/sunlight/) [to](/post/to/) [grow](/post/grow/)."
+- "[She](/post/she/) sat [in](/post/in/) [the](/post/the/) [window](/post/window/), enjoying [the](/post/the/) [warmth](/post/warmth/) [of](/post/of/) [the](/post/the/) [sunlight](/post/sunlight/)."
+- "[We](/post/we/) [have](/post/have/) [long](/post/long/) [sunlight](/post/sunlight/) hours [in](/post/in/) [summer](/post/summer/)."
 
 ## 同义词
-- sunshine
-- daylight
+- [sunshine](/post/sunshine/)
+- [daylight](/post/daylight/)
 - rays
-- beam
-- glow
+- [beam](/post/beam/)
+- [glow](/post/glow/)

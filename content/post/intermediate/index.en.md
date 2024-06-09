@@ -7,30 +7,30 @@ description = '[ˌintəˈmiːdjət] a.中间/级的'
 keywords = ['ai words', 'intermediate']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˌɪntərˈmiːdiət/
 
 ## Definitions
-- **Adjective**: Being between two extremes or stages; not advanced or complete; coming or occurring at a time between two others. Example: "She's taking an intermediate course in Spanish."
-  - _As a Noun_: A person who occupies an intermediate position, rank, or degree. Example: "The intermediate students excelled in their exams."
+- **[Adjective](/en/post/adjective/)**: [Being](/en/post/being/) [between](/en/post/between/) [two](/en/post/two/) extremes [or](/en/post/or/) stages; [not](/en/post/not/) [advanced](/en/post/advanced/) [or](/en/post/or/) [complete](/en/post/complete/); coming [or](/en/post/or/) occurring [at](/en/post/at/) [a](/en/post/a/) [time](/en/post/time/) [between](/en/post/between/) [two](/en/post/two/) others. [Example](/en/post/example/): "She's taking an [intermediate](/en/post/intermediate/) [course](/en/post/course/) [in](/en/post/in/) Spanish."
+  - _As [a](/en/post/a/) Noun_: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) occupies an [intermediate](/en/post/intermediate/) [position](/en/post/position/), [rank](/en/post/rank/), [or](/en/post/or/) [degree](/en/post/degree/). [Example](/en/post/example/): "[The](/en/post/the/) [intermediate](/en/post/intermediate/) students excelled [in](/en/post/in/) [their](/en/post/their/) exams."
   
-- **Verb (rarer usage)**: To act as an intermediary or middleman. Example: "The organization intermediated between the conflicting parties to resolve the issue."
+- **[Verb](/en/post/verb/) (rarer [usage](/en/post/usage/))**: [To](/en/post/to/) [act](/en/post/act/) [as](/en/post/as/) an intermediary [or](/en/post/or/) middleman. [Example](/en/post/example/): "[The](/en/post/the/) [organization](/en/post/organization/) intermediated [between](/en/post/between/) [the](/en/post/the/) conflicting parties [to](/en/post/to/) [resolve](/en/post/resolve/) [the](/en/post/the/) [issue](/en/post/issue/)."
 
 ## Phrases
-- "Intermediate level": Refers to a stage of learning or proficiency that lies between beginner and advanced levels.
-- "Intermediate stage": Denotes a period between two significant phases or steps in a process.
-- "Intermediate step": An action or event that occurs in the middle of a series of actions or events.
+- "[Intermediate](/en/post/intermediate/) [level](/en/post/level/)": Refers [to](/en/post/to/) [a](/en/post/a/) [stage](/en/post/stage/) [of](/en/post/of/) [learning](/en/post/learning/) [or](/en/post/or/) proficiency [that](/en/post/that/) lies [between](/en/post/between/) [beginner](/en/post/beginner/) [and](/en/post/and/) [advanced](/en/post/advanced/) levels.
+- "[Intermediate](/en/post/intermediate/) [stage](/en/post/stage/)": Denotes [a](/en/post/a/) [period](/en/post/period/) [between](/en/post/between/) [two](/en/post/two/) [significant](/en/post/significant/) phases [or](/en/post/or/) steps [in](/en/post/in/) [a](/en/post/a/) [process](/en/post/process/).
+- "[Intermediate](/en/post/intermediate/) [step](/en/post/step/)": An [action](/en/post/action/) [or](/en/post/or/) [event](/en/post/event/) [that](/en/post/that/) occurs [in](/en/post/in/) [the](/en/post/the/) [middle](/en/post/middle/) [of](/en/post/of/) [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) actions [or](/en/post/or/) events.
 
-## Example Sentences
-- **Adjective**: "She has reached an intermediate skill level in playing the piano."
-- _As a Noun_: "The school offers courses for both beginners and intermediates alike."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) has reached an [intermediate](/en/post/intermediate/) [skill](/en/post/skill/) [level](/en/post/level/) [in](/en/post/in/) playing [the](/en/post/the/) [piano](/en/post/piano/)."
+- _As [a](/en/post/a/) Noun_: "[The](/en/post/the/) [school](/en/post/school/) offers courses [for](/en/post/for/) [both](/en/post/both/) beginners [and](/en/post/and/) intermediates [alike](/en/post/alike/)."
 
 ## Synonyms
-- Middle
+- [Middle](/en/post/middle/)
 - Medial
 - In-between
 - Transitional
 - Intermediary
 - Mid-level
-- Intermediate state
+- [Intermediate](/en/post/intermediate/) [state](/en/post/state/)
 - Semi-advanced

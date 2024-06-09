@@ -11,20 +11,20 @@ keywords = ['ai words', 'seaport']
 /seɪpɔːrt/
 
 ## 释义
-- **名词**: 位于海边或河口，供船只停泊和货物装卸的港口。例如: "The city's economy relies heavily on its busy seaport."
-- **形容词**: 与海洋或内陆水道相连的，设有码头的。例如: "The seaport town has a long history of maritime trade."
+- **名词**: 位于海边或河口，供船只停泊和货物装卸的港口。例如: "[The](/post/the/) city's [economy](/post/economy/) relies [heavily](/post/heavily/) [on](/post/on/) [its](/post/its/) [busy](/post/busy/) [seaport](/post/seaport/)."
+- **形容词**: 与海洋或内陆水道相连的，设有码头的。例如: "[The](/post/the/) [seaport](/post/seaport/) [town](/post/town/) has [a](/post/a/) [long](/post/long/) [history](/post/history/) [of](/post/of/) maritime [trade](/post/trade/)."
 
 ## 短语
-- "Seaport city" 指设有海港的城市。
-- "Cargo handling at the seaport" 指在海港进行的货物处理活动。
+- "[Seaport](/post/seaport/) [city](/post/city/)" 指设有海港的城市。
+- "[Cargo](/post/cargo/) handling [at](/post/at/) [the](/post/the/) [seaport](/post/seaport/)" 指在海港进行的货物处理活动。
 
 ## 例句
-- 名词: "Ships from all over the world dock at the bustling seaport."
-- 形容词: "The seaport hotel offers stunning views of the ocean."
+- 名词: "Ships [from](/post/from/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [world](/post/world/) [dock](/post/dock/) [at](/post/at/) [the](/post/the/) bustling [seaport](/post/seaport/)."
+- 形容词: "[The](/post/the/) [seaport](/post/seaport/) [hotel](/post/hotel/) offers stunning views [of](/post/of/) [the](/post/the/) [ocean](/post/ocean/)."
 
 ## 同义词
-- Port
+- [Port](/post/port/)
 - Harbor
-- Dock
+- [Dock](/post/dock/)
 - Marina
 - Quay

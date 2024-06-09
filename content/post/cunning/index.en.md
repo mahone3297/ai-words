@@ -7,35 +7,35 @@ description = '[ˈkʌniŋ] a.狡猾的，狡诈的'
 keywords = ['ai words', 'cunning']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kʌnɪŋ/
 
 ## Definitions
-- **Adjective**: Skilled in achieving one's aims by indirect or deceitful means; clever and resourceful. *Example: He showed remarkable cunning in escaping from the trap.*
-- **Verb**: To act cunningly; to be crafty or sly in one's actions or plans. *Example: She cunningly avoided answering the question.*
+- **[Adjective](/en/post/adjective/)**: [Skilled](/en/post/skilled/) [in](/en/post/in/) achieving one's aims [by](/en/post/by/) [indirect](/en/post/indirect/) [or](/en/post/or/) deceitful [means](/en/post/means/); [clever](/en/post/clever/) [and](/en/post/and/) resourceful. *[Example](/en/post/example/): [He](/en/post/he/) showed [remarkable](/en/post/remarkable/) [cunning](/en/post/cunning/) [in](/en/post/in/) escaping [from](/en/post/from/) [the](/en/post/the/) [trap](/en/post/trap/).*
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [act](/en/post/act/) cunningly; [to](/en/post/to/) [be](/en/post/be/) crafty [or](/en/post/or/) [sly](/en/post/sly/) [in](/en/post/in/) one's actions [or](/en/post/or/) plans. *[Example](/en/post/example/): [She](/en/post/she/) cunningly avoided answering [the](/en/post/the/) [question](/en/post/question/).*
 
 ## Phrases
-- "Cunning plan" refers to a clever or devious strategy.
-- "He displayed his cunning" indicates that someone has shown their ability to be cleverly manipulative.
-- "Don't be outdone by their cunning" warns against being tricked by someone's clever tactics.
+- "[Cunning](/en/post/cunning/) [plan](/en/post/plan/)" refers [to](/en/post/to/) [a](/en/post/a/) [clever](/en/post/clever/) [or](/en/post/or/) devious [strategy](/en/post/strategy/).
+- "[He](/en/post/he/) displayed [his](/en/post/his/) [cunning](/en/post/cunning/)" indicates [that](/en/post/that/) [someone](/en/post/someone/) has shown [their](/en/post/their/) [ability](/en/post/ability/) [to](/en/post/to/) [be](/en/post/be/) cleverly manipulative.
+- "Don't [be](/en/post/be/) outdone [by](/en/post/by/) [their](/en/post/their/) [cunning](/en/post/cunning/)" warns [against](/en/post/against/) [being](/en/post/being/) tricked [by](/en/post/by/) someone's [clever](/en/post/clever/) tactics.
 
-## Example Sentences
-- **Adjective**: "The thief was cunning enough to escape without leaving any traces."
-- **Verb**: "She cunningly negotiated a better deal for her company."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [thief](/en/post/thief/) was [cunning](/en/post/cunning/) [enough](/en/post/enough/) [to](/en/post/to/) [escape](/en/post/escape/) [without](/en/post/without/) leaving [any](/en/post/any/) traces."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) cunningly negotiated [a](/en/post/a/) [better](/en/post/better/) [deal](/en/post/deal/) [for](/en/post/for/) [her](/en/post/her/) [company](/en/post/company/)."
 
 ## Synonyms
-- Clever
+- [Clever](/en/post/clever/)
 - Artful
 - Deceitful
-- Sly
+- [Sly](/en/post/sly/)
 - Resourceful
 - Shrewd
 - Slyly
 
 ## Antonyms
-- Foolish
+- [Foolish](/en/post/foolish/)
 - Naive
 - Straightforward
 - Inexperienced
 - Unwitting
-- Stupid
+- [Stupid](/en/post/stupid/)

@@ -16,17 +16,17 @@ keywords = ['ai words', 'era']
     - 王朝，纪元：指一个国家或地区由特定家族或领袖统治的时期。
 
 ## 短语
-- "the era of peace" 意为和平时代。
-- "the Ming dynasty era" 指明朝时期。
+- "[the](/post/the/) [era](/post/era/) [of](/post/of/) [peace](/post/peace/)" 意为和平时代。
+- "[the](/post/the/) Ming dynasty [era](/post/era/)" 指明朝时期。
 
 ## 例句
-- "We're living in the digital era, where technology has transformed our lives."
-- "The Roman Empire was a significant era in human history."
-- "Her reign marked the beginning of a new era for the country."
+- "We're [living](/post/living/) [in](/post/in/) [the](/post/the/) [digital](/post/digital/) [era](/post/era/), [where](/post/where/) [technology](/post/technology/) has transformed [our](/post/our/) lives."
+- "[The](/post/the/) Roman [Empire](/post/empire/) was [a](/post/a/) [significant](/post/significant/) [era](/post/era/) [in](/post/in/) [human](/post/human/) [history](/post/history/)."
+- "[Her](/post/her/) [reign](/post/reign/) marked [the](/post/the/) [beginning](/post/beginning/) [of](/post/of/) [a](/post/a/) [new](/post/new/) [era](/post/era/) [for](/post/for/) [the](/post/the/) [country](/post/country/)."
 
 ## 同义词
-- Period
-- Age
+- [Period](/post/period/)
+- [Age](/post/age/)
 - Epoch
-- Time
-- Phase
+- [Time](/post/time/)
+- [Phase](/post/phase/)

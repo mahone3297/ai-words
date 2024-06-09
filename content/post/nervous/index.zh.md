@@ -11,21 +11,21 @@ keywords = ['ai words', 'nervous']
 /ˈnɜːr.vəs/
 
 ## 释义
-- **形容词**: 表示紧张、焦虑或神经质的。例如: "I feel a bit nervous before the interview."
-- **副词**: 形容行为或动作因紧张而显得不自然或小心翼翼。例如: "She spoke nervously, her voice shaking."
+- **形容词**: 表示紧张、焦虑或神经质的。例如: "I [feel](/post/feel/) [a](/post/a/) [bit](/post/bit/) [nervous](/post/nervous/) [before](/post/before/) [the](/post/the/) [interview](/post/interview/)."
+- **副词**: 形容行为或动作因紧张而显得不自然或小心翼翼。例如: "[She](/post/she/) spoke nervously, [her](/post/her/) [voice](/post/voice/) shaking."
 
 ## 短语
-- "nervous energy" 指紧张不安的能量或情绪。
-- "get nervous" 意味变得紧张或焦虑。
-- "nervous system" 指神经系统，人体的生理系统。
+- "[nervous](/post/nervous/) [energy](/post/energy/)" 指紧张不安的能量或情绪。
+- "[get](/post/get/) [nervous](/post/nervous/)" 意味变得紧张或焦虑。
+- "[nervous](/post/nervous/) [system](/post/system/)" 指神经系统，人体的生理系统。
 
 ## 例句
-- 形容词: "The first time I performed on stage, I was incredibly nervous."
-- 副词: "When he saw the police, he started driving nervously."
+- 形容词: "[The](/post/the/) [first](/post/first/) [time](/post/time/) I performed [on](/post/on/) [stage](/post/stage/), I was incredibly [nervous](/post/nervous/)."
+- 副词: "[When](/post/when/) [he](/post/he/) [saw](/post/saw/) [the](/post/the/) [police](/post/police/), [he](/post/he/) started driving nervously."
 
 ## 同义词
-- anxious
-- tense
+- [anxious](/post/anxious/)
+- [tense](/post/tense/)
 - edgy
-- uneasy
+- [uneasy](/post/uneasy/)
 - jumpy

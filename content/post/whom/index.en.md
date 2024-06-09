@@ -7,30 +7,30 @@ description = '[huːm] pron.(宾格)谁'
 keywords = ['ai words', 'whom']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /hoʊm/
 
 ## Definitions
-- **Pronoun**: A word used to refer to someone, typically used after a verb, to indicate the person being addressed or spoken about. It is the objective form of the pronoun "who." In questions and indirect speech, "whom" is often replaced by "who" for informal register.
+- **[Pronoun](/en/post/pronoun/)**: [A](/en/post/a/) [word](/en/post/word/) [used](/en/post/used/) [to](/en/post/to/) [refer](/en/post/refer/) [to](/en/post/to/) [someone](/en/post/someone/), typically [used](/en/post/used/) [after](/en/post/after/) [a](/en/post/a/) [verb](/en/post/verb/), [to](/en/post/to/) [indicate](/en/post/indicate/) [the](/en/post/the/) [person](/en/post/person/) [being](/en/post/being/) addressed [or](/en/post/or/) spoken [about](/en/post/about/). [It](/en/post/it/) is [the](/en/post/the/) [objective](/en/post/objective/) [form](/en/post/form/) [of](/en/post/of/) [the](/en/post/the/) [pronoun](/en/post/pronoun/) "[who](/en/post/who/)." [In](/en/post/in/) questions [and](/en/post/and/) [indirect](/en/post/indirect/) [speech](/en/post/speech/), "[whom](/en/post/whom/)" is [often](/en/post/often/) replaced [by](/en/post/by/) "[who](/en/post/who/)" [for](/en/post/for/) informal [register](/en/post/register/).
 
-## Usage
-- **Subject**: Rarely used as the subject of a sentence, but commonly found as the object of a verb or preposition. E.g., "To whom did you give the book?"
-- **Object**: Often used as the object of a preposition or after a direct question word (e.g., who, which). E.g., "The letter was addressed to John Smith."
+## [Usage](/en/post/usage/)
+- **[Subject](/en/post/subject/)**: [Rarely](/en/post/rarely/) [used](/en/post/used/) [as](/en/post/as/) [the](/en/post/the/) [subject](/en/post/subject/) [of](/en/post/of/) [a](/en/post/a/) [sentence](/en/post/sentence/), [but](/en/post/but/) [commonly](/en/post/commonly/) [found](/en/post/found/) [as](/en/post/as/) [the](/en/post/the/) [object](/en/post/object/) [of](/en/post/of/) [a](/en/post/a/) [verb](/en/post/verb/) [or](/en/post/or/) [preposition](/en/post/preposition/). E.g., "[To](/en/post/to/) [whom](/en/post/whom/) did [you](/en/post/you/) [give](/en/post/give/) [the](/en/post/the/) [book](/en/post/book/)?"
+- **[Object](/en/post/object/)**: [Often](/en/post/often/) [used](/en/post/used/) [as](/en/post/as/) [the](/en/post/the/) [object](/en/post/object/) [of](/en/post/of/) [a](/en/post/a/) [preposition](/en/post/preposition/) [or](/en/post/or/) [after](/en/post/after/) [a](/en/post/a/) [direct](/en/post/direct/) [question](/en/post/question/) [word](/en/post/word/) (e.g., [who](/en/post/who/), [which](/en/post/which/)). E.g., "[The](/en/post/the/) [letter](/en/post/letter/) was addressed [to](/en/post/to/) John Smith."
 
 ## Phrases
-- "Whom do you want to speak to?"
-- "Whom did you invite to the party?"
-- "Whom shall I tell that you're coming?"
+- "[Whom](/en/post/whom/) [do](/en/post/do/) [you](/en/post/you/) [want](/en/post/want/) [to](/en/post/to/) [speak](/en/post/speak/) [to](/en/post/to/)?"
+- "[Whom](/en/post/whom/) did [you](/en/post/you/) [invite](/en/post/invite/) [to](/en/post/to/) [the](/en/post/the/) [party](/en/post/party/)?"
+- "[Whom](/en/post/whom/) [shall](/en/post/shall/) I [tell](/en/post/tell/) [that](/en/post/that/) you're coming?"
 
-## Example Sentences
-- "I asked her whom she was waiting for."
-- "Could you please pass the book to the person whom you just met?"
-- "Whom did you see at the concert last night?"
+## [Example](/en/post/example/) Sentences
+- "I asked [her](/en/post/her/) [whom](/en/post/whom/) [she](/en/post/she/) was waiting [for](/en/post/for/)."
+- "[Could](/en/post/could/) [you](/en/post/you/) [please](/en/post/please/) [pass](/en/post/pass/) [the](/en/post/the/) [book](/en/post/book/) [to](/en/post/to/) [the](/en/post/the/) [person](/en/post/person/) [whom](/en/post/whom/) [you](/en/post/you/) [just](/en/post/just/) met?"
+- "[Whom](/en/post/whom/) did [you](/en/post/you/) [see](/en/post/see/) [at](/en/post/at/) [the](/en/post/the/) [concert](/en/post/concert/) [last](/en/post/last/) [night](/en/post/night/)?"
 
 ## Synonyms
-- Who (informal)
-- (Rarely) Him (when referring to a male person)
-- Her (when referring to a female person)
-- Them (when referring to a group)
+- [Who](/en/post/who/) (informal)
+- ([Rarely](/en/post/rarely/)) [Him](/en/post/him/) ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [male](/en/post/male/) [person](/en/post/person/))
+- [Her](/en/post/her/) ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [female](/en/post/female/) [person](/en/post/person/))
+- [Them](/en/post/them/) ([when](/en/post/when/) referring [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/))
 
-Note: "Whom" is considered outdated in many contemporary English-speaking contexts, with "who" being the more common choice in both formal and informal situations. However, it is still used in some formal writing, poetry, and when avoiding ambiguity.
+[Note](/en/post/note/): "[Whom](/en/post/whom/)" is considered outdated [in](/en/post/in/) [many](/en/post/many/) [contemporary](/en/post/contemporary/) English-speaking contexts, [with](/en/post/with/) "[who](/en/post/who/)" [being](/en/post/being/) [the](/en/post/the/) [more](/en/post/more/) [common](/en/post/common/) [choice](/en/post/choice/) [in](/en/post/in/) [both](/en/post/both/) [formal](/en/post/formal/) [and](/en/post/and/) informal situations. [However](/en/post/however/), [it](/en/post/it/) is [still](/en/post/still/) [used](/en/post/used/) [in](/en/post/in/) [some](/en/post/some/) [formal](/en/post/formal/) [writing](/en/post/writing/), [poetry](/en/post/poetry/), [and](/en/post/and/) [when](/en/post/when/) avoiding ambiguity.

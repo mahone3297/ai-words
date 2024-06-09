@@ -7,39 +7,39 @@ description = '[ˈsimpəθi] n.同情；一致，同感'
 keywords = ['ai words', 'sympathy']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /səˈmɪθi/
 
 ## Definitions
-### Noun
-**Sympathy**: The feeling of deep concern and understanding for someone else's suffering, often expressed by words or actions of comfort.
+### [Noun](/en/post/noun/)
+**[Sympathy](/en/post/sympathy/)**: [The](/en/post/the/) [feeling](/en/post/feeling/) [of](/en/post/of/) [deep](/en/post/deep/) [concern](/en/post/concern/) [and](/en/post/and/) [understanding](/en/post/understanding/) [for](/en/post/for/) [someone](/en/post/someone/) else's suffering, [often](/en/post/often/) expressed [by](/en/post/by/) words [or](/en/post/or/) actions [of](/en/post/of/) [comfort](/en/post/comfort/).
 
-### Verb
-**Sympathize**: To share or express compassion, understanding, or sorrow for someone else's misfortune.
+### [Verb](/en/post/verb/)
+**[Sympathize](/en/post/sympathize/)**: [To](/en/post/to/) [share](/en/post/share/) [or](/en/post/or/) [express](/en/post/express/) compassion, [understanding](/en/post/understanding/), [or](/en/post/or/) [sorrow](/en/post/sorrow/) [for](/en/post/for/) [someone](/en/post/someone/) else's misfortune.
 
-### Adjective
-**Sympathetic**: Having or showing feelings of understanding and concern for others' suffering.
+### [Adjective](/en/post/adjective/)
+**[Sympathetic](/en/post/sympathetic/)**: Having [or](/en/post/or/) showing feelings [of](/en/post/of/) [understanding](/en/post/understanding/) [and](/en/post/and/) [concern](/en/post/concern/) [for](/en/post/for/) others' suffering.
 
-### Adverb
-**Sympathetically**: In a way that expresses sympathy or understanding.
+### [Adverb](/en/post/adverb/)
+**Sympathetically**: [In](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) expresses [sympathy](/en/post/sympathy/) [or](/en/post/or/) [understanding](/en/post/understanding/).
 
 ## Phrases
-- "Offer sympathy" means to express condolences or support.
-- "Show sympathy" is to demonstrate understanding and concern.
-- "In sympathy with" indicates agreement or understanding of a particular viewpoint or situation.
+- "[Offer](/en/post/offer/) [sympathy](/en/post/sympathy/)" [means](/en/post/means/) [to](/en/post/to/) [express](/en/post/express/) condolences [or](/en/post/or/) [support](/en/post/support/).
+- "[Show](/en/post/show/) [sympathy](/en/post/sympathy/)" is [to](/en/post/to/) [demonstrate](/en/post/demonstrate/) [understanding](/en/post/understanding/) [and](/en/post/and/) [concern](/en/post/concern/).
+- "[In](/en/post/in/) [sympathy](/en/post/sympathy/) [with](/en/post/with/)" indicates [agreement](/en/post/agreement/) [or](/en/post/or/) [understanding](/en/post/understanding/) [of](/en/post/of/) [a](/en/post/a/) [particular](/en/post/particular/) [viewpoint](/en/post/viewpoint/) [or](/en/post/or/) [situation](/en/post/situation/).
 
-## Example Sentences
-- **Noun**: "She received an outpouring of sympathy after her loss."
-- **Verb**: "He sympathized with her when she told him about her recent breakup."
-- **Adjective**: "The teacher was sympathetic towards the student struggling with the assignment."
-- **Adverb**: "She handled the news of their illness with great sympathy."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) received an outpouring [of](/en/post/of/) [sympathy](/en/post/sympathy/) [after](/en/post/after/) [her](/en/post/her/) [loss](/en/post/loss/)."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) sympathized [with](/en/post/with/) [her](/en/post/her/) [when](/en/post/when/) [she](/en/post/she/) told [him](/en/post/him/) [about](/en/post/about/) [her](/en/post/her/) [recent](/en/post/recent/) breakup."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [teacher](/en/post/teacher/) was [sympathetic](/en/post/sympathetic/) towards [the](/en/post/the/) [student](/en/post/student/) struggling [with](/en/post/with/) [the](/en/post/the/) [assignment](/en/post/assignment/)."
+- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) handled [the](/en/post/the/) [news](/en/post/news/) [of](/en/post/of/) [their](/en/post/their/) [illness](/en/post/illness/) [with](/en/post/with/) [great](/en/post/great/) [sympathy](/en/post/sympathy/)."
 
 ## Synonyms
 - Compassion
 - Empathy
-- Sympathetic concern
+- [Sympathetic](/en/post/sympathetic/) [concern](/en/post/concern/)
 - Tenderness
-- Kindness
+- [Kindness](/en/post/kindness/)
 
 ## Antonyms
 - Antipathy

@@ -7,31 +7,31 @@ description = '[biˈsaid] prep.在…旁边'
 keywords = ['ai words', 'beside']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /bɪˈsaɪd/
 
 ## Definitions
-- **Adverb**: In the position or proximity to something else; alongside. For example: "The book is beside the table."
-- **Preposition**: Expressing the relationship of one thing being near to another. For example: "She sat beside her sister at the picnic."
+- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [the](/en/post/the/) [position](/en/post/position/) [or](/en/post/or/) proximity [to](/en/post/to/) [something](/en/post/something/) [else](/en/post/else/); alongside. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [book](/en/post/book/) is [beside](/en/post/beside/) [the](/en/post/the/) [table](/en/post/table/)."
+- **[Preposition](/en/post/preposition/)**: Expressing [the](/en/post/the/) [relationship](/en/post/relationship/) [of](/en/post/of/) [one](/en/post/one/) [thing](/en/post/thing/) [being](/en/post/being/) [near](/en/post/near/) [to](/en/post/to/) [another](/en/post/another/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) sat [beside](/en/post/beside/) [her](/en/post/her/) [sister](/en/post/sister/) [at](/en/post/at/) [the](/en/post/the/) [picnic](/en/post/picnic/)."
 
 ## Phrases
-- "Sit beside someone" means to be next to someone.
-- "Beside the point" indicates something that is not relevant to the main topic.
-- "Lay beside" signifies placing something next to something else.
+- "[Sit](/en/post/sit/) [beside](/en/post/beside/) [someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [be](/en/post/be/) [next](/en/post/next/) [to](/en/post/to/) [someone](/en/post/someone/).
+- "[Beside](/en/post/beside/) [the](/en/post/the/) [point](/en/post/point/)" indicates [something](/en/post/something/) [that](/en/post/that/) is [not](/en/post/not/) [relevant](/en/post/relevant/) [to](/en/post/to/) [the](/en/post/the/) [main](/en/post/main/) [topic](/en/post/topic/).
+- "[Lay](/en/post/lay/) [beside](/en/post/beside/)" signifies placing [something](/en/post/something/) [next](/en/post/next/) [to](/en/post/to/) [something](/en/post/something/) [else](/en/post/else/).
 
-## Example Sentences
-- **Adverb**: "I placed my keys beside the door before leaving."
-- **Preposition**: "The children were playing beside the river, enjoying the sunshine."
-- "She remembered the incident beside the old oak tree from her childhood."
+## [Example](/en/post/example/) Sentences
+- **[Adverb](/en/post/adverb/)**: "I placed [my](/en/post/my/) keys [beside](/en/post/beside/) [the](/en/post/the/) [door](/en/post/door/) [before](/en/post/before/) leaving."
+- **[Preposition](/en/post/preposition/)**: "[The](/en/post/the/) children were playing [beside](/en/post/beside/) [the](/en/post/the/) [river](/en/post/river/), enjoying [the](/en/post/the/) [sunshine](/en/post/sunshine/)."
+- "[She](/en/post/she/) remembered [the](/en/post/the/) [incident](/en/post/incident/) [beside](/en/post/beside/) [the](/en/post/the/) [old](/en/post/old/) [oak](/en/post/oak/) [tree](/en/post/tree/) [from](/en/post/from/) [her](/en/post/her/) [childhood](/en/post/childhood/)."
 
-## Synonyms (adverb)
-- Next to
-- Adjacent to
-- Close by
-- In proximity to
+## Synonyms ([adverb](/en/post/adverb/))
+- [Next](/en/post/next/) [to](/en/post/to/)
+- Adjacent [to](/en/post/to/)
+- [Close](/en/post/close/) [by](/en/post/by/)
+- [In](/en/post/in/) proximity [to](/en/post/to/)
 
-## Synonyms (preposition)
-- At the side of
-- By the side of
+## Synonyms ([preposition](/en/post/preposition/))
+- [At](/en/post/at/) [the](/en/post/the/) [side](/en/post/side/) [of](/en/post/of/)
+- [By](/en/post/by/) [the](/en/post/the/) [side](/en/post/side/) [of](/en/post/of/)
 - Alongside
-- Near to
+- [Near](/en/post/near/) [to](/en/post/to/)

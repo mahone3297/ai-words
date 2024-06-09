@@ -11,20 +11,20 @@ keywords = ['ai words', 'devil']
 /ˈdɛvəl/
 
 ## 释义
-- **名词**: 邪恶的精神或力量，魔鬼，恶魔。例如: "The story is about a battle between good and the devil."
-- **形容词**: 极坏的，非常讨厌的。例如: "He has a devilish temper when he's angry."
+- **名词**: 邪恶的精神或力量，魔鬼，恶魔。例如: "[The](/post/the/) [story](/post/story/) is [about](/post/about/) [a](/post/a/) [battle](/post/battle/) [between](/post/between/) [good](/post/good/) [and](/post/and/) [the](/post/the/) [devil](/post/devil/)."
+- **形容词**: 极坏的，非常讨厌的。例如: "[He](/post/he/) has [a](/post/a/) devilish [temper](/post/temper/) [when](/post/when/) he's [angry](/post/angry/)."
 
 ## 短语
-- "the devil in someone" 指某人内心的邪恶或恶劣本性。
-- "the devil you say" 用于表达惊讶或不相信。
+- "[the](/post/the/) [devil](/post/devil/) [in](/post/in/) [someone](/post/someone/)" 指某人内心的邪恶或恶劣本性。
+- "[the](/post/the/) [devil](/post/devil/) [you](/post/you/) [say](/post/say/)" 用于表达惊讶或不相信。
 
 ## 例句
-- 名词: "Fear of the devil kept him from entering the dark forest."
-- 形容词: "That was a devilish trick you played on me!"
+- 名词: "[Fear](/post/fear/) [of](/post/of/) [the](/post/the/) [devil](/post/devil/) kept [him](/post/him/) [from](/post/from/) entering [the](/post/the/) [dark](/post/dark/) [forest](/post/forest/)."
+- 形容词: "[That](/post/that/) was [a](/post/a/) devilish [trick](/post/trick/) [you](/post/you/) played [on](/post/on/) [me](/post/me/)!"
 
 ## 同义词
 - Satan
-- Evil one
+- [Evil](/post/evil/) [one](/post/one/)
 - Demon
 - Fiend
-- Beast
+- [Beast](/post/beast/)

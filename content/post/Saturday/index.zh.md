@@ -11,17 +11,17 @@ keywords = ['ai words', 'Saturday']
 /ˈsætədeɪ/
 
 ## 释义
-- **名词**：一个星期中的第七天，星期六。例如: "I usually have a relaxing day on Saturday."
+- **名词**：一个星期中的第七天，星期六。例如: "I [usually](/post/usually/) [have](/post/have/) [a](/post/a/) relaxing [day](/post/day/) [on](/post/on/) Saturday."
 
 ## 短语
-- "Saturday night" 常用来指代周末的夜晚活动。
-- "Weekend warrior" 指那些在工作日忙碌，而在周末从事体育或其他活动的人。
+- "Saturday [night](/post/night/)" 常用来指代周末的夜晚活动。
+- "[Weekend](/post/weekend/) warrior" 指那些在工作日忙碌，而在周末从事体育或其他活动的人。
 
 ## 例句
-- "We're planning a picnic for Saturday afternoon."
-- "On Saturday mornings, I like to sleep in and then have a leisurely breakfast."
+- "We're planning [a](/post/a/) [picnic](/post/picnic/) [for](/post/for/) Saturday [afternoon](/post/afternoon/)."
+- "[On](/post/on/) Saturday mornings, I [like](/post/like/) [to](/post/to/) [sleep](/post/sleep/) [in](/post/in/) [and](/post/and/) [then](/post/then/) [have](/post/have/) [a](/post/a/) leisurely [breakfast](/post/breakfast/)."
 
 ## 同义词
-- Weekend day
+- [Weekend](/post/weekend/) [day](/post/day/)
 - Sabbath (尤其在某些宗教中)
-- Day off (通常指工作日后的休息日)
+- [Day](/post/day/) [off](/post/off/) (通常指工作日后的休息日)

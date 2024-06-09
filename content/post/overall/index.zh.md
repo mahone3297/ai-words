@@ -11,21 +11,21 @@ keywords = ['ai words', 'overall']
 /əˈvərɔːl/
 
 ## 释义
-- **形容词**: 总体的，全面的，全部的。例如: "The overall success of the project was impressive."
-- **副词**: 总体上，全部地。例如: "Overall, their performance was satisfactory."
+- **形容词**: 总体的，全面的，全部的。例如: "[The](/post/the/) [overall](/post/overall/) [success](/post/success/) [of](/post/of/) [the](/post/the/) [project](/post/project/) was [impressive](/post/impressive/)."
+- **副词**: 总体上，全部地。例如: "[Overall](/post/overall/), [their](/post/their/) [performance](/post/performance/) was [satisfactory](/post/satisfactory/)."
 
 ## 短语
-- "Overall assessment" 意为全面评估。
-- "Overall picture" 指整体情况或全景。
-- "Overall winner" 指总成绩最优者。
+- "[Overall](/post/overall/) assessment" 意为全面评估。
+- "[Overall](/post/overall/) [picture](/post/picture/)" 指整体情况或全景。
+- "[Overall](/post/overall/) [winner](/post/winner/)" 指总成绩最优者。
 
 ## 例句
-- 形容词: "The company's overall profits have increased this year."
-- 副词: "Overall, the experience was both challenging and rewarding."
+- 形容词: "[The](/post/the/) company's [overall](/post/overall/) profits [have](/post/have/) increased [this](/post/this/) [year](/post/year/)."
+- 副词: "[Overall](/post/overall/), [the](/post/the/) [experience](/post/experience/) was [both](/post/both/) challenging [and](/post/and/) rewarding."
 
 ## 同义词
-- In general
-- As a whole
-- All in all
-- Generally speaking
+- [In](/post/in/) [general](/post/general/)
+- [As](/post/as/) [a](/post/a/) [whole](/post/whole/)
+- [All](/post/all/) [in](/post/in/) [all](/post/all/)
+- [Generally](/post/generally/) speaking
 - En masse

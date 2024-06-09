@@ -11,21 +11,21 @@ keywords = ['ai words', 'unnecessary']
 /ʌnˈnɛsərəri/
 
 ## 释义
-- **形容词**: 不必要的，非必需的，多余的。例如: "It's unnecessary to bring so many bags for a short trip."
-- **名词**: 不必要的事物。例如: "The unnecessary expenses should be cut from the budget."
+- **形容词**: 不必要的，非必需的，多余的。例如: "It's [unnecessary](/post/unnecessary/) [to](/post/to/) [bring](/post/bring/) [so](/post/so/) [many](/post/many/) bags [for](/post/for/) [a](/post/a/) [short](/post/short/) [trip](/post/trip/)."
+- **名词**: 不必要的事物。例如: "[The](/post/the/) [unnecessary](/post/unnecessary/) expenses [should](/post/should/) [be](/post/be/) [cut](/post/cut/) [from](/post/from/) [the](/post/the/) budget."
 
 ## 短语
-- "unnecessary trouble" 不必要的麻烦
-- "unnecessary complexity" 不必要的复杂性
+- "[unnecessary](/post/unnecessary/) [trouble](/post/trouble/)" 不必要的麻烦
+- "[unnecessary](/post/unnecessary/) complexity" 不必要的复杂性
 
 ## 例句
-- "Wearing a suit for a casual dinner is unnecessary."
-- "His explanation contained a lot of unnecessary details."
-- "Avoiding unnecessary conflicts is essential in teamwork."
+- "Wearing [a](/post/a/) [suit](/post/suit/) [for](/post/for/) [a](/post/a/) [casual](/post/casual/) [dinner](/post/dinner/) is [unnecessary](/post/unnecessary/)."
+- "[His](/post/his/) [explanation](/post/explanation/) contained [a](/post/a/) [lot](/post/lot/) [of](/post/of/) [unnecessary](/post/unnecessary/) details."
+- "Avoiding [unnecessary](/post/unnecessary/) conflicts is [essential](/post/essential/) [in](/post/in/) teamwork."
 
 ## 同义词
 - Unneeded
 - Superfluous
-- Excess
+- [Excess](/post/excess/)
 - Inessential
 - Redundant

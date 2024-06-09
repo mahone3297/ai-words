@@ -7,37 +7,37 @@ description = '[smɑːt] a.巧妙的；洒脱的'
 keywords = ['ai words', 'smart']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /smaːrt/
 
 ## Definitions
-- **Adjective**: 1. Displaying intelligence, good sense, or skill; clever. "The child has a very smart solution to the problem."
-   - **Noun**: A person who is intelligent, resourceful, or fashionable. "She's known for her smart fashion choices."
-   - **Verb**: To make something intelligent or intelligent-looking; to equip with intelligence. "They plan to smarten up the old building with new technology."
+- **[Adjective](/en/post/adjective/)**: 1. Displaying [intelligence](/en/post/intelligence/), [good](/en/post/good/) [sense](/en/post/sense/), [or](/en/post/or/) [skill](/en/post/skill/); [clever](/en/post/clever/). "[The](/en/post/the/) [child](/en/post/child/) has [a](/en/post/a/) [very](/en/post/very/) [smart](/en/post/smart/) [solution](/en/post/solution/) [to](/en/post/to/) [the](/en/post/the/) [problem](/en/post/problem/)."
+   - **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [intelligent](/en/post/intelligent/), resourceful, [or](/en/post/or/) [fashionable](/en/post/fashionable/). "She's known [for](/en/post/for/) [her](/en/post/her/) [smart](/en/post/smart/) [fashion](/en/post/fashion/) choices."
+   - **[Verb](/en/post/verb/)**: [To](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) [intelligent](/en/post/intelligent/) [or](/en/post/or/) intelligent-looking; [to](/en/post/to/) [equip](/en/post/equip/) [with](/en/post/with/) [intelligence](/en/post/intelligence/). "[They](/en/post/they/) [plan](/en/post/plan/) [to](/en/post/to/) smarten [up](/en/post/up/) [the](/en/post/the/) [old](/en/post/old/) [building](/en/post/building/) [with](/en/post/with/) [new](/en/post/new/) [technology](/en/post/technology/)."
 
 ## Phrases
-- "Be smart about it" means to approach a situation wisely.
-- "Smart cookies" is a colloquial term for clever or quick-witted individuals.
-- "Smart homes" refer to houses equipped with advanced automation systems.
+- "[Be](/en/post/be/) [smart](/en/post/smart/) [about](/en/post/about/) [it](/en/post/it/)" [means](/en/post/means/) [to](/en/post/to/) [approach](/en/post/approach/) [a](/en/post/a/) [situation](/en/post/situation/) wisely.
+- "[Smart](/en/post/smart/) cookies" is [a](/en/post/a/) colloquial [term](/en/post/term/) [for](/en/post/for/) [clever](/en/post/clever/) [or](/en/post/or/) quick-witted individuals.
+- "[Smart](/en/post/smart/) homes" [refer](/en/post/refer/) [to](/en/post/to/) houses equipped [with](/en/post/with/) [advanced](/en/post/advanced/) [automation](/en/post/automation/) systems.
 
-## Example Sentences
-- **Adjective**: "She solved the complex math problem in a very smart way."
-- **Noun**: "The team was led by their smart captain, who always knew how to adapt."
-- **Verb**: "They smartened up the old car with a state-of-the-art sound system."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) solved [the](/en/post/the/) [complex](/en/post/complex/) math [problem](/en/post/problem/) [in](/en/post/in/) [a](/en/post/a/) [very](/en/post/very/) [smart](/en/post/smart/) [way](/en/post/way/)."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [team](/en/post/team/) was led [by](/en/post/by/) [their](/en/post/their/) [smart](/en/post/smart/) [captain](/en/post/captain/), [who](/en/post/who/) [always](/en/post/always/) knew [how](/en/post/how/) [to](/en/post/to/) [adapt](/en/post/adapt/)."
+- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) smartened [up](/en/post/up/) [the](/en/post/the/) [old](/en/post/old/) [car](/en/post/car/) [with](/en/post/with/) [a](/en/post/a/) state-of-the-art [sound](/en/post/sound/) [system](/en/post/system/)."
 
 ## Synonyms
-- Clever
-- Bright
+- [Clever](/en/post/clever/)
+- [Bright](/en/post/bright/)
 - Astute
-- Intelligent
+- [Intelligent](/en/post/intelligent/)
 - Sharp-witted
 - Resourceful
-- Fashionable
+- [Fashionable](/en/post/fashionable/)
 - Style-conscious
 
 ## Antonyms
-- Foolish
-- Stupid
-- Ignorant
-- Dull
+- [Foolish](/en/post/foolish/)
+- [Stupid](/en/post/stupid/)
+- [Ignorant](/en/post/ignorant/)
+- [Dull](/en/post/dull/)
 - Unintelligent

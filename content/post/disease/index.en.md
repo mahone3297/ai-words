@@ -7,39 +7,39 @@ description = '[diˈziːz] n.病，疾病；病害'
 keywords = ['ai words', 'disease']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /dɪˈziːz/
 
 ## Definitions
-### Noun
-A **disease** is a condition that causes harm to an organism, typically characterized by specific symptoms, often affecting multiple organ systems, and often caused by pathogens, genetics, or environmental factors. It can be contagious or non-contagious.
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) **[disease](/en/post/disease/)** is [a](/en/post/a/) [condition](/en/post/condition/) [that](/en/post/that/) causes [harm](/en/post/harm/) [to](/en/post/to/) an [organism](/en/post/organism/), typically characterized [by](/en/post/by/) [specific](/en/post/specific/) symptoms, [often](/en/post/often/) affecting [multiple](/en/post/multiple/) [organ](/en/post/organ/) systems, [and](/en/post/and/) [often](/en/post/often/) caused [by](/en/post/by/) pathogens, genetics, [or](/en/post/or/) environmental factors. [It](/en/post/it/) [can](/en/post/can/) [be](/en/post/be/) contagious [or](/en/post/or/) non-contagious.
 
-### Verb (Informal)
-To **fall ill** or **develop a disease** means to contract a sickness or health issue.
+### [Verb](/en/post/verb/) (Informal)
+[To](/en/post/to/) **[fall](/en/post/fall/) [ill](/en/post/ill/)** [or](/en/post/or/) **[develop](/en/post/develop/) [a](/en/post/a/) [disease](/en/post/disease/)** [means](/en/post/means/) [to](/en/post/to/) [contract](/en/post/contract/) [a](/en/post/a/) [sickness](/en/post/sickness/) [or](/en/post/or/) [health](/en/post/health/) [issue](/en/post/issue/).
 
-### Adjective
-Diseased or diseaseful can describe something related to or affected by a disease.
+### [Adjective](/en/post/adjective/)
+Diseased [or](/en/post/or/) diseaseful [can](/en/post/can/) [describe](/en/post/describe/) [something](/en/post/something/) related [to](/en/post/to/) [or](/en/post/or/) affected [by](/en/post/by/) [a](/en/post/a/) [disease](/en/post/disease/).
 
 ## Phrases
-- "Suffer from a disease"
-- "Prevent the spread of disease"
-- "Undergo treatment for a disease"
+- "[Suffer](/en/post/suffer/) [from](/en/post/from/) [a](/en/post/a/) [disease](/en/post/disease/)"
+- "[Prevent](/en/post/prevent/) [the](/en/post/the/) [spread](/en/post/spread/) [of](/en/post/of/) [disease](/en/post/disease/)"
+- "[Undergo](/en/post/undergo/) [treatment](/en/post/treatment/) [for](/en/post/for/) [a](/en/post/a/) [disease](/en/post/disease/)"
 
-## Example Sentences
-- **Noun**: "She was diagnosed with a rare genetic disease."
-- **Verb**: "After a week of exposure to the cold, he developed a severe disease."
-- **Adjective**: "The polluted water had a diseaseful quality."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) was diagnosed [with](/en/post/with/) [a](/en/post/a/) [rare](/en/post/rare/) genetic [disease](/en/post/disease/)."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [week](/en/post/week/) [of](/en/post/of/) [exposure](/en/post/exposure/) [to](/en/post/to/) [the](/en/post/the/) [cold](/en/post/cold/), [he](/en/post/he/) developed [a](/en/post/a/) [severe](/en/post/severe/) [disease](/en/post/disease/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) polluted [water](/en/post/water/) had [a](/en/post/a/) diseaseful [quality](/en/post/quality/)."
 
 ## Synonyms
-- Illness
+- [Illness](/en/post/illness/)
 - Affliction
-- Condition
+- [Condition](/en/post/condition/)
 - Malady
 - Ailment
-- Sickness
+- [Sickness](/en/post/sickness/)
 
 ## Antonyms
-- Health
+- [Health](/en/post/health/)
 - Wellness
 - Soundness
 - Robustness

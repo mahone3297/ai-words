@@ -7,32 +7,32 @@ description = '[ˈtrædʒidi] n.悲剧；惨事，惨案'
 keywords = ['ai words', 'tragedy']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /trædʒɪˈdeɪ/
 
 ## Definitions
-- **Noun**: A dramatic work, especially one that depicts a serious or disastrous event, often with a tragic ending. **Example**: "The play was a tragic portrayal of love and loss."
-- **Verb**: To experience or witness a tragedy, typically involving a sad or unfortunate event. **Example**: "The family tragically lost their home in a fire."
-- **Adjective**: Characterized by or causing great sorrow or misfortune; disastrous. **Example**: "The tragic consequences of their decision."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [dramatic](/en/post/dramatic/) [work](/en/post/work/), [especially](/en/post/especially/) [one](/en/post/one/) [that](/en/post/that/) depicts [a](/en/post/a/) [serious](/en/post/serious/) [or](/en/post/or/) disastrous [event](/en/post/event/), [often](/en/post/often/) [with](/en/post/with/) [a](/en/post/a/) tragic [ending](/en/post/ending/). **[Example](/en/post/example/)**: "[The](/en/post/the/) [play](/en/post/play/) was [a](/en/post/a/) tragic portrayal [of](/en/post/of/) [love](/en/post/love/) [and](/en/post/and/) [loss](/en/post/loss/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [experience](/en/post/experience/) [or](/en/post/or/) [witness](/en/post/witness/) [a](/en/post/a/) [tragedy](/en/post/tragedy/), typically involving [a](/en/post/a/) [sad](/en/post/sad/) [or](/en/post/or/) [unfortunate](/en/post/unfortunate/) [event](/en/post/event/). **[Example](/en/post/example/)**: "[The](/en/post/the/) [family](/en/post/family/) tragically lost [their](/en/post/their/) [home](/en/post/home/) [in](/en/post/in/) [a](/en/post/a/) [fire](/en/post/fire/)."
+- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [or](/en/post/or/) causing [great](/en/post/great/) [sorrow](/en/post/sorrow/) [or](/en/post/or/) misfortune; disastrous. **[Example](/en/post/example/)**: "[The](/en/post/the/) tragic consequences [of](/en/post/of/) [their](/en/post/their/) [decision](/en/post/decision/)."
 
 ## Phrases
-- "A tragic tale" refers to a story with a sad or unfortunate outcome.
-- "Tragic hero" describes a protagonist who, despite flaws, experiences a downfall due to circumstances beyond their control.
-- "Avoid a tragic mistake" means to prevent a disaster from occurring.
+- "[A](/en/post/a/) tragic [tale](/en/post/tale/)" refers [to](/en/post/to/) [a](/en/post/a/) [story](/en/post/story/) [with](/en/post/with/) [a](/en/post/a/) [sad](/en/post/sad/) [or](/en/post/or/) [unfortunate](/en/post/unfortunate/) [outcome](/en/post/outcome/).
+- "Tragic [hero](/en/post/hero/)" describes [a](/en/post/a/) protagonist [who](/en/post/who/), [despite](/en/post/despite/) flaws, experiences [a](/en/post/a/) downfall [due](/en/post/due/) [to](/en/post/to/) circumstances [beyond](/en/post/beyond/) [their](/en/post/their/) [control](/en/post/control/).
+- "[Avoid](/en/post/avoid/) [a](/en/post/a/) tragic [mistake](/en/post/mistake/)" [means](/en/post/means/) [to](/en/post/to/) [prevent](/en/post/prevent/) [a](/en/post/a/) [disaster](/en/post/disaster/) [from](/en/post/from/) occurring.
 
-## Example Sentences
-- **Noun**: "The classic tragedy 'Romeo and Juliet' tells the story of two star-crossed lovers."
-- **Verb**: "Their lives were forever changed after witnessing the tragic car accident."
-- **Adjective**: "The city's skyline will always be a tragic reminder of the devastating earthquake."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) classic [tragedy](/en/post/tragedy/) 'Romeo [and](/en/post/and/) Juliet' tells [the](/en/post/the/) [story](/en/post/story/) [of](/en/post/of/) [two](/en/post/two/) star-crossed lovers."
+- **[Verb](/en/post/verb/)**: "[Their](/en/post/their/) lives were [forever](/en/post/forever/) changed [after](/en/post/after/) witnessing [the](/en/post/the/) tragic [car](/en/post/car/) [accident](/en/post/accident/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) city's skyline [will](/en/post/will/) [always](/en/post/always/) [be](/en/post/be/) [a](/en/post/a/) tragic reminder [of](/en/post/of/) [the](/en/post/the/) devastating [earthquake](/en/post/earthquake/)."
 
 ## Synonyms
-- Tragedy
+- [Tragedy](/en/post/tragedy/)
 - Calamity
 - Catastrophe
 - Misfortune
-- Disaster
+- [Disaster](/en/post/disaster/)
 - Pitiful
-- Unfortunate
-- Sad
+- [Unfortunate](/en/post/unfortunate/)
+- [Sad](/en/post/sad/)
 - Heart-wrenching
 - Disastrous

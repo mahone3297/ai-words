@@ -11,20 +11,20 @@ keywords = ['ai words', 'intelligent']
 /ɪnˈtɛlɪdʒənt/
 
 ## 释义
-- **形容词**: 智能的，聪明的，有理解力的。例如: "She is an intelligent student with a quick mind."
-- **名词**: 有智慧的人。例如: "Many intelligent beings populate the universe."
+- **形容词**: 智能的，聪明的，有理解力的。例如: "[She](/post/she/) is an [intelligent](/post/intelligent/) [student](/post/student/) [with](/post/with/) [a](/post/a/) [quick](/post/quick/) [mind](/post/mind/)."
+- **名词**: 有智慧的人。例如: "[Many](/post/many/) [intelligent](/post/intelligent/) beings populate [the](/post/the/) [universe](/post/universe/)."
 
 ## 短语
-- "Highly intelligent" 表示非常聪明。
-- "Artificial intelligence (AI)" 指人工智能。
+- "[Highly](/post/highly/) [intelligent](/post/intelligent/)" 表示非常聪明。
+- "[Artificial](/post/artificial/) [intelligence](/post/intelligence/) (AI)" 指人工智能。
 
 ## 例句
-- 形容词: "The intelligent design of the software made it user-friendly."
-- 名词: "The researchers were studying the communication patterns of highly intelligent dolphins."
+- 形容词: "[The](/post/the/) [intelligent](/post/intelligent/) [design](/post/design/) [of](/post/of/) [the](/post/the/) software made [it](/post/it/) user-friendly."
+- 名词: "[The](/post/the/) researchers were studying [the](/post/the/) [communication](/post/communication/) patterns [of](/post/of/) [highly](/post/highly/) [intelligent](/post/intelligent/) dolphins."
 
 ## 同义词
-- Bright
-- Clever
-- Sharp
+- [Bright](/post/bright/)
+- [Clever](/post/clever/)
+- [Sharp](/post/sharp/)
 - Quick-witted
 - Astute

@@ -11,20 +11,20 @@ keywords = ['ai words', 'century']
 /ˈsɛn.tʃəri/
 
 ## 释义
-- **名词**: 100年的时间段，通常指历史上的百年。例如: "The 20th century saw many technological advancements."
-- **名词**: 一个世纪的计数单位，如21世纪。例如: "We are currently in the 21st century."
+- **名词**: 100年的时间段，通常指历史上的百年。例如: "[The](/post/the/) 20th [century](/post/century/) [saw](/post/saw/) [many](/post/many/) technological advancements."
+- **名词**: 一个世纪的计数单位，如21世纪。例如: "[We](/post/we/) are currently [in](/post/in/) [the](/post/the/) 21st [century](/post/century/)."
 
 ## 短语
-- "At the turn of the century" 指的是一个世纪的开始，如1900年或2000年。
-- "Century mark" 可以指达到或超过100年的里程碑或成就。
+- "[At](/post/at/) [the](/post/the/) [turn](/post/turn/) [of](/post/of/) [the](/post/the/) [century](/post/century/)" 指的是一个世纪的开始，如1900年或2000年。
+- "[Century](/post/century/) [mark](/post/mark/)" 可以指达到或超过100年的里程碑或成就。
 
 ## 例句
-- 名词: "The 19th century was a period of great industrialization."
-- 名词: "She celebrated her 100th birthday, a milestone in the 21st century."
+- 名词: "[The](/post/the/) 19th [century](/post/century/) was [a](/post/a/) [period](/post/period/) [of](/post/of/) [great](/post/great/) industrialization."
+- 名词: "[She](/post/she/) celebrated [her](/post/her/) 100th [birthday](/post/birthday/), [a](/post/a/) milestone [in](/post/in/) [the](/post/the/) 21st [century](/post/century/)."
 
 ## 同义词
-- Century can be synonymous with "hundred years" in some contexts, but there isn't a direct synonym for the term when used as a specific historical era or century number. However, related terms include:
+- [Century](/post/century/) [can](/post/can/) [be](/post/be/) synonymous [with](/post/with/) "[hundred](/post/hundred/) years" [in](/post/in/) [some](/post/some/) contexts, [but](/post/but/) [there](/post/there/) isn't [a](/post/a/) [direct](/post/direct/) synonym [for](/post/for/) [the](/post/the/) [term](/post/term/) [when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [specific](/post/specific/) [historical](/post/historical/) [era](/post/era/) [or](/post/or/) [century](/post/century/) [number](/post/number/). [However](/post/however/), related terms [include](/post/include/):
 - Epoch
-- Era
-- Time period
-- Millennium (for a period of 1000 years)
+- [Era](/post/era/)
+- [Time](/post/time/) [period](/post/period/)
+- Millennium ([for](/post/for/) [a](/post/a/) [period](/post/period/) [of](/post/of/) 1000 years)

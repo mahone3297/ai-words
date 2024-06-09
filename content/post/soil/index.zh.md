@@ -11,24 +11,24 @@ keywords = ['ai words', 'soil']
 /soʊl/
 
 ## 释义
-- **名词**: 土壤，地表的松软物质，通常包含有机物和无机物，可以支持植物生长。例如: "The rich soil in the garden is perfect for growing vegetables."
-- **名词**: （动植物）生存或生长的环境或条件。例如: "The soil of the rainforest is very different from that of the desert."
-- **名词**: （比喻）基础，根基，灵魂。例如: "His paintings are deeply rooted in the soil of his native country."
-- **名词**: （法律）土地的所有权或使用权。例如: "The farmer has owned the soil for generations."
+- **名词**: 土壤，地表的松软物质，通常包含有机物和无机物，可以支持植物生长。例如: "[The](/post/the/) [rich](/post/rich/) [soil](/post/soil/) [in](/post/in/) [the](/post/the/) [garden](/post/garden/) is [perfect](/post/perfect/) [for](/post/for/) growing vegetables."
+- **名词**: （动植物）生存或生长的环境或条件。例如: "[The](/post/the/) [soil](/post/soil/) [of](/post/of/) [the](/post/the/) rainforest is [very](/post/very/) [different](/post/different/) [from](/post/from/) [that](/post/that/) [of](/post/of/) [the](/post/the/) [desert](/post/desert/)."
+- **名词**: （比喻）基础，根基，灵魂。例如: "[His](/post/his/) paintings are deeply rooted [in](/post/in/) [the](/post/the/) [soil](/post/soil/) [of](/post/of/) [his](/post/his/) [native](/post/native/) [country](/post/country/)."
+- **名词**: （法律）土地的所有权或使用权。例如: "[The](/post/the/) [farmer](/post/farmer/) has owned [the](/post/the/) [soil](/post/soil/) [for](/post/for/) generations."
 
 ## 短语
-- "Soil composition" 土壤组成
-- "Soil erosion" 土壤侵蚀
-- "In fertile soil" 在肥沃的土地上
+- "[Soil](/post/soil/) [composition](/post/composition/)" 土壤组成
+- "[Soil](/post/soil/) erosion" 土壤侵蚀
+- "[In](/post/in/) [fertile](/post/fertile/) [soil](/post/soil/)" 在肥沃的土地上
 
 ## 例句
-- 名词: "The farmers carefully analyze the soil's nutrient content before planting."
-- 名词: "Her love for nature stems from her childhood spent playing in the soil."
-- 名词（比喻）: "Their art reflects the soul of their community."
+- 名词: "[The](/post/the/) farmers carefully analyze [the](/post/the/) soil's nutrient [content](/post/content/) [before](/post/before/) planting."
+- 名词: "[Her](/post/her/) [love](/post/love/) [for](/post/for/) [nature](/post/nature/) stems [from](/post/from/) [her](/post/her/) [childhood](/post/childhood/) spent playing [in](/post/in/) [the](/post/the/) [soil](/post/soil/)."
+- 名词（比喻）: "[Their](/post/their/) [art](/post/art/) reflects [the](/post/the/) [soul](/post/soul/) [of](/post/of/) [their](/post/their/) [community](/post/community/)."
 
 ## 同义词
-- Earth
-- Dirt
-- Ground
-- Land
+- [Earth](/post/earth/)
+- [Dirt](/post/dirt/)
+- [Ground](/post/ground/)
+- [Land](/post/land/)
 - Turf

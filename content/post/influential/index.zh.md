@@ -11,20 +11,20 @@ keywords = ['ai words', 'influential']
 /ɪnfluˈenʃəl/
 
 ## 释义
-- **形容词**: 有影响力的，有支配力的，有说服力的。例如: "She is an influential figure in the field of politics."
-- **名词**: 影响力人物，有影响力的人。例如: "He became one of the most influential people in the industry."
+- **形容词**: 有影响力的，有支配力的，有说服力的。例如: "[She](/post/she/) is an [influential](/post/influential/) [figure](/post/figure/) [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) [politics](/post/politics/)."
+- **名词**: 影响力人物，有影响力的人。例如: "[He](/post/he/) became [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [influential](/post/influential/) [people](/post/people/) [in](/post/in/) [the](/post/the/) [industry](/post/industry/)."
 
 ## 短语
-- "have influence over sb" 意味着对某人有影响。
-- "an influential voice" 指的是有重要影响力的言论或观点。
+- "[have](/post/have/) [influence](/post/influence/) [over](/post/over/) sb" 意味着对某人有影响。
+- "an [influential](/post/influential/) [voice](/post/voice/)" 指的是有重要影响力的言论或观点。
 
 ## 例句
-- 形容词: "His influential article changed public opinion on the issue."
-- 名词: "She was named one of Time Magazine's 100 most influential people."
+- 形容词: "[His](/post/his/) [influential](/post/influential/) [article](/post/article/) changed [public](/post/public/) [opinion](/post/opinion/) [on](/post/on/) [the](/post/the/) [issue](/post/issue/)."
+- 名词: "[She](/post/she/) was named [one](/post/one/) [of](/post/of/) [Time](/post/time/) Magazine's 100 [most](/post/most/) [influential](/post/influential/) [people](/post/people/)."
 
 ## 同义词
 - impactful
-- powerful
+- [powerful](/post/powerful/)
 - persuasive
 - authoritative
 - decisive

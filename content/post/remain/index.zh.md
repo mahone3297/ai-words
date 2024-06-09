@@ -12,24 +12,24 @@ keywords = ['ai words', 'remain']
 
 ## 释义
 - **动词**:
-1. 保持不变；继续存在。例如: "The old building still remains standing after the storm."  
-2. 停留；逗留。例如: "They will remain in the city for another week."
-3. 余下；剩下。例如: "There is some rice remaining in the pot."
-4. 保持未解决或未处理的状态。例如: "The problem remains unsolved."
+1. 保持不变；继续存在。例如: "[The](/post/the/) [old](/post/old/) [building](/post/building/) [still](/post/still/) [remains](/post/remains/) standing [after](/post/after/) [the](/post/the/) [storm](/post/storm/)."  
+2. 停留；逗留。例如: "[They](/post/they/) [will](/post/will/) [remain](/post/remain/) [in](/post/in/) [the](/post/the/) [city](/post/city/) [for](/post/for/) [another](/post/another/) [week](/post/week/)."
+3. 余下；剩下。例如: "[There](/post/there/) is [some](/post/some/) [rice](/post/rice/) remaining [in](/post/in/) [the](/post/the/) [pot](/post/pot/)."
+4. 保持未解决或未处理的状态。例如: "[The](/post/the/) [problem](/post/problem/) [remains](/post/remains/) unsolved."
 
 ## 短语
-- "Remain calm" 保持冷静。
-- "Remain silent" 保持沉默。
-- "Remain to be seen" 结果还有待观察。
+- "[Remain](/post/remain/) [calm](/post/calm/)" 保持冷静。
+- "[Remain](/post/remain/) [silent](/post/silent/)" 保持沉默。
+- "[Remain](/post/remain/) [to](/post/to/) [be](/post/be/) seen" 结果还有待观察。
 
 ## 例句
-- The ancient castle remains one of the most popular tourist attractions.
-- After the guests left, only a few friends remained to help with the cleanup.
-- She asked us all to remain seated until the performance began.
+- [The](/post/the/) [ancient](/post/ancient/) [castle](/post/castle/) [remains](/post/remains/) [one](/post/one/) [of](/post/of/) [the](/post/the/) [most](/post/most/) [popular](/post/popular/) [tourist](/post/tourist/) attractions.
+- [After](/post/after/) [the](/post/the/) guests [left](/post/left/), [only](/post/only/) [a](/post/a/) [few](/post/few/) friends remained [to](/post/to/) [help](/post/help/) [with](/post/with/) [the](/post/the/) cleanup.
+- [She](/post/she/) asked [us](/post/us/) [all](/post/all/) [to](/post/to/) [remain](/post/remain/) seated [until](/post/until/) [the](/post/the/) [performance](/post/performance/) began.
 
 ## 同义词
-- Stay
-- Continue
-- Persist
-- Last
+- [Stay](/post/stay/)
+- [Continue](/post/continue/)
+- [Persist](/post/persist/)
+- [Last](/post/last/)
 - Abide

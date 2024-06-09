@@ -12,25 +12,25 @@ keywords = ['ai words', 'kill']
 
 ## 释义
 - **动词**:
-  1. 杀死；使死亡。例如: "The hunter killed the deer with one shot."
-  2. 终止；破坏。例如: "The power outage killed all the computers in the office."
+  1. 杀死；使死亡。例如: "[The](/post/the/) hunter killed [the](/post/the/) [deer](/post/deer/) [with](/post/with/) [one](/post/one/) [shot](/post/shot/)."
+  2. 终止；破坏。例如: "[The](/post/the/) [power](/post/power/) outage killed [all](/post/all/) [the](/post/the/) computers [in](/post/in/) [the](/post/the/) [office](/post/office/)."
 
 - **名词**:
-  1. 杀戮行为；死亡。例如: "There were several kills in the wildlife reserve last year."
+  1. 杀戮行为；死亡。例如: "[There](/post/there/) were [several](/post/several/) kills [in](/post/in/) [the](/post/the/) wildlife [reserve](/post/reserve/) [last](/post/last/) [year](/post/year/)."
   2. 在某些体育比赛中，如排球，指成功阻止对方得分的击球。
 
 ## 短语
-- "Kill two birds with one stone" 意为一举两得，一石二鸟。
-- "To kill time" 意味着消磨时间。
-- "Killing it" 可以用来形容某人在某方面表现出色。
+- "[Kill](/post/kill/) [two](/post/two/) birds [with](/post/with/) [one](/post/one/) [stone](/post/stone/)" 意为一举两得，一石二鸟。
+- "[To](/post/to/) [kill](/post/kill/) [time](/post/time/)" 意味着消磨时间。
+- "Killing [it](/post/it/)" 可以用来形容某人在某方面表现出色。
 
 ## 例句
-- 动词: "The virus has killed thousands of people worldwide."
-- 名词: "The accident on the highway resulted in three kills."
+- 动词: "[The](/post/the/) virus has killed thousands [of](/post/of/) [people](/post/people/) worldwide."
+- 名词: "[The](/post/the/) [accident](/post/accident/) [on](/post/on/) [the](/post/the/) [highway](/post/highway/) resulted [in](/post/in/) [three](/post/three/) kills."
 
 ## 同义词
-- Murder
+- [Murder](/post/murder/)
 - Assassinate
 - Slay
-- Destroy
+- [Destroy](/post/destroy/)
 - Terminate

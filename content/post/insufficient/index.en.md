@@ -7,31 +7,31 @@ description = '[ˌinsəˈfi∫ənt] a.不足的;不适当的'
 keywords = ['ai words', 'insufficient']
 +++
 
-## Word: Insufficient
+## [Word](/en/post/word/): [Insufficient](/en/post/insufficient/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˌɪnsəˈfɪʃ(ə)nt/
 
 ## Definitions
-- **Adjective**: Not enough; inadequate for a particular need or purpose.
+- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) [enough](/en/post/enough/); inadequate [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [need](/en/post/need/) [or](/en/post/or/) [purpose](/en/post/purpose/).
 
-### Phrase
-- **Insufficient evidence**: Evidence that is not adequate to prove something conclusively or to meet a required standard.
-- **Insufficient funds**: Not having enough money in a bank account to cover a financial transaction.
+### [Phrase](/en/post/phrase/)
+- **[Insufficient](/en/post/insufficient/) [evidence](/en/post/evidence/)**: [Evidence](/en/post/evidence/) [that](/en/post/that/) is [not](/en/post/not/) [adequate](/en/post/adequate/) [to](/en/post/to/) [prove](/en/post/prove/) [something](/en/post/something/) conclusively [or](/en/post/or/) [to](/en/post/to/) [meet](/en/post/meet/) [a](/en/post/a/) required [standard](/en/post/standard/).
+- **[Insufficient](/en/post/insufficient/) funds**: [Not](/en/post/not/) having [enough](/en/post/enough/) [money](/en/post/money/) [in](/en/post/in/) [a](/en/post/a/) [bank](/en/post/bank/) [account](/en/post/account/) [to](/en/post/to/) [cover](/en/post/cover/) [a](/en/post/a/) [financial](/en/post/financial/) transaction.
 
-## Example Sentences
-- **Adjective**: "The bridge was deemed unsafe due to insufficient structural support."
-- "Due to insufficient planning, the project failed to meet its deadline."
-- "The payment was declined because of insufficient funds in the account."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [bridge](/en/post/bridge/) was deemed unsafe [due](/en/post/due/) [to](/en/post/to/) [insufficient](/en/post/insufficient/) [structural](/en/post/structural/) [support](/en/post/support/)."
+- "[Due](/en/post/due/) [to](/en/post/to/) [insufficient](/en/post/insufficient/) planning, [the](/en/post/the/) [project](/en/post/project/) failed [to](/en/post/to/) [meet](/en/post/meet/) [its](/en/post/its/) deadline."
+- "[The](/en/post/the/) [payment](/en/post/payment/) was declined [because](/en/post/because/) [of](/en/post/of/) [insufficient](/en/post/insufficient/) funds [in](/en/post/in/) [the](/en/post/the/) [account](/en/post/account/)."
 
 ## Synonyms
 - Inadequate
 - Deficient
 - Unenough
 - Lacking
-- Short
+- [Short](/en/post/short/)
 - Wanting
 - Meager
 - Sparse
 - Scanty
-- Limited
+- [Limited](/en/post/limited/)

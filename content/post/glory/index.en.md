@@ -7,35 +7,35 @@ description = '[ˈglɔːri] n.光荣；荣誉的事'
 keywords = ['ai words', 'glory']
 +++
 
-## Word: Glory
+## [Word](/en/post/word/): [Glory](/en/post/glory/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈɡlɔːri/
 
 ## Definitions
-- **Noun**: (n) Great honor, admiration, or praise bestowed upon someone or something, often due to achievements, qualities, or attributes that inspire respect, awe, or reverence. For example: "The team basked in the glory of their championship win."
-  - Religious context: The divine presence, splendor, or radiance attributed to God or heavenly beings. For instance: "They sang hymns in the glory of the Lord."
-  - Literal sense: A brilliant and radiant light or display. Example: "The sunrise was a blaze of glory across the horizon."
+- **[Noun](/en/post/noun/)**: (n) [Great](/en/post/great/) honor, admiration, [or](/en/post/or/) [praise](/en/post/praise/) bestowed [upon](/en/post/upon/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/), [often](/en/post/often/) [due](/en/post/due/) [to](/en/post/to/) achievements, qualities, [or](/en/post/or/) attributes [that](/en/post/that/) [inspire](/en/post/inspire/) [respect](/en/post/respect/), awe, [or](/en/post/or/) reverence. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) basked [in](/en/post/in/) [the](/en/post/the/) [glory](/en/post/glory/) [of](/en/post/of/) [their](/en/post/their/) championship [win](/en/post/win/)."
+  - [Religious](/en/post/religious/) context: [The](/en/post/the/) divine [presence](/en/post/presence/), splendor, [or](/en/post/or/) radiance attributed [to](/en/post/to/) God [or](/en/post/or/) heavenly beings. [For](/en/post/for/) [instance](/en/post/instance/): "[They](/en/post/they/) sang hymns [in](/en/post/in/) [the](/en/post/the/) [glory](/en/post/glory/) [of](/en/post/of/) [the](/en/post/the/) [Lord](/en/post/lord/)."
+  - Literal [sense](/en/post/sense/): [A](/en/post/a/) [brilliant](/en/post/brilliant/) [and](/en/post/and/) radiant [light](/en/post/light/) [or](/en/post/or/) [display](/en/post/display/). [Example](/en/post/example/): "[The](/en/post/the/) [sunrise](/en/post/sunrise/) was [a](/en/post/a/) [blaze](/en/post/blaze/) [of](/en/post/of/) [glory](/en/post/glory/) [across](/en/post/across/) [the](/en/post/the/) [horizon](/en/post/horizon/)."
 
-- **Verb**: (v) To glorify; to give glory or high praise to someone or something. Example: "Her paintings glorify the natural beauty of her homeland."
+- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) glorify; [to](/en/post/to/) [give](/en/post/give/) [glory](/en/post/glory/) [or](/en/post/or/) [high](/en/post/high/) [praise](/en/post/praise/) [to](/en/post/to/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/). [Example](/en/post/example/): "[Her](/en/post/her/) paintings glorify [the](/en/post/the/) [natural](/en/post/natural/) [beauty](/en/post/beauty/) [of](/en/post/of/) [her](/en/post/her/) homeland."
 
 ## Phrases
-- "Go down in glory": To achieve a memorable victory or success.
-- "Glory days": The period of greatest achievement, fame, or recognition in one's life or history.
-- "Seek glory": To strive for distinction, honor, or fame.
+- "[Go](/en/post/go/) [down](/en/post/down/) [in](/en/post/in/) [glory](/en/post/glory/)": [To](/en/post/to/) [achieve](/en/post/achieve/) [a](/en/post/a/) memorable [victory](/en/post/victory/) [or](/en/post/or/) [success](/en/post/success/).
+- "[Glory](/en/post/glory/) days": [The](/en/post/the/) [period](/en/post/period/) [of](/en/post/of/) greatest [achievement](/en/post/achievement/), [fame](/en/post/fame/), [or](/en/post/or/) [recognition](/en/post/recognition/) [in](/en/post/in/) one's [life](/en/post/life/) [or](/en/post/or/) [history](/en/post/history/).
+- "[Seek](/en/post/seek/) [glory](/en/post/glory/)": [To](/en/post/to/) strive [for](/en/post/for/) [distinction](/en/post/distinction/), honor, [or](/en/post/or/) [fame](/en/post/fame/).
 
-## Example Sentences
-- **Noun**: "Winning the gold medal was the pinnacle of his athletic glory."
-- **Verb**: "Through her music, she glorifies the rich cultural heritage of her ancestors."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "Winning [the](/en/post/the/) [gold](/en/post/gold/) [medal](/en/post/medal/) was [the](/en/post/the/) pinnacle [of](/en/post/of/) [his](/en/post/his/) athletic [glory](/en/post/glory/)."
+- **[Verb](/en/post/verb/)**: "[Through](/en/post/through/) [her](/en/post/her/) [music](/en/post/music/), [she](/en/post/she/) glorifies [the](/en/post/the/) [rich](/en/post/rich/) cultural heritage [of](/en/post/of/) [her](/en/post/her/) ancestors."
 
 ## Synonyms
 - Honor
-- Fame
+- [Fame](/en/post/fame/)
 - Renown
-- Distinction
-- Praise
+- [Distinction](/en/post/distinction/)
+- [Praise](/en/post/praise/)
 - Acclaim
-- Triumph
+- [Triumph](/en/post/triumph/)
 - Splendor
 - Magnificence
 - Admiration

@@ -11,20 +11,20 @@ keywords = ['ai words', 'shelf']
 /ʃɛlf/
 
 ## 释义
-- **名词 (n)**: 一个水平的架子，通常固定在墙上或柜子上，用来放置物品。例如: "I put the books on the shelf."
-- **动词 (v)**: 把东西放在架子上。例如: "She decided to shelf her painting plans for the time being."
+- **名词 (n)**: 一个水平的架子，通常固定在墙上或柜子上，用来放置物品。例如: "I [put](/post/put/) [the](/post/the/) books [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/)."
+- **动词 (v)**: 把东西放在架子上。例如: "[She](/post/she/) decided [to](/post/to/) [shelf](/post/shelf/) [her](/post/her/) [painting](/post/painting/) plans [for](/post/for/) [the](/post/the/) [time](/post/time/) [being](/post/being/)."
 
 ## 短语
-- "On the shelf" 表示搁置、未使用或暂时不用的状态。例如: "His novel has been on the shelf for years."
-- "Shelf life" 指商品或物质保持适宜品质的时间。例如: "The milk has a shelf life of one week."
+- "[On](/post/on/) [the](/post/the/) [shelf](/post/shelf/)" 表示搁置、未使用或暂时不用的状态。例如: "[His](/post/his/) [novel](/post/novel/) has been [on](/post/on/) [the](/post/the/) [shelf](/post/shelf/) [for](/post/for/) years."
+- "[Shelf](/post/shelf/) [life](/post/life/)" 指商品或物质保持适宜品质的时间。例如: "[The](/post/the/) [milk](/post/milk/) has [a](/post/a/) [shelf](/post/shelf/) [life](/post/life/) [of](/post/of/) [one](/post/one/) [week](/post/week/)."
 
 ## 例句
-- 名词: "There's a shelf above the window where you can put your plants."
-- 动词: "I'm going to shelf these books in alphabetical order."
+- 名词: "There's [a](/post/a/) [shelf](/post/shelf/) [above](/post/above/) [the](/post/the/) [window](/post/window/) [where](/post/where/) [you](/post/you/) [can](/post/can/) [put](/post/put/) [your](/post/your/) plants."
+- 动词: "I'm going [to](/post/to/) [shelf](/post/shelf/) [these](/post/these/) books [in](/post/in/) alphabetical [order](/post/order/)."
 
 ## 同义词
-- Rack
+- [Rack](/post/rack/)
 - Shelf-life
-- Storage space
+- [Storage](/post/storage/) [space](/post/space/)
 - Bracket
-- Stand
+- [Stand](/post/stand/)

@@ -7,36 +7,36 @@ description = '[kənˈdem] vt.谴责，指责；判刑'
 keywords = ['ai words', 'condemn']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kənˈdem/
 
 ## Definitions
-### Noun
-- A formal expression of disapproval or censure: *The judge condemned the defendant's actions.*
-- A condemnation or sentence of blame: *Many people condemned the immoral behavior.*
+### [Noun](/en/post/noun/)
+- [A](/en/post/a/) [formal](/en/post/formal/) [expression](/en/post/expression/) [of](/en/post/of/) disapproval [or](/en/post/or/) censure: *[The](/en/post/the/) [judge](/en/post/judge/) condemned [the](/en/post/the/) defendant's actions.*
+- [A](/en/post/a/) condemnation [or](/en/post/or/) [sentence](/en/post/sentence/) [of](/en/post/of/) [blame](/en/post/blame/): *[Many](/en/post/many/) [people](/en/post/people/) condemned [the](/en/post/the/) immoral [behavior](/en/post/behavior/).*
 
-### Verb
-- To declare as deserving of strong disapproval or punishment: *The court condemned the accused guilty of murder.*
-- To express disapproval or blame: *She condemned the policy without offering alternatives.*
+### [Verb](/en/post/verb/)
+- [To](/en/post/to/) [declare](/en/post/declare/) [as](/en/post/as/) deserving [of](/en/post/of/) [strong](/en/post/strong/) disapproval [or](/en/post/or/) [punishment](/en/post/punishment/): *[The](/en/post/the/) [court](/en/post/court/) condemned [the](/en/post/the/) accused [guilty](/en/post/guilty/) [of](/en/post/of/) [murder](/en/post/murder/).*
+- [To](/en/post/to/) [express](/en/post/express/) disapproval [or](/en/post/or/) [blame](/en/post/blame/): *[She](/en/post/she/) condemned [the](/en/post/the/) [policy](/en/post/policy/) [without](/en/post/without/) offering alternatives.*
 
 ## Phrases
-- "Condemn something/someone" means to declare as morally wrong or unacceptable.
-- "Public condemnation" refers to criticism from the public.
-- "A death sentence was handed down, condemning the criminal to life in prison."
+- "[Condemn](/en/post/condemn/) [something](/en/post/something/)/[someone](/en/post/someone/)" [means](/en/post/means/) [to](/en/post/to/) [declare](/en/post/declare/) [as](/en/post/as/) morally [wrong](/en/post/wrong/) [or](/en/post/or/) unacceptable.
+- "[Public](/en/post/public/) condemnation" refers [to](/en/post/to/) [criticism](/en/post/criticism/) [from](/en/post/from/) [the](/en/post/the/) [public](/en/post/public/).
+- "[A](/en/post/a/) [death](/en/post/death/) [sentence](/en/post/sentence/) was handed [down](/en/post/down/), condemning [the](/en/post/the/) [criminal](/en/post/criminal/) [to](/en/post/to/) [life](/en/post/life/) [in](/en/post/in/) [prison](/en/post/prison/)."
 
-## Example Sentences
-- **Noun**: "The international community condemned the terrorist attack."
-- **Verb**: "The professor condemned the students' plagiarism in no uncertain terms."
-- **Sentence with 'condemn' as a verb**: "Her friends publicly condemned her decision to move abroad."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [international](/en/post/international/) [community](/en/post/community/) condemned [the](/en/post/the/) terrorist [attack](/en/post/attack/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [professor](/en/post/professor/) condemned [the](/en/post/the/) students' plagiarism [in](/en/post/in/) [no](/en/post/no/) [uncertain](/en/post/uncertain/) terms."
+- **[Sentence](/en/post/sentence/) [with](/en/post/with/) '[condemn](/en/post/condemn/)' [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[Her](/en/post/her/) friends publicly condemned [her](/en/post/her/) [decision](/en/post/decision/) [to](/en/post/to/) [move](/en/post/move/) [abroad](/en/post/abroad/)."
 
 ## Synonyms
-- Reproach
-- Blame
+- [Reproach](/en/post/reproach/)
+- [Blame](/en/post/blame/)
 - Censure
 - Denounce
-- Fault
+- [Fault](/en/post/fault/)
 
 ## Antonyms
-- Praise
-- Approve
+- [Praise](/en/post/praise/)
+- [Approve](/en/post/approve/)
 - Commend

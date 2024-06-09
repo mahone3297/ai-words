@@ -11,21 +11,21 @@ keywords = ['ai words', 'her']
 /hɜːr/
 
 ## 释义
-- **代词**: 她，她的。指女性第三人称单数。例如: "She is reading her book."
-- **形容词**: 属于她的，关于她的。例如: "This is her car."
+- **代词**: 她，她的。指女性第三人称单数。例如: "[She](/post/she/) is [reading](/post/reading/) [her](/post/her/) [book](/post/book/)."
+- **形容词**: 属于她的，关于她的。例如: "[This](/post/this/) is [her](/post/her/) [car](/post/car/)."
 
 ## 短语
-- "Belonging to her" 指的是属于她的东西。
-- "About her" 关于她的事情或情况。
+- "Belonging [to](/post/to/) [her](/post/her/)" 指的是属于她的东西。
+- "[About](/post/about/) [her](/post/her/)" 关于她的事情或情况。
 
 ## 例句
-- 代词: "He gave her a beautiful present for her birthday."
-- 形容词: "The dress is so elegant, it's just her style."
+- 代词: "[He](/post/he/) gave [her](/post/her/) [a](/post/a/) [beautiful](/post/beautiful/) [present](/post/present/) [for](/post/for/) [her](/post/her/) [birthday](/post/birthday/)."
+- 形容词: "[The](/post/the/) [dress](/post/dress/) is [so](/post/so/) elegant, it's [just](/post/just/) [her](/post/her/) [style](/post/style/)."
 
 ## 同义词
 - 她（代词）:
-  - She
-  - Her
+  - [She](/post/she/)
+  - [Her](/post/her/)
 - 属于她的（形容词）:
-  - Hers
-  - Of hers
+  - [Hers](/post/hers/)
+  - [Of](/post/of/) [hers](/post/hers/)

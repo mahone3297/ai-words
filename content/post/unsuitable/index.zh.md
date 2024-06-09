@@ -11,20 +11,20 @@ keywords = ['ai words', 'unsuitable']
 /ʌnˈsuːtəbl/
 
 ## 释义
-- **形容词**: 不适合的，不适宜的，不相配的。例如: "The dress was unsuitable for the formal event."
-- **副词**: 不适当地，不合适地。例如: "She answered the question unsuitably, causing confusion."
+- **形容词**: 不适合的，不适宜的，不相配的。例如: "[The](/post/the/) [dress](/post/dress/) was [unsuitable](/post/unsuitable/) [for](/post/for/) [the](/post/the/) [formal](/post/formal/) [event](/post/event/)."
+- **副词**: 不适当地，不合适地。例如: "[She](/post/she/) answered [the](/post/the/) [question](/post/question/) unsuitably, causing [confusion](/post/confusion/)."
 
 ## 短语
-- "be unsuitable for" 指某物不适合某个目的或场合。例如: "The material is unsuitable for outdoor use."
-- "find something unsuitable" 发现某事不合适的。例如: "Parents might find some content in the movie unsuitable for young children."
+- "[be](/post/be/) [unsuitable](/post/unsuitable/) [for](/post/for/)" 指某物不适合某个目的或场合。例如: "[The](/post/the/) [material](/post/material/) is [unsuitable](/post/unsuitable/) [for](/post/for/) [outdoor](/post/outdoor/) [use](/post/use/)."
+- "[find](/post/find/) [something](/post/something/) [unsuitable](/post/unsuitable/)" 发现某事不合适的。例如: "Parents [might](/post/might/) [find](/post/find/) [some](/post/some/) [content](/post/content/) [in](/post/in/) [the](/post/the/) [movie](/post/movie/) [unsuitable](/post/unsuitable/) [for](/post/for/) [young](/post/young/) children."
 
 ## 例句
-- 形容词: "The shoes were unsuitable for hiking because they lacked proper grip."
-- 副词: "He behaved unsuitably during the interview, which cost him the job."
+- 形容词: "[The](/post/the/) shoes were [unsuitable](/post/unsuitable/) [for](/post/for/) hiking [because](/post/because/) [they](/post/they/) lacked [proper](/post/proper/) [grip](/post/grip/)."
+- 副词: "[He](/post/he/) behaved unsuitably [during](/post/during/) [the](/post/the/) [interview](/post/interview/), [which](/post/which/) [cost](/post/cost/) [him](/post/him/) [the](/post/the/) [job](/post/job/)."
 
 ## 同义词
 - Inappropriate
 - Improper
 - Unfitting
-- Incorrect
+- [Incorrect](/post/incorrect/)
 - Disadvantageous

@@ -17,17 +17,17 @@ keywords = ['ai words', 'lime']
 - **动词**: **腌制**，用石灰水或其他含有石灰的溶液处理食物以防腐或软化。
 
 ## 短语
-- "lime juice" 指酸橙汁，常用于调制鸡尾酒。
-- "lime mortar" 是由石灰和沙子混合制成的灰浆，用于砌砖石。
+- "[lime](/post/lime/) [juice](/post/juice/)" 指酸橙汁，常用于调制鸡尾酒。
+- "[lime](/post/lime/) mortar" 是由石灰和沙子混合制成的灰浆，用于砌砖石。
 
 ## 例句
-- 名词: "I added a squeeze of fresh lime to my drink for some extra flavor."
-- 动词: "The fish was traditionally lime'd before being cooked to enhance its taste."
+- 名词: "I added [a](/post/a/) [squeeze](/post/squeeze/) [of](/post/of/) [fresh](/post/fresh/) [lime](/post/lime/) [to](/post/to/) [my](/post/my/) [drink](/post/drink/) [for](/post/for/) [some](/post/some/) [extra](/post/extra/) flavor."
+- 动词: "[The](/post/the/) [fish](/post/fish/) was traditionally lime'd [before](/post/before/) [being](/post/being/) cooked [to](/post/to/) enhance [its](/post/its/) [taste](/post/taste/)."
 
 ## 同义词
 - **名词**：
   - Calcium oxide (CaO) - 石灰的化学名称
-  - Citrus fruit - 酸橙的通用名称
+  - Citrus [fruit](/post/fruit/) - 酸橙的通用名称
 - **动词**：
   - Pickle - 用醋或盐水腌制
-  - Cure - 对某些食物进行处理以延长保质期或改变口感
+  - [Cure](/post/cure/) - 对某些食物进行处理以延长保质期或改变口感

@@ -7,26 +7,26 @@ description = '[ˈʌniksˈpektid] a.想不到的，意外的'
 keywords = ['ai words', 'unexpected']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /unɪkˈspektɪd/
 
 ## Definitions
-- **Adjective**: Not anticipated or expected; occurring without prior notice or prediction. For example: "The unexpected delay caused chaos."
-- **Noun**: An unforeseen event or occurrence; a surprise. For example: "The unexpected gift was a delightful surprise."
+- **[Adjective](/en/post/adjective/)**: [Not](/en/post/not/) anticipated [or](/en/post/or/) expected; occurring [without](/en/post/without/) [prior](/en/post/prior/) [notice](/en/post/notice/) [or](/en/post/or/) prediction. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [unexpected](/en/post/unexpected/) [delay](/en/post/delay/) caused chaos."
+- **[Noun](/en/post/noun/)**: An unforeseen [event](/en/post/event/) [or](/en/post/or/) [occurrence](/en/post/occurrence/); [a](/en/post/a/) [surprise](/en/post/surprise/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [unexpected](/en/post/unexpected/) [gift](/en/post/gift/) was [a](/en/post/a/) delightful [surprise](/en/post/surprise/)."
 
 ## Phrases
-- "Out of the blue" refers to something that happens unexpectedly.
-- "Caught off guard" means someone was surprised by an unexpected event.
-- "Unexpected turn of events" describes a sudden change that was not planned.
+- "[Out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [blue](/en/post/blue/)" refers [to](/en/post/to/) [something](/en/post/something/) [that](/en/post/that/) happens unexpectedly.
+- "Caught [off](/en/post/off/) [guard](/en/post/guard/)" [means](/en/post/means/) [someone](/en/post/someone/) was surprised [by](/en/post/by/) an [unexpected](/en/post/unexpected/) [event](/en/post/event/).
+- "[Unexpected](/en/post/unexpected/) [turn](/en/post/turn/) [of](/en/post/of/) events" describes [a](/en/post/a/) [sudden](/en/post/sudden/) [change](/en/post/change/) [that](/en/post/that/) was [not](/en/post/not/) planned.
 
-## Example Sentences
-- **Adjective**: "Her reaction to the news was one of utter shock, as it was unexpected."
-- **Noun**: "The unexpected guest arrived unannounced, causing quite a stir."
-- **Adverb**: "He acted with surprising calmness, given the unexpected situation."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [reaction](/en/post/reaction/) [to](/en/post/to/) [the](/en/post/the/) [news](/en/post/news/) was [one](/en/post/one/) [of](/en/post/of/) [utter](/en/post/utter/) [shock](/en/post/shock/), [as](/en/post/as/) [it](/en/post/it/) was [unexpected](/en/post/unexpected/)."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [unexpected](/en/post/unexpected/) [guest](/en/post/guest/) arrived unannounced, causing [quite](/en/post/quite/) [a](/en/post/a/) [stir](/en/post/stir/)."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) acted [with](/en/post/with/) [surprising](/en/post/surprising/) calmness, given [the](/en/post/the/) [unexpected](/en/post/unexpected/) [situation](/en/post/situation/)."
 
 ## Synonyms
 - Unforeseen
-- Surprising
+- [Surprising](/en/post/surprising/)
 - Impromptu
 - Unexpectedly
 - Abrupt
@@ -37,5 +37,5 @@ keywords = ['ai words', 'unexpected']
 - Expected
 - Foreseen
 - Predictable
-- Routine
+- [Routine](/en/post/routine/)
 - Planned

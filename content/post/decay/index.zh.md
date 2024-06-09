@@ -11,16 +11,16 @@ keywords = ['ai words', 'decay']
 /ˈdeɪkeɪ/
 
 ## 释义
-- **动词**: 衰退；腐烂；减少。例如: "The old house was slowly decaying over time."
-- **名词**: 腐败；衰变；退化。例如: "The decay of moral values in society is a concern."
+- **动词**: 衰退；腐烂；减少。例如: "[The](/post/the/) [old](/post/old/) [house](/post/house/) was [slowly](/post/slowly/) decaying [over](/post/over/) [time](/post/time/)."
+- **名词**: 腐败；衰变；退化。例如: "[The](/post/the/) [decay](/post/decay/) [of](/post/of/) [moral](/post/moral/) values [in](/post/in/) [society](/post/society/) is [a](/post/a/) [concern](/post/concern/)."
 
 ## 短语
-- "natural decay" 指物质的自然衰变过程，如放射性元素的衰变。
-- "decay rate" 指衰变的速度或速率。
+- "[natural](/post/natural/) [decay](/post/decay/)" 指物质的自然衰变过程，如放射性元素的衰变。
+- "[decay](/post/decay/) [rate](/post/rate/)" 指衰变的速度或速率。
 
 ## 例句
-- 动词: "The radioactive substance undergoes decay at a constant rate."
-- 名词: "The decay of wooden structures can be prevented with proper maintenance."
+- 动词: "[The](/post/the/) [radioactive](/post/radioactive/) [substance](/post/substance/) undergoes [decay](/post/decay/) [at](/post/at/) [a](/post/a/) [constant](/post/constant/) [rate](/post/rate/)."
+- 名词: "[The](/post/the/) [decay](/post/decay/) [of](/post/of/) [wooden](/post/wooden/) structures [can](/post/can/) [be](/post/be/) prevented [with](/post/with/) [proper](/post/proper/) [maintenance](/post/maintenance/)."
 
 ## 同义词
 - Deteriorate

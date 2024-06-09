@@ -15,18 +15,18 @@ keywords = ['ai words', 'file']
 - **动词 (v)**: 1. 把（文件）归档，存档。2. 提交，呈递（文件或申请）。3. 使用锉刀锉平或修整。
 
 ## 短语
-- "file away" 存储或归档文件。
-- "file a complaint" 提交或提出投诉。
-- "file for divorce" 提交离婚申请。
+- "[file](/post/file/) [away](/post/away/)" 存储或归档文件。
+- "[file](/post/file/) [a](/post/a/) [complaint](/post/complaint/)" 提交或提出投诉。
+- "[file](/post/file/) [for](/post/for/) [divorce](/post/divorce/)" 提交离婚申请。
 
 ## 例句
-- 名词: "I need to find the contract file on my computer."
-- 动词: "She filed her taxes online this year."
-- 名词（锉刀）: "The carpenter used a file to smooth the edges of the wood."
+- 名词: "I [need](/post/need/) [to](/post/to/) [find](/post/find/) [the](/post/the/) [contract](/post/contract/) [file](/post/file/) [on](/post/on/) [my](/post/my/) [computer](/post/computer/)."
+- 动词: "[She](/post/she/) filed [her](/post/her/) taxes online [this](/post/this/) [year](/post/year/)."
+- 名词（锉刀）: "[The](/post/the/) [carpenter](/post/carpenter/) [used](/post/used/) [a](/post/a/) [file](/post/file/) [to](/post/to/) [smooth](/post/smooth/) [the](/post/the/) edges [of](/post/of/) [the](/post/the/) [wood](/post/wood/)."
 
 ## 同义词
-- Document (名词)
-- Submit (动词)
-- Record (名词)
+- [Document](/post/document/) (名词)
+- [Submit](/post/submit/) (动词)
+- [Record](/post/record/) (名词)
 - Archive (动词)
 - Folder (名词)

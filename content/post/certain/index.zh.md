@@ -11,19 +11,19 @@ keywords = ['ai words', 'certain']
 /ˈsɜːrtn/
 
 ## 释义
-- **形容词**: 确定的，肯定的。例如: "I am certain that he will come."
-- **名词**: (常与不定冠词"a"连用)某一特定的事物或人。例如: "There's a certain charm about the old town."
+- **形容词**: 确定的，肯定的。例如: "I am [certain](/post/certain/) [that](/post/that/) [he](/post/he/) [will](/post/will/) [come](/post/come/)."
+- **名词**: (常与不定冠词"[a](/post/a/)"连用)某一特定的事物或人。例如: "There's [a](/post/a/) [certain](/post/certain/) charm [about](/post/about/) [the](/post/the/) [old](/post/old/) [town](/post/town/)."
 
 ## 短语
-- "certainly" 作为副词，意思是“当然”，“无疑地”。
+- "[certainly](/post/certainly/)" 作为副词，意思是“当然”，“无疑地”。
 
 ## 例句
-- 形容词: "She was certain of her success in the exam."
-- 名词: "There is a certain way he smiles that always makes me smile too."
+- 形容词: "[She](/post/she/) was [certain](/post/certain/) [of](/post/of/) [her](/post/her/) [success](/post/success/) [in](/post/in/) [the](/post/the/) [exam](/post/exam/)."
+- 名词: "[There](/post/there/) is [a](/post/a/) [certain](/post/certain/) [way](/post/way/) [he](/post/he/) smiles [that](/post/that/) [always](/post/always/) makes [me](/post/me/) [smile](/post/smile/) [too](/post/too/)."
 
 ## 同义词
-- sure
-- definite
-- positive
+- [sure](/post/sure/)
+- [definite](/post/definite/)
+- [positive](/post/positive/)
 - assured
-- confident
+- [confident](/post/confident/)

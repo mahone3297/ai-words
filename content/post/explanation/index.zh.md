@@ -12,20 +12,20 @@ keywords = ['ai words', 'explanation']
 
 ## 释义
 - **名词**:
-  - 对事物的说明或解释。例如: "Can you give me an explanation for your absence?"
-  - 解释的过程或结果。例如: "The teacher provided a detailed explanation of the math problem."
+  - 对事物的说明或解释。例如: "[Can](/post/can/) [you](/post/you/) [give](/post/give/) [me](/post/me/) an [explanation](/post/explanation/) [for](/post/for/) [your](/post/your/) [absence](/post/absence/)?"
+  - 解释的过程或结果。例如: "[The](/post/the/) [teacher](/post/teacher/) [provided](/post/provided/) [a](/post/a/) detailed [explanation](/post/explanation/) [of](/post/of/) [the](/post/the/) math [problem](/post/problem/)."
 
 ## 短语
-- "Explanation of terms" 意为术语的解释。
-- "In explanation" 表示作为解释或说明。
+- "[Explanation](/post/explanation/) [of](/post/of/) terms" 意为术语的解释。
+- "[In](/post/in/) [explanation](/post/explanation/)" 表示作为解释或说明。
 
 ## 例句
-- 名词: "I need a clear explanation about how this machine works."
-- "He offered no explanation for his behavior."
+- 名词: "I [need](/post/need/) [a](/post/a/) [clear](/post/clear/) [explanation](/post/explanation/) [about](/post/about/) [how](/post/how/) [this](/post/this/) [machine](/post/machine/) works."
+- "[He](/post/he/) offered [no](/post/no/) [explanation](/post/explanation/) [for](/post/for/) [his](/post/his/) [behavior](/post/behavior/)."
 
 ## 同义词
-- Description
-- Interpretation
+- [Description](/post/description/)
+- [Interpretation](/post/interpretation/)
 - Clarification
-- Account
+- [Account](/post/account/)
 - Rationale

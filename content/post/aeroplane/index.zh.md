@@ -11,19 +11,19 @@ keywords = ['ai words', 'aeroplane']
 /ˈeərəpleɪn/
 
 ## 释义
-- **名词 n**: 一种能在大气层中飞行的机器，通常由一个或多个发动机提供动力，有固定机翼和能够承载人员或货物。例如: "She saw an aeroplane flying overhead."
+- **名词 n**: 一种能在大气层中飞行的机器，通常由一个或多个发动机提供动力，有固定机翼和能够承载人员或货物。例如: "[She](/post/she/) [saw](/post/saw/) an [aeroplane](/post/aeroplane/) flying [overhead](/post/overhead/)."
 
 ## 短语
-- "Take an aeroplane" 意味着乘坐飞机旅行。
-- "Aeroplane ticket" 是指飞机票。
+- "[Take](/post/take/) an [aeroplane](/post/aeroplane/)" 意味着乘坐飞机旅行。
+- "[Aeroplane](/post/aeroplane/) [ticket](/post/ticket/)" 是指飞机票。
 
 ## 例句
-- "We'll need to book our aeroplane tickets well in advance for the holiday."
-- "The aeroplane landed smoothly on the runway."
+- "We'll [need](/post/need/) [to](/post/to/) [book](/post/book/) [our](/post/our/) [aeroplane](/post/aeroplane/) tickets [well](/post/well/) [in](/post/in/) [advance](/post/advance/) [for](/post/for/) [the](/post/the/) [holiday](/post/holiday/)."
+- "[The](/post/the/) [aeroplane](/post/aeroplane/) landed [smoothly](/post/smoothly/) [on](/post/on/) [the](/post/the/) runway."
 
 ## 同义词
-- Airplane
-- Plane
-- Jet
-- Aircraft
+- [Airplane](/post/airplane/)
+- [Plane](/post/plane/)
+- [Jet](/post/jet/)
+- [Aircraft](/post/aircraft/)
 - Flyer

@@ -7,26 +7,26 @@ description = '[ˈlætə] a.(两者中)后者的'
 keywords = ['ai words', 'latter']
 +++
 
-## Word: Latter
+## [Word](/en/post/word/): [Latter](/en/post/latter/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈlætər/
 
 ## Definitions
-- **Adjective**: Relating to the second mentioned of two things or people, or the one that comes later in time. For example: "I prefer the latter option."
+- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [the](/en/post/the/) [second](/en/post/second/) mentioned [of](/en/post/of/) [two](/en/post/two/) things [or](/en/post/or/) [people](/en/post/people/), [or](/en/post/or/) [the](/en/post/the/) [one](/en/post/one/) [that](/en/post/that/) comes [later](/en/post/later/) [in](/en/post/in/) [time](/en/post/time/). [For](/en/post/for/) [example](/en/post/example/): "I [prefer](/en/post/prefer/) [the](/en/post/the/) [latter](/en/post/latter/) [option](/en/post/option/)."
 
-Example Sentence: 
-- "Of the two designs, I chose the latter."
+[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
+- "[Of](/en/post/of/) [the](/en/post/the/) [two](/en/post/two/) designs, I chose [the](/en/post/the/) [latter](/en/post/latter/)."
   
 ## Phrases
-- "The former and the latter": This phrase is used to distinguish between two items, with "former" referring to the first item and "latter" to the second. For example: "In her career, she worked as a teacher and then a librarian; the former was rewarding, but she found the latter to be her true calling."
+- "[The](/en/post/the/) [former](/en/post/former/) [and](/en/post/and/) [the](/en/post/the/) [latter](/en/post/latter/)": [This](/en/post/this/) [phrase](/en/post/phrase/) is [used](/en/post/used/) [to](/en/post/to/) [distinguish](/en/post/distinguish/) [between](/en/post/between/) [two](/en/post/two/) items, [with](/en/post/with/) "[former](/en/post/former/)" referring [to](/en/post/to/) [the](/en/post/the/) [first](/en/post/first/) [item](/en/post/item/) [and](/en/post/and/) "[latter](/en/post/latter/)" [to](/en/post/to/) [the](/en/post/the/) [second](/en/post/second/). [For](/en/post/for/) [example](/en/post/example/): "[In](/en/post/in/) [her](/en/post/her/) [career](/en/post/career/), [she](/en/post/she/) worked [as](/en/post/as/) [a](/en/post/a/) [teacher](/en/post/teacher/) [and](/en/post/and/) [then](/en/post/then/) [a](/en/post/a/) [librarian](/en/post/librarian/); [the](/en/post/the/) [former](/en/post/former/) was rewarding, [but](/en/post/but/) [she](/en/post/she/) [found](/en/post/found/) [the](/en/post/the/) [latter](/en/post/latter/) [to](/en/post/to/) [be](/en/post/be/) [her](/en/post/her/) [true](/en/post/true/) calling."
 
 ## Synonyms
-- Last
-- Final
-- More recent
-- Subsequent
+- [Last](/en/post/last/)
+- [Final](/en/post/final/)
+- [More](/en/post/more/) [recent](/en/post/recent/)
+- [Subsequent](/en/post/subsequent/)
 - Lattermost
 - Concluding
 
-Note: The term "latter" is not typically used as a noun, verb, adverb, preposition, conjunction, pronoun, numeral, or interjection. It specifically functions as an adjective when contrasting two entities.
+[Note](/en/post/note/): [The](/en/post/the/) [term](/en/post/term/) "[latter](/en/post/latter/)" is [not](/en/post/not/) typically [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [noun](/en/post/noun/), [verb](/en/post/verb/), [adverb](/en/post/adverb/), [preposition](/en/post/preposition/), [conjunction](/en/post/conjunction/), [pronoun](/en/post/pronoun/), numeral, [or](/en/post/or/) interjection. [It](/en/post/it/) specifically functions [as](/en/post/as/) an [adjective](/en/post/adjective/) [when](/en/post/when/) contrasting [two](/en/post/two/) entities.

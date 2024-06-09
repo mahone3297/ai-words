@@ -7,47 +7,47 @@ description = '[ədˈvent∫ə] n.冒险；惊险活动'
 keywords = ['ai words', 'adventure']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ədˈventʃər/
 
 ## Definitions
-### Noun
-1. **An exciting experience or pursuit involving unusual risks or new activities.**
-   - Example: "Their love for adventure led them to hike through the Amazon rainforest."
-   - Synonyms: expedition, journey, quest, escapade, quest, pursuit
+### [Noun](/en/post/noun/)
+1. **An [exciting](/en/post/exciting/) [experience](/en/post/experience/) [or](/en/post/or/) [pursuit](/en/post/pursuit/) involving [unusual](/en/post/unusual/) risks [or](/en/post/or/) [new](/en/post/new/) activities.**
+   - [Example](/en/post/example/): "[Their](/en/post/their/) [love](/en/post/love/) [for](/en/post/for/) [adventure](/en/post/adventure/) led [them](/en/post/them/) [to](/en/post/to/) hike [through](/en/post/through/) [the](/en/post/the/) Amazon rainforest."
+   - Synonyms: expedition, [journey](/en/post/journey/), quest, escapade, quest, [pursuit](/en/post/pursuit/)
 
-2. **A thrilling story or book that contains exciting events and adventures.**
-   - Example: "The children loved reading adventure novels full of mystery and danger."
+2. **[A](/en/post/a/) thrilling [story](/en/post/story/) [or](/en/post/or/) [book](/en/post/book/) [that](/en/post/that/) contains [exciting](/en/post/exciting/) events [and](/en/post/and/) adventures.**
+   - [Example](/en/post/example/): "[The](/en/post/the/) children loved [reading](/en/post/reading/) [adventure](/en/post/adventure/) novels [full](/en/post/full/) [of](/en/post/of/) [mystery](/en/post/mystery/) [and](/en/post/and/) [danger](/en/post/danger/)."
 
-### Verb
-1. **To engage in or undertake an adventurous activity or journey.**
-   - Example: "They decided to adventure into the unknown wilderness."
-   - Synonyms: embark, explore, venture, travel, set out
+### [Verb](/en/post/verb/)
+1. **[To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [or](/en/post/or/) [undertake](/en/post/undertake/) an adventurous [activity](/en/post/activity/) [or](/en/post/or/) [journey](/en/post/journey/).**
+   - [Example](/en/post/example/): "[They](/en/post/they/) decided [to](/en/post/to/) [adventure](/en/post/adventure/) [into](/en/post/into/) [the](/en/post/the/) [unknown](/en/post/unknown/) wilderness."
+   - Synonyms: embark, [explore](/en/post/explore/), [venture](/en/post/venture/), [travel](/en/post/travel/), [set](/en/post/set/) [out](/en/post/out/)
 
-2. **To take a chance or act courageously in a new situation.**
-   - Example: "She冒险接受了这份工作，knowing it would be a challenge."
+2. **[To](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [chance](/en/post/chance/) [or](/en/post/or/) [act](/en/post/act/) courageously [in](/en/post/in/) [a](/en/post/a/) [new](/en/post/new/) [situation](/en/post/situation/).**
+   - [Example](/en/post/example/): "She冒险接受了这份工作，knowing [it](/en/post/it/) [would](/en/post/would/) [be](/en/post/be/) [a](/en/post/a/) [challenge](/en/post/challenge/)."
 
-### Adjective
-1. **Characterizing something as exciting, full of unexpected events, or daring.**
-   - Example: "The adventure film had a gripping storyline and breathtaking scenery."
+### [Adjective](/en/post/adjective/)
+1. **Characterizing [something](/en/post/something/) [as](/en/post/as/) [exciting](/en/post/exciting/), [full](/en/post/full/) [of](/en/post/of/) [unexpected](/en/post/unexpected/) events, [or](/en/post/or/) [daring](/en/post/daring/).**
+   - [Example](/en/post/example/): "[The](/en/post/the/) [adventure](/en/post/adventure/) [film](/en/post/film/) had [a](/en/post/a/) gripping storyline [and](/en/post/and/) breathtaking [scenery](/en/post/scenery/)."
 
 ## Phrases
-- "Embark on an adventure" means to start a journey or undertaking filled with excitement.
-- "Live life like an adventure" encourages taking risks and embracing new experiences.
-- "Adventure awaits" suggests a thrilling opportunity is imminent.
+- "Embark [on](/en/post/on/) an [adventure](/en/post/adventure/)" [means](/en/post/means/) [to](/en/post/to/) [start](/en/post/start/) [a](/en/post/a/) [journey](/en/post/journey/) [or](/en/post/or/) [undertaking](/en/post/undertaking/) filled [with](/en/post/with/) excitement.
+- "[Live](/en/post/live/) [life](/en/post/life/) [like](/en/post/like/) an [adventure](/en/post/adventure/)" encourages taking risks [and](/en/post/and/) embracing [new](/en/post/new/) experiences.
+- "[Adventure](/en/post/adventure/) awaits" suggests [a](/en/post/a/) thrilling [opportunity](/en/post/opportunity/) is imminent.
 
-## Example Sentences
-- **Noun**: "Their family's annual camping trip was a memorable adventure."
-- **Verb**: "After graduating, he冒险去了欧洲背包旅行，拓宽了视野。"
-- **Adjective**: "She felt a rush of adrenaline as she embarked on her adventurous lifestyle."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) family's [annual](/en/post/annual/) camping [trip](/en/post/trip/) was [a](/en/post/a/) memorable [adventure](/en/post/adventure/)."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) graduating, he冒险去了欧洲背包旅行，拓宽了视野。"
+- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) felt [a](/en/post/a/) [rush](/en/post/rush/) [of](/en/post/of/) adrenaline [as](/en/post/as/) [she](/en/post/she/) embarked [on](/en/post/on/) [her](/en/post/her/) adventurous lifestyle."
 
 ## Synonyms
-- Excursion
+- [Excursion](/en/post/excursion/)
 - Expedition
 - Trek
 - Quest
 - Jamboree
 - Romp
-- Dare
+- [Dare](/en/post/dare/)
 - Gamble
-- Plunge
+- [Plunge](/en/post/plunge/)

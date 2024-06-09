@@ -12,22 +12,22 @@ keywords = ['ai words', 'contribute']
 
 ## 释义
 - **动词**:
-  - 贡献；提供。例如: "She contributed a significant amount of money to the charity."
-  - 参与；投稿。例如: "He regularly contributes articles to the local newspaper."
-  - 有助于；促进。例如: "Exercising regularly contributes to a healthy lifestyle."
+  - 贡献；提供。例如: "[She](/post/she/) contributed [a](/post/a/) [significant](/post/significant/) [amount](/post/amount/) [of](/post/of/) [money](/post/money/) [to](/post/to/) [the](/post/the/) [charity](/post/charity/)."
+  - 参与；投稿。例如: "[He](/post/he/) [regularly](/post/regularly/) contributes articles [to](/post/to/) [the](/post/the/) [local](/post/local/) [newspaper](/post/newspaper/)."
+  - 有助于；促进。例如: "Exercising [regularly](/post/regularly/) contributes [to](/post/to/) [a](/post/a/) [healthy](/post/healthy/) lifestyle."
 
 ## 短语
-- "Contribute to something" 意为对某事做出贡献或导致某种结果。
-- "Contribute one's share" 表示尽自己的一份力。
-- "Contribute to the discussion" 是参与讨论的意思。
+- "[Contribute](/post/contribute/) [to](/post/to/) [something](/post/something/)" 意为对某事做出贡献或导致某种结果。
+- "[Contribute](/post/contribute/) one's [share](/post/share/)" 表示尽自己的一份力。
+- "[Contribute](/post/contribute/) [to](/post/to/) [the](/post/the/) [discussion](/post/discussion/)" 是参与讨论的意思。
 
 ## 例句
-- 动词: "Everyone in the team was asked to contribute their ideas for the project."
-- 有助于: "Eating a balanced diet contributes to maintaining a good weight."
+- 动词: "[Everyone](/post/everyone/) [in](/post/in/) [the](/post/the/) [team](/post/team/) was asked [to](/post/to/) [contribute](/post/contribute/) [their](/post/their/) ideas [for](/post/for/) [the](/post/the/) [project](/post/project/)."
+- 有助于: "Eating [a](/post/a/) balanced diet contributes [to](/post/to/) maintaining [a](/post/a/) [good](/post/good/) [weight](/post/weight/)."
 
 ## 同义词
 - Donate
-- Give
-- Add
-- Offer
-- Input
+- [Give](/post/give/)
+- [Add](/post/add/)
+- [Offer](/post/offer/)
+- [Input](/post/input/)

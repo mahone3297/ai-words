@@ -11,22 +11,22 @@ keywords = ['ai words', 'warm']
 /wɔːrm/
 
 ## 释义
-- **形容词**: 温暖的；热情的。例如: "The sun was shining, and it felt warm on my face."
-- **动词**: 使温暖；加热。例如: "She warmed her hands by the fire."
-- **名词**: 温暖的感觉或气氛。例如: "The warm atmosphere made us feel welcome."
+- **形容词**: 温暖的；热情的。例如: "[The](/post/the/) [sun](/post/sun/) was shining, [and](/post/and/) [it](/post/it/) felt [warm](/post/warm/) [on](/post/on/) [my](/post/my/) [face](/post/face/)."
+- **动词**: 使温暖；加热。例如: "[She](/post/she/) warmed [her](/post/her/) hands [by](/post/by/) [the](/post/the/) [fire](/post/fire/)."
+- **名词**: 温暖的感觉或气氛。例如: "[The](/post/the/) [warm](/post/warm/) [atmosphere](/post/atmosphere/) made [us](/post/us/) [feel](/post/feel/) [welcome](/post/welcome/)."
 
 ## 短语
-- "to warm up" 加热，预热，或者做准备活动。例如: "Let's warm up before the game."
-- "warm-hearted" 心地善良，热心肠的。例如: "She is a very warm-hearted person."
+- "[to](/post/to/) [warm](/post/warm/) [up](/post/up/)" 加热，预热，或者做准备活动。例如: "Let's [warm](/post/warm/) [up](/post/up/) [before](/post/before/) [the](/post/the/) [game](/post/game/)."
+- "warm-hearted" 心地善良，热心肠的。例如: "[She](/post/she/) is [a](/post/a/) [very](/post/very/) warm-hearted [person](/post/person/)."
 
 ## 例句
-- 形容词: "The warm weather encouraged us to have a picnic in the park."
-- 动词: "Can you warm the milk for the baby?"
-- 名词: "He welcomed us with a warm smile."
+- 形容词: "[The](/post/the/) [warm](/post/warm/) [weather](/post/weather/) encouraged [us](/post/us/) [to](/post/to/) [have](/post/have/) [a](/post/a/) [picnic](/post/picnic/) [in](/post/in/) [the](/post/the/) [park](/post/park/)."
+- 动词: "[Can](/post/can/) [you](/post/you/) [warm](/post/warm/) [the](/post/the/) [milk](/post/milk/) [for](/post/for/) [the](/post/the/) [baby](/post/baby/)?"
+- 名词: "[He](/post/he/) welcomed [us](/post/us/) [with](/post/with/) [a](/post/a/) [warm](/post/warm/) [smile](/post/smile/)."
 
 ## 同义词
 - cozy
-- comfortable
+- [comfortable](/post/comfortable/)
 - heated
 - genial
 - amiable

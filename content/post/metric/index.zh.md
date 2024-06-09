@@ -11,20 +11,20 @@ keywords = ['ai words', 'metric']
 /məˈtrɪk/
 
 ## 释义
-- **形容词**: 与米制单位或公制系统相关的。例如: "The US uses both imperial and metric systems for measurements."
-- **名词**: 公制单位系统。例如: "In the metric system, length is measured in meters."
+- **形容词**: 与米制单位或公制系统相关的。例如: "[The](/post/the/) [US](/post/us/) uses [both](/post/both/) imperial [and](/post/and/) [metric](/post/metric/) systems [for](/post/for/) measurements."
+- **名词**: 公制单位系统。例如: "[In](/post/in/) [the](/post/the/) [metric](/post/metric/) [system](/post/system/), [length](/post/length/) is measured [in](/post/in/) meters."
 
 ## 短语
-- "Metric system" 是指公制单位系统。
-- "Metric units" 包括克、米、升等不同类型的计量单位。
+- "[Metric](/post/metric/) [system](/post/system/)" 是指公制单位系统。
+- "[Metric](/post/metric/) units" 包括克、米、升等不同类型的计量单位。
 
 ## 例句
-- 形容词: "The recipe calls for 250 grams of flour, which is a metric measurement."
-- 名词: "In most countries, the metric system is used for everyday measurements."
+- 形容词: "[The](/post/the/) recipe calls [for](/post/for/) 250 grams [of](/post/of/) [flour](/post/flour/), [which](/post/which/) is [a](/post/a/) [metric](/post/metric/) [measurement](/post/measurement/)."
+- 名词: "[In](/post/in/) [most](/post/most/) countries, [the](/post/the/) [metric](/post/metric/) [system](/post/system/) is [used](/post/used/) [for](/post/for/) [everyday](/post/everyday/) measurements."
 
 ## 同义词
 - Metrical
-- SI (International System of Units)
+- SI ([International](/post/international/) [System](/post/system/) [of](/post/of/) Units)
 - Decimetric
 - Centimetric
 - Millimetric

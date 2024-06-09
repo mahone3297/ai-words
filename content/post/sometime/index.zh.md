@@ -11,20 +11,20 @@ keywords = ['ai words', 'sometime']
 /sʌmˈtaɪm/
 
 ## 释义
-- **副词**: 某个不确定的时间；某个时候。例如: "I'll visit you sometime next week."
-- **形容词**: 以前的，从前的。例如: "They talked about their sometime friends who had moved away."
+- **副词**: 某个不确定的时间；某个时候。例如: "I'll [visit](/post/visit/) [you](/post/you/) [sometime](/post/sometime/) [next](/post/next/) [week](/post/week/)."
+- **形容词**: 以前的，从前的。例如: "[They](/post/they/) talked [about](/post/about/) [their](/post/their/) [sometime](/post/sometime/) friends [who](/post/who/) had moved [away](/post/away/)."
 
 ## 短语
-- "sometime in the future" 表示未来的某个时间点。
-- "sometime ago" 指的是过去的一段时间。
+- "[sometime](/post/sometime/) [in](/post/in/) [the](/post/the/) [future](/post/future/)" 表示未来的某个时间点。
+- "[sometime](/post/sometime/) [ago](/post/ago/)" 指的是过去的一段时间。
 
 ## 例句
-- 副词: "We should catch up sometime, maybe over lunch."
-- 形容词: "That was our sometime neighbor, who we haven't seen for years."
+- 副词: "[We](/post/we/) [should](/post/should/) [catch](/post/catch/) [up](/post/up/) [sometime](/post/sometime/), [maybe](/post/maybe/) [over](/post/over/) [lunch](/post/lunch/)."
+- 形容词: "[That](/post/that/) was [our](/post/our/) [sometime](/post/sometime/) neighbor, [who](/post/who/) [we](/post/we/) haven't seen [for](/post/for/) years."
 
 ## 同义词
-- eventually
-- at some point
-- once upon a time
+- [eventually](/post/eventually/)
+- [at](/post/at/) [some](/post/some/) [point](/post/point/)
+- [once](/post/once/) [upon](/post/upon/) [a](/post/a/) [time](/post/time/)
 - formerly
-- on occasion
+- [on](/post/on/) [occasion](/post/occasion/)

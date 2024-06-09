@@ -11,20 +11,20 @@ keywords = ['ai words', 'fever']
 /ˈfiːvər/
 
 ## 释义
-- **名词**: 高热；发热。例如: "She was suffering from a high fever."
-- **动词**: 使狂热；使发热。例如: "The excitement fevered his imagination."
+- **名词**: 高热；发热。例如: "[She](/post/she/) was suffering [from](/post/from/) [a](/post/a/) [high](/post/high/) [fever](/post/fever/)."
+- **动词**: 使狂热；使发热。例如: "[The](/post/the/) excitement fevered [his](/post/his/) [imagination](/post/imagination/)."
 
 ## 短语
-- "break the fever" 意为退烧。
-- "fever pitch" 形容极度兴奋或紧张的状态。
+- "[break](/post/break/) [the](/post/the/) [fever](/post/fever/)" 意为退烧。
+- "[fever](/post/fever/) [pitch](/post/pitch/)" 形容极度兴奋或紧张的状态。
 
 ## 例句
-- 名词: "After the flu shot, he developed a mild fever that lasted for a day."
-- 动词: "The heat of the summer fevered the river, making it unsafe for swimming."
+- 名词: "[After](/post/after/) [the](/post/the/) [flu](/post/flu/) [shot](/post/shot/), [he](/post/he/) developed [a](/post/a/) [mild](/post/mild/) [fever](/post/fever/) [that](/post/that/) lasted [for](/post/for/) [a](/post/a/) [day](/post/day/)."
+- 动词: "[The](/post/the/) [heat](/post/heat/) [of](/post/of/) [the](/post/the/) [summer](/post/summer/) fevered [the](/post/the/) [river](/post/river/), making [it](/post/it/) unsafe [for](/post/for/) swimming."
 
 ## 同义词
-- Temperature rise
+- [Temperature](/post/temperature/) [rise](/post/rise/)
 - Inflammation
-- Heat
+- [Heat](/post/heat/)
 - Ailment
-- Illness
+- [Illness](/post/illness/)

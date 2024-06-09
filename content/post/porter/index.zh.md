@@ -11,21 +11,21 @@ keywords = ['ai words', 'porter']
 /ˈpɔːrtər/
 
 ## 释义
-- **名词 (n)**: 1. 门房，看门人。例如: "The porter opened the door for us."
-            2. 搬运工，行李员。例如: "The porter helped me with my luggage on the train."
+- **名词 (n)**: 1. 门房，看门人。例如: "[The](/post/the/) [porter](/post/porter/) opened [the](/post/the/) [door](/post/door/) [for](/post/for/) [us](/post/us/)."
+            2. 搬运工，行李员。例如: "[The](/post/the/) [porter](/post/porter/) helped [me](/post/me/) [with](/post/with/) [my](/post/my/) [luggage](/post/luggage/) [on](/post/on/) [the](/post/the/) [train](/post/train/)."
 
-- **动词 (v)**: 携带，搬运。例如: "He portered the heavy boxes to the third floor."
+- **动词 (v)**: 携带，搬运。例如: "[He](/post/he/) portered [the](/post/the/) [heavy](/post/heavy/) boxes [to](/post/to/) [the](/post/the/) [third](/post/third/) [floor](/post/floor/)."
 
 ## 短语
-- "porter service" 提供搬运服务的地方，如酒店或火车站。
-- "porter's lodge" 门房，看守人的小屋。
+- "[porter](/post/porter/) [service](/post/service/)" 提供搬运服务的地方，如酒店或火车站。
+- "porter's [lodge](/post/lodge/)" 门房，看守人的小屋。
 
 ## 例句
-- 名词: "The hotel porter was very helpful with our bags."
-- 动词: "She had to porter her books around campus every day."
+- 名词: "[The](/post/the/) [hotel](/post/hotel/) [porter](/post/porter/) was [very](/post/very/) [helpful](/post/helpful/) [with](/post/with/) [our](/post/our/) bags."
+- 动词: "[She](/post/she/) had [to](/post/to/) [porter](/post/porter/) [her](/post/her/) books [around](/post/around/) [campus](/post/campus/) [every](/post/every/) [day](/post/day/)."
 
 ## 同义词
-- Carrier
+- [Carrier](/post/carrier/)
 - Handler
 - Lifter
 - Transporter

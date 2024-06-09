@@ -15,21 +15,21 @@ keywords = ['ai words', 'bank']
 - **动词**: 将钱存入银行；（飞机）侧飞，倾斜。
 
 ## 短语
-- "bank account" 银行账户
-- "river bank" 河边
-- "to bank on something" 依靠，指望
+- "[bank](/post/bank/) [account](/post/account/)" 银行账户
+- "[river](/post/river/) [bank](/post/bank/)" 河边
+- "[to](/post/to/) [bank](/post/bank/) [on](/post/on/) [something](/post/something/)" 依靠，指望
 
 ## 例句
-- 名词: "I need to visit the bank to deposit some money."
-- 动词: "The pilot banked the airplane to the left."
-- 排列成一行: "The trees were banked along the road."
+- 名词: "I [need](/post/need/) [to](/post/to/) [visit](/post/visit/) [the](/post/the/) [bank](/post/bank/) [to](/post/to/) [deposit](/post/deposit/) [some](/post/some/) [money](/post/money/)."
+- 动词: "[The](/post/the/) [pilot](/post/pilot/) banked [the](/post/the/) [airplane](/post/airplane/) [to](/post/to/) [the](/post/the/) [left](/post/left/)."
+- 排列成一行: "[The](/post/the/) trees were banked [along](/post/along/) [the](/post/the/) [road](/post/road/)."
 
 ## 同义词
 - **名词**:
-  - financial institution
-  - shore
+  - [financial](/post/financial/) [institution](/post/institution/)
+  - [shore](/post/shore/)
   - repository
 - **动词**:
-  - deposit
-  - rely on
-  - lean
+  - [deposit](/post/deposit/)
+  - [rely](/post/rely/) [on](/post/on/)
+  - [lean](/post/lean/)

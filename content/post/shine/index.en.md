@@ -7,40 +7,40 @@ description = '[∫ain] vi.照耀，发光 n.光'
 keywords = ['ai words', 'shine']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /shaɪn/
 
 ## Definitions
-### Noun
-- **1** (noun): A bright, intense light or glow, often from a source such as the sun or a lightbulb. Example: "The moon shines brightly on the lake."
-- **2** (noun): The act of giving off light or appearing bright; luster or brilliance. Example: "The diamonds shone under the stage lights."
-- **3** (noun): A period of time when something is prominent or successful. Example: "His career really shone during the 90s."
+### [Noun](/en/post/noun/)
+- **1** ([noun](/en/post/noun/)): [A](/en/post/a/) [bright](/en/post/bright/), [intense](/en/post/intense/) [light](/en/post/light/) [or](/en/post/or/) [glow](/en/post/glow/), [often](/en/post/often/) [from](/en/post/from/) [a](/en/post/a/) [source](/en/post/source/) [such](/en/post/such/) [as](/en/post/as/) [the](/en/post/the/) [sun](/en/post/sun/) [or](/en/post/or/) [a](/en/post/a/) lightbulb. [Example](/en/post/example/): "[The](/en/post/the/) [moon](/en/post/moon/) shines brightly [on](/en/post/on/) [the](/en/post/the/) [lake](/en/post/lake/)."
+- **2** ([noun](/en/post/noun/)): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [off](/en/post/off/) [light](/en/post/light/) [or](/en/post/or/) appearing [bright](/en/post/bright/); luster [or](/en/post/or/) brilliance. [Example](/en/post/example/): "[The](/en/post/the/) diamonds shone [under](/en/post/under/) [the](/en/post/the/) [stage](/en/post/stage/) lights."
+- **3** ([noun](/en/post/noun/)): [A](/en/post/a/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/) [when](/en/post/when/) [something](/en/post/something/) is [prominent](/en/post/prominent/) [or](/en/post/or/) [successful](/en/post/successful/). [Example](/en/post/example/): "[His](/en/post/his/) [career](/en/post/career/) [really](/en/post/really/) shone [during](/en/post/during/) [the](/en/post/the/) 90s."
 
-### Verb
-- **(transitive)**: To emit light, especially brightly or gloriously. Example: "The stars shone brightly in the night sky."
-- **(intransitive)**: To have a radiant appearance or effect. Example: "Her smile always shines when she's happy."
+### [Verb](/en/post/verb/)
+- **(transitive)**: [To](/en/post/to/) [emit](/en/post/emit/) [light](/en/post/light/), [especially](/en/post/especially/) brightly [or](/en/post/or/) gloriously. [Example](/en/post/example/): "[The](/en/post/the/) stars shone brightly [in](/en/post/in/) [the](/en/post/the/) [night](/en/post/night/) [sky](/en/post/sky/)."
+- **(intransitive)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) radiant [appearance](/en/post/appearance/) [or](/en/post/or/) [effect](/en/post/effect/). [Example](/en/post/example/): "[Her](/en/post/her/) [smile](/en/post/smile/) [always](/en/post/always/) shines [when](/en/post/when/) she's [happy](/en/post/happy/)."
 
-### Adjective
-- Describing something that is bright, luminous, or attractive. Example: "The polished silverware shone in the candlelight."
+### [Adjective](/en/post/adjective/)
+- Describing [something](/en/post/something/) [that](/en/post/that/) is [bright](/en/post/bright/), luminous, [or](/en/post/or/) [attractive](/en/post/attractive/). [Example](/en/post/example/): "[The](/en/post/the/) polished silverware shone [in](/en/post/in/) [the](/en/post/the/) candlelight."
 
-### Adverb
-- (informal) Expressing a high degree or intensity of brightness. Example: "The lamp shone so brightly that it woke me up."
+### [Adverb](/en/post/adverb/)
+- (informal) Expressing [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/) [or](/en/post/or/) [intensity](/en/post/intensity/) [of](/en/post/of/) brightness. [Example](/en/post/example/): "[The](/en/post/the/) [lamp](/en/post/lamp/) shone [so](/en/post/so/) brightly [that](/en/post/that/) [it](/en/post/it/) woke [me](/en/post/me/) [up](/en/post/up/)."
 
 ## Phrases
-- "Shine a light on" to illuminate or reveal something.
-- "Let your light shine" to show your positive qualities or abilities.
-- "The sun hasn't even shone today" (to indicate a lack of sunlight).
+- "[Shine](/en/post/shine/) [a](/en/post/a/) [light](/en/post/light/) [on](/en/post/on/)" [to](/en/post/to/) illuminate [or](/en/post/or/) [reveal](/en/post/reveal/) [something](/en/post/something/).
+- "[Let](/en/post/let/) [your](/en/post/your/) [light](/en/post/light/) [shine](/en/post/shine/)" [to](/en/post/to/) [show](/en/post/show/) [your](/en/post/your/) [positive](/en/post/positive/) qualities [or](/en/post/or/) abilities.
+- "[The](/en/post/the/) [sun](/en/post/sun/) hasn't [even](/en/post/even/) shone [today](/en/post/today/)" ([to](/en/post/to/) [indicate](/en/post/indicate/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [sunlight](/en/post/sunlight/)).
 
-## Example Sentences
-- **Noun**: "The polished car shone like new after the detailing."
-- **Verb**: "She polished her shoes until they really shone."
-- **Adjective**: "The polished marble floors shone under the chandelier."
-- **Adverb**: "The stage lights shone brightly on the lead actor."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) polished [car](/en/post/car/) shone [like](/en/post/like/) [new](/en/post/new/) [after](/en/post/after/) [the](/en/post/the/) detailing."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) polished [her](/en/post/her/) shoes [until](/en/post/until/) [they](/en/post/they/) [really](/en/post/really/) shone."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) polished [marble](/en/post/marble/) floors shone [under](/en/post/under/) [the](/en/post/the/) chandelier."
+- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) [stage](/en/post/stage/) lights shone brightly [on](/en/post/on/) [the](/en/post/the/) [lead](/en/post/lead/) [actor](/en/post/actor/)."
 
 ## Synonyms
 - Glisten
 - Gleam
-- Radiate
+- [Radiate](/en/post/radiate/)
 - Lustrous
-- Glitter
-- Sparkle
+- [Glitter](/en/post/glitter/)
+- [Sparkle](/en/post/sparkle/)

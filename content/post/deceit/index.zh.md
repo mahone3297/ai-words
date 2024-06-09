@@ -11,16 +11,16 @@ keywords = ['ai words', 'deceit']
 /diːˈsiːt/
 
 ## 释义
-- **名词**: 欺骗，欺诈，不诚实的行为。例如: "He was charged with deceit in the business deal."
-- **动词**: 欺骗，蒙蔽，隐瞒事实。例如: "She deceitfully hid the truth from her friends."
+- **名词**: 欺骗，欺诈，不诚实的行为。例如: "[He](/post/he/) was charged [with](/post/with/) [deceit](/post/deceit/) [in](/post/in/) [the](/post/the/) [business](/post/business/) [deal](/post/deal/)."
+- **动词**: 欺骗，蒙蔽，隐瞒事实。例如: "[She](/post/she/) deceitfully hid [the](/post/the/) [truth](/post/truth/) [from](/post/from/) [her](/post/her/) friends."
 
 ## 短语
-- "Practice deceit" 意味着进行欺骗行为。
-- "To be deceived by someone" 表示被某人欺骗。
+- "[Practice](/post/practice/) [deceit](/post/deceit/)" 意味着进行欺骗行为。
+- "[To](/post/to/) [be](/post/be/) deceived [by](/post/by/) [someone](/post/someone/)" 表示被某人欺骗。
 
 ## 例句
-- 名词: "The company's fraudulent practices were a clear example of deceit."
-- 动词: "He deceitfully convinced her that he was wealthy."
+- 名词: "[The](/post/the/) company's fraudulent practices were [a](/post/a/) [clear](/post/clear/) [example](/post/example/) [of](/post/of/) [deceit](/post/deceit/)."
+- 动词: "[He](/post/he/) deceitfully convinced [her](/post/her/) [that](/post/that/) [he](/post/he/) was [wealthy](/post/wealthy/)."
 
 ## 同义词
 - Deception

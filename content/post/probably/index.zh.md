@@ -11,20 +11,20 @@ keywords = ['ai words', 'probably']
 /prəˈbəbli/
 
 ## 释义
-- **副词**: 表示可能性或大概率，意为“可能”，“大概”。例如: "It's probably going to rain today."
-- **形容词**: 罕见用作形容词，表示“很可能的”，“大概的”。例如: "The probably answer is the one most likely to be correct."
+- **副词**: 表示可能性或大概率，意为“可能”，“大概”。例如: "It's [probably](/post/probably/) going [to](/post/to/) [rain](/post/rain/) [today](/post/today/)."
+- **形容词**: 罕见用作形容词，表示“很可能的”，“大概的”。例如: "[The](/post/the/) [probably](/post/probably/) [answer](/post/answer/) is [the](/post/the/) [one](/post/one/) [most](/post/most/) [likely](/post/likely/) [to](/post/to/) [be](/post/be/) [correct](/post/correct/)."
 
 ## 短语
-- "probably not" 表示很可能不会或不。
-- "probably so" 表示很可能如此。
+- "[probably](/post/probably/) [not](/post/not/)" 表示很可能不会或不。
+- "[probably](/post/probably/) [so](/post/so/)" 表示很可能如此。
 
 ## 例句
-- 副词: "I'm probably going to stay in tonight."
-- 形容词: "That's probably the best solution to the problem."
+- 副词: "I'm [probably](/post/probably/) going [to](/post/to/) [stay](/post/stay/) [in](/post/in/) [tonight](/post/tonight/)."
+- 形容词: "That's [probably](/post/probably/) [the](/post/the/) [best](/post/best/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/)."
 
 ## 同义词
-- likely
-- possibly
-- perhaps
+- [likely](/post/likely/)
+- [possibly](/post/possibly/)
+- [perhaps](/post/perhaps/)
 - chances are
-- it seems
+- [it](/post/it/) seems

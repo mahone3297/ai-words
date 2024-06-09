@@ -11,21 +11,21 @@ keywords = ['ai words', 'loan']
 /ˈləʊn/
 
 ## 释义
-- **名词**: 借款；贷款。例如: "She took out a loan to pay for her studies."
-- **动词**: 借给；贷款。例如: "The bank loaned him the money to buy a house."
+- **名词**: 借款；贷款。例如: "[She](/post/she/) took [out](/post/out/) [a](/post/a/) [loan](/post/loan/) [to](/post/to/) [pay](/post/pay/) [for](/post/for/) [her](/post/her/) studies."
+- **动词**: 借给；贷款。例如: "[The](/post/the/) [bank](/post/bank/) loaned [him](/post/him/) [the](/post/the/) [money](/post/money/) [to](/post/to/) [buy](/post/buy/) [a](/post/a/) [house](/post/house/)."
 
 ## 短语
-- "personal loan" 个人贷款
-- "student loan" 学生贷款
-- "payday loan" 放薪日贷款
+- "[personal](/post/personal/) [loan](/post/loan/)" 个人贷款
+- "[student](/post/student/) [loan](/post/loan/)" 学生贷款
+- "payday [loan](/post/loan/)" 放薪日贷款
 
 ## 例句
-- 名词: "He has to repay the loan within a year."
-- 动词: "The bank loans money to customers with good credit history."
+- 名词: "[He](/post/he/) has [to](/post/to/) repay [the](/post/the/) [loan](/post/loan/) [within](/post/within/) [a](/post/a/) [year](/post/year/)."
+- 动词: "[The](/post/the/) [bank](/post/bank/) loans [money](/post/money/) [to](/post/to/) customers [with](/post/with/) [good](/post/good/) [credit](/post/credit/) [history](/post/history/)."
 
 ## 同义词
 - Borrowing
-- Advance
-- Credit
+- [Advance](/post/advance/)
+- [Credit](/post/credit/)
 - Financing
 - Lending

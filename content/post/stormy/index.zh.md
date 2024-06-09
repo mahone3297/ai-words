@@ -11,20 +11,20 @@ keywords = ['ai words', 'stormy']
 /stɔːrmɪ/
 
 ## 释义
-- **形容词**: 形容天气状况为暴风雨的，狂风暴雨的。例如: "A stormy night with heavy rain and thunder."
-- **形容词**: 形容情况或气氛紧张、动荡不安的。例如: "The meeting was stormy due to disagreements among the participants."
+- **形容词**: 形容天气状况为暴风雨的，狂风暴雨的。例如: "[A](/post/a/) [stormy](/post/stormy/) [night](/post/night/) [with](/post/with/) [heavy](/post/heavy/) [rain](/post/rain/) [and](/post/and/) [thunder](/post/thunder/)."
+- **形容词**: 形容情况或气氛紧张、动荡不安的。例如: "[The](/post/the/) [meeting](/post/meeting/) was [stormy](/post/stormy/) [due](/post/due/) [to](/post/to/) disagreements [among](/post/among/) [the](/post/the/) participants."
 
 ## 短语
-- "stormy weather" 指恶劣的气候条件，通常与强风和雨有关。
-- "stormy relationship" 表示充满冲突或不和谐的关系。
+- "[stormy](/post/stormy/) [weather](/post/weather/)" 指恶劣的气候条件，通常与强风和雨有关。
+- "[stormy](/post/stormy/) [relationship](/post/relationship/)" 表示充满冲突或不和谐的关系。
 
 ## 例句
-- 形容词: "The sailors braved the stormy seas during their voyage."
-- 形容词: "Their marriage had been through many stormy patches, but they managed to work things out."
+- 形容词: "[The](/post/the/) sailors braved [the](/post/the/) [stormy](/post/stormy/) seas [during](/post/during/) [their](/post/their/) [voyage](/post/voyage/)."
+- 形容词: "[Their](/post/their/) [marriage](/post/marriage/) had been [through](/post/through/) [many](/post/many/) [stormy](/post/stormy/) patches, [but](/post/but/) [they](/post/they/) managed [to](/post/to/) [work](/post/work/) things [out](/post/out/)."
 
 ## 同义词
-- Turbulent
-- Rough
-- Violent
+- [Turbulent](/post/turbulent/)
+- [Rough](/post/rough/)
+- [Violent](/post/violent/)
 - Unsettled
 - tempestuous

@@ -11,20 +11,20 @@ keywords = ['ai words', 'badly']
 /bædli/
 
 ## 释义
-- **副词**: 程度深地，非常；糟糕地，拙劣地。例如: "He was badly injured in the accident."
-- **形容词**: 糟糕的，严重的。主要用于口语和非正式语境。例如: "I feel badly today."
+- **副词**: 程度深地，非常；糟糕地，拙劣地。例如: "[He](/post/he/) was [badly](/post/badly/) injured [in](/post/in/) [the](/post/the/) [accident](/post/accident/)."
+- **形容词**: 糟糕的，严重的。主要用于口语和非正式语境。例如: "I [feel](/post/feel/) [badly](/post/badly/) [today](/post/today/)."
 
 ## 短语
-- "to do something badly" 表示某事做得不好或有严重问题。
-- "in bad shape" 或 "badly off" 意为情况不好或经济困难。
+- "[to](/post/to/) [do](/post/do/) [something](/post/something/) [badly](/post/badly/)" 表示某事做得不好或有严重问题。
+- "[in](/post/in/) [bad](/post/bad/) [shape](/post/shape/)" 或 "[badly](/post/badly/) [off](/post/off/)" 意为情况不好或经济困难。
 
 ## 例句
-- 副词: "She performed badly in the exam, which surprised everyone."
-- 形容词（非正式）: "I'm feeling badly, so I think I'll skip the party tonight."
+- 副词: "[She](/post/she/) performed [badly](/post/badly/) [in](/post/in/) [the](/post/the/) [exam](/post/exam/), [which](/post/which/) surprised [everyone](/post/everyone/)."
+- 形容词（非正式）: "I'm [feeling](/post/feeling/) [badly](/post/badly/), [so](/post/so/) I [think](/post/think/) I'll skip [the](/post/the/) [party](/post/party/) [tonight](/post/tonight/)."
 
 ## 同义词
 - Poorly
 - Terribly
-- Awfully
-- Seriously
-- Severely
+- [Awfully](/post/awfully/)
+- [Seriously](/post/seriously/)
+- [Severely](/post/severely/)

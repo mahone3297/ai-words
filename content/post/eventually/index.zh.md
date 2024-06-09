@@ -11,20 +11,20 @@ keywords = ['ai words', 'eventually']
 /ɪˈvɛnʃəli/
 
 ## 释义
-- **副词**: 最终，终于，最后。表示动作或状态在经历一段时间后发生。例如: "After years of hard work, he eventually achieved his goal."
+- **副词**: 最终，终于，最后。表示动作或状态在经历一段时间后发生。例如: "[After](/post/after/) years [of](/post/of/) [hard](/post/hard/) [work](/post/work/), [he](/post/he/) [eventually](/post/eventually/) achieved [his](/post/his/) [goal](/post/goal/)."
 
 ## 短语
-- "eventually come to a decision" 意味着最后做出决定。
-- "It will eventually happen" 表示某事迟早会发生。
+- "[eventually](/post/eventually/) [come](/post/come/) [to](/post/to/) [a](/post/a/) [decision](/post/decision/)" 意味着最后做出决定。
+- "[It](/post/it/) [will](/post/will/) [eventually](/post/eventually/) [happen](/post/happen/)" 表示某事迟早会发生。
 
 ## 例句
-- "She studied for months and eventually passed the exam with flying colors."
-- "The project was delayed several times, but it eventually got completed."
-- "If you keep practicing, you'll eventually become proficient in playing the piano."
+- "[She](/post/she/) studied [for](/post/for/) months [and](/post/and/) [eventually](/post/eventually/) passed [the](/post/the/) [exam](/post/exam/) [with](/post/with/) flying colors."
+- "[The](/post/the/) [project](/post/project/) was delayed [several](/post/several/) times, [but](/post/but/) [it](/post/it/) [eventually](/post/eventually/) got completed."
+- "[If](/post/if/) [you](/post/you/) [keep](/post/keep/) practicing, you'll [eventually](/post/eventually/) [become](/post/become/) proficient [in](/post/in/) playing [the](/post/the/) [piano](/post/piano/)."
 
 ## 同义词
-- Ultimately
-- Finally
-- In the end
-- At last
-- Sooner or later
+- [Ultimately](/post/ultimately/)
+- [Finally](/post/finally/)
+- [In](/post/in/) [the](/post/the/) [end](/post/end/)
+- [At](/post/at/) [last](/post/last/)
+- Sooner [or](/post/or/) [later](/post/later/)

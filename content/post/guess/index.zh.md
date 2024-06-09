@@ -11,22 +11,22 @@ keywords = ['ai words', 'guess']
 /gɪs/
 
 ## 释义
-- **名词**: 猜测；设想；估计。例如: "His guess was that it would take another hour to finish the task."
-- **动词**: 猜测；试图猜测。例如: "She guessed the answer to the puzzle correctly."
-- **形容词**: 凭猜测的；未经证实的。例如: "The information is still just a guess and not confirmed."
+- **名词**: 猜测；设想；估计。例如: "[His](/post/his/) [guess](/post/guess/) was [that](/post/that/) [it](/post/it/) [would](/post/would/) [take](/post/take/) [another](/post/another/) [hour](/post/hour/) [to](/post/to/) [finish](/post/finish/) [the](/post/the/) [task](/post/task/)."
+- **动词**: 猜测；试图猜测。例如: "[She](/post/she/) guessed [the](/post/the/) [answer](/post/answer/) [to](/post/to/) [the](/post/the/) [puzzle](/post/puzzle/) correctly."
+- **形容词**: 凭猜测的；未经证实的。例如: "[The](/post/the/) [information](/post/information/) is [still](/post/still/) [just](/post/just/) [a](/post/a/) [guess](/post/guess/) [and](/post/and/) [not](/post/not/) confirmed."
 
 ## 短语
-- "Take a guess" 意思是尝试猜测。
-- "Guess what?" 用于引起注意并引入一个可能令人惊讶的消息或问题。
+- "[Take](/post/take/) [a](/post/a/) [guess](/post/guess/)" 意思是尝试猜测。
+- "[Guess](/post/guess/) [what](/post/what/)?" 用于引起注意并引入一个可能令人惊讶的消息或问题。
 
 ## 例句
-- 名词: "Their guess about the weather turned out to be correct."
-- 动词: "Can you guess how many books are in this shelf?"
-- 形容词: "The answer was based on a guess rather than solid evidence."
+- 名词: "[Their](/post/their/) [guess](/post/guess/) [about](/post/about/) [the](/post/the/) [weather](/post/weather/) turned [out](/post/out/) [to](/post/to/) [be](/post/be/) [correct](/post/correct/)."
+- 动词: "[Can](/post/can/) [you](/post/you/) [guess](/post/guess/) [how](/post/how/) [many](/post/many/) books are [in](/post/in/) [this](/post/this/) [shelf](/post/shelf/)?"
+- 形容词: "[The](/post/the/) [answer](/post/answer/) was based [on](/post/on/) [a](/post/a/) [guess](/post/guess/) [rather](/post/rather/) [than](/post/than/) [solid](/post/solid/) [evidence](/post/evidence/)."
 
 ## 同义词
-- Estimate
-- Suppose
-- Assume
+- [Estimate](/post/estimate/)
+- [Suppose](/post/suppose/)
+- [Assume](/post/assume/)
 - Conjecture
 - Speculate

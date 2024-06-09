@@ -11,23 +11,23 @@ keywords = ['ai words', 'hazard']
 /hæzɑːd/
 
 ## 释义
-- **名词**: 危险；风险。例如: "Driving in heavy rain can be a serious hazard."
-- **名词**: 不可预知的事件或情况。例如: "The project was delayed due to unforeseen hazards."
-- **动词**: 冒险；拿...冒险。例如: "He hazarded a guess at the answer."
-- **名词 (在某些游戏中)**: 障碍或难关。例如: "In chess, the opponent's queen is a major hazard to your pawn."
+- **名词**: 危险；风险。例如: "Driving [in](/post/in/) [heavy](/post/heavy/) [rain](/post/rain/) [can](/post/can/) [be](/post/be/) [a](/post/a/) [serious](/post/serious/) [hazard](/post/hazard/)."
+- **名词**: 不可预知的事件或情况。例如: "[The](/post/the/) [project](/post/project/) was delayed [due](/post/due/) [to](/post/to/) unforeseen hazards."
+- **动词**: 冒险；拿...冒险。例如: "[He](/post/he/) hazarded [a](/post/a/) [guess](/post/guess/) [at](/post/at/) [the](/post/the/) [answer](/post/answer/)."
+- **名词 (在某些游戏中)**: 障碍或难关。例如: "[In](/post/in/) [chess](/post/chess/), [the](/post/the/) opponent's [queen](/post/queen/) is [a](/post/a/) [major](/post/major/) [hazard](/post/hazard/) [to](/post/to/) [your](/post/your/) pawn."
 
 ## 短语
-- "At one's own hazard" 意味着承担全部风险。
-- "To take a hazard" 是指接受或面临可能的危险。
+- "[At](/post/at/) one's [own](/post/own/) [hazard](/post/hazard/)" 意味着承担全部风险。
+- "[To](/post/to/) [take](/post/take/) [a](/post/a/) [hazard](/post/hazard/)" 是指接受或面临可能的危险。
 
 ## 例句
-- 名词: "The oil spill posed a significant environmental hazard."
-- 动词: "He hazarded a journey through the stormy weather."
-- 名词 (在游戏中): "The players had to navigate through various hazards on the golf course."
+- 名词: "[The](/post/the/) [oil](/post/oil/) [spill](/post/spill/) posed [a](/post/a/) [significant](/post/significant/) environmental [hazard](/post/hazard/)."
+- 动词: "[He](/post/he/) hazarded [a](/post/a/) [journey](/post/journey/) [through](/post/through/) [the](/post/the/) [stormy](/post/stormy/) [weather](/post/weather/)."
+- 名词 (在游戏中): "[The](/post/the/) players had [to](/post/to/) navigate [through](/post/through/) [various](/post/various/) hazards [on](/post/on/) [the](/post/the/) [golf](/post/golf/) [course](/post/course/)."
 
 ## 同义词
-- Risk
+- [Risk](/post/risk/)
 - Peril
-- DANGER
-- Threat
+- [DANGER](/post/danger/)
+- [Threat](/post/threat/)
 - Gamble

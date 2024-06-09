@@ -7,33 +7,33 @@ description = '[ˈeksikjuːt] vt.将…处死；实施'
 keywords = ['ai words', 'execute']
 +++
 
-## Word: Execute
+## [Word](/en/post/word/): [Execute](/en/post/execute/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ɪɡˈzɛkjʊteɪt/
 
 ## Definitions
-- **Verb**: (1) To carry out or perform (a task, order, plan, etc.) according to its instructions or requirements; to accomplish something. Example: "The company will execute the project within the given timeline."
-   - **Legal sense**: To put (a person) to death as a legal punishment. Example: "The prisoner was executed for his crimes."
-   - **Computing sense**: To run or carry out the commands in a program or software. Example: "The system administrator executed the script to update the server."
+- **[Verb](/en/post/verb/)**: (1) [To](/en/post/to/) [carry](/en/post/carry/) [out](/en/post/out/) [or](/en/post/or/) [perform](/en/post/perform/) ([a](/en/post/a/) [task](/en/post/task/), [order](/en/post/order/), [plan](/en/post/plan/), etc.) according [to](/en/post/to/) [its](/en/post/its/) instructions [or](/en/post/or/) requirements; [to](/en/post/to/) [accomplish](/en/post/accomplish/) [something](/en/post/something/). [Example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) [will](/en/post/will/) [execute](/en/post/execute/) [the](/en/post/the/) [project](/en/post/project/) [within](/en/post/within/) [the](/en/post/the/) given timeline."
+   - **[Legal](/en/post/legal/) [sense](/en/post/sense/)**: [To](/en/post/to/) [put](/en/post/put/) ([a](/en/post/a/) [person](/en/post/person/)) [to](/en/post/to/) [death](/en/post/death/) [as](/en/post/as/) [a](/en/post/a/) [legal](/en/post/legal/) [punishment](/en/post/punishment/). [Example](/en/post/example/): "[The](/en/post/the/) [prisoner](/en/post/prisoner/) was executed [for](/en/post/for/) [his](/en/post/his/) crimes."
+   - **Computing [sense](/en/post/sense/)**: [To](/en/post/to/) [run](/en/post/run/) [or](/en/post/or/) [carry](/en/post/carry/) [out](/en/post/out/) [the](/en/post/the/) commands [in](/en/post/in/) [a](/en/post/a/) [program](/en/post/program/) [or](/en/post/or/) software. [Example](/en/post/example/): "[The](/en/post/the/) [system](/en/post/system/) administrator executed [the](/en/post/the/) script [to](/en/post/to/) update [the](/en/post/the/) server."
 
 ## Phrases
-- "Execute a plan": To put a plan into action or effectuate it.
-- "Execute a contract": To sign and thereby make legally binding a contract.
-- "Execute a command": In computing, to run or carry out a specific instruction or set of instructions.
+- "[Execute](/en/post/execute/) [a](/en/post/a/) [plan](/en/post/plan/)": [To](/en/post/to/) [put](/en/post/put/) [a](/en/post/a/) [plan](/en/post/plan/) [into](/en/post/into/) [action](/en/post/action/) [or](/en/post/or/) effectuate [it](/en/post/it/).
+- "[Execute](/en/post/execute/) [a](/en/post/a/) [contract](/en/post/contract/)": [To](/en/post/to/) [sign](/en/post/sign/) [and](/en/post/and/) [thereby](/en/post/thereby/) [make](/en/post/make/) legally binding [a](/en/post/a/) [contract](/en/post/contract/).
+- "[Execute](/en/post/execute/) [a](/en/post/a/) [command](/en/post/command/)": [In](/en/post/in/) computing, [to](/en/post/to/) [run](/en/post/run/) [or](/en/post/or/) [carry](/en/post/carry/) [out](/en/post/out/) [a](/en/post/a/) [specific](/en/post/specific/) [instruction](/en/post/instruction/) [or](/en/post/or/) [set](/en/post/set/) [of](/en/post/of/) instructions.
 
-## Example Sentences
-- **General sense**: "The manager executed the marketing strategy flawlessly."
-- **Legal sense**: "The execution of the convicted murderer took place early this morning."
-- **Computing sense**: "Once you've written your code, you can execute it by pressing the 'run' button."
+## [Example](/en/post/example/) Sentences
+- **[General](/en/post/general/) [sense](/en/post/sense/)**: "[The](/en/post/the/) manager executed [the](/en/post/the/) marketing [strategy](/en/post/strategy/) flawlessly."
+- **[Legal](/en/post/legal/) [sense](/en/post/sense/)**: "[The](/en/post/the/) execution [of](/en/post/of/) [the](/en/post/the/) convicted [murderer](/en/post/murderer/) took [place](/en/post/place/) [early](/en/post/early/) [this](/en/post/this/) [morning](/en/post/morning/)."
+- **Computing [sense](/en/post/sense/)**: "[Once](/en/post/once/) you've written [your](/en/post/your/) [code](/en/post/code/), [you](/en/post/you/) [can](/en/post/can/) [execute](/en/post/execute/) [it](/en/post/it/) [by](/en/post/by/) pressing [the](/en/post/the/) '[run](/en/post/run/)' [button](/en/post/button/)."
 
 ## Synonyms
-- Carry out
-- Perform
+- [Carry](/en/post/carry/) [out](/en/post/out/)
+- [Perform](/en/post/perform/)
 - Implement
-- Accomplish
+- [Accomplish](/en/post/accomplish/)
 - Fulfill
-- Put into practice
-- Run (in a computing context)
+- [Put](/en/post/put/) [into](/en/post/into/) [practice](/en/post/practice/)
+- [Run](/en/post/run/) ([in](/en/post/in/) [a](/en/post/a/) computing context)
 - Enact
-- Apply (a decision or plan)
+- [Apply](/en/post/apply/) ([a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [plan](/en/post/plan/))

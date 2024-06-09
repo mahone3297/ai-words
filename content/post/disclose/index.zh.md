@@ -12,20 +12,20 @@ keywords = ['ai words', 'disclose']
 
 ## 释义
 - **动词**:
-  1. 公开透露；揭露：例如: "The company was forced to disclose the details of the deal."
-  2. 使显露，揭示：例如: "The therapist helped him disclose his deepest emotions."
+  1. 公开透露；揭露：例如: "[The](/post/the/) [company](/post/company/) was forced [to](/post/to/) [disclose](/post/disclose/) [the](/post/the/) details [of](/post/of/) [the](/post/the/) [deal](/post/deal/)."
+  2. 使显露，揭示：例如: "[The](/post/the/) therapist helped [him](/post/him/) [disclose](/post/disclose/) [his](/post/his/) deepest emotions."
 
 ## 短语
-- "disclose information" 泄露信息
-- "disclose one's intentions" 表明意图
+- "[disclose](/post/disclose/) [information](/post/information/)" 泄露信息
+- "[disclose](/post/disclose/) one's intentions" 表明意图
 
 ## 例句
-- "The politician refused to disclose his sources of funding."
-- "In the therapy session, she finally disclosed her struggles with anxiety."
+- "[The](/post/the/) [politician](/post/politician/) refused [to](/post/to/) [disclose](/post/disclose/) [his](/post/his/) sources [of](/post/of/) funding."
+- "[In](/post/in/) [the](/post/the/) therapy [session](/post/session/), [she](/post/she/) [finally](/post/finally/) disclosed [her](/post/her/) struggles [with](/post/with/) [anxiety](/post/anxiety/)."
 
 ## 同义词
-- reveal
-- expose
-- uncover
+- [reveal](/post/reveal/)
+- [expose](/post/expose/)
+- [uncover](/post/uncover/)
 - divulge
-- make known
+- [make](/post/make/) known

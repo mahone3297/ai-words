@@ -7,21 +7,21 @@ description = '[fəˈrevə] ad.永远，总是，老是'
 keywords = ['ai words', 'forever']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /fərˈevər/
 
 ## Definitions
-- **Adverb**: For all time; throughout all eternity. It expresses the idea of something that has no end or continues indefinitely. Example: "We will be friends forever."
-- **Adjective**: Describing something that lasts or continues without ceasing or ending. Example: "The love between them was forever unbreakable."
+- **[Adverb](/en/post/adverb/)**: [For](/en/post/for/) [all](/en/post/all/) [time](/en/post/time/); [throughout](/en/post/throughout/) [all](/en/post/all/) eternity. [It](/en/post/it/) expresses [the](/en/post/the/) [idea](/en/post/idea/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) has [no](/en/post/no/) [end](/en/post/end/) [or](/en/post/or/) continues indefinitely. [Example](/en/post/example/): "[We](/en/post/we/) [will](/en/post/will/) [be](/en/post/be/) friends [forever](/en/post/forever/)."
+- **[Adjective](/en/post/adjective/)**: Describing [something](/en/post/something/) [that](/en/post/that/) lasts [or](/en/post/or/) continues [without](/en/post/without/) ceasing [or](/en/post/or/) [ending](/en/post/ending/). [Example](/en/post/example/): "[The](/en/post/the/) [love](/en/post/love/) [between](/en/post/between/) [them](/en/post/them/) was [forever](/en/post/forever/) unbreakable."
 
 ## Phrases
-- "Forever and always": An expression emphasizing an eternal commitment or lasting duration. Example: "I'll love you forever and always."
-- "Till the end of time / forevermore": Expressions meaning 'for all eternity', typically used in romantic contexts. Example: "Our bond will last till the end of time."
-- "Forever and a day": An idiomatic expression suggesting an indefinite and very long period of time. Example: "I've been waiting for this moment forever and a day."
+- "[Forever](/en/post/forever/) [and](/en/post/and/) [always](/en/post/always/)": An [expression](/en/post/expression/) emphasizing an eternal commitment [or](/en/post/or/) lasting [duration](/en/post/duration/). [Example](/en/post/example/): "I'll [love](/en/post/love/) [you](/en/post/you/) [forever](/en/post/forever/) [and](/en/post/and/) [always](/en/post/always/)."
+- "[Till](/en/post/till/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [time](/en/post/time/) / forevermore": Expressions [meaning](/en/post/meaning/) '[for](/en/post/for/) [all](/en/post/all/) eternity', typically [used](/en/post/used/) [in](/en/post/in/) [romantic](/en/post/romantic/) contexts. [Example](/en/post/example/): "[Our](/en/post/our/) [bond](/en/post/bond/) [will](/en/post/will/) [last](/en/post/last/) [till](/en/post/till/) [the](/en/post/the/) [end](/en/post/end/) [of](/en/post/of/) [time](/en/post/time/)."
+- "[Forever](/en/post/forever/) [and](/en/post/and/) [a](/en/post/a/) [day](/en/post/day/)": An idiomatic [expression](/en/post/expression/) suggesting an [indefinite](/en/post/indefinite/) [and](/en/post/and/) [very](/en/post/very/) [long](/en/post/long/) [period](/en/post/period/) [of](/en/post/of/) [time](/en/post/time/). [Example](/en/post/example/): "I've been waiting [for](/en/post/for/) [this](/en/post/this/) [moment](/en/post/moment/) [forever](/en/post/forever/) [and](/en/post/and/) [a](/en/post/a/) [day](/en/post/day/)."
 
-## Example Sentences
-- **Adverb**: "She promised to cherish those memories forever."
-- **Adjective**: "This monument stands as a forever reminder of our nation's history."
+## [Example](/en/post/example/) Sentences
+- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) promised [to](/en/post/to/) cherish [those](/en/post/those/) memories [forever](/en/post/forever/)."
+- **[Adjective](/en/post/adjective/)**: "[This](/en/post/this/) [monument](/en/post/monument/) stands [as](/en/post/as/) [a](/en/post/a/) [forever](/en/post/forever/) reminder [of](/en/post/of/) [our](/en/post/our/) nation's [history](/en/post/history/)."
 
 ## Synonyms
 - Eternally
@@ -32,4 +32,4 @@ keywords = ['ai words', 'forever']
 - Lastingly
 - Unceasingly
 - Everlastingly
-- Permanently
+- [Permanently](/en/post/permanently/)

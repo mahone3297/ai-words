@@ -11,20 +11,20 @@ keywords = ['ai words', 'excellent']
 /ˈeksələnt/
 
 ## 释义
-- **形容词**: 极好的，优秀的，出色的。例如: "She did an excellent job on the project."
-- **副词**: 十分地，极其。例如: "He played the piano excellently."
+- **形容词**: 极好的，优秀的，出色的。例如: "[She](/post/she/) did an [excellent](/post/excellent/) [job](/post/job/) [on](/post/on/) [the](/post/the/) [project](/post/project/)."
+- **副词**: 十分地，极其。例如: "[He](/post/he/) played [the](/post/the/) [piano](/post/piano/) excellently."
 
 ## 短语
-- "Excellent performance" 意为出色的表现。
-- "In excellent condition" 指的是状态极佳。
+- "[Excellent](/post/excellent/) [performance](/post/performance/)" 意为出色的表现。
+- "[In](/post/in/) [excellent](/post/excellent/) [condition](/post/condition/)" 指的是状态极佳。
 
 ## 例句
-- 形容词: "The restaurant received excellent reviews for its food and service."
-- 副词: "She speaks French excellently, having lived in Paris for many years."
+- 形容词: "[The](/post/the/) [restaurant](/post/restaurant/) received [excellent](/post/excellent/) reviews [for](/post/for/) [its](/post/its/) [food](/post/food/) [and](/post/and/) [service](/post/service/)."
+- 副词: "[She](/post/she/) speaks French excellently, having lived [in](/post/in/) Paris [for](/post/for/) [many](/post/many/) years."
 
 ## 同义词
-- Great
+- [Great](/post/great/)
 - Superb
-- Outstanding
-- Marvelous
-- Terrific
+- [Outstanding](/post/outstanding/)
+- [Marvelous](/post/marvelous/)
+- [Terrific](/post/terrific/)

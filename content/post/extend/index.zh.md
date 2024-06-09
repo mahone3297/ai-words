@@ -12,25 +12,25 @@ keywords = ['ai words', 'extend']
 
 ## 释义
 - **动词**:
-1. 延长；扩展。例如: "The company decided to extend their working hours."
-2. 扩大；增大。例如: "The garden was extended to include a new flower bed."
-3. 推迟；延期。例如: "They granted me an extension on the deadline."
-4. 提供；给予。例如: "She offered to extend her help with the project."
+1. 延长；扩展。例如: "[The](/post/the/) [company](/post/company/) decided [to](/post/to/) [extend](/post/extend/) [their](/post/their/) working hours."
+2. 扩大；增大。例如: "[The](/post/the/) [garden](/post/garden/) was extended [to](/post/to/) [include](/post/include/) [a](/post/a/) [new](/post/new/) [flower](/post/flower/) [bed](/post/bed/)."
+3. 推迟；延期。例如: "[They](/post/they/) granted [me](/post/me/) an [extension](/post/extension/) [on](/post/on/) [the](/post/the/) deadline."
+4. 提供；给予。例如: "[She](/post/she/) offered [to](/post/to/) [extend](/post/extend/) [her](/post/her/) [help](/post/help/) [with](/post/with/) [the](/post/the/) [project](/post/project/)."
 
 ## 短语
-- "extend one's arm" 意为伸出手臂。
-- "extend an invitation" 意为发出邀请。
-- "extend credit" 意为提供信贷。
+- "[extend](/post/extend/) one's [arm](/post/arm/)" 意为伸出手臂。
+- "[extend](/post/extend/) an [invitation](/post/invitation/)" 意为发出邀请。
+- "[extend](/post/extend/) [credit](/post/credit/)" 意为提供信贷。
 
 ## 例句
-- "The bridge had to be extended to accommodate more traffic."
-- "The contract was extended for another six months."
-- "Can you extend your stay for a few more days?"
-- "They extended their gratitude to all the volunteers."
+- "[The](/post/the/) [bridge](/post/bridge/) had [to](/post/to/) [be](/post/be/) extended [to](/post/to/) [accommodate](/post/accommodate/) [more](/post/more/) [traffic](/post/traffic/)."
+- "[The](/post/the/) [contract](/post/contract/) was extended [for](/post/for/) [another](/post/another/) [six](/post/six/) months."
+- "[Can](/post/can/) [you](/post/you/) [extend](/post/extend/) [your](/post/your/) [stay](/post/stay/) [for](/post/for/) [a](/post/a/) [few](/post/few/) [more](/post/more/) days?"
+- "[They](/post/they/) extended [their](/post/their/) [gratitude](/post/gratitude/) [to](/post/to/) [all](/post/all/) [the](/post/the/) volunteers."
 
 ## 同义词
 - prolong
 - lengthen
 - broaden
-- amplify
+- [amplify](/post/amplify/)
 - enhance

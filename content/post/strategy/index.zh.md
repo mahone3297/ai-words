@@ -11,21 +11,21 @@ keywords = ['ai words', 'strategy']
 /ˈstrætədʒi/
 
 ## 释义
-- **名词**: 计划，策略；战略。例如: "The company's marketing strategy was a huge success."
-- **名词**: 军事战术，作战计划。例如: "In ancient times, battles were won through effective strategies."
+- **名词**: 计划，策略；战略。例如: "[The](/post/the/) company's marketing [strategy](/post/strategy/) was [a](/post/a/) [huge](/post/huge/) [success](/post/success/)."
+- **名词**: 军事战术，作战计划。例如: "[In](/post/in/) [ancient](/post/ancient/) times, battles were won [through](/post/through/) [effective](/post/effective/) strategies."
 
 ## 短语
-- "Business strategy" 商业策略
-- "Military strategy" 军事战略
-- "Game strategy" 游戏策略
+- "[Business](/post/business/) [strategy](/post/strategy/)" 商业策略
+- "[Military](/post/military/) [strategy](/post/strategy/)" 军事战略
+- "[Game](/post/game/) [strategy](/post/strategy/)" 游戏策略
 
 ## 例句
-- 名词: "Their new pricing strategy attracted more customers to the store."
-- 名词: "The general outlined his strategy for winning the war."
+- 名词: "[Their](/post/their/) [new](/post/new/) pricing [strategy](/post/strategy/) attracted [more](/post/more/) customers [to](/post/to/) [the](/post/the/) [store](/post/store/)."
+- 名词: "[The](/post/the/) [general](/post/general/) outlined [his](/post/his/) [strategy](/post/strategy/) [for](/post/for/) winning [the](/post/the/) [war](/post/war/)."
 
 ## 同义词
-- Plan
-- Approach
+- [Plan](/post/plan/)
+- [Approach](/post/approach/)
 - Tactic
-- Policy
-- Method
+- [Policy](/post/policy/)
+- [Method](/post/method/)

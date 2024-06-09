@@ -7,33 +7,33 @@ description = '[ətˈlæntik] a.大西洋的 n.大西洋'
 keywords = ['ai words', 'atlantic']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /əˈtlæntɪk/
 
 ## Definitions
-### Noun
-1. The Atlantic Ocean, one of the five major oceans on Earth, lying between Europe, Africa, North America, and South America, separating them from Asia and the Arctic Ocean.
-   - Example: "The Atlantic is home to diverse marine life."
-2. [atlantic region] A cultural or geographical area associated with the Atlantic Ocean, particularly in North America (e.g., the Atlantic Coast) or Europe (e.g., the Atlantic Charter).
+### [Noun](/en/post/noun/)
+1. [The](/en/post/the/) [Atlantic](/en/post/atlantic/) [Ocean](/en/post/ocean/), [one](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [five](/en/post/five/) [major](/en/post/major/) oceans [on](/en/post/on/) [Earth](/en/post/earth/), lying [between](/en/post/between/) Europe, [Africa](/en/post/africa/), [North](/en/post/north/) [America](/en/post/america/), [and](/en/post/and/) [South](/en/post/south/) [America](/en/post/america/), separating [them](/en/post/them/) [from](/en/post/from/) [Asia](/en/post/asia/) [and](/en/post/and/) [the](/en/post/the/) Arctic [Ocean](/en/post/ocean/).
+   - [Example](/en/post/example/): "[The](/en/post/the/) [Atlantic](/en/post/atlantic/) is [home](/en/post/home/) [to](/en/post/to/) [diverse](/en/post/diverse/) [marine](/en/post/marine/) [life](/en/post/life/)."
+2. [[atlantic](/en/post/atlantic/) [region](/en/post/region/)] [A](/en/post/a/) cultural [or](/en/post/or/) geographical [area](/en/post/area/) associated [with](/en/post/with/) [the](/en/post/the/) [Atlantic](/en/post/atlantic/) [Ocean](/en/post/ocean/), [particularly](/en/post/particularly/) [in](/en/post/in/) [North](/en/post/north/) [America](/en/post/america/) (e.g., [the](/en/post/the/) [Atlantic](/en/post/atlantic/) [Coast](/en/post/coast/)) [or](/en/post/or/) Europe (e.g., [the](/en/post/the/) [Atlantic](/en/post/atlantic/) Charter).
 
-### Adjective
-1. Relating to or situated on the Atlantic Ocean.
-   - Example: "The city has a thriving Atlantic seafood industry."
-2. [atlantic climate] Characterized by moderate temperatures and distinct seasonal changes.
+### [Adjective](/en/post/adjective/)
+1. Relating [to](/en/post/to/) [or](/en/post/or/) situated [on](/en/post/on/) [the](/en/post/the/) [Atlantic](/en/post/atlantic/) [Ocean](/en/post/ocean/).
+   - [Example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) has [a](/en/post/a/) thriving [Atlantic](/en/post/atlantic/) seafood [industry](/en/post/industry/)."
+2. [[atlantic](/en/post/atlantic/) [climate](/en/post/climate/)] Characterized [by](/en/post/by/) [moderate](/en/post/moderate/) temperatures [and](/en/post/and/) [distinct](/en/post/distinct/) seasonal changes.
 
 ## Phrases
-- "Crossing the Atlantic" refers to traveling across the ocean.
-- "Atlantic hurricane season" denotes the time when storms are most frequent in that region.
-- "Atlantic drift" describes the movement of ocean currents.
+- "Crossing [the](/en/post/the/) [Atlantic](/en/post/atlantic/)" refers [to](/en/post/to/) traveling [across](/en/post/across/) [the](/en/post/the/) [ocean](/en/post/ocean/).
+- "[Atlantic](/en/post/atlantic/) hurricane [season](/en/post/season/)" denotes [the](/en/post/the/) [time](/en/post/time/) [when](/en/post/when/) storms are [most](/en/post/most/) [frequent](/en/post/frequent/) [in](/en/post/in/) [that](/en/post/that/) [region](/en/post/region/).
+- "[Atlantic](/en/post/atlantic/) [drift](/en/post/drift/)" describes [the](/en/post/the/) [movement](/en/post/movement/) [of](/en/post/of/) [ocean](/en/post/ocean/) currents.
 
-## Example Sentences
-- **Noun**: "The ship sailed across the vast Atlantic Ocean."
-- **Adjective**: "The weather on the Atlantic coast can be quite unpredictable."
-- **Phrase**: "They decided to escape the winter by visiting the sunny Atlantic beaches."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ship](/en/post/ship/) sailed [across](/en/post/across/) [the](/en/post/the/) [vast](/en/post/vast/) [Atlantic](/en/post/atlantic/) [Ocean](/en/post/ocean/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [weather](/en/post/weather/) [on](/en/post/on/) [the](/en/post/the/) [Atlantic](/en/post/atlantic/) [coast](/en/post/coast/) [can](/en/post/can/) [be](/en/post/be/) [quite](/en/post/quite/) unpredictable."
+- **[Phrase](/en/post/phrase/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [escape](/en/post/escape/) [the](/en/post/the/) [winter](/en/post/winter/) [by](/en/post/by/) visiting [the](/en/post/the/) [sunny](/en/post/sunny/) [Atlantic](/en/post/atlantic/) beaches."
 
 ## Synonyms
-- None for "n" (since it's a proper noun referring to a specific body of water)
+- [None](/en/post/none/) [for](/en/post/for/) "n" ([since](/en/post/since/) it's [a](/en/post/a/) [proper](/en/post/proper/) [noun](/en/post/noun/) referring [to](/en/post/to/) [a](/en/post/a/) [specific](/en/post/specific/) [body](/en/post/body/) [of](/en/post/of/) [water](/en/post/water/))
 - Oceanic, maritime, coastal, transatlantic
-- [for "adjective"] - Ocean-related, Atlanticic, Atlantic-facing
+- [[for](/en/post/for/) "[adjective](/en/post/adjective/)"] - Ocean-related, Atlanticic, Atlantic-facing
 
-Note: Since "Atlantic" is primarily used as a proper noun, it doesn't have direct synonyms for an adjective. However, related adjectives are provided for context where appropriate.
+[Note](/en/post/note/): [Since](/en/post/since/) "[Atlantic](/en/post/atlantic/)" is [primarily](/en/post/primarily/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) [proper](/en/post/proper/) [noun](/en/post/noun/), [it](/en/post/it/) doesn't [have](/en/post/have/) [direct](/en/post/direct/) synonyms [for](/en/post/for/) an [adjective](/en/post/adjective/). [However](/en/post/however/), related adjectives are [provided](/en/post/provided/) [for](/en/post/for/) context [where](/en/post/where/) [appropriate](/en/post/appropriate/).

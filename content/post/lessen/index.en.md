@@ -7,27 +7,27 @@ description = '[ˈlesn] vt.减少，减轻；缩小'
 keywords = ['ai words', 'lessen']
 +++
 
-## Word: Lessen
+## [Word](/en/post/word/): [Lessen](/en/post/lessen/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈlesən/
 
 ## Definitions
-- **Verb**: To reduce in amount, degree, or intensity; to make something smaller or less significant.
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [reduce](/en/post/reduce/) [in](/en/post/in/) [amount](/en/post/amount/), [degree](/en/post/degree/), [or](/en/post/or/) [intensity](/en/post/intensity/); [to](/en/post/to/) [make](/en/post/make/) [something](/en/post/something/) smaller [or](/en/post/or/) [less](/en/post/less/) [significant](/en/post/significant/).
 
-  - _Example Sentence_: "The new exercise routine helped her lessen her anxiety levels."
+  - _Example Sentence_: "[The](/en/post/the/) [new](/en/post/new/) [exercise](/en/post/exercise/) [routine](/en/post/routine/) helped [her](/en/post/her/) [lessen](/en/post/lessen/) [her](/en/post/her/) [anxiety](/en/post/anxiety/) levels."
   - _Phrases_:
-    - "To lessen the burden" means to alleviate or reduce the weight or difficulty of a task or problem.
-    - "Lessen the gap" refers to reducing the difference or disparity between two things.
+    - "[To](/en/post/to/) [lessen](/en/post/lessen/) [the](/en/post/the/) [burden](/en/post/burden/)" [means](/en/post/means/) [to](/en/post/to/) alleviate [or](/en/post/or/) [reduce](/en/post/reduce/) [the](/en/post/the/) [weight](/en/post/weight/) [or](/en/post/or/) [difficulty](/en/post/difficulty/) [of](/en/post/of/) [a](/en/post/a/) [task](/en/post/task/) [or](/en/post/or/) [problem](/en/post/problem/).
+    - "[Lessen](/en/post/lessen/) [the](/en/post/the/) [gap](/en/post/gap/)" refers [to](/en/post/to/) reducing [the](/en/post/the/) [difference](/en/post/difference/) [or](/en/post/or/) disparity [between](/en/post/between/) [two](/en/post/two/) things.
   
-## Example Sentences
-- **Verb**: "We need to take steps to lessen our carbon footprint."
-- "Regular meditation can help lessen feelings of stress and tension."
-- "His absence has lessened the team's chances of winning the tournament."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/)**: "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [take](/en/post/take/) steps [to](/en/post/to/) [lessen](/en/post/lessen/) [our](/en/post/our/) [carbon](/en/post/carbon/) footprint."
+- "[Regular](/en/post/regular/) meditation [can](/en/post/can/) [help](/en/post/help/) [lessen](/en/post/lessen/) feelings [of](/en/post/of/) [stress](/en/post/stress/) [and](/en/post/and/) tension."
+- "[His](/en/post/his/) [absence](/en/post/absence/) has lessened [the](/en/post/the/) team's chances [of](/en/post/of/) winning [the](/en/post/the/) tournament."
 
 ## Synonyms
-- Reduce
-- Decrease
+- [Reduce](/en/post/reduce/)
+- [Decrease](/en/post/decrease/)
 - Diminish
 - Minimize
 - Alleviate
@@ -35,4 +35,4 @@ keywords = ['ai words', 'lessen']
 - Mitigate
 - Downsize
 - Curtail
-- Moderate
+- [Moderate](/en/post/moderate/)

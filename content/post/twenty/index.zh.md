@@ -11,16 +11,16 @@ keywords = ['ai words', 'twenty']
 /ˈtwɛnti/
 
 ## 释义
-- **数词**: 表示数量20。例如: "I have twenty books on my shelf."
+- **数词**: 表示数量20。例如: "I [have](/post/have/) [twenty](/post/twenty/) books [on](/post/on/) [my](/post/my/) [shelf](/post/shelf/)."
 
 ## 短语
 - "twenty-one" 指的是数字21。
-- "in my twenties" 意味着在20至29岁之间。
+- "[in](/post/in/) [my](/post/my/) twenties" 意味着在20至29岁之间。
 
 ## 例句
-- "There are twenty students in our class."
-- "She will turn twenty-five next month."
+- "[There](/post/there/) are [twenty](/post/twenty/) students [in](/post/in/) [our](/post/our/) [class](/post/class/)."
+- "[She](/post/she/) [will](/post/will/) [turn](/post/turn/) twenty-five [next](/post/next/) [month](/post/month/)."
 
 ## 同义词
-- two dozen (在某些上下文中，尤其是非正式场合，一打的两倍，即24)
+- [two](/post/two/) [dozen](/post/dozen/) (在某些上下文中，尤其是非正式场合，一打的两倍，即24)
 - vicenarian (用于形容20多岁的年轻人)

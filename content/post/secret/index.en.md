@@ -7,32 +7,32 @@ description = '[ˈsiːkrit] a.秘密的；隐蔽的'
 keywords = ['ai words', 'secret']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /səˈkrɛt/
 
 ## Definitions
-### Noun
-A **secret** is:
-1. Something that is known only to a few people and not generally shared: *She保守了一个秘密 about her vacation plans.*
-2. An important or confidential piece of information: *The government has classified some military secrets.*
+### [Noun](/en/post/noun/)
+[A](/en/post/a/) **[secret](/en/post/secret/)** is:
+1. [Something](/en/post/something/) [that](/en/post/that/) is known [only](/en/post/only/) [to](/en/post/to/) [a](/en/post/a/) [few](/en/post/few/) [people](/en/post/people/) [and](/en/post/and/) [not](/en/post/not/) [generally](/en/post/generally/) shared: *She保守了一个秘密 [about](/en/post/about/) [her](/en/post/her/) [vacation](/en/post/vacation/) plans.*
+2. An [important](/en/post/important/) [or](/en/post/or/) confidential [piece](/en/post/piece/) [of](/en/post/of/) [information](/en/post/information/): *[The](/en/post/the/) [government](/en/post/government/) has classified [some](/en/post/some/) [military](/en/post/military/) secrets.*
 
-### Verb
-To **keep a secret** is to maintain confidentiality or不说出: *He promised to keep the secret to himself.*
-To **reveal a secret** is to disclose what was previously unknown: *She finally revealed her family's secret.*
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) **[keep](/en/post/keep/) [a](/en/post/a/) [secret](/en/post/secret/)** is [to](/en/post/to/) [maintain](/en/post/maintain/) confidentiality or不说出: *[He](/en/post/he/) promised [to](/en/post/to/) [keep](/en/post/keep/) [the](/en/post/the/) [secret](/en/post/secret/) [to](/en/post/to/) [himself](/en/post/himself/).*
+[To](/en/post/to/) **[reveal](/en/post/reveal/) [a](/en/post/a/) [secret](/en/post/secret/)** is [to](/en/post/to/) [disclose](/en/post/disclose/) [what](/en/post/what/) was [previously](/en/post/previously/) [unknown](/en/post/unknown/): *[She](/en/post/she/) [finally](/en/post/finally/) revealed [her](/en/post/her/) family's [secret](/en/post/secret/).*
 
-### Adjective
-- Secretive (adj): Tending to keep things hidden or private: *He was a very secretive person.*
-- Confidential (adj): Intended for private communication and not to be shared: *Please handle this matter with utmost confidentiality.*
+### [Adjective](/en/post/adjective/)
+- Secretive (adj): Tending [to](/en/post/to/) [keep](/en/post/keep/) things hidden [or](/en/post/or/) [private](/en/post/private/): *[He](/en/post/he/) was [a](/en/post/a/) [very](/en/post/very/) secretive [person](/en/post/person/).*
+- Confidential (adj): Intended [for](/en/post/for/) [private](/en/post/private/) [communication](/en/post/communication/) [and](/en/post/and/) [not](/en/post/not/) [to](/en/post/to/) [be](/en/post/be/) shared: *[Please](/en/post/please/) [handle](/en/post/handle/) [this](/en/post/this/) [matter](/en/post/matter/) [with](/en/post/with/) [utmost](/en/post/utmost/) confidentiality.*
 
 ## Phrases
-- "Keep a secret" means to maintain discretion or not disclose information.
-- "Letting the cat out of the bag" is a colloquial expression for revealing a secret.
-- "Break a confidence" is when someone shares a secret they were entrusted with.
+- "[Keep](/en/post/keep/) [a](/en/post/a/) [secret](/en/post/secret/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) discretion [or](/en/post/or/) [not](/en/post/not/) [disclose](/en/post/disclose/) [information](/en/post/information/).
+- "Letting [the](/en/post/the/) [cat](/en/post/cat/) [out](/en/post/out/) [of](/en/post/of/) [the](/en/post/the/) [bag](/en/post/bag/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [for](/en/post/for/) revealing [a](/en/post/a/) [secret](/en/post/secret/).
+- "[Break](/en/post/break/) [a](/en/post/a/) [confidence](/en/post/confidence/)" is [when](/en/post/when/) [someone](/en/post/someone/) shares [a](/en/post/a/) [secret](/en/post/secret/) [they](/en/post/they/) were entrusted [with](/en/post/with/).
 
-## Example Sentences
-- **Noun**: She was surprised when he told her the whole story, as if he had let out a long-held secret.
-- **Verb**: He swore to keep the recipe for his grandmother's famous cake a secret.
-- **Adjective**: The spy agency maintained a highly secretive network of agents.
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: [She](/en/post/she/) was surprised [when](/en/post/when/) [he](/en/post/he/) told [her](/en/post/her/) [the](/en/post/the/) [whole](/en/post/whole/) [story](/en/post/story/), [as](/en/post/as/) [if](/en/post/if/) [he](/en/post/he/) had [let](/en/post/let/) [out](/en/post/out/) [a](/en/post/a/) long-held [secret](/en/post/secret/).
+- **[Verb](/en/post/verb/)**: [He](/en/post/he/) swore [to](/en/post/to/) [keep](/en/post/keep/) [the](/en/post/the/) recipe [for](/en/post/for/) [his](/en/post/his/) grandmother's [famous](/en/post/famous/) [cake](/en/post/cake/) [a](/en/post/a/) [secret](/en/post/secret/).
+- **[Adjective](/en/post/adjective/)**: [The](/en/post/the/) [spy](/en/post/spy/) [agency](/en/post/agency/) maintained [a](/en/post/a/) [highly](/en/post/highly/) secretive [network](/en/post/network/) [of](/en/post/of/) agents.
 
 ## Synonyms
 - Confidential

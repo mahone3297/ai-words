@@ -11,24 +11,24 @@ keywords = ['ai words', 'lower']
 /ˈləʊər/
 
 ## 释义
-- **形容词**: 较低的，下面的，矮的。例如: "The lower floor of the building has a restaurant."
-- **动词**: 降低，放下。例如: "Please lower your voice when speaking in the library."
-- **名词**: 下部，低端。例如: "The lower part of the mountain is covered in forest."
+- **形容词**: 较低的，下面的，矮的。例如: "[The](/post/the/) [lower](/post/lower/) [floor](/post/floor/) [of](/post/of/) [the](/post/the/) [building](/post/building/) has [a](/post/a/) [restaurant](/post/restaurant/)."
+- **动词**: 降低，放下。例如: "[Please](/post/please/) [lower](/post/lower/) [your](/post/your/) [voice](/post/voice/) [when](/post/when/) speaking [in](/post/in/) [the](/post/the/) [library](/post/library/)."
+- **名词**: 下部，低端。例如: "[The](/post/the/) [lower](/post/lower/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [mountain](/post/mountain/) is covered [in](/post/in/) [forest](/post/forest/)."
 
 ## 短语
-- "lower down" 降低，放低。例如: "Lower down the box gently onto the table."
-- "in the lower ranks" 在较低级别或地位。例如: "Many employees start in the lower ranks and work their way up."
+- "[lower](/post/lower/) [down](/post/down/)" 降低，放低。例如: "[Lower](/post/lower/) [down](/post/down/) [the](/post/the/) [box](/post/box/) [gently](/post/gently/) [onto](/post/onto/) [the](/post/the/) [table](/post/table/)."
+- "[in](/post/in/) [the](/post/the/) [lower](/post/lower/) ranks" 在较低级别或地位。例如: "[Many](/post/many/) employees [start](/post/start/) [in](/post/in/) [the](/post/the/) [lower](/post/lower/) ranks [and](/post/and/) [work](/post/work/) [their](/post/their/) [way](/post/way/) [up](/post/up/)."
 
 ## 例句
-- 形容词: "The lower branches of the tree were within his reach."
-- 动词: "He lowered his head to avoid hitting the low ceiling."
-- 名词: "The lower classes often faced more hardships in society."
+- 形容词: "[The](/post/the/) [lower](/post/lower/) branches [of](/post/of/) [the](/post/the/) [tree](/post/tree/) were [within](/post/within/) [his](/post/his/) [reach](/post/reach/)."
+- 动词: "[He](/post/he/) lowered [his](/post/his/) [head](/post/head/) [to](/post/to/) [avoid](/post/avoid/) hitting [the](/post/the/) [low](/post/low/) [ceiling](/post/ceiling/)."
+- 名词: "[The](/post/the/) [lower](/post/lower/) classes [often](/post/often/) faced [more](/post/more/) hardships [in](/post/in/) [society](/post/society/)."
 
 ## 同义词
-- Lower can have different synonyms depending on the context:
+- [Lower](/post/lower/) [can](/post/can/) [have](/post/have/) [different](/post/different/) synonyms depending [on](/post/on/) [the](/post/the/) context:
 - 形容词: 
-  - Lower = Lower-level, Downward, Basso
+  - [Lower](/post/lower/) = Lower-level, [Downward](/post/downward/), Basso
 - 动词: 
-  - Lower = Decrease, Descend, Reduce
+  - [Lower](/post/lower/) = [Decrease](/post/decrease/), [Descend](/post/descend/), [Reduce](/post/reduce/)
 
 请注意，lower作为形容词和动词时，其同义词会根据具体语境有所不同。

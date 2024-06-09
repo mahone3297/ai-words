@@ -11,20 +11,20 @@ keywords = ['ai words', 'learn']
 /ˈlɜːrn/
 
 ## 释义
-- **动词**: 获得知识或技能；学习。例如: "I'm learning French this semester."
-- **名词**: 学习的过程或结果。例如: "The child's learn is progressing rapidly."
+- **动词**: 获得知识或技能；学习。例如: "I'm [learning](/post/learning/) French [this](/post/this/) [semester](/post/semester/)."
+- **名词**: 学习的过程或结果。例如: "[The](/post/the/) child's [learn](/post/learn/) is progressing [rapidly](/post/rapidly/)."
 
 ## 短语
-- "Learn by heart" 记住，背诵。例如: "I had to learn the poem by heart for the recital."
-- "Learn from experience" 从经验中吸取教训。例如: "We should learn from our mistakes and not repeat them."
+- "[Learn](/post/learn/) [by](/post/by/) [heart](/post/heart/)" 记住，背诵。例如: "I had [to](/post/to/) [learn](/post/learn/) [the](/post/the/) [poem](/post/poem/) [by](/post/by/) [heart](/post/heart/) [for](/post/for/) [the](/post/the/) recital."
+- "[Learn](/post/learn/) [from](/post/from/) [experience](/post/experience/)" 从经验中吸取教训。例如: "[We](/post/we/) [should](/post/should/) [learn](/post/learn/) [from](/post/from/) [our](/post/our/) mistakes [and](/post/and/) [not](/post/not/) [repeat](/post/repeat/) [them](/post/them/)."
 
 ## 例句
-- 动词: "She spends hours each day learning new recipes."
-- 名词: "The teacher praised his dedication to the learn."
+- 动词: "[She](/post/she/) spends hours [each](/post/each/) [day](/post/day/) [learning](/post/learning/) [new](/post/new/) recipes."
+- 名词: "[The](/post/the/) [teacher](/post/teacher/) praised [his](/post/his/) dedication [to](/post/to/) [the](/post/the/) [learn](/post/learn/)."
 
 ## 同义词
-- Study
-- Acquire
-- Gain knowledge
-- Pick up
-- Master
+- [Study](/post/study/)
+- [Acquire](/post/acquire/)
+- [Gain](/post/gain/) [knowledge](/post/knowledge/)
+- [Pick](/post/pick/) [up](/post/up/)
+- [Master](/post/master/)

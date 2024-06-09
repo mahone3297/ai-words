@@ -7,35 +7,35 @@ description = '[rɔŋ] a.错误的 ad.错，不对'
 keywords = ['ai words', 'wrong']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /wrɒŋ/
 
 ## Definitions
-### Noun
-- **Adjective**: Opposite of right; incorrect or inaccurate. For example: "Her answer was completely wrong."
-- **Verb**: To be in the incorrect state or condition; to do something incorrectly. For example: "He made a wrong turn on the way to the airport."
-- **Adverb**: In an incorrect manner or way. For example: "She spoke too loudly, her tone was wrong."
+### [Noun](/en/post/noun/)
+- **[Adjective](/en/post/adjective/)**: [Opposite](/en/post/opposite/) [of](/en/post/of/) [right](/en/post/right/); [incorrect](/en/post/incorrect/) [or](/en/post/or/) inaccurate. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [answer](/en/post/answer/) was [completely](/en/post/completely/) [wrong](/en/post/wrong/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [the](/en/post/the/) [incorrect](/en/post/incorrect/) [state](/en/post/state/) [or](/en/post/or/) [condition](/en/post/condition/); [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/) incorrectly. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) made [a](/en/post/a/) [wrong](/en/post/wrong/) [turn](/en/post/turn/) [on](/en/post/on/) [the](/en/post/the/) [way](/en/post/way/) [to](/en/post/to/) [the](/en/post/the/) [airport](/en/post/airport/)."
+- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) an [incorrect](/en/post/incorrect/) [manner](/en/post/manner/) [or](/en/post/or/) [way](/en/post/way/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spoke [too](/en/post/too/) loudly, [her](/en/post/her/) [tone](/en/post/tone/) was [wrong](/en/post/wrong/)."
 
 ## Phrases
-- "Do something right" implies doing it correctly.
-- "Right or wrong" is used to evaluate the correctness of a decision or action.
-- "To be in the wrong" signifies having committed a mistake or transgression.
+- "[Do](/en/post/do/) [something](/en/post/something/) [right](/en/post/right/)" implies doing [it](/en/post/it/) correctly.
+- "[Right](/en/post/right/) [or](/en/post/or/) [wrong](/en/post/wrong/)" is [used](/en/post/used/) [to](/en/post/to/) [evaluate](/en/post/evaluate/) [the](/en/post/the/) correctness [of](/en/post/of/) [a](/en/post/a/) [decision](/en/post/decision/) [or](/en/post/or/) [action](/en/post/action/).
+- "[To](/en/post/to/) [be](/en/post/be/) [in](/en/post/in/) [the](/en/post/the/) [wrong](/en/post/wrong/)" signifies having committed [a](/en/post/a/) [mistake](/en/post/mistake/) [or](/en/post/or/) transgression.
 
-## Example Sentences
-- **Noun**: "The math problem had several wrong answers provided."
-- **Verb**: "I realized I had written down the wrong date for the meeting."
-- **Adverb**: "Her interpretation of the situation was just plain wrong."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) math [problem](/en/post/problem/) had [several](/en/post/several/) [wrong](/en/post/wrong/) answers [provided](/en/post/provided/)."
+- **[Verb](/en/post/verb/)**: "I realized I had written [down](/en/post/down/) [the](/en/post/the/) [wrong](/en/post/wrong/) [date](/en/post/date/) [for](/en/post/for/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
+- **[Adverb](/en/post/adverb/)**: "[Her](/en/post/her/) [interpretation](/en/post/interpretation/) [of](/en/post/of/) [the](/en/post/the/) [situation](/en/post/situation/) was [just](/en/post/just/) [plain](/en/post/plain/) [wrong](/en/post/wrong/)."
 
 ## Synonyms
-- Incorrect
+- [Incorrect](/en/post/incorrect/)
 - Misguided
-- Faulty
+- [Faulty](/en/post/faulty/)
 - Erroneous
 - Invalid
 
 ## Antonyms
-- Right
-- Correct
-- Accurate
-- Proper
-- Appropriate
+- [Right](/en/post/right/)
+- [Correct](/en/post/correct/)
+- [Accurate](/en/post/accurate/)
+- [Proper](/en/post/proper/)
+- [Appropriate](/en/post/appropriate/)

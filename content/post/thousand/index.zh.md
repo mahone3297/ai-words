@@ -11,18 +11,18 @@ keywords = ['ai words', 'thousand']
 /ˈθaʊzənd/
 
 ## 释义
-- **数词**: 1,000，表示数量。例如: "There are three thousand students in our school."
+- **数词**: 1,000，表示数量。例如: "[There](/post/there/) are [three](/post/three/) [thousand](/post/thousand/) students [in](/post/in/) [our](/post/our/) [school](/post/school/)."
 
 ## 短语
-- "thousands of" 表示成千上万的。例如: "There are thousands of stars in the sky."
+- "thousands [of](/post/of/)" 表示成千上万的。例如: "[There](/post/there/) are thousands [of](/post/of/) stars [in](/post/in/) [the](/post/the/) [sky](/post/sky/)."
 
 ## 例句
-- "She has read thousands of books in her lifetime."
-- "The company received thousands of applications for the job opening."
+- "[She](/post/she/) has [read](/post/read/) thousands [of](/post/of/) books [in](/post/in/) [her](/post/her/) [lifetime](/post/lifetime/)."
+- "[The](/post/the/) [company](/post/company/) received thousands [of](/post/of/) applications [for](/post/for/) [the](/post/the/) [job](/post/job/) [opening](/post/opening/)."
 
 ## 同义词
-- Many
-- Numerous
-- A great deal of
-- A multitude of
-- A lot of
+- [Many](/post/many/)
+- [Numerous](/post/numerous/)
+- [A](/post/a/) [great](/post/great/) [deal](/post/deal/) [of](/post/of/)
+- [A](/post/a/) multitude [of](/post/of/)
+- [A](/post/a/) [lot](/post/lot/) [of](/post/of/)

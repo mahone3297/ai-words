@@ -11,21 +11,21 @@ keywords = ['ai words', 'invitation']
 /ɪnvɪˈteɪʃn/
 
 ## 释义
-- **名词 (n)**: 一种正式或非正式的邀请，请求某人参加聚会、活动或其他场合。例如: "She sent out invitations to her birthday party."
-- **动词 (v)**: 邀请，发出邀请。例如: "They invitationed us to their wedding ceremony."
+- **名词 (n)**: 一种正式或非正式的邀请，请求某人参加聚会、活动或其他场合。例如: "[She](/post/she/) sent [out](/post/out/) invitations [to](/post/to/) [her](/post/her/) [birthday](/post/birthday/) [party](/post/party/)."
+- **动词 (v)**: 邀请，发出邀请。例如: "[They](/post/they/) invitationed [us](/post/us/) [to](/post/to/) [their](/post/their/) [wedding](/post/wedding/) [ceremony](/post/ceremony/)."
 
 ## 短语
-- "Accept an invitation" 接受邀请。
-- " decline an invitation" 拒绝邀请。
-- "extend an invitation" 发出邀请。
+- "[Accept](/post/accept/) an [invitation](/post/invitation/)" 接受邀请。
+- " decline an [invitation](/post/invitation/)" 拒绝邀请。
+- "[extend](/post/extend/) an [invitation](/post/invitation/)" 发出邀请。
 
 ## 例句
-- 名词: "The beautiful invitation card was embossed with gold lettering."
-- 动词: "They invitationed us for dinner, but we couldn't make it."
+- 名词: "[The](/post/the/) [beautiful](/post/beautiful/) [invitation](/post/invitation/) [card](/post/card/) was embossed [with](/post/with/) [gold](/post/gold/) lettering."
+- 动词: "[They](/post/they/) invitationed [us](/post/us/) [for](/post/for/) [dinner](/post/dinner/), [but](/post/but/) [we](/post/we/) couldn't [make](/post/make/) [it](/post/it/)."
 
 ## 同义词
-- Invite
-- Call
+- [Invite](/post/invite/)
+- [Call](/post/call/)
 - Summon
-- Ask
-- Request
+- [Ask](/post/ask/)
+- [Request](/post/request/)

@@ -7,31 +7,31 @@ description = '[inˈten∫ənəl] a.故意的，有意识的'
 keywords = ['ai words', 'intentional']
 +++
 
-## Word: Intentional
+## [Word](/en/post/word/): [Intentional](/en/post/intentional/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ɪnˈtenʃənəl/
 
 ## Definitions
-- **Adjective**: Done on purpose; deliberate. It describes an action that is planned, calculated, or intended rather than accidental or unintended. 
+- **[Adjective](/en/post/adjective/)**: Done [on](/en/post/on/) [purpose](/en/post/purpose/); deliberate. [It](/en/post/it/) describes an [action](/en/post/action/) [that](/en/post/that/) is planned, calculated, [or](/en/post/or/) intended [rather](/en/post/rather/) [than](/en/post/than/) [accidental](/en/post/accidental/) [or](/en/post/or/) unintended. 
 
-Example sentence: _The artist's intentional use of color created a vivid emotional response._
+[Example](/en/post/example/) [sentence](/en/post/sentence/): _The artist's [intentional](/en/post/intentional/) [use](/en/post/use/) [of](/en/post/of/) [color](/en/post/color/) created [a](/en/post/a/) [vivid](/en/post/vivid/) [emotional](/en/post/emotional/) [response](/en/post/response/)._
 
 ### Phrases
-- "Intentional harm": When someone deliberately causes damage or injury.
-- "Intentional living": A lifestyle where one makes conscious choices aligned with their values and goals.
-- "Intentional community": A group of people who have chosen to live together with a shared set of values or intentions.
+- "[Intentional](/en/post/intentional/) [harm](/en/post/harm/)": [When](/en/post/when/) [someone](/en/post/someone/) deliberately causes [damage](/en/post/damage/) [or](/en/post/or/) [injury](/en/post/injury/).
+- "[Intentional](/en/post/intentional/) [living](/en/post/living/)": [A](/en/post/a/) lifestyle [where](/en/post/where/) [one](/en/post/one/) makes [conscious](/en/post/conscious/) choices aligned [with](/en/post/with/) [their](/en/post/their/) values [and](/en/post/and/) goals.
+- "[Intentional](/en/post/intentional/) [community](/en/post/community/)": [A](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) [people](/en/post/people/) [who](/en/post/who/) [have](/en/post/have/) chosen [to](/en/post/to/) [live](/en/post/live/) [together](/en/post/together/) [with](/en/post/with/) [a](/en/post/a/) shared [set](/en/post/set/) [of](/en/post/of/) values [or](/en/post/or/) intentions.
 
-## Example Sentences
-- **Adjective**: _His decision to leave early was intentional, as he wanted to avoid the traffic._
-- _Her unintentional slip of the tongue contrasted sharply with her otherwise intentional and thoughtful remarks._
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: _His [decision](/en/post/decision/) [to](/en/post/to/) [leave](/en/post/leave/) [early](/en/post/early/) was [intentional](/en/post/intentional/), [as](/en/post/as/) [he](/en/post/he/) wanted [to](/en/post/to/) [avoid](/en/post/avoid/) [the](/en/post/the/) [traffic](/en/post/traffic/)._
+- _Her unintentional [slip](/en/post/slip/) [of](/en/post/of/) [the](/en/post/the/) [tongue](/en/post/tongue/) contrasted [sharply](/en/post/sharply/) [with](/en/post/with/) [her](/en/post/her/) [otherwise](/en/post/otherwise/) [intentional](/en/post/intentional/) [and](/en/post/and/) [thoughtful](/en/post/thoughtful/) remarks._
   
 ## Synonyms
 - Deliberate
 - Purposeful
 - Planned
 - Calculated
-- Conscious
+- [Conscious](/en/post/conscious/)
 - Premeditated
 - Designed
 - Meant

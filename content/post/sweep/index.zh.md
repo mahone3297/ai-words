@@ -11,23 +11,23 @@ keywords = ['ai words', 'sweep']
 /swiːp/
 
 ## 释义
-- **动词**: 用扫帚、刷子或其他工具清扫表面以清除灰尘、垃圾等。例如: "I need to sweep the floor before guests arrive."
-- **名词**: 清扫的动作或过程。例如: "The janitor did a quick sweep of the classroom."
-- **名词**: 彻底检查或搜索。例如: "The police made a sweep of the area for any clues."
-- **名词**: 在比赛中连续赢得多场比赛或奖项。例如: "The team completed a sweep of the season by winning all their games."
+- **动词**: 用扫帚、刷子或其他工具清扫表面以清除灰尘、垃圾等。例如: "I [need](/post/need/) [to](/post/to/) [sweep](/post/sweep/) [the](/post/the/) [floor](/post/floor/) [before](/post/before/) guests [arrive](/post/arrive/)."
+- **名词**: 清扫的动作或过程。例如: "[The](/post/the/) janitor did [a](/post/a/) [quick](/post/quick/) [sweep](/post/sweep/) [of](/post/of/) [the](/post/the/) [classroom](/post/classroom/)."
+- **名词**: 彻底检查或搜索。例如: "[The](/post/the/) [police](/post/police/) made [a](/post/a/) [sweep](/post/sweep/) [of](/post/of/) [the](/post/the/) [area](/post/area/) [for](/post/for/) [any](/post/any/) clues."
+- **名词**: 在比赛中连续赢得多场比赛或奖项。例如: "[The](/post/the/) [team](/post/team/) completed [a](/post/a/) [sweep](/post/sweep/) [of](/post/of/) [the](/post/the/) [season](/post/season/) [by](/post/by/) winning [all](/post/all/) [their](/post/their/) games."
 
 ## 短语
-- "Sweep something under the rug" 意味着试图隐藏或掩盖问题。
-- "Make a clean sweep" 表示彻底清除或改变一切。
+- "[Sweep](/post/sweep/) [something](/post/something/) [under](/post/under/) [the](/post/the/) [rug](/post/rug/)" 意味着试图隐藏或掩盖问题。
+- "[Make](/post/make/) [a](/post/a/) [clean](/post/clean/) [sweep](/post/sweep/)" 表示彻底清除或改变一切。
 
 ## 例句
-- 动词: "She swept the fallen leaves into a pile."
-- 名词: "The fireman's first task was a sweep of the burning building to ensure no one was left inside."
-- 名词: "The candidate swept the election with a large majority."
+- 动词: "[She](/post/she/) swept [the](/post/the/) fallen leaves [into](/post/into/) [a](/post/a/) [pile](/post/pile/)."
+- 名词: "[The](/post/the/) fireman's [first](/post/first/) [task](/post/task/) was [a](/post/a/) [sweep](/post/sweep/) [of](/post/of/) [the](/post/the/) burning [building](/post/building/) [to](/post/to/) [ensure](/post/ensure/) [no](/post/no/) [one](/post/one/) was [left](/post/left/) [inside](/post/inside/)."
+- 名词: "[The](/post/the/) [candidate](/post/candidate/) swept [the](/post/the/) [election](/post/election/) [with](/post/with/) [a](/post/a/) [large](/post/large/) [majority](/post/majority/)."
 
 ## 同义词
-- Clean
-- Brush
+- [Clean](/post/clean/)
+- [Brush](/post/brush/)
 -扫
-- Clear
-- Remove
+- [Clear](/post/clear/)
+- [Remove](/post/remove/)

@@ -11,18 +11,18 @@ keywords = ['ai words', 'comparative']
 /comˈpærətɪv/
 
 ## 释义
-- **形容词**: 表示相比其他事物具有某种程度的相似或不同。例如: "This new model is more efficient than its comparative counterpart."
-- **名词**: 比较级，用于比较两个或多个事物。例如: "In comparative literature, we study works from different cultures."
+- **形容词**: 表示相比其他事物具有某种程度的相似或不同。例如: "[This](/post/this/) [new](/post/new/) [model](/post/model/) is [more](/post/more/) [efficient](/post/efficient/) [than](/post/than/) [its](/post/its/) [comparative](/post/comparative/) counterpart."
+- **名词**: 比较级，用于比较两个或多个事物。例如: "[In](/post/in/) [comparative](/post/comparative/) [literature](/post/literature/), [we](/post/we/) [study](/post/study/) works [from](/post/from/) [different](/post/different/) cultures."
 
 ## 短语
-- "in comparative terms" 在比较的角度来看
-- "make a comparative analysis" 进行比较分析
+- "[in](/post/in/) [comparative](/post/comparative/) terms" 在比较的角度来看
+- "[make](/post/make/) [a](/post/a/) [comparative](/post/comparative/) [analysis](/post/analysis/)" 进行比较分析
 
 ## 例句
-- 形容词: "The comparative study of ancient civilizations revealed similarities in their architectural styles."
-- 名词: "The comparative linguistics class explored the connections between Latin and Romance languages."
+- 形容词: "[The](/post/the/) [comparative](/post/comparative/) [study](/post/study/) [of](/post/of/) [ancient](/post/ancient/) civilizations revealed similarities [in](/post/in/) [their](/post/their/) architectural styles."
+- 名词: "[The](/post/the/) [comparative](/post/comparative/) linguistics [class](/post/class/) explored [the](/post/the/) connections [between](/post/between/) Latin [and](/post/and/) Romance languages."
 
 ## 同义词
-- Relative
-- Comparative adjective (when used as an adjective)
-- Comparison (when used as a noun)
+- [Relative](/post/relative/)
+- [Comparative](/post/comparative/) [adjective](/post/adjective/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) an [adjective](/post/adjective/))
+- [Comparison](/post/comparison/) ([when](/post/when/) [used](/post/used/) [as](/post/as/) [a](/post/a/) [noun](/post/noun/))

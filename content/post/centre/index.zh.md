@@ -11,22 +11,22 @@ keywords = ['ai words', 'centre']
 /ˈsɛntər/
 
 ## 释义
-- **名词**: 中心；中央。例如: "The city's main square is located in the geographical centre of town."
-- **动词**: 使集中；居中。例如: "Please centre the picture on the wall."
-- **形容词**: 中心的；中央的。例如: "We stayed at a hotel in the centre of the city."
+- **名词**: 中心；中央。例如: "[The](/post/the/) city's [main](/post/main/) [square](/post/square/) is located [in](/post/in/) [the](/post/the/) geographical [centre](/post/centre/) [of](/post/of/) [town](/post/town/)."
+- **动词**: 使集中；居中。例如: "[Please](/post/please/) [centre](/post/centre/) [the](/post/the/) [picture](/post/picture/) [on](/post/on/) [the](/post/the/) [wall](/post/wall/)."
+- **形容词**: 中心的；中央的。例如: "[We](/post/we/) stayed [at](/post/at/) [a](/post/a/) [hotel](/post/hotel/) [in](/post/in/) [the](/post/the/) [centre](/post/centre/) [of](/post/of/) [the](/post/the/) [city](/post/city/)."
 
 ## 短语
-- "at the centre of" 意为在...的中心。例如: "She is at the centre of the local art scene."
-- "to bring sth to the centre" 意为将某事物引向中心。例如: "The discussion brought the main issue to the centre."
+- "[at](/post/at/) [the](/post/the/) [centre](/post/centre/) [of](/post/of/)" 意为在...的中心。例如: "[She](/post/she/) is [at](/post/at/) [the](/post/the/) [centre](/post/centre/) [of](/post/of/) [the](/post/the/) [local](/post/local/) [art](/post/art/) [scene](/post/scene/)."
+- "[to](/post/to/) [bring](/post/bring/) sth [to](/post/to/) [the](/post/the/) [centre](/post/centre/)" 意为将某事物引向中心。例如: "[The](/post/the/) [discussion](/post/discussion/) brought [the](/post/the/) [main](/post/main/) [issue](/post/issue/) [to](/post/to/) [the](/post/the/) [centre](/post/centre/)."
 
 ## 例句
-- 名词: "The new shopping mall is just a few blocks away from the city centre."
-- 动词: "She centred the vase on the table for better display."
-- 形容词: "The building stands proudly in the centre of the park."
+- 名词: "[The](/post/the/) [new](/post/new/) [shopping](/post/shopping/) mall is [just](/post/just/) [a](/post/a/) [few](/post/few/) blocks [away](/post/away/) [from](/post/from/) [the](/post/the/) [city](/post/city/) [centre](/post/centre/)."
+- 动词: "[She](/post/she/) centred [the](/post/the/) [vase](/post/vase/) [on](/post/on/) [the](/post/the/) [table](/post/table/) [for](/post/for/) [better](/post/better/) [display](/post/display/)."
+- 形容词: "[The](/post/the/) [building](/post/building/) stands proudly [in](/post/in/) [the](/post/the/) [centre](/post/centre/) [of](/post/of/) [the](/post/the/) [park](/post/park/)."
 
 ## 同义词
-- Middle
-- Core
-- Heart
+- [Middle](/post/middle/)
+- [Core](/post/core/)
+- [Heart](/post/heart/)
 - Hub
-- Focus
+- [Focus](/post/focus/)

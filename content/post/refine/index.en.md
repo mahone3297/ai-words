@@ -7,30 +7,30 @@ description = '[riˈfain] vt.&vi.精炼，提纯'
 keywords = ['ai words', 'refine']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /rɪˈfaɪn/
 
 ## Definitions
-### Noun
-- **Refinement**: The act or process of improving or making something more delicate, sophisticated, or polished in quality. For example: "The art of refinement is evident in her elegant manners."
-- **Refined**: Characterized by or having a high degree of polish, culture, or taste. For example: "A refined individual would never utter impolite language."
+### [Noun](/en/post/noun/)
+- **Refinement**: [The](/en/post/the/) [act](/en/post/act/) [or](/en/post/or/) [process](/en/post/process/) [of](/en/post/of/) improving [or](/en/post/or/) making [something](/en/post/something/) [more](/en/post/more/) [delicate](/en/post/delicate/), [sophisticated](/en/post/sophisticated/), [or](/en/post/or/) polished [in](/en/post/in/) [quality](/en/post/quality/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [art](/en/post/art/) [of](/en/post/of/) refinement is [evident](/en/post/evident/) [in](/en/post/in/) [her](/en/post/her/) elegant manners."
+- **Refined**: Characterized [by](/en/post/by/) [or](/en/post/or/) having [a](/en/post/a/) [high](/en/post/high/) [degree](/en/post/degree/) [of](/en/post/of/) [polish](/en/post/polish/), [culture](/en/post/culture/), [or](/en/post/or/) [taste](/en/post/taste/). [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) refined [individual](/en/post/individual/) [would](/en/post/would/) [never](/en/post/never/) [utter](/en/post/utter/) impolite [language](/en/post/language/)."
 
-### Verb
-- **To refine**: To purify, correct, or improve something by eliminating impurities or flaws. For example: "The chef refined the recipe over several months."
-- **To refine one's skills**: To develop or enhance one's abilities through practice or study. For example: "She spends hours refining her painting techniques."
+### [Verb](/en/post/verb/)
+- **[To](/en/post/to/) [refine](/en/post/refine/)**: [To](/en/post/to/) [purify](/en/post/purify/), [correct](/en/post/correct/), [or](/en/post/or/) [improve](/en/post/improve/) [something](/en/post/something/) [by](/en/post/by/) eliminating impurities [or](/en/post/or/) flaws. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) chef refined [the](/en/post/the/) recipe [over](/en/post/over/) [several](/en/post/several/) months."
+- **[To](/en/post/to/) [refine](/en/post/refine/) one's skills**: [To](/en/post/to/) [develop](/en/post/develop/) [or](/en/post/or/) enhance one's abilities [through](/en/post/through/) [practice](/en/post/practice/) [or](/en/post/or/) [study](/en/post/study/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) spends hours refining [her](/en/post/her/) [painting](/en/post/painting/) techniques."
 
-### Adjective
-- **Refined** (as an adjective): Showing or having good taste, manners, or cultural sophistication. For example: "A refined palate can distinguish between various wine flavors."
+### [Adjective](/en/post/adjective/)
+- **Refined** ([as](/en/post/as/) an [adjective](/en/post/adjective/)): Showing [or](/en/post/or/) having [good](/en/post/good/) [taste](/en/post/taste/), manners, [or](/en/post/or/) cultural sophistication. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) refined palate [can](/en/post/can/) [distinguish](/en/post/distinguish/) [between](/en/post/between/) [various](/en/post/various/) [wine](/en/post/wine/) flavors."
 
 ## Phrases
-- "Refine a skill" implies the process of honing or mastering a particular ability.
-- "Refined tastes" refer to a preference for high-quality or sophisticated things.
-- "Refining oil" is a term used in the petroleum industry to describe the process of turning crude oil into more useful products.
+- "[Refine](/en/post/refine/) [a](/en/post/a/) [skill](/en/post/skill/)" implies [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) honing [or](/en/post/or/) mastering [a](/en/post/a/) [particular](/en/post/particular/) [ability](/en/post/ability/).
+- "Refined tastes" [refer](/en/post/refer/) [to](/en/post/to/) [a](/en/post/a/) [preference](/en/post/preference/) [for](/en/post/for/) high-quality [or](/en/post/or/) [sophisticated](/en/post/sophisticated/) things.
+- "Refining [oil](/en/post/oil/)" is [a](/en/post/a/) [term](/en/post/term/) [used](/en/post/used/) [in](/en/post/in/) [the](/en/post/the/) [petroleum](/en/post/petroleum/) [industry](/en/post/industry/) [to](/en/post/to/) [describe](/en/post/describe/) [the](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) [turning](/en/post/turning/) [crude](/en/post/crude/) [oil](/en/post/oil/) [into](/en/post/into/) [more](/en/post/more/) [useful](/en/post/useful/) products.
 
-## Example Sentences
-- **Noun**: "Their lifestyle was a testament to their refinement and appreciation for the finer things in life."
-- **Verb**: "After years of practice, he finally refined his musical composition."
-- **Adjective**: "She had a refined understanding of art history."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[Their](/en/post/their/) lifestyle was [a](/en/post/a/) testament [to](/en/post/to/) [their](/en/post/their/) refinement [and](/en/post/and/) appreciation [for](/en/post/for/) [the](/en/post/the/) finer things [in](/en/post/in/) [life](/en/post/life/)."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) years [of](/en/post/of/) [practice](/en/post/practice/), [he](/en/post/he/) [finally](/en/post/finally/) refined [his](/en/post/his/) [musical](/en/post/musical/) [composition](/en/post/composition/)."
+- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) had [a](/en/post/a/) refined [understanding](/en/post/understanding/) [of](/en/post/of/) [art](/en/post/art/) [history](/en/post/history/)."
 
 ## Synonyms
 - Polished
@@ -40,8 +40,8 @@ keywords = ['ai words', 'refine']
 - Enhanced
 
 ## Antonyms
-- Coarse
-- Crude
+- [Coarse](/en/post/coarse/)
+- [Crude](/en/post/crude/)
 - Unrefined
 - Ungroomed
 - Untutored

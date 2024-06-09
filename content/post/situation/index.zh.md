@@ -11,23 +11,23 @@ keywords = ['ai words', 'situation']
 /ˈsɪtʃu.eɪ.ʃən/
 
 ## 释义
-- **名词**: 一种状况、环境或位置。例如: "The company is in a difficult financial situation."
-- **名词**: 特定的情境或事件。例如: "The situation comedy is a popular TV genre."
-- **名词**: 地理或地形的位置。例如: "The house has a beautiful situation overlooking the lake."
+- **名词**: 一种状况、环境或位置。例如: "[The](/post/the/) [company](/post/company/) is [in](/post/in/) [a](/post/a/) [difficult](/post/difficult/) [financial](/post/financial/) [situation](/post/situation/)."
+- **名词**: 特定的情境或事件。例如: "[The](/post/the/) [situation](/post/situation/) comedy is [a](/post/a/) [popular](/post/popular/) TV genre."
+- **名词**: 地理或地形的位置。例如: "[The](/post/the/) [house](/post/house/) has [a](/post/a/) [beautiful](/post/beautiful/) [situation](/post/situation/) overlooking [the](/post/the/) [lake](/post/lake/)."
 
 ## 短语
-- "In a situation" 指处于某种状态或情况中。
-- "Out of situation" 意为失业或失去职位。
-- "Critical situation" 表示紧急或严重的情况。
+- "[In](/post/in/) [a](/post/a/) [situation](/post/situation/)" 指处于某种状态或情况中。
+- "[Out](/post/out/) [of](/post/of/) [situation](/post/situation/)" 意为失业或失去职位。
+- "[Critical](/post/critical/) [situation](/post/situation/)" 表示紧急或严重的情况。
 
 ## 例句
-- 名词: "We need to find a solution to this situation before it escalates."
-- 名词: "The situation with the pandemic requires everyone to wear masks."
-- 名词: "The situation on the battlefield was tense and unpredictable."
+- 名词: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [find](/post/find/) [a](/post/a/) [solution](/post/solution/) [to](/post/to/) [this](/post/this/) [situation](/post/situation/) [before](/post/before/) [it](/post/it/) escalates."
+- 名词: "[The](/post/the/) [situation](/post/situation/) [with](/post/with/) [the](/post/the/) pandemic requires [everyone](/post/everyone/) [to](/post/to/) [wear](/post/wear/) masks."
+- 名词: "[The](/post/the/) [situation](/post/situation/) [on](/post/on/) [the](/post/the/) battlefield was [tense](/post/tense/) [and](/post/and/) unpredictable."
 
 ## 同义词
-- Condition
-- Circumstance
+- [Condition](/post/condition/)
+- [Circumstance](/post/circumstance/)
 - Scenario
 - Context
-- State
+- [State](/post/state/)

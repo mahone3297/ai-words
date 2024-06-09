@@ -12,25 +12,25 @@ keywords = ['ai words', 'flourish']
 
 ## 释义
 - **动词**:
-  - 生长茂盛；茁壮成长。例如: "The trees flourished in the sunny climate."
-  - 兴旺发达；繁荣昌盛。例如: "The business flourished during the economic boom."
-  - 举起（某物），挥舞。例如: "He flourishing his sword, he charged into battle."
-  - （艺术、技能等）展示，发挥。例如: "She flourished her talent for painting."
+  - 生长茂盛；茁壮成长。例如: "[The](/post/the/) trees flourished [in](/post/in/) [the](/post/the/) [sunny](/post/sunny/) [climate](/post/climate/)."
+  - 兴旺发达；繁荣昌盛。例如: "[The](/post/the/) [business](/post/business/) flourished [during](/post/during/) [the](/post/the/) [economic](/post/economic/) boom."
+  - 举起（某物），挥舞。例如: "[He](/post/he/) flourishing [his](/post/his/) [sword](/post/sword/), [he](/post/he/) charged [into](/post/into/) [battle](/post/battle/)."
+  - （艺术、技能等）展示，发挥。例如: "[She](/post/she/) flourished [her](/post/her/) [talent](/post/talent/) [for](/post/for/) [painting](/post/painting/)."
 
 - **名词**:
-  - 茂盛；旺盛。例如: "a period of great flourish in art"
+  - 茂盛；旺盛。例如: "[a](/post/a/) [period](/post/period/) [of](/post/of/) [great](/post/great/) [flourish](/post/flourish/) [in](/post/in/) [art](/post/art/)"
 
 ## 短语
-- "to flourish a weapon" 意为挥舞武器。
-- "flourish one's skills" 表示发挥或炫耀某项技能。
+- "[to](/post/to/) [flourish](/post/flourish/) [a](/post/a/) [weapon](/post/weapon/)" 意为挥舞武器。
+- "[flourish](/post/flourish/) one's skills" 表示发挥或炫耀某项技能。
 
 ## 例句
-- 动词: "The economy is flourishing, creating many new job opportunities."
-- 名词: "The garden was filled with the flourish of colorful flowers."
+- 动词: "[The](/post/the/) [economy](/post/economy/) is flourishing, creating [many](/post/many/) [new](/post/new/) [job](/post/job/) opportunities."
+- 名词: "[The](/post/the/) [garden](/post/garden/) was filled [with](/post/with/) [the](/post/the/) [flourish](/post/flourish/) [of](/post/of/) colorful flowers."
 
 ## 同义词
-- thrive
+- [thrive](/post/thrive/)
 - prosper
-- bloom
-- grow vigorously
-- wave (for the act of waving something)
+- [bloom](/post/bloom/)
+- [grow](/post/grow/) vigorously
+- [wave](/post/wave/) ([for](/post/for/) [the](/post/the/) [act](/post/act/) [of](/post/of/) waving [something](/post/something/))

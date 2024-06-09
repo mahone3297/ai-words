@@ -18,16 +18,16 @@ keywords = ['ai words', 'Latin']
    - 指使用拉丁字母的。
 
 ## 短语
-- "In Latin" 表示用拉丁语书写或表达。
-- "Latin America" 指美洲大陆上讲罗曼语族语言的国家和地区。
+- "[In](/post/in/) Latin" 表示用拉丁语书写或表达。
+- "Latin [America](/post/america/)" 指美洲大陆上讲罗曼语族语言的国家和地区。
 
 ## 例句
-- 名词: "Many scientific terms are derived from Latin."
-- "The Mass was still celebrated in Latin until the 1960s."
+- 名词: "[Many](/post/many/) [scientific](/post/scientific/) terms are derived [from](/post/from/) Latin."
+- "[The](/post/the/) [Mass](/post/mass/) was [still](/post/still/) celebrated [in](/post/in/) Latin [until](/post/until/) [the](/post/the/) 1960s."
 
 ## 同义词
-- Ancient Roman language
-- Classical Latin
-- Romance languages' ancestor
+- [Ancient](/post/ancient/) Roman [language](/post/language/)
+- [Classical](/post/classical/) Latin
+- Romance languages' [ancestor](/post/ancestor/)
 
 请注意，"Latin"一词在不同的上下文中可能有不同含义，上述解释主要针对其作为语言的用法。在其他情况下，如描述人种（拉美人）、音乐风格（拉丁音乐）或舞蹈（拉丁舞）时，其含义会有所不同。

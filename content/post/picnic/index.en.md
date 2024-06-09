@@ -7,33 +7,33 @@ description = '[ˈpiknik] n.郊游，野餐 vi.野餐'
 keywords = ['ai words', 'picnic']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /pɪkˈnɪk/
 
 ## Definitions
-- **Noun**: A social gathering outdoors, typically for a meal, often in a park or countryside. "We're planning a picnic for this weekend."
-- **Verb**: To have a picnic, or to partake in a picnic activity. "Let's picnic by the lake."
-- **Noun**: (informal) The food and drink brought to such an event. "She packed sandwiches and fruit for our picnic lunch."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [social](/en/post/social/) gathering [outdoors](/en/post/outdoors/), typically [for](/en/post/for/) [a](/en/post/a/) [meal](/en/post/meal/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [park](/en/post/park/) [or](/en/post/or/) [countryside](/en/post/countryside/). "We're planning [a](/en/post/a/) [picnic](/en/post/picnic/) [for](/en/post/for/) [this](/en/post/this/) [weekend](/en/post/weekend/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [picnic](/en/post/picnic/), [or](/en/post/or/) [to](/en/post/to/) partake [in](/en/post/in/) [a](/en/post/a/) [picnic](/en/post/picnic/) [activity](/en/post/activity/). "Let's [picnic](/en/post/picnic/) [by](/en/post/by/) [the](/en/post/the/) [lake](/en/post/lake/)."
+- **[Noun](/en/post/noun/)**: (informal) [The](/en/post/the/) [food](/en/post/food/) [and](/en/post/and/) [drink](/en/post/drink/) brought [to](/en/post/to/) [such](/en/post/such/) an [event](/en/post/event/). "[She](/en/post/she/) packed sandwiches [and](/en/post/and/) [fruit](/en/post/fruit/) [for](/en/post/for/) [our](/en/post/our/) [picnic](/en/post/picnic/) [lunch](/en/post/lunch/)."
 
 ## Phrases
-- "Going on a picnic" means to organize or participate in a picnic.
-- "Picnic basket" refers to a container used to carry picnic items.
-- "Picnic blanket" is a cloth used to sit on during a picnic.
+- "Going [on](/en/post/on/) [a](/en/post/a/) [picnic](/en/post/picnic/)" [means](/en/post/means/) [to](/en/post/to/) [organize](/en/post/organize/) [or](/en/post/or/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [picnic](/en/post/picnic/).
+- "[Picnic](/en/post/picnic/) [basket](/en/post/basket/)" refers [to](/en/post/to/) [a](/en/post/a/) [container](/en/post/container/) [used](/en/post/used/) [to](/en/post/to/) [carry](/en/post/carry/) [picnic](/en/post/picnic/) items.
+- "[Picnic](/en/post/picnic/) [blanket](/en/post/blanket/)" is [a](/en/post/a/) [cloth](/en/post/cloth/) [used](/en/post/used/) [to](/en/post/to/) [sit](/en/post/sit/) [on](/en/post/on/) [during](/en/post/during/) [a](/en/post/a/) [picnic](/en/post/picnic/).
 
-## Example Sentences
-- **Noun**: "The family enjoyed a delightful picnic in the park."
-- **Verb**: "After a long week at work, we decided to picnic in the local park."
-- **Noun**: "The children were excited to unpack the picnic spread on the grass."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [family](/en/post/family/) enjoyed [a](/en/post/a/) delightful [picnic](/en/post/picnic/) [in](/en/post/in/) [the](/en/post/the/) [park](/en/post/park/)."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) [a](/en/post/a/) [long](/en/post/long/) [week](/en/post/week/) [at](/en/post/at/) [work](/en/post/work/), [we](/en/post/we/) decided [to](/en/post/to/) [picnic](/en/post/picnic/) [in](/en/post/in/) [the](/en/post/the/) [local](/en/post/local/) [park](/en/post/park/)."
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were excited [to](/en/post/to/) unpack [the](/en/post/the/) [picnic](/en/post/picnic/) [spread](/en/post/spread/) [on](/en/post/on/) [the](/en/post/the/) [grass](/en/post/grass/)."
 
 ## Synonyms
-- Outdoor feast
-- Lunch in the open air
-- Gathering for food
-- Al fresco meal
-- Potluck in nature
+- [Outdoor](/en/post/outdoor/) [feast](/en/post/feast/)
+- [Lunch](/en/post/lunch/) [in](/en/post/in/) [the](/en/post/the/) [open](/en/post/open/) [air](/en/post/air/)
+- Gathering [for](/en/post/for/) [food](/en/post/food/)
+- Al fresco [meal](/en/post/meal/)
+- Potluck [in](/en/post/in/) [nature](/en/post/nature/)
 
 ## Related Words
-- Hamper (container for picnic provisions)
-- Picnicker (one who goes on a picnic)
-- Picnicking (the act of picnicking)
-- Picnicy (relating to a picnic, having a picnic atmosphere)
+- Hamper ([container](/en/post/container/) [for](/en/post/for/) [picnic](/en/post/picnic/) provisions)
+- Picnicker ([one](/en/post/one/) [who](/en/post/who/) goes [on](/en/post/on/) [a](/en/post/a/) [picnic](/en/post/picnic/))
+- Picnicking ([the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) picnicking)
+- Picnicy (relating [to](/en/post/to/) [a](/en/post/a/) [picnic](/en/post/picnic/), having [a](/en/post/a/) [picnic](/en/post/picnic/) [atmosphere](/en/post/atmosphere/))

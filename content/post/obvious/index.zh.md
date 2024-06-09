@@ -11,20 +11,20 @@ keywords = ['ai words', 'obvious']
 /əˈbviəs/
 
 ## 释义
-- **形容词**: 显而易见的，明显的，不言而喻的。例如: "The answer to this math problem is obvious."
-- **副词**: 显然地，明显地。例如: "It was obvious from her expression that she was angry."
+- **形容词**: 显而易见的，明显的，不言而喻的。例如: "[The](/post/the/) [answer](/post/answer/) [to](/post/to/) [this](/post/this/) math [problem](/post/problem/) is [obvious](/post/obvious/)."
+- **副词**: 显然地，明显地。例如: "[It](/post/it/) was [obvious](/post/obvious/) [from](/post/from/) [her](/post/her/) [expression](/post/expression/) [that](/post/that/) [she](/post/she/) was [angry](/post/angry/)."
 
 ## 短语
-- "obvious to" 意为对...来说显而易见。例如: "It was obvious to everyone that he was lying."
-- "obviously enough" 表示足够明显。例如: "The danger was obviously enough for them to take precautions."
+- "[obvious](/post/obvious/) [to](/post/to/)" 意为对...来说显而易见。例如: "[It](/post/it/) was [obvious](/post/obvious/) [to](/post/to/) [everyone](/post/everyone/) [that](/post/that/) [he](/post/he/) was lying."
+- "[obviously](/post/obviously/) [enough](/post/enough/)" 表示足够明显。例如: "[The](/post/the/) [danger](/post/danger/) was [obviously](/post/obviously/) [enough](/post/enough/) [for](/post/for/) [them](/post/them/) [to](/post/to/) [take](/post/take/) precautions."
 
 ## 例句
-- 形容词: "The solution to the problem was so obvious that we overlooked it."
-- 副词: "Obviously, you haven't read the instructions carefully."
+- 形容词: "[The](/post/the/) [solution](/post/solution/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/) was [so](/post/so/) [obvious](/post/obvious/) [that](/post/that/) [we](/post/we/) overlooked [it](/post/it/)."
+- 副词: "[Obviously](/post/obviously/), [you](/post/you/) haven't [read](/post/read/) [the](/post/the/) instructions carefully."
 
 ## 同义词
-- Clear
-- Apparent
-- Evident
+- [Clear](/post/clear/)
+- [Apparent](/post/apparent/)
+- [Evident](/post/evident/)
 - Manifest
 - Self-evident

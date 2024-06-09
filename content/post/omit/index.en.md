@@ -7,29 +7,29 @@ description = '[əuˈmit] vt.省略，省去；遗漏'
 keywords = ['ai words', 'omit']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /əˈmɪt/
 
 ## Definitions
-- **Verb**: (transitive) To intentionally leave out or exclude something, typically when recording or listing information. For example: "She omitted several important details from her report."
-- **Verb**: (intransitive) To fail to include or perform something, either by intention or oversight. For example: "He omitted to mention that he had won the award."
+- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) intentionally [leave](/en/post/leave/) [out](/en/post/out/) [or](/en/post/or/) [exclude](/en/post/exclude/) [something](/en/post/something/), typically [when](/en/post/when/) recording [or](/en/post/or/) listing [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) omitted [several](/en/post/several/) [important](/en/post/important/) details [from](/en/post/from/) [her](/en/post/her/) [report](/en/post/report/)."
+- **[Verb](/en/post/verb/)**: (intransitive) [To](/en/post/to/) [fail](/en/post/fail/) [to](/en/post/to/) [include](/en/post/include/) [or](/en/post/or/) [perform](/en/post/perform/) [something](/en/post/something/), [either](/en/post/either/) [by](/en/post/by/) [intention](/en/post/intention/) [or](/en/post/or/) oversight. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) omitted [to](/en/post/to/) [mention](/en/post/mention/) [that](/en/post/that/) [he](/en/post/he/) had won [the](/en/post/the/) [award](/en/post/award/)."
 
 ## Phrases
-- "Omit from": To not include something in a list, document, or consideration. For example: "The publisher omitted three chapters from the paperback edition."
-- "To be omitted": To not be included or considered. For example: "That crucial point was inadvertently omitted from the discussion."
+- "[Omit](/en/post/omit/) [from](/en/post/from/)": [To](/en/post/to/) [not](/en/post/not/) [include](/en/post/include/) [something](/en/post/something/) [in](/en/post/in/) [a](/en/post/a/) [list](/en/post/list/), [document](/en/post/document/), [or](/en/post/or/) [consideration](/en/post/consideration/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) publisher omitted [three](/en/post/three/) chapters [from](/en/post/from/) [the](/en/post/the/) paperback [edition](/en/post/edition/)."
+- "[To](/en/post/to/) [be](/en/post/be/) omitted": [To](/en/post/to/) [not](/en/post/not/) [be](/en/post/be/) included [or](/en/post/or/) considered. [For](/en/post/for/) [example](/en/post/example/): "[That](/en/post/that/) crucial [point](/en/post/point/) was inadvertently omitted [from](/en/post/from/) [the](/en/post/the/) [discussion](/en/post/discussion/)."
   
-## Example Sentences
-- **Verb (transitive)**: "In his summary, the student wisely omitted unnecessary details to keep it concise."
-- **Verb (intransitive)**: "He forgot to include his contact information; it was simply omitted."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/) (transitive)**: "[In](/en/post/in/) [his](/en/post/his/) [summary](/en/post/summary/), [the](/en/post/the/) [student](/en/post/student/) wisely omitted [unnecessary](/en/post/unnecessary/) details [to](/en/post/to/) [keep](/en/post/keep/) [it](/en/post/it/) concise."
+- **[Verb](/en/post/verb/) (intransitive)**: "[He](/en/post/he/) forgot [to](/en/post/to/) [include](/en/post/include/) [his](/en/post/his/) [contact](/en/post/contact/) [information](/en/post/information/); [it](/en/post/it/) was [simply](/en/post/simply/) omitted."
 
 ## Synonyms
-- Leave out
-- Exclude
-- Delete
+- [Leave](/en/post/leave/) [out](/en/post/out/)
+- [Exclude](/en/post/exclude/)
+- [Delete](/en/post/delete/)
 - Excise
 - Omission
 - Skip
-- Neglect
-- Overlook
-- Pass over
-- Fail to mention
+- [Neglect](/en/post/neglect/)
+- [Overlook](/en/post/overlook/)
+- [Pass](/en/post/pass/) [over](/en/post/over/)
+- [Fail](/en/post/fail/) [to](/en/post/to/) [mention](/en/post/mention/)

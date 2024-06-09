@@ -11,20 +11,20 @@ keywords = ['ai words', 'scare']
 /scɛər/
 
 ## 释义
-- **动词**: 使惊恐；使害怕。例如: "The sudden noise scared the child."
-- **名词**: 恐惧；惊吓。例如: "The sight of a snake caused a scare among the campers."
+- **动词**: 使惊恐；使害怕。例如: "[The](/post/the/) [sudden](/post/sudden/) [noise](/post/noise/) scared [the](/post/the/) [child](/post/child/)."
+- **名词**: 恐惧；惊吓。例如: "[The](/post/the/) [sight](/post/sight/) [of](/post/of/) [a](/post/a/) [snake](/post/snake/) caused [a](/post/a/) [scare](/post/scare/) [among](/post/among/) [the](/post/the/) campers."
 
 ## 短语
-- "to give someone a scare" 使某人受惊。
-- "a false scare" 虚惊一场。
+- "[to](/post/to/) [give](/post/give/) [someone](/post/someone/) [a](/post/a/) [scare](/post/scare/)" 使某人受惊。
+- "[a](/post/a/) [false](/post/false/) [scare](/post/scare/)" 虚惊一场。
 
 ## 例句
-- 动词: "The loud thunder scared the cat into hiding under the bed."
-- 名词: "The news of a possible outbreak created a health scare in the community."
+- 动词: "[The](/post/the/) [loud](/post/loud/) [thunder](/post/thunder/) scared [the](/post/the/) [cat](/post/cat/) [into](/post/into/) hiding [under](/post/under/) [the](/post/the/) [bed](/post/bed/)."
+- 名词: "[The](/post/the/) [news](/post/news/) [of](/post/of/) [a](/post/a/) [possible](/post/possible/) outbreak created [a](/post/a/) [health](/post/health/) [scare](/post/scare/) [in](/post/in/) [the](/post/the/) [community](/post/community/)."
 
 ## 同义词
-- Frighten
+- [Frighten](/post/frighten/)
 - Terrify
-- Alarm
-- Startle
+- [Alarm](/post/alarm/)
+- [Startle](/post/startle/)
 - Panic

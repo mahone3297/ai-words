@@ -11,20 +11,20 @@ keywords = ['ai words', 'push']
 /pʊʃ/
 
 ## 释义
-- **动词**: 用力推，使物体向前或向某方向移动。例如: "He pushed the box across the room."
-- **名词**: 推力，压力。例如: "The engine provided enough push to start the plane moving."
+- **动词**: 用力推，使物体向前或向某方向移动。例如: "[He](/post/he/) pushed [the](/post/the/) [box](/post/box/) [across](/post/across/) [the](/post/the/) [room](/post/room/)."
+- **名词**: 推力，压力。例如: "[The](/post/the/) [engine](/post/engine/) [provided](/post/provided/) [enough](/post/enough/) [push](/post/push/) [to](/post/to/) [start](/post/start/) [the](/post/the/) [plane](/post/plane/) moving."
 
 ## 短语
-- "Give a push" 意为施加推力或帮助某人前进。例如: "Can you give the swing a push to get it started?"
-- "Push one's luck" 表示冒险或尝试过分的好运。例如: "After winning once, he decided to push his luck and play again."
+- "[Give](/post/give/) [a](/post/a/) [push](/post/push/)" 意为施加推力或帮助某人前进。例如: "[Can](/post/can/) [you](/post/you/) [give](/post/give/) [the](/post/the/) [swing](/post/swing/) [a](/post/a/) [push](/post/push/) [to](/post/to/) [get](/post/get/) [it](/post/it/) started?"
+- "[Push](/post/push/) one's [luck](/post/luck/)" 表示冒险或尝试过分的好运。例如: "[After](/post/after/) winning [once](/post/once/), [he](/post/he/) decided [to](/post/to/) [push](/post/push/) [his](/post/his/) [luck](/post/luck/) [and](/post/and/) [play](/post/play/) [again](/post/again/)."
 
 ## 例句
-- 动词: "She pushed the door open with all her might."
-- 名词: "The swimmer felt the push of the current against her body."
+- 动词: "[She](/post/she/) pushed [the](/post/the/) [door](/post/door/) [open](/post/open/) [with](/post/with/) [all](/post/all/) [her](/post/her/) [might](/post/might/)."
+- 名词: "[The](/post/the/) swimmer felt [the](/post/the/) [push](/post/push/) [of](/post/of/) [the](/post/the/) [current](/post/current/) [against](/post/against/) [her](/post/her/) [body](/post/body/)."
 
 ## 同义词
-- Force
+- [Force](/post/force/)
 - Shove
-- Thrust
-- Press
+- [Thrust](/post/thrust/)
+- [Press](/post/press/)
 - Impel

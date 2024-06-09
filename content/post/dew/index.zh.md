@@ -11,20 +11,20 @@ keywords = ['ai words', 'dew']
 /djuː/
 
 ## 释义
-- **名词**: 早上的露水；露珠。例如: "The grass was covered in dew in the morning."
-- **形容词**: 带有露水的；清新的。例如: "dewy morning"（露珠晶莹的早晨）
+- **名词**: 早上的露水；露珠。例如: "[The](/post/the/) [grass](/post/grass/) was covered [in](/post/in/) [dew](/post/dew/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- **形容词**: 带有露水的；清新的。例如: "dewy [morning](/post/morning/)"（露珠晶莹的早晨）
 
 ## 短语
-- "dew on the grass" 草叶上的露水
+- "[dew](/post/dew/) [on](/post/on/) [the](/post/the/) [grass](/post/grass/)" 草叶上的露水
 - "dew-covered" 露水覆盖的
 
 ## 例句
-- 名词: "The spider climbed up the blade of grass, glistening with dew."
-- 形容词: "Her face looked fresh and dewy after her morning run."
+- 名词: "[The](/post/the/) [spider](/post/spider/) climbed [up](/post/up/) [the](/post/the/) [blade](/post/blade/) [of](/post/of/) [grass](/post/grass/), glistening [with](/post/with/) [dew](/post/dew/)."
+- 形容词: "[Her](/post/her/) [face](/post/face/) looked [fresh](/post/fresh/) [and](/post/and/) dewy [after](/post/after/) [her](/post/her/) [morning](/post/morning/) [run](/post/run/)."
 
 ## 同义词
-- moisture
+- [moisture](/post/moisture/)
 - dampness
 - freshness
 - glimmer
-- morning moisture
+- [morning](/post/morning/) [moisture](/post/moisture/)

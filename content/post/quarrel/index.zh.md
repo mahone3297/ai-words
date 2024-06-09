@@ -11,20 +11,20 @@ keywords = ['ai words', 'quarrel']
 /ˈkwɒrəl/
 
 ## 释义
-- **名词**: 争吵，争执。例如: "They had a terrible quarrel about money."
-- **动词**: 争吵，争论。例如: "The neighbors were quarreling loudly again last night."
+- **名词**: 争吵，争执。例如: "[They](/post/they/) had [a](/post/a/) [terrible](/post/terrible/) [quarrel](/post/quarrel/) [about](/post/about/) [money](/post/money/)."
+- **动词**: 争吵，争论。例如: "[The](/post/the/) neighbors were quarreling loudly [again](/post/again/) [last](/post/last/) [night](/post/night/)."
 
 ## 短语
-- "Have a quarrel with someone" 意味着与某人发生争执。
-- "Quarrel over something" 表示因某事而争吵。
+- "[Have](/post/have/) [a](/post/a/) [quarrel](/post/quarrel/) [with](/post/with/) [someone](/post/someone/)" 意味着与某人发生争执。
+- "[Quarrel](/post/quarrel/) [over](/post/over/) [something](/post/something/)" 表示因某事而争吵。
 
 ## 例句
-- 名词: "Their constant quarrels made it difficult for anyone to work in peace."
-- 动词: "The couple was quarrelling about whose turn it was to do the dishes."
+- 名词: "[Their](/post/their/) [constant](/post/constant/) quarrels made [it](/post/it/) [difficult](/post/difficult/) [for](/post/for/) [anyone](/post/anyone/) [to](/post/to/) [work](/post/work/) [in](/post/in/) [peace](/post/peace/)."
+- 动词: "[The](/post/the/) [couple](/post/couple/) was quarrelling [about](/post/about/) [whose](/post/whose/) [turn](/post/turn/) [it](/post/it/) was [to](/post/to/) [do](/post/do/) [the](/post/the/) dishes."
 
 ## 同义词
-- Argument
-- Dispute
-- Fight
+- [Argument](/post/argument/)
+- [Dispute](/post/dispute/)
+- [Fight](/post/fight/)
 - Bicker
 - Tiff

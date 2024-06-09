@@ -7,25 +7,25 @@ description = '[sik] a.有病的；恶心的'
 keywords = ['ai words', 'sick']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /sɪk/
 
 ## Definitions
-- **Adjective**: 1. Affected with illness or disease; unwell. 2. Causing nausea or disgust. 3. Experiencing an emotional upset or disturbance.
-- **Verb**: 1. To become ill or unwell. 2. To feel ill or indisposed. 3. (informal) To cause someone to feel sick or disgusted.
+- **[Adjective](/en/post/adjective/)**: 1. Affected [with](/en/post/with/) [illness](/en/post/illness/) [or](/en/post/or/) [disease](/en/post/disease/); unwell. 2. Causing nausea [or](/en/post/or/) [disgust](/en/post/disgust/). 3. Experiencing an [emotional](/en/post/emotional/) [upset](/en/post/upset/) [or](/en/post/or/) disturbance.
+- **[Verb](/en/post/verb/)**: 1. [To](/en/post/to/) [become](/en/post/become/) [ill](/en/post/ill/) [or](/en/post/or/) unwell. 2. [To](/en/post/to/) [feel](/en/post/feel/) [ill](/en/post/ill/) [or](/en/post/or/) indisposed. 3. (informal) [To](/en/post/to/) [cause](/en/post/cause/) [someone](/en/post/someone/) [to](/en/post/to/) [feel](/en/post/feel/) [sick](/en/post/sick/) [or](/en/post/or/) disgusted.
 
 ## Phrases
-- "Feel sick" indicates a sensation of nausea or discomfort.
-- "Sick as a dog" is a colloquial expression for feeling extremely unwell.
-- "Sick leave" refers to time off work due to illness.
+- "[Feel](/en/post/feel/) [sick](/en/post/sick/)" indicates [a](/en/post/a/) sensation [of](/en/post/of/) nausea [or](/en/post/or/) discomfort.
+- "[Sick](/en/post/sick/) [as](/en/post/as/) [a](/en/post/a/) [dog](/en/post/dog/)" is [a](/en/post/a/) colloquial [expression](/en/post/expression/) [for](/en/post/for/) [feeling](/en/post/feeling/) [extremely](/en/post/extremely/) unwell.
+- "[Sick](/en/post/sick/) [leave](/en/post/leave/)" refers [to](/en/post/to/) [time](/en/post/time/) [off](/en/post/off/) [work](/en/post/work/) [due](/en/post/due/) [to](/en/post/to/) [illness](/en/post/illness/).
 
-## Example Sentences
-- **Adjective**: "She felt sick after eating too much spicy food."
-- **Verb**: "The flu made him sick for a week."
-- **Informal**: "His jokes always make her feel sick."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) felt [sick](/en/post/sick/) [after](/en/post/after/) eating [too](/en/post/too/) [much](/en/post/much/) spicy [food](/en/post/food/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [flu](/en/post/flu/) made [him](/en/post/him/) [sick](/en/post/sick/) [for](/en/post/for/) [a](/en/post/a/) [week](/en/post/week/)."
+- **Informal**: "[His](/en/post/his/) jokes [always](/en/post/always/) [make](/en/post/make/) [her](/en/post/her/) [feel](/en/post/feel/) [sick](/en/post/sick/)."
 
 ## Synonyms
-- Ill
+- [Ill](/en/post/ill/)
 - Unwell
 - Diseased
 - Ailing
@@ -33,8 +33,8 @@ keywords = ['ai words', 'sick']
 - Unfit
 
 ## Antonyms
-- Healthy
-- Well
+- [Healthy](/en/post/healthy/)
+- [Well](/en/post/well/)
 - Robust
-- Strong
-- Fit
+- [Strong](/en/post/strong/)
+- [Fit](/en/post/fit/)

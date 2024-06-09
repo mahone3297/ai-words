@@ -11,20 +11,20 @@ keywords = ['ai words', 'fact']
 /fækt/
 
 ## 释义
-- **名词 (n)**: 事实，真实的事件或情况。例如: "The fact that he never showed up surprised everyone."
-- **形容词 (adj)**: 真实的，实际的。例如: "She presented the fact-based evidence in court."
+- **名词 (n)**: 事实，真实的事件或情况。例如: "[The](/post/the/) [fact](/post/fact/) [that](/post/that/) [he](/post/he/) [never](/post/never/) showed [up](/post/up/) surprised [everyone](/post/everyone/)."
+- **形容词 (adj)**: 真实的，实际的。例如: "[She](/post/she/) presented [the](/post/the/) fact-based [evidence](/post/evidence/) [in](/post/in/) [court](/post/court/)."
 
 ## 短语
-- "Based on facts" 表示基于事实的。
-- "Factual information" 意为事实性的信息。
+- "Based [on](/post/on/) facts" 表示基于事实的。
+- "Factual [information](/post/information/)" 意为事实性的信息。
 
 ## 例句
-- 名词: "The report contains numerous undisputed facts about climate change."
-- 形容词: "The story is entirely fact, with no fictional elements."
+- 名词: "[The](/post/the/) [report](/post/report/) contains [numerous](/post/numerous/) undisputed facts [about](/post/about/) [climate](/post/climate/) [change](/post/change/)."
+- 形容词: "[The](/post/the/) [story](/post/story/) is entirely [fact](/post/fact/), [with](/post/with/) [no](/post/no/) fictional elements."
 
 ## 同义词
-- Reality
-- Truth
+- [Reality](/post/reality/)
+- [Truth](/post/truth/)
 - Actuality
 - Truthfulness
-- Accuracy
+- [Accuracy](/post/accuracy/)

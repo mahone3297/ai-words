@@ -11,19 +11,19 @@ keywords = ['ai words', 'noisy']
 /ˈnɔɪzi/
 
 ## 释义
-- **形容词**: 发出噪音的，吵闹的，喧哗的。例如: "The construction site was very noisy during the day."
-- **副词**: 喧闹地，大声地。例如: "The children were playing noisy outside."
+- **形容词**: 发出噪音的，吵闹的，喧哗的。例如: "[The](/post/the/) [construction](/post/construction/) [site](/post/site/) was [very](/post/very/) [noisy](/post/noisy/) [during](/post/during/) [the](/post/the/) [day](/post/day/)."
+- **副词**: 喧闹地，大声地。例如: "[The](/post/the/) children were playing [noisy](/post/noisy/) [outside](/post/outside/)."
 
 ## 短语
-- "noisy neighbor" 指的是制造噪音的邻居。
-- "a noisy party" 指的是声音嘈杂的聚会。
+- "[noisy](/post/noisy/) neighbor" 指的是制造噪音的邻居。
+- "[a](/post/a/) [noisy](/post/noisy/) [party](/post/party/)" 指的是声音嘈杂的聚会。
 
 ## 例句
-- 形容词: "The bar had a lively atmosphere but it was too noisy for conversation."
-- 副词: "The kids were running around the house noisy, disturbing the peace."
+- 形容词: "[The](/post/the/) [bar](/post/bar/) had [a](/post/a/) [lively](/post/lively/) [atmosphere](/post/atmosphere/) [but](/post/but/) [it](/post/it/) was [too](/post/too/) [noisy](/post/noisy/) [for](/post/for/) [conversation](/post/conversation/)."
+- 副词: "[The](/post/the/) kids were running [around](/post/around/) [the](/post/the/) [house](/post/house/) [noisy](/post/noisy/), disturbing [the](/post/the/) [peace](/post/peace/)."
 
 ## 同义词
-- Loud
+- [Loud](/post/loud/)
 -喧嚣的：Raucous
 - 震耳欲聋的：Deafening
 - 刺耳的：Jarring

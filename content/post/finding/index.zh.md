@@ -12,20 +12,20 @@ keywords = ['ai words', 'finding']
 
 ## 释义
 - **名词**: 
-    - 结果，发现：The result or discovery of an investigation or search. 例如: "The考古学家的最新finding揭示了古代文明的秘密。"
-    - 观察结果，结论：A conclusion reached after observation or study. 例如: "Their finding suggested that the treatment was effective."
+    - 结果，发现：[The](/post/the/) [result](/post/result/) [or](/post/or/) [discovery](/post/discovery/) [of](/post/of/) an [investigation](/post/investigation/) [or](/post/or/) [search](/post/search/). 例如: "The考古学家的最新finding揭示了古代文明的秘密。"
+    - 观察结果，结论：[A](/post/a/) [conclusion](/post/conclusion/) reached [after](/post/after/) [observation](/post/observation/) [or](/post/or/) [study](/post/study/). 例如: "[Their](/post/their/) [finding](/post/finding/) suggested [that](/post/that/) [the](/post/the/) [treatment](/post/treatment/) was [effective](/post/effective/)."
 
 ## 短语
-- "major finding" 主要发现
-- "empirical finding" 实证发现
+- "[major](/post/major/) [finding](/post/finding/)" 主要发现
+- "empirical [finding](/post/finding/)" 实证发现
 
 ## 例句
-- "The scientific paper presented several groundbreaking findings in the field of genetics."
-- "After analyzing the data, they made an important finding about consumer behavior."
+- "[The](/post/the/) [scientific](/post/scientific/) [paper](/post/paper/) presented [several](/post/several/) groundbreaking findings [in](/post/in/) [the](/post/the/) [field](/post/field/) [of](/post/of/) genetics."
+- "[After](/post/after/) analyzing [the](/post/the/) [data](/post/data/), [they](/post/they/) made an [important](/post/important/) [finding](/post/finding/) [about](/post/about/) consumer [behavior](/post/behavior/)."
 
 ## 同义词
-- discovery
-- result
-- outcome
+- [discovery](/post/discovery/)
+- [result](/post/result/)
+- [outcome](/post/outcome/)
 - revelation
-- conclusion
+- [conclusion](/post/conclusion/)

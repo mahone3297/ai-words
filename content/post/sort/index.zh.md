@@ -11,22 +11,22 @@ keywords = ['ai words', 'sort']
 /ˈsɔːrt/
 
 ## 释义
-- **名词**: 种类，类别。例如: "There are all sorts of flowers in the garden."
-- **动词**: 分类，整理。例如: "I need to sort these files alphabetically."
-- **形容词**: （非正式）某种类型的，某一类的。例如: "That's just the sort of thing he would do."
+- **名词**: 种类，类别。例如: "[There](/post/there/) are [all](/post/all/) sorts [of](/post/of/) flowers [in](/post/in/) [the](/post/the/) [garden](/post/garden/)."
+- **动词**: 分类，整理。例如: "I [need](/post/need/) [to](/post/to/) [sort](/post/sort/) [these](/post/these/) files alphabetically."
+- **形容词**: （非正式）某种类型的，某一类的。例如: "That's [just](/post/just/) [the](/post/the/) [sort](/post/sort/) [of](/post/of/) [thing](/post/thing/) [he](/post/he/) [would](/post/would/) [do](/post/do/)."
 
 ## 短语
-- "sort out" 解决，整理。例如: "Can you sort out this problem for me?"
-- "sort of" 类似，有点儿。例如: "It's sort of like a blue-green color."
+- "[sort](/post/sort/) [out](/post/out/)" 解决，整理。例如: "[Can](/post/can/) [you](/post/you/) [sort](/post/sort/) [out](/post/out/) [this](/post/this/) [problem](/post/problem/) [for](/post/for/) [me](/post/me/)?"
+- "[sort](/post/sort/) [of](/post/of/)" 类似，有点儿。例如: "It's [sort](/post/sort/) [of](/post/of/) [like](/post/like/) [a](/post/a/) blue-green [color](/post/color/)."
 
 ## 例句
-- 名词: "She likes to read books of all sorts."
-- 动词: "Let's sort the clothes by color before washing them."
-- 形容词: "He's a sort of person who never gives up easily."
+- 名词: "[She](/post/she/) likes [to](/post/to/) [read](/post/read/) books [of](/post/of/) [all](/post/all/) sorts."
+- 动词: "Let's [sort](/post/sort/) [the](/post/the/) [clothes](/post/clothes/) [by](/post/by/) [color](/post/color/) [before](/post/before/) washing [them](/post/them/)."
+- 形容词: "He's [a](/post/a/) [sort](/post/sort/) [of](/post/of/) [person](/post/person/) [who](/post/who/) [never](/post/never/) gives [up](/post/up/) [easily](/post/easily/)."
 
 ## 同义词
-- Kind
-- Type
+- [Kind](/post/kind/)
+- [Type](/post/type/)
 - Category
-- Class
-- Variety
+- [Class](/post/class/)
+- [Variety](/post/variety/)

@@ -7,51 +7,51 @@ description = '[driːm] n.梦；梦想 vi.做梦'
 keywords = ['ai words', 'dream']
 +++
 
-## Word: Dream
+## [Word](/en/post/word/): [Dream](/en/post/dream/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /driːm/
 
 ## Definitions
-### Noun (n)
-- A series of thoughts, images, and sensations occurring in a person's mind during sleep: _She had a vivid dream about flying._
-- A cherished aspiration, ambition, or ideal: _His dream was to become a successful writer._
-- Something that one desires but is not likely to attain: _Winning the lottery is a pipe dream for most people._
+### [Noun](/en/post/noun/) (n)
+- [A](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) thoughts, images, [and](/en/post/and/) sensations occurring [in](/en/post/in/) [a](/en/post/a/) person's [mind](/en/post/mind/) [during](/en/post/during/) [sleep](/en/post/sleep/): _She had [a](/en/post/a/) [vivid](/en/post/vivid/) [dream](/en/post/dream/) [about](/en/post/about/) flying._
+- [A](/en/post/a/) cherished aspiration, [ambition](/en/post/ambition/), [or](/en/post/or/) [ideal](/en/post/ideal/): _His [dream](/en/post/dream/) was [to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) [successful](/en/post/successful/) [writer](/en/post/writer/)._
+- [Something](/en/post/something/) [that](/en/post/that/) [one](/en/post/one/) desires [but](/en/post/but/) is [not](/en/post/not/) [likely](/en/post/likely/) [to](/en/post/to/) [attain](/en/post/attain/): _Winning [the](/en/post/the/) lottery is [a](/en/post/a/) [pipe](/en/post/pipe/) [dream](/en/post/dream/) [for](/en/post/for/) [most](/en/post/most/) [people](/en/post/people/)._
 
-Example Sentence: 
-- _Her recurring dream involved walking through a mysterious forest._
-- _Owning a house by the sea has always been her ultimate dream._
+[Example](/en/post/example/) [Sentence](/en/post/sentence/): 
+- _Her recurring [dream](/en/post/dream/) involved walking [through](/en/post/through/) [a](/en/post/a/) [mysterious](/en/post/mysterious/) [forest](/en/post/forest/)._
+- _Owning [a](/en/post/a/) [house](/en/post/house/) [by](/en/post/by/) [the](/en/post/the/) [sea](/en/post/sea/) has [always](/en/post/always/) been [her](/en/post/her/) [ultimate](/en/post/ultimate/) [dream](/en/post/dream/)._
 
-### Verb (v)
-- To have a dream while sleeping: _I dreamt about meeting a unicorn last night._
-- To have ambitions or aspirations: _She dreams of becoming an astronaut._
+### [Verb](/en/post/verb/) (v)
+- [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [dream](/en/post/dream/) [while](/en/post/while/) sleeping: _I dreamt [about](/en/post/about/) [meeting](/en/post/meeting/) [a](/en/post/a/) unicorn [last](/en/post/last/) [night](/en/post/night/)._
+- [To](/en/post/to/) [have](/en/post/have/) ambitions [or](/en/post/or/) aspirations: _She dreams [of](/en/post/of/) becoming an [astronaut](/en/post/astronaut/)._
 
-Example Sentence:
-- _He dreamed of climbing Mount Everest someday._
-- _I often dream about my childhood home._
+[Example](/en/post/example/) [Sentence](/en/post/sentence/):
+- _He dreamed [of](/en/post/of/) climbing [Mount](/en/post/mount/) Everest someday._
+- _I [often](/en/post/often/) [dream](/en/post/dream/) [about](/en/post/about/) [my](/en/post/my/) [childhood](/en/post/childhood/) [home](/en/post/home/)._
 
-### Adjective (adj)
-- Occurring only in a dream or imagined scenario: _A dream vacation to a tropical paradise._
-- Describing something that is ideal or perfect: _The couple found their dream house in the countryside._
+### [Adjective](/en/post/adjective/) (adj)
+- Occurring [only](/en/post/only/) [in](/en/post/in/) [a](/en/post/a/) [dream](/en/post/dream/) [or](/en/post/or/) imagined scenario: _A [dream](/en/post/dream/) [vacation](/en/post/vacation/) [to](/en/post/to/) [a](/en/post/a/) [tropical](/en/post/tropical/) [paradise](/en/post/paradise/)._
+- Describing [something](/en/post/something/) [that](/en/post/that/) is [ideal](/en/post/ideal/) [or](/en/post/or/) [perfect](/en/post/perfect/): _The [couple](/en/post/couple/) [found](/en/post/found/) [their](/en/post/their/) [dream](/en/post/dream/) [house](/en/post/house/) [in](/en/post/in/) [the](/en/post/the/) [countryside](/en/post/countryside/)._
 
-Example Sentence:
-- _This would be a dream job for any aspiring artist._
-- _Their honeymoon suite was straight out of a dream._
+[Example](/en/post/example/) [Sentence](/en/post/sentence/):
+- _This [would](/en/post/would/) [be](/en/post/be/) [a](/en/post/a/) [dream](/en/post/dream/) [job](/en/post/job/) [for](/en/post/for/) [any](/en/post/any/) aspiring [artist](/en/post/artist/)._
+- _Their [honeymoon](/en/post/honeymoon/) suite was [straight](/en/post/straight/) [out](/en/post/out/) [of](/en/post/of/) [a](/en/post/a/) [dream](/en/post/dream/)._
 
 ## Phrases
-- "To dream big" - to have ambitious or grandiose goals.
-- "Daydream" - a series of pleasant thoughts that distract one's attention from the present.
-- "Sweet dreams" - a parting expression wishing someone good dreams before they go to sleep.
+- "[To](/en/post/to/) [dream](/en/post/dream/) [big](/en/post/big/)" - [to](/en/post/to/) [have](/en/post/have/) ambitious [or](/en/post/or/) grandiose goals.
+- "Daydream" - [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) [pleasant](/en/post/pleasant/) thoughts [that](/en/post/that/) distract one's [attention](/en/post/attention/) [from](/en/post/from/) [the](/en/post/the/) [present](/en/post/present/).
+- "[Sweet](/en/post/sweet/) dreams" - [a](/en/post/a/) parting [expression](/en/post/expression/) wishing [someone](/en/post/someone/) [good](/en/post/good/) dreams [before](/en/post/before/) [they](/en/post/they/) [go](/en/post/go/) [to](/en/post/to/) [sleep](/en/post/sleep/).
 
-## Example Sentences
-- **Noun**: "She kept a journal to record her nightly dreams."
-- **Verb**: "He dreams of a world without poverty and injustice."
-- **Adjective**: "That luxurious car is nothing less than a dream vehicle for him."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) kept [a](/en/post/a/) [journal](/en/post/journal/) [to](/en/post/to/) [record](/en/post/record/) [her](/en/post/her/) nightly dreams."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) dreams [of](/en/post/of/) [a](/en/post/a/) [world](/en/post/world/) [without](/en/post/without/) [poverty](/en/post/poverty/) [and](/en/post/and/) injustice."
+- **[Adjective](/en/post/adjective/)**: "[That](/en/post/that/) luxurious [car](/en/post/car/) is [nothing](/en/post/nothing/) [less](/en/post/less/) [than](/en/post/than/) [a](/en/post/a/) [dream](/en/post/dream/) [vehicle](/en/post/vehicle/) [for](/en/post/for/) [him](/en/post/him/)."
 
 ## Synonyms
-- Vision (noun)
-- Aspiration (noun)
-- Fantasize (verb)
-- Imagine (verb)
-- Ideal (adjective)
-- Utopian (adjective)
+- [Vision](/en/post/vision/) ([noun](/en/post/noun/))
+- Aspiration ([noun](/en/post/noun/))
+- Fantasize ([verb](/en/post/verb/))
+- [Imagine](/en/post/imagine/) ([verb](/en/post/verb/))
+- [Ideal](/en/post/ideal/) ([adjective](/en/post/adjective/))
+- Utopian ([adjective](/en/post/adjective/))

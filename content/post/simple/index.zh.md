@@ -11,22 +11,22 @@ keywords = ['ai words', 'simple']
 /ˈsɪmpl/
 
 ## 释义
-- **形容词**: 简单的，不复杂的。例如: "The instructions were simple to follow."
-- **名词**: 简单的人或事物。例如: "He lived a simple life in the countryside."
-- **副词**: 简单地，朴素地。例如: "She answered the question simply and directly."
+- **形容词**: 简单的，不复杂的。例如: "[The](/post/the/) instructions were [simple](/post/simple/) [to](/post/to/) [follow](/post/follow/)."
+- **名词**: 简单的人或事物。例如: "[He](/post/he/) lived [a](/post/a/) [simple](/post/simple/) [life](/post/life/) [in](/post/in/) [the](/post/the/) [countryside](/post/countryside/)."
+- **副词**: 简单地，朴素地。例如: "[She](/post/she/) answered [the](/post/the/) [question](/post/question/) [simply](/post/simply/) [and](/post/and/) [directly](/post/directly/)."
 
 ## 短语
-- "Keep it simple" 意味着保持事情简洁。
-- "Simple living" 指过着朴素的生活方式。
+- "[Keep](/post/keep/) [it](/post/it/) [simple](/post/simple/)" 意味着保持事情简洁。
+- "[Simple](/post/simple/) [living](/post/living/)" 指过着朴素的生活方式。
 
 ## 例句
-- 形容词: "The recipe is simple enough for even beginners to try."
-- 名词: "He appreciated the simple pleasures of life."
-- 副词: "She explained the concept simply so everyone could understand.
+- 形容词: "[The](/post/the/) recipe is [simple](/post/simple/) [enough](/post/enough/) [for](/post/for/) [even](/post/even/) beginners [to](/post/to/) [try](/post/try/)."
+- 名词: "[He](/post/he/) appreciated [the](/post/the/) [simple](/post/simple/) pleasures [of](/post/of/) [life](/post/life/)."
+- 副词: "[She](/post/she/) explained [the](/post/the/) [concept](/post/concept/) [simply](/post/simply/) [so](/post/so/) [everyone](/post/everyone/) [could](/post/could/) [understand](/post/understand/).
 
 ## 同义词
-- Easy
+- [Easy](/post/easy/)
 - Straightforward
 - Uncomplicated
-- Basic
-- elementary
+- [Basic](/post/basic/)
+- [elementary](/post/elementary/)

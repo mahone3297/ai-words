@@ -11,16 +11,16 @@ keywords = ['ai words', 'butcher']
 /bʊtʃər/
 
 ## 释义
-- **名词**: 肉贩；屠夫。例如: "The butcher prepared a selection of meats for the customers."
-- **动词**: 屠宰（动物），粗暴处理（某事）。例如: "He butchers pigs for a living." 或 "The editor butchered my manuscript, changing its entire meaning."
+- **名词**: 肉贩；屠夫。例如: "[The](/post/the/) [butcher](/post/butcher/) prepared [a](/post/a/) [selection](/post/selection/) [of](/post/of/) meats [for](/post/for/) [the](/post/the/) customers."
+- **动词**: 屠宰（动物），粗暴处理（某事）。例如: "[He](/post/he/) butchers pigs [for](/post/for/) [a](/post/a/) [living](/post/living/)." 或 "[The](/post/the/) [editor](/post/editor/) butchered [my](/post/my/) manuscript, changing [its](/post/its/) [entire](/post/entire/) [meaning](/post/meaning/)."
 
 ## 短语
-- "at the butcher's" 在肉店。
-- "to butcher a language" 指不熟练地使用某种语言，通常带有贬义。
+- "[at](/post/at/) [the](/post/the/) butcher's" 在肉店。
+- "[to](/post/to/) [butcher](/post/butcher/) [a](/post/a/) [language](/post/language/)" 指不熟练地使用某种语言，通常带有贬义。
 
 ## 例句
-- 名词: "I need to visit the butcher to buy some fresh chicken."
-- 动词: "She butchers the pronunciation of foreign words when speaking English."
+- 名词: "I [need](/post/need/) [to](/post/to/) [visit](/post/visit/) [the](/post/the/) [butcher](/post/butcher/) [to](/post/to/) [buy](/post/buy/) [some](/post/some/) [fresh](/post/fresh/) [chicken](/post/chicken/)."
+- 动词: "[She](/post/she/) butchers [the](/post/the/) [pronunciation](/post/pronunciation/) [of](/post/of/) [foreign](/post/foreign/) words [when](/post/when/) speaking English."
 
 ## 同义词
 - Slaughterer

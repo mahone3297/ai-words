@@ -7,36 +7,36 @@ description = '[ˈprɔvins] n.省；领域，部门'
 keywords = ['ai words', 'province']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /prəˈvaɪns/
 
 ## Definitions
-- **Noun**: 1. In the context of a country or region, a territorial division subordinate to a national government, often with its own government or legislature. Example: "Ontario is a province in Canada."
-   2. A former administrative division, as in British India or the Dutch East Indies.
-   3. (figurative) A sphere of influence or responsibility; a field of activity. Example: "Art is his true province."
+- **[Noun](/en/post/noun/)**: 1. [In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) [country](/en/post/country/) [or](/en/post/or/) [region](/en/post/region/), [a](/en/post/a/) territorial [division](/en/post/division/) subordinate [to](/en/post/to/) [a](/en/post/a/) [national](/en/post/national/) [government](/en/post/government/), [often](/en/post/often/) [with](/en/post/with/) [its](/en/post/its/) [own](/en/post/own/) [government](/en/post/government/) [or](/en/post/or/) legislature. [Example](/en/post/example/): "Ontario is [a](/en/post/a/) [province](/en/post/province/) [in](/en/post/in/) Canada."
+   2. [A](/en/post/a/) [former](/en/post/former/) administrative [division](/en/post/division/), [as](/en/post/as/) [in](/en/post/in/) British India [or](/en/post/or/) [the](/en/post/the/) Dutch [East](/en/post/east/) Indies.
+   3. (figurative) [A](/en/post/a/) [sphere](/en/post/sphere/) [of](/en/post/of/) [influence](/en/post/influence/) [or](/en/post/or/) [responsibility](/en/post/responsibility/); [a](/en/post/a/) [field](/en/post/field/) [of](/en/post/of/) [activity](/en/post/activity/). [Example](/en/post/example/): "[Art](/en/post/art/) is [his](/en/post/his/) [true](/en/post/true/) [province](/en/post/province/)."
 
-- **Verb**: To govern or administer as a province. Example: "The central government oversees the provinces' affairs."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [govern](/en/post/govern/) [or](/en/post/or/) administer [as](/en/post/as/) [a](/en/post/a/) [province](/en/post/province/). [Example](/en/post/example/): "[The](/en/post/the/) [central](/en/post/central/) [government](/en/post/government/) oversees [the](/en/post/the/) provinces' affairs."
 
 ## Phrases
-- "In the province of British Columbia" refers to the specific area within that jurisdiction.
-- "Provincial elections" are held to choose representatives for the provincial government.
-- "Outside one's province" means not within one's area of expertise or jurisdiction.
+- "[In](/en/post/in/) [the](/en/post/the/) [province](/en/post/province/) [of](/en/post/of/) British Columbia" refers [to](/en/post/to/) [the](/en/post/the/) [specific](/en/post/specific/) [area](/en/post/area/) [within](/en/post/within/) [that](/en/post/that/) jurisdiction.
+- "Provincial elections" are held [to](/en/post/to/) [choose](/en/post/choose/) representatives [for](/en/post/for/) [the](/en/post/the/) provincial [government](/en/post/government/).
+- "[Outside](/en/post/outside/) one's [province](/en/post/province/)" [means](/en/post/means/) [not](/en/post/not/) [within](/en/post/within/) one's [area](/en/post/area/) [of](/en/post/of/) expertise [or](/en/post/or/) jurisdiction.
 
-## Example Sentences
-- **Noun**: "Quebec is known for its rich cultural heritage as a French-speaking province."
-- **Verb**: "The prime minister visited several provinces on her campaign tour."
-- **Adjective**: "The issue is beyond my provincial concerns."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "Quebec is known [for](/en/post/for/) [its](/en/post/its/) [rich](/en/post/rich/) cultural heritage [as](/en/post/as/) [a](/en/post/a/) French-speaking [province](/en/post/province/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [prime](/en/post/prime/) [minister](/en/post/minister/) visited [several](/en/post/several/) provinces [on](/en/post/on/) [her](/en/post/her/) [campaign](/en/post/campaign/) [tour](/en/post/tour/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [issue](/en/post/issue/) is [beyond](/en/post/beyond/) [my](/en/post/my/) provincial concerns."
 
 ## Synonyms
-- Territory
-- Region
+- [Territory](/en/post/territory/)
+- [Region](/en/post/region/)
 - Domain
-- Administrative area
+- Administrative [area](/en/post/area/)
 - Jurisdiction
-- District
+- [District](/en/post/district/)
 
 ## Antonyms
 - Metropolitan
-- National
-- Central
-- Federal
+- [National](/en/post/national/)
+- [Central](/en/post/central/)
+- [Federal](/en/post/federal/)

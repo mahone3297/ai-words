@@ -8,22 +8,22 @@ keywords = ['ai words', 'yet']
 +++
 
 ## 读音
-/yet/
+/[yet](/post/yet/)/
 
 ## 释义
-- **副词**: 还，仍然，迄今。例如: "I haven't finished my homework yet."
-- **连词**: 但是，然而。例如: "He's talented, yet he never shows off."
+- **副词**: 还，仍然，迄今。例如: "I haven't finished [my](/post/my/) homework [yet](/post/yet/)."
+- **连词**: 但是，然而。例如: "He's talented, [yet](/post/yet/) [he](/post/he/) [never](/post/never/) shows [off](/post/off/)."
 
 ## 短语
-- "Not yet" 意为还没有，尚未。
+- "[Not](/post/not/) [yet](/post/yet/)" 意为还没有，尚未。
 
 ## 例句
-- 副词: "Are you ready to leave? It's late, yet you're still packing."
-- 连词: "She seemed happy, yet there was sadness in her eyes."
+- 副词: "Are [you](/post/you/) [ready](/post/ready/) [to](/post/to/) [leave](/post/leave/)? It's [late](/post/late/), [yet](/post/yet/) you're [still](/post/still/) packing."
+- 连词: "[She](/post/she/) seemed [happy](/post/happy/), [yet](/post/yet/) [there](/post/there/) was [sadness](/post/sadness/) [in](/post/in/) [her](/post/her/) eyes."
 
 ## 同义词
-- Still
-- However
+- [Still](/post/still/)
+- [However](/post/however/)
 - Nonetheless
-- But
-- Nevertheless
+- [But](/post/but/)
+- [Nevertheless](/post/nevertheless/)

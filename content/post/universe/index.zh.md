@@ -12,21 +12,21 @@ keywords = ['ai words', 'universe']
 
 ## 释义
 - **名词**:
-  - 宇宙，包括地球、天体、星系和万物。例如: "The universe is vast and full of mysteries."
-  - 全部；整体；一切事物。例如: "She believes in a higher power that controls the universe."
+  - 宇宙，包括地球、天体、星系和万物。例如: "[The](/post/the/) [universe](/post/universe/) is [vast](/post/vast/) [and](/post/and/) [full](/post/full/) [of](/post/of/) mysteries."
+  - 全部；整体；一切事物。例如: "[She](/post/she/) believes [in](/post/in/) [a](/post/a/) higher [power](/post/power/) [that](/post/that/) controls [the](/post/the/) [universe](/post/universe/)."
 
 ## 短语
-- "the known universe" 指已知的宇宙部分。
-- "the expanding universe" 指正在膨胀的宇宙。
-- "universe of discourse" 在哲学和逻辑学中，指的是讨论或思考的范围。
+- "[the](/post/the/) known [universe](/post/universe/)" 指已知的宇宙部分。
+- "[the](/post/the/) expanding [universe](/post/universe/)" 指正在膨胀的宇宙。
+- "[universe](/post/universe/) [of](/post/of/) discourse" 在哲学和逻辑学中，指的是讨论或思考的范围。
 
 ## 例句
-- "Scientists are still exploring the far reaches of the universe."
-- "In his mind, art was an integral part of the universe."
+- "Scientists are [still](/post/still/) exploring [the](/post/the/) [far](/post/far/) reaches [of](/post/of/) [the](/post/the/) [universe](/post/universe/)."
+- "[In](/post/in/) [his](/post/his/) [mind](/post/mind/), [art](/post/art/) was an integral [part](/post/part/) [of](/post/of/) [the](/post/the/) [universe](/post/universe/)."
 
 ## 同义词
 - cosmos
 - creation
 - macrocosm
-- everything
-- all that exists
+- [everything](/post/everything/)
+- [all](/post/all/) [that](/post/that/) exists

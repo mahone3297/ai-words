@@ -11,20 +11,20 @@ keywords = ['ai words', 'traditional']
 /trəˈdɪʃənl/
 
 ## 释义
-- **形容词**: 传统的，遵循习俗的，沿袭的。例如: "The Chinese New Year is a traditional festival celebrated by millions."
-- **名词**: 传统，惯例，习俗。例如: "They follow the traditional customs of their ancestors."
+- **形容词**: 传统的，遵循习俗的，沿袭的。例如: "[The](/post/the/) Chinese [New](/post/new/) [Year](/post/year/) is [a](/post/a/) [traditional](/post/traditional/) [festival](/post/festival/) celebrated [by](/post/by/) millions."
+- **名词**: 传统，惯例，习俗。例如: "[They](/post/they/) [follow](/post/follow/) [the](/post/the/) [traditional](/post/traditional/) customs [of](/post/of/) [their](/post/their/) ancestors."
 
 ## 短语
-- "traditional music" 指的是具有地方或历史特色的音乐。
-- "traditional values" 意指一个社会或文化长期持有的价值观。
+- "[traditional](/post/traditional/) [music](/post/music/)" 指的是具有地方或历史特色的音乐。
+- "[traditional](/post/traditional/) values" 意指一个社会或文化长期持有的价值观。
 
 ## 例句
-- 形容词: "Her wedding dress was designed in a traditional style."
-- 名词: "The community preserves its traditional dances for generations to come."
+- 形容词: "[Her](/post/her/) [wedding](/post/wedding/) [dress](/post/dress/) was designed [in](/post/in/) [a](/post/a/) [traditional](/post/traditional/) [style](/post/style/)."
+- 名词: "[The](/post/the/) [community](/post/community/) preserves [its](/post/its/) [traditional](/post/traditional/) dances [for](/post/for/) generations [to](/post/to/) [come](/post/come/)."
 
 ## 同义词
-- Conventional
-- Usual
+- [Conventional](/post/conventional/)
+- [Usual](/post/usual/)
 - Time-honored
 - Customary
-- Folk
+- [Folk](/post/folk/)

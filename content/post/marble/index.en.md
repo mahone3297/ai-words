@@ -7,36 +7,36 @@ description = '[ˈmɑːbl] n.大理石'
 keywords = ['ai words', 'marble']
 +++
 
-## Word: Marble
+## [Word](/en/post/word/): [Marble](/en/post/marble/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈmɑːbl/
 
 ## Definitions
-- **Noun**: A hard, typically non-glossy stone that can be polished to a high shine, often used for sculpture, building, or as a decorative material. It usually has a veined or variegated appearance due to its formation process. Example: "The statue was carved from pure white marble."
-  - _As a verb_: (informal) To cover or decorate with or as if with marble, especially to produce a marbled effect. Example: "She decided to marble the countertops to give her kitchen a luxurious touch."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [hard](/en/post/hard/), typically non-glossy [stone](/en/post/stone/) [that](/en/post/that/) [can](/en/post/can/) [be](/en/post/be/) polished [to](/en/post/to/) [a](/en/post/a/) [high](/en/post/high/) [shine](/en/post/shine/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) sculpture, [building](/en/post/building/), [or](/en/post/or/) [as](/en/post/as/) [a](/en/post/a/) decorative [material](/en/post/material/). [It](/en/post/it/) [usually](/en/post/usually/) has [a](/en/post/a/) veined [or](/en/post/or/) variegated [appearance](/en/post/appearance/) [due](/en/post/due/) [to](/en/post/to/) [its](/en/post/its/) [formation](/en/post/formation/) [process](/en/post/process/). [Example](/en/post/example/): "[The](/en/post/the/) [statue](/en/post/statue/) was carved [from](/en/post/from/) [pure](/en/post/pure/) [white](/en/post/white/) [marble](/en/post/marble/)."
+  - _As [a](/en/post/a/) verb_: (informal) [To](/en/post/to/) [cover](/en/post/cover/) [or](/en/post/or/) [decorate](/en/post/decorate/) [with](/en/post/with/) [or](/en/post/or/) [as](/en/post/as/) [if](/en/post/if/) [with](/en/post/with/) [marble](/en/post/marble/), [especially](/en/post/especially/) [to](/en/post/to/) [produce](/en/post/produce/) [a](/en/post/a/) marbled [effect](/en/post/effect/). [Example](/en/post/example/): "[She](/en/post/she/) decided [to](/en/post/to/) [marble](/en/post/marble/) [the](/en/post/the/) countertops [to](/en/post/to/) [give](/en/post/give/) [her](/en/post/her/) [kitchen](/en/post/kitchen/) [a](/en/post/a/) luxurious [touch](/en/post/touch/)."
 
-- **Adjective**: Relating to or made of marble. Example: "Marble floors add elegance to the foyer."
+- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) made [of](/en/post/of/) [marble](/en/post/marble/). [Example](/en/post/example/): "[Marble](/en/post/marble/) floors [add](/en/post/add/) elegance [to](/en/post/to/) [the](/en/post/the/) foyer."
   
 ## Phrases
-- "A rolling marble gathers no moss": This metaphorical phrase suggests that constant activity prevents stagnation or decay.
-- "To have (or lose) one's marbles": This idiomatic expression means to have (or lose) one's sanity or mental faculties.
+- "[A](/en/post/a/) rolling [marble](/en/post/marble/) gathers [no](/en/post/no/) moss": [This](/en/post/this/) metaphorical [phrase](/en/post/phrase/) suggests [that](/en/post/that/) [constant](/en/post/constant/) [activity](/en/post/activity/) prevents stagnation [or](/en/post/or/) [decay](/en/post/decay/).
+- "[To](/en/post/to/) [have](/en/post/have/) ([or](/en/post/or/) [lose](/en/post/lose/)) one's marbles": [This](/en/post/this/) idiomatic [expression](/en/post/expression/) [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) ([or](/en/post/or/) [lose](/en/post/lose/)) one's sanity [or](/en/post/or/) [mental](/en/post/mental/) faculties.
 
-## Example Sentences
-- **Noun**: "The ancient Greeks were known for their intricate marble sculptures."
-- **Adjective**: "The library featured a grand marble staircase leading up to the reading rooms."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [ancient](/en/post/ancient/) Greeks were known [for](/en/post/for/) [their](/en/post/their/) intricate [marble](/en/post/marble/) sculptures."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [library](/en/post/library/) featured [a](/en/post/a/) [grand](/en/post/grand/) [marble](/en/post/marble/) [staircase](/en/post/staircase/) [leading](/en/post/leading/) [up](/en/post/up/) [to](/en/post/to/) [the](/en/post/the/) [reading](/en/post/reading/) rooms."
 
 ## Synonyms
-- Stone
+- [Stone](/en/post/stone/)
 - Alabaster
 - Granite
-- Slate (for other types of stones)
-- Inlaid (for the decorative aspect)
-- Variegated (describing the pattern)
+- Slate ([for](/en/post/for/) [other](/en/post/other/) types [of](/en/post/of/) stones)
+- Inlaid ([for](/en/post/for/) [the](/en/post/the/) decorative [aspect](/en/post/aspect/))
+- Variegated (describing [the](/en/post/the/) [pattern](/en/post/pattern/))
   
-In the context of "marbling" as a verb:
-- Pattern
+[In](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) "marbling" [as](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/):
+- [Pattern](/en/post/pattern/)
 - Swirl
 - Vein
-- Stain
-- Dapple (referring to creating a mottled or marbled effect on a surface)
+- [Stain](/en/post/stain/)
+- Dapple (referring [to](/en/post/to/) creating [a](/en/post/a/) mottled [or](/en/post/or/) marbled [effect](/en/post/effect/) [on](/en/post/on/) [a](/en/post/a/) [surface](/en/post/surface/))

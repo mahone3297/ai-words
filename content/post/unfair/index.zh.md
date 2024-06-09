@@ -11,20 +11,20 @@ keywords = ['ai words', 'unfair']
 /ʌnˈfaɪər/
 
 ## 释义
-- **形容词**: 不公正的，不公平的。例如: "The distribution of wealth is very unfair in this country."
-- **副词**: 不公平地，不正当地。例如: "He was treated unfairly by his employer."
+- **形容词**: 不公正的，不公平的。例如: "[The](/post/the/) [distribution](/post/distribution/) [of](/post/of/) [wealth](/post/wealth/) is [very](/post/very/) [unfair](/post/unfair/) [in](/post/in/) [this](/post/this/) [country](/post/country/)."
+- **副词**: 不公平地，不正当地。例如: "[He](/post/he/) was treated unfairly [by](/post/by/) [his](/post/his/) [employer](/post/employer/)."
 
 ## 短语
-- "play fair" 表示做事公正，遵守规则。
-- "unfair advantage" 意为不正当的优势或利益。
+- "[play](/post/play/) [fair](/post/fair/)" 表示做事公正，遵守规则。
+- "[unfair](/post/unfair/) [advantage](/post/advantage/)" 意为不正当的优势或利益。
 
 ## 例句
-- 形容词: "It's unfair to blame the whole team for one player's mistake."
-- 副词: "She felt unfairly dismissed from her job without any explanation."
+- 形容词: "It's [unfair](/post/unfair/) [to](/post/to/) [blame](/post/blame/) [the](/post/the/) [whole](/post/whole/) [team](/post/team/) [for](/post/for/) [one](/post/one/) player's [mistake](/post/mistake/)."
+- 副词: "[She](/post/she/) felt unfairly dismissed [from](/post/from/) [her](/post/her/) [job](/post/job/) [without](/post/without/) [any](/post/any/) [explanation](/post/explanation/)."
 
 ## 同义词
-- Unjust
+- [Unjust](/post/unjust/)
 - Inequitable
 - Discriminatory
 - Biased
-- Partial
+- [Partial](/post/partial/)

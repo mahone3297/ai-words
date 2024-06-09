@@ -11,19 +11,19 @@ keywords = ['ai words', 'surprising']
 /ˈsər.prɪzɪŋ/
 
 ## 释义
-- **形容词**: 令人惊讶的，出乎意料的。例如: "The result of the experiment was surprising."
-- **名词**: (口语)惊喜，惊奇。例如: "She had a surprised look on her face when she saw the surprise party."
+- **形容词**: 令人惊讶的，出乎意料的。例如: "[The](/post/the/) [result](/post/result/) [of](/post/of/) [the](/post/the/) [experiment](/post/experiment/) was [surprising](/post/surprising/)."
+- **名词**: (口语)惊喜，惊奇。例如: "[She](/post/she/) had [a](/post/a/) surprised [look](/post/look/) [on](/post/on/) [her](/post/her/) [face](/post/face/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [the](/post/the/) [surprise](/post/surprise/) [party](/post/party/)."
 
 ## 短语
-- "to one's surprise" 表示某事让人惊讶。例如: "To his surprise, he found an old letter in the attic."
-- "a surprising fact" 指一个令人惊奇的事实。
+- "[to](/post/to/) one's [surprise](/post/surprise/)" 表示某事让人惊讶。例如: "[To](/post/to/) [his](/post/his/) [surprise](/post/surprise/), [he](/post/he/) [found](/post/found/) an [old](/post/old/) [letter](/post/letter/) [in](/post/in/) [the](/post/the/) attic."
+- "[a](/post/a/) [surprising](/post/surprising/) [fact](/post/fact/)" 指一个令人惊奇的事实。
 
 ## 例句
-- 形容词: "The child's ability to solve complex problems was surprising for his age."
-- 名词: "She received a surprising gift from her long-lost friend."
+- 形容词: "[The](/post/the/) child's [ability](/post/ability/) [to](/post/to/) [solve](/post/solve/) [complex](/post/complex/) problems was [surprising](/post/surprising/) [for](/post/for/) [his](/post/his/) [age](/post/age/)."
+- 名词: "[She](/post/she/) received [a](/post/a/) [surprising](/post/surprising/) [gift](/post/gift/) [from](/post/from/) [her](/post/her/) long-lost [friend](/post/friend/)."
 
 ## 同义词
-- Unexpected
+- [Unexpected](/post/unexpected/)
 - Astonishing
 - Startling
 - Unbelievable

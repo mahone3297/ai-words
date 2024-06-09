@@ -11,18 +11,18 @@ keywords = ['ai words', 'remains']
 /rɪˈmeɪnz/
 
 ## 释义
-- **名词**: 1. 剩余物；残余；遗迹。例如: "The remains of an ancient civilization were found in the valley."
-   2. 骨骼；遗骸。例如: "The archaeologists discovered human remains dating back thousands of years."
+- **名词**: 1. 剩余物；残余；遗迹。例如: "[The](/post/the/) [remains](/post/remains/) [of](/post/of/) an [ancient](/post/ancient/) [civilization](/post/civilization/) were [found](/post/found/) [in](/post/in/) [the](/post/the/) [valley](/post/valley/)."
+   2. 骨骼；遗骸。例如: "[The](/post/the/) archaeologists discovered [human](/post/human/) [remains](/post/remains/) dating [back](/post/back/) thousands [of](/post/of/) years."
 
-- **动词**: 保持不变；依然。例如: "After all these years, she still remains my best friend."
+- **动词**: 保持不变；依然。例如: "[After](/post/after/) [all](/post/all/) [these](/post/these/) years, [she](/post/she/) [still](/post/still/) [remains](/post/remains/) [my](/post/my/) [best](/post/best/) [friend](/post/friend/)."
 
 ## 短语
 - "Remainders" 在数学中指除法后的余数。
-- "The remains of something" 指某事物残留的部分。
+- "[The](/post/the/) [remains](/post/remains/) [of](/post/of/) [something](/post/something/)" 指某事物残留的部分。
 
 ## 例句
-- 名词: "The excavation site revealed the remains of a Roman villa."
-- 动词: "Despite the challenges, she remains optimistic about the future."
+- 名词: "[The](/post/the/) excavation [site](/post/site/) revealed [the](/post/the/) [remains](/post/remains/) [of](/post/of/) [a](/post/a/) Roman villa."
+- 动词: "[Despite](/post/despite/) [the](/post/the/) challenges, [she](/post/she/) [remains](/post/remains/) [optimistic](/post/optimistic/) [about](/post/about/) [the](/post/the/) [future](/post/future/)."
 
 ## 同义词
 - Leftovers

@@ -11,18 +11,18 @@ keywords = ['ai words', 'turbine']
 /ˈtɜːrbɪn/
 
 ## 释义
-- **名词**: 一种利用流体（如气体或液体）流过旋转叶片来产生动力的机械装置，通常用于发电或推进系统。例如: "The turbine in the power plant converts steam energy into electricity."
+- **名词**: 一种利用流体（如气体或液体）流过旋转叶片来产生动力的机械装置，通常用于发电或推进系统。例如: "[The](/post/the/) [turbine](/post/turbine/) [in](/post/in/) [the](/post/the/) [power](/post/power/) [plant](/post/plant/) converts [steam](/post/steam/) [energy](/post/energy/) [into](/post/into/) [electricity](/post/electricity/)."
 
 ## 短语
-- "Steam turbine" 是指使用蒸汽驱动的涡轮机。
-- "Gas turbine" 是指使用燃气驱动的涡轮机。
+- "[Steam](/post/steam/) [turbine](/post/turbine/)" 是指使用蒸汽驱动的涡轮机。
+- "[Gas](/post/gas/) [turbine](/post/turbine/)" 是指使用燃气驱动的涡轮机。
 
 ## 例句
-- "The wind turbine generates electricity by harnessing the power of the wind."
-- "The aircraft's jet engines contain turbines that compress air before combustion."
+- "[The](/post/the/) [wind](/post/wind/) [turbine](/post/turbine/) generates [electricity](/post/electricity/) [by](/post/by/) harnessing [the](/post/the/) [power](/post/power/) [of](/post/of/) [the](/post/the/) [wind](/post/wind/)."
+- "[The](/post/the/) aircraft's [jet](/post/jet/) engines [contain](/post/contain/) turbines [that](/post/that/) [compress](/post/compress/) [air](/post/air/) [before](/post/before/) combustion."
 
 ## 同义词
 - Turbinate
-- Rotary engine
-- Jet engine (在某些上下文中)
-- Steam engine (在某些特定类型的情况下)
+- [Rotary](/post/rotary/) [engine](/post/engine/)
+- [Jet](/post/jet/) [engine](/post/engine/) (在某些上下文中)
+- [Steam](/post/steam/) [engine](/post/engine/) (在某些特定类型的情况下)

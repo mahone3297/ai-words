@@ -11,19 +11,19 @@ keywords = ['ai words', 'robber']
 /ˈrɑːbər/
 
 ## 释义
-- **名词** (n): 抢劫者，盗贼。指的是非法夺取他人财物的人。例如: "The robber was caught by the police after a chase."
-- **动词** (v): 抢劫，盗窃。指非法夺取他人的财物行为。例如: "He robbed the bank at gunpoint."
+- **名词** (n): 抢劫者，盗贼。指的是非法夺取他人财物的人。例如: "[The](/post/the/) [robber](/post/robber/) was caught [by](/post/by/) [the](/post/the/) [police](/post/police/) [after](/post/after/) [a](/post/a/) [chase](/post/chase/)."
+- **动词** (v): 抢劫，盗窃。指非法夺取他人的财物行为。例如: "[He](/post/he/) robbed [the](/post/the/) [bank](/post/bank/) [at](/post/at/) gunpoint."
 
 ## 短语
-- "Robber baron" 指的是通过不正当手段聚敛财富的工业巨头。
-- "Robbery" 是抢劫行为的名词形式。
+- "[Robber](/post/robber/) baron" 指的是通过不正当手段聚敛财富的工业巨头。
+- "[Robbery](/post/robbery/)" 是抢劫行为的名词形式。
 
 ## 例句
-- 名词: "The witness described the robber as a tall man wearing a black mask."
-- 动词: "The thief robbed the珠宝店 in broad daylight."
+- 名词: "[The](/post/the/) [witness](/post/witness/) described [the](/post/the/) [robber](/post/robber/) [as](/post/as/) [a](/post/a/) [tall](/post/tall/) [man](/post/man/) wearing [a](/post/a/) [black](/post/black/) [mask](/post/mask/)."
+- 动词: "[The](/post/the/) [thief](/post/thief/) robbed the珠宝店 [in](/post/in/) [broad](/post/broad/) [daylight](/post/daylight/)."
 
 ## 同义词
-- Thief
+- [Thief](/post/thief/)
 - Bandit
 - Burglar
 - Pillager

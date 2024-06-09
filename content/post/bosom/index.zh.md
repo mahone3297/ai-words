@@ -11,20 +11,20 @@ keywords = ['ai words', 'bosom']
 /bəʊsəm/
 
 ## 释义
-- **名词**: 胸部；胸怀。例如: "She held the child close to her bosom."
-- **形容词**: 秘密的，亲密的。例如: "They shared a bosom friendship for years."
+- **名词**: 胸部；胸怀。例如: "[She](/post/she/) held [the](/post/the/) [child](/post/child/) [close](/post/close/) [to](/post/to/) [her](/post/her/) [bosom](/post/bosom/)."
+- **形容词**: 秘密的，亲密的。例如: "[They](/post/they/) shared [a](/post/a/) [bosom](/post/bosom/) [friendship](/post/friendship/) [for](/post/for/) years."
 
 ## 短语
-- "bosom friend" 指亲密的朋友。
-- "in someone's bosom" 意味着在某人的怀抱或内心深处。
+- "[bosom](/post/bosom/) [friend](/post/friend/)" 指亲密的朋友。
+- "[in](/post/in/) someone's [bosom](/post/bosom/)" 意味着在某人的怀抱或内心深处。
 
 ## 例句
-- 名词: "The baby fell asleep in its mother's bosom."
-- 形容词: "They confided their deepest secrets to each other, like true bosom friends."
+- 名词: "[The](/post/the/) [baby](/post/baby/) fell [asleep](/post/asleep/) [in](/post/in/) [its](/post/its/) mother's [bosom](/post/bosom/)."
+- 形容词: "[They](/post/they/) confided [their](/post/their/) deepest secrets [to](/post/to/) [each](/post/each/) [other](/post/other/), [like](/post/like/) [true](/post/true/) [bosom](/post/bosom/) friends."
 
 ## 同义词
-- Heart
-- Embrace
-- Inner circle
-- Close proximity
+- [Heart](/post/heart/)
+- [Embrace](/post/embrace/)
+- [Inner](/post/inner/) [circle](/post/circle/)
+- [Close](/post/close/) proximity
 - Intimacy

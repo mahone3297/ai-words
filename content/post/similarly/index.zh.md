@@ -11,20 +11,20 @@ keywords = ['ai words', 'similarly']
 /sɪˈmælərli/
 
 ## 释义
-- **副词**: 表示相似地，同样地，相当地。例如: "They reacted similarly to the news."
-- **连词**: 连接两个相似的事物或观点。例如: "John is tall, similarly, his brother is also tall."
+- **副词**: 表示相似地，同样地，相当地。例如: "[They](/post/they/) reacted [similarly](/post/similarly/) [to](/post/to/) [the](/post/the/) [news](/post/news/)."
+- **连词**: 连接两个相似的事物或观点。例如: "John is [tall](/post/tall/), [similarly](/post/similarly/), [his](/post/his/) [brother](/post/brother/) is [also](/post/also/) [tall](/post/tall/)."
 
 ## 短语
-- "In a similar manner" 意为以类似的方式。
-- "Similarly situated" 指的是处于相同情况或境地。
+- "[In](/post/in/) [a](/post/a/) [similar](/post/similar/) [manner](/post/manner/)" 意为以类似的方式。
+- "[Similarly](/post/similarly/) situated" 指的是处于相同情况或境地。
 
 ## 例句
-- 副词: "Both cats behaved similarly when presented with the same toy."
-- 连词: "She loves reading, similarly, her sister enjoys books as well."
+- 副词: "[Both](/post/both/) cats behaved [similarly](/post/similarly/) [when](/post/when/) presented [with](/post/with/) [the](/post/the/) [same](/post/same/) [toy](/post/toy/)."
+- 连词: "[She](/post/she/) loves [reading](/post/reading/), [similarly](/post/similarly/), [her](/post/her/) [sister](/post/sister/) enjoys books [as](/post/as/) [well](/post/well/)."
 
 ## 同义词
-- Likewise
-- Likewise, too
-- In the same way
+- [Likewise](/post/likewise/)
+- [Likewise](/post/likewise/), [too](/post/too/)
+- [In](/post/in/) [the](/post/the/) [same](/post/same/) [way](/post/way/)
 - Equally
-- Likewise, similarly
+- [Likewise](/post/likewise/), [similarly](/post/similarly/)

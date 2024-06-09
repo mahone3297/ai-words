@@ -11,20 +11,20 @@ keywords = ['ai words', 'several']
 /ˈsɛvərəl/
 
 ## 释义
-- **形容词**: 多个的，几个的，若干的。表示数量不确定但多于一个且小于许多。例如: "I have several books on this topic." 
-- **代词**: 几个，若干。例如: "Several people were injured in the accident."
+- **形容词**: 多个的，几个的，若干的。表示数量不确定但多于一个且小于许多。例如: "I [have](/post/have/) [several](/post/several/) books [on](/post/on/) [this](/post/this/) [topic](/post/topic/)." 
+- **代词**: 几个，若干。例如: "[Several](/post/several/) [people](/post/people/) were injured [in](/post/in/) [the](/post/the/) [accident](/post/accident/)."
 
 ## 短语
-- "Several times" 表示多次。
-- "Several different" 意为几种不同的。
+- "[Several](/post/several/) times" 表示多次。
+- "[Several](/post/several/) [different](/post/different/)" 意为几种不同的。
 
 ## 例句
-- 形容词: "There are several options to choose from."
-- 代词: "Several of us will be attending the meeting."
+- 形容词: "[There](/post/there/) are [several](/post/several/) options [to](/post/to/) [choose](/post/choose/) [from](/post/from/)."
+- 代词: "[Several](/post/several/) [of](/post/of/) [us](/post/us/) [will](/post/will/) [be](/post/be/) attending [the](/post/the/) [meeting](/post/meeting/)."
 
 ## 同义词
-- A few
-- Some
-- A couple
-- A number of
-- Several more (表示比几个还要多一些)
+- [A](/post/a/) [few](/post/few/)
+- [Some](/post/some/)
+- [A](/post/a/) [couple](/post/couple/)
+- [A](/post/a/) [number](/post/number/) [of](/post/of/)
+- [Several](/post/several/) [more](/post/more/) (表示比几个还要多一些)

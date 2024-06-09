@@ -11,20 +11,20 @@ keywords = ['ai words', 'underline']
 /ˈʌndəraɪn/
 
 ## 释义
-- **动词**: 在（文字）下划线；强调。例如: "I usually underline important points while reading."
-- **名词**: 下划线；底线。例如: "There is an underline beneath the word 'important'."
+- **动词**: 在（文字）下划线；强调。例如: "I [usually](/post/usually/) [underline](/post/underline/) [important](/post/important/) points [while](/post/while/) [reading](/post/reading/)."
+- **名词**: 下划线；底线。例如: "[There](/post/there/) is an [underline](/post/underline/) [beneath](/post/beneath/) [the](/post/the/) [word](/post/word/) '[important](/post/important/)'."
 
 ## 短语
-- "underline a statement" 强调一个观点。
-- "underline the importance of something" 突出某事的重要性。
+- "[underline](/post/underline/) [a](/post/a/) [statement](/post/statement/)" 强调一个观点。
+- "[underline](/post/underline/) [the](/post/the/) [importance](/post/importance/) [of](/post/of/) [something](/post/something/)" 突出某事的重要性。
 
 ## 例句
-- 动词: "Please underline all the key terms in the passage."
-- 名词: "The contract had several underlines to draw attention to critical clauses."
+- 动词: "[Please](/post/please/) [underline](/post/underline/) [all](/post/all/) [the](/post/the/) [key](/post/key/) terms [in](/post/in/) [the](/post/the/) [passage](/post/passage/)."
+- 名词: "[The](/post/the/) [contract](/post/contract/) had [several](/post/several/) underlines [to](/post/to/) [draw](/post/draw/) [attention](/post/attention/) [to](/post/to/) [critical](/post/critical/) clauses."
 
 ## 同义词
-- emphasize
+- [emphasize](/post/emphasize/)
 - highlight
-- stress
-- bring out
+- [stress](/post/stress/)
+- [bring](/post/bring/) [out](/post/out/)
 - accentuate

@@ -11,23 +11,23 @@ keywords = ['ai words', 'touch']
 /tʌtʃ/
 
 ## 释义
-- **名词**: 接触，触摸；感情的交流。例如: "They enjoyed each other's company without the need for words, just a simple touch."
-- **动词**: 触摸，碰；感动。例如: "She touched his hand gently."
-- **形容词**: 可触及的，有触感的。例如: "The fabric has a soft, touchable texture."
+- **名词**: 接触，触摸；感情的交流。例如: "[They](/post/they/) enjoyed [each](/post/each/) other's [company](/post/company/) [without](/post/without/) [the](/post/the/) [need](/post/need/) [for](/post/for/) words, [just](/post/just/) [a](/post/a/) [simple](/post/simple/) [touch](/post/touch/)."
+- **动词**: 触摸，碰；感动。例如: "[She](/post/she/) touched [his](/post/his/) [hand](/post/hand/) [gently](/post/gently/)."
+- **形容词**: 可触及的，有触感的。例如: "[The](/post/the/) [fabric](/post/fabric/) has [a](/post/a/) [soft](/post/soft/), touchable texture."
 
 ## 短语
-- "lose touch with someone" 意为与某人失去联系。
-- "get in touch with someone" 意为与某人取得联系。
-- "a touch of humor" 指一种幽默感。
+- "[lose](/post/lose/) [touch](/post/touch/) [with](/post/with/) [someone](/post/someone/)" 意为与某人失去联系。
+- "[get](/post/get/) [in](/post/in/) [touch](/post/touch/) [with](/post/with/) [someone](/post/someone/)" 意为与某人取得联系。
+- "[a](/post/a/) [touch](/post/touch/) [of](/post/of/) humor" 指一种幽默感。
 
 ## 例句
-- 名词: "Their first touch was electric, filling them both with excitement."
-- 动词: "He reached out to touch the painting, admiring its intricate details."
-- 形容词: "The designer created a touch-friendly interface for the app."
+- 名词: "[Their](/post/their/) [first](/post/first/) [touch](/post/touch/) was [electric](/post/electric/), filling [them](/post/them/) [both](/post/both/) [with](/post/with/) excitement."
+- 动词: "[He](/post/he/) reached [out](/post/out/) [to](/post/to/) [touch](/post/touch/) [the](/post/the/) [painting](/post/painting/), admiring [its](/post/its/) intricate details."
+- 形容词: "[The](/post/the/) designer created [a](/post/a/) touch-friendly interface [for](/post/for/) [the](/post/the/) app."
 
 ## 同义词
-- Reach
-- Feel
-- Contact
+- [Reach](/post/reach/)
+- [Feel](/post/feel/)
+- [Contact](/post/contact/)
 - Bump
-- Stroke
+- [Stroke](/post/stroke/)

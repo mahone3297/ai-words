@@ -7,43 +7,43 @@ description = '[əˈkaunt] n.记述；解释；帐目'
 keywords = ['ai words', 'account']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /əˈkɑːnt/
 
 ## Definitions
-### Noun
-1. A record or statement of transactions, often financial: *I need to reconcile my bank account.*
-2. A description or representation of something: *The painting was a vivid account of the scene.*
-3. A person's story or explanation of events: *He told me his side of the account.*
-4. [mass noun] The act of giving or receiving an explanation or information: *Provide an account of what happened.*
+### [Noun](/en/post/noun/)
+1. [A](/en/post/a/) [record](/en/post/record/) [or](/en/post/or/) [statement](/en/post/statement/) [of](/en/post/of/) transactions, [often](/en/post/often/) [financial](/en/post/financial/): *I [need](/en/post/need/) [to](/en/post/to/) reconcile [my](/en/post/my/) [bank](/en/post/bank/) [account](/en/post/account/).*
+2. [A](/en/post/a/) [description](/en/post/description/) [or](/en/post/or/) representation [of](/en/post/of/) [something](/en/post/something/): *[The](/en/post/the/) [painting](/en/post/painting/) was [a](/en/post/a/) [vivid](/en/post/vivid/) [account](/en/post/account/) [of](/en/post/of/) [the](/en/post/the/) [scene](/en/post/scene/).*
+3. [A](/en/post/a/) person's [story](/en/post/story/) [or](/en/post/or/) [explanation](/en/post/explanation/) [of](/en/post/of/) events: *[He](/en/post/he/) told [me](/en/post/me/) [his](/en/post/his/) [side](/en/post/side/) [of](/en/post/of/) [the](/en/post/the/) [account](/en/post/account/).*
+4. [[mass](/en/post/mass/) [noun](/en/post/noun/)] [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) giving [or](/en/post/or/) receiving an [explanation](/en/post/explanation/) [or](/en/post/or/) [information](/en/post/information/): *[Provide](/en/post/provide/) an [account](/en/post/account/) [of](/en/post/of/) [what](/en/post/what/) happened.*
 
-### Verb
-1. To give a detailed report or explanation: *She will account for her absence.*
-2. To be responsible for (sth.): *The company is accountable for the loss.*
-3. To estimate or calculate the cost, quantity, or value of: *Let's account for the time and materials needed.*
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) detailed [report](/en/post/report/) [or](/en/post/or/) [explanation](/en/post/explanation/): *[She](/en/post/she/) [will](/en/post/will/) [account](/en/post/account/) [for](/en/post/for/) [her](/en/post/her/) [absence](/en/post/absence/).*
+2. [To](/en/post/to/) [be](/en/post/be/) [responsible](/en/post/responsible/) [for](/en/post/for/) (sth.): *[The](/en/post/the/) [company](/en/post/company/) is accountable [for](/en/post/for/) [the](/en/post/the/) [loss](/en/post/loss/).*
+3. [To](/en/post/to/) [estimate](/en/post/estimate/) [or](/en/post/or/) [calculate](/en/post/calculate/) [the](/en/post/the/) [cost](/en/post/cost/), [quantity](/en/post/quantity/), [or](/en/post/or/) [value](/en/post/value/) [of](/en/post/of/): *Let's [account](/en/post/account/) [for](/en/post/for/) [the](/en/post/the/) [time](/en/post/time/) [and](/en/post/and/) materials needed.*
 
-### Adjective
-1. Relevant or pertinent: *This detail is not germane to the main account.*
-2. Connected or belonging: *This theory doesn't seem to fit the overall account.*
+### [Adjective](/en/post/adjective/)
+1. [Relevant](/en/post/relevant/) [or](/en/post/or/) pertinent: *[This](/en/post/this/) [detail](/en/post/detail/) is [not](/en/post/not/) germane [to](/en/post/to/) [the](/en/post/the/) [main](/en/post/main/) [account](/en/post/account/).*
+2. Connected [or](/en/post/or/) belonging: *[This](/en/post/this/) [theory](/en/post/theory/) doesn't [seem](/en/post/seem/) [to](/en/post/to/) [fit](/en/post/fit/) [the](/en/post/the/) [overall](/en/post/overall/) [account](/en/post/account/).*
 
 ## Phrases
-- "Keep an account" means to maintain a record of transactions.
-- "Provide an account" is to give a detailed explanation or report.
-- "Be consistent with your account" means to have a logical or coherent story.
+- "[Keep](/en/post/keep/) an [account](/en/post/account/)" [means](/en/post/means/) [to](/en/post/to/) [maintain](/en/post/maintain/) [a](/en/post/a/) [record](/en/post/record/) [of](/en/post/of/) transactions.
+- "[Provide](/en/post/provide/) an [account](/en/post/account/)" is [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) detailed [explanation](/en/post/explanation/) [or](/en/post/or/) [report](/en/post/report/).
+- "[Be](/en/post/be/) [consistent](/en/post/consistent/) [with](/en/post/with/) [your](/en/post/your/) [account](/en/post/account/)" [means](/en/post/means/) [to](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [logical](/en/post/logical/) [or](/en/post/or/) coherent [story](/en/post/story/).
 
-## Example Sentences
-- **Noun**: *He provided a detailed account of his travels.*
-- **Verb**: *She will account for her late arrival at the meeting.*
-- **Adjective**: *The story doesn't match the official account of events.*
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: *[He](/en/post/he/) [provided](/en/post/provided/) [a](/en/post/a/) detailed [account](/en/post/account/) [of](/en/post/of/) [his](/en/post/his/) travels.*
+- **[Verb](/en/post/verb/)**: *[She](/en/post/she/) [will](/en/post/will/) [account](/en/post/account/) [for](/en/post/for/) [her](/en/post/her/) [late](/en/post/late/) [arrival](/en/post/arrival/) [at](/en/post/at/) [the](/en/post/the/) [meeting](/en/post/meeting/).*
+- **[Adjective](/en/post/adjective/)**: *[The](/en/post/the/) [story](/en/post/story/) doesn't [match](/en/post/match/) [the](/en/post/the/) [official](/en/post/official/) [account](/en/post/account/) [of](/en/post/of/) events.*
 
 ## Synonyms
-- Explanation
+- [Explanation](/en/post/explanation/)
 - Narrative
-- Description
-- Record
-- Statement
+- [Description](/en/post/description/)
+- [Record](/en/post/record/)
+- [Statement](/en/post/statement/)
 - Representation
-- Explanation
+- [Explanation](/en/post/explanation/)
 - reckoning
 - enumeration
 - justification

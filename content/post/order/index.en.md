@@ -7,44 +7,44 @@ description = '[ˈɔːdə(r)] n.次序；整齐 vt.命令'
 keywords = ['ai words', 'order']
 +++
 
-## Word: Order
+## [Word](/en/post/word/): [Order](/en/post/order/)
 
-### Pronunciation
+### [Pronunciation](/en/post/pronunciation/)
 /ˈɔrdər/
 
 ### Definitions
-- **Noun**
-  - Arrangement, disposition, or organization of people or things according to a particular sequence, pattern, or structure. Example: "The teacher asked us to form a straight line in alphabetical order."
-  - A command, directive, or instruction given by someone in authority. Example: "The captain gave the order to set sail immediately."
-  - A request for goods or services to be supplied, often in exchange for payment. Example: "She placed an order for a new laptop online."
-  - A state of being well-organized, systematic, or controlled. Example: "Maintaining order in a classroom is crucial for effective learning."
+- **[Noun](/en/post/noun/)**
+  - [Arrangement](/en/post/arrangement/), disposition, [or](/en/post/or/) [organization](/en/post/organization/) [of](/en/post/of/) [people](/en/post/people/) [or](/en/post/or/) things according [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [sequence](/en/post/sequence/), [pattern](/en/post/pattern/), [or](/en/post/or/) [structure](/en/post/structure/). [Example](/en/post/example/): "[The](/en/post/the/) [teacher](/en/post/teacher/) asked [us](/en/post/us/) [to](/en/post/to/) [form](/en/post/form/) [a](/en/post/a/) [straight](/en/post/straight/) [line](/en/post/line/) [in](/en/post/in/) alphabetical [order](/en/post/order/)."
+  - [A](/en/post/a/) [command](/en/post/command/), directive, [or](/en/post/or/) [instruction](/en/post/instruction/) given [by](/en/post/by/) [someone](/en/post/someone/) [in](/en/post/in/) [authority](/en/post/authority/). [Example](/en/post/example/): "[The](/en/post/the/) [captain](/en/post/captain/) gave [the](/en/post/the/) [order](/en/post/order/) [to](/en/post/to/) [set](/en/post/set/) [sail](/en/post/sail/) [immediately](/en/post/immediately/)."
+  - [A](/en/post/a/) [request](/en/post/request/) [for](/en/post/for/) [goods](/en/post/goods/) [or](/en/post/or/) services [to](/en/post/to/) [be](/en/post/be/) supplied, [often](/en/post/often/) [in](/en/post/in/) [exchange](/en/post/exchange/) [for](/en/post/for/) [payment](/en/post/payment/). [Example](/en/post/example/): "[She](/en/post/she/) placed an [order](/en/post/order/) [for](/en/post/for/) [a](/en/post/a/) [new](/en/post/new/) laptop online."
+  - [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) well-organized, systematic, [or](/en/post/or/) controlled. [Example](/en/post/example/): "Maintaining [order](/en/post/order/) [in](/en/post/in/) [a](/en/post/a/) [classroom](/en/post/classroom/) is crucial [for](/en/post/for/) [effective](/en/post/effective/) [learning](/en/post/learning/)."
   
-- **Verb**
-  - To arrange, organize, or classify systematically. Example: "We need to order these files chronologically."
-  - To give a command, directive, or instruction. Example: "The manager ordered the team to finish the project by Friday."
-  - To request or buy something from a supplier or merchant. Example: "I ordered takeout for dinner tonight."
-  - To direct the sequence or course of events. Example: "The judge ordered that the trial proceed the next day."
+- **[Verb](/en/post/verb/)**
+  - [To](/en/post/to/) [arrange](/en/post/arrange/), [organize](/en/post/organize/), [or](/en/post/or/) [classify](/en/post/classify/) systematically. [Example](/en/post/example/): "[We](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [order](/en/post/order/) [these](/en/post/these/) files chronologically."
+  - [To](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [command](/en/post/command/), directive, [or](/en/post/or/) [instruction](/en/post/instruction/). [Example](/en/post/example/): "[The](/en/post/the/) manager ordered [the](/en/post/the/) [team](/en/post/team/) [to](/en/post/to/) [finish](/en/post/finish/) [the](/en/post/the/) [project](/en/post/project/) [by](/en/post/by/) Friday."
+  - [To](/en/post/to/) [request](/en/post/request/) [or](/en/post/or/) [buy](/en/post/buy/) [something](/en/post/something/) [from](/en/post/from/) [a](/en/post/a/) supplier [or](/en/post/or/) [merchant](/en/post/merchant/). [Example](/en/post/example/): "I ordered takeout [for](/en/post/for/) [dinner](/en/post/dinner/) [tonight](/en/post/tonight/)."
+  - [To](/en/post/to/) [direct](/en/post/direct/) [the](/en/post/the/) [sequence](/en/post/sequence/) [or](/en/post/or/) [course](/en/post/course/) [of](/en/post/of/) events. [Example](/en/post/example/): "[The](/en/post/the/) [judge](/en/post/judge/) ordered [that](/en/post/that/) [the](/en/post/the/) [trial](/en/post/trial/) [proceed](/en/post/proceed/) [the](/en/post/the/) [next](/en/post/next/) [day](/en/post/day/)."
 
 ### Phrases
-- "In order": In a correct or appropriate arrangement or condition.
-- "Out of order": Not functioning correctly, or behaving inappropriately.
-- "Place an order": To make a purchase or request goods/services.
-- "Order of operations": A set of rules followed when performing mathematical operations.
-- "Law and order": The maintenance of social control through law enforcement.
+- "[In](/en/post/in/) [order](/en/post/order/)": [In](/en/post/in/) [a](/en/post/a/) [correct](/en/post/correct/) [or](/en/post/or/) [appropriate](/en/post/appropriate/) [arrangement](/en/post/arrangement/) [or](/en/post/or/) [condition](/en/post/condition/).
+- "[Out](/en/post/out/) [of](/en/post/of/) [order](/en/post/order/)": [Not](/en/post/not/) functioning correctly, [or](/en/post/or/) behaving inappropriately.
+- "[Place](/en/post/place/) an [order](/en/post/order/)": [To](/en/post/to/) [make](/en/post/make/) [a](/en/post/a/) [purchase](/en/post/purchase/) [or](/en/post/or/) [request](/en/post/request/) [goods](/en/post/goods/)/services.
+- "[Order](/en/post/order/) [of](/en/post/of/) operations": [A](/en/post/a/) [set](/en/post/set/) [of](/en/post/of/) rules followed [when](/en/post/when/) performing [mathematical](/en/post/mathematical/) operations.
+- "[Law](/en/post/law/) [and](/en/post/and/) [order](/en/post/order/)": [The](/en/post/the/) [maintenance](/en/post/maintenance/) [of](/en/post/of/) [social](/en/post/social/) [control](/en/post/control/) [through](/en/post/through/) [law](/en/post/law/) enforcement.
 
-### Example Sentences
-- **Noun**: "The sergeant maintained strict discipline and order within his platoon."
-- **Verb**: "The chef orders ingredients fresh every morning for the restaurant's menu."
-- **Other uses**: "It's essential to follow the order of steps in a scientific experiment."
+### [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) sergeant maintained [strict](/en/post/strict/) [discipline](/en/post/discipline/) [and](/en/post/and/) [order](/en/post/order/) [within](/en/post/within/) [his](/en/post/his/) platoon."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) chef orders ingredients [fresh](/en/post/fresh/) [every](/en/post/every/) [morning](/en/post/morning/) [for](/en/post/for/) [the](/en/post/the/) restaurant's [menu](/en/post/menu/)."
+- **[Other](/en/post/other/) uses**: "It's [essential](/en/post/essential/) [to](/en/post/to/) [follow](/en/post/follow/) [the](/en/post/the/) [order](/en/post/order/) [of](/en/post/of/) steps [in](/en/post/in/) [a](/en/post/a/) [scientific](/en/post/scientific/) [experiment](/en/post/experiment/)."
 
 ### Synonyms
-- Sequence
-- Arrangement
-- Command
+- [Sequence](/en/post/sequence/)
+- [Arrangement](/en/post/arrangement/)
+- [Command](/en/post/command/)
 - Directive
-- Instruction
-- Purchase
-- Request
-- Organization
+- [Instruction](/en/post/instruction/)
+- [Purchase](/en/post/purchase/)
+- [Request](/en/post/request/)
+- [Organization](/en/post/organization/)
 - Systematics
-- Rule (in the context of 'order of operations')
+- [Rule](/en/post/rule/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) '[order](/en/post/order/) [of](/en/post/of/) operations')

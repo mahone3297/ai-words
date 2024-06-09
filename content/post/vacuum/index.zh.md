@@ -11,21 +11,21 @@ keywords = ['ai words', 'vacuum']
 /vəˈkuəm/
 
 ## 释义
-- **名词**: 真空；空虚；空白；真空状态。例如: "The space between the galaxies is mostly a vacuum."
-- **名词**: 抽吸器；吸尘器。例如: "I need to use the vacuum to clean the carpet."
-- **动词**: 抽真空；用吸尘器清扫。例如: "She vacuums the house every Saturday morning."
+- **名词**: 真空；空虚；空白；真空状态。例如: "[The](/post/the/) [space](/post/space/) [between](/post/between/) [the](/post/the/) galaxies is [mostly](/post/mostly/) [a](/post/a/) [vacuum](/post/vacuum/)."
+- **名词**: 抽吸器；吸尘器。例如: "I [need](/post/need/) [to](/post/to/) [use](/post/use/) [the](/post/the/) [vacuum](/post/vacuum/) [to](/post/to/) [clean](/post/clean/) [the](/post/the/) [carpet](/post/carpet/)."
+- **动词**: 抽真空；用吸尘器清扫。例如: "[She](/post/she/) vacuums [the](/post/the/) [house](/post/house/) [every](/post/every/) Saturday [morning](/post/morning/)."
 
 ## 短语
-- "in a vacuum" 表示在真空中或孤立无援的环境中。例如: "Ideas that sound good in a vacuum may not work in practice."
-- "vacuum cleaner" 是吸尘器的另一种说法。
+- "[in](/post/in/) [a](/post/a/) [vacuum](/post/vacuum/)" 表示在真空中或孤立无援的环境中。例如: "Ideas [that](/post/that/) [sound](/post/sound/) [good](/post/good/) [in](/post/in/) [a](/post/a/) [vacuum](/post/vacuum/) [may](/post/may/) [not](/post/not/) [work](/post/work/) [in](/post/in/) [practice](/post/practice/)."
+- "[vacuum](/post/vacuum/) cleaner" 是吸尘器的另一种说法。
 
 ## 例句
-- 名词: "The experiment was conducted in a near-perfect vacuum."
-- 名词: "She bought a new vacuum with powerful suction."
-- 动词: "He vacuumed the living room before guests arrived."
+- 名词: "[The](/post/the/) [experiment](/post/experiment/) was conducted [in](/post/in/) [a](/post/a/) near-perfect [vacuum](/post/vacuum/)."
+- 名词: "[She](/post/she/) bought [a](/post/a/) [new](/post/new/) [vacuum](/post/vacuum/) [with](/post/with/) [powerful](/post/powerful/) suction."
+- 动词: "[He](/post/he/) vacuumed [the](/post/the/) [living](/post/living/) [room](/post/room/) [before](/post/before/) guests arrived."
 
 ## 同义词
 - emptiness
 - void
 - suction
-- cleaner (when referring to a vacuum cleaner)
+- cleaner ([when](/post/when/) referring [to](/post/to/) [a](/post/a/) [vacuum](/post/vacuum/) cleaner)

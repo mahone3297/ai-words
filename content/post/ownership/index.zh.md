@@ -12,22 +12,22 @@ keywords = ['ai words', 'ownership']
 
 ## 释义
 - **名词**: 所有权；拥有权；所有制。指某人或某组织对财产、物品或权利的合法占有和控制。
-    - 例: "The company has full ownership of the building."
-    - 例: "He transferred the ownership of the car to his son."
+    - 例: "[The](/post/the/) [company](/post/company/) has [full](/post/full/) [ownership](/post/ownership/) [of](/post/of/) [the](/post/the/) [building](/post/building/)."
+    - 例: "[He](/post/he/) transferred [the](/post/the/) [ownership](/post/ownership/) [of](/post/of/) [the](/post/the/) [car](/post/car/) [to](/post/to/) [his](/post/his/) [son](/post/son/)."
 
 ## 短语
-- "take ownership" 意为取得所有权。
-- "joint ownership" 表示共有权，共同拥有。
-- "transfer ownership" 指将所有权转移给他人。
+- "[take](/post/take/) [ownership](/post/ownership/)" 意为取得所有权。
+- "[joint](/post/joint/) [ownership](/post/ownership/)" 表示共有权，共同拥有。
+- "[transfer](/post/transfer/) [ownership](/post/ownership/)" 指将所有权转移给他人。
 
 ## 例句
-- "The deed to the house establishes my ownership."
-- "The startup's ownership structure includes several investors."
-- "Before selling the item, make sure to remove any personal data to protect your ownership rights."
+- "[The](/post/the/) [deed](/post/deed/) [to](/post/to/) [the](/post/the/) [house](/post/house/) establishes [my](/post/my/) [ownership](/post/ownership/)."
+- "[The](/post/the/) startup's [ownership](/post/ownership/) [structure](/post/structure/) includes [several](/post/several/) investors."
+- "[Before](/post/before/) selling [the](/post/the/) [item](/post/item/), [make](/post/make/) [sure](/post/sure/) [to](/post/to/) [remove](/post/remove/) [any](/post/any/) [personal](/post/personal/) [data](/post/data/) [to](/post/to/) [protect](/post/protect/) [your](/post/your/) [ownership](/post/ownership/) rights."
 
 ## 同义词
-- possession
+- [possession](/post/possession/)
 - proprietorship
-- title
-- control
-- right
+- [title](/post/title/)
+- [control](/post/control/)
+- [right](/post/right/)

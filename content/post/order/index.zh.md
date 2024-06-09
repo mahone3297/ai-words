@@ -12,28 +12,28 @@ keywords = ['ai words', 'order']
 
 ## 释义
 - **名词**:
-  - 排列，顺序：如 "Please put these books in order."
-  - 命令，指示：如 "The manager gave us clear orders for the project."
-  - 订单：如 "I'd like to place an order for a pizza."
-  - 规则，制度：如 "We need to follow the school's dress code order."
+  - 排列，顺序：如 "[Please](/post/please/) [put](/post/put/) [these](/post/these/) books [in](/post/in/) [order](/post/order/)."
+  - 命令，指示：如 "[The](/post/the/) manager gave [us](/post/us/) [clear](/post/clear/) orders [for](/post/for/) [the](/post/the/) [project](/post/project/)."
+  - 订单：如 "I'd [like](/post/like/) [to](/post/to/) [place](/post/place/) an [order](/post/order/) [for](/post/for/) [a](/post/a/) pizza."
+  - 规则，制度：如 "[We](/post/we/) [need](/post/need/) [to](/post/to/) [follow](/post/follow/) [the](/post/the/) school's [dress](/post/dress/) [code](/post/code/) [order](/post/order/)."
 
 - **动词**:
-  - 安排，整理：如 "She ordered her books alphabetically."
-  - 预订，点餐：如 "Can I order a coffee, please?"
+  - 安排，整理：如 "[She](/post/she/) ordered [her](/post/her/) books alphabetically."
+  - 预订，点餐：如 "[Can](/post/can/) I [order](/post/order/) [a](/post/a/) [coffee](/post/coffee/), [please](/post/please/)?"
 
 ## 短语
-- "in order" 表示正常、有秩序：如 "Everything is in order now."
-- "out of order" 指出故障或无序：如 "The printer is out of order."
-- "place an order" 下订单：如 "I'm going to place an order for some new office supplies."
+- "[in](/post/in/) [order](/post/order/)" 表示正常、有秩序：如 "[Everything](/post/everything/) is [in](/post/in/) [order](/post/order/) [now](/post/now/)."
+- "[out](/post/out/) [of](/post/of/) [order](/post/order/)" 指出故障或无序：如 "[The](/post/the/) printer is [out](/post/out/) [of](/post/of/) [order](/post/order/)."
+- "[place](/post/place/) an [order](/post/order/)" 下订单：如 "I'm going [to](/post/to/) [place](/post/place/) an [order](/post/order/) [for](/post/for/) [some](/post/some/) [new](/post/new/) [office](/post/office/) supplies."
 
 ## 例句
-- 名词: "The library staff were busy putting the returned books back in order."
-- 动词: "He ordered a steak and a glass of red wine for dinner."
-- 情景对话: "Excuse me, can I order dessert now?"
+- 名词: "[The](/post/the/) [library](/post/library/) [staff](/post/staff/) were [busy](/post/busy/) putting [the](/post/the/) returned books [back](/post/back/) [in](/post/in/) [order](/post/order/)."
+- 动词: "[He](/post/he/) ordered [a](/post/a/) steak [and](/post/and/) [a](/post/a/) [glass](/post/glass/) [of](/post/of/) [red](/post/red/) [wine](/post/wine/) [for](/post/for/) [dinner](/post/dinner/)."
+- 情景对话: "[Excuse](/post/excuse/) [me](/post/me/), [can](/post/can/) I [order](/post/order/) dessert [now](/post/now/)?"
 
 ## 同义词
-- arrange
-- sort
-- request
-- command
+- [arrange](/post/arrange/)
+- [sort](/post/sort/)
+- [request](/post/request/)
+- [command](/post/command/)
 - instruct

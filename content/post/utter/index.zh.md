@@ -12,21 +12,21 @@ keywords = ['ai words', 'utter']
 
 ## 释义
 - **动词**:
-    - 完全说出；清晰地发音：例如: "He uttered the word slowly and clearly."
-    - 发出（声音、叹息等）：例如: "The baby uttered a contented coo."
-    - 表达；述说：例如: "She uttered her fear that something terrible might happen."
+    - 完全说出；清晰地发音：例如: "[He](/post/he/) uttered [the](/post/the/) [word](/post/word/) [slowly](/post/slowly/) [and](/post/and/) [clearly](/post/clearly/)."
+    - 发出（声音、叹息等）：例如: "[The](/post/the/) [baby](/post/baby/) uttered [a](/post/a/) contented coo."
+    - 表达；述说：例如: "[She](/post/she/) uttered [her](/post/her/) [fear](/post/fear/) [that](/post/that/) [something](/post/something/) [terrible](/post/terrible/) [might](/post/might/) [happen](/post/happen/)."
 
 ## 短语
-- "utter nonsense" 意为“胡言乱语”。
-- "utter silence" 指的是“绝对的寂静”。
+- "[utter](/post/utter/) [nonsense](/post/nonsense/)" 意为“胡言乱语”。
+- "[utter](/post/utter/) [silence](/post/silence/)" 指的是“绝对的寂静”。
 
 ## 例句
-- 动词: "She uttered a cry of surprise when she saw him."
-- "In the quiet room, even the slightest sound was an utterance."
+- 动词: "[She](/post/she/) uttered [a](/post/a/) [cry](/post/cry/) [of](/post/of/) [surprise](/post/surprise/) [when](/post/when/) [she](/post/she/) [saw](/post/saw/) [him](/post/him/)."
+- "[In](/post/in/) [the](/post/the/) [quiet](/post/quiet/) [room](/post/room/), [even](/post/even/) [the](/post/the/) slightest [sound](/post/sound/) was an utterance."
 
 ## 同义词
-- Speak
-- Pronounce
+- [Speak](/post/speak/)
+- [Pronounce](/post/pronounce/)
 - Enunciate
-- Declare
+- [Declare](/post/declare/)
 - Utterance

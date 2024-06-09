@@ -11,20 +11,20 @@ keywords = ['ai words', 'urgent']
 /ˈɜːrɡənt/
 
 ## 释义
-- **形容词**: 表示紧急的，急迫的，需要立即处理的。例如: "The situation is becoming more and more urgent."
-- **副词**: 紧急地，迫切地。例如: "He acted urgently to prevent a disaster."
+- **形容词**: 表示紧急的，急迫的，需要立即处理的。例如: "[The](/post/the/) [situation](/post/situation/) is becoming [more](/post/more/) [and](/post/and/) [more](/post/more/) [urgent](/post/urgent/)."
+- **副词**: 紧急地，迫切地。例如: "[He](/post/he/) acted urgently [to](/post/to/) [prevent](/post/prevent/) [a](/post/a/) [disaster](/post/disaster/)."
 
 ## 短语
-- "an urgent matter" 意为紧急的事情。
-- "in urgent need of" 表示急需某物。例如: "We are in urgent need of financial support."
+- "an [urgent](/post/urgent/) [matter](/post/matter/)" 意为紧急的事情。
+- "[in](/post/in/) [urgent](/post/urgent/) [need](/post/need/) [of](/post/of/)" 表示急需某物。例如: "[We](/post/we/) are [in](/post/in/) [urgent](/post/urgent/) [need](/post/need/) [of](/post/of/) [financial](/post/financial/) [support](/post/support/)."
 
 ## 例句
-- 形容词: "There is an urgent problem that needs our immediate attention."
-- 副词: "The doctor arrived urgently to attend to the injured patient."
+- 形容词: "[There](/post/there/) is an [urgent](/post/urgent/) [problem](/post/problem/) [that](/post/that/) needs [our](/post/our/) [immediate](/post/immediate/) [attention](/post/attention/)."
+- 副词: "[The](/post/the/) [doctor](/post/doctor/) arrived urgently [to](/post/to/) [attend](/post/attend/) [to](/post/to/) [the](/post/the/) injured [patient](/post/patient/)."
 
 ## 同义词
-- Immediate
-- Critical
+- [Immediate](/post/immediate/)
+- [Critical](/post/critical/)
 - Pressing
-- Acute
-- Desperate
+- [Acute](/post/acute/)
+- [Desperate](/post/desperate/)

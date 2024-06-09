@@ -11,17 +11,17 @@ keywords = ['ai words', 'centimetre']
 /ˈsɛntɪmiːtər/
 
 ## 释义
-- **名词** (n): 国际单位制中的长度单位，1厘米等于0.01米。例如: "The ruler is marked in centimetres and millimetres."
+- **名词** (n): 国际单位制中的长度单位，1厘米等于0.01米。例如: "[The](/post/the/) [ruler](/post/ruler/) is marked [in](/post/in/) centimetres [and](/post/and/) millimetres."
 
 ## 短语
-- "centimetre by centimetre" 逐步地，一点一点地。例如: "The plant grew centimetre by centimetre over the summer."
-- "in centimetres" 以厘米为单位。例如: "My height is measured in centimetres."
+- "[centimetre](/post/centimetre/) [by](/post/by/) [centimetre](/post/centimetre/)" 逐步地，一点一点地。例如: "[The](/post/the/) [plant](/post/plant/) grew [centimetre](/post/centimetre/) [by](/post/by/) [centimetre](/post/centimetre/) [over](/post/over/) [the](/post/the/) [summer](/post/summer/)."
+- "[in](/post/in/) centimetres" 以厘米为单位。例如: "[My](/post/my/) [height](/post/height/) is measured [in](/post/in/) centimetres."
 
 ## 例句
-- "The distance between the two points is approximately 5 centimetres."
-- "The baby's weight gain was recorded weekly in centimetres."
+- "[The](/post/the/) [distance](/post/distance/) [between](/post/between/) [the](/post/the/) [two](/post/two/) points is [approximately](/post/approximately/) 5 centimetres."
+- "[The](/post/the/) baby's [weight](/post/weight/) [gain](/post/gain/) was recorded [weekly](/post/weekly/) [in](/post/in/) centimetres."
 
 ## 同义词
-- millimetre (mm)
+- [millimetre](/post/millimetre/) (mm)
 - decimetre (dm)
-- metre (m)
+- [metre](/post/metre/) (m)

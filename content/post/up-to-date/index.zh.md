@@ -11,20 +11,20 @@ keywords = ['ai words', 'up-to-date']
 /ˌʌp ˈtuː deɪt/
 
 ## 释义
-- **形容词**: 最新的，现代的，与当前情况相符的。例如: "We need to keep our software up-to-date to ensure security."
-- **副词**: 适时地，跟上时代。例如: "She always stays up-to-date with the latest fashion trends."
+- **形容词**: 最新的，现代的，与当前情况相符的。例如: "[We](/post/we/) [need](/post/need/) [to](/post/to/) [keep](/post/keep/) [our](/post/our/) software [up-to-date](/post/up-to-date/) [to](/post/to/) [ensure](/post/ensure/) [security](/post/security/)."
+- **副词**: 适时地，跟上时代。例如: "[She](/post/she/) [always](/post/always/) stays [up-to-date](/post/up-to-date/) [with](/post/with/) [the](/post/the/) latest [fashion](/post/fashion/) trends."
 
 ## 短语
-- "Keep something up-to-date" 保持某事物是最新的。
-- "Up-to-date information" 指的是最新、准确的信息。
+- "[Keep](/post/keep/) [something](/post/something/) [up-to-date](/post/up-to-date/)" 保持某事物是最新的。
+- "[Up-to-date](/post/up-to-date/) [information](/post/information/)" 指的是最新、准确的信息。
 
 ## 例句
-- 形容词: "The restaurant has an up-to-date menu with new dishes every week."
-- 副词: "She manages her tasks up-to-date, never falling behind on deadlines."
+- 形容词: "[The](/post/the/) [restaurant](/post/restaurant/) has an [up-to-date](/post/up-to-date/) [menu](/post/menu/) [with](/post/with/) [new](/post/new/) dishes [every](/post/every/) [week](/post/week/)."
+- 副词: "[She](/post/she/) manages [her](/post/her/) tasks [up-to-date](/post/up-to-date/), [never](/post/never/) falling [behind](/post/behind/) [on](/post/on/) deadlines."
 
 ## 同义词
-- Current
-- Modern
-- Recent
-- Contemporary
+- [Current](/post/current/)
+- [Modern](/post/modern/)
+- [Recent](/post/recent/)
+- [Contemporary](/post/contemporary/)
 - State-of-the-art

@@ -11,20 +11,20 @@ keywords = ['ai words', 'thirsty']
 /ˈθɜːrsti/
 
 ## 释义
-- **形容词**: 渴望的，口渴的。表示生理上的需要或强烈的欲望。例如: "I'm so thirsty, I need a drink."
-- **副词**: 极度地，渴望地。表达程度强烈的愿望。例如: "She was thirsty for knowledge."
+- **形容词**: 渴望的，口渴的。表示生理上的需要或强烈的欲望。例如: "I'm [so](/post/so/) [thirsty](/post/thirsty/), I [need](/post/need/) [a](/post/a/) [drink](/post/drink/)."
+- **副词**: 极度地，渴望地。表达程度强烈的愿望。例如: "[She](/post/she/) was [thirsty](/post/thirsty/) [for](/post/for/) [knowledge](/post/knowledge/)."
 
 ## 短语
-- "Thirsty for something" 表示对某事物有强烈的需求或欲望。
+- "[Thirsty](/post/thirsty/) [for](/post/for/) [something](/post/something/)" 表示对某事物有强烈的需求或欲望。
 - "Thirst-quenching" 形容能解渴的事物。
 
 ## 例句
-- 形容词: "After running for miles, he was feeling extremely thirsty."
-- 副词: "She was thirsty to learn more about the subject.
+- 形容词: "[After](/post/after/) running [for](/post/for/) miles, [he](/post/he/) was [feeling](/post/feeling/) [extremely](/post/extremely/) [thirsty](/post/thirsty/)."
+- 副词: "[She](/post/she/) was [thirsty](/post/thirsty/) [to](/post/to/) [learn](/post/learn/) [more](/post/more/) [about](/post/about/) [the](/post/the/) [subject](/post/subject/).
 
 ## 同义词
 - Arid
 - Dehydrated
 - Longing
-- Eager
-- Hunger (in a metaphorical sense)
+- [Eager](/post/eager/)
+- [Hunger](/post/hunger/) ([in](/post/in/) [a](/post/a/) metaphorical [sense](/post/sense/))

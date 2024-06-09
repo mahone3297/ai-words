@@ -14,17 +14,17 @@ keywords = ['ai words', 'instantly']
 - **副词**: 立即，马上，迅速地。表示动作在极短的时间内完成。
 
 ## 短语
-- "Do it instantly" 意味着立刻去做。
-- "Instantly available" 表示可以立即获取或使用。
+- "[Do](/post/do/) [it](/post/it/) [instantly](/post/instantly/)" 意味着立刻去做。
+- "[Instantly](/post/instantly/) [available](/post/available/)" 表示可以立即获取或使用。
 
 ## 例句
-- "As soon as I pressed the button, the computer shut down instantly."
-- "The moment I saw him, I recognized him instantly."
-- "The coffee is instantly prepared, just add hot water."
+- "[As](/post/as/) [soon](/post/soon/) [as](/post/as/) I pressed [the](/post/the/) [button](/post/button/), [the](/post/the/) [computer](/post/computer/) [shut](/post/shut/) [down](/post/down/) [instantly](/post/instantly/)."
+- "[The](/post/the/) [moment](/post/moment/) I [saw](/post/saw/) [him](/post/him/), I recognized [him](/post/him/) [instantly](/post/instantly/)."
+- "[The](/post/the/) [coffee](/post/coffee/) is [instantly](/post/instantly/) prepared, [just](/post/just/) [add](/post/add/) [hot](/post/hot/) [water](/post/water/)."
 
 ## 同义词
-- Immediately
+- [Immediately](/post/immediately/)
 - Promptly
 - Straightaway
-- Directly
-- In a flash
+- [Directly](/post/directly/)
+- [In](/post/in/) [a](/post/a/) [flash](/post/flash/)

@@ -11,20 +11,20 @@ keywords = ['ai words', 'thorough']
 /ˈθɜːrəʊ/
 
 ## 释义
-- **形容词**: 彻底的，详尽的，完全的。例如: "He made a thorough investigation of the incident."
-- **副词**: 彻底地，完全地。例如: "She cleaned the house thoroughly."
+- **形容词**: 彻底的，详尽的，完全的。例如: "[He](/post/he/) made [a](/post/a/) [thorough](/post/thorough/) [investigation](/post/investigation/) [of](/post/of/) [the](/post/the/) [incident](/post/incident/)."
+- **副词**: 彻底地，完全地。例如: "[She](/post/she/) cleaned [the](/post/the/) [house](/post/house/) thoroughly."
 
 ## 短语
-- "thoroughly understand" 完全理解。
-- "a thorough search" 彻底的搜查。
+- "thoroughly [understand](/post/understand/)" 完全理解。
+- "[a](/post/a/) [thorough](/post/thorough/) [search](/post/search/)" 彻底的搜查。
 
 ## 例句
-- 形容词: "The inspector conducted a thorough examination of the building."
-- 副词: "I need to study the material thoroughly before the exam."
+- 形容词: "[The](/post/the/) inspector conducted [a](/post/a/) [thorough](/post/thorough/) [examination](/post/examination/) [of](/post/of/) [the](/post/the/) [building](/post/building/)."
+- 副词: "I [need](/post/need/) [to](/post/to/) [study](/post/study/) [the](/post/the/) [material](/post/material/) thoroughly [before](/post/before/) [the](/post/the/) [exam](/post/exam/)."
 
 ## 同义词
-- comprehensive
+- [comprehensive](/post/comprehensive/)
 - exhaustive
 - meticulous
-- complete
+- [complete](/post/complete/)
 - in-depth

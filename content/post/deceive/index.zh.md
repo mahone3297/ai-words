@@ -11,20 +11,20 @@ keywords = ['ai words', 'deceive']
 / dɪˈsiːv /
 
 ## 释义
-- **动词**: 欺骗，误导，使上当。例如: "He deceived her by pretending to be someone else."
-- **名词**: 欺骗的行为或事实。例如: "The act of deceive can cause deep emotional pain."
+- **动词**: 欺骗，误导，使上当。例如: "[He](/post/he/) deceived [her](/post/her/) [by](/post/by/) pretending [to](/post/to/) [be](/post/be/) [someone](/post/someone/) [else](/post/else/)."
+- **名词**: 欺骗的行为或事实。例如: "[The](/post/the/) [act](/post/act/) [of](/post/of/) [deceive](/post/deceive/) [can](/post/can/) [cause](/post/cause/) [deep](/post/deep/) [emotional](/post/emotional/) [pain](/post/pain/)."
 
 ## 短语
-- "deceive oneself" 意为欺骗自己，自欺欺人。
-- "to deceive sb into doing sth" 表示诱使某人做某事。
+- "[deceive](/post/deceive/) [oneself](/post/oneself/)" 意为欺骗自己，自欺欺人。
+- "[to](/post/to/) [deceive](/post/deceive/) sb [into](/post/into/) doing sth" 表示诱使某人做某事。
 
 ## 例句
-- 动词: "The con artist deceived several people out of their life savings."
-- 名词: "His deceit eventually led to his downfall."
+- 动词: "[The](/post/the/) con [artist](/post/artist/) deceived [several](/post/several/) [people](/post/people/) [out](/post/out/) [of](/post/of/) [their](/post/their/) [life](/post/life/) savings."
+- 名词: "[His](/post/his/) [deceit](/post/deceit/) [eventually](/post/eventually/) led [to](/post/to/) [his](/post/his/) downfall."
 
 ## 同义词
-- fool
-- trick
+- [fool](/post/fool/)
+- [trick](/post/trick/)
 - dupe
-- mislead
+- [mislead](/post/mislead/)
 - hoodwink

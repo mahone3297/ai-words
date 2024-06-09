@@ -11,20 +11,20 @@ keywords = ['ai words', 'kiss']
 /kɪs/
 
 ## 释义
-- **动词**: 亲吻；轻轻碰触以表达爱意、友好或尊敬。例如: "They kissed goodbye at the airport."
-- **名词**: 亲吻的行为或动作。例如: "She received a sweet kiss on the cheek."
+- **动词**: 亲吻；轻轻碰触以表达爱意、友好或尊敬。例如: "[They](/post/they/) kissed [goodbye](/post/goodbye/) [at](/post/at/) [the](/post/the/) [airport](/post/airport/)."
+- **名词**: 亲吻的行为或动作。例如: "[She](/post/she/) received [a](/post/a/) [sweet](/post/sweet/) [kiss](/post/kiss/) [on](/post/on/) [the](/post/the/) [cheek](/post/cheek/)."
 
 ## 短语
-- "kiss goodbye" 意味着告别或放弃某物。例如: "He had to kiss his job goodbye when the company downsized."
-- "kiss of life" 指的是进行心肺复苏时的口对口呼吸。
+- "[kiss](/post/kiss/) [goodbye](/post/goodbye/)" 意味着告别或放弃某物。例如: "[He](/post/he/) had [to](/post/to/) [kiss](/post/kiss/) [his](/post/his/) [job](/post/job/) [goodbye](/post/goodbye/) [when](/post/when/) [the](/post/the/) [company](/post/company/) downsized."
+- "[kiss](/post/kiss/) [of](/post/of/) [life](/post/life/)" 指的是进行心肺复苏时的口对口呼吸。
 
 ## 例句
-- 动词: "They shared a long, passionate kiss after the reunion."
-- 名词: "The child gave her mother a goodnight kiss."
+- 动词: "[They](/post/they/) shared [a](/post/a/) [long](/post/long/), passionate [kiss](/post/kiss/) [after](/post/after/) [the](/post/the/) reunion."
+- 名词: "[The](/post/the/) [child](/post/child/) gave [her](/post/her/) [mother](/post/mother/) [a](/post/a/) goodnight [kiss](/post/kiss/)."
 
 ## 同义词
 - peck
 - smooch
 - osculate
-- embrace
+- [embrace](/post/embrace/)
 - cuddle (更侧重于拥抱，但有时也包括亲吻)

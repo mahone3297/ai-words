@@ -11,18 +11,18 @@ keywords = ['ai words', 'seaman']
 /ˈsiːmən/
 
 ## 释义
-- **名词 (n)**: 一个海员，通常指在船上工作的人。例如: "The seaman was skilled in handling ropes and sails."
+- **名词 (n)**: 一个海员，通常指在船上工作的人。例如: "[The](/post/the/) [seaman](/post/seaman/) was [skilled](/post/skilled/) [in](/post/in/) handling ropes [and](/post/and/) sails."
 
 ## 短语
-- "at sea" 指在海上，与seaman一起使用时可能表示海员在执行任务。例如: "The seaman spent months at sea."
+- "[at](/post/at/) [sea](/post/sea/)" 指在海上，与seaman一起使用时可能表示海员在执行任务。例如: "[The](/post/the/) [seaman](/post/seaman/) spent months [at](/post/at/) [sea](/post/sea/)."
 
 ## 例句
-- "My father was a seaman and traveled to many distant lands."
-- "The young seaman learned the ropes quickly on his first voyage."
+- "[My](/post/my/) [father](/post/father/) was [a](/post/a/) [seaman](/post/seaman/) [and](/post/and/) traveled [to](/post/to/) [many](/post/many/) [distant](/post/distant/) lands."
+- "[The](/post/the/) [young](/post/young/) [seaman](/post/seaman/) [learned](/post/learned/) [the](/post/the/) ropes [quickly](/post/quickly/) [on](/post/on/) [his](/post/his/) [first](/post/first/) [voyage](/post/voyage/)."
 
 ## 同义词
-- Sailor
+- [Sailor](/post/sailor/)
 - Mariner
 - Deckhand
-- Nautical worker
+- Nautical [worker](/post/worker/)
 - Waterman

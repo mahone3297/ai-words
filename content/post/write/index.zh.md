@@ -11,23 +11,23 @@ keywords = ['ai words', 'write']
 /wraɪt/
 
 ## 释义
-- **动词**: 写作，书写。例如: "I need to write a letter to my friend." 
-- **名词**: 作家，作者。例如: "She is an accomplished writer with several bestsellers."
-- **名词**: 作品，写作。例如: "The writer's new book is a compelling read."
+- **动词**: 写作，书写。例如: "I [need](/post/need/) [to](/post/to/) [write](/post/write/) [a](/post/a/) [letter](/post/letter/) [to](/post/to/) [my](/post/my/) [friend](/post/friend/)." 
+- **名词**: 作家，作者。例如: "[She](/post/she/) is an accomplished [writer](/post/writer/) [with](/post/with/) [several](/post/several/) bestsellers."
+- **名词**: 作品，写作。例如: "[The](/post/the/) writer's [new](/post/new/) [book](/post/book/) is [a](/post/a/) compelling [read](/post/read/)."
 
 ## 短语
-- "Write down" 记录，写下。例如: "Please write down your name and address."
-- "To write about" 写关于...。例如: "She plans to write about her travels in her next book."
-- "Write up" 编写，详述。例如: "The journalist had to write up the interview for the newspaper."
+- "[Write](/post/write/) [down](/post/down/)" 记录，写下。例如: "[Please](/post/please/) [write](/post/write/) [down](/post/down/) [your](/post/your/) [name](/post/name/) [and](/post/and/) [address](/post/address/)."
+- "[To](/post/to/) [write](/post/write/) [about](/post/about/)" 写关于...。例如: "[She](/post/she/) plans [to](/post/to/) [write](/post/write/) [about](/post/about/) [her](/post/her/) travels [in](/post/in/) [her](/post/her/) [next](/post/next/) [book](/post/book/)."
+- "[Write](/post/write/) [up](/post/up/)" 编写，详述。例如: "[The](/post/the/) [journalist](/post/journalist/) had [to](/post/to/) [write](/post/write/) [up](/post/up/) [the](/post/the/) [interview](/post/interview/) [for](/post/for/) [the](/post/the/) [newspaper](/post/newspaper/)."
 
 ## 例句
-- 动词: "He spends hours every day writing in his journal."
-- 名词: "The famous writer will be giving a talk at the library tonight."
-- 名词: "Her latest writing has received critical acclaim."
+- 动词: "[He](/post/he/) spends hours [every](/post/every/) [day](/post/day/) [writing](/post/writing/) [in](/post/in/) [his](/post/his/) [journal](/post/journal/)."
+- 名词: "[The](/post/the/) [famous](/post/famous/) [writer](/post/writer/) [will](/post/will/) [be](/post/be/) giving [a](/post/a/) [talk](/post/talk/) [at](/post/at/) [the](/post/the/) [library](/post/library/) [tonight](/post/tonight/)."
+- 名词: "[Her](/post/her/) latest [writing](/post/writing/) has received [critical](/post/critical/) acclaim."
 
 ## 同义词
-- Pen
-- Compose
-- Author
-- Draft
+- [Pen](/post/pen/)
+- [Compose](/post/compose/)
+- [Author](/post/author/)
+- [Draft](/post/draft/)
 - Scribble

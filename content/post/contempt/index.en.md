@@ -7,47 +7,47 @@ description = '[kənˈtempt] n.轻蔑；藐视；受辱'
 keywords = ['ai words', 'contempt']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kənˈtɛmpl/
 
 ## Definitions
-### Noun
-- **Contempt**: A feeling of disrespect or disdain towards someone or something; a lack of admiration or regard.
-- **Derivation**: From Latin "contemptus", meaning to despise or scorn.
+### [Noun](/en/post/noun/)
+- **[Contempt](/en/post/contempt/)**: [A](/en/post/a/) [feeling](/en/post/feeling/) [of](/en/post/of/) disrespect [or](/en/post/or/) disdain towards [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/); [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) admiration [or](/en/post/or/) [regard](/en/post/regard/).
+- **Derivation**: [From](/en/post/from/) Latin "contemptus", [meaning](/en/post/meaning/) [to](/en/post/to/) [despise](/en/post/despise/) [or](/en/post/or/) [scorn](/en/post/scorn/).
 
-### Verb
-- **To contempt**: To show disrespect or disregard for; to hold in low opinion of.
-- **To treat with contempt**: To treat someone or something with scorn or disrespect.
+### [Verb](/en/post/verb/)
+- **[To](/en/post/to/) [contempt](/en/post/contempt/)**: [To](/en/post/to/) [show](/en/post/show/) disrespect [or](/en/post/or/) disregard [for](/en/post/for/); [to](/en/post/to/) [hold](/en/post/hold/) [in](/en/post/in/) [low](/en/post/low/) [opinion](/en/post/opinion/) [of](/en/post/of/).
+- **[To](/en/post/to/) [treat](/en/post/treat/) [with](/en/post/with/) [contempt](/en/post/contempt/)**: [To](/en/post/to/) [treat](/en/post/treat/) [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/) [with](/en/post/with/) [scorn](/en/post/scorn/) [or](/en/post/or/) disrespect.
 
-### Adjective
-- **Contemptuous**: Showing or expressing contempt; disdainful.
+### [Adjective](/en/post/adjective/)
+- **Contemptuous**: Showing [or](/en/post/or/) expressing [contempt](/en/post/contempt/); disdainful.
 
-### Adverb
-- **Contemptuously**: In a disrespectful or scornful manner.
+### [Adverb](/en/post/adverb/)
+- **Contemptuously**: [In](/en/post/in/) [a](/en/post/a/) disrespectful [or](/en/post/or/) scornful [manner](/en/post/manner/).
 
 ## Phrases
-- "Express contempt for": To openly show disapproval or disdain.
-- "Feel no contempt for": To have no negative feelings towards someone or something.
-- "In contempt of": Disregarding or showing disrespect for a rule or authority.
+- "[Express](/en/post/express/) [contempt](/en/post/contempt/) [for](/en/post/for/)": [To](/en/post/to/) openly [show](/en/post/show/) disapproval [or](/en/post/or/) disdain.
+- "[Feel](/en/post/feel/) [no](/en/post/no/) [contempt](/en/post/contempt/) [for](/en/post/for/)": [To](/en/post/to/) [have](/en/post/have/) [no](/en/post/no/) [negative](/en/post/negative/) feelings towards [someone](/en/post/someone/) [or](/en/post/or/) [something](/en/post/something/).
+- "[In](/en/post/in/) [contempt](/en/post/contempt/) [of](/en/post/of/)": Disregarding [or](/en/post/or/) showing disrespect [for](/en/post/for/) [a](/en/post/a/) [rule](/en/post/rule/) [or](/en/post/or/) [authority](/en/post/authority/).
 
-## Example Sentences
-- **Noun**: "Her arrogance showed a deep contempt for those beneath her."
-- **Verb**: "He was held in contempt by the court for his dishonesty."
-- **Adjective**: "Her contemptuous laughter echoed through the room."
-- **Adverb**: "He answered their questions contemptuously, dismissing their concerns."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) arrogance showed [a](/en/post/a/) [deep](/en/post/deep/) [contempt](/en/post/contempt/) [for](/en/post/for/) [those](/en/post/those/) [beneath](/en/post/beneath/) [her](/en/post/her/)."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) was held [in](/en/post/in/) [contempt](/en/post/contempt/) [by](/en/post/by/) [the](/en/post/the/) [court](/en/post/court/) [for](/en/post/for/) [his](/en/post/his/) dishonesty."
+- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) contemptuous [laughter](/en/post/laughter/) echoed [through](/en/post/through/) [the](/en/post/the/) [room](/en/post/room/)."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) answered [their](/en/post/their/) questions contemptuously, dismissing [their](/en/post/their/) concerns."
 
 ## Synonyms
 - Disdain
-- Scorn
+- [Scorn](/en/post/scorn/)
 - Derision
 - Contemned
 - Disparagement
-- Insult
+- [Insult](/en/post/insult/)
 - Repugnance
 
 ## Antonyms
-- Respect
+- [Respect](/en/post/respect/)
 - Admiration
 - Appreciation
-- Tolerance
-- Acceptance
+- [Tolerance](/en/post/tolerance/)
+- [Acceptance](/en/post/acceptance/)

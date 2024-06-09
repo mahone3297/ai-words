@@ -12,21 +12,21 @@ keywords = ['ai words', 'define']
 
 ## 释义
 - **动词**: 
-    1. 定义；解释；阐明：例如: "The dictionary defines 'happiness' as a state of well-being."
-    2. 规定；限定：例如: "The company's policy defines the working hours for its employees."
+    1. 定义；解释；阐明：例如: "[The](/post/the/) [dictionary](/post/dictionary/) defines '[happiness](/post/happiness/)' [as](/post/as/) [a](/post/a/) [state](/post/state/) [of](/post/of/) well-being."
+    2. 规定；限定：例如: "[The](/post/the/) company's [policy](/post/policy/) defines [the](/post/the/) working hours [for](/post/for/) [its](/post/its/) employees."
 
 ## 短语
-- "Define the terms" 意味着要明确和解释术语的含义。
-- "To define one's boundaries" 指设定自己的界限或限制。
+- "[Define](/post/define/) [the](/post/the/) terms" 意味着要明确和解释术语的含义。
+- "[To](/post/to/) [define](/post/define/) one's boundaries" 指设定自己的界限或限制。
 
 ## 例句
-- "Let's define our goals before starting the project."
-- "The teacher asked the students to define the concept of gravity."
-- "The contract clearly defines the responsibilities of each party."
+- "Let's [define](/post/define/) [our](/post/our/) goals [before](/post/before/) starting [the](/post/the/) [project](/post/project/)."
+- "[The](/post/the/) [teacher](/post/teacher/) asked [the](/post/the/) students [to](/post/to/) [define](/post/define/) [the](/post/the/) [concept](/post/concept/) [of](/post/of/) [gravity](/post/gravity/)."
+- "[The](/post/the/) [contract](/post/contract/) [clearly](/post/clearly/) defines [the](/post/the/) responsibilities [of](/post/of/) [each](/post/each/) [party](/post/party/)."
 
 ## 同义词
-- Explain
-- Describe
-- Clarify
-- Specify
-- Set forth
+- [Explain](/post/explain/)
+- [Describe](/post/describe/)
+- [Clarify](/post/clarify/)
+- [Specify](/post/specify/)
+- [Set](/post/set/) [forth](/post/forth/)

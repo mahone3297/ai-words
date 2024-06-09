@@ -11,20 +11,20 @@ keywords = ['ai words', 'brick']
 /brɪk/
 
 ## 释义
-- **名词 (n)**: 一块通常由黏土烧制而成的长方体建筑材料，常用于建造墙体。例如: "The house was built with red bricks."
-- **名词 (n)**: 俚语，指人（尤指坚毅的人）。例如: "He's a real brick when it comes to helping others."
+- **名词 (n)**: 一块通常由黏土烧制而成的长方体建筑材料，常用于建造墙体。例如: "[The](/post/the/) [house](/post/house/) was built [with](/post/with/) [red](/post/red/) bricks."
+- **名词 (n)**: 俚语，指人（尤指坚毅的人）。例如: "He's [a](/post/a/) [real](/post/real/) [brick](/post/brick/) [when](/post/when/) [it](/post/it/) comes [to](/post/to/) helping others."
 
 ## 短语
-- "brick by brick" 逐步地，一点一滴地。例如: "The company grew brick by brick from a small startup."
-- "as solid as a brick" 非常坚固或可靠。例如: "Our friendship is as solid as a brick."
+- "[brick](/post/brick/) [by](/post/by/) [brick](/post/brick/)" 逐步地，一点一滴地。例如: "[The](/post/the/) [company](/post/company/) grew [brick](/post/brick/) [by](/post/by/) [brick](/post/brick/) [from](/post/from/) [a](/post/a/) [small](/post/small/) startup."
+- "[as](/post/as/) [solid](/post/solid/) [as](/post/as/) [a](/post/a/) [brick](/post/brick/)" 非常坚固或可靠。例如: "[Our](/post/our/) [friendship](/post/friendship/) is [as](/post/as/) [solid](/post/solid/) [as](/post/as/) [a](/post/a/) [brick](/post/brick/)."
 
 ## 例句
-- 名词: "The mason carefully laid each brick in the wall."
-- 俚语: "She's a brick, always there for her friends in need."
+- 名词: "[The](/post/the/) mason carefully laid [each](/post/each/) [brick](/post/brick/) [in](/post/in/) [the](/post/the/) [wall](/post/wall/)."
+- 俚语: "She's [a](/post/a/) [brick](/post/brick/), [always](/post/always/) [there](/post/there/) [for](/post/for/) [her](/post/her/) friends [in](/post/in/) [need](/post/need/)."
 
 ## 同义词
-- Block
+- [Block](/post/block/)
 - Cobblestone
-- Stone
+- [Stone](/post/stone/)
 - Tile
 - Paver

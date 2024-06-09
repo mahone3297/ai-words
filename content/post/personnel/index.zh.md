@@ -11,20 +11,20 @@ keywords = ['ai words', 'personnel']
 /ˌpɜːrsəˈnɛl/
 
 ## 释义
-- **名词**: 组织或机构中的全体人员，尤指雇员。例如: "The company's personnel department handles hiring and training."
-- **形容词**: 与人事相关的，关于工作人员的。例如: "The personnel manager is responsible for employee benefits."
+- **名词**: 组织或机构中的全体人员，尤指雇员。例如: "[The](/post/the/) company's [personnel](/post/personnel/) [department](/post/department/) handles hiring [and](/post/and/) [training](/post/training/)."
+- **形容词**: 与人事相关的，关于工作人员的。例如: "[The](/post/the/) [personnel](/post/personnel/) manager is [responsible](/post/responsible/) [for](/post/for/) [employee](/post/employee/) benefits."
 
 ## 短语
-- "Human resources" 通常用来代替 "personnel"，指的是处理员工事务的部门。
-- "Personnel management" 指的是管理和协调员工的活动。
+- "[Human](/post/human/) resources" 通常用来代替 "[personnel](/post/personnel/)"，指的是处理员工事务的部门。
+- "[Personnel](/post/personnel/) [management](/post/management/)" 指的是管理和协调员工的活动。
 
 ## 例句
-- 名词: "The new personnel policy will affect all employees in the company."
-- 形容词: "The personnel manager is in charge of the staff's training program."
+- 名词: "[The](/post/the/) [new](/post/new/) [personnel](/post/personnel/) [policy](/post/policy/) [will](/post/will/) [affect](/post/affect/) [all](/post/all/) employees [in](/post/in/) [the](/post/the/) [company](/post/company/)."
+- 形容词: "[The](/post/the/) [personnel](/post/personnel/) manager is [in](/post/in/) [charge](/post/charge/) [of](/post/of/) [the](/post/the/) staff's [training](/post/training/) [program](/post/program/)."
 
 ## 同义词
-- Staff
+- [Staff](/post/staff/)
 - Workforce
 - Employees
-- Team
-- Company members
+- [Team](/post/team/)
+- [Company](/post/company/) members

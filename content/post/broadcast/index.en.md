@@ -7,42 +7,42 @@ description = '[ˈbrɔːdkɑːst] n.广播，播音'
 keywords = ['ai words', 'broadcast']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /bˈrɒdkɑːst/
 
 ## Definitions
-### Noun
-1. **Broadcast** (noun): The act of transmitting or sending out radio, television, or other electronic signals to a large audience simultaneously.
-   - Definition: The program or content that is transmitted over the airwaves or through digital platforms.
-   - Example: "The news will be broadcast on all major channels tonight."
+### [Noun](/en/post/noun/)
+1. **[Broadcast](/en/post/broadcast/)** ([noun](/en/post/noun/)): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) transmitting [or](/en/post/or/) sending [out](/en/post/out/) [radio](/en/post/radio/), [television](/en/post/television/), [or](/en/post/or/) [other](/en/post/other/) [electronic](/en/post/electronic/) signals [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [audience](/en/post/audience/) simultaneously.
+   - [Definition](/en/post/definition/): [The](/en/post/the/) [program](/en/post/program/) [or](/en/post/or/) [content](/en/post/content/) [that](/en/post/that/) is transmitted [over](/en/post/over/) [the](/en/post/the/) airwaves [or](/en/post/or/) [through](/en/post/through/) [digital](/en/post/digital/) platforms.
+   - [Example](/en/post/example/): "[The](/en/post/the/) [news](/en/post/news/) [will](/en/post/will/) [be](/en/post/be/) [broadcast](/en/post/broadcast/) [on](/en/post/on/) [all](/en/post/all/) [major](/en/post/major/) channels [tonight](/en/post/tonight/)."
 
-2. **Broadcasting** (noun): The process of producing and transmitting content for public reception, often via radio, television, or the internet.
-   - Definition: The method by which audio or video content is sent out to a wide audience.
-   - Example: "Radio broadcasting has been a staple of entertainment for decades."
+2. **Broadcasting** ([noun](/en/post/noun/)): [The](/en/post/the/) [process](/en/post/process/) [of](/en/post/of/) producing [and](/en/post/and/) transmitting [content](/en/post/content/) [for](/en/post/for/) [public](/en/post/public/) [reception](/en/post/reception/), [often](/en/post/often/) [via](/en/post/via/) [radio](/en/post/radio/), [television](/en/post/television/), [or](/en/post/or/) [the](/en/post/the/) internet.
+   - [Definition](/en/post/definition/): [The](/en/post/the/) [method](/en/post/method/) [by](/en/post/by/) [which](/en/post/which/) audio [or](/en/post/or/) [video](/en/post/video/) [content](/en/post/content/) is sent [out](/en/post/out/) [to](/en/post/to/) [a](/en/post/a/) [wide](/en/post/wide/) [audience](/en/post/audience/).
+   - [Example](/en/post/example/): "[Radio](/en/post/radio/) broadcasting has been [a](/en/post/a/) staple [of](/en/post/of/) entertainment [for](/en/post/for/) decades."
 
-### Verb
-1. **Broadcast** (verb): To transmit or send out (a program, signal, or information) to a large audience, often electronically.
-   - Definition: To air a show, announce, or make something available to many listeners or viewers.
-   - Example: "The station will broadcast a live concert next week."
+### [Verb](/en/post/verb/)
+1. **[Broadcast](/en/post/broadcast/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [transmit](/en/post/transmit/) [or](/en/post/or/) [send](/en/post/send/) [out](/en/post/out/) ([a](/en/post/a/) [program](/en/post/program/), [signal](/en/post/signal/), [or](/en/post/or/) [information](/en/post/information/)) [to](/en/post/to/) [a](/en/post/a/) [large](/en/post/large/) [audience](/en/post/audience/), [often](/en/post/often/) electronically.
+   - [Definition](/en/post/definition/): [To](/en/post/to/) [air](/en/post/air/) [a](/en/post/a/) [show](/en/post/show/), [announce](/en/post/announce/), [or](/en/post/or/) [make](/en/post/make/) [something](/en/post/something/) [available](/en/post/available/) [to](/en/post/to/) [many](/en/post/many/) listeners [or](/en/post/or/) viewers.
+   - [Example](/en/post/example/): "[The](/en/post/the/) [station](/en/post/station/) [will](/en/post/will/) [broadcast](/en/post/broadcast/) [a](/en/post/a/) [live](/en/post/live/) [concert](/en/post/concert/) [next](/en/post/next/) [week](/en/post/week/)."
 
-2. **To broadcast oneself** (verb): To share one's thoughts, opinions, or activities publicly, often through social media or online platforms.
-   - Definition: To put out content or messages for others to see or hear.
-   - Example: "She regularly broadcasts her fitness journey on Instagram."
+2. **[To](/en/post/to/) [broadcast](/en/post/broadcast/) [oneself](/en/post/oneself/)** ([verb](/en/post/verb/)): [To](/en/post/to/) [share](/en/post/share/) one's thoughts, opinions, [or](/en/post/or/) activities publicly, [often](/en/post/often/) [through](/en/post/through/) [social](/en/post/social/) media [or](/en/post/or/) online platforms.
+   - [Definition](/en/post/definition/): [To](/en/post/to/) [put](/en/post/put/) [out](/en/post/out/) [content](/en/post/content/) [or](/en/post/or/) messages [for](/en/post/for/) others [to](/en/post/to/) [see](/en/post/see/) [or](/en/post/or/) [hear](/en/post/hear/).
+   - [Example](/en/post/example/): "[She](/en/post/she/) [regularly](/en/post/regularly/) broadcasts [her](/en/post/her/) fitness [journey](/en/post/journey/) [on](/en/post/on/) Instagram."
 
 ## Phrases
-- "Broadcast news" refers to televised or radio news reports.
-- "Live broadcast" means a transmission happening in real-time.
-- "Scheduled broadcast" is a planned program airing at a specific time.
+- "[Broadcast](/en/post/broadcast/) [news](/en/post/news/)" refers [to](/en/post/to/) televised [or](/en/post/or/) [radio](/en/post/radio/) [news](/en/post/news/) reports.
+- "[Live](/en/post/live/) [broadcast](/en/post/broadcast/)" [means](/en/post/means/) [a](/en/post/a/) [transmission](/en/post/transmission/) happening [in](/en/post/in/) real-time.
+- "Scheduled [broadcast](/en/post/broadcast/)" is [a](/en/post/a/) planned [program](/en/post/program/) airing [at](/en/post/at/) [a](/en/post/a/) [specific](/en/post/specific/) [time](/en/post/time/).
 
-## Example Sentences
-- **Noun**: "The annual marathon was broadcast live across the country."
-- **Verb**: "The radio station decided to broadcast a new podcast series."
-- **To broadcast**: "He will broadcast his thoughts on climate change on the local radio show."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [annual](/en/post/annual/) marathon was [broadcast](/en/post/broadcast/) [live](/en/post/live/) [across](/en/post/across/) [the](/en/post/the/) [country](/en/post/country/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [radio](/en/post/radio/) [station](/en/post/station/) decided [to](/en/post/to/) [broadcast](/en/post/broadcast/) [a](/en/post/a/) [new](/en/post/new/) podcast [series](/en/post/series/)."
+- **[To](/en/post/to/) [broadcast](/en/post/broadcast/)**: "[He](/en/post/he/) [will](/en/post/will/) [broadcast](/en/post/broadcast/) [his](/en/post/his/) thoughts [on](/en/post/on/) [climate](/en/post/climate/) [change](/en/post/change/) [on](/en/post/on/) [the](/en/post/the/) [local](/en/post/local/) [radio](/en/post/radio/) [show](/en/post/show/)."
 
 ## Synonyms
-- Air (broadcast)
-- Transmit
-- Broadcast out
-- Stream
-- Airwave transmission
-- Public dissemination
+- [Air](/en/post/air/) ([broadcast](/en/post/broadcast/))
+- [Transmit](/en/post/transmit/)
+- [Broadcast](/en/post/broadcast/) [out](/en/post/out/)
+- [Stream](/en/post/stream/)
+- Airwave [transmission](/en/post/transmission/)
+- [Public](/en/post/public/) dissemination

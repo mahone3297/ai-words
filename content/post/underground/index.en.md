@@ -7,28 +7,28 @@ description = '[ˈʌndəgraund] a.地下的；秘密的'
 keywords = ['ai words', 'underground']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈʌndəɡraʊnd/
 
 ## Definitions
-- **Noun**: 
-   - A part of a city or town below the ground level, often used for transportation (e.g., subway, metro) or storage.
-   - A secret or hidden society or activity.
-   - A figurative sense of something that is kept hidden or out of public view.
-   - Music or art produced by artists who are not part of the mainstream music industry.
+- **[Noun](/en/post/noun/)**: 
+   - [A](/en/post/a/) [part](/en/post/part/) [of](/en/post/of/) [a](/en/post/a/) [city](/en/post/city/) [or](/en/post/or/) [town](/en/post/town/) [below](/en/post/below/) [the](/en/post/the/) [ground](/en/post/ground/) [level](/en/post/level/), [often](/en/post/often/) [used](/en/post/used/) [for](/en/post/for/) [transportation](/en/post/transportation/) (e.g., subway, metro) [or](/en/post/or/) [storage](/en/post/storage/).
+   - [A](/en/post/a/) [secret](/en/post/secret/) [or](/en/post/or/) hidden [society](/en/post/society/) [or](/en/post/or/) [activity](/en/post/activity/).
+   - [A](/en/post/a/) figurative [sense](/en/post/sense/) [of](/en/post/of/) [something](/en/post/something/) [that](/en/post/that/) is kept hidden [or](/en/post/or/) [out](/en/post/out/) [of](/en/post/of/) [public](/en/post/public/) [view](/en/post/view/).
+   - [Music](/en/post/music/) [or](/en/post/or/) [art](/en/post/art/) produced [by](/en/post/by/) artists [who](/en/post/who/) are [not](/en/post/not/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) mainstream [music](/en/post/music/) [industry](/en/post/industry/).
 
-- **Verb**: To be or operate beneath the surface, especially in a hidden or secretive manner.
-- **Adjective**: Concealed, clandestine, or below the surface.
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [be](/en/post/be/) [or](/en/post/or/) [operate](/en/post/operate/) [beneath](/en/post/beneath/) [the](/en/post/the/) [surface](/en/post/surface/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) hidden [or](/en/post/or/) secretive [manner](/en/post/manner/).
+- **[Adjective](/en/post/adjective/)**: Concealed, clandestine, [or](/en/post/or/) [below](/en/post/below/) [the](/en/post/the/) [surface](/en/post/surface/).
 
 ## Phrases
-- "Go underground" refers to going into hiding or becoming secretive.
-- "Underground network" denotes a hidden communication system or organization.
-- "Underground music scene" describes the lesser-known or alternative music community.
+- "[Go](/en/post/go/) [underground](/en/post/underground/)" refers [to](/en/post/to/) going [into](/en/post/into/) hiding [or](/en/post/or/) becoming secretive.
+- "[Underground](/en/post/underground/) [network](/en/post/network/)" denotes [a](/en/post/a/) hidden [communication](/en/post/communication/) [system](/en/post/system/) [or](/en/post/or/) [organization](/en/post/organization/).
+- "[Underground](/en/post/underground/) [music](/en/post/music/) [scene](/en/post/scene/)" describes [the](/en/post/the/) lesser-known [or](/en/post/or/) [alternative](/en/post/alternative/) [music](/en/post/music/) [community](/en/post/community/).
 
-## Example Sentences
-- **Noun**: "The underground train system is a convenient way to travel through the city."
-- **Verb**: "They decided to go underground after being pursued by the authorities."
-- **Adjective**: "The secret meeting was held in an underground location to avoid detection."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [underground](/en/post/underground/) [train](/en/post/train/) [system](/en/post/system/) is [a](/en/post/a/) [convenient](/en/post/convenient/) [way](/en/post/way/) [to](/en/post/to/) [travel](/en/post/travel/) [through](/en/post/through/) [the](/en/post/the/) [city](/en/post/city/)."
+- **[Verb](/en/post/verb/)**: "[They](/en/post/they/) decided [to](/en/post/to/) [go](/en/post/go/) [underground](/en/post/underground/) [after](/en/post/after/) [being](/en/post/being/) pursued [by](/en/post/by/) [the](/en/post/the/) authorities."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [secret](/en/post/secret/) [meeting](/en/post/meeting/) was held [in](/en/post/in/) an [underground](/en/post/underground/) [location](/en/post/location/) [to](/en/post/to/) [avoid](/en/post/avoid/) [detection](/en/post/detection/)."
 
 ## Synonyms
 - Subterranean
@@ -40,6 +40,6 @@ keywords = ['ai words', 'underground']
 
 ## Antonyms
 - Surface-level
-- Public
-- Open
-- Transparent
+- [Public](/en/post/public/)
+- [Open](/en/post/open/)
+- [Transparent](/en/post/transparent/)

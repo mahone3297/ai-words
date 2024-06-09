@@ -7,33 +7,33 @@ description = '[ˈpæ∫ən] n.激情，热情；爱好'
 keywords = ['ai words', 'passion']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /pəˈʃiʃən/
 
 ## Definitions
-### Noun
-1. **Emotion or enthusiasm** directed towards a particular interest or activity: *He has a passion for painting.*
-2. **Intense feeling or affection** (often romantic): *Their passion for each other was obvious to everyone.*
+### [Noun](/en/post/noun/)
+1. **[Emotion](/en/post/emotion/) [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/)** directed towards [a](/en/post/a/) [particular](/en/post/particular/) [interest](/en/post/interest/) [or](/en/post/or/) [activity](/en/post/activity/): *[He](/en/post/he/) has [a](/en/post/a/) [passion](/en/post/passion/) [for](/en/post/for/) [painting](/en/post/painting/).*
+2. **[Intense](/en/post/intense/) [feeling](/en/post/feeling/) [or](/en/post/or/) [affection](/en/post/affection/)** ([often](/en/post/often/) [romantic](/en/post/romantic/)): *[Their](/en/post/their/) [passion](/en/post/passion/) [for](/en/post/for/) [each](/en/post/each/) [other](/en/post/other/) was [obvious](/en/post/obvious/) [to](/en/post/to/) [everyone](/en/post/everyone/).*
 
-### Verb
-1. To have a strong emotional involvement or enthusiasm for something: *She is passionate about social justice issues.*
-2. To express one's emotions or feelings strongly: *He passionately defended his ideas in the debate.*
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [have](/en/post/have/) [a](/en/post/a/) [strong](/en/post/strong/) [emotional](/en/post/emotional/) involvement [or](/en/post/or/) [enthusiasm](/en/post/enthusiasm/) [for](/en/post/for/) [something](/en/post/something/): *[She](/en/post/she/) is passionate [about](/en/post/about/) [social](/en/post/social/) [justice](/en/post/justice/) issues.*
+2. [To](/en/post/to/) [express](/en/post/express/) one's emotions [or](/en/post/or/) feelings [strongly](/en/post/strongly/): *[He](/en/post/he/) passionately defended [his](/en/post/his/) ideas [in](/en/post/in/) [the](/en/post/the/) [debate](/en/post/debate/).*
 
 ## Phrases
-- "Passionate about" indicates a deep interest or commitment.
-- "Passionately devoted" shows intense loyalty or dedication.
-- "To ignite one's passion" means to inspire or stimulate a strong emotion.
+- "Passionate [about](/en/post/about/)" indicates [a](/en/post/a/) [deep](/en/post/deep/) [interest](/en/post/interest/) [or](/en/post/or/) commitment.
+- "Passionately devoted" shows [intense](/en/post/intense/) [loyalty](/en/post/loyalty/) [or](/en/post/or/) dedication.
+- "[To](/en/post/to/) ignite one's [passion](/en/post/passion/)" [means](/en/post/means/) [to](/en/post/to/) [inspire](/en/post/inspire/) [or](/en/post/or/) [stimulate](/en/post/stimulate/) [a](/en/post/a/) [strong](/en/post/strong/) [emotion](/en/post/emotion/).
 
-## Example Sentences
-- **Noun**: "Her passion for cooking led her to open her own restaurant."
-- **Verb**: "He passionately spoke about his love for hiking and the great outdoors."
-- **Passive**: "The music ignited a passion within the audience."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[Her](/en/post/her/) [passion](/en/post/passion/) [for](/en/post/for/) cooking led [her](/en/post/her/) [to](/en/post/to/) [open](/en/post/open/) [her](/en/post/her/) [own](/en/post/own/) [restaurant](/en/post/restaurant/)."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) passionately spoke [about](/en/post/about/) [his](/en/post/his/) [love](/en/post/love/) [for](/en/post/for/) hiking [and](/en/post/and/) [the](/en/post/the/) [great](/en/post/great/) [outdoors](/en/post/outdoors/)."
+- **[Passive](/en/post/passive/)**: "[The](/en/post/the/) [music](/en/post/music/) ignited [a](/en/post/a/) [passion](/en/post/passion/) [within](/en/post/within/) [the](/en/post/the/) [audience](/en/post/audience/)."
 
 ## Synonyms
-- Enthusiasm
-- Zeal
+- [Enthusiasm](/en/post/enthusiasm/)
+- [Zeal](/en/post/zeal/)
 - Obsession
-- Emotion
+- [Emotion](/en/post/emotion/)
 - Ardor
 - Fervor
 - Adoration
@@ -41,6 +41,6 @@ keywords = ['ai words', 'passion']
 ## Antonyms
 - Indifference
 - Disinterest
-- Lack of enthusiasm
+- [Lack](/en/post/lack/) [of](/en/post/of/) [enthusiasm](/en/post/enthusiasm/)
 - Cynicism
 - Detachment

@@ -12,26 +12,26 @@ keywords = ['ai words', 'bench']
 
 ## 释义
 - **名词**:
-  - 一张长凳，通常没有靠背。例如: "There are several benches in the park for people to sit on."
-  - 运动员在比赛中未上场的替补队员区。例如: "The coach sent him to the bench for the rest of the game."
-  - 法庭上的法官座位。例如: "The judge sat on the bench presiding over the trial."
+  - 一张长凳，通常没有靠背。例如: "[There](/post/there/) are [several](/post/several/) benches [in](/post/in/) [the](/post/the/) [park](/post/park/) [for](/post/for/) [people](/post/people/) [to](/post/to/) [sit](/post/sit/) [on](/post/on/)."
+  - 运动员在比赛中未上场的替补队员区。例如: "[The](/post/the/) [coach](/post/coach/) sent [him](/post/him/) [to](/post/to/) [the](/post/the/) [bench](/post/bench/) [for](/post/for/) [the](/post/the/) [rest](/post/rest/) [of](/post/of/) [the](/post/the/) [game](/post/game/)."
+  - 法庭上的法官座位。例如: "[The](/post/the/) [judge](/post/judge/) sat [on](/post/on/) [the](/post/the/) [bench](/post/bench/) presiding [over](/post/over/) [the](/post/the/) [trial](/post/trial/)."
 
 - **动词**:
-  - 把某人放在长凳上，常指运动员被替换下场。例如: "The coach decided to bench the starting quarterback for the next game."
-  - 将物品放在长凳上。例如: "She benched her purse and coat before sitting down."
+  - 把某人放在长凳上，常指运动员被替换下场。例如: "[The](/post/the/) [coach](/post/coach/) decided [to](/post/to/) [bench](/post/bench/) [the](/post/the/) starting quarterback [for](/post/for/) [the](/post/the/) [next](/post/next/) [game](/post/game/)."
+  - 将物品放在长凳上。例如: "[She](/post/she/) benched [her](/post/her/) [purse](/post/purse/) [and](/post/and/) [coat](/post/coat/) [before](/post/before/) sitting [down](/post/down/)."
 
 ## 短语
-- "bench press" 健身动作，平躺在长凳上推举杠铃。
-- "on the bench" 指运动员作为替补，未参与比赛。
-- "work the bench" 在法庭上担任法官的工作。
+- "[bench](/post/bench/) [press](/post/press/)" 健身动作，平躺在长凳上推举杠铃。
+- "[on](/post/on/) [the](/post/the/) [bench](/post/bench/)" 指运动员作为替补，未参与比赛。
+- "[work](/post/work/) [the](/post/the/) [bench](/post/bench/)" 在法庭上担任法官的工作。
 
 ## 例句
-- 名词: "The children were playing on the wooden bench in the playground."
-- 动词: "The injured player was benched for the remainder of the season."
+- 名词: "[The](/post/the/) children were playing [on](/post/on/) [the](/post/the/) [wooden](/post/wooden/) [bench](/post/bench/) [in](/post/in/) [the](/post/the/) [playground](/post/playground/)."
+- 动词: "[The](/post/the/) injured [player](/post/player/) was benched [for](/post/for/) [the](/post/the/) remainder [of](/post/of/) [the](/post/the/) [season](/post/season/)."
 
 ## 同义词
-- seat
-- stool
+- [seat](/post/seat/)
+- [stool](/post/stool/)
 - pew
-- stand
-- platform
+- [stand](/post/stand/)
+- [platform](/post/platform/)

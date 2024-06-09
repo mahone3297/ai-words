@@ -12,22 +12,22 @@ keywords = ['ai words', 'association']
 
 ## 释义
 - **名词 n**:
-  - 结社，社团；组织： "He is a member of the local gardening association."
-  - 联想，联系： "There is a strong association between smoking and lung cancer."
-  - 交往，友谊： "They formed a close association during their time in college."
+  - 结社，社团；组织： "[He](/post/he/) is [a](/post/a/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [local](/post/local/) gardening [association](/post/association/)."
+  - 联想，联系： "[There](/post/there/) is [a](/post/a/) [strong](/post/strong/) [association](/post/association/) [between](/post/between/) smoking [and](/post/and/) [lung](/post/lung/) [cancer](/post/cancer/)."
+  - 交往，友谊： "[They](/post/they/) formed [a](/post/a/) [close](/post/close/) [association](/post/association/) [during](/post/during/) [their](/post/their/) [time](/post/time/) [in](/post/in/) [college](/post/college/)."
 
 ## 短语
-- "professional association" 职业协会
-- "trade association" 行业公会
-- "association football" (简称 soccer) 足球
+- "[professional](/post/professional/) [association](/post/association/)" 职业协会
+- "[trade](/post/trade/) [association](/post/association/)" 行业公会
+- "[association](/post/association/) [football](/post/football/)" (简称 [soccer](/post/soccer/)) 足球
 
 ## 例句
-- 名词: "The teachers' association is negotiating with the school board."
-- 介词短语: "There's an association between exercise and good health."
+- 名词: "[The](/post/the/) teachers' [association](/post/association/) is negotiating [with](/post/with/) [the](/post/the/) [school](/post/school/) [board](/post/board/)."
+- 介词短语: "There's an [association](/post/association/) [between](/post/between/) [exercise](/post/exercise/) [and](/post/and/) [good](/post/good/) [health](/post/health/)."
 
 ## 同义词
-- Relationship
-- Link
-- Connection
-- Bond
-- Tie
+- [Relationship](/post/relationship/)
+- [Link](/post/link/)
+- [Connection](/post/connection/)
+- [Bond](/post/bond/)
+- [Tie](/post/tie/)

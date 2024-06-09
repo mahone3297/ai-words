@@ -11,20 +11,20 @@ keywords = ['ai words', 'troublesome']
 /trəˈməsən/
 
 ## 释义
-- **形容词**: 造成麻烦的，令人烦恼的，困难的。例如: "The troublesome machinery kept breaking down."
-- **副词**: 令人烦恼地，引起麻烦地。例如: "The child behaved troublesome throughout the entire flight."
+- **形容词**: 造成麻烦的，令人烦恼的，困难的。例如: "[The](/post/the/) [troublesome](/post/troublesome/) machinery kept breaking [down](/post/down/)."
+- **副词**: 令人烦恼地，引起麻烦地。例如: "[The](/post/the/) [child](/post/child/) behaved [troublesome](/post/troublesome/) [throughout](/post/throughout/) [the](/post/the/) [entire](/post/entire/) [flight](/post/flight/)."
 
 ## 短语
-- "troublesome behavior" 指引起问题的行为。
-- "a troublesome issue" 指一个棘手的问题。
+- "[troublesome](/post/troublesome/) [behavior](/post/behavior/)" 指引起问题的行为。
+- "[a](/post/a/) [troublesome](/post/troublesome/) [issue](/post/issue/)" 指一个棘手的问题。
 
 ## 例句
-- 形容词: "The troublesome neighbor complained about every little noise."
-- 副词: "His troublesome attitude made it difficult for others to work with him."
+- 形容词: "[The](/post/the/) [troublesome](/post/troublesome/) neighbor complained [about](/post/about/) [every](/post/every/) [little](/post/little/) [noise](/post/noise/)."
+- 副词: "[His](/post/his/) [troublesome](/post/troublesome/) [attitude](/post/attitude/) made [it](/post/it/) [difficult](/post/difficult/) [for](/post/for/) others [to](/post/to/) [work](/post/work/) [with](/post/with/) [him](/post/him/)."
 
 ## 同义词
 - Inconvenient
-- Difficult
+- [Difficult](/post/difficult/)
 - Frustrating
 - Annoying
 - Problematic

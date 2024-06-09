@@ -12,26 +12,26 @@ keywords = ['ai words', 'bare']
 
 ## 释义
 - **形容词**: 
-    - 裸露的，无覆盖的。例如: "The tree was left bare after the storm."
-    - 清楚的，不加掩饰的。例如: "She spoke her mind with a bare honesty."
-    - 基本的，仅够的。例如: "They lived on a bare minimum of food."
+    - 裸露的，无覆盖的。例如: "[The](/post/the/) [tree](/post/tree/) was [left](/post/left/) [bare](/post/bare/) [after](/post/after/) [the](/post/the/) [storm](/post/storm/)."
+    - 清楚的，不加掩饰的。例如: "[She](/post/she/) spoke [her](/post/her/) [mind](/post/mind/) [with](/post/with/) [a](/post/a/) [bare](/post/bare/) [honesty](/post/honesty/)."
+    - 基本的，仅够的。例如: "[They](/post/they/) lived [on](/post/on/) [a](/post/a/) [bare](/post/bare/) [minimum](/post/minimum/) [of](/post/of/) [food](/post/food/)."
 - **动词**:
-    - 使露出，脱去（衣物）。例如: "He bared his arms to show his tattoos."
-    - 揭示，揭露。例如: "The investigation bared the truth behind the scandal."
+    - 使露出，脱去（衣物）。例如: "[He](/post/he/) bared [his](/post/his/) arms [to](/post/to/) [show](/post/show/) [his](/post/his/) tattoos."
+    - 揭示，揭露。例如: "[The](/post/the/) [investigation](/post/investigation/) bared [the](/post/the/) [truth](/post/truth/) [behind](/post/behind/) [the](/post/the/) scandal."
 
 ## 短语
-- "bare necessities" 指生活的基本需求。
+- "[bare](/post/bare/) necessities" 指生活的基本需求。
 - "bare-handed" 意为徒手的，赤手空拳的。
 - "barely" 作为副词，表示几乎不，仅仅。
 
 ## 例句
-- 形容词: "The winter wind left the branches bare."
-- 动词: "She bared her teeth in anger."
-- 副词: "He was barely able to keep his eyes open."
+- 形容词: "[The](/post/the/) [winter](/post/winter/) [wind](/post/wind/) [left](/post/left/) [the](/post/the/) branches [bare](/post/bare/)."
+- 动词: "[She](/post/she/) bared [her](/post/her/) teeth [in](/post/in/) [anger](/post/anger/)."
+- 副词: "[He](/post/he/) was barely [able](/post/able/) [to](/post/to/) [keep](/post/keep/) [his](/post/his/) eyes [open](/post/open/)."
 
 ## 同义词
-- Naked
+- [Naked](/post/naked/)
 - Uncovered
 - Stripped
 - Exposed
-- Simple
+- [Simple](/post/simple/)

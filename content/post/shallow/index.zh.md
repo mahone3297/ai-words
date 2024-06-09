@@ -11,19 +11,19 @@ keywords = ['ai words', 'shallow']
 /ˈʃæləʊ/
 
 ## 释义
-- **形容词**: 不深的；肤浅的。例如: "The pool has a shallow end for children to play in."
-- **副词**: 肤浅地；不深入地。例如: "He only skims the surface, not thinking shallowly about the issue."
+- **形容词**: 不深的；肤浅的。例如: "[The](/post/the/) [pool](/post/pool/) has [a](/post/a/) [shallow](/post/shallow/) [end](/post/end/) [for](/post/for/) children [to](/post/to/) [play](/post/play/) [in](/post/in/)."
+- **副词**: 肤浅地；不深入地。例如: "[He](/post/he/) [only](/post/only/) skims [the](/post/the/) [surface](/post/surface/), [not](/post/not/) thinking shallowly [about](/post/about/) [the](/post/the/) [issue](/post/issue/)."
 
 ## 短语
-- "shallow thinking" 意为肤浅的思考。
-- "a shallow person" 指思想或感情不深刻的人。
+- "[shallow](/post/shallow/) thinking" 意为肤浅的思考。
+- "[a](/post/a/) [shallow](/post/shallow/) [person](/post/person/)" 指思想或感情不深刻的人。
 
 ## 例句
-- 形容词: "The river was so shallow that we could wade across it."
-- 副词: "She read the book shallowly and missed its deeper meaning."
+- 形容词: "[The](/post/the/) [river](/post/river/) was [so](/post/so/) [shallow](/post/shallow/) [that](/post/that/) [we](/post/we/) [could](/post/could/) wade [across](/post/across/) [it](/post/it/)."
+- 副词: "[She](/post/she/) [read](/post/read/) [the](/post/the/) [book](/post/book/) shallowly [and](/post/and/) missed [its](/post/its/) deeper [meaning](/post/meaning/)."
 
 ## 同义词
-- superficial
+- [superficial](/post/superficial/)
 - surface-level
 - insubstantial
 - trivial

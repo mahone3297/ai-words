@@ -11,19 +11,19 @@ keywords = ['ai words', 'exceedingly']
 /ɪkˈsiːdɪŋli/
 
 ## 释义
-- **副词**: 非常，极其，过分地。用来强调程度。例如: "He was exceedingly happy with the gift."
+- **副词**: 非常，极其，过分地。用来强调程度。例如: "[He](/post/he/) was [exceedingly](/post/exceedingly/) [happy](/post/happy/) [with](/post/with/) [the](/post/the/) [gift](/post/gift/)."
 
 ## 短语
-- "exceedingly polite" 非常有礼貌
-- "exceedingly intelligent" 极度聪明
+- "[exceedingly](/post/exceedingly/) [polite](/post/polite/)" 非常有礼貌
+- "[exceedingly](/post/exceedingly/) [intelligent](/post/intelligent/)" 极度聪明
 
 ## 例句
-- "She was exceedingly kind to everyone she met."（她对遇到的每个人都非常友善。）
-- "The task was exceedingly difficult, but he managed to complete it."（这项任务极其困难，但他还是完成了。）
+- "[She](/post/she/) was [exceedingly](/post/exceedingly/) [kind](/post/kind/) [to](/post/to/) [everyone](/post/everyone/) [she](/post/she/) met."（她对遇到的每个人都非常友善。）
+- "[The](/post/the/) [task](/post/task/) was [exceedingly](/post/exceedingly/) [difficult](/post/difficult/), [but](/post/but/) [he](/post/he/) managed [to](/post/to/) [complete](/post/complete/) [it](/post/it/)."（这项任务极其困难，但他还是完成了。）
 
 ## 同义词
-- extremely
+- [extremely](/post/extremely/)
 - incredibly
-- very
-- highly
+- [very](/post/very/)
+- [highly](/post/highly/)
 - immensely

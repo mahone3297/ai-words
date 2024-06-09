@@ -11,20 +11,20 @@ keywords = ['ai words', 'origin']
 /ˈɔːrɪdʒɪn/
 
 ## 释义
-- **名词**: 起源，来源，出身。例如: "The origin of the species is a fascinating topic for scientists." 
-- **名词**: 创造，创始。例如: "The origin of the painting dates back to the 15th century."
+- **名词**: 起源，来源，出身。例如: "[The](/post/the/) [origin](/post/origin/) [of](/post/of/) [the](/post/the/) species is [a](/post/a/) fascinating [topic](/post/topic/) [for](/post/for/) scientists." 
+- **名词**: 创造，创始。例如: "[The](/post/the/) [origin](/post/origin/) [of](/post/of/) [the](/post/the/) [painting](/post/painting/) dates [back](/post/back/) [to](/post/to/) [the](/post/the/) 15th [century](/post/century/)."
 
 ## 短语
-- "the origin of" 表示...的起源。例如: "We'll explore the origin of human language in this lecture."
-- "from scratch" 从零开始，从原始状态。例如: "They had to build the house from the very origin."
+- "[the](/post/the/) [origin](/post/origin/) [of](/post/of/)" 表示...的起源。例如: "We'll [explore](/post/explore/) [the](/post/the/) [origin](/post/origin/) [of](/post/of/) [human](/post/human/) [language](/post/language/) [in](/post/in/) [this](/post/this/) [lecture](/post/lecture/)."
+- "[from](/post/from/) [scratch](/post/scratch/)" 从零开始，从原始状态。例如: "[They](/post/they/) had [to](/post/to/) [build](/post/build/) [the](/post/the/) [house](/post/house/) [from](/post/from/) [the](/post/the/) [very](/post/very/) [origin](/post/origin/)."
 
 ## 例句
-- 名词: "The origin of life on Earth remains one of the greatest mysteries in science."
-- 名词: "The company was founded in 1980, so this year marks its 40th origin."
+- 名词: "[The](/post/the/) [origin](/post/origin/) [of](/post/of/) [life](/post/life/) [on](/post/on/) [Earth](/post/earth/) [remains](/post/remains/) [one](/post/one/) [of](/post/of/) [the](/post/the/) greatest mysteries [in](/post/in/) [science](/post/science/)."
+- 名词: "[The](/post/the/) [company](/post/company/) was founded [in](/post/in/) 1980, [so](/post/so/) [this](/post/this/) [year](/post/year/) marks [its](/post/its/) 40th [origin](/post/origin/)."
 
 ## 同义词
-- Beginning
-- Source
-- Root
-- Birth
-- Start
+- [Beginning](/post/beginning/)
+- [Source](/post/source/)
+- [Root](/post/root/)
+- [Birth](/post/birth/)
+- [Start](/post/start/)

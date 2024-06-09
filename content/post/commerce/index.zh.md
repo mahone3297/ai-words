@@ -12,20 +12,20 @@ keywords = ['ai words', 'commerce']
 
 ## 释义
 - **名词 n**:
-  - 商业，贸易；买卖活动。例如: "International commerce plays a vital role in the global economy."
-  - 经济学，商务。例如: "She's studying commerce at university."
+  - 商业，贸易；买卖活动。例如: "[International](/post/international/) [commerce](/post/commerce/) plays [a](/post/a/) [vital](/post/vital/) [role](/post/role/) [in](/post/in/) [the](/post/the/) global [economy](/post/economy/)."
+  - 经济学，商务。例如: "She's studying [commerce](/post/commerce/) [at](/post/at/) [university](/post/university/)."
 
 ## 短语
-- "Commerce with" 表示与...进行交易。例如: "They have extensive commerce with neighboring countries."
-- "E-commerce" 在线商业，电子商务。例如: "The rise of e-commerce has transformed the way people shop."
+- "[Commerce](/post/commerce/) [with](/post/with/)" 表示与...进行交易。例如: "[They](/post/they/) [have](/post/have/) [extensive](/post/extensive/) [commerce](/post/commerce/) [with](/post/with/) neighboring countries."
+- "E-commerce" 在线商业，电子商务。例如: "[The](/post/the/) [rise](/post/rise/) [of](/post/of/) e-commerce has transformed [the](/post/the/) [way](/post/way/) [people](/post/people/) [shop](/post/shop/)."
 
 ## 例句
-- 名词: "The city's port is crucial for its commerce and trade."
-- 短语: "Many small businesses have shifted their focus to e-commerce during the pandemic."
+- 名词: "[The](/post/the/) city's [port](/post/port/) is crucial [for](/post/for/) [its](/post/its/) [commerce](/post/commerce/) [and](/post/and/) [trade](/post/trade/)."
+- 短语: "[Many](/post/many/) [small](/post/small/) businesses [have](/post/have/) shifted [their](/post/their/) [focus](/post/focus/) [to](/post/to/) e-commerce [during](/post/during/) [the](/post/the/) pandemic."
 
 ## 同义词
-- Trade
-- Business
+- [Trade](/post/trade/)
+- [Business](/post/business/)
 - Dealings
 - Transactions
 - Marketing

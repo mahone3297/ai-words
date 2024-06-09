@@ -11,20 +11,20 @@ keywords = ['ai words', 'plural']
 /pluˈrəl/
 
 ## 释义
-- **形容词**: 复数形式的，表示不止一个。例如: "The plural of 'cat' is 'cats'."
-- **名词**: 复数形式，常在语法讨论中使用。例如: "In English, some nouns have irregular plurals."
+- **形容词**: 复数形式的，表示不止一个。例如: "[The](/post/the/) [plural](/post/plural/) [of](/post/of/) '[cat](/post/cat/)' is 'cats'."
+- **名词**: 复数形式，常在语法讨论中使用。例如: "[In](/post/in/) English, [some](/post/some/) nouns [have](/post/have/) [irregular](/post/irregular/) plurals."
 
 ## 短语
-- "in the plural" 表示在复数形式中。例如: "Some words are spelled differently in the plural."
-- "plural form" 指的是一个词的复数形式。例如: "The plural form of 'child' is 'children'."
+- "[in](/post/in/) [the](/post/the/) [plural](/post/plural/)" 表示在复数形式中。例如: "[Some](/post/some/) words are spelled differently [in](/post/in/) [the](/post/the/) [plural](/post/plural/)."
+- "[plural](/post/plural/) [form](/post/form/)" 指的是一个词的复数形式。例如: "[The](/post/the/) [plural](/post/plural/) [form](/post/form/) [of](/post/of/) '[child](/post/child/)' is 'children'."
 
 ## 例句
-- 形容词: "She loves reading books in the plural, meaning she enjoys variety."
-- 名词: "We'll discuss the plural in grammar class tomorrow."
+- 形容词: "[She](/post/she/) loves [reading](/post/reading/) books [in](/post/in/) [the](/post/the/) [plural](/post/plural/), [meaning](/post/meaning/) [she](/post/she/) enjoys [variety](/post/variety/)."
+- 名词: "We'll [discuss](/post/discuss/) [the](/post/the/) [plural](/post/plural/) [in](/post/in/) [grammar](/post/grammar/) [class](/post/class/) [tomorrow](/post/tomorrow/)."
 
 ## 同义词
-- Multiple
-- Several
-- Many
-- Various
-- Diverse
+- [Multiple](/post/multiple/)
+- [Several](/post/several/)
+- [Many](/post/many/)
+- [Various](/post/various/)
+- [Diverse](/post/diverse/)

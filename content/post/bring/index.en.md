@@ -7,38 +7,38 @@ description = '[briŋ] vt.带来；引出；促使'
 keywords = ['ai words', 'bring']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /brɪŋ/
 
 ## Definitions
-- **Verb**: (n) To carry or convey something from one place to another, typically with the intention of giving it to someone. For example: "She brought me a bouquet of flowers."
-- **Verb**: (v) To cause something to happen or be present by one's actions or influence. For example: "Your enthusiasm will bring out the best in them."
-- **Verb**: (n) An instance of bringing something, often used as a countable noun. For example: "The event will consist of several keynotes and workshops."
+- **[Verb](/en/post/verb/)**: (n) [To](/en/post/to/) [carry](/en/post/carry/) [or](/en/post/or/) [convey](/en/post/convey/) [something](/en/post/something/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/), typically [with](/en/post/with/) [the](/en/post/the/) [intention](/en/post/intention/) [of](/en/post/of/) giving [it](/en/post/it/) [to](/en/post/to/) [someone](/en/post/someone/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) brought [me](/en/post/me/) [a](/en/post/a/) bouquet [of](/en/post/of/) flowers."
+- **[Verb](/en/post/verb/)**: (v) [To](/en/post/to/) [cause](/en/post/cause/) [something](/en/post/something/) [to](/en/post/to/) [happen](/en/post/happen/) [or](/en/post/or/) [be](/en/post/be/) [present](/en/post/present/) [by](/en/post/by/) one's actions [or](/en/post/or/) [influence](/en/post/influence/). [For](/en/post/for/) [example](/en/post/example/): "[Your](/en/post/your/) [enthusiasm](/en/post/enthusiasm/) [will](/en/post/will/) [bring](/en/post/bring/) [out](/en/post/out/) [the](/en/post/the/) [best](/en/post/best/) [in](/en/post/in/) [them](/en/post/them/)."
+- **[Verb](/en/post/verb/)**: (n) An [instance](/en/post/instance/) [of](/en/post/of/) bringing [something](/en/post/something/), [often](/en/post/often/) [used](/en/post/used/) [as](/en/post/as/) [a](/en/post/a/) countable [noun](/en/post/noun/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [event](/en/post/event/) [will](/en/post/will/) [consist](/en/post/consist/) [of](/en/post/of/) [several](/en/post/several/) keynotes [and](/en/post/and/) workshops."
 
 ## Phrases
-- "Bring something along" means to take an item with you.
-- "Bring up a topic" refers to introducing a subject in conversation.
-- "Bring about change" signifies causing a desired alteration.
+- "[Bring](/en/post/bring/) [something](/en/post/something/) [along](/en/post/along/)" [means](/en/post/means/) [to](/en/post/to/) [take](/en/post/take/) an [item](/en/post/item/) [with](/en/post/with/) [you](/en/post/you/).
+- "[Bring](/en/post/bring/) [up](/en/post/up/) [a](/en/post/a/) [topic](/en/post/topic/)" refers [to](/en/post/to/) introducing [a](/en/post/a/) [subject](/en/post/subject/) [in](/en/post/in/) [conversation](/en/post/conversation/).
+- "[Bring](/en/post/bring/) [about](/en/post/about/) [change](/en/post/change/)" signifies causing [a](/en/post/a/) desired alteration.
 
-## Example Sentences
-- **Verb**: "Please bring me a glass of water."
-- **Verb**: "Her suggestion brought laughter to the room."
-- **Noun**: "There were several important points that he brought up during the meeting."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/)**: "[Please](/en/post/please/) [bring](/en/post/bring/) [me](/en/post/me/) [a](/en/post/a/) [glass](/en/post/glass/) [of](/en/post/of/) [water](/en/post/water/)."
+- **[Verb](/en/post/verb/)**: "[Her](/en/post/her/) [suggestion](/en/post/suggestion/) brought [laughter](/en/post/laughter/) [to](/en/post/to/) [the](/en/post/the/) [room](/en/post/room/)."
+- **[Noun](/en/post/noun/)**: "[There](/en/post/there/) were [several](/en/post/several/) [important](/en/post/important/) points [that](/en/post/that/) [he](/en/post/he/) brought [up](/en/post/up/) [during](/en/post/during/) [the](/en/post/the/) [meeting](/en/post/meeting/)."
 
 ## Synonyms
-- Carry
-- Convey
-- Fetch
-- Transport
-- Present
+- [Carry](/en/post/carry/)
+- [Convey](/en/post/convey/)
+- [Fetch](/en/post/fetch/)
+- [Transport](/en/post/transport/)
+- [Present](/en/post/present/)
 - Summon
-- Cause
-- Achieve
+- [Cause](/en/post/cause/)
+- [Achieve](/en/post/achieve/)
 - Initiate
 
 ## Antonyms
-- Take away
-- Remove
-- Withdraw
-- Conceal
+- [Take](/en/post/take/) [away](/en/post/away/)
+- [Remove](/en/post/remove/)
+- [Withdraw](/en/post/withdraw/)
+- [Conceal](/en/post/conceal/)
 - Suppress

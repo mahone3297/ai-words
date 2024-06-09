@@ -15,15 +15,15 @@ keywords = ['ai words', 'visitor']
 
 ## 短语
 - "visiting hours" 指医院或监狱等场所允许访客探视的时间。
-- "return visitor" 指再次访问某个网站或地点的用户。
+- "[return](/post/return/) [visitor](/post/visitor/)" 指再次访问某个网站或地点的用户。
 
 ## 例句
-- 名词: "The museum had a large number of visitors on weekends."
-- "She was an unexpected visitor, catching us by surprise."
+- 名词: "[The](/post/the/) [museum](/post/museum/) had [a](/post/a/) [large](/post/large/) [number](/post/number/) [of](/post/of/) visitors [on](/post/on/) weekends."
+- "[She](/post/she/) was an [unexpected](/post/unexpected/) [visitor](/post/visitor/), catching [us](/post/us/) [by](/post/by/) [surprise](/post/surprise/)."
 
 ## 同义词
-- guest
+- [guest](/post/guest/)
 - caller
-- tourist
+- [tourist](/post/tourist/)
 - attendee
 - drop-in

@@ -11,20 +11,20 @@ keywords = ['ai words', 'quicken']
 /ˈkwɪkən/
 
 ## 释义
-- **动词**: 使加速；加快。例如: "The warm weather quickened the growth of the plants."
-- **形容词**: 快速的；迅速的。例如: "He made a quicken decision and left the room."
+- **动词**: 使加速；加快。例如: "[The](/post/the/) [warm](/post/warm/) [weather](/post/weather/) quickened [the](/post/the/) [growth](/post/growth/) [of](/post/of/) [the](/post/the/) plants."
+- **形容词**: 快速的；迅速的。例如: "[He](/post/he/) made [a](/post/a/) [quicken](/post/quicken/) [decision](/post/decision/) [and](/post/and/) [left](/post/left/) [the](/post/the/) [room](/post/room/)."
 
 ## 短语
-- "to quicken one's pace" 加快步伐
-- "quicken the heart rate" 使心跳加速
+- "[to](/post/to/) [quicken](/post/quicken/) one's [pace](/post/pace/)" 加快步伐
+- "[quicken](/post/quicken/) [the](/post/the/) [heart](/post/heart/) [rate](/post/rate/)" 使心跳加速
 
 ## 例句
-- 动词: "The adrenaline quickened his movements, allowing him to escape danger."
-- 形容词: "She is known for her quicken thinking in solving complex problems."
+- 动词: "[The](/post/the/) adrenaline quickened [his](/post/his/) movements, allowing [him](/post/him/) [to](/post/to/) [escape](/post/escape/) [danger](/post/danger/)."
+- 形容词: "[She](/post/she/) is known [for](/post/for/) [her](/post/her/) [quicken](/post/quicken/) thinking [in](/post/in/) solving [complex](/post/complex/) problems."
 
 ## 同义词
-- Accelerate
-- Hasten
-- Speed up
-- Haste
+- [Accelerate](/post/accelerate/)
+- [Hasten](/post/hasten/)
+- [Speed](/post/speed/) [up](/post/up/)
+- [Haste](/post/haste/)
 - Boost

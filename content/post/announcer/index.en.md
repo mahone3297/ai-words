@@ -7,49 +7,49 @@ description = '[əˈnaunsə] n.宣告者；播音员'
 keywords = ['ai words', 'announcer']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈæn.kən.sər/
 
 ## Definitions
-### Noun
-1. A person who makes public announcements, especially on radio or television.
-2. An individual who introduces, explains, or provides information during a broadcast or event.
-3. A person who declares or proclaims something officially.
+### [Noun](/en/post/noun/)
+1. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) makes [public](/en/post/public/) announcements, [especially](/en/post/especially/) [on](/en/post/on/) [radio](/en/post/radio/) [or](/en/post/or/) [television](/en/post/television/).
+2. An [individual](/en/post/individual/) [who](/en/post/who/) introduces, explains, [or](/en/post/or/) provides [information](/en/post/information/) [during](/en/post/during/) [a](/en/post/a/) [broadcast](/en/post/broadcast/) [or](/en/post/or/) [event](/en/post/event/).
+3. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) declares [or](/en/post/or/) proclaims [something](/en/post/something/) officially.
 
-## Verb
-1. To make an announcement or declare something publicly.
-2. To introduce oneself or others to an audience.
+## [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [make](/en/post/make/) an announcement [or](/en/post/or/) [declare](/en/post/declare/) [something](/en/post/something/) publicly.
+2. [To](/en/post/to/) [introduce](/en/post/introduce/) [oneself](/en/post/oneself/) [or](/en/post/or/) others [to](/en/post/to/) an [audience](/en/post/audience/).
 
-## Adjective
-Referring to a role or profession, such as "announcer for the game."
+## [Adjective](/en/post/adjective/)
+Referring [to](/en/post/to/) [a](/en/post/a/) [role](/en/post/role/) [or](/en/post/or/) [profession](/en/post/profession/), [such](/en/post/such/) [as](/en/post/as/) "[announcer](/en/post/announcer/) [for](/en/post/for/) [the](/en/post/the/) [game](/en/post/game/)."
 
-## Example Sentences
-- **Noun**: "The radio announcer welcomed listeners to the morning show."
-- **Verb**: "The announcer will now give the weather forecast."
-- **Adjective**: "The sports announcer's enthusiasm was contagious."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [radio](/en/post/radio/) [announcer](/en/post/announcer/) welcomed listeners [to](/en/post/to/) [the](/en/post/the/) [morning](/en/post/morning/) [show](/en/post/show/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [announcer](/en/post/announcer/) [will](/en/post/will/) [now](/en/post/now/) [give](/en/post/give/) [the](/en/post/the/) [weather](/en/post/weather/) [forecast](/en/post/forecast/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) sports announcer's [enthusiasm](/en/post/enthusiasm/) was contagious."
 
 ## Phrases
-- "Made an announcement" (to communicate information publicly)
-- "Announced the winner" (to declare the victor)
-- "Live announcer" (a person doing commentary in real-time)
+- "Made an announcement" ([to](/en/post/to/) [communicate](/en/post/communicate/) [information](/en/post/information/) publicly)
+- "Announced [the](/en/post/the/) [winner](/en/post/winner/)" ([to](/en/post/to/) [declare](/en/post/declare/) [the](/en/post/the/) victor)
+- "[Live](/en/post/live/) [announcer](/en/post/announcer/)" ([a](/en/post/a/) [person](/en/post/person/) doing commentary [in](/en/post/in/) real-time)
 
-## Example Sentences (expanded)
-- **Noun**: "The experienced sports announcer described the action on the field."
-- **Verb**: "The mayor announced the opening of the new park to the community."
-- **Adjective**: "The energetic stage announcer got the crowd excited for the performance."
+## [Example](/en/post/example/) Sentences (expanded)
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) experienced sports [announcer](/en/post/announcer/) described [the](/en/post/the/) [action](/en/post/action/) [on](/en/post/on/) [the](/en/post/the/) [field](/en/post/field/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [mayor](/en/post/mayor/) announced [the](/en/post/the/) [opening](/en/post/opening/) [of](/en/post/of/) [the](/en/post/the/) [new](/en/post/new/) [park](/en/post/park/) [to](/en/post/to/) [the](/en/post/the/) [community](/en/post/community/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) energetic [stage](/en/post/stage/) [announcer](/en/post/announcer/) got [the](/en/post/the/) [crowd](/en/post/crowd/) excited [for](/en/post/for/) [the](/en/post/the/) [performance](/en/post/performance/)."
 
 ## Synonyms
-- Announcer (noun)
-- Announce (verb)
-- Public speaker
+- [Announcer](/en/post/announcer/) ([noun](/en/post/noun/))
+- [Announce](/en/post/announce/) ([verb](/en/post/verb/))
+- [Public](/en/post/public/) [speaker](/en/post/speaker/)
 - Emcee
 - Disc jockey (DJ)
 - Commentator
-- Speaker
+- [Speaker](/en/post/speaker/)
 - Proclaimer
 
 ## Antonyms
-- Listener
-- Silent
+- [Listener](/en/post/listener/)
+- [Silent](/en/post/silent/)
 - Unannounced
-- Muted (in terms of sound)
+- Muted ([in](/en/post/in/) terms [of](/en/post/of/) [sound](/en/post/sound/))

@@ -11,20 +11,20 @@ keywords = ['ai words', 'upside-down']
 /ˌʌpˈsaɪd ˈdaʊn/
 
 ## 释义
-- **形容词**: 1. 倒置的，颠倒的。例如: "The picture was hung upside-down by mistake."
-   - 2. 完全混乱的，乱七八糟的。例如: "Her life had become upside-down after the accident."
+- **形容词**: 1. 倒置的，颠倒的。例如: "[The](/post/the/) [picture](/post/picture/) was hung [upside-down](/post/upside-down/) [by](/post/by/) [mistake](/post/mistake/)."
+   - 2. 完全混乱的，乱七八糟的。例如: "[Her](/post/her/) [life](/post/life/) had [become](/post/become/) [upside-down](/post/upside-down/) [after](/post/after/) [the](/post/the/) [accident](/post/accident/)."
 
 ## 短语
-- "upside-down cake" 意为翻转蛋糕，通常底部的配料（如水果）在烘焙后会成为蛋糕的顶部。
-- "turn something upside-down" 意为把某物颠倒过来，例如整理房间时将所有东西翻出来。
+- "[upside-down](/post/upside-down/) [cake](/post/cake/)" 意为翻转蛋糕，通常底部的配料（如水果）在烘焙后会成为蛋糕的顶部。
+- "[turn](/post/turn/) [something](/post/something/) [upside-down](/post/upside-down/)" 意为把某物颠倒过来，例如整理房间时将所有东西翻出来。
 
 ## 例句
-- 形容词: "The child was playing with the toy car upside-down."
-- "She accidentally put on her shirt inside-out and upside-down."
+- 形容词: "[The](/post/the/) [child](/post/child/) was playing [with](/post/with/) [the](/post/the/) [toy](/post/toy/) [car](/post/car/) [upside-down](/post/upside-down/)."
+- "[She](/post/she/) accidentally [put](/post/put/) [on](/post/on/) [her](/post/her/) [shirt](/post/shirt/) inside-out [and](/post/and/) [upside-down](/post/upside-down/)."
 
 ## 同义词
 - Inverted
 - Reversed
-- Upside over
+- Upside [over](/post/over/)
 - Backwards
-- Inside out
+- [Inside](/post/inside/) [out](/post/out/)

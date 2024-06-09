@@ -11,20 +11,20 @@ keywords = ['ai words', 'responsibility']
 /ˌrɛspənˈsɪbɪləti/
 
 ## 释义
-- **名词**: 承担或应尽的义务；职责；责任。例如: "He took on the responsibility of caring for his elderly parents."
-- **形容词**: 有责任感的；尽职的。例如: "She's a very responsible employee."
+- **名词**: 承担或应尽的义务；职责；责任。例如: "[He](/post/he/) took [on](/post/on/) [the](/post/the/) [responsibility](/post/responsibility/) [of](/post/of/) caring [for](/post/for/) [his](/post/his/) elderly parents."
+- **形容词**: 有责任感的；尽职的。例如: "She's [a](/post/a/) [very](/post/very/) [responsible](/post/responsible/) [employee](/post/employee/)."
 
 ## 短语
-- "Take responsibility for" 意味着承认并承担起错误或后果。例如: "You need to take responsibility for your actions."
-- "Responsibility without authority" 指没有相应权力的职责。例如: "It's unfair to give someone responsibility without giving them the authority to make decisions."
+- "[Take](/post/take/) [responsibility](/post/responsibility/) [for](/post/for/)" 意味着承认并承担起错误或后果。例如: "[You](/post/you/) [need](/post/need/) [to](/post/to/) [take](/post/take/) [responsibility](/post/responsibility/) [for](/post/for/) [your](/post/your/) actions."
+- "[Responsibility](/post/responsibility/) [without](/post/without/) [authority](/post/authority/)" 指没有相应权力的职责。例如: "It's [unfair](/post/unfair/) [to](/post/to/) [give](/post/give/) [someone](/post/someone/) [responsibility](/post/responsibility/) [without](/post/without/) giving [them](/post/them/) [the](/post/the/) [authority](/post/authority/) [to](/post/to/) [make](/post/make/) decisions."
 
 ## 例句
-- 名词: "She felt a great sense of responsibility towards her young siblings."
-- 形容词: "Being responsible is an important trait in any leader."
+- 名词: "[She](/post/she/) felt [a](/post/a/) [great](/post/great/) [sense](/post/sense/) [of](/post/of/) [responsibility](/post/responsibility/) towards [her](/post/her/) [young](/post/young/) siblings."
+- 形容词: "[Being](/post/being/) [responsible](/post/responsible/) is an [important](/post/important/) trait [in](/post/in/) [any](/post/any/) [leader](/post/leader/)."
 
 ## 同义词
 - Accountability
-- Duty
+- [Duty](/post/duty/)
 - Obligation
 - Liability
-- Charge
+- [Charge](/post/charge/)

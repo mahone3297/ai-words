@@ -7,36 +7,36 @@ description = '[ˈsæləd] n.色拉；莴苣，生菜'
 keywords = ['ai words', 'salad']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /sæləd/
 
 ## Definitions
-### Noun
-1. A dish consisting of various chopped or mixed vegetables, fruits, meats, and sometimes grains or pasta, usually dressed with a sauce or dressing, served cold or at room temperature.
-2. (figurative) A collection or mixture of unrelated or haphazard elements; a jumbled assortment.
-3. (idiomatic) An awkward or confusing situation or conversation.
+### [Noun](/en/post/noun/)
+1. [A](/en/post/a/) [dish](/en/post/dish/) consisting [of](/en/post/of/) [various](/en/post/various/) chopped [or](/en/post/or/) mixed vegetables, fruits, meats, [and](/en/post/and/) [sometimes](/en/post/sometimes/) grains [or](/en/post/or/) pasta, [usually](/en/post/usually/) dressed [with](/en/post/with/) [a](/en/post/a/) [sauce](/en/post/sauce/) [or](/en/post/or/) dressing, served [cold](/en/post/cold/) [or](/en/post/or/) [at](/en/post/at/) [room](/en/post/room/) [temperature](/en/post/temperature/).
+2. (figurative) [A](/en/post/a/) [collection](/en/post/collection/) [or](/en/post/or/) [mixture](/en/post/mixture/) [of](/en/post/of/) unrelated [or](/en/post/or/) haphazard elements; [a](/en/post/a/) jumbled assortment.
+3. (idiomatic) An [awkward](/en/post/awkward/) [or](/en/post/or/) confusing [situation](/en/post/situation/) [or](/en/post/or/) [conversation](/en/post/conversation/).
 
-### Verb
-1. To prepare or serve a salad.
-2. (informal) To mix or confuse things; to create a jumbled state.
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [prepare](/en/post/prepare/) [or](/en/post/or/) [serve](/en/post/serve/) [a](/en/post/a/) [salad](/en/post/salad/).
+2. (informal) [To](/en/post/to/) [mix](/en/post/mix/) [or](/en/post/or/) [confuse](/en/post/confuse/) things; [to](/en/post/to/) [create](/en/post/create/) [a](/en/post/a/) jumbled [state](/en/post/state/).
 
 ## Phrases
-- "Make a salad" or "put together a salad"
-- "A healthy salad"
-- "Toss a salad"
-- "A green salad" or "Caesar salad"
+- "[Make](/en/post/make/) [a](/en/post/a/) [salad](/en/post/salad/)" [or](/en/post/or/) "[put](/en/post/put/) [together](/en/post/together/) [a](/en/post/a/) [salad](/en/post/salad/)"
+- "[A](/en/post/a/) [healthy](/en/post/healthy/) [salad](/en/post/salad/)"
+- "[Toss](/en/post/toss/) [a](/en/post/a/) [salad](/en/post/salad/)"
+- "[A](/en/post/a/) [green](/en/post/green/) [salad](/en/post/salad/)" [or](/en/post/or/) "Caesar [salad](/en/post/salad/)"
 
-## Example Sentences
-- **Noun**: "I love to make different salads with seasonal produce."
-- **Verb**: "She decided to salad her way through weight loss by eating more greens."
-- **Idiomatic**: "The meeting was a real salad, with everyone talking over each other."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "I [love](/en/post/love/) [to](/en/post/to/) [make](/en/post/make/) [different](/en/post/different/) salads [with](/en/post/with/) seasonal [produce](/en/post/produce/)."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [salad](/en/post/salad/) [her](/en/post/her/) [way](/en/post/way/) [through](/en/post/through/) [weight](/en/post/weight/) [loss](/en/post/loss/) [by](/en/post/by/) eating [more](/en/post/more/) greens."
+- **Idiomatic**: "[The](/en/post/the/) [meeting](/en/post/meeting/) was [a](/en/post/a/) [real](/en/post/real/) [salad](/en/post/salad/), [with](/en/post/with/) [everyone](/en/post/everyone/) talking [over](/en/post/over/) [each](/en/post/each/) [other](/en/post/other/)."
 
 ## Synonyms
-- Vegetable medley
+- [Vegetable](/en/post/vegetable/) medley
 - Platter
-- Bowl of mixed greens
+- [Bowl](/en/post/bowl/) [of](/en/post/of/) mixed greens
 - Mélange
 - Tangle
 - Hodgepodge
 - Muddle
-- Confusion
+- [Confusion](/en/post/confusion/)

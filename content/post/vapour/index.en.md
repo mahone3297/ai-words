@@ -7,27 +7,27 @@ description = '[ˈveipə] n.汽，蒸气'
 keywords = ['ai words', 'vapour']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /vəˈpɔː(r)/
 
 ## Definitions
-- **Noun**: A gas or vapor that is formed when a substance changes from a liquid or solid state to a gaseous state, often at a relatively low temperature. [Oxford](https://en.oxforddictionaries.com/definition/vapour)
-- **Verb**: To change from a liquid to a gaseous state by evaporation or boiling; to become a vapor. [Cambridge](https://dictionary.cambridge.org/dictionary/english/vapour)
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [gas](/en/post/gas/) [or](/en/post/or/) vapor [that](/en/post/that/) is formed [when](/en/post/when/) [a](/en/post/a/) [substance](/en/post/substance/) changes [from](/en/post/from/) [a](/en/post/a/) [liquid](/en/post/liquid/) [or](/en/post/or/) [solid](/en/post/solid/) [state](/en/post/state/) [to](/en/post/to/) [a](/en/post/a/) [gaseous](/en/post/gaseous/) [state](/en/post/state/), [often](/en/post/often/) [at](/en/post/at/) [a](/en/post/a/) [relatively](/en/post/relatively/) [low](/en/post/low/) [temperature](/en/post/temperature/). [Oxford](https://en.oxforddictionaries.com/[definition](/en/post/definition/)/[vapour](/en/post/vapour/))
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [change](/en/post/change/) [from](/en/post/from/) [a](/en/post/a/) [liquid](/en/post/liquid/) [to](/en/post/to/) [a](/en/post/a/) [gaseous](/en/post/gaseous/) [state](/en/post/state/) [by](/en/post/by/) evaporation [or](/en/post/or/) boiling; [to](/en/post/to/) [become](/en/post/become/) [a](/en/post/a/) vapor. [Cambridge](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[vapour](/en/post/vapour/))
 
 ## Phrases
-- "Water vapor" refers to water in its gaseous form.
-- "Steam" is the visible vapor resulting from boiling water.
-- "Vaporize" or "evaporate" are actions of turning from a liquid to a vapor.
+- "[Water](/en/post/water/) vapor" refers [to](/en/post/to/) [water](/en/post/water/) [in](/en/post/in/) [its](/en/post/its/) [gaseous](/en/post/gaseous/) [form](/en/post/form/).
+- "[Steam](/en/post/steam/)" is [the](/en/post/the/) [visible](/en/post/visible/) vapor resulting [from](/en/post/from/) boiling [water](/en/post/water/).
+- "Vaporize" [or](/en/post/or/) "[evaporate](/en/post/evaporate/)" are actions [of](/en/post/of/) [turning](/en/post/turning/) [from](/en/post/from/) [a](/en/post/a/) [liquid](/en/post/liquid/) [to](/en/post/to/) [a](/en/post/a/) vapor.
 
-## Example Sentences
-- **Noun**: "The air was filled with the scent of freshly baked cookies, wafting through the kitchen as the steam rose from the hot plate."
-- **Verb**: "When the pot of water reached boiling point, the water vapour started to fill the room."
-- **Action**: "The plant's transpiration process converts water into water vapor, which helps regulate its temperature."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [air](/en/post/air/) was filled [with](/en/post/with/) [the](/en/post/the/) [scent](/en/post/scent/) [of](/en/post/of/) freshly baked cookies, wafting [through](/en/post/through/) [the](/en/post/the/) [kitchen](/en/post/kitchen/) [as](/en/post/as/) [the](/en/post/the/) [steam](/en/post/steam/) [rose](/en/post/rose/) [from](/en/post/from/) [the](/en/post/the/) [hot](/en/post/hot/) [plate](/en/post/plate/)."
+- **[Verb](/en/post/verb/)**: "[When](/en/post/when/) [the](/en/post/the/) [pot](/en/post/pot/) [of](/en/post/of/) [water](/en/post/water/) reached boiling [point](/en/post/point/), [the](/en/post/the/) [water](/en/post/water/) [vapour](/en/post/vapour/) started [to](/en/post/to/) [fill](/en/post/fill/) [the](/en/post/the/) [room](/en/post/room/)."
+- **[Action](/en/post/action/)**: "[The](/en/post/the/) plant's transpiration [process](/en/post/process/) converts [water](/en/post/water/) [into](/en/post/into/) [water](/en/post/water/) vapor, [which](/en/post/which/) helps [regulate](/en/post/regulate/) [its](/en/post/its/) [temperature](/en/post/temperature/)."
 
 ## Synonyms
-- Steam
-- Mist
-- Condensation (the reverse process)
+- [Steam](/en/post/steam/)
+- [Mist](/en/post/mist/)
+- Condensation ([the](/en/post/the/) [reverse](/en/post/reverse/) [process](/en/post/process/))
 - Evaporation
-- Boiling point
-- Fumes (less common, usually referring to noxious fumes)
+- Boiling [point](/en/post/point/)
+- Fumes ([less](/en/post/less/) [common](/en/post/common/), [usually](/en/post/usually/) referring [to](/en/post/to/) noxious fumes)

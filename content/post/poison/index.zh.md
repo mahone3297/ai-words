@@ -11,20 +11,20 @@ keywords = ['ai words', 'poison']
 /pəˈzɪən/
 
 ## 释义
-- **名词**: 有毒的物质，毒药。例如: "The snake's venom is a powerful poison."
-- **动词**: 使中毒，毒害。例如: "The food was poisoned and several people fell ill."
+- **名词**: 有毒的物质，毒药。例如: "[The](/post/the/) snake's venom is [a](/post/a/) [powerful](/post/powerful/) [poison](/post/poison/)."
+- **动词**: 使中毒，毒害。例如: "[The](/post/the/) [food](/post/food/) was poisoned [and](/post/and/) [several](/post/several/) [people](/post/people/) fell [ill](/post/ill/)."
 
 ## 短语
-- "Poisonous gas" 指有毒气体。
-- "To poison someone's mind" 意为在某人的思想中灌输负面或有害的想法。
+- "[Poisonous](/post/poisonous/) [gas](/post/gas/)" 指有毒气体。
+- "[To](/post/to/) [poison](/post/poison/) someone's [mind](/post/mind/)" 意为在某人的思想中灌输负面或有害的想法。
 
 ## 例句
-- 名词: "The antidote was administered immediately after the victim ingested the poison."
-- 动词: "Somebody had poisoned the well, making the water unsafe to drink."
+- 名词: "[The](/post/the/) antidote was administered [immediately](/post/immediately/) [after](/post/after/) [the](/post/the/) [victim](/post/victim/) ingested [the](/post/the/) [poison](/post/poison/)."
+- 动词: "[Somebody](/post/somebody/) had poisoned [the](/post/the/) [well](/post/well/), making [the](/post/the/) [water](/post/water/) unsafe [to](/post/to/) [drink](/post/drink/)."
 
 ## 同义词
 - Toxin
 - Venom
 - contaminant
-- deadly substance
-- noxious agent
+- [deadly](/post/deadly/) [substance](/post/substance/)
+- noxious [agent](/post/agent/)

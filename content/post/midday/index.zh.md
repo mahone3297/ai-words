@@ -11,16 +11,16 @@ keywords = ['ai words', 'midday']
 /mɪdˈdeɪ/
 
 ## 释义
-- **名词**: 一天中的正午，中午时刻。例如: "The sun is at its highest point at midday."
+- **名词**: 一天中的正午，中午时刻。例如: "[The](/post/the/) [sun](/post/sun/) is [at](/post/at/) [its](/post/its/) highest [point](/post/point/) [at](/post/at/) [midday](/post/midday/)."
 
 ## 短语
-- "midday meal" 指的是午餐。
+- "[midday](/post/midday/) [meal](/post/meal/)" 指的是午餐。
 
 ## 例句
-- "We usually take a break for lunch at midday."
+- "[We](/post/we/) [usually](/post/usually/) [take](/post/take/) [a](/post/a/) [break](/post/break/) [for](/post/for/) [lunch](/post/lunch/) [at](/post/at/) [midday](/post/midday/)."
 
 ## 同义词
-- noon
+- [noon](/post/noon/)
 - noontime
-- high noon
+- [high](/post/high/) [noon](/post/noon/)
 - mid-afternoon (在某些语境中，当指接近中午的时间段)

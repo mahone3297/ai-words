@@ -11,21 +11,21 @@ keywords = ['ai words', 'hotel']
 /həʊˈtel/
 
 ## 释义
-- **名词**: 一种提供住宿和餐饮服务的商业设施，通常为旅行者或游客提供临时住所。例如: "We're staying at a luxurious hotel during our vacation."
-- **动词**: （非标准用法）将某人安置在旅馆里。例如: "They hotelled us for the night when our flight was delayed."
+- **名词**: 一种提供住宿和餐饮服务的商业设施，通常为旅行者或游客提供临时住所。例如: "We're staying [at](/post/at/) [a](/post/a/) luxurious [hotel](/post/hotel/) [during](/post/during/) [our](/post/our/) [vacation](/post/vacation/)."
+- **动词**: （非标准用法）将某人安置在旅馆里。例如: "[They](/post/they/) hotelled [us](/post/us/) [for](/post/for/) [the](/post/the/) [night](/post/night/) [when](/post/when/) [our](/post/our/) [flight](/post/flight/) was delayed."
 
 ## 短语
-- "Check-in at the hotel" 意思是在旅馆登记入住。
-- "Room service" 提供客房服务，如送餐到房间。
-- "Hotel chain" 指一系列隶属于同一品牌的旅馆。
+- "Check-in [at](/post/at/) [the](/post/the/) [hotel](/post/hotel/)" 意思是在旅馆登记入住。
+- "[Room](/post/room/) [service](/post/service/)" 提供客房服务，如送餐到房间。
+- "[Hotel](/post/hotel/) [chain](/post/chain/)" 指一系列隶属于同一品牌的旅馆。
 
 ## 例句
-- 名词: "The hotel's lobby was elegantly decorated with modern art."
-- 动词: "They hotelled their guests in a nearby resort during the event."
+- 名词: "[The](/post/the/) hotel's lobby was elegantly decorated [with](/post/with/) [modern](/post/modern/) [art](/post/art/)."
+- 动词: "[They](/post/they/) hotelled [their](/post/their/) guests [in](/post/in/) [a](/post/a/) [nearby](/post/nearby/) [resort](/post/resort/) [during](/post/during/) [the](/post/the/) [event](/post/event/)."
 
 ## 同义词
-- Inn
-- Lodge
-- Resort
+- [Inn](/post/inn/)
+- [Lodge](/post/lodge/)
+- [Resort](/post/resort/)
 - Motel
 - Guesthouse

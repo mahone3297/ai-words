@@ -7,31 +7,31 @@ description = '[iːst] n.东；东部 ad.在东方'
 keywords = ['ai words', 'east']
 +++
 
-## Word: East
+## [Word](/en/post/word/): [East](/en/post/east/)
 
-## Pronunciation
-/east/
+## [Pronunciation](/en/post/pronunciation/)
+/[east](/en/post/east/)/
 
 ## Definitions
-- **Noun**: One of the four cardinal directions on a compass, situated 90 degrees from north and opposite west. It is where the sun rises and often symbolizes the beginning or origin. Example: "The sun rises in the east every morning."
-- **Adjective**: Situated or directed toward the east; coming from or moving toward the east. Example: "The east wing of the mansion faces the sunrise."
-- **Adverb**: Toward the east; in an easterly direction. Example: "The ship sailed east until it reached the coast."
+- **[Noun](/en/post/noun/)**: [One](/en/post/one/) [of](/en/post/of/) [the](/en/post/the/) [four](/en/post/four/) cardinal directions [on](/en/post/on/) [a](/en/post/a/) [compass](/en/post/compass/), situated 90 degrees [from](/en/post/from/) [north](/en/post/north/) [and](/en/post/and/) [opposite](/en/post/opposite/) [west](/en/post/west/). [It](/en/post/it/) is [where](/en/post/where/) [the](/en/post/the/) [sun](/en/post/sun/) rises [and](/en/post/and/) [often](/en/post/often/) symbolizes [the](/en/post/the/) [beginning](/en/post/beginning/) [or](/en/post/or/) [origin](/en/post/origin/). [Example](/en/post/example/): "[The](/en/post/the/) [sun](/en/post/sun/) rises [in](/en/post/in/) [the](/en/post/the/) [east](/en/post/east/) [every](/en/post/every/) [morning](/en/post/morning/)."
+- **[Adjective](/en/post/adjective/)**: Situated [or](/en/post/or/) directed toward [the](/en/post/the/) [east](/en/post/east/); coming [from](/en/post/from/) [or](/en/post/or/) moving toward [the](/en/post/the/) [east](/en/post/east/). [Example](/en/post/example/): "[The](/en/post/the/) [east](/en/post/east/) [wing](/en/post/wing/) [of](/en/post/of/) [the](/en/post/the/) mansion faces [the](/en/post/the/) [sunrise](/en/post/sunrise/)."
+- **[Adverb](/en/post/adverb/)**: Toward [the](/en/post/the/) [east](/en/post/east/); [in](/en/post/in/) an easterly [direction](/en/post/direction/). [Example](/en/post/example/): "[The](/en/post/the/) [ship](/en/post/ship/) sailed [east](/en/post/east/) [until](/en/post/until/) [it](/en/post/it/) reached [the](/en/post/the/) [coast](/en/post/coast/)."
 
 ## Phrases
-- "East of": Denotes a location that is to the east relative to another place. Example: "The city is located east of the river."
-- "Go east": Travel in the direction of the east. Example: "After crossing the mountains, they decided to go east towards the coast."
-- "To the east": In the direction or region of the east. Example: "In the distance, to the east, we could see the first light of dawn."
+- "[East](/en/post/east/) [of](/en/post/of/)": Denotes [a](/en/post/a/) [location](/en/post/location/) [that](/en/post/that/) is [to](/en/post/to/) [the](/en/post/the/) [east](/en/post/east/) [relative](/en/post/relative/) [to](/en/post/to/) [another](/en/post/another/) [place](/en/post/place/). [Example](/en/post/example/): "[The](/en/post/the/) [city](/en/post/city/) is located [east](/en/post/east/) [of](/en/post/of/) [the](/en/post/the/) [river](/en/post/river/)."
+- "[Go](/en/post/go/) [east](/en/post/east/)": [Travel](/en/post/travel/) [in](/en/post/in/) [the](/en/post/the/) [direction](/en/post/direction/) [of](/en/post/of/) [the](/en/post/the/) [east](/en/post/east/). [Example](/en/post/example/): "[After](/en/post/after/) crossing [the](/en/post/the/) mountains, [they](/en/post/they/) decided [to](/en/post/to/) [go](/en/post/go/) [east](/en/post/east/) towards [the](/en/post/the/) [coast](/en/post/coast/)."
+- "[To](/en/post/to/) [the](/en/post/the/) [east](/en/post/east/)": [In](/en/post/in/) [the](/en/post/the/) [direction](/en/post/direction/) [or](/en/post/or/) [region](/en/post/region/) [of](/en/post/of/) [the](/en/post/the/) [east](/en/post/east/). [Example](/en/post/example/): "[In](/en/post/in/) [the](/en/post/the/) [distance](/en/post/distance/), [to](/en/post/to/) [the](/en/post/the/) [east](/en/post/east/), [we](/en/post/we/) [could](/en/post/could/) [see](/en/post/see/) [the](/en/post/the/) [first](/en/post/first/) [light](/en/post/light/) [of](/en/post/of/) [dawn](/en/post/dawn/)."
 
-## Example Sentences
-- **Noun**: "The winds blowing from the east brought cooler temperatures."
-- **Adjective**: "We took the eastbound train to reach our destination."
-- **Adverb**: "The birds migrated east during the winter months."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) winds blowing [from](/en/post/from/) [the](/en/post/the/) [east](/en/post/east/) brought cooler temperatures."
+- **[Adjective](/en/post/adjective/)**: "[We](/en/post/we/) took [the](/en/post/the/) eastbound [train](/en/post/train/) [to](/en/post/to/) [reach](/en/post/reach/) [our](/en/post/our/) [destination](/en/post/destination/)."
+- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) birds migrated [east](/en/post/east/) [during](/en/post/during/) [the](/en/post/the/) [winter](/en/post/winter/) months."
 
 ## Synonyms
-- Eastern
+- [Eastern](/en/post/eastern/)
 - Orient
 - Easterly
 - Eastward
 - Eastwards
-- Sunrise (direction)
-- Leeward (in certain contexts)
+- [Sunrise](/en/post/sunrise/) ([direction](/en/post/direction/))
+- Leeward ([in](/en/post/in/) [certain](/en/post/certain/) contexts)

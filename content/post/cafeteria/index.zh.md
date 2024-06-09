@@ -11,21 +11,21 @@ keywords = ['ai words', 'cafeteria']
 /ˈkæfɪtɛriə/
 
 ## 释义
-- **名词**: 一种提供自助服务的餐厅，通常在办公大楼、学校或医院内。例如: "We had lunch in the cafeteria of the museum."
-- **名词**: 有时也指供应咖啡和轻食的小吃店或咖啡馆。例如: "There's a cozy cafeteria on the corner where you can grab a quick bite."
+- **名词**: 一种提供自助服务的餐厅，通常在办公大楼、学校或医院内。例如: "[We](/post/we/) had [lunch](/post/lunch/) [in](/post/in/) [the](/post/the/) [cafeteria](/post/cafeteria/) [of](/post/of/) [the](/post/the/) [museum](/post/museum/)."
+- **名词**: 有时也指供应咖啡和轻食的小吃店或咖啡馆。例如: "There's [a](/post/a/) cozy [cafeteria](/post/cafeteria/) [on](/post/on/) [the](/post/the/) [corner](/post/corner/) [where](/post/where/) [you](/post/you/) [can](/post/can/) grab [a](/post/a/) [quick](/post/quick/) [bite](/post/bite/)."
 
 ## 短语
-- "School cafeteria" 指学校的餐厅。
-- "Company cafeteria" 指企业或机构内部的员工餐厅。
+- "[School](/post/school/) [cafeteria](/post/cafeteria/)" 指学校的餐厅。
+- "[Company](/post/company/) [cafeteria](/post/cafeteria/)" 指企业或机构内部的员工餐厅。
 
 ## 例句
-- "The cafeteria offers a variety of dishes for different dietary needs."
-- "In the university cafeteria, you can find food from around the world."
-- "Let's meet at the cafeteria after class and discuss our project."
+- "[The](/post/the/) [cafeteria](/post/cafeteria/) offers [a](/post/a/) [variety](/post/variety/) [of](/post/of/) dishes [for](/post/for/) [different](/post/different/) dietary needs."
+- "[In](/post/in/) [the](/post/the/) [university](/post/university/) [cafeteria](/post/cafeteria/), [you](/post/you/) [can](/post/can/) [find](/post/find/) [food](/post/food/) [from](/post/from/) [around](/post/around/) [the](/post/the/) [world](/post/world/)."
+- "Let's [meet](/post/meet/) [at](/post/at/) [the](/post/the/) [cafeteria](/post/cafeteria/) [after](/post/after/) [class](/post/class/) [and](/post/and/) [discuss](/post/discuss/) [our](/post/our/) [project](/post/project/)."
 
 ## 同义词
-- Canteen
-- Dining hall
-- Coffee shop
+- [Canteen](/post/canteen/)
+- Dining [hall](/post/hall/)
+- [Coffee](/post/coffee/) [shop](/post/shop/)
 - Bistro
-- Snack bar
+- Snack [bar](/post/bar/)

@@ -7,44 +7,44 @@ description = '[waid] a.宽阔的 ad.全部地'
 keywords = ['ai words', 'wide']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /waɪd/
 
 ## Definitions
-### Noun
-1. **Adjective**: Having a broad extent or scope; extensive; spacious. For example: "The field was wide and open."
-2. **Adjective**: Widely known or recognized; popular. For example: "The band's music has a wide appeal."
-3. **Noun**: The width of something; measurement from side to side. For example: "The river was over 50 feet wide."
-4. **Noun**: A broad expanse; vista. For example: "She enjoyed the wide view from the mountain top."
+### [Noun](/en/post/noun/)
+1. **[Adjective](/en/post/adjective/)**: Having [a](/en/post/a/) [broad](/en/post/broad/) [extent](/en/post/extent/) [or](/en/post/or/) [scope](/en/post/scope/); [extensive](/en/post/extensive/); spacious. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [field](/en/post/field/) was [wide](/en/post/wide/) [and](/en/post/and/) [open](/en/post/open/)."
+2. **[Adjective](/en/post/adjective/)**: [Widely](/en/post/widely/) known [or](/en/post/or/) recognized; [popular](/en/post/popular/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) band's [music](/en/post/music/) has [a](/en/post/a/) [wide](/en/post/wide/) [appeal](/en/post/appeal/)."
+3. **[Noun](/en/post/noun/)**: [The](/en/post/the/) [width](/en/post/width/) [of](/en/post/of/) [something](/en/post/something/); [measurement](/en/post/measurement/) [from](/en/post/from/) [side](/en/post/side/) [to](/en/post/to/) [side](/en/post/side/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [river](/en/post/river/) was [over](/en/post/over/) 50 feet [wide](/en/post/wide/)."
+4. **[Noun](/en/post/noun/)**: [A](/en/post/a/) [broad](/en/post/broad/) expanse; vista. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) enjoyed [the](/en/post/the/) [wide](/en/post/wide/) [view](/en/post/view/) [from](/en/post/from/) [the](/en/post/the/) [mountain](/en/post/mountain/) [top](/en/post/top/)."
 
-### Verb
-To expand or become more extensive; spread out. For example: "The crowd widened the path as they moved."
+### [Verb](/en/post/verb/)
+[To](/en/post/to/) [expand](/en/post/expand/) [or](/en/post/or/) [become](/en/post/become/) [more](/en/post/more/) [extensive](/en/post/extensive/); [spread](/en/post/spread/) [out](/en/post/out/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [crowd](/en/post/crowd/) widened [the](/en/post/the/) [path](/en/post/path/) [as](/en/post/as/) [they](/en/post/they/) moved."
 
-### Adverb
-In a wide manner; broadly. For example: "He swung his arms wide to emphasize his point."
+### [Adverb](/en/post/adverb/)
+[In](/en/post/in/) [a](/en/post/a/) [wide](/en/post/wide/) [manner](/en/post/manner/); broadly. [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) swung [his](/en/post/his/) arms [wide](/en/post/wide/) [to](/en/post/to/) [emphasize](/en/post/emphasize/) [his](/en/post/his/) [point](/en/post/point/)."
 
 ## Phrases
-- "A wide berth" means to give someone plenty of space or avoid confrontation.
-- "A wide range" indicates a large variety or spectrum.
-- "Wide-eyed wonder" describes a state of amazement or surprise.
+- "[A](/en/post/a/) [wide](/en/post/wide/) berth" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) [someone](/en/post/someone/) [plenty](/en/post/plenty/) [of](/en/post/of/) [space](/en/post/space/) [or](/en/post/or/) [avoid](/en/post/avoid/) confrontation.
+- "[A](/en/post/a/) [wide](/en/post/wide/) [range](/en/post/range/)" indicates [a](/en/post/a/) [large](/en/post/large/) [variety](/en/post/variety/) [or](/en/post/or/) spectrum.
+- "Wide-eyed [wonder](/en/post/wonder/)" describes [a](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) amazement [or](/en/post/or/) [surprise](/en/post/surprise/).
 
-## Example Sentences
-- **Noun**: "The children ran across the wide field, laughing and playing."
-- **Verb**: "The artist's brushstrokes were so wide that they filled the canvas."
-- **Adverb**: "She gave a wide smile when she saw her friends."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children ran [across](/en/post/across/) [the](/en/post/the/) [wide](/en/post/wide/) [field](/en/post/field/), laughing [and](/en/post/and/) playing."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) artist's brushstrokes were [so](/en/post/so/) [wide](/en/post/wide/) [that](/en/post/that/) [they](/en/post/they/) filled [the](/en/post/the/) [canvas](/en/post/canvas/)."
+- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) gave [a](/en/post/a/) [wide](/en/post/wide/) [smile](/en/post/smile/) [when](/en/post/when/) [she](/en/post/she/) [saw](/en/post/saw/) [her](/en/post/her/) friends."
 
 ## Synonyms
-- Broad
-- Extensive
+- [Broad](/en/post/broad/)
+- [Extensive](/en/post/extensive/)
 - Broadly
 - Far-reaching
 - Breathtaking
-- Vast
+- [Vast](/en/post/vast/)
 
 ## Antonyms
-- Narrow
+- [Narrow](/en/post/narrow/)
 - Constricted
 - Restricted
-- Limited
-- Intimate
-- Tight
+- [Limited](/en/post/limited/)
+- [Intimate](/en/post/intimate/)
+- [Tight](/en/post/tight/)

@@ -19,17 +19,17 @@ keywords = ['ai words', 'terminal']
    - 末端的，终结的：位于系统或过程末端的；不能进一步扩展或发展的。
 
 ## 短语
-- "Terminal building" 指机场或火车站的旅客大楼。
-- "Terminal illness" 指无法治愈且可能导致死亡的疾病。
-- "Terminal velocity" 是物体自由下落时达到的稳定速度。
+- "[Terminal](/post/terminal/) [building](/post/building/)" 指机场或火车站的旅客大楼。
+- "[Terminal](/post/terminal/) [illness](/post/illness/)" 指无法治愈且可能导致死亡的疾病。
+- "[Terminal](/post/terminal/) [velocity](/post/velocity/)" 是物体自由下落时达到的稳定速度。
 
 ## 例句
-- 名词: "He logged in to the server from a remote terminal."
-- 形容词: "The patient was diagnosed with a terminal cancer."
+- 名词: "[He](/post/he/) logged [in](/post/in/) [to](/post/to/) [the](/post/the/) server [from](/post/from/) [a](/post/a/) [remote](/post/remote/) [terminal](/post/terminal/)."
+- 形容词: "[The](/post/the/) [patient](/post/patient/) was diagnosed [with](/post/with/) [a](/post/a/) [terminal](/post/terminal/) [cancer](/post/cancer/)."
 
 ## 同义词
-- End
-- Conclusion
+- [End](/post/end/)
+- [Conclusion](/post/conclusion/)
 - Terminus
-- Finish
-- Close
+- [Finish](/post/finish/)
+- [Close](/post/close/)

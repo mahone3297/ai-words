@@ -11,21 +11,21 @@ keywords = ['ai words', 'lawn']
 /laʊn/
 
 ## 释义
-- **名词**: 一块修剪整齐的草地，通常在住宅区或公园里。例如: "The kids were playing soccer on the lawn in front of the house."
-- **动词**: （尤指定期）割草以保持草坪整洁。例如: "I need to lawn the garden this weekend."
+- **名词**: 一块修剪整齐的草地，通常在住宅区或公园里。例如: "[The](/post/the/) kids were playing [soccer](/post/soccer/) [on](/post/on/) [the](/post/the/) [lawn](/post/lawn/) [in](/post/in/) [front](/post/front/) [of](/post/of/) [the](/post/the/) [house](/post/house/)."
+- **动词**: （尤指定期）割草以保持草坪整洁。例如: "I [need](/post/need/) [to](/post/to/) [lawn](/post/lawn/) [the](/post/the/) [garden](/post/garden/) [this](/post/this/) [weekend](/post/weekend/)."
 
 ## 短语
-- "mow the lawn" 割草，修剪草坪。
-- "picnic on the lawn" 在草地上野餐。
-- "lawn party" 草坪聚会。
+- "mow [the](/post/the/) [lawn](/post/lawn/)" 割草，修剪草坪。
+- "[picnic](/post/picnic/) [on](/post/on/) [the](/post/the/) [lawn](/post/lawn/)" 在草地上野餐。
+- "[lawn](/post/lawn/) [party](/post/party/)" 草坪聚会。
 
 ## 例句
-- 名词: "She loved sitting on the cool lawn on a hot summer day."
-- 动词: "He spends every Saturday morning lawn-ing his large backyard."
+- 名词: "[She](/post/she/) loved sitting [on](/post/on/) [the](/post/the/) [cool](/post/cool/) [lawn](/post/lawn/) [on](/post/on/) [a](/post/a/) [hot](/post/hot/) [summer](/post/summer/) [day](/post/day/)."
+- 动词: "[He](/post/he/) spends [every](/post/every/) Saturday [morning](/post/morning/) lawn-ing [his](/post/his/) [large](/post/large/) backyard."
 
 ## 同义词
-- grassy area
-- green
-- yard
-- garden
-- playing field
+- grassy [area](/post/area/)
+- [green](/post/green/)
+- [yard](/post/yard/)
+- [garden](/post/garden/)
+- playing [field](/post/field/)

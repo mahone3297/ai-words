@@ -11,20 +11,20 @@ keywords = ['ai words', 'sunny']
 /sʌni/
 
 ## 释义
-- **形容词**: 阳光明媚的，晴朗的。例如: "It's a sunny day, perfect for a picnic."
-- **名词**: 指人性格开朗，快乐的人。例如: "She has a sunny disposition, always smiling and positive."
+- **形容词**: 阳光明媚的，晴朗的。例如: "It's [a](/post/a/) [sunny](/post/sunny/) [day](/post/day/), [perfect](/post/perfect/) [for](/post/for/) [a](/post/a/) [picnic](/post/picnic/)."
+- **名词**: 指人性格开朗，快乐的人。例如: "[She](/post/she/) has [a](/post/a/) [sunny](/post/sunny/) disposition, [always](/post/always/) smiling [and](/post/and/) [positive](/post/positive/)."
 
 ## 短语
-- "sunny skies" 指晴朗的天空。
-- "sunny side up" 是指煎蛋的一种方式，蛋黄朝上，蛋白未完全凝固。
+- "[sunny](/post/sunny/) skies" 指晴朗的天空。
+- "[sunny](/post/sunny/) [side](/post/side/) [up](/post/up/)" 是指煎蛋的一种方式，蛋黄朝上，蛋白未完全凝固。
 
 ## 例句
-- 形容词: "The weather forecast predicts sunny days for the rest of the week."
-- 名词: "She's a sunny person who always brings joy to others."
+- 形容词: "[The](/post/the/) [weather](/post/weather/) [forecast](/post/forecast/) predicts [sunny](/post/sunny/) days [for](/post/for/) [the](/post/the/) [rest](/post/rest/) [of](/post/of/) [the](/post/the/) [week](/post/week/)."
+- 名词: "She's [a](/post/a/) [sunny](/post/sunny/) [person](/post/person/) [who](/post/who/) [always](/post/always/) brings [joy](/post/joy/) [to](/post/to/) others."
 
 ## 同义词
-- Bright
-- Sunny-side up (仅限名词用法，形容鸡蛋)
-- Clear
+- [Bright](/post/bright/)
+- Sunny-side [up](/post/up/) (仅限名词用法，形容鸡蛋)
+- [Clear](/post/clear/)
 - Radiant
-- Cheerful
+- [Cheerful](/post/cheerful/)

@@ -7,29 +7,29 @@ description = '[iˈkwip] vt.装备，配备'
 keywords = ['ai words', 'equip']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ɪˈkwɪp/
 
 ## Definitions
-- **Verb**: (transitive) To furnish or supply with whatever is necessary for a specific purpose; to provide with tools, weapons, equipment, skills, or other requisites. Example: "The expedition was well-equipped for the journey ahead."
-- **Verb**: (intransitive) To get oneself ready or prepared, often with reference to a particular activity or situation. Example: "Before hiking, we need to equip ourselves with proper boots and jackets."
-- **Noun**: The act of equipping or the state of being equipped; also, the things provided or used for a particular purpose. Example: "Modern technology has greatly improved the equipment on offer."
+- **[Verb](/en/post/verb/)**: (transitive) [To](/en/post/to/) [furnish](/en/post/furnish/) [or](/en/post/or/) [supply](/en/post/supply/) [with](/en/post/with/) [whatever](/en/post/whatever/) is [necessary](/en/post/necessary/) [for](/en/post/for/) [a](/en/post/a/) [specific](/en/post/specific/) [purpose](/en/post/purpose/); [to](/en/post/to/) [provide](/en/post/provide/) [with](/en/post/with/) tools, weapons, [equipment](/en/post/equipment/), skills, [or](/en/post/or/) [other](/en/post/other/) requisites. [Example](/en/post/example/): "[The](/en/post/the/) expedition was well-equipped [for](/en/post/for/) [the](/en/post/the/) [journey](/en/post/journey/) [ahead](/en/post/ahead/)."
+- **[Verb](/en/post/verb/)**: (intransitive) [To](/en/post/to/) [get](/en/post/get/) [oneself](/en/post/oneself/) [ready](/en/post/ready/) [or](/en/post/or/) prepared, [often](/en/post/often/) [with](/en/post/with/) [reference](/en/post/reference/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [activity](/en/post/activity/) [or](/en/post/or/) [situation](/en/post/situation/). [Example](/en/post/example/): "[Before](/en/post/before/) hiking, [we](/en/post/we/) [need](/en/post/need/) [to](/en/post/to/) [equip](/en/post/equip/) [ourselves](/en/post/ourselves/) [with](/en/post/with/) [proper](/en/post/proper/) boots [and](/en/post/and/) jackets."
+- **[Noun](/en/post/noun/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) equipping [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) equipped; [also](/en/post/also/), [the](/en/post/the/) things [provided](/en/post/provided/) [or](/en/post/or/) [used](/en/post/used/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/). [Example](/en/post/example/): "[Modern](/en/post/modern/) [technology](/en/post/technology/) has [greatly](/en/post/greatly/) improved [the](/en/post/the/) [equipment](/en/post/equipment/) [on](/en/post/on/) [offer](/en/post/offer/)."
 
 ## Phrases
-- "Equip with": To provide something with necessary items or tools. Example: "The ship was equipped with advanced navigation systems."
-- "Be equipped for": To be ready or prepared for something. Example: "Thanks to her extensive training, she was fully equipped for the marathon."
+- "[Equip](/en/post/equip/) [with](/en/post/with/)": [To](/en/post/to/) [provide](/en/post/provide/) [something](/en/post/something/) [with](/en/post/with/) [necessary](/en/post/necessary/) items [or](/en/post/or/) tools. [Example](/en/post/example/): "[The](/en/post/the/) [ship](/en/post/ship/) was equipped [with](/en/post/with/) [advanced](/en/post/advanced/) [navigation](/en/post/navigation/) systems."
+- "[Be](/en/post/be/) equipped [for](/en/post/for/)": [To](/en/post/to/) [be](/en/post/be/) [ready](/en/post/ready/) [or](/en/post/or/) prepared [for](/en/post/for/) [something](/en/post/something/). [Example](/en/post/example/): "Thanks [to](/en/post/to/) [her](/en/post/her/) [extensive](/en/post/extensive/) [training](/en/post/training/), [she](/en/post/she/) was fully equipped [for](/en/post/for/) [the](/en/post/the/) marathon."
 
-## Example Sentences
-- **Verb (transitive)**: "The school is equipping its science labs with new microscopes."
-- **Verb (intransitive)**: "The soldiers spent weeks equipping themselves for the upcoming mission."
-- **Noun**: "A lack of proper equipment can hinder any project's success."
+## [Example](/en/post/example/) Sentences
+- **[Verb](/en/post/verb/) (transitive)**: "[The](/en/post/the/) [school](/en/post/school/) is equipping [its](/en/post/its/) [science](/en/post/science/) labs [with](/en/post/with/) [new](/en/post/new/) microscopes."
+- **[Verb](/en/post/verb/) (intransitive)**: "[The](/en/post/the/) soldiers spent weeks equipping [themselves](/en/post/themselves/) [for](/en/post/for/) [the](/en/post/the/) upcoming [mission](/en/post/mission/)."
+- **[Noun](/en/post/noun/)**: "[A](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [proper](/en/post/proper/) [equipment](/en/post/equipment/) [can](/en/post/can/) hinder [any](/en/post/any/) project's [success](/en/post/success/)."
 
 ## Synonyms
-- Outfit (with)
-- Furnish
-- Supply
-- Arm (for military contexts)
-- Prepare
-- Provision
-- Fit (out)
-- Equipage (noun - referring to the collection of equipment or gear)
+- Outfit ([with](/en/post/with/))
+- [Furnish](/en/post/furnish/)
+- [Supply](/en/post/supply/)
+- [Arm](/en/post/arm/) ([for](/en/post/for/) [military](/en/post/military/) contexts)
+- [Prepare](/en/post/prepare/)
+- [Provision](/en/post/provision/)
+- [Fit](/en/post/fit/) ([out](/en/post/out/))
+- Equipage ([noun](/en/post/noun/) - referring [to](/en/post/to/) [the](/en/post/the/) [collection](/en/post/collection/) [of](/en/post/of/) [equipment](/en/post/equipment/) [or](/en/post/or/) gear)

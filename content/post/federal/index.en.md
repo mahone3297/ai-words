@@ -7,35 +7,35 @@ description = '[ˈfedərəl] a.联邦的；联盟的'
 keywords = ['ai words', 'federal']
 +++
 
-## Word: Federal
+## [Word](/en/post/word/): [Federal](/en/post/federal/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈfedərəl/
 
 ## Definitions
-- **Adjective**: Relating to or denoting a form of government in which powers are divided between a central authority and constituent political units. For example: "The federal government has the power to regulate commerce among the states."
-  - _Example Sentence_: "Canada has a federal system where power is shared between the national government and provincial governments."
+- **[Adjective](/en/post/adjective/)**: Relating [to](/en/post/to/) [or](/en/post/or/) denoting [a](/en/post/a/) [form](/en/post/form/) [of](/en/post/of/) [government](/en/post/government/) [in](/en/post/in/) [which](/en/post/which/) powers are divided [between](/en/post/between/) [a](/en/post/a/) [central](/en/post/central/) [authority](/en/post/authority/) [and](/en/post/and/) constituent [political](/en/post/political/) units. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [federal](/en/post/federal/) [government](/en/post/government/) has [the](/en/post/the/) [power](/en/post/power/) [to](/en/post/to/) [regulate](/en/post/regulate/) [commerce](/en/post/commerce/) [among](/en/post/among/) [the](/en/post/the/) states."
+  - _Example Sentence_: "Canada has [a](/en/post/a/) [federal](/en/post/federal/) [system](/en/post/system/) [where](/en/post/where/) [power](/en/post/power/) is shared [between](/en/post/between/) [the](/en/post/the/) [national](/en/post/national/) [government](/en/post/government/) [and](/en/post/and/) provincial governments."
   
-- **Noun**: A federalist; a supporter of federalism, or a federal system of government. For example: "During the formation of the United States, many influential figures were strong proponents of federalism."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) federalist; [a](/en/post/a/) supporter [of](/en/post/of/) federalism, [or](/en/post/or/) [a](/en/post/a/) [federal](/en/post/federal/) [system](/en/post/system/) [of](/en/post/of/) [government](/en/post/government/). [For](/en/post/for/) [example](/en/post/example/): "[During](/en/post/during/) [the](/en/post/the/) [formation](/en/post/formation/) [of](/en/post/of/) [the](/en/post/the/) United States, [many](/en/post/many/) [influential](/en/post/influential/) figures were [strong](/en/post/strong/) proponents [of](/en/post/of/) federalism."
 
-- **Adjective (in compounds)**: Denoting something that belongs or relates to a federation or union, especially the United States of America. For example: "Federal law takes precedence over state laws."
+- **[Adjective](/en/post/adjective/) ([in](/en/post/in/) compounds)**: Denoting [something](/en/post/something/) [that](/en/post/that/) belongs [or](/en/post/or/) relates [to](/en/post/to/) [a](/en/post/a/) federation [or](/en/post/or/) [union](/en/post/union/), [especially](/en/post/especially/) [the](/en/post/the/) United States [of](/en/post/of/) [America](/en/post/america/). [For](/en/post/for/) [example](/en/post/example/): "[Federal](/en/post/federal/) [law](/en/post/law/) takes precedence [over](/en/post/over/) [state](/en/post/state/) laws."
 
 ## Phrases
-- "Federal government": The national government of a federation, as distinct from the governments of its member states.
-- "Federal court": A court established by the U.S. Constitution or Congress with jurisdiction over issues specified by federal law.
-- "Federal reserve": The central banking system of the United States.
+- "[Federal](/en/post/federal/) [government](/en/post/government/)": [The](/en/post/the/) [national](/en/post/national/) [government](/en/post/government/) [of](/en/post/of/) [a](/en/post/a/) federation, [as](/en/post/as/) [distinct](/en/post/distinct/) [from](/en/post/from/) [the](/en/post/the/) governments [of](/en/post/of/) [its](/en/post/its/) [member](/en/post/member/) states.
+- "[Federal](/en/post/federal/) [court](/en/post/court/)": [A](/en/post/a/) [court](/en/post/court/) established [by](/en/post/by/) [the](/en/post/the/) U.S. [Constitution](/en/post/constitution/) [or](/en/post/or/) [Congress](/en/post/congress/) [with](/en/post/with/) jurisdiction [over](/en/post/over/) issues specified [by](/en/post/by/) [federal](/en/post/federal/) [law](/en/post/law/).
+- "[Federal](/en/post/federal/) [reserve](/en/post/reserve/)": [The](/en/post/the/) [central](/en/post/central/) banking [system](/en/post/system/) [of](/en/post/of/) [the](/en/post/the/) United States.
 
-## Example Sentences
-- **Adjective**: "The federal budget allocates funds for various projects across the country."
-- **Noun**: "He was a staunch federal who believed in a strong centralized government."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [federal](/en/post/federal/) budget allocates funds [for](/en/post/for/) [various](/en/post/various/) projects [across](/en/post/across/) [the](/en/post/the/) [country](/en/post/country/)."
+- **[Noun](/en/post/noun/)**: "[He](/en/post/he/) was [a](/en/post/a/) staunch [federal](/en/post/federal/) [who](/en/post/who/) believed [in](/en/post/in/) [a](/en/post/a/) [strong](/en/post/strong/) centralized [government](/en/post/government/)."
 
 ## Synonyms
-- National (in the context of government)
-- Central (when referring to government bodies)
-- Unionized (in the context of a federation) 
+- [National](/en/post/national/) ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [government](/en/post/government/))
+- [Central](/en/post/central/) ([when](/en/post/when/) referring [to](/en/post/to/) [government](/en/post/government/) bodies)
+- Unionized ([in](/en/post/in/) [the](/en/post/the/) context [of](/en/post/of/) [a](/en/post/a/) federation) 
 
 Antonyms:
-- State (referring to state-level government as opposed to national/federal)
-- Local (for local government as opposed to federal) 
+- [State](/en/post/state/) (referring [to](/en/post/to/) state-level [government](/en/post/government/) [as](/en/post/as/) opposed [to](/en/post/to/) [national](/en/post/national/)/[federal](/en/post/federal/))
+- [Local](/en/post/local/) ([for](/en/post/for/) [local](/en/post/local/) [government](/en/post/government/) [as](/en/post/as/) opposed [to](/en/post/to/) [federal](/en/post/federal/)) 
 
-Note: The usage of "federal" can vary based on context, but it predominantly functions as an adjective describing systems, policies, or entities associated with a federal form of governance.
+[Note](/en/post/note/): [The](/en/post/the/) [usage](/en/post/usage/) [of](/en/post/of/) "[federal](/en/post/federal/)" [can](/en/post/can/) [vary](/en/post/vary/) based [on](/en/post/on/) context, [but](/en/post/but/) [it](/en/post/it/) predominantly functions [as](/en/post/as/) an [adjective](/en/post/adjective/) describing systems, policies, [or](/en/post/or/) entities associated [with](/en/post/with/) [a](/en/post/a/) [federal](/en/post/federal/) [form](/en/post/form/) [of](/en/post/of/) governance.

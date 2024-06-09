@@ -7,29 +7,29 @@ description = '[ˈlaiəbl] a.易于…的；可能的'
 keywords = ['ai words', 'liable']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈlaɪəbl/
 
 ## Definitions
-- **Adjective**: (liable for something) Legally responsible for something, especially a debt or damages; accountable. For example: "The company is liable for any defects in their products."
-- **Adjective**: (liable to do something) Likely or apt to do something, often something negative or undesirable. For example: "Drivers are liable to get lost without a map."
-- **Adjective**: (liable for something happening) Exposed to the chance of something unpleasant or detrimental happening. For example: "Elderly people are more liable to catch colds in winter."
+- **[Adjective](/en/post/adjective/)**: ([liable](/en/post/liable/) [for](/en/post/for/) [something](/en/post/something/)) Legally [responsible](/en/post/responsible/) [for](/en/post/for/) [something](/en/post/something/), [especially](/en/post/especially/) [a](/en/post/a/) [debt](/en/post/debt/) [or](/en/post/or/) damages; accountable. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is [liable](/en/post/liable/) [for](/en/post/for/) [any](/en/post/any/) defects [in](/en/post/in/) [their](/en/post/their/) products."
+- **[Adjective](/en/post/adjective/)**: ([liable](/en/post/liable/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/)) [Likely](/en/post/likely/) [or](/en/post/or/) apt [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/), [often](/en/post/often/) [something](/en/post/something/) [negative](/en/post/negative/) [or](/en/post/or/) undesirable. [For](/en/post/for/) [example](/en/post/example/): "Drivers are [liable](/en/post/liable/) [to](/en/post/to/) [get](/en/post/get/) lost [without](/en/post/without/) [a](/en/post/a/) [map](/en/post/map/)."
+- **[Adjective](/en/post/adjective/)**: ([liable](/en/post/liable/) [for](/en/post/for/) [something](/en/post/something/) happening) Exposed [to](/en/post/to/) [the](/en/post/the/) [chance](/en/post/chance/) [of](/en/post/of/) [something](/en/post/something/) [unpleasant](/en/post/unpleasant/) [or](/en/post/or/) detrimental happening. [For](/en/post/for/) [example](/en/post/example/): "Elderly [people](/en/post/people/) are [more](/en/post/more/) [liable](/en/post/liable/) [to](/en/post/to/) [catch](/en/post/catch/) colds [in](/en/post/in/) [winter](/en/post/winter/)."
 
 ## Phrases
-- "Be liable for": To have the legal responsibility or potential to incur something. Example: "He will be liable for any damage caused by his pet."
-- "Liable to happen": Indicating that something has a strong tendency or likelihood of occurring. Example: "In such conditions, accidents are liable to happen."
+- "[Be](/en/post/be/) [liable](/en/post/liable/) [for](/en/post/for/)": [To](/en/post/to/) [have](/en/post/have/) [the](/en/post/the/) [legal](/en/post/legal/) [responsibility](/en/post/responsibility/) [or](/en/post/or/) [potential](/en/post/potential/) [to](/en/post/to/) incur [something](/en/post/something/). [Example](/en/post/example/): "[He](/en/post/he/) [will](/en/post/will/) [be](/en/post/be/) [liable](/en/post/liable/) [for](/en/post/for/) [any](/en/post/any/) [damage](/en/post/damage/) caused [by](/en/post/by/) [his](/en/post/his/) [pet](/en/post/pet/)."
+- "[Liable](/en/post/liable/) [to](/en/post/to/) [happen](/en/post/happen/)": Indicating [that](/en/post/that/) [something](/en/post/something/) has [a](/en/post/a/) [strong](/en/post/strong/) [tendency](/en/post/tendency/) [or](/en/post/or/) likelihood [of](/en/post/of/) occurring. [Example](/en/post/example/): "[In](/en/post/in/) [such](/en/post/such/) conditions, accidents are [liable](/en/post/liable/) [to](/en/post/to/) [happen](/en/post/happen/)."
 
-## Example Sentences
-- **Adjective (legal responsibility)**: "If you sign this contract, you will be personally liable for the rent payments."
-- **Adjective (likely to do something)**: "Teenagers are liable to experiment with new things during their formative years."
-- **Adjective (exposure to risk)**: "People with weakened immune systems are more liable to develop complications from the flu."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/) ([legal](/en/post/legal/) [responsibility](/en/post/responsibility/))**: "[If](/en/post/if/) [you](/en/post/you/) [sign](/en/post/sign/) [this](/en/post/this/) [contract](/en/post/contract/), [you](/en/post/you/) [will](/en/post/will/) [be](/en/post/be/) personally [liable](/en/post/liable/) [for](/en/post/for/) [the](/en/post/the/) [rent](/en/post/rent/) payments."
+- **[Adjective](/en/post/adjective/) ([likely](/en/post/likely/) [to](/en/post/to/) [do](/en/post/do/) [something](/en/post/something/))**: "Teenagers are [liable](/en/post/liable/) [to](/en/post/to/) [experiment](/en/post/experiment/) [with](/en/post/with/) [new](/en/post/new/) things [during](/en/post/during/) [their](/en/post/their/) formative years."
+- **[Adjective](/en/post/adjective/) ([exposure](/en/post/exposure/) [to](/en/post/to/) [risk](/en/post/risk/))**: "[People](/en/post/people/) [with](/en/post/with/) weakened immune systems are [more](/en/post/more/) [liable](/en/post/liable/) [to](/en/post/to/) [develop](/en/post/develop/) complications [from](/en/post/from/) [the](/en/post/the/) [flu](/en/post/flu/)."
 
 ## Synonyms
-- Responsible
+- [Responsible](/en/post/responsible/)
 - Accountable
 - Obliged
-- Bound
-- Subject (to)
+- [Bound](/en/post/bound/)
+- [Subject](/en/post/subject/) ([to](/en/post/to/))
 - Prone
 - Susceptible
 - Vulnerable

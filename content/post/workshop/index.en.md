@@ -7,51 +7,51 @@ description = '[ˈwəːk∫ɔp] n.车间，工场；创作室'
 keywords = ['ai words', 'workshop']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /workˈʃɒp/
 
 ## Definitions
-### Noun
-1. **A workshop** (n): A place where people, especially craftspeople or artists, work on projects or learn new skills, often in a group setting.
-   - Definition: An informal or specialized training session or seminar, usually focused on a specific topic or activity.
-   - Example: "The woodworking workshop was filled with the sound of sawing and hammering."
+### [Noun](/en/post/noun/)
+1. **[A](/en/post/a/) [workshop](/en/post/workshop/)** (n): [A](/en/post/a/) [place](/en/post/place/) [where](/en/post/where/) [people](/en/post/people/), [especially](/en/post/especially/) craftspeople [or](/en/post/or/) artists, [work](/en/post/work/) [on](/en/post/on/) projects [or](/en/post/or/) [learn](/en/post/learn/) [new](/en/post/new/) skills, [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [group](/en/post/group/) [setting](/en/post/setting/).
+   - [Definition](/en/post/definition/): An informal [or](/en/post/or/) specialized [training](/en/post/training/) [session](/en/post/session/) [or](/en/post/or/) seminar, [usually](/en/post/usually/) focused [on](/en/post/on/) [a](/en/post/a/) [specific](/en/post/specific/) [topic](/en/post/topic/) [or](/en/post/or/) [activity](/en/post/activity/).
+   - [Example](/en/post/example/): "[The](/en/post/the/) woodworking [workshop](/en/post/workshop/) was filled [with](/en/post/with/) [the](/en/post/the/) [sound](/en/post/sound/) [of](/en/post/of/) sawing [and](/en/post/and/) hammering."
 
-2. **Workshop event** (n): A gathering or meeting where participants collaborate, share ideas, or develop solutions.
-   - Definition: A forum for hands-on learning or problem-solving in a professional context.
-   - Example: "The marketing workshop helped small business owners improve their digital strategies."
+2. **[Workshop](/en/post/workshop/) [event](/en/post/event/)** (n): [A](/en/post/a/) gathering [or](/en/post/or/) [meeting](/en/post/meeting/) [where](/en/post/where/) participants collaborate, [share](/en/post/share/) ideas, [or](/en/post/or/) [develop](/en/post/develop/) solutions.
+   - [Definition](/en/post/definition/): [A](/en/post/a/) forum [for](/en/post/for/) hands-on [learning](/en/post/learning/) [or](/en/post/or/) problem-solving [in](/en/post/in/) [a](/en/post/a/) [professional](/en/post/professional/) context.
+   - [Example](/en/post/example/): "[The](/en/post/the/) marketing [workshop](/en/post/workshop/) helped [small](/en/post/small/) [business](/en/post/business/) owners [improve](/en/post/improve/) [their](/en/post/their/) [digital](/en/post/digital/) strategies."
 
-### Verb
-1. **To attend a workshop** (v): To participate in a workshop, usually as a learner or participant.
-   - Definition: Engage in a structured activity for learning or skill development.
-   - Example: "I'll be attending a photography workshop next weekend."
+### [Verb](/en/post/verb/)
+1. **[To](/en/post/to/) [attend](/en/post/attend/) [a](/en/post/a/) [workshop](/en/post/workshop/)** (v): [To](/en/post/to/) [participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [workshop](/en/post/workshop/), [usually](/en/post/usually/) [as](/en/post/as/) [a](/en/post/a/) learner [or](/en/post/or/) participant.
+   - [Definition](/en/post/definition/): [Engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) structured [activity](/en/post/activity/) [for](/en/post/for/) [learning](/en/post/learning/) [or](/en/post/or/) [skill](/en/post/skill/) [development](/en/post/development/).
+   - [Example](/en/post/example/): "I'll [be](/en/post/be/) attending [a](/en/post/a/) photography [workshop](/en/post/workshop/) [next](/en/post/next/) [weekend](/en/post/weekend/)."
 
-2. **To run a workshop** (v): To organize and facilitate a workshop, often as an instructor or facilitator.
-   - Definition: Lead or coordinate a session to teach or guide others.
-   - Example: "She's running a writing workshop at the local library."
+2. **[To](/en/post/to/) [run](/en/post/run/) [a](/en/post/a/) [workshop](/en/post/workshop/)** (v): [To](/en/post/to/) [organize](/en/post/organize/) [and](/en/post/and/) facilitate [a](/en/post/a/) [workshop](/en/post/workshop/), [often](/en/post/often/) [as](/en/post/as/) an instructor [or](/en/post/or/) facilitator.
+   - [Definition](/en/post/definition/): [Lead](/en/post/lead/) [or](/en/post/or/) [coordinate](/en/post/coordinate/) [a](/en/post/a/) [session](/en/post/session/) [to](/en/post/to/) [teach](/en/post/teach/) [or](/en/post/or/) [guide](/en/post/guide/) others.
+   - [Example](/en/post/example/): "She's running [a](/en/post/a/) [writing](/en/post/writing/) [workshop](/en/post/workshop/) [at](/en/post/at/) [the](/en/post/the/) [local](/en/post/local/) [library](/en/post/library/)."
 
-### Adjective
-1. **Workshop-based** (adj): Relating to or characterized by workshops or activities conducted in a workshop setting.
-   - Definition: Focused on practical exercises or hands-on learning.
-   - Example: "The workshop-based training program has been very effective."
+### [Adjective](/en/post/adjective/)
+1. **Workshop-based** (adj): Relating [to](/en/post/to/) [or](/en/post/or/) characterized [by](/en/post/by/) workshops [or](/en/post/or/) activities conducted [in](/en/post/in/) [a](/en/post/a/) [workshop](/en/post/workshop/) [setting](/en/post/setting/).
+   - [Definition](/en/post/definition/): Focused [on](/en/post/on/) [practical](/en/post/practical/) exercises [or](/en/post/or/) hands-on [learning](/en/post/learning/).
+   - [Example](/en/post/example/): "[The](/en/post/the/) workshop-based [training](/en/post/training/) [program](/en/post/program/) has been [very](/en/post/very/) [effective](/en/post/effective/)."
 
 ## Phrases
-- "Attend a workshop on X" refers to participating in a focused session on a particular subject.
-- "Run a DIY workshop" describes a self-guided or hands-on activity.
-- "Community workshop series" denotes a series of workshops open to the public.
+- "[Attend](/en/post/attend/) [a](/en/post/a/) [workshop](/en/post/workshop/) [on](/en/post/on/) X" refers [to](/en/post/to/) participating [in](/en/post/in/) [a](/en/post/a/) focused [session](/en/post/session/) [on](/en/post/on/) [a](/en/post/a/) [particular](/en/post/particular/) [subject](/en/post/subject/).
+- "[Run](/en/post/run/) [a](/en/post/a/) DIY [workshop](/en/post/workshop/)" describes [a](/en/post/a/) self-guided [or](/en/post/or/) hands-on [activity](/en/post/activity/).
+- "[Community](/en/post/community/) [workshop](/en/post/workshop/) [series](/en/post/series/)" denotes [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) workshops [open](/en/post/open/) [to](/en/post/to/) [the](/en/post/the/) [public](/en/post/public/).
 
-## Example Sentences
-- **Noun**: "The art school offers a variety of workshops on painting techniques."
-- **Verb**: "He led a workshop on public speaking to a group of aspiring entrepreneurs."
-- **Adjective**: "The company's workshop-based training improved employee productivity."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [art](/en/post/art/) [school](/en/post/school/) offers [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) workshops [on](/en/post/on/) [painting](/en/post/painting/) techniques."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) led [a](/en/post/a/) [workshop](/en/post/workshop/) [on](/en/post/on/) [public](/en/post/public/) speaking [to](/en/post/to/) [a](/en/post/a/) [group](/en/post/group/) [of](/en/post/of/) aspiring entrepreneurs."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) company's workshop-based [training](/en/post/training/) improved [employee](/en/post/employee/) productivity."
 
 ## Synonyms
-- Training session
+- [Training](/en/post/training/) [session](/en/post/session/)
 - Seminar
-- Class
+- [Class](/en/post/class/)
 - Tutorial
-- Session
-- Course
+- [Session](/en/post/session/)
+- [Course](/en/post/course/)
 -坊
-- Lab (in a scientific context)
+- [Lab](/en/post/lab/) ([in](/en/post/in/) [a](/en/post/a/) [scientific](/en/post/scientific/) context)
 - Gathering
-- Event (for learning)
+- [Event](/en/post/event/) ([for](/en/post/for/) [learning](/en/post/learning/))

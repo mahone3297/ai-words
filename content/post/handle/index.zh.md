@@ -11,24 +11,24 @@ keywords = ['ai words', 'handle']
 /hændl/
 
 ## 释义
-- **名词**: 1. 手柄，把手。例如: "The pot has a comfortable handle for holding."
-   2. 处理，管理。例如: "He's very good at handling difficult situations."
-- **动词**: 处理，操纵。例如: "She handled the situation with grace and diplomacy."
-- **名词**: 姓名的一部分，通常指姓氏。例如: "His online handle is 'DigitalGuru'."
+- **名词**: 1. 手柄，把手。例如: "[The](/post/the/) [pot](/post/pot/) has [a](/post/a/) [comfortable](/post/comfortable/) [handle](/post/handle/) [for](/post/for/) holding."
+   2. 处理，管理。例如: "He's [very](/post/very/) [good](/post/good/) [at](/post/at/) handling [difficult](/post/difficult/) situations."
+- **动词**: 处理，操纵。例如: "[She](/post/she/) handled [the](/post/the/) [situation](/post/situation/) [with](/post/with/) [grace](/post/grace/) [and](/post/and/) diplomacy."
+- **名词**: 姓名的一部分，通常指姓氏。例如: "[His](/post/his/) online [handle](/post/handle/) is 'DigitalGuru'."
 
 ## 短语
-- "handle with care" 小心处理。
-- "handle money" 管理金钱。
-- "handle a situation" 处理情况。
+- "[handle](/post/handle/) [with](/post/with/) [care](/post/care/)" 小心处理。
+- "[handle](/post/handle/) [money](/post/money/)" 管理金钱。
+- "[handle](/post/handle/) [a](/post/a/) [situation](/post/situation/)" 处理情况。
 
 ## 例句
-- 名词: "She gripped the handle of her suitcase firmly."
-- 动词: "He handled the negotiations between the two companies."
-- 名词（姓名的一部分）: "Her Twitter handle is @JaneDoe."
+- 名词: "[She](/post/she/) gripped [the](/post/the/) [handle](/post/handle/) [of](/post/of/) [her](/post/her/) suitcase firmly."
+- 动词: "[He](/post/he/) handled [the](/post/the/) negotiations [between](/post/between/) [the](/post/the/) [two](/post/two/) companies."
+- 名词（姓名的一部分）: "[Her](/post/her/) Twitter [handle](/post/handle/) is @JaneDoe."
 
 ## 同义词
-- Manage
-- Deal with
-- Control
+- [Manage](/post/manage/)
+- [Deal](/post/deal/) [with](/post/with/)
+- [Control](/post/control/)
 - Tackle
-- Govern
+- [Govern](/post/govern/)

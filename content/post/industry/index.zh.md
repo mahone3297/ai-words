@@ -17,18 +17,18 @@ keywords = ['ai words', 'industry']
     3. **勤劳**: 指人们努力工作和生产的精神或态度。
 
 ## 短语
-- "Industrial revolution" 指的是18世纪末到19世纪初的工业化进程。
-- "Heavy industry" 指的是需要大量资本和能源投入的制造业，如钢铁和化工。
-- "Service industry" 包括提供服务而非实物产品的行业，如金融、旅游和教育。
+- "[Industrial](/post/industrial/) [revolution](/post/revolution/)" 指的是18世纪末到19世纪初的工业化进程。
+- "[Heavy](/post/heavy/) [industry](/post/industry/)" 指的是需要大量资本和能源投入的制造业，如钢铁和化工。
+- "[Service](/post/service/) [industry](/post/industry/)" 包括提供服务而非实物产品的行业，如金融、旅游和教育。
 
 ## 例句
-- 名词: "The growth of the automotive industry has greatly influenced urban development."
-- 名词: "Her father worked in the coal industry for over 30 years."
-- 名词: "The country's economy is based on a mix of agriculture and industry."
+- 名词: "[The](/post/the/) [growth](/post/growth/) [of](/post/of/) [the](/post/the/) automotive [industry](/post/industry/) has [greatly](/post/greatly/) influenced urban [development](/post/development/)."
+- 名词: "[Her](/post/her/) [father](/post/father/) worked [in](/post/in/) [the](/post/the/) [coal](/post/coal/) [industry](/post/industry/) [for](/post/for/) [over](/post/over/) 30 years."
+- 名词: "[The](/post/the/) country's [economy](/post/economy/) is based [on](/post/on/) [a](/post/a/) [mix](/post/mix/) [of](/post/of/) [agriculture](/post/agriculture/) [and](/post/and/) [industry](/post/industry/)."
 
 ## 同义词
 - Manufacturing
-- Production
+- [Production](/post/production/)
 - Enterprise
 - Sector
-- Field
+- [Field](/post/field/)

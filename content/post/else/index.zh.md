@@ -11,20 +11,20 @@ keywords = ['ai words', 'else']
 /els/
 
 ## 释义
-- **形容词**: 其他；别的。例如: "There's no one else in the room." (房间里没有其他人)
-- **副词**: 另外；除此之外。例如: "I have no one else to turn to for help." (我没有其他可以求助的人)
+- **形容词**: 其他；别的。例如: "There's [no](/post/no/) [one](/post/one/) [else](/post/else/) [in](/post/in/) [the](/post/the/) [room](/post/room/)." (房间里没有其他人)
+- **副词**: 另外；除此之外。例如: "I [have](/post/have/) [no](/post/no/) [one](/post/one/) [else](/post/else/) [to](/post/to/) [turn](/post/turn/) [to](/post/to/) [for](/post/for/) [help](/post/help/)." (我没有其他可以求助的人)
 
 ## 短语
-- "Everyone else" 意为所有其他人。
-- "Is there anything else?" 询问是否还有其他事情。
+- "[Everyone](/post/everyone/) [else](/post/else/)" 意为所有其他人。
+- "Is [there](/post/there/) [anything](/post/anything/) [else](/post/else/)?" 询问是否还有其他事情。
 
 ## 例句
-- 形容词: "Do you want some cake? There's none else left." (你想要一些蛋糕吗？没有其他的了)
-- 副词: "I've finished my work; what else should I do?" (我已经完成了我的工作，还有什么别的事情要做吗?)
+- 形容词: "[Do](/post/do/) [you](/post/you/) [want](/post/want/) [some](/post/some/) [cake](/post/cake/)? There's [none](/post/none/) [else](/post/else/) [left](/post/left/)." (你想要一些蛋糕吗？没有其他的了)
+- 副词: "I've finished [my](/post/my/) [work](/post/work/); [what](/post/what/) [else](/post/else/) [should](/post/should/) I [do](/post/do/)?" (我已经完成了我的工作，还有什么别的事情要做吗?)
 
 ## 同义词
-- Other
-- Additional
-- Different
-- More
-- Another
+- [Other](/post/other/)
+- [Additional](/post/additional/)
+- [Different](/post/different/)
+- [More](/post/more/)
+- [Another](/post/another/)

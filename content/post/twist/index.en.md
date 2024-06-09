@@ -7,48 +7,48 @@ description = '[twist] vt.捻；拧 vi.&n.扭弯'
 keywords = ['ai words', 'twist']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /twɪst/
 
 ## Definitions
-### Noun
-1. A turn or bend, especially in a flexible object: "The rope twisted into a knot."
-2. A change or variation from the expected or normal: "The plot took an unexpected twist."
-3. A sudden or unexpected development: "The election result took a surprising twist."
-4. A way or manner of doing something: "Her dance moves had a unique twist."
+### [Noun](/en/post/noun/)
+1. [A](/en/post/a/) [turn](/en/post/turn/) [or](/en/post/or/) [bend](/en/post/bend/), [especially](/en/post/especially/) [in](/en/post/in/) [a](/en/post/a/) [flexible](/en/post/flexible/) [object](/en/post/object/): "[The](/en/post/the/) [rope](/en/post/rope/) twisted [into](/en/post/into/) [a](/en/post/a/) [knot](/en/post/knot/)."
+2. [A](/en/post/a/) [change](/en/post/change/) [or](/en/post/or/) [variation](/en/post/variation/) [from](/en/post/from/) [the](/en/post/the/) expected [or](/en/post/or/) [normal](/en/post/normal/): "[The](/en/post/the/) [plot](/en/post/plot/) took an [unexpected](/en/post/unexpected/) [twist](/en/post/twist/)."
+3. [A](/en/post/a/) [sudden](/en/post/sudden/) [or](/en/post/or/) [unexpected](/en/post/unexpected/) [development](/en/post/development/): "[The](/en/post/the/) [election](/en/post/election/) [result](/en/post/result/) took [a](/en/post/a/) [surprising](/en/post/surprising/) [twist](/en/post/twist/)."
+4. [A](/en/post/a/) [way](/en/post/way/) [or](/en/post/or/) [manner](/en/post/manner/) [of](/en/post/of/) doing [something](/en/post/something/): "[Her](/en/post/her/) [dance](/en/post/dance/) moves had [a](/en/post/a/) [unique](/en/post/unique/) [twist](/en/post/twist/)."
 
-### Verb
-1. To wrap or coiled around something: "She twisted the wire around the doorknob."
-2. To manipulate or alter (a situation, story, or topic) in a particular direction: "He twisted the facts to support his argument."
-3. To contort or move one's body in a specific way: "He twisted his body to reach the high shelf."
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [wrap](/en/post/wrap/) [or](/en/post/or/) coiled [around](/en/post/around/) [something](/en/post/something/): "[She](/en/post/she/) twisted [the](/en/post/the/) [wire](/en/post/wire/) [around](/en/post/around/) [the](/en/post/the/) doorknob."
+2. [To](/en/post/to/) manipulate [or](/en/post/or/) [alter](/en/post/alter/) ([a](/en/post/a/) [situation](/en/post/situation/), [story](/en/post/story/), [or](/en/post/or/) [topic](/en/post/topic/)) [in](/en/post/in/) [a](/en/post/a/) [particular](/en/post/particular/) [direction](/en/post/direction/): "[He](/en/post/he/) twisted [the](/en/post/the/) facts [to](/en/post/to/) [support](/en/post/support/) [his](/en/post/his/) [argument](/en/post/argument/)."
+3. [To](/en/post/to/) contort [or](/en/post/or/) [move](/en/post/move/) one's [body](/en/post/body/) [in](/en/post/in/) [a](/en/post/a/) [specific](/en/post/specific/) [way](/en/post/way/): "[He](/en/post/he/) twisted [his](/en/post/his/) [body](/en/post/body/) [to](/en/post/to/) [reach](/en/post/reach/) [the](/en/post/the/) [high](/en/post/high/) [shelf](/en/post/shelf/)."
 
-### Adjective
-1. Twisted or distorted in shape: "A twisted metal pipe."
-2. Devious or cunning: "A twisted plan to deceive."
-3. Abnormal or deviant: "A twisted sense of humor."
+### [Adjective](/en/post/adjective/)
+1. Twisted [or](/en/post/or/) distorted [in](/en/post/in/) [shape](/en/post/shape/): "[A](/en/post/a/) twisted [metal](/en/post/metal/) [pipe](/en/post/pipe/)."
+2. Devious [or](/en/post/or/) [cunning](/en/post/cunning/): "[A](/en/post/a/) twisted [plan](/en/post/plan/) [to](/en/post/to/) [deceive](/en/post/deceive/)."
+3. [Abnormal](/en/post/abnormal/) [or](/en/post/or/) deviant: "[A](/en/post/a/) twisted [sense](/en/post/sense/) [of](/en/post/of/) humor."
 
-### Adverb
-1. In a twisting or turning motion: "She twisted her body gracefully."
+### [Adverb](/en/post/adverb/)
+1. [In](/en/post/in/) [a](/en/post/a/) twisting [or](/en/post/or/) [turning](/en/post/turning/) [motion](/en/post/motion/): "[She](/en/post/she/) twisted [her](/en/post/her/) [body](/en/post/body/) gracefully."
 
 ## Phrases
-- "Take a twist" implies a sudden change or variation.
-- "Twist someone's arm" means to persuade or convince them forcefully.
-- "Give someone a twist" can mean to surprise or entertain them with a new idea or approach.
+- "[Take](/en/post/take/) [a](/en/post/a/) [twist](/en/post/twist/)" implies [a](/en/post/a/) [sudden](/en/post/sudden/) [change](/en/post/change/) [or](/en/post/or/) [variation](/en/post/variation/).
+- "[Twist](/en/post/twist/) someone's [arm](/en/post/arm/)" [means](/en/post/means/) [to](/en/post/to/) [persuade](/en/post/persuade/) [or](/en/post/or/) [convince](/en/post/convince/) [them](/en/post/them/) forcefully.
+- "[Give](/en/post/give/) [someone](/en/post/someone/) [a](/en/post/a/) [twist](/en/post/twist/)" [can](/en/post/can/) [mean](/en/post/mean/) [to](/en/post/to/) [surprise](/en/post/surprise/) [or](/en/post/or/) [entertain](/en/post/entertain/) [them](/en/post/them/) [with](/en/post/with/) [a](/en/post/a/) [new](/en/post/new/) [idea](/en/post/idea/) [or](/en/post/or/) [approach](/en/post/approach/).
 
-## Example Sentences
-- **Noun**: "The vine had grown so much it twisted around the tree trunk."
-- **Verb**: "She twisted the steering wheel to avoid the obstacle."
-- **Adjective**: "The artist created a twisted sculpture that seemed to defy gravity."
-- **Adverb**: "He twisted his ankle while playing soccer."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [vine](/en/post/vine/) had grown [so](/en/post/so/) [much](/en/post/much/) [it](/en/post/it/) twisted [around](/en/post/around/) [the](/en/post/the/) [tree](/en/post/tree/) [trunk](/en/post/trunk/)."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) twisted [the](/en/post/the/) steering [wheel](/en/post/wheel/) [to](/en/post/to/) [avoid](/en/post/avoid/) [the](/en/post/the/) [obstacle](/en/post/obstacle/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [artist](/en/post/artist/) created [a](/en/post/a/) twisted sculpture [that](/en/post/that/) seemed [to](/en/post/to/) defy [gravity](/en/post/gravity/)."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) twisted [his](/en/post/his/) [ankle](/en/post/ankle/) [while](/en/post/while/) playing [soccer](/en/post/soccer/)."
 
 ## Synonyms
-- Coil
+- [Coil](/en/post/coil/)
 - Tangle
 - Bending
 - Manipulate
 - Deviate
 - Contort
-- Turn
+- [Turn](/en/post/turn/)
 - Skew
 - Reinterpret
 - Reconfigure

@@ -7,22 +7,22 @@ description = '[ˈkləuzli] ad.紧密地，接近地'
 keywords = ['ai words', 'closely']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kəˈkl̩sli/
 
 ## Definitions
-### Adverb
-- Refers to the manner in which something is done, indicating proximity or nearness in time, space, or intensity. It can also mean "very" or "intimately."
+### [Adverb](/en/post/adverb/)
+- Refers [to](/en/post/to/) [the](/en/post/the/) [manner](/en/post/manner/) [in](/en/post/in/) [which](/en/post/which/) [something](/en/post/something/) is done, indicating proximity [or](/en/post/or/) nearness [in](/en/post/in/) [time](/en/post/time/), [space](/en/post/space/), [or](/en/post/or/) [intensity](/en/post/intensity/). [It](/en/post/it/) [can](/en/post/can/) [also](/en/post/also/) [mean](/en/post/mean/) "[very](/en/post/very/)" [or](/en/post/or/) "intimately."
 
 ## Phrases
-- "Closely monitor" implies close attention or surveillance.
-- "Closely related" indicates a strong connection or resemblance.
-- "Work closely with" suggests close collaboration or cooperation.
+- "[Closely](/en/post/closely/) [monitor](/en/post/monitor/)" implies [close](/en/post/close/) [attention](/en/post/attention/) [or](/en/post/or/) surveillance.
+- "[Closely](/en/post/closely/) related" indicates [a](/en/post/a/) [strong](/en/post/strong/) [connection](/en/post/connection/) [or](/en/post/or/) resemblance.
+- "[Work](/en/post/work/) [closely](/en/post/closely/) [with](/en/post/with/)" suggests [close](/en/post/close/) collaboration [or](/en/post/or/) cooperation.
 
-## Example Sentences
-- **Adverb**: "She listened closely to her teacher's instructions."
-- "The two companies have been working closely on the project."
-- "They live in apartments just a few doors down from each other, so they often socialize closely."
+## [Example](/en/post/example/) Sentences
+- **[Adverb](/en/post/adverb/)**: "[She](/en/post/she/) listened [closely](/en/post/closely/) [to](/en/post/to/) [her](/en/post/her/) teacher's instructions."
+- "[The](/en/post/the/) [two](/en/post/two/) companies [have](/en/post/have/) been working [closely](/en/post/closely/) [on](/en/post/on/) [the](/en/post/the/) [project](/en/post/project/)."
+- "[They](/en/post/they/) [live](/en/post/live/) [in](/en/post/in/) apartments [just](/en/post/just/) [a](/en/post/a/) [few](/en/post/few/) doors [down](/en/post/down/) [from](/en/post/from/) [each](/en/post/each/) [other](/en/post/other/), [so](/en/post/so/) [they](/en/post/they/) [often](/en/post/often/) socialize [closely](/en/post/closely/)."
 
 ## Synonyms
 - Nearer
@@ -30,10 +30,10 @@ keywords = ['ai words', 'closely']
 - Firmly
 - Tightly
 - Intimately
-- Closely related words: near, proximate, adjacent
+- [Closely](/en/post/closely/) related words: [near](/en/post/near/), proximate, adjacent
 
 ## Antonyms
-- Widely
+- [Widely](/en/post/widely/)
 - Distantly
 - Remotely
 - Loosely

@@ -11,19 +11,19 @@ keywords = ['ai words', 'reluctant']
 /ˈrɛləkˈtənt/
 
 ## 释义
-- **形容词**: 不情愿的，勉强的，不愿意的。例如: "She was reluctant to leave her comfort zone."
-- **副词**: 常与不定式连用，表示不情愿地。例如: "He reluctantly agreed to help."
+- **形容词**: 不情愿的，勉强的，不愿意的。例如: "[She](/post/she/) was [reluctant](/post/reluctant/) [to](/post/to/) [leave](/post/leave/) [her](/post/her/) [comfort](/post/comfort/) [zone](/post/zone/)."
+- **副词**: 常与不定式连用，表示不情愿地。例如: "[He](/post/he/) reluctantly agreed [to](/post/to/) [help](/post/help/)."
 
 ## 短语
-- "be reluctant to do something" 意味着不愿意做某事。
-- "reluctant acceptance" 表示勉强接受。
+- "[be](/post/be/) [reluctant](/post/reluctant/) [to](/post/to/) [do](/post/do/) [something](/post/something/)" 意味着不愿意做某事。
+- "[reluctant](/post/reluctant/) [acceptance](/post/acceptance/)" 表示勉强接受。
 
 ## 例句
-- 形容词: "Despite his talent, he was reluctant to join the team."
-- 副词: "She was reluctant to share her secrets with anyone."
+- 形容词: "[Despite](/post/despite/) [his](/post/his/) [talent](/post/talent/), [he](/post/he/) was [reluctant](/post/reluctant/) [to](/post/to/) [join](/post/join/) [the](/post/the/) [team](/post/team/)."
+- 副词: "[She](/post/she/) was [reluctant](/post/reluctant/) [to](/post/to/) [share](/post/share/) [her](/post/her/) secrets [with](/post/with/) [anyone](/post/anyone/)."
 
 ## 同义词
-- Unwilling
+- [Unwilling](/post/unwilling/)
 - Averse
 - Reluctive
 - Hesitant

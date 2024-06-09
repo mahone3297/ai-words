@@ -12,25 +12,25 @@ keywords = ['ai words', 'channel']
 
 ## 释义
 - **名词**:
-  1. 通道，频道：如电视或广播的特定节目频道。例如: "Please switch to channel 4 for the news."
-  2. 沟渠，水道：水流或其他物质流动的路径。例如: "The river flows through a narrow channel."
-  3. 传递，传播：信息或能量的传输途径。例如: "The company uses social media channels to promote its products."
+  1. 通道，频道：如电视或广播的特定节目频道。例如: "[Please](/post/please/) [switch](/post/switch/) [to](/post/to/) [channel](/post/channel/) 4 [for](/post/for/) [the](/post/the/) [news](/post/news/)."
+  2. 沟渠，水道：水流或其他物质流动的路径。例如: "[The](/post/the/) [river](/post/river/) flows [through](/post/through/) [a](/post/a/) [narrow](/post/narrow/) [channel](/post/channel/)."
+  3. 传递，传播：信息或能量的传输途径。例如: "[The](/post/the/) [company](/post/company/) uses [social](/post/social/) media channels [to](/post/to/) [promote](/post/promote/) [its](/post/its/) products."
 
 - **动词**:
-  1. 利用（某个频道或途径）：通过特定的渠道或方法传递或引导。例如: "They channeled their energy into organizing a charity event."
-  2. 引导，导向：使事物朝特定方向发展。例如: "The teacher channeled the students' creativity in their art projects."
+  1. 利用（某个频道或途径）：通过特定的渠道或方法传递或引导。例如: "[They](/post/they/) channeled [their](/post/their/) [energy](/post/energy/) [into](/post/into/) organizing [a](/post/a/) [charity](/post/charity/) [event](/post/event/)."
+  2. 引导，导向：使事物朝特定方向发展。例如: "[The](/post/the/) [teacher](/post/teacher/) channeled [the](/post/the/) students' creativity [in](/post/in/) [their](/post/their/) [art](/post/art/) projects."
 
 ## 短语
-- "Channel your inner strength" 意味着调动你的内在力量。
-- "Broadcast on multiple channels" 在多个频道上播放节目。
+- "[Channel](/post/channel/) [your](/post/your/) [inner](/post/inner/) [strength](/post/strength/)" 意味着调动你的内在力量。
+- "[Broadcast](/post/broadcast/) [on](/post/on/) [multiple](/post/multiple/) channels" 在多个频道上播放节目。
 
 ## 例句
-- 名词: "The new TV service offers hundreds of channels to choose from."
-- 动词: "She channeled her frustration into painting, creating beautiful works of art."
+- 名词: "[The](/post/the/) [new](/post/new/) TV [service](/post/service/) offers hundreds [of](/post/of/) channels [to](/post/to/) [choose](/post/choose/) [from](/post/from/)."
+- 动词: "[She](/post/she/) channeled [her](/post/her/) frustration [into](/post/into/) [painting](/post/painting/), creating [beautiful](/post/beautiful/) works [of](/post/of/) [art](/post/art/)."
   
 ## 同义词
-- Band
-- Frequency
-- Medium
-- Route
-- Way
+- [Band](/post/band/)
+- [Frequency](/post/frequency/)
+- [Medium](/post/medium/)
+- [Route](/post/route/)
+- [Way](/post/way/)

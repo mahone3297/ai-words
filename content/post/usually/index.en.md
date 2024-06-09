@@ -7,32 +7,32 @@ description = '[ˈjuːʒuəli] ad.通常'
 keywords = ['ai words', 'usually']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈjuːʒuəli/
 
 ## Definitions
-- **Adverb**: Typically or commonly; in a usual manner. It modifies verbs, adjectives, or other adverbs to indicate frequency or regularity. For example, "She usually arrives early."
+- **[Adverb](/en/post/adverb/)**: Typically [or](/en/post/or/) [commonly](/en/post/commonly/); [in](/en/post/in/) [a](/en/post/a/) [usual](/en/post/usual/) [manner](/en/post/manner/). [It](/en/post/it/) modifies verbs, adjectives, [or](/en/post/or/) [other](/en/post/other/) adverbs [to](/en/post/to/) [indicate](/en/post/indicate/) [frequency](/en/post/frequency/) [or](/en/post/or/) regularity. [For](/en/post/for/) [example](/en/post/example/), "[She](/en/post/she/) [usually](/en/post/usually/) arrives [early](/en/post/early/)."
 
 ## Phrases
-- "As usual" implies that something happens in the same way it normally does.
-- "Usually, he studies late at night."
-- "She usually takes a walk after dinner."
+- "[As](/en/post/as/) [usual](/en/post/usual/)" implies [that](/en/post/that/) [something](/en/post/something/) happens [in](/en/post/in/) [the](/en/post/the/) [same](/en/post/same/) [way](/en/post/way/) [it](/en/post/it/) [normally](/en/post/normally/) does.
+- "[Usually](/en/post/usually/), [he](/en/post/he/) studies [late](/en/post/late/) [at](/en/post/at/) [night](/en/post/night/)."
+- "[She](/en/post/she/) [usually](/en/post/usually/) takes [a](/en/post/a/) [walk](/en/post/walk/) [after](/en/post/after/) [dinner](/en/post/dinner/)."
 
-## Example Sentences
-- **Adverb**: "He usually finishes his homework before dinner."
-- "The weather is usually mild in this part of the country."
-- "She usually wakes up at 6 am."
+## [Example](/en/post/example/) Sentences
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) [usually](/en/post/usually/) finishes [his](/en/post/his/) homework [before](/en/post/before/) [dinner](/en/post/dinner/)."
+- "[The](/en/post/the/) [weather](/en/post/weather/) is [usually](/en/post/usually/) [mild](/en/post/mild/) [in](/en/post/in/) [this](/en/post/this/) [part](/en/post/part/) [of](/en/post/of/) [the](/en/post/the/) [country](/en/post/country/)."
+- "[She](/en/post/she/) [usually](/en/post/usually/) wakes [up](/en/post/up/) [at](/en/post/at/) 6 am."
 
 ## Synonyms
-- Normally
+- [Normally](/en/post/normally/)
 - Ordinarily
 - Typically
-- Regularly
-- Frequently
+- [Regularly](/en/post/regularly/)
+- [Frequently](/en/post/frequently/)
 
 ## Antonyms
-- Occasionally
-- Seldom
-- Rarely
-- Unusually
+- [Occasionally](/en/post/occasionally/)
+- [Seldom](/en/post/seldom/)
+- [Rarely](/en/post/rarely/)
+- [Unusually](/en/post/unusually/)
 - Abnormally

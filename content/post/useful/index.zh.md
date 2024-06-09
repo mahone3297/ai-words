@@ -11,20 +11,20 @@ keywords = ['ai words', 'useful']
 /ˈjuːfəl/
 
 ## 释义
-- **形容词**: 有用的，有益的，有帮助的。例如: "This book is very useful for learning English."
-- **名词**: 有益的事物或人。例如: "He is a useful member of the team."
+- **形容词**: 有用的，有益的，有帮助的。例如: "[This](/post/this/) [book](/post/book/) is [very](/post/very/) [useful](/post/useful/) [for](/post/for/) [learning](/post/learning/) English."
+- **名词**: 有益的事物或人。例如: "[He](/post/he/) is [a](/post/a/) [useful](/post/useful/) [member](/post/member/) [of](/post/of/) [the](/post/the/) [team](/post/team/)."
 
 ## 短语
-- "be of use to sb." 意味着对某人有用。例如: "These tips will be of use to anyone learning to cook."
-- "put sth. to good use" 意为充分利用某物。例如: "I'm going to put my free time to good use by learning a new skill."
+- "[be](/post/be/) [of](/post/of/) [use](/post/use/) [to](/post/to/) sb." 意味着对某人有用。例如: "[These](/post/these/) tips [will](/post/will/) [be](/post/be/) [of](/post/of/) [use](/post/use/) [to](/post/to/) [anyone](/post/anyone/) [learning](/post/learning/) [to](/post/to/) [cook](/post/cook/)."
+- "[put](/post/put/) sth. [to](/post/to/) [good](/post/good/) [use](/post/use/)" 意为充分利用某物。例如: "I'm going [to](/post/to/) [put](/post/put/) [my](/post/my/) [free](/post/free/) [time](/post/time/) [to](/post/to/) [good](/post/good/) [use](/post/use/) [by](/post/by/) [learning](/post/learning/) [a](/post/a/) [new](/post/new/) [skill](/post/skill/)."
 
 ## 例句
-- 形容词: "The dictionary is a useful tool for students."
-- 名词: "She found a useful trick to solve the problem."
+- 形容词: "[The](/post/the/) [dictionary](/post/dictionary/) is [a](/post/a/) [useful](/post/useful/) [tool](/post/tool/) [for](/post/for/) students."
+- 名词: "[She](/post/she/) [found](/post/found/) [a](/post/a/) [useful](/post/useful/) [trick](/post/trick/) [to](/post/to/) [solve](/post/solve/) [the](/post/the/) [problem](/post/problem/)."
 
 ## 同义词
-- Helpful
-- Beneficial
+- [Helpful](/post/helpful/)
+- [Beneficial](/post/beneficial/)
 - Advantageous
-- Valuable
-- Effective
+- [Valuable](/post/valuable/)
+- [Effective](/post/effective/)

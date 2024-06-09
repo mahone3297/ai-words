@@ -11,20 +11,20 @@ keywords = ['ai words', 'harvest']
 /hɑːˈvɛst/
 
 ## 释义
-- **名词**: 收获；收割；产品；成果。例如: "They had a bountiful harvest of wheat this year."
-- **动词**: 收割；收获；获得。例如: "Farmers are busy harvesting their crops in autumn."
+- **名词**: 收获；收割；产品；成果。例如: "[They](/post/they/) had [a](/post/a/) bountiful [harvest](/post/harvest/) [of](/post/of/) [wheat](/post/wheat/) [this](/post/this/) [year](/post/year/)."
+- **动词**: 收割；收获；获得。例如: "Farmers are [busy](/post/busy/) harvesting [their](/post/their/) crops [in](/post/in/) [autumn](/post/autumn/)."
 
 ## 短语
-- "Harvest time" 指农作物的收割季节。
-- "Harvest moon" 是指秋季满月，通常在农作物收割期间。
+- "[Harvest](/post/harvest/) [time](/post/time/)" 指农作物的收割季节。
+- "[Harvest](/post/harvest/) [moon](/post/moon/)" 是指秋季满月，通常在农作物收割期间。
 
 ## 例句
-- 名词: "The farmers celebrated the successful harvest with a big feast."
-- 动词: "They started to harvest the grapes for wine-making in early September."
+- 名词: "[The](/post/the/) farmers celebrated [the](/post/the/) [successful](/post/successful/) [harvest](/post/harvest/) [with](/post/with/) [a](/post/a/) [big](/post/big/) [feast](/post/feast/)."
+- 动词: "[They](/post/they/) started [to](/post/to/) [harvest](/post/harvest/) [the](/post/the/) grapes [for](/post/for/) wine-making [in](/post/in/) [early](/post/early/) September."
   
 ## 同义词
-- Reap
-- Gather
-- Collect
-- Yield
+- [Reap](/post/reap/)
+- [Gather](/post/gather/)
+- [Collect](/post/collect/)
+- [Yield](/post/yield/)
 - Procure

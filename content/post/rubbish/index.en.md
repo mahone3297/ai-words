@@ -7,32 +7,32 @@ description = '[ˈrʌbi∫] n.垃圾，废物；废话'
 keywords = ['ai words', 'rubbish']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /rʌˈbɪʃ/
 
 ## Definitions
-- **Noun**: 1. Waste material, especially that which is thrown away and considered to have no value or use. 2. Informal or offensive term for something of poor quality or worthless. [1](https://www.merriam-webster.com/dictionary/rubbish)
-- **Verb**: To dispose of waste, often in a careless manner. 2. To consider or treat something as worthless or unimportant. [2](https://dictionary.cambridge.org/dictionary/english/rubbish)
+- **[Noun](/en/post/noun/)**: 1. [Waste](/en/post/waste/) [material](/en/post/material/), [especially](/en/post/especially/) [that](/en/post/that/) [which](/en/post/which/) is thrown [away](/en/post/away/) [and](/en/post/and/) considered [to](/en/post/to/) [have](/en/post/have/) [no](/en/post/no/) [value](/en/post/value/) [or](/en/post/or/) [use](/en/post/use/). 2. Informal [or](/en/post/or/) offensive [term](/en/post/term/) [for](/en/post/for/) [something](/en/post/something/) [of](/en/post/of/) [poor](/en/post/poor/) [quality](/en/post/quality/) [or](/en/post/or/) [worthless](/en/post/worthless/). [1](https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[rubbish](/en/post/rubbish/))
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [dispose](/en/post/dispose/) [of](/en/post/of/) [waste](/en/post/waste/), [often](/en/post/often/) [in](/en/post/in/) [a](/en/post/a/) [careless](/en/post/careless/) [manner](/en/post/manner/). 2. [To](/en/post/to/) [consider](/en/post/consider/) [or](/en/post/or/) [treat](/en/post/treat/) [something](/en/post/something/) [as](/en/post/as/) [worthless](/en/post/worthless/) [or](/en/post/or/) unimportant. [2](https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[rubbish](/en/post/rubbish/))
 
 ## Phrases
-- "Throwing out the rubbish" means discarding waste.
-- "Sorting through the rubbish" refers to the act of separating trash for recycling or disposal.
-- "Don't take his nonsense seriously; he's just talking rubbish." (meaning: he's saying something absurd)
+- "Throwing [out](/en/post/out/) [the](/en/post/the/) [rubbish](/en/post/rubbish/)" [means](/en/post/means/) discarding [waste](/en/post/waste/).
+- "Sorting [through](/en/post/through/) [the](/en/post/the/) [rubbish](/en/post/rubbish/)" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) separating trash [for](/en/post/for/) recycling [or](/en/post/or/) [disposal](/en/post/disposal/).
+- "Don't [take](/en/post/take/) [his](/en/post/his/) [nonsense](/en/post/nonsense/) [seriously](/en/post/seriously/); he's [just](/en/post/just/) talking [rubbish](/en/post/rubbish/)." ([meaning](/en/post/meaning/): he's saying [something](/en/post/something/) absurd)
 
-## Example Sentences
-- **Noun**: "She collected all the old newspapers and put them in the rubbish bin."
-- **Verb**: "He had to rubbish his plans for the weekend due to unexpected rain."
-- **Idiomatic**: "Her ideas were so ridiculous, it was like talking to someone who was spouting rubbish."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) collected [all](/en/post/all/) [the](/en/post/the/) [old](/en/post/old/) newspapers [and](/en/post/and/) [put](/en/post/put/) [them](/en/post/them/) [in](/en/post/in/) [the](/en/post/the/) [rubbish](/en/post/rubbish/) bin."
+- **[Verb](/en/post/verb/)**: "[He](/en/post/he/) had [to](/en/post/to/) [rubbish](/en/post/rubbish/) [his](/en/post/his/) plans [for](/en/post/for/) [the](/en/post/the/) [weekend](/en/post/weekend/) [due](/en/post/due/) [to](/en/post/to/) [unexpected](/en/post/unexpected/) [rain](/en/post/rain/)."
+- **Idiomatic**: "[Her](/en/post/her/) ideas were [so](/en/post/so/) [ridiculous](/en/post/ridiculous/), [it](/en/post/it/) was [like](/en/post/like/) talking [to](/en/post/to/) [someone](/en/post/someone/) [who](/en/post/who/) was spouting [rubbish](/en/post/rubbish/)."
 
 ## Synonyms
 - Trash
-- Garbage
--废物 (waste)
+- [Garbage](/en/post/garbage/)
+-废物 ([waste](/en/post/waste/))
 - Junk
 - Rubble
-- Nonsense
+- [Nonsense](/en/post/nonsense/)
 - Gibberish
 
 ## Notes
-[1]: <https://www.merriam-webster.com/dictionary/rubbish>
-[2]: <https://dictionary.cambridge.org/dictionary/english/rubbish>
+[1]: <https://www.merriam-webster.com/[dictionary](/en/post/dictionary/)/[rubbish](/en/post/rubbish/)>
+[2]: <https://[dictionary](/en/post/dictionary/).cambridge.org/[dictionary](/en/post/dictionary/)/english/[rubbish](/en/post/rubbish/)>

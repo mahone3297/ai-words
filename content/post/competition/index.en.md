@@ -7,38 +7,38 @@ description = '[kɔmpiˈti∫ən] n.竞争，比赛'
 keywords = ['ai words', 'competition']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˌkɑːmpəˈtɪʃn/
 
 ## Definitions
-### Noun
-- **Competition**: A contest or rivalry in which people or teams try to outdo each other by achieving a particular goal or finishing first. For example: "The athletes were competing in the marathon."
-- **Contest**: An event or game where participants strive to win a prize or recognition. For example: "The baking contest was a hit at the community fair."
+### [Noun](/en/post/noun/)
+- **[Competition](/en/post/competition/)**: [A](/en/post/a/) [contest](/en/post/contest/) [or](/en/post/or/) rivalry [in](/en/post/in/) [which](/en/post/which/) [people](/en/post/people/) [or](/en/post/or/) teams [try](/en/post/try/) [to](/en/post/to/) outdo [each](/en/post/each/) [other](/en/post/other/) [by](/en/post/by/) achieving [a](/en/post/a/) [particular](/en/post/particular/) [goal](/en/post/goal/) [or](/en/post/or/) finishing [first](/en/post/first/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) athletes were competing [in](/en/post/in/) [the](/en/post/the/) marathon."
+- **[Contest](/en/post/contest/)**: An [event](/en/post/event/) [or](/en/post/or/) [game](/en/post/game/) [where](/en/post/where/) participants strive [to](/en/post/to/) [win](/en/post/win/) [a](/en/post/a/) [prize](/en/post/prize/) [or](/en/post/or/) [recognition](/en/post/recognition/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) baking [contest](/en/post/contest/) was [a](/en/post/a/) [hit](/en/post/hit/) [at](/en/post/at/) [the](/en/post/the/) [community](/en/post/community/) [fair](/en/post/fair/)."
 
-### Verb
-- To compete: To engage in a contest or rivalry with others. For example: "Companies often compete for market share."
-- To contend: To vie for superiority or victory. For example: "She contends for the top position in her field."
+### [Verb](/en/post/verb/)
+- [To](/en/post/to/) [compete](/en/post/compete/): [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [a](/en/post/a/) [contest](/en/post/contest/) [or](/en/post/or/) rivalry [with](/en/post/with/) others. [For](/en/post/for/) [example](/en/post/example/): "Companies [often](/en/post/often/) [compete](/en/post/compete/) [for](/en/post/for/) [market](/en/post/market/) [share](/en/post/share/)."
+- [To](/en/post/to/) contend: [To](/en/post/to/) vie [for](/en/post/for/) superiority [or](/en/post/or/) [victory](/en/post/victory/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) contends [for](/en/post/for/) [the](/en/post/the/) [top](/en/post/top/) [position](/en/post/position/) [in](/en/post/in/) [her](/en/post/her/) [field](/en/post/field/)."
 
-### Adjective
-- Competitive: Characterized by striving to win or do better than others. For example: "A competitive spirit drives many athletes to push their limits."
+### [Adjective](/en/post/adjective/)
+- Competitive: Characterized [by](/en/post/by/) striving [to](/en/post/to/) [win](/en/post/win/) [or](/en/post/or/) [do](/en/post/do/) [better](/en/post/better/) [than](/en/post/than/) others. [For](/en/post/for/) [example](/en/post/example/): "[A](/en/post/a/) competitive [spirit](/en/post/spirit/) drives [many](/en/post/many/) athletes [to](/en/post/to/) [push](/en/post/push/) [their](/en/post/their/) limits."
 
-### Adverb
-- Competitively: In a competitive manner; striving to win. For example: "Teams will compete competitively in the championship game."
+### [Adverb](/en/post/adverb/)
+- Competitively: [In](/en/post/in/) [a](/en/post/a/) competitive [manner](/en/post/manner/); striving [to](/en/post/to/) [win](/en/post/win/). [For](/en/post/for/) [example](/en/post/example/): "Teams [will](/en/post/will/) [compete](/en/post/compete/) competitively [in](/en/post/in/) [the](/en/post/the/) championship [game](/en/post/game/)."
 
 ## Phrases
-- "Participate in a competition" means to enter and take part in a contest.
-- "In a friendly competition" implies a non-hostile or lighthearted contest.
-- "Winning competitions" signifies achieving victory in contests.
+- "[Participate](/en/post/participate/) [in](/en/post/in/) [a](/en/post/a/) [competition](/en/post/competition/)" [means](/en/post/means/) [to](/en/post/to/) [enter](/en/post/enter/) [and](/en/post/and/) [take](/en/post/take/) [part](/en/post/part/) [in](/en/post/in/) [a](/en/post/a/) [contest](/en/post/contest/).
+- "[In](/en/post/in/) [a](/en/post/a/) [friendly](/en/post/friendly/) [competition](/en/post/competition/)" implies [a](/en/post/a/) non-hostile [or](/en/post/or/) lighthearted [contest](/en/post/contest/).
+- "Winning competitions" signifies achieving [victory](/en/post/victory/) [in](/en/post/in/) contests.
 
-## Example Sentences
-- **Noun**: "The children were excited about the upcoming science competition."
-- **Verb**: "After months of training, he finally competed in the Olympics."
-- **Adjective**: "She thrives in a competitive work environment."
-- **Adverb**: "The athletes trained competitively to prepare for the race."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) children were excited [about](/en/post/about/) [the](/en/post/the/) upcoming [science](/en/post/science/) [competition](/en/post/competition/)."
+- **[Verb](/en/post/verb/)**: "[After](/en/post/after/) months [of](/en/post/of/) [training](/en/post/training/), [he](/en/post/he/) [finally](/en/post/finally/) competed [in](/en/post/in/) [the](/en/post/the/) Olympics."
+- **[Adjective](/en/post/adjective/)**: "[She](/en/post/she/) thrives [in](/en/post/in/) [a](/en/post/a/) competitive [work](/en/post/work/) [environment](/en/post/environment/)."
+- **[Adverb](/en/post/adverb/)**: "[The](/en/post/the/) athletes trained competitively [to](/en/post/to/) [prepare](/en/post/prepare/) [for](/en/post/for/) [the](/en/post/the/) [race](/en/post/race/)."
 
 ## Synonyms
-- Contest
+- [Contest](/en/post/contest/)
 - Rivalry
-- Struggle
+- [Struggle](/en/post/struggle/)
 - Duel
-- Battle (informal)
+- [Battle](/en/post/battle/) (informal)

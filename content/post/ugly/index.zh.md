@@ -11,20 +11,20 @@ keywords = ['ai words', 'ugly']
 /ˈʌɡli/
 
 ## 释义
-- **形容词**: 不好看的，丑陋的，令人不悦的。例如: "The old building had an ugly facade."
-- **副词**: 丑陋地，糟糕地。例如: "He played the piano ugly, without any musicality."
+- **形容词**: 不好看的，丑陋的，令人不悦的。例如: "[The](/post/the/) [old](/post/old/) [building](/post/building/) had an [ugly](/post/ugly/) facade."
+- **副词**: 丑陋地，糟糕地。例如: "[He](/post/he/) played [the](/post/the/) [piano](/post/piano/) [ugly](/post/ugly/), [without](/post/without/) [any](/post/any/) musicality."
 
 ## 短语
-- "Ugly duckling" 指起初看似不起眼，后来却变得美丽或出色的人或事物。
-- "An ugly situation" 指一个棘手或不愉快的情况。
+- "[Ugly](/post/ugly/) duckling" 指起初看似不起眼，后来却变得美丽或出色的人或事物。
+- "An [ugly](/post/ugly/) [situation](/post/situation/)" 指一个棘手或不愉快的情况。
 
 ## 例句
-- 形容词: "Despite her ugly appearance, she had a beautiful personality."
-- 副词: "He fell down and landed ugly, twisting his ankle."
+- 形容词: "[Despite](/post/despite/) [her](/post/her/) [ugly](/post/ugly/) [appearance](/post/appearance/), [she](/post/she/) had [a](/post/a/) [beautiful](/post/beautiful/) personality."
+- 副词: "[He](/post/he/) fell [down](/post/down/) [and](/post/and/) landed [ugly](/post/ugly/), twisting [his](/post/his/) [ankle](/post/ankle/)."
 
 ## 同义词
 - Homely
 - Unattractive
 - Repulsive
 - Hideous
-- Plain
+- [Plain](/post/plain/)

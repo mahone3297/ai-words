@@ -7,38 +7,38 @@ description = '[kəmˈpraiz] vt.包含，包括；构成'
 keywords = ['ai words', 'comprise']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kəmˈpraɪz/
 
 ## Definitions
-### Noun
-1. **Comprise** (also *consist of*): The act of making up or consisting of a part or elements that together form a whole. For example: "The team comprises five members from different departments."
-2. **Composition**: The arrangement or makeup of parts that form a whole. For example: "The book's content comprised three main sections."
+### [Noun](/en/post/noun/)
+1. **[Comprise](/en/post/comprise/)** ([also](/en/post/also/) *[consist](/en/post/consist/) [of](/en/post/of/)*): [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) making [up](/en/post/up/) [or](/en/post/or/) consisting [of](/en/post/of/) [a](/en/post/a/) [part](/en/post/part/) [or](/en/post/or/) elements [that](/en/post/that/) [together](/en/post/together/) [form](/en/post/form/) [a](/en/post/a/) [whole](/en/post/whole/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [team](/en/post/team/) comprises [five](/en/post/five/) members [from](/en/post/from/) [different](/en/post/different/) departments."
+2. **[Composition](/en/post/composition/)**: [The](/en/post/the/) [arrangement](/en/post/arrangement/) [or](/en/post/or/) makeup [of](/en/post/of/) parts [that](/en/post/that/) [form](/en/post/form/) [a](/en/post/a/) [whole](/en/post/whole/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) book's [content](/en/post/content/) comprised [three](/en/post/three/) [main](/en/post/main/) sections."
 
-### Verb
-1. **To comprise**: To consist of; be composed of. For example: "The curriculum comprises several core courses and electives."
-2. **Include**: To have as a part or member. For example: "The exhibition comprises works by both established and emerging artists."
+### [Verb](/en/post/verb/)
+1. **[To](/en/post/to/) [comprise](/en/post/comprise/)**: [To](/en/post/to/) [consist](/en/post/consist/) [of](/en/post/of/); [be](/en/post/be/) composed [of](/en/post/of/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) curriculum comprises [several](/en/post/several/) [core](/en/post/core/) courses [and](/en/post/and/) electives."
+2. **[Include](/en/post/include/)**: [To](/en/post/to/) [have](/en/post/have/) [as](/en/post/as/) [a](/en/post/a/) [part](/en/post/part/) [or](/en/post/or/) [member](/en/post/member/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [exhibition](/en/post/exhibition/) comprises works [by](/en/post/by/) [both](/en/post/both/) established [and](/en/post/and/) emerging artists."
 
 ## Phrases
-- "Comprises a series of steps"
-- "Comprised mainly of"
-- "A project comprising multiple phases"
+- "Comprises [a](/en/post/a/) [series](/en/post/series/) [of](/en/post/of/) steps"
+- "Comprised [mainly](/en/post/mainly/) [of](/en/post/of/)"
+- "[A](/en/post/a/) [project](/en/post/project/) comprising [multiple](/en/post/multiple/) phases"
 
-## Example Sentences
-- **Noun**: "The curriculum comprises a variety of subjects to ensure a well-rounded education."
-- **Verb**: "The research findings are comprised of data collected over several years."
-- **As a verb**: "The garden is beautifully comprised of vibrant flowers and lush greenery."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) curriculum comprises [a](/en/post/a/) [variety](/en/post/variety/) [of](/en/post/of/) subjects [to](/en/post/to/) [ensure](/en/post/ensure/) [a](/en/post/a/) well-rounded [education](/en/post/education/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [research](/en/post/research/) findings are comprised [of](/en/post/of/) [data](/en/post/data/) collected [over](/en/post/over/) [several](/en/post/several/) years."
+- **[As](/en/post/as/) [a](/en/post/a/) [verb](/en/post/verb/)**: "[The](/en/post/the/) [garden](/en/post/garden/) is beautifully comprised [of](/en/post/of/) vibrant flowers [and](/en/post/and/) lush greenery."
 
 ## Synonyms
-- Consist of
-- Make up
-- Compose
-- Contain
-- Include
-- Feature
+- [Consist](/en/post/consist/) [of](/en/post/of/)
+- [Make](/en/post/make/) [up](/en/post/up/)
+- [Compose](/en/post/compose/)
+- [Contain](/en/post/contain/)
+- [Include](/en/post/include/)
+- [Feature](/en/post/feature/)
 
 ## Antonyms
-- Exclude
-- Omit
-- Lack
-- Not contain
+- [Exclude](/en/post/exclude/)
+- [Omit](/en/post/omit/)
+- [Lack](/en/post/lack/)
+- [Not](/en/post/not/) [contain](/en/post/contain/)

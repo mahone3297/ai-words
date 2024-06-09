@@ -11,20 +11,20 @@ keywords = ['ai words', 'headline']
 /hedˌlɔɪn/
 
 ## 释义
-- **名词 (n)**: 报纸、杂志或网站上文章标题，通常大而醒目，旨在吸引读者的注意力。例如: "The headline read 'Breaking News: Local Company Buys Rival'."
-- **名词**: 电视新闻或广播中的重要报道或主题。例如: "The evening news began with a headline about the president's visit."
+- **名词 (n)**: 报纸、杂志或网站上文章标题，通常大而醒目，旨在吸引读者的注意力。例如: "[The](/post/the/) [headline](/post/headline/) [read](/post/read/) 'Breaking [News](/post/news/): [Local](/post/local/) [Company](/post/company/) Buys [Rival](/post/rival/)'."
+- **名词**: 电视新闻或广播中的重要报道或主题。例如: "[The](/post/the/) [evening](/post/evening/) [news](/post/news/) began [with](/post/with/) [a](/post/a/) [headline](/post/headline/) [about](/post/about/) [the](/post/the/) president's [visit](/post/visit/)."
 
 ## 短语
-- "Headline news" 指最重要或最引人注目的新闻。
-- "Make headlines" 意味着某事成为公众关注的焦点或重要新闻。
+- "[Headline](/post/headline/) [news](/post/news/)" 指最重要或最引人注目的新闻。
+- "[Make](/post/make/) headlines" 意味着某事成为公众关注的焦点或重要新闻。
 
 ## 例句
-- 名词: "The newspaper's front page was dominated by a bold headline about the election results."
-- 名词: "His scandalous behavior made him headline news all over the country."
+- 名词: "[The](/post/the/) newspaper's [front](/post/front/) [page](/post/page/) was dominated [by](/post/by/) [a](/post/a/) [bold](/post/bold/) [headline](/post/headline/) [about](/post/about/) [the](/post/the/) [election](/post/election/) results."
+- 名词: "[His](/post/his/) scandalous [behavior](/post/behavior/) made [him](/post/him/) [headline](/post/headline/) [news](/post/news/) [all](/post/all/) [over](/post/over/) [the](/post/the/) [country](/post/country/)."
 
 ## 同义词
-- Title
+- [Title](/post/title/)
 - Caption
-- Heading
-- Lead
-- Top story
+- [Heading](/post/heading/)
+- [Lead](/post/lead/)
+- [Top](/post/top/) [story](/post/story/)

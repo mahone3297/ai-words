@@ -12,27 +12,27 @@ keywords = ['ai words', 'connection']
 
 ## 释义
 - **名词 n**:
-  - 连接；联系：A relationship or link between people, things, or places. 例如: "There's a strong connection between exercise and good health."
-  - 人脉：A person who can help you find a job or get into a particular group. 例如: "She has some important connections in the film industry."
-  - 互联网连接：The service that provides access to the internet. 例如: "I lost my internet connection while I was working."
-  - 电器连接：The physical link between two parts of an electrical or electronic system. 例如: "Make sure the cable is properly connected to the computer."
+  - 连接；联系：[A](/post/a/) [relationship](/post/relationship/) [or](/post/or/) [link](/post/link/) [between](/post/between/) [people](/post/people/), things, [or](/post/or/) places. 例如: "There's [a](/post/a/) [strong](/post/strong/) [connection](/post/connection/) [between](/post/between/) [exercise](/post/exercise/) [and](/post/and/) [good](/post/good/) [health](/post/health/)."
+  - 人脉：[A](/post/a/) [person](/post/person/) [who](/post/who/) [can](/post/can/) [help](/post/help/) [you](/post/you/) [find](/post/find/) [a](/post/a/) [job](/post/job/) [or](/post/or/) [get](/post/get/) [into](/post/into/) [a](/post/a/) [particular](/post/particular/) [group](/post/group/). 例如: "[She](/post/she/) has [some](/post/some/) [important](/post/important/) connections [in](/post/in/) [the](/post/the/) [film](/post/film/) [industry](/post/industry/)."
+  - 互联网连接：[The](/post/the/) [service](/post/service/) [that](/post/that/) provides [access](/post/access/) [to](/post/to/) [the](/post/the/) internet. 例如: "I lost [my](/post/my/) internet [connection](/post/connection/) [while](/post/while/) I was working."
+  - 电器连接：[The](/post/the/) [physical](/post/physical/) [link](/post/link/) [between](/post/between/) [two](/post/two/) parts [of](/post/of/) an [electrical](/post/electrical/) [or](/post/or/) [electronic](/post/electronic/) [system](/post/system/). 例如: "[Make](/post/make/) [sure](/post/sure/) [the](/post/the/) [cable](/post/cable/) is [properly](/post/properly/) connected [to](/post/to/) [the](/post/the/) [computer](/post/computer/)."
 
 - **动词 v**:
-  - 连接；接通：To join or link two or more things together. 例如: "Connect the printer to your laptop using the USB cable."
-  - 建立联系：To establish a relationship or communication with someone. 例如: "He connected with his old friend on social media."
+  - 连接；接通：[To](/post/to/) [join](/post/join/) [or](/post/or/) [link](/post/link/) [two](/post/two/) [or](/post/or/) [more](/post/more/) things [together](/post/together/). 例如: "[Connect](/post/connect/) [the](/post/the/) printer [to](/post/to/) [your](/post/your/) laptop using [the](/post/the/) USB [cable](/post/cable/)."
+  - 建立联系：[To](/post/to/) [establish](/post/establish/) [a](/post/a/) [relationship](/post/relationship/) [or](/post/or/) [communication](/post/communication/) [with](/post/with/) [someone](/post/someone/). 例如: "[He](/post/he/) connected [with](/post/with/) [his](/post/his/) [old](/post/old/) [friend](/post/friend/) [on](/post/on/) [social](/post/social/) media."
 
 ## 短语
-- "make a connection" 表示建立联系或连接。例如: "She made a connection between her childhood experiences and her current fears."
-- "lose the connection" 指失去联系或断开连接。例如: "My phone call was interrupted and I lost the connection."
+- "[make](/post/make/) [a](/post/a/) [connection](/post/connection/)" 表示建立联系或连接。例如: "[She](/post/she/) made [a](/post/a/) [connection](/post/connection/) [between](/post/between/) [her](/post/her/) [childhood](/post/childhood/) experiences [and](/post/and/) [her](/post/her/) [current](/post/current/) fears."
+- "[lose](/post/lose/) [the](/post/the/) [connection](/post/connection/)" 指失去联系或断开连接。例如: "[My](/post/my/) [phone](/post/phone/) [call](/post/call/) was interrupted [and](/post/and/) I lost [the](/post/the/) [connection](/post/connection/)."
 
 ## 例句
-- 名词: "The company offers high-speed internet connections to its customers."
-- 动词: "Can you connect the speakers to the audio system?"
-- 感叹词（不常见）: "Hello, this is your connection speaking." （在电话中表示自己是转接的电话员）
+- 名词: "[The](/post/the/) [company](/post/company/) offers high-speed internet connections [to](/post/to/) [its](/post/its/) customers."
+- 动词: "[Can](/post/can/) [you](/post/you/) [connect](/post/connect/) [the](/post/the/) speakers [to](/post/to/) [the](/post/the/) audio [system](/post/system/)?"
+- 感叹词（不常见）: "[Hello](/post/hello/), [this](/post/this/) is [your](/post/your/) [connection](/post/connection/) speaking." （在电话中表示自己是转接的电话员）
 
 ## 同义词
-- Link
-- Union
-- Tie
-- Bond
-- Association
+- [Link](/post/link/)
+- [Union](/post/union/)
+- [Tie](/post/tie/)
+- [Bond](/post/bond/)
+- [Association](/post/association/)

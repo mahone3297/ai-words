@@ -11,20 +11,20 @@ keywords = ['ai words', 'considerate']
 /kənˈsɪdərət/
 
 ## 释义
-- **形容词**: 体贴的，考虑周到的。例如: "He was considerate of her feelings and acted gently."
-- **名词**: 考虑，深思熟虑。例如: "His considerate approach to the problem impressed everyone."
+- **形容词**: 体贴的，考虑周到的。例如: "[He](/post/he/) was [considerate](/post/considerate/) [of](/post/of/) [her](/post/her/) feelings [and](/post/and/) acted [gently](/post/gently/)."
+- **名词**: 考虑，深思熟虑。例如: "[His](/post/his/) [considerate](/post/considerate/) [approach](/post/approach/) [to](/post/to/) [the](/post/the/) [problem](/post/problem/) impressed [everyone](/post/everyone/)."
 
 ## 短语
-- "be considerate towards sb." 意为对某人体贴入微。
-- "to give careful consideration" 意为给予仔细的考虑。
+- "[be](/post/be/) [considerate](/post/considerate/) towards sb." 意为对某人体贴入微。
+- "[to](/post/to/) [give](/post/give/) [careful](/post/careful/) [consideration](/post/consideration/)" 意为给予仔细的考虑。
 
 ## 例句
-- 形容词: "She is a very considerate person, always thinking of others' needs."
-- 名词: "Before making a decision, he takes time for considerate reflection."
+- 形容词: "[She](/post/she/) is [a](/post/a/) [very](/post/very/) [considerate](/post/considerate/) [person](/post/person/), [always](/post/always/) thinking [of](/post/of/) others' needs."
+- 名词: "[Before](/post/before/) making [a](/post/a/) [decision](/post/decision/), [he](/post/he/) takes [time](/post/time/) [for](/post/for/) [considerate](/post/considerate/) [reflection](/post/reflection/)."
 
 ## 同义词
-- thoughtful
-- attentive
+- [thoughtful](/post/thoughtful/)
+- [attentive](/post/attentive/)
 - compassionate
-- understanding
+- [understanding](/post/understanding/)
 - mindful

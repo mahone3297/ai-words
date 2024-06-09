@@ -14,18 +14,18 @@ keywords = ['ai words', 'spacecraft']
 - **名词**: 太空船；宇宙飞船。指设计用于太空旅行或在太空中执行任务的航天器。
 
 ## 短语
-- "Manned spacecraft" 指载人的宇宙飞船。
-- "Spacecraft launch" 指宇宙飞船的发射。
-- "Spacecraft re-entry" 指宇宙飞船重返大气层。
+- "Manned [spacecraft](/post/spacecraft/)" 指载人的宇宙飞船。
+- "[Spacecraft](/post/spacecraft/) [launch](/post/launch/)" 指宇宙飞船的发射。
+- "[Spacecraft](/post/spacecraft/) re-entry" 指宇宙飞船重返大气层。
 
 ## 例句
-- "The spacecraft traveled to the International Space Station with a crew of three astronauts."
-- "The successful spacecraft launch marked a significant milestone in space exploration."
-- "During the spacecraft re-entry, the heat shield protected the astronauts from extreme temperatures."
+- "[The](/post/the/) [spacecraft](/post/spacecraft/) traveled [to](/post/to/) [the](/post/the/) [International](/post/international/) [Space](/post/space/) [Station](/post/station/) [with](/post/with/) [a](/post/a/) [crew](/post/crew/) [of](/post/of/) [three](/post/three/) astronauts."
+- "[The](/post/the/) [successful](/post/successful/) [spacecraft](/post/spacecraft/) [launch](/post/launch/) marked [a](/post/a/) [significant](/post/significant/) milestone [in](/post/in/) [space](/post/space/) exploration."
+- "[During](/post/during/) [the](/post/the/) [spacecraft](/post/spacecraft/) re-entry, [the](/post/the/) [heat](/post/heat/) [shield](/post/shield/) protected [the](/post/the/) astronauts [from](/post/from/) [extreme](/post/extreme/) temperatures."
 
 ## 同义词
-- Space vehicle
+- [Space](/post/space/) [vehicle](/post/vehicle/)
 - Orbiter
 - Rocketship
-- Satellite (在某些上下文中)
-- Spaceship
+- [Satellite](/post/satellite/) (在某些上下文中)
+- [Spaceship](/post/spaceship/)

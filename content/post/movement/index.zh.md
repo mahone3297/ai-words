@@ -12,25 +12,25 @@ keywords = ['ai words', 'movement']
 
 ## 释义
 - **名词**:
-1. 移动；移动的动作：The gradual **movement** of the tectonic plates causes earthquakes.
-2. 活动；行动；进程：The political **movement** gained momentum over the years.
-3. （艺术、音乐等的）风格流派：The impressionist **movement** in art.
+1. 移动；移动的动作：[The](/post/the/) [gradual](/post/gradual/) **[movement](/post/movement/)** [of](/post/of/) [the](/post/the/) tectonic plates causes earthquakes.
+2. 活动；行动；进程：[The](/post/the/) [political](/post/political/) **[movement](/post/movement/)** gained momentum [over](/post/over/) [the](/post/the/) years.
+3. （艺术、音乐等的）风格流派：[The](/post/the/) impressionist **[movement](/post/movement/)** [in](/post/in/) [art](/post/art/).
 
 - **形容词**:
-1. 活跃的；动态的：The dance has a lively and **movement** quality.
+1. 活跃的；动态的：[The](/post/the/) [dance](/post/dance/) has [a](/post/a/) [lively](/post/lively/) [and](/post/and/) **[movement](/post/movement/)** [quality](/post/quality/).
 
 ## 短语
-- "a movement of the hand" 手的移动
-- "social movement" 社会运动
-- "musical movement" 音乐篇章（如交响曲的一部分）
+- "[a](/post/a/) [movement](/post/movement/) [of](/post/of/) [the](/post/the/) [hand](/post/hand/)" 手的移动
+- "[social](/post/social/) [movement](/post/movement/)" 社会运动
+- "[musical](/post/musical/) [movement](/post/movement/)" 音乐篇章（如交响曲的一部分）
 
 ## 例句
-- 名词: "The peaceful **movement** against climate change attracted millions of participants."
-- 形容词: "The choreography was full of fluid and **movement**."
+- 名词: "[The](/post/the/) [peaceful](/post/peaceful/) **[movement](/post/movement/)** [against](/post/against/) [climate](/post/climate/) [change](/post/change/) attracted millions [of](/post/of/) participants."
+- 形容词: "[The](/post/the/) choreography was [full](/post/full/) [of](/post/of/) [fluid](/post/fluid/) [and](/post/and/) **[movement](/post/movement/)**."
 
 ## 同义词
-- shift
-- action
-- campaign
-- tide
-- wave
+- [shift](/post/shift/)
+- [action](/post/action/)
+- [campaign](/post/campaign/)
+- [tide](/post/tide/)
+- [wave](/post/wave/)

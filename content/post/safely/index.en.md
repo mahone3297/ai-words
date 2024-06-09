@@ -7,28 +7,28 @@ description = '[ˈseifli] ad.安全地；可靠地'
 keywords = ['ai words', 'safely']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /səˈfaɪli/
 
 ## Definitions
-- **Adverb**: In a way that is safe or without risk; securely. For example: "She crossed the street safely."
-- **Adjective**: Characterized by safety or freedom from danger or harm. For example: "The house was designed with safety features in mind."
-- **Noun**: Safety or the state of being safe. For example: "The child felt safe in their parent's arms."
+- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [way](/en/post/way/) [that](/en/post/that/) is [safe](/en/post/safe/) [or](/en/post/or/) [without](/en/post/without/) [risk](/en/post/risk/); securely. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) crossed [the](/en/post/the/) [street](/en/post/street/) [safely](/en/post/safely/)."
+- **[Adjective](/en/post/adjective/)**: Characterized [by](/en/post/by/) [safety](/en/post/safety/) [or](/en/post/or/) [freedom](/en/post/freedom/) [from](/en/post/from/) [danger](/en/post/danger/) [or](/en/post/or/) [harm](/en/post/harm/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [house](/en/post/house/) was designed [with](/en/post/with/) [safety](/en/post/safety/) features [in](/en/post/in/) [mind](/en/post/mind/)."
+- **[Noun](/en/post/noun/)**: [Safety](/en/post/safety/) [or](/en/post/or/) [the](/en/post/the/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [safe](/en/post/safe/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [child](/en/post/child/) felt [safe](/en/post/safe/) [in](/en/post/in/) [their](/en/post/their/) parent's arms."
 
 ## Phrases
-- "Drive safely" is a common advice before someone embarks on a journey.
-- "Safety first" is a principle emphasizing the importance of safety in various contexts.
-- "Safely tucked away" means securely hidden or protected.
+- "[Drive](/en/post/drive/) [safely](/en/post/safely/)" is [a](/en/post/a/) [common](/en/post/common/) [advice](/en/post/advice/) [before](/en/post/before/) [someone](/en/post/someone/) embarks [on](/en/post/on/) [a](/en/post/a/) [journey](/en/post/journey/).
+- "[Safety](/en/post/safety/) [first](/en/post/first/)" is [a](/en/post/a/) [principle](/en/post/principle/) emphasizing [the](/en/post/the/) [importance](/en/post/importance/) [of](/en/post/of/) [safety](/en/post/safety/) [in](/en/post/in/) [various](/en/post/various/) contexts.
+- "[Safely](/en/post/safely/) tucked [away](/en/post/away/)" [means](/en/post/means/) securely hidden [or](/en/post/or/) protected.
 
-## Example Sentences
-- **Adverb**: "He drove carefully to ensure his journey was completed safely."
-- **Adjective**: "The children were playing safely in the playground."
-- **Noun**: "She locked the door to ensure their safety while they slept."
+## [Example](/en/post/example/) Sentences
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) drove carefully [to](/en/post/to/) [ensure](/en/post/ensure/) [his](/en/post/his/) [journey](/en/post/journey/) was completed [safely](/en/post/safely/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) children were playing [safely](/en/post/safely/) [in](/en/post/in/) [the](/en/post/the/) [playground](/en/post/playground/)."
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) locked [the](/en/post/the/) [door](/en/post/door/) [to](/en/post/to/) [ensure](/en/post/ensure/) [their](/en/post/their/) [safety](/en/post/safety/) [while](/en/post/while/) [they](/en/post/they/) slept."
 
 ## Synonyms
 - Securely
-- Safely
-- Safely (as an adverb)
+- [Safely](/en/post/safely/)
+- [Safely](/en/post/safely/) ([as](/en/post/as/) an [adverb](/en/post/adverb/))
 - Protected
 - Safekeeping
 - Secured

@@ -11,21 +11,21 @@ keywords = ['ai words', 'scholarship']
 /ˈskɑːləpʃɪp/
 
 ## 释义
-- **名词**: 一种基于学术成绩、才能或其他资格而提供的财政援助，通常用于支付教育费用。例如: "She received a full scholarship to study at Harvard University."
+- **名词**: 一种基于学术成绩、才能或其他资格而提供的财政援助，通常用于支付教育费用。例如: "[She](/post/she/) received [a](/post/a/) [full](/post/full/) [scholarship](/post/scholarship/) [to](/post/to/) [study](/post/study/) [at](/post/at/) Harvard [University](/post/university/)."
 
 ## 短语
-- "Academic scholarship" 指基于学术成就的奖学金。
-- "Sports scholarship" 是为有体育特长的学生提供的奖学金。
-- "Need-based scholarship" 是根据经济需要提供的奖学金。
+- "[Academic](/post/academic/) [scholarship](/post/scholarship/)" 指基于学术成就的奖学金。
+- "Sports [scholarship](/post/scholarship/)" 是为有体育特长的学生提供的奖学金。
+- "Need-based [scholarship](/post/scholarship/)" 是根据经济需要提供的奖学金。
 
 ## 例句
-- "I was awarded a scholarship for my outstanding performance in mathematics."
-- "The university offers various scholarships to attract talented students."
-- "His exceptional talent in football earned him a college scholarship."
+- "I was awarded [a](/post/a/) [scholarship](/post/scholarship/) [for](/post/for/) [my](/post/my/) [outstanding](/post/outstanding/) [performance](/post/performance/) [in](/post/in/) [mathematics](/post/mathematics/)."
+- "[The](/post/the/) [university](/post/university/) offers [various](/post/various/) scholarships [to](/post/to/) [attract](/post/attract/) talented students."
+- "[His](/post/his/) exceptional [talent](/post/talent/) [in](/post/in/) [football](/post/football/) earned [him](/post/him/) [a](/post/a/) [college](/post/college/) [scholarship](/post/scholarship/)."
 
 ## 同义词
-- Grant
+- [Grant](/post/grant/)
 - Bursary
-- Financial aid
+- [Financial](/post/financial/) [aid](/post/aid/)
 - Endowment
-- Award
+- [Award](/post/award/)

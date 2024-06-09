@@ -11,20 +11,20 @@ keywords = ['ai words', 'dusk']
 /ˈdʌsk/
 
 ## 释义
-- **名词**: 黄昏，傍晚，天黑前的一段时间。例如: "The birds started chirping as dusk fell."
-- **形容词**: 暗淡的，黄昏时的。例如: "The dusk sky was painted with shades of orange and purple."
+- **名词**: 黄昏，傍晚，天黑前的一段时间。例如: "[The](/post/the/) birds started chirping [as](/post/as/) [dusk](/post/dusk/) fell."
+- **形容词**: 暗淡的，黄昏时的。例如: "[The](/post/the/) [dusk](/post/dusk/) [sky](/post/sky/) was painted [with](/post/with/) shades [of](/post/of/) [orange](/post/orange/) [and](/post/and/) [purple](/post/purple/)."
 
 ## 短语
-- "at dusk" 在黄昏时分。
-- "dusk till dawn" 从黄昏到黎明。
+- "[at](/post/at/) [dusk](/post/dusk/)" 在黄昏时分。
+- "[dusk](/post/dusk/) [till](/post/till/) [dawn](/post/dawn/)" 从黄昏到黎明。
 
 ## 例句
-- 名词: "We often take a walk in the park at dusk."
-- 形容词: "The streetlights illuminated the dusk landscape."
+- 名词: "[We](/post/we/) [often](/post/often/) [take](/post/take/) [a](/post/a/) [walk](/post/walk/) [in](/post/in/) [the](/post/the/) [park](/post/park/) [at](/post/at/) [dusk](/post/dusk/)."
+- 形容词: "[The](/post/the/) streetlights illuminated [the](/post/the/) [dusk](/post/dusk/) landscape."
 
 ## 同义词
 - twilight
-- evening
-- sunset
+- [evening](/post/evening/)
+- [sunset](/post/sunset/)
 - gloaming
 - crepuscule

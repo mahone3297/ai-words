@@ -11,19 +11,19 @@ keywords = ['ai words', 'upstairs']
 /ˈʌp.steəz/
 
 ## 释义
-- **副词**: 指向上的方向，通常表示楼层的上一层。例如: "The bedrooms are upstairs."
-- **形容词**: 用来描述位于楼上的位置。例如: "There's an upstairs bathroom."
+- **副词**: 指向上的方向，通常表示楼层的上一层。例如: "[The](/post/the/) bedrooms are [upstairs](/post/upstairs/)."
+- **形容词**: 用来描述位于楼上的位置。例如: "There's an [upstairs](/post/upstairs/) [bathroom](/post/bathroom/)."
 
 ## 短语
-- "Go upstairs" 意为上楼。
-- "Upstairs neighbor" 指住在楼上的人。
+- "[Go](/post/go/) [upstairs](/post/upstairs/)" 意为上楼。
+- "[Upstairs](/post/upstairs/) neighbor" 指住在楼上的人。
 
 ## 例句
-- 副词: "Please take the books upstairs to your room."
-- 形容词: "The upstairs apartment has a balcony overlooking the street."
+- 副词: "[Please](/post/please/) [take](/post/take/) [the](/post/the/) books [upstairs](/post/upstairs/) [to](/post/to/) [your](/post/your/) [room](/post/room/)."
+- 形容词: "[The](/post/the/) [upstairs](/post/upstairs/) [apartment](/post/apartment/) has [a](/post/a/) balcony overlooking [the](/post/the/) [street](/post/street/)."
 
 ## 同义词
-- Up
-- On the upper floor
-- Above
-- In the upstairs part of the building
+- [Up](/post/up/)
+- [On](/post/on/) [the](/post/the/) [upper](/post/upper/) [floor](/post/floor/)
+- [Above](/post/above/)
+- [In](/post/in/) [the](/post/the/) [upstairs](/post/upstairs/) [part](/post/part/) [of](/post/of/) [the](/post/the/) [building](/post/building/)

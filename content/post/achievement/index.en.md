@@ -7,30 +7,30 @@ description = '[əˈt∫iːvmənt] n.完成；成就/绩'
 keywords = ['ai words', 'achievement']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /əˈtʃiːvəmənt/
 
 ## Definitions
-- **Noun**: A **noun** (n) referring to the act of reaching a goal, accomplishing something, or gaining a significant result. For example: "His academic achievements were exceptional."
-- **Verb**: To attain or secure a particular level of success or a desired outcome. For example: "She has achieved her dream of becoming a doctor."
-- **Adjective**: Characterizing something as accomplished or noteworthy. For example: "Her outstanding achievement received widespread recognition."
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) **[noun](/en/post/noun/)** (n) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) reaching [a](/en/post/a/) [goal](/en/post/goal/), accomplishing [something](/en/post/something/), [or](/en/post/or/) gaining [a](/en/post/a/) [significant](/en/post/significant/) [result](/en/post/result/). [For](/en/post/for/) [example](/en/post/example/): "[His](/en/post/his/) [academic](/en/post/academic/) achievements were exceptional."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [attain](/en/post/attain/) [or](/en/post/or/) [secure](/en/post/secure/) [a](/en/post/a/) [particular](/en/post/particular/) [level](/en/post/level/) [of](/en/post/of/) [success](/en/post/success/) [or](/en/post/or/) [a](/en/post/a/) desired [outcome](/en/post/outcome/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) has achieved [her](/en/post/her/) [dream](/en/post/dream/) [of](/en/post/of/) becoming [a](/en/post/a/) [doctor](/en/post/doctor/)."
+- **[Adjective](/en/post/adjective/)**: Characterizing [something](/en/post/something/) [as](/en/post/as/) accomplished [or](/en/post/or/) noteworthy. [For](/en/post/for/) [example](/en/post/example/): "[Her](/en/post/her/) [outstanding](/en/post/outstanding/) [achievement](/en/post/achievement/) received [widespread](/en/post/widespread/) [recognition](/en/post/recognition/)."
 
 ## Phrases
-- "Achieve a goal" means to reach or fulfill a planned objective.
-- "Academic achievements" encompasses the accomplishments made in education.
-- "Lifetime achievement award" is given for a person's significant contributions over their career.
+- "[Achieve](/en/post/achieve/) [a](/en/post/a/) [goal](/en/post/goal/)" [means](/en/post/means/) [to](/en/post/to/) [reach](/en/post/reach/) [or](/en/post/or/) fulfill [a](/en/post/a/) planned [objective](/en/post/objective/).
+- "[Academic](/en/post/academic/) achievements" encompasses [the](/en/post/the/) accomplishments made [in](/en/post/in/) [education](/en/post/education/).
+- "[Lifetime](/en/post/lifetime/) [achievement](/en/post/achievement/) [award](/en/post/award/)" is given [for](/en/post/for/) [a](/en/post/a/) person's [significant](/en/post/significant/) contributions [over](/en/post/over/) [their](/en/post/their/) [career](/en/post/career/).
 
-## Example Sentences
-- **Noun**: "After years of hard work, he finally achieved his financial independence."
-- **Verb**: "The team worked tirelessly to achieve victory in the championship game."
-- **Adjective**: "Her research was an incredible scientific achievement."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[After](/en/post/after/) years [of](/en/post/of/) [hard](/en/post/hard/) [work](/en/post/work/), [he](/en/post/he/) [finally](/en/post/finally/) achieved [his](/en/post/his/) [financial](/en/post/financial/) [independence](/en/post/independence/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [team](/en/post/team/) worked tirelessly [to](/en/post/to/) [achieve](/en/post/achieve/) [victory](/en/post/victory/) [in](/en/post/in/) [the](/en/post/the/) championship [game](/en/post/game/)."
+- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [research](/en/post/research/) was an incredible [scientific](/en/post/scientific/) [achievement](/en/post/achievement/)."
 
 ## Synonyms
-- Success
+- [Success](/en/post/success/)
 - Accomplishment
-- Victory
+- [Victory](/en/post/victory/)
 - Milestone
-- Triumph
-- Outcome
-- Result
-- Progress
+- [Triumph](/en/post/triumph/)
+- [Outcome](/en/post/outcome/)
+- [Result](/en/post/result/)
+- [Progress](/en/post/progress/)

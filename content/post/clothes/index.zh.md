@@ -11,21 +11,21 @@ keywords = ['ai words', 'clothes']
 /kləʊðz/
 
 ## 释义
-- **名词**: 衣物，服装，尤指日常穿着的衣物。例如: "She hung her clothes on the line to dry."
+- **名词**: 衣物，服装，尤指日常穿着的衣物。例如: "[She](/post/she/) hung [her](/post/her/) [clothes](/post/clothes/) [on](/post/on/) [the](/post/the/) [line](/post/line/) [to](/post/to/) [dry](/post/dry/)."
 - **复数形式**: 不可数名词，通常不使用单数形式。
 
 ## 短语
-- "Wear clothes" 意为穿衣服。
-- "Do your clothes" 指洗、熨或整理衣物。
-- "Clothes shopping" 是指购买衣物。
+- "[Wear](/post/wear/) [clothes](/post/clothes/)" 意为穿衣服。
+- "[Do](/post/do/) [your](/post/your/) [clothes](/post/clothes/)" 指洗、熨或整理衣物。
+- "[Clothes](/post/clothes/) [shopping](/post/shopping/)" 是指购买衣物。
 
 ## 例句
-- 名词: "I need to buy some new clothes for the winter season."
-- "Please hang up your wet clothes before they get wrinkled."
+- 名词: "I [need](/post/need/) [to](/post/to/) [buy](/post/buy/) [some](/post/some/) [new](/post/new/) [clothes](/post/clothes/) [for](/post/for/) [the](/post/the/) [winter](/post/winter/) [season](/post/season/)."
+- "[Please](/post/please/) [hang](/post/hang/) [up](/post/up/) [your](/post/your/) [wet](/post/wet/) [clothes](/post/clothes/) [before](/post/before/) [they](/post/they/) [get](/post/get/) wrinkled."
 
 ## 同义词
 - Apparel
 - Garments
 - Attire
-- Dress
+- [Dress](/post/dress/)
 - Outfit

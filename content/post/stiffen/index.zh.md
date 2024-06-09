@@ -12,20 +12,20 @@ keywords = ['ai words', 'stiffen']
 
 ## 释义
 - **动词**:
-  - 使变硬，使僵硬。例如: "The fabric stiffened after being washed in cold water."
-  - 增强，加强。例如: "Her resolve stiffened as she faced the challenge."
+  - 使变硬，使僵硬。例如: "[The](/post/the/) [fabric](/post/fabric/) stiffened [after](/post/after/) [being](/post/being/) washed [in](/post/in/) [cold](/post/cold/) [water](/post/water/)."
+  - 增强，加强。例如: "[Her](/post/her/) [resolve](/post/resolve/) stiffened [as](/post/as/) [she](/post/she/) faced [the](/post/the/) [challenge](/post/challenge/)."
 
 ## 短语
-- "stiffen one's spine" 意味着增加勇气或决心。
-- "stiffen the penalty" 意味着加重惩罚。
+- "[stiffen](/post/stiffen/) one's spine" 意味着增加勇气或决心。
+- "[stiffen](/post/stiffen/) [the](/post/the/) penalty" 意味着加重惩罚。
 
 ## 例句
-- "The glue began to stiffen as it dried."
-- "His determination stiffened after hearing the criticism."
+- "[The](/post/the/) [glue](/post/glue/) began [to](/post/to/) [stiffen](/post/stiffen/) [as](/post/as/) [it](/post/it/) dried."
+- "[His](/post/his/) [determination](/post/determination/) stiffened [after](/post/after/) hearing [the](/post/the/) [criticism](/post/criticism/)."
 
 ## 同义词
-- harden
+- [harden](/post/harden/)
 - toughen
-- reinforce
-- strengthen
-- firm up
+- [reinforce](/post/reinforce/)
+- [strengthen](/post/strengthen/)
+- [firm](/post/firm/) [up](/post/up/)

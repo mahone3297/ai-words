@@ -7,38 +7,38 @@ description = '[ˈleizi] a.懒惰的，懒散的'
 keywords = ['ai words', 'lazy']
 +++
 
-## Word: Lazy
+## [Word](/en/post/word/): [Lazy](/en/post/lazy/)
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /ˈleɪzi/
 
 ## Definitions
-- **Adjective**: (adj) Reluctant to work or exert effort; idle or indolent. Characterized by a lack of effort or energy. 
+- **[Adjective](/en/post/adjective/)**: (adj) [Reluctant](/en/post/reluctant/) [to](/en/post/to/) [work](/en/post/work/) [or](/en/post/or/) [exert](/en/post/exert/) [effort](/en/post/effort/); [idle](/en/post/idle/) [or](/en/post/or/) indolent. Characterized [by](/en/post/by/) [a](/en/post/a/) [lack](/en/post/lack/) [of](/en/post/of/) [effort](/en/post/effort/) [or](/en/post/or/) [energy](/en/post/energy/). 
 
-  - _Example Sentence_: "The cat was so lazy that it slept all day long."
+  - _Example Sentence_: "[The](/en/post/the/) [cat](/en/post/cat/) was [so](/en/post/so/) [lazy](/en/post/lazy/) [that](/en/post/that/) [it](/en/post/it/) slept [all](/en/post/all/) [day](/en/post/day/) [long](/en/post/long/)."
   
-- **Noun**: (n) Informally, a person who is habitually lazy.
+- **[Noun](/en/post/noun/)**: (n) Informally, [a](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is habitually [lazy](/en/post/lazy/).
 
-  - _Example Sentence_: "Don't be such a lazy; get up and exercise!"
+  - _Example Sentence_: "Don't [be](/en/post/be/) [such](/en/post/such/) [a](/en/post/a/) [lazy](/en/post/lazy/); [get](/en/post/get/) [up](/en/post/up/) [and](/en/post/and/) [exercise](/en/post/exercise/)!"
 
 ## Phrases
-- "Lazy Sunday": A day spent relaxing and not engaging in much activity.
-- "Lazy river": A water ride in a theme park or resort where guests float along a slow-moving artificial river.
-- "Lazy Susan": A rotating tray placed on a table to easily share food or condiments.
+- "[Lazy](/en/post/lazy/) Sunday": [A](/en/post/a/) [day](/en/post/day/) spent relaxing [and](/en/post/and/) [not](/en/post/not/) engaging [in](/en/post/in/) [much](/en/post/much/) [activity](/en/post/activity/).
+- "[Lazy](/en/post/lazy/) [river](/en/post/river/)": [A](/en/post/a/) [water](/en/post/water/) [ride](/en/post/ride/) [in](/en/post/in/) [a](/en/post/a/) theme [park](/en/post/park/) [or](/en/post/or/) [resort](/en/post/resort/) [where](/en/post/where/) guests [float](/en/post/float/) [along](/en/post/along/) [a](/en/post/a/) slow-moving [artificial](/en/post/artificial/) [river](/en/post/river/).
+- "[Lazy](/en/post/lazy/) Susan": [A](/en/post/a/) rotating [tray](/en/post/tray/) placed [on](/en/post/on/) [a](/en/post/a/) [table](/en/post/table/) [to](/en/post/to/) [easily](/en/post/easily/) [share](/en/post/share/) [food](/en/post/food/) [or](/en/post/or/) condiments.
 
-## Example Sentences
-- **Adjective**: "He's too lazy to cook, so he eats out every night."
-- "She decided to take a lazy Sunday and read books all day."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "He's [too](/en/post/too/) [lazy](/en/post/lazy/) [to](/en/post/to/) [cook](/en/post/cook/), [so](/en/post/so/) [he](/en/post/he/) eats [out](/en/post/out/) [every](/en/post/every/) [night](/en/post/night/)."
+- "[She](/en/post/she/) decided [to](/en/post/to/) [take](/en/post/take/) [a](/en/post/a/) [lazy](/en/post/lazy/) Sunday [and](/en/post/and/) [read](/en/post/read/) books [all](/en/post/all/) [day](/en/post/day/)."
 
 ## Synonyms
 - Indolent
 - Slack
-- Idle
+- [Idle](/en/post/idle/)
 - Slothful
 - Unmotivated
 - Lethargic
-- Couch potato
+- Couch [potato](/en/post/potato/)
 - Work-shy
 - Lackadaisical
 - Remiss
-- Negligent (in terms of duties or responsibilities)
+- Negligent ([in](/en/post/in/) terms [of](/en/post/of/) duties [or](/en/post/or/) responsibilities)

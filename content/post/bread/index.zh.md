@@ -11,20 +11,20 @@ keywords = ['ai words', 'bread']
 /bred/
 
 ## 释义
-- **名词 (n)**: 由面粉、酵母、水等原料制成的食品，通常为长条形或圆形，烤熟后可食用。例如: "She had toast with butter for breakfast."
-- **名词 (n)**: 食物的象征，常用于比喻。例如: "Bread is the staff of life."
+- **名词 (n)**: 由面粉、酵母、水等原料制成的食品，通常为长条形或圆形，烤熟后可食用。例如: "[She](/post/she/) had [toast](/post/toast/) [with](/post/with/) [butter](/post/butter/) [for](/post/for/) [breakfast](/post/breakfast/)."
+- **名词 (n)**: 食物的象征，常用于比喻。例如: "[Bread](/post/bread/) is [the](/post/the/) [staff](/post/staff/) [of](/post/of/) [life](/post/life/)."
 
 ## 短语
-- "Bread and butter" 指基本的生活来源或收入。
-- "Break bread together" 意味着共同进餐，象征和解或友谊。
+- "[Bread](/post/bread/) [and](/post/and/) [butter](/post/butter/)" 指基本的生活来源或收入。
+- "[Break](/post/break/) [bread](/post/bread/) [together](/post/together/)" 意味着共同进餐，象征和解或友谊。
 
 ## 例句
-- 名词: "I love the smell of freshly baked bread in the morning."
-- 名词: "They rely on tourism for their bread and butter."
+- 名词: "I [love](/post/love/) [the](/post/the/) [smell](/post/smell/) [of](/post/of/) freshly baked [bread](/post/bread/) [in](/post/in/) [the](/post/the/) [morning](/post/morning/)."
+- 名词: "[They](/post/they/) [rely](/post/rely/) [on](/post/on/) tourism [for](/post/for/) [their](/post/their/) [bread](/post/bread/) [and](/post/and/) [butter](/post/butter/)."
 
 ## 同义词
-- Loaf
+- [Loaf](/post/loaf/)
 - Bun
-- Roll
+- [Roll](/post/roll/)
 - Sourdough
 - Pastry

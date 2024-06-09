@@ -11,20 +11,20 @@ keywords = ['ai words', 'lavatory']
 /ˈlævətəri/
 
 ## 释义
-- **名词**: 公共或私人的卫生设施，尤指厕所。例如: "There's a lavatory at the end of the corridor."
-- **名词 (informal)**: 在英国英语中，常指洗手间或浴室。例如: "I need to use the lavatory."
+- **名词**: 公共或私人的卫生设施，尤指厕所。例如: "There's [a](/post/a/) [lavatory](/post/lavatory/) [at](/post/at/) [the](/post/the/) [end](/post/end/) [of](/post/of/) [the](/post/the/) [corridor](/post/corridor/)."
+- **名词 (informal)**: 在英国英语中，常指洗手间或浴室。例如: "I [need](/post/need/) [to](/post/to/) [use](/post/use/) [the](/post/the/) [lavatory](/post/lavatory/)."
 
 ## 短语
-- "Lavatory break" 意指短暂离开去上厕所。
-- "Public lavatory" 指公共厕所。
+- "[Lavatory](/post/lavatory/) [break](/post/break/)" 意指短暂离开去上厕所。
+- "[Public](/post/public/) [lavatory](/post/lavatory/)" 指公共厕所。
 
 ## 例句
-- 名词: "Could you tell me where the nearest lavatory is?"
-- 名词 (informal): "Excuse me, do you know where the lavatory is for guests?"
+- 名词: "[Could](/post/could/) [you](/post/you/) [tell](/post/tell/) [me](/post/me/) [where](/post/where/) [the](/post/the/) nearest [lavatory](/post/lavatory/) is?"
+- 名词 (informal): "[Excuse](/post/excuse/) [me](/post/me/), [do](/post/do/) [you](/post/you/) [know](/post/know/) [where](/post/where/) [the](/post/the/) [lavatory](/post/lavatory/) is [for](/post/for/) guests?"
 
 ## 同义词
-- Toilet
+- [Toilet](/post/toilet/)
 - Restroom
 - Washroom
-- Bathroom
-- WC (Water Closet)
+- [Bathroom](/post/bathroom/)
+- WC ([Water](/post/water/) Closet)

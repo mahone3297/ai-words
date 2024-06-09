@@ -7,35 +7,35 @@ description = '[wɔːk] vi.&n.走，步行'
 keywords = ['ai words', 'walk']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /wɔːk/
 
 ## Definitions
-### Noun
-- **A noun referring to the act**: The act of moving on foot, typically at a leisurely pace, for exercise or transportation. For example: "After the long flight, she enjoyed a relaxing walk along the beach."
-- **A noun referring to distance**: A particular stretch of ground that one covers while walking. For example: "The park has several walking trails."
+### [Noun](/en/post/noun/)
+- **[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/)**: [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) moving [on](/en/post/on/) [foot](/en/post/foot/), typically [at](/en/post/at/) [a](/en/post/a/) leisurely [pace](/en/post/pace/), [for](/en/post/for/) [exercise](/en/post/exercise/) [or](/en/post/or/) [transportation](/en/post/transportation/). [For](/en/post/for/) [example](/en/post/example/): "[After](/en/post/after/) [the](/en/post/the/) [long](/en/post/long/) [flight](/en/post/flight/), [she](/en/post/she/) enjoyed [a](/en/post/a/) relaxing [walk](/en/post/walk/) [along](/en/post/along/) [the](/en/post/the/) [beach](/en/post/beach/)."
+- **[A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [distance](/en/post/distance/)**: [A](/en/post/a/) [particular](/en/post/particular/) [stretch](/en/post/stretch/) [of](/en/post/of/) [ground](/en/post/ground/) [that](/en/post/that/) [one](/en/post/one/) covers [while](/en/post/while/) walking. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [park](/en/post/park/) has [several](/en/post/several/) walking trails."
 
-### Verb
-- **To move by using one's feet**: To go from one place to another on foot. For example: "She walks to work every day."
-- **To perform the act of walking**: To take steps purposefully, as part of exercise or routine. For example: "He walks his dog every morning."
+### [Verb](/en/post/verb/)
+- **[To](/en/post/to/) [move](/en/post/move/) [by](/en/post/by/) using one's feet**: [To](/en/post/to/) [go](/en/post/go/) [from](/en/post/from/) [one](/en/post/one/) [place](/en/post/place/) [to](/en/post/to/) [another](/en/post/another/) [on](/en/post/on/) [foot](/en/post/foot/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) walks [to](/en/post/to/) [work](/en/post/work/) [every](/en/post/every/) [day](/en/post/day/)."
+- **[To](/en/post/to/) [perform](/en/post/perform/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) walking**: [To](/en/post/to/) [take](/en/post/take/) steps purposefully, [as](/en/post/as/) [part](/en/post/part/) [of](/en/post/of/) [exercise](/en/post/exercise/) [or](/en/post/or/) [routine](/en/post/routine/). [For](/en/post/for/) [example](/en/post/example/): "[He](/en/post/he/) walks [his](/en/post/his/) [dog](/en/post/dog/) [every](/en/post/every/) [morning](/en/post/morning/)."
 
-### Adjective
-- Describing the quality of being suitable for walking: "The path was easy to walk on."
-- Referring to the ability to walk: "An elderly person with limited mobility may have difficulty walking."
+### [Adjective](/en/post/adjective/)
+- Describing [the](/en/post/the/) [quality](/en/post/quality/) [of](/en/post/of/) [being](/en/post/being/) [suitable](/en/post/suitable/) [for](/en/post/for/) walking: "[The](/en/post/the/) [path](/en/post/path/) was [easy](/en/post/easy/) [to](/en/post/to/) [walk](/en/post/walk/) [on](/en/post/on/)."
+- Referring [to](/en/post/to/) [the](/en/post/the/) [ability](/en/post/ability/) [to](/en/post/to/) [walk](/en/post/walk/): "An elderly [person](/en/post/person/) [with](/en/post/with/) [limited](/en/post/limited/) mobility [may](/en/post/may/) [have](/en/post/have/) [difficulty](/en/post/difficulty/) walking."
 
-### Adverb
-- Used to describe how someone walks: "He walks quickly down the street."
+### [Adverb](/en/post/adverb/)
+- [Used](/en/post/used/) [to](/en/post/to/) [describe](/en/post/describe/) [how](/en/post/how/) [someone](/en/post/someone/) walks: "[He](/en/post/he/) walks [quickly](/en/post/quickly/) [down](/en/post/down/) [the](/en/post/the/) [street](/en/post/street/)."
 
 ## Phrases
-- "Take a walk" means to go for a leisurely stroll.
-- "Walk the dog" refers to the act of accompanying a pet on a walk.
-- "Walking the plank" is a metaphor for a dangerous or difficult situation.
+- "[Take](/en/post/take/) [a](/en/post/a/) [walk](/en/post/walk/)" [means](/en/post/means/) [to](/en/post/to/) [go](/en/post/go/) [for](/en/post/for/) [a](/en/post/a/) leisurely stroll.
+- "[Walk](/en/post/walk/) [the](/en/post/the/) [dog](/en/post/dog/)" refers [to](/en/post/to/) [the](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) accompanying [a](/en/post/a/) [pet](/en/post/pet/) [on](/en/post/on/) [a](/en/post/a/) [walk](/en/post/walk/).
+- "Walking [the](/en/post/the/) plank" is [a](/en/post/a/) metaphor [for](/en/post/for/) [a](/en/post/a/) [dangerous](/en/post/dangerous/) [or](/en/post/or/) [difficult](/en/post/difficult/) [situation](/en/post/situation/).
 
-## Example Sentences
-- **Noun**: "I love going for long walks in the countryside."
-- **Verb**: "She decided to walk instead of taking the bus to save money."
-- **Adjective**: "The wheelchair ramp made it easy for him to walk up to the house."
-- **Adverb**: "He walks briskly to keep fit."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "I [love](/en/post/love/) going [for](/en/post/for/) [long](/en/post/long/) walks [in](/en/post/in/) [the](/en/post/the/) [countryside](/en/post/countryside/)."
+- **[Verb](/en/post/verb/)**: "[She](/en/post/she/) decided [to](/en/post/to/) [walk](/en/post/walk/) [instead](/en/post/instead/) [of](/en/post/of/) taking [the](/en/post/the/) [bus](/en/post/bus/) [to](/en/post/to/) [save](/en/post/save/) [money](/en/post/money/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) wheelchair ramp made [it](/en/post/it/) [easy](/en/post/easy/) [for](/en/post/for/) [him](/en/post/him/) [to](/en/post/to/) [walk](/en/post/walk/) [up](/en/post/up/) [to](/en/post/to/) [the](/en/post/the/) [house](/en/post/house/)."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) walks briskly [to](/en/post/to/) [keep](/en/post/keep/) [fit](/en/post/fit/)."
 
 ## Synonyms
 - Stroll
@@ -43,5 +43,5 @@ keywords = ['ai words', 'walk']
 - Hike
 -amble
 - saunter
-- stroll about
+- stroll [about](/en/post/about/)
 - perambulate

@@ -11,20 +11,20 @@ keywords = ['ai words', 'edition']
 /ˈɛdɪʃən/
 
 ## 释义
-- **名词 (n)**: 版本，通常指出版物的不同版本。例如: "This is the second edition of the book."
-- **名词**: 发行，特指报纸、杂志的每日或每期发行。例如: "The evening edition has just come out."
+- **名词 (n)**: 版本，通常指出版物的不同版本。例如: "[This](/post/this/) is [the](/post/the/) [second](/post/second/) [edition](/post/edition/) [of](/post/of/) [the](/post/the/) [book](/post/book/)."
+- **名词**: 发行，特指报纸、杂志的每日或每期发行。例如: "[The](/post/the/) [evening](/post/evening/) [edition](/post/edition/) has [just](/post/just/) [come](/post/come/) [out](/post/out/)."
 
 ## 短语
-- "Limited edition" 指限量版，通常用于收藏品或商品。
-- "Special edition" 指特别版，可能包含额外的内容或改进。
+- "[Limited](/post/limited/) [edition](/post/edition/)" 指限量版，通常用于收藏品或商品。
+- "[Special](/post/special/) [edition](/post/edition/)" 指特别版，可能包含额外的内容或改进。
 
 ## 例句
-- 名词: "The new edition of the dictionary includes many updated entries."
-- 名词: "I prefer the collector's edition of the game with extra features."
+- 名词: "[The](/post/the/) [new](/post/new/) [edition](/post/edition/) [of](/post/of/) [the](/post/the/) [dictionary](/post/dictionary/) includes [many](/post/many/) updated entries."
+- 名词: "I [prefer](/post/prefer/) [the](/post/the/) collector's [edition](/post/edition/) [of](/post/of/) [the](/post/the/) [game](/post/game/) [with](/post/with/) [extra](/post/extra/) features."
 
 ## 同义词
-- Version
-- Release
-- Issue
+- [Version](/post/version/)
+- [Release](/post/release/)
+- [Issue](/post/issue/)
 - Variant
-- Edition (在某些上下文中可互换使用)
+- [Edition](/post/edition/) (在某些上下文中可互换使用)

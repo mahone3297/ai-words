@@ -11,20 +11,20 @@ keywords = ['ai words', 'rational']
 /ræʃəˈnəl/
 
 ## 释义
-- **形容词**: 基于理性的，合乎逻辑的，合理的。例如: "She made a rational decision based on the available information."
-- **名词**: 理性的个体，理性主义者。例如: "He is known for his rational approach to problem-solving."
+- **形容词**: 基于理性的，合乎逻辑的，合理的。例如: "[She](/post/she/) made [a](/post/a/) [rational](/post/rational/) [decision](/post/decision/) based [on](/post/on/) [the](/post/the/) [available](/post/available/) [information](/post/information/)."
+- **名词**: 理性的个体，理性主义者。例如: "[He](/post/he/) is known [for](/post/for/) [his](/post/his/) [rational](/post/rational/) [approach](/post/approach/) [to](/post/to/) problem-solving."
 
 ## 短语
-- "Act with rationality" 意味着用理智的方式行动。
-- "Rational thinking" 指的是基于逻辑和理性的思考过程。
+- "[Act](/post/act/) [with](/post/with/) rationality" 意味着用理智的方式行动。
+- "[Rational](/post/rational/) thinking" 指的是基于逻辑和理性的思考过程。
 
 ## 例句
-- 形容词: "His rational argument convinced the audience."
-- 名词: "The philosopher was a proponent of rationalism."
+- 形容词: "[His](/post/his/) [rational](/post/rational/) [argument](/post/argument/) convinced [the](/post/the/) [audience](/post/audience/)."
+- 名词: "[The](/post/the/) [philosopher](/post/philosopher/) was [a](/post/a/) proponent [of](/post/of/) rationalism."
 
 ## 同义词
-- Logical
-- Sensible
+- [Logical](/post/logical/)
+- [Sensible](/post/sensible/)
 - Prudent
 - Cogent
-- Sound
+- [Sound](/post/sound/)

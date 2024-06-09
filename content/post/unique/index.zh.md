@@ -11,20 +11,20 @@ keywords = ['ai words', 'unique']
 /juːˈniːk/
 
 ## 释义
-- **形容词**: 独一无二的，独特的，仅有的。例如: "This painting has a unique style."
-- **名词**: 唯一的事物，特例。例如: "The unique species found in this region are under threat."
+- **形容词**: 独一无二的，独特的，仅有的。例如: "[This](/post/this/) [painting](/post/painting/) has [a](/post/a/) [unique](/post/unique/) [style](/post/style/)."
+- **名词**: 唯一的事物，特例。例如: "[The](/post/the/) [unique](/post/unique/) species [found](/post/found/) [in](/post/in/) [this](/post/this/) [region](/post/region/) are [under](/post/under/) [threat](/post/threat/)."
 
 ## 短语
-- "One of a kind" 意味着独一无二的。
-- "Something unique to someone" 指某人特有的东西或特点。
+- "[One](/post/one/) [of](/post/of/) [a](/post/a/) [kind](/post/kind/)" 意味着独一无二的。
+- "[Something](/post/something/) [unique](/post/unique/) [to](/post/to/) [someone](/post/someone/)" 指某人特有的东西或特点。
 
 ## 例句
-- 形容词: "Her singing voice is so unique that it's easily recognizable."
-- 名词: "This is a unique opportunity you shouldn't miss."
+- 形容词: "[Her](/post/her/) singing [voice](/post/voice/) is [so](/post/so/) [unique](/post/unique/) [that](/post/that/) it's [easily](/post/easily/) recognizable."
+- 名词: "[This](/post/this/) is [a](/post/a/) [unique](/post/unique/) [opportunity](/post/opportunity/) [you](/post/you/) shouldn't [miss](/post/miss/)."
 
 ## 同义词
 - Distinctive
 - Unmatched
 - Incomparable
 - Exclusive
-- Odd
+- [Odd](/post/odd/)

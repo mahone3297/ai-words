@@ -11,20 +11,20 @@ keywords = ['ai words', 'rigid']
 /ˈrɪdʒɪd/
 
 ## 释义
-- **形容词**: 坚硬的；刚性的；不灵活的。例如: "The metal frame is rigid and won't bend easily."
-- **副词**: 刚硬地；坚定地。例如: "He stood rigid with fear."
+- **形容词**: 坚硬的；刚性的；不灵活的。例如: "[The](/post/the/) [metal](/post/metal/) [frame](/post/frame/) is [rigid](/post/rigid/) [and](/post/and/) won't [bend](/post/bend/) [easily](/post/easily/)."
+- **副词**: 刚硬地；坚定地。例如: "[He](/post/he/) stood [rigid](/post/rigid/) [with](/post/with/) [fear](/post/fear/)."
 
 ## 短语
-- "rigid structure" 指坚硬不变形的结构。
+- "[rigid](/post/rigid/) [structure](/post/structure/)" 指坚硬不变形的结构。
 - "rigidly enforced rules" 指严格执行的规定。
 
 ## 例句
-- 形容词: "The robot's arms are made of a rigid material to ensure precise movements."
-- 副词: "She held her posture rigidly during the entire performance."
+- 形容词: "[The](/post/the/) robot's arms are made [of](/post/of/) [a](/post/a/) [rigid](/post/rigid/) [material](/post/material/) [to](/post/to/) [ensure](/post/ensure/) [precise](/post/precise/) movements."
+- 副词: "[She](/post/she/) held [her](/post/her/) posture rigidly [during](/post/during/) [the](/post/the/) [entire](/post/entire/) [performance](/post/performance/)."
 
 ## 同义词
 - inflexible
-- stiff
+- [stiff](/post/stiff/)
 - unyielding
 - immovable
 - unflexible

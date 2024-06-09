@@ -7,33 +7,33 @@ description = '[kənˈviːnjənt] a.便利的；近便的'
 keywords = ['ai words', 'convenient']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /kənˈviːniənt/
 
 ## Definitions
-- **Adjective**: Easy to use or do; suitable or appropriate for a particular purpose. For example: "The apartment is conveniently located near the subway."
-- **Adverb**: In a convenient manner; suitably or conveniently. For example: "She finished her work conveniently early."
+- **[Adjective](/en/post/adjective/)**: [Easy](/en/post/easy/) [to](/en/post/to/) [use](/en/post/use/) [or](/en/post/or/) [do](/en/post/do/); [suitable](/en/post/suitable/) [or](/en/post/or/) [appropriate](/en/post/appropriate/) [for](/en/post/for/) [a](/en/post/a/) [particular](/en/post/particular/) [purpose](/en/post/purpose/). [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [apartment](/en/post/apartment/) is conveniently located [near](/en/post/near/) [the](/en/post/the/) subway."
+- **[Adverb](/en/post/adverb/)**: [In](/en/post/in/) [a](/en/post/a/) [convenient](/en/post/convenient/) [manner](/en/post/manner/); suitably [or](/en/post/or/) conveniently. [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) finished [her](/en/post/her/) [work](/en/post/work/) conveniently [early](/en/post/early/)."
 
 ## Phrases
-- "Conveniently situated" describes a location that is advantageous.
-- "It's convenient for both of us" means it works well for both parties.
-- "A convenient time" refers to a suitable or agreeable moment.
+- "Conveniently situated" describes [a](/en/post/a/) [location](/en/post/location/) [that](/en/post/that/) is advantageous.
+- "It's [convenient](/en/post/convenient/) [for](/en/post/for/) [both](/en/post/both/) [of](/en/post/of/) [us](/en/post/us/)" [means](/en/post/means/) [it](/en/post/it/) works [well](/en/post/well/) [for](/en/post/for/) [both](/en/post/both/) parties.
+- "[A](/en/post/a/) [convenient](/en/post/convenient/) [time](/en/post/time/)" refers [to](/en/post/to/) [a](/en/post/a/) [suitable](/en/post/suitable/) [or](/en/post/or/) agreeable [moment](/en/post/moment/).
 
-## Example Sentences
-- **Adjective**: "The store has a convenient parking lot for customers."
-- **Adverb**: "I'll meet you at a convenient spot after work."
-- "The app is designed with user convenience in mind."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) [store](/en/post/store/) has [a](/en/post/a/) [convenient](/en/post/convenient/) parking [lot](/en/post/lot/) [for](/en/post/for/) customers."
+- **[Adverb](/en/post/adverb/)**: "I'll [meet](/en/post/meet/) [you](/en/post/you/) [at](/en/post/at/) [a](/en/post/a/) [convenient](/en/post/convenient/) [spot](/en/post/spot/) [after](/en/post/after/) [work](/en/post/work/)."
+- "[The](/en/post/the/) app is designed [with](/en/post/with/) [user](/en/post/user/) [convenience](/en/post/convenience/) [in](/en/post/in/) [mind](/en/post/mind/)."
 
 ## Synonyms
-- Handy
+- [Handy](/en/post/handy/)
 - Facile
-- Practical
+- [Practical](/en/post/practical/)
 - Accessible
 - Conveniently
 
 ## Antonyms
 - Inconvenient
-- Difficult
+- [Difficult](/en/post/difficult/)
 - Unconvenient
-- Tedious
-- Complicated
+- [Tedious](/en/post/tedious/)
+- [Complicated](/en/post/complicated/)

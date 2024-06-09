@@ -12,24 +12,24 @@ keywords = ['ai words', 'bridge']
 
 ## 释义
 - **名词 n**:
-  1. 桥：A structure that spans a river or other obstacle and provides a passage across it. 例如: "The city's oldest bridge was built in the 18th century."
-  2. 桥牌游戏：A card game played by four players in two partnerships. 例如: "They enjoy playing bridge on weekends."
+  1. 桥：[A](/post/a/) [structure](/post/structure/) [that](/post/that/) spans [a](/post/a/) [river](/post/river/) [or](/post/or/) [other](/post/other/) [obstacle](/post/obstacle/) [and](/post/and/) provides [a](/post/a/) [passage](/post/passage/) [across](/post/across/) [it](/post/it/). 例如: "[The](/post/the/) city's oldest [bridge](/post/bridge/) was built [in](/post/in/) [the](/post/the/) 18th [century](/post/century/)."
+  2. 桥牌游戏：[A](/post/a/) [card](/post/card/) [game](/post/game/) played [by](/post/by/) [four](/post/four/) players [in](/post/in/) [two](/post/two/) partnerships. 例如: "[They](/post/they/) [enjoy](/post/enjoy/) playing [bridge](/post/bridge/) [on](/post/on/) weekends."
 
 - **动词 v**:
-  1. 建桥：To construct a bridge. 例如: "Engineers are working on bridging the gap between the two cliffs."
-  2. 沟通：To connect or link two things together. 例如: "Her speech aimed to bridge the cultural divide between the communities."
+  1. 建桥：[To](/post/to/) [construct](/post/construct/) [a](/post/a/) [bridge](/post/bridge/). 例如: "Engineers are working [on](/post/on/) bridging [the](/post/the/) [gap](/post/gap/) [between](/post/between/) [the](/post/the/) [two](/post/two/) cliffs."
+  2. 沟通：[To](/post/to/) [connect](/post/connect/) [or](/post/or/) [link](/post/link/) [two](/post/two/) things [together](/post/together/). 例如: "[Her](/post/her/) [speech](/post/speech/) aimed [to](/post/to/) [bridge](/post/bridge/) [the](/post/the/) cultural [divide](/post/divide/) [between](/post/between/) [the](/post/the/) communities."
 
 ## 短语
-- "Bridge the gap" 意味着弥合差距或连接两个事物。例如: "New technology is helping to bridge the digital divide in rural areas."
-- "Bridge loan" 是一种短期贷款，用于在购买新财产前填补资金缺口。例如: "We took out a bridge loan to cover the down payment on our new house."
+- "[Bridge](/post/bridge/) [the](/post/the/) [gap](/post/gap/)" 意味着弥合差距或连接两个事物。例如: "[New](/post/new/) [technology](/post/technology/) is helping [to](/post/to/) [bridge](/post/bridge/) [the](/post/the/) [digital](/post/digital/) [divide](/post/divide/) [in](/post/in/) [rural](/post/rural/) areas."
+- "[Bridge](/post/bridge/) [loan](/post/loan/)" 是一种短期贷款，用于在购买新财产前填补资金缺口。例如: "[We](/post/we/) took [out](/post/out/) [a](/post/a/) [bridge](/post/bridge/) [loan](/post/loan/) [to](/post/to/) [cover](/post/cover/) [the](/post/the/) [down](/post/down/) [payment](/post/payment/) [on](/post/on/) [our](/post/our/) [new](/post/new/) [house](/post/house/)."
 
 ## 例句
-- 名词: "The ancient stone bridge was a marvel of engineering."
-- 动词: "The project aims to bridge the economic disparities between urban and rural regions."
+- 名词: "[The](/post/the/) [ancient](/post/ancient/) [stone](/post/stone/) [bridge](/post/bridge/) was [a](/post/a/) marvel [of](/post/of/) [engineering](/post/engineering/)."
+- 动词: "[The](/post/the/) [project](/post/project/) aims [to](/post/to/) [bridge](/post/bridge/) [the](/post/the/) [economic](/post/economic/) disparities [between](/post/between/) urban [and](/post/and/) [rural](/post/rural/) regions."
 
 ## 同义词
-- Link
-- Connection
-- Passage
-- Span
+- [Link](/post/link/)
+- [Connection](/post/connection/)
+- [Passage](/post/passage/)
+- [Span](/post/span/)
 - Connector

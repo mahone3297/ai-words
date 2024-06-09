@@ -7,39 +7,39 @@ description = '[prəˈvaid] vt.提供；装备，供给'
 keywords = ['ai words', 'provide']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /prəˈvaɪd/
 
 ## Definitions
-### Verb
-- **Noun**: A noun referring to the action of giving or supplying something, typically something required or needed. For example: "The company is asked to provide financial assistance."
-- **Verb**: To supply or make available; furnish. For example: "Please provide a copy of the report by tomorrow."
-- **Verb**: To give evidence or testimony; offer information. For example: "She provided crucial details about the crime."
+### [Verb](/en/post/verb/)
+- **[Noun](/en/post/noun/)**: [A](/en/post/a/) [noun](/en/post/noun/) referring [to](/en/post/to/) [the](/en/post/the/) [action](/en/post/action/) [of](/en/post/of/) giving [or](/en/post/or/) supplying [something](/en/post/something/), typically [something](/en/post/something/) required [or](/en/post/or/) needed. [For](/en/post/for/) [example](/en/post/example/): "[The](/en/post/the/) [company](/en/post/company/) is asked [to](/en/post/to/) [provide](/en/post/provide/) [financial](/en/post/financial/) assistance."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [supply](/en/post/supply/) [or](/en/post/or/) [make](/en/post/make/) [available](/en/post/available/); [furnish](/en/post/furnish/). [For](/en/post/for/) [example](/en/post/example/): "[Please](/en/post/please/) [provide](/en/post/provide/) [a](/en/post/a/) [copy](/en/post/copy/) [of](/en/post/of/) [the](/en/post/the/) [report](/en/post/report/) [by](/en/post/by/) [tomorrow](/en/post/tomorrow/)."
+- **[Verb](/en/post/verb/)**: [To](/en/post/to/) [give](/en/post/give/) [evidence](/en/post/evidence/) [or](/en/post/or/) testimony; [offer](/en/post/offer/) [information](/en/post/information/). [For](/en/post/for/) [example](/en/post/example/): "[She](/en/post/she/) [provided](/en/post/provided/) crucial details [about](/en/post/about/) [the](/en/post/the/) [crime](/en/post/crime/)."
 
 ## Phrases
-- "Provide for" means to arrange or ensure the supply of something necessary.
-- "Provide shelter" is a common expression for offering a place to live.
-- "Provide an answer" means to give a response or solution.
+- "[Provide](/en/post/provide/) [for](/en/post/for/)" [means](/en/post/means/) [to](/en/post/to/) [arrange](/en/post/arrange/) [or](/en/post/or/) [ensure](/en/post/ensure/) [the](/en/post/the/) [supply](/en/post/supply/) [of](/en/post/of/) [something](/en/post/something/) [necessary](/en/post/necessary/).
+- "[Provide](/en/post/provide/) [shelter](/en/post/shelter/)" is [a](/en/post/a/) [common](/en/post/common/) [expression](/en/post/expression/) [for](/en/post/for/) offering [a](/en/post/a/) [place](/en/post/place/) [to](/en/post/to/) [live](/en/post/live/).
+- "[Provide](/en/post/provide/) an [answer](/en/post/answer/)" [means](/en/post/means/) [to](/en/post/to/) [give](/en/post/give/) [a](/en/post/a/) [response](/en/post/response/) [or](/en/post/or/) [solution](/en/post/solution/).
 
-## Example Sentences
-- **Noun**: "The hotel offers various amenities to provide guests with comfort."
-- **Verb**: "The organization provides free education to underprivileged children."
-- **Verb**: "The witness provided a sworn statement regarding the incident."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[The](/en/post/the/) [hotel](/en/post/hotel/) offers [various](/en/post/various/) amenities [to](/en/post/to/) [provide](/en/post/provide/) guests [with](/en/post/with/) [comfort](/en/post/comfort/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [organization](/en/post/organization/) provides [free](/en/post/free/) [education](/en/post/education/) [to](/en/post/to/) underprivileged children."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [witness](/en/post/witness/) [provided](/en/post/provided/) [a](/en/post/a/) sworn [statement](/en/post/statement/) [regarding](/en/post/regarding/) [the](/en/post/the/) [incident](/en/post/incident/)."
 
 ## Synonyms
-- Supply
-- Offer
-- Furnish
-- Give
-- Supply
-- Supply
-- Yield
-- Contribute
-- Present
+- [Supply](/en/post/supply/)
+- [Offer](/en/post/offer/)
+- [Furnish](/en/post/furnish/)
+- [Give](/en/post/give/)
+- [Supply](/en/post/supply/)
+- [Supply](/en/post/supply/)
+- [Yield](/en/post/yield/)
+- [Contribute](/en/post/contribute/)
+- [Present](/en/post/present/)
 
 ## Antonyms
 - Withhold
-- Deny
+- [Deny](/en/post/deny/)
 - Deprive
-- Restrict
-- Withdraw
+- [Restrict](/en/post/restrict/)
+- [Withdraw](/en/post/withdraw/)

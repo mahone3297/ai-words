@@ -14,16 +14,16 @@ keywords = ['ai words', 'hillside']
 - **名词**: 山坡；山脚。指的是山的斜坡或者山与平地相接的地方。
 
 ## 短语
-- "on the hillside" 在山坡上
-- "hillside vineyards" 山坡葡萄园
+- "[on](/post/on/) [the](/post/the/) [hillside](/post/hillside/)" 在山坡上
+- "[hillside](/post/hillside/) vineyards" 山坡葡萄园
 
 ## 例句
-- "The house is nestled on a peaceful hillside overlooking the valley."
-- "We went for a hike along the scenic hillside trails."
-- "The hillside was covered in blooming wildflowers during spring."
+- "[The](/post/the/) [house](/post/house/) is nestled [on](/post/on/) [a](/post/a/) [peaceful](/post/peaceful/) [hillside](/post/hillside/) overlooking [the](/post/the/) [valley](/post/valley/)."
+- "[We](/post/we/) went [for](/post/for/) [a](/post/a/) hike [along](/post/along/) [the](/post/the/) scenic [hillside](/post/hillside/) trails."
+- "[The](/post/the/) [hillside](/post/hillside/) was covered [in](/post/in/) blooming wildflowers [during](/post/during/) [spring](/post/spring/)."
 
 ## 同义词
-- Slope
+- [Slope](/post/slope/)
 - Mountainside
 -崖边
 - Ridgetop

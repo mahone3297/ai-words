@@ -7,47 +7,47 @@ description = '[əˈtend] vt.出席；照顾，护理'
 keywords = ['ai words', 'attend']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /əˈtend/
 
 ## Definitions
-### Noun
-1. The act of being present or in attendance at an event or place. "She was an attentive audience at the lecture."
-2. A person who is present or participating in an activity. "The attendees at the conference were from various industries."
+### [Noun](/en/post/noun/)
+1. [The](/en/post/the/) [act](/en/post/act/) [of](/en/post/of/) [being](/en/post/being/) [present](/en/post/present/) [or](/en/post/or/) [in](/en/post/in/) attendance [at](/en/post/at/) an [event](/en/post/event/) [or](/en/post/or/) [place](/en/post/place/). "[She](/en/post/she/) was an [attentive](/en/post/attentive/) [audience](/en/post/audience/) [at](/en/post/at/) [the](/en/post/the/) [lecture](/en/post/lecture/)."
+2. [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is [present](/en/post/present/) [or](/en/post/or/) participating [in](/en/post/in/) an [activity](/en/post/activity/). "[The](/en/post/the/) attendees [at](/en/post/at/) [the](/en/post/the/) [conference](/en/post/conference/) were [from](/en/post/from/) [various](/en/post/various/) industries."
 
-### Verb
-1. To go or come to a particular place in order to be present or participate. "I'll attend the meeting tomorrow morning."
-2. To give one's attention or presence to something. "Please attend to your studies."
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [go](/en/post/go/) [or](/en/post/or/) [come](/en/post/come/) [to](/en/post/to/) [a](/en/post/a/) [particular](/en/post/particular/) [place](/en/post/place/) [in](/en/post/in/) [order](/en/post/order/) [to](/en/post/to/) [be](/en/post/be/) [present](/en/post/present/) [or](/en/post/or/) [participate](/en/post/participate/). "I'll [attend](/en/post/attend/) [the](/en/post/the/) [meeting](/en/post/meeting/) [tomorrow](/en/post/tomorrow/) [morning](/en/post/morning/)."
+2. [To](/en/post/to/) [give](/en/post/give/) one's [attention](/en/post/attention/) [or](/en/post/or/) [presence](/en/post/presence/) [to](/en/post/to/) [something](/en/post/something/). "[Please](/en/post/please/) [attend](/en/post/attend/) [to](/en/post/to/) [your](/en/post/your/) studies."
 
-### Adjective
-1. Showing respect or interest; attentive. "His attentive gaze showed he was listening carefully."
-2. Required or necessary to be present. "The meeting is mandatory for all attendees."
+### [Adjective](/en/post/adjective/)
+1. Showing [respect](/en/post/respect/) [or](/en/post/or/) [interest](/en/post/interest/); [attentive](/en/post/attentive/). "[His](/en/post/his/) [attentive](/en/post/attentive/) [gaze](/en/post/gaze/) showed [he](/en/post/he/) was listening carefully."
+2. Required [or](/en/post/or/) [necessary](/en/post/necessary/) [to](/en/post/to/) [be](/en/post/be/) [present](/en/post/present/). "[The](/en/post/the/) [meeting](/en/post/meeting/) is mandatory [for](/en/post/for/) [all](/en/post/all/) attendees."
 
-### Adverb
-1. In a manner that shows respect or attention. "She attended the concert with great enthusiasm."
+### [Adverb](/en/post/adverb/)
+1. [In](/en/post/in/) [a](/en/post/a/) [manner](/en/post/manner/) [that](/en/post/that/) shows [respect](/en/post/respect/) [or](/en/post/or/) [attention](/en/post/attention/). "[She](/en/post/she/) attended [the](/en/post/the/) [concert](/en/post/concert/) [with](/en/post/with/) [great](/en/post/great/) [enthusiasm](/en/post/enthusiasm/)."
 
 ## Phrases
-- "Attend to" means to pay attention to or deal with something.
-- "Attend school" is a common expression for going to classes regularly.
-- "In attendance" signifies that someone is present at an event.
+- "[Attend](/en/post/attend/) [to](/en/post/to/)" [means](/en/post/means/) [to](/en/post/to/) [pay](/en/post/pay/) [attention](/en/post/attention/) [to](/en/post/to/) [or](/en/post/or/) [deal](/en/post/deal/) [with](/en/post/with/) [something](/en/post/something/).
+- "[Attend](/en/post/attend/) [school](/en/post/school/)" is [a](/en/post/a/) [common](/en/post/common/) [expression](/en/post/expression/) [for](/en/post/for/) going [to](/en/post/to/) classes [regularly](/en/post/regularly/).
+- "[In](/en/post/in/) attendance" signifies [that](/en/post/that/) [someone](/en/post/someone/) is [present](/en/post/present/) [at](/en/post/at/) an [event](/en/post/event/).
 
-## Example Sentences
-- **Noun**: "All the students were attentively attending the class."
-- **Verb**: "Please make sure to attend the training session on time."
-- **Adjective**: "Her careful attention to detail made her an invaluable team member."
-- **Adverb**: "He always attends the meetings promptly."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[All](/en/post/all/) [the](/en/post/the/) students were attentively attending [the](/en/post/the/) [class](/en/post/class/)."
+- **[Verb](/en/post/verb/)**: "[Please](/en/post/please/) [make](/en/post/make/) [sure](/en/post/sure/) [to](/en/post/to/) [attend](/en/post/attend/) [the](/en/post/the/) [training](/en/post/training/) [session](/en/post/session/) [on](/en/post/on/) [time](/en/post/time/)."
+- **[Adjective](/en/post/adjective/)**: "[Her](/en/post/her/) [careful](/en/post/careful/) [attention](/en/post/attention/) [to](/en/post/to/) [detail](/en/post/detail/) made [her](/en/post/her/) an invaluable [team](/en/post/team/) [member](/en/post/member/)."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) [always](/en/post/always/) attends [the](/en/post/the/) meetings promptly."
 
 ## Synonyms
-- Present
-- Present oneself
-- Join
-- Attend to
-- Participate
+- [Present](/en/post/present/)
+- [Present](/en/post/present/) [oneself](/en/post/oneself/)
+- [Join](/en/post/join/)
+- [Attend](/en/post/attend/) [to](/en/post/to/)
+- [Participate](/en/post/participate/)
 - Convene
-- Be present
-- Show up
-- Engage
+- [Be](/en/post/be/) [present](/en/post/present/)
+- [Show](/en/post/show/) [up](/en/post/up/)
+- [Engage](/en/post/engage/)
 
 ---
 
-Note: The adverb form "attentively" is not listed as a separate entry, as it is derived from the adjective "attentive." If you need a separate entry for the adverb, please let me know.
+[Note](/en/post/note/): [The](/en/post/the/) [adverb](/en/post/adverb/) [form](/en/post/form/) "attentively" is [not](/en/post/not/) listed [as](/en/post/as/) [a](/en/post/a/) [separate](/en/post/separate/) [entry](/en/post/entry/), [as](/en/post/as/) [it](/en/post/it/) is derived [from](/en/post/from/) [the](/en/post/the/) [adjective](/en/post/adjective/) "[attentive](/en/post/attentive/)." [If](/en/post/if/) [you](/en/post/you/) [need](/en/post/need/) [a](/en/post/a/) [separate](/en/post/separate/) [entry](/en/post/entry/) [for](/en/post/for/) [the](/en/post/the/) [adverb](/en/post/adverb/), [please](/en/post/please/) [let](/en/post/let/) [me](/en/post/me/) [know](/en/post/know/).

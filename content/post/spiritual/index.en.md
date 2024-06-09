@@ -7,44 +7,44 @@ description = '[ˈspiritjuəl] a.精神的，心灵的'
 keywords = ['ai words', 'spiritual']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /spɪˈrɪtʃuəl/
 
 ## Definitions
-### Noun
-1. **Spiritual**: Referring to matters of the soul, religion, or a higher power, often involving inner growth, enlightenment, or connection with something transcendent.
-   - Definition: A state of mind characterized by deep spirituality or devotion.
-   - Example: "The retreat focused on fostering a spiritual connection with nature."
+### [Noun](/en/post/noun/)
+1. **[Spiritual](/en/post/spiritual/)**: Referring [to](/en/post/to/) matters [of](/en/post/of/) [the](/en/post/the/) [soul](/en/post/soul/), [religion](/en/post/religion/), [or](/en/post/or/) [a](/en/post/a/) higher [power](/en/post/power/), [often](/en/post/often/) involving [inner](/en/post/inner/) [growth](/en/post/growth/), enlightenment, [or](/en/post/or/) [connection](/en/post/connection/) [with](/en/post/with/) [something](/en/post/something/) transcendent.
+   - [Definition](/en/post/definition/): [A](/en/post/a/) [state](/en/post/state/) [of](/en/post/of/) [mind](/en/post/mind/) characterized [by](/en/post/by/) [deep](/en/post/deep/) spirituality [or](/en/post/or/) devotion.
+   - [Example](/en/post/example/): "[The](/en/post/the/) [retreat](/en/post/retreat/) focused [on](/en/post/on/) fostering [a](/en/post/a/) [spiritual](/en/post/spiritual/) [connection](/en/post/connection/) [with](/en/post/with/) [nature](/en/post/nature/)."
 
-2. **Spirituality**: The quality or state of being spiritual; a sense of meaning or purpose in life.
-   - Definition: The belief in a higher power or the search for deeper meaning beyond material things.
-   - Example: "Her daily meditation practice was integral to her spiritual journey."
+2. **Spirituality**: [The](/en/post/the/) [quality](/en/post/quality/) [or](/en/post/or/) [state](/en/post/state/) [of](/en/post/of/) [being](/en/post/being/) [spiritual](/en/post/spiritual/); [a](/en/post/a/) [sense](/en/post/sense/) [of](/en/post/of/) [meaning](/en/post/meaning/) [or](/en/post/or/) [purpose](/en/post/purpose/) [in](/en/post/in/) [life](/en/post/life/).
+   - [Definition](/en/post/definition/): [The](/en/post/the/) [belief](/en/post/belief/) [in](/en/post/in/) [a](/en/post/a/) higher [power](/en/post/power/) [or](/en/post/or/) [the](/en/post/the/) [search](/en/post/search/) [for](/en/post/for/) deeper [meaning](/en/post/meaning/) [beyond](/en/post/beyond/) [material](/en/post/material/) things.
+   - [Example](/en/post/example/): "[Her](/en/post/her/) [daily](/en/post/daily/) meditation [practice](/en/post/practice/) was integral [to](/en/post/to/) [her](/en/post/her/) [spiritual](/en/post/spiritual/) [journey](/en/post/journey/)."
 
-### Verb
-1. To engage in spiritual practices or discussions.
-   - Example: "She spends time each day spiritualizing through meditation."
+### [Verb](/en/post/verb/)
+1. [To](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) [spiritual](/en/post/spiritual/) practices [or](/en/post/or/) discussions.
+   - [Example](/en/post/example/): "[She](/en/post/she/) spends [time](/en/post/time/) [each](/en/post/each/) [day](/en/post/day/) spiritualizing [through](/en/post/through/) meditation."
 
-### Adjective
-1. Relating to the spirit or soul; not material or physical.
-   - Example: "A spiritually uplifting book that inspires personal growth."
+### [Adjective](/en/post/adjective/)
+1. Relating [to](/en/post/to/) [the](/en/post/the/) [spirit](/en/post/spirit/) [or](/en/post/or/) [soul](/en/post/soul/); [not](/en/post/not/) [material](/en/post/material/) [or](/en/post/or/) [physical](/en/post/physical/).
+   - [Example](/en/post/example/): "[A](/en/post/a/) spiritually uplifting [book](/en/post/book/) [that](/en/post/that/) inspires [personal](/en/post/personal/) [growth](/en/post/growth/)."
 
-### Adverb
-1. In a spiritual manner or according to spiritual principles.
-   - Example: "He approached the situation spiritually, seeking inner peace."
+### [Adverb](/en/post/adverb/)
+1. [In](/en/post/in/) [a](/en/post/a/) [spiritual](/en/post/spiritual/) [manner](/en/post/manner/) [or](/en/post/or/) according [to](/en/post/to/) [spiritual](/en/post/spiritual/) principles.
+   - [Example](/en/post/example/): "[He](/en/post/he/) approached [the](/en/post/the/) [situation](/en/post/situation/) spiritually, seeking [inner](/en/post/inner/) [peace](/en/post/peace/)."
 
 ## Phrases
-- "Practice spiritual disciplines" means to engage in rituals or exercises aimed at improving one's spirituality.
-- "A spiritual awakening" refers to a profound realization or transformation in one's spiritual beliefs.
-- "Seeking spiritual guidance" means looking for advice or support in one's spiritual journey.
+- "[Practice](/en/post/practice/) [spiritual](/en/post/spiritual/) disciplines" [means](/en/post/means/) [to](/en/post/to/) [engage](/en/post/engage/) [in](/en/post/in/) rituals [or](/en/post/or/) exercises aimed [at](/en/post/at/) improving one's spirituality.
+- "[A](/en/post/a/) [spiritual](/en/post/spiritual/) awakening" refers [to](/en/post/to/) [a](/en/post/a/) profound realization [or](/en/post/or/) [transformation](/en/post/transformation/) [in](/en/post/in/) one's [spiritual](/en/post/spiritual/) beliefs.
+- "Seeking [spiritual](/en/post/spiritual/) [guidance](/en/post/guidance/)" [means](/en/post/means/) looking [for](/en/post/for/) [advice](/en/post/advice/) [or](/en/post/or/) [support](/en/post/support/) [in](/en/post/in/) one's [spiritual](/en/post/spiritual/) [journey](/en/post/journey/).
 
-## Example Sentences
-- **Noun**: "She found solace in her spiritual retreat after a difficult period."
-- **Verb**: "The community gathers weekly for spiritual discussions and reflection."
-- **Adjective**: "The serene garden provided a peaceful spiritual haven."
-- **Adverb**: "He lived his life spiritually, prioritizing inner peace over external achievements."
+## [Example](/en/post/example/) Sentences
+- **[Noun](/en/post/noun/)**: "[She](/en/post/she/) [found](/en/post/found/) solace [in](/en/post/in/) [her](/en/post/her/) [spiritual](/en/post/spiritual/) [retreat](/en/post/retreat/) [after](/en/post/after/) [a](/en/post/a/) [difficult](/en/post/difficult/) [period](/en/post/period/)."
+- **[Verb](/en/post/verb/)**: "[The](/en/post/the/) [community](/en/post/community/) gathers [weekly](/en/post/weekly/) [for](/en/post/for/) [spiritual](/en/post/spiritual/) discussions [and](/en/post/and/) [reflection](/en/post/reflection/)."
+- **[Adjective](/en/post/adjective/)**: "[The](/en/post/the/) serene [garden](/en/post/garden/) [provided](/en/post/provided/) [a](/en/post/a/) [peaceful](/en/post/peaceful/) [spiritual](/en/post/spiritual/) haven."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) lived [his](/en/post/his/) [life](/en/post/life/) spiritually, prioritizing [inner](/en/post/inner/) [peace](/en/post/peace/) [over](/en/post/over/) [external](/en/post/external/) achievements."
 
 ## Synonyms
-- Religious
+- [Religious](/en/post/religious/)
 - Mystical
 - Esoteric
 - Transcendent

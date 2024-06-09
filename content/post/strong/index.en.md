@@ -7,38 +7,38 @@ description = '[strɔŋ] a.强壮的；擅长的'
 keywords = ['ai words', 'strong']
 +++
 
-## Pronunciation
+## [Pronunciation](/en/post/pronunciation/)
 /strəŋ/
 
 ## Definitions
-- **Adjective**: 1. Having a great deal of power, force, or ability; capable of withstanding pressure or adversity. Example: "The tree had a strong trunk."
-   - **Noun**: A person who is physically or mentally powerful. Example: "He's a strong swimmer."
-   - **Adverb**: With great intensity or vigor. Example: "She works strong all day."
+- **[Adjective](/en/post/adjective/)**: 1. Having [a](/en/post/a/) [great](/en/post/great/) [deal](/en/post/deal/) [of](/en/post/of/) [power](/en/post/power/), [force](/en/post/force/), [or](/en/post/or/) [ability](/en/post/ability/); [capable](/en/post/capable/) [of](/en/post/of/) withstanding [pressure](/en/post/pressure/) [or](/en/post/or/) adversity. [Example](/en/post/example/): "[The](/en/post/the/) [tree](/en/post/tree/) had [a](/en/post/a/) [strong](/en/post/strong/) [trunk](/en/post/trunk/)."
+   - **[Noun](/en/post/noun/)**: [A](/en/post/a/) [person](/en/post/person/) [who](/en/post/who/) is physically [or](/en/post/or/) mentally [powerful](/en/post/powerful/). [Example](/en/post/example/): "He's [a](/en/post/a/) [strong](/en/post/strong/) swimmer."
+   - **[Adverb](/en/post/adverb/)**: [With](/en/post/with/) [great](/en/post/great/) [intensity](/en/post/intensity/) [or](/en/post/or/) vigor. [Example](/en/post/example/): "[She](/en/post/she/) works [strong](/en/post/strong/) [all](/en/post/all/) [day](/en/post/day/)."
 
 ## Phrases
-- "Strong coffee" refers to a highly concentrated brew.
-- "Strong resistance" means a powerful opposition.
-- "Strong bond" signifies a deep emotional connection.
+- "[Strong](/en/post/strong/) [coffee](/en/post/coffee/)" refers [to](/en/post/to/) [a](/en/post/a/) [highly](/en/post/highly/) concentrated brew.
+- "[Strong](/en/post/strong/) [resistance](/en/post/resistance/)" [means](/en/post/means/) [a](/en/post/a/) [powerful](/en/post/powerful/) opposition.
+- "[Strong](/en/post/strong/) [bond](/en/post/bond/)" signifies [a](/en/post/a/) [deep](/en/post/deep/) [emotional](/en/post/emotional/) [connection](/en/post/connection/).
 
-## Example Sentences
-- **Adjective (Physical strength)**: "He lifted the heavy box with ease due to his strong muscles."
-- **Adjective (Emotional resilience)**: "She maintained a strong sense of hope even in difficult times."
-- **Adverb**: "He worked strong through the entire project."
+## [Example](/en/post/example/) Sentences
+- **[Adjective](/en/post/adjective/) ([Physical](/en/post/physical/) [strength](/en/post/strength/))**: "[He](/en/post/he/) lifted [the](/en/post/the/) [heavy](/en/post/heavy/) [box](/en/post/box/) [with](/en/post/with/) [ease](/en/post/ease/) [due](/en/post/due/) [to](/en/post/to/) [his](/en/post/his/) [strong](/en/post/strong/) muscles."
+- **[Adjective](/en/post/adjective/) ([Emotional](/en/post/emotional/) resilience)**: "[She](/en/post/she/) maintained [a](/en/post/a/) [strong](/en/post/strong/) [sense](/en/post/sense/) [of](/en/post/of/) [hope](/en/post/hope/) [even](/en/post/even/) [in](/en/post/in/) [difficult](/en/post/difficult/) times."
+- **[Adverb](/en/post/adverb/)**: "[He](/en/post/he/) worked [strong](/en/post/strong/) [through](/en/post/through/) [the](/en/post/the/) [entire](/en/post/entire/) [project](/en/post/project/)."
 
 ## Synonyms
-- Powerful
+- [Powerful](/en/post/powerful/)
 - Robust
 - Sturdy
 - Mighty
-- Vigorous
+- [Vigorous](/en/post/vigorous/)
 - Resilient
 - Robust
-- Steady
+- [Steady](/en/post/steady/)
 
 ## Antonyms
-- Weak
+- [Weak](/en/post/weak/)
 - Fragile
-- Feeble
-- Insufficient
-- Gentle
-- Soft
+- [Feeble](/en/post/feeble/)
+- [Insufficient](/en/post/insufficient/)
+- [Gentle](/en/post/gentle/)
+- [Soft](/en/post/soft/)
