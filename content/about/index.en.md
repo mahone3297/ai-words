@@ -10,12 +10,12 @@ keywords = ['AI', 'AI Words', 'AI Dictionary']
 
 ## To-Do
 
-- [ ] Internal page links
 - [ ] Search box
 - [ ] Word pronunciation
 
 ## History
 
+- 2024-06-09 Launch with internal site links. Easy to read and good for SEO.
 - 2024-06-08 Enriched words for CET4, English version, 4k+ words
 - 2024-06-07 Enriched words for CET4, English version, 1k+ words
 - 2024-06-06 Enriched words for CET4, Chinese version, 4k+ words
