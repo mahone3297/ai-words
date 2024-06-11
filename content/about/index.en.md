@@ -11,6 +11,7 @@ keywords = ['AI', 'AI Words', 'AI Dictionary']
 ## To-Do
 
 - [ ] Search box
+- [ ] add hover card on word
 - [ ] Word pronunciation
 
 ## History
